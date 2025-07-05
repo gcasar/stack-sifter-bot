@@ -48,7 +48,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin data-run-information || git checkout -b data-run-information
-          git checkout data-run-information || git checkout -b data-run-information
+          git checkout -B data-run-information origin/data-run-information || git checkout -b data-run-information
           git add last-run.txt
           git commit -m "chore: update last run timestamp [skip ci]" || echo "No changes to commit"
           git push origin data-run-information

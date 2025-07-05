@@ -30,6 +30,7 @@ jobs:
       - name: Run StackSifter
         run: |
           # Try to checkout last-run.txt from the remote branch without switching
+          git fetch origin data-run-information
           git checkout origin/data-run-information -- last-run.txt || true
           if [ -f last-run.txt ]; then
             PREV=$(cat last-run.txt)
@@ -51,7 +52,6 @@ jobs:
           echo "$NOW" > last-run.txt
           git add last-run.txt
           git commit -m "chore: update last run timestamp [skip ci]" || echo "No changes to commit"
-          git pull --rebase origin data-run-information || true
-          git push origin data-run-information
+          git pull --rebase origin data-run-information || t push origin data-run-information
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

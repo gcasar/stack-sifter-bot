@@ -1,5 +1,14 @@
 # stack-sifter
-Follows Stack Overflow RSS feeds to sift according to some LLM prompt. 
+Follows Stack Overflow RSS feeds to sift according to some LLM prompt. One of the usecases is to notify teams on Slack about a possible question on meta that they might be interested in.
+
+Imagine a person building a new feature adds a prompt describing it and the bot will gauge if a new bug report could be related to it. If it is, the bot will notify them via Slack.
+
+Supports:
+
+- [ ] Configurable prompts
+- [ ] Notifying on matching posts via Slack
+- [ ] Multiple conditions to notify on
+- [ ] Multiple teams to notify
 
 ## Guiding principles
 

@@ -52,7 +52,6 @@ jobs:
           echo "$NOW" > last-run.txt
           git add last-run.txt
           git commit -m "chore: update last run timestamp [skip ci]" || echo "No changes to commit"
-          git pull --rebase origin data-run-information || git push origin data-run-information
+          git pull --rebase origin data-run-information || true
+          git push origin data-run-information
           echo "Last run timestamp updated to: $NOW"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

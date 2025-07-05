@@ -34,7 +34,8 @@ public class StackOverflowRSSFeed : IPostsFeed
                 )
             )
             .ToList();
-        // Return in batches of 10 (or less if not enough)
-        return posts.Take(posts.Count / 10 * 10).ToList();
+
+        // Todo - batching
+        return posts;
     }
 }

@@ -10,7 +10,10 @@ public class WhenFetchingFromRssFeed
     {
         // Arrange
         var lastRun = new DateTime(2024, 7, 1, 0, 0, 0, DateTimeKind.Utc);
-        var service = new StackOverflowRSSFeed();
+        var resourceName = "StackSifter.Tests.TestData.meta_stackoverflow_feed.xml";
+        var handler = new MockHttpMessageHandler(resourceName);
+        var httpClient = new HttpClient(handler);
+        var service = new StackOverflowRSSFeed(httpClient);
 
         // Act
         var posts = await service.FetchPostsSinceAsync(lastRun);
@@ -28,9 +31,14 @@ public class WhenFetchingFromRssFeed
     private class MockHttpMessageHandler : HttpMessageHandler
     {
         private readonly string _responseContent;
-        public MockHttpMessageHandler(string responseContent)
+        public MockHttpMessageHandler(string resourceName)
         {
-            _responseContent = responseContent;
+            var assembly = typeof(WhenFetchingFromRssFeed).Assembly;
+            using var stream = assembly.GetManifestResourceStream(resourceName);
+            if (stream == null)
+                throw new InvalidOperationException($"Resource not found: {resourceName}");
+            using var reader = new StreamReader(stream);
+            _responseContent = reader.ReadToEnd();
         }
         protected override Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
         {

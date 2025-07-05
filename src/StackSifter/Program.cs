@@ -1,5 +1,6 @@
 ﻿using StackSifter.Feed;
 using StackSifter;
+using System.Text.Json;
 
 // Require UTC timestamp as argument
 if (args.Length == 0 || !DateTime.TryParse(args[0], null, System.Globalization.DateTimeStyles.AdjustToUniversal | System.Globalization.DateTimeStyles.AssumeUniversal, out var since))
@@ -16,14 +17,7 @@ var service = new PostsProcessingService(feed, sifter);
 
 // Run the actual processing
 var posts = await service.FetchAndFilterPostsAsync(since);
+var minimalPosts = posts.Select( p => new { Created=p.Published, p.Title, p.Tags }).ToList();
 
-// For now we simply echo the matches - and we only support a single matcher
-foreach (var post in posts)
-{
-    Console.WriteLine($"Created: [{post.Published:O}]\n Title: {post.Title}\nTags: {string.Join(", ", post.Tags)}\n");
-}
-
-if (!posts.Any())
-{
-    Console.WriteLine("No posts matched");
-}
+var json = JsonSerializer.Serialize(minimalPosts, new JsonSerializerOptions { WriteIndented = true });
+Console.WriteLine(json);

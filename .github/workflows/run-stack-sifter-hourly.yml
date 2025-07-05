@@ -28,6 +28,7 @@ jobs:
         run: dotnet build --configuration Release ./src/StackSifter/StackSifter.csproj
 
       - name: Run StackSifter
+        id: run_stack_sifter
         run: |
           # Try to checkout last-run.txt from the remote branch without switching
           git fetch origin data-run-information
@@ -39,7 +40,20 @@ jobs:
           fi
           # Optionally revert the file after use
           git restore last-run.txt || true
-          dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- "$PREV"
+
+          # Run and capture output to determine the last processed timestamp
+          OUTPUT=$(dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- "$PREV")
+          echo "$OUTPUT"
+
+          # Extract the last Created timestamp from the JSON output, or use PREV if no output
+            if [ "$(echo "$OUTPUT" | jq 'length')" -eq 0 ]; then
+            LAST_CREATED="$PREV"
+            echo "No posts found, keeping previous checked value $PREV"
+          else
+            LAST_CREATED=$(echo "$OUTPUT" | jq -r '.[-1].Created')
+          fi
+          echo "LAST_PROCESSED_TIMESTAMP=$LAST_CREATED" >> $GITHUB_ENV
+          echo "Last processed timestamp: $LAST_CREATED"
 
       - name: Persist last run information
         run: |
@@ -48,10 +62,9 @@ jobs:
           git fetch origin data-run-information || git checkout -b data-run-information
           git checkout -B data-run-information origin/data-run-information || git checkout -b data-run-information
           # Update last-run.txt and commit it to the data-run-information branch only
-          NOW=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
-          echo "$NOW" > last-run.txt
+          echo "$LAST_PROCESSED_TIMESTAMP" > last-run.txt
           git add last-run.txt
           git commit -m "chore: update last run timestamp [skip ci]" || echo "No changes to commit"
           git pull --rebase origin data-run-information || true
           git push origin data-run-information
-          echo "Last run timestamp updated to: $NOW"
+          echo "Last run timestamp updated to: $LAST_PROCESSED_TIMESTAMP"

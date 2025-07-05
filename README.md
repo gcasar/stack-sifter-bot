@@ -32,3 +32,4 @@ Anyone interested in Stack Overflow bots should check out https://stackoverflow.
 ## Possible follow-ups
 
 - Consider storing the last run timestamp using GitHub Actions Artifacts or by updating a comment on a dedicated issue, instead of committing a file to the repository. This can reduce repository noise and leverage GitHub infrastructure more effectively.
+- We might have a bug when tracking Published/Updated timestamps, as the current implementation only considers the Created timestamp. This could lead to missed updates if a post is edited after being published.

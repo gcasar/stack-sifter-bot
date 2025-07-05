@@ -29,22 +29,30 @@ jobs:
 
       - name: Run StackSifter
         run: |
+          # Fetch and checkout the data-run-information branch to get the latest last-run.txt
+          git fetch origin data-run-information:data-run-information || true
+          git checkout data-run-information || true
           if [ -f last-run.txt ]; then
             PREV=$(cat last-run.txt)
           else
             PREV=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           fi
           echo "Previous run: $PREV"
+          # Return to the original branch to run the application code
+          git checkout -
           dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- "$PREV"
 
       - name: Persist last run information
         run: |
+          # Update last-run.txt and commit it to the data-run-information branch only
           NOW=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           echo "$NOW" > last-run.txt
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin data-run-information || git checkout -b data-run-information
+          git checkout data-run-information || git checkout -b data-run-information
           git add last-run.txt
           git commit -m "chore: update last run timestamp [skip ci]" || echo "No changes to commit"
-          git push
+          git push origin data-run-information
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

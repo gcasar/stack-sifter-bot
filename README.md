@@ -28,3 +28,7 @@ Using of @docs or any alternative is likely out of scope, because of the nature 
 ## See also
 
 Anyone interested in Stack Overflow bots should check out https://stackoverflow.blog/2019/09/17/meet-the-bots-that-help-moderate-stack-overflow/
+
+## Possible follow-ups
+
+- Consider storing the last run timestamp using GitHub Actions Artifacts or by updating a comment on a dedicated issue, instead of committing a file to the repository. This can reduce repository noise and leverage GitHub infrastructure more effectively.

@@ -1,0 +1,17 @@
+{
+  "name": "C# Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:0-8.0",
+  "features": {
+    "ghcr.io/devcontainers/features/dotnet:1": {
+      "version": "8.0"
+    }
+  },
+  "postCreateCommand": "dotnet restore",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp"
+      ]
+    }
+  }
+}

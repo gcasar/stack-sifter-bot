@@ -1,0 +1,12 @@
+feeds:
+  - https://stackoverflow.com/feeds/tag?tagnames=c%23&sort=newest
+  - https://meta.stackoverflow.com/feeds
+poll_interval_minutes: 5
+rules:
+  - prompt: "Is this related to our new authentication system?"
+    notify:
+      - slack: "#auth-team"
+    tags: ["authentication", "login"]
+  - prompt: "Does this post mention our API v2?"
+    notify:
+      - slack: "#api-team"

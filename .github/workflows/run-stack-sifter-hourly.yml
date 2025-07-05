@@ -29,17 +29,15 @@ jobs:
 
       - name: Run StackSifter
         run: |
-          # Fetch and checkout the data-run-information branch to get the latest last-run.txt
-          git fetch origin data-run-information:data-run-information || true
-          git checkout data-run-information || true
+          # Try to checkout last-run.txt from the remote branch without switching
+          git checkout origin/data-run-information -- last-run.txt || true
           if [ -f last-run.txt ]; then
             PREV=$(cat last-run.txt)
           else
             PREV=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           fi
-          echo "Previous run: $PREV"
-          # Return to the original branch to run the application code
-          git checkout -
+          # Optionally revert the file after use
+          git restore last-run.txt || true
           dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- "$PREV"
 
       - name: Persist last run information

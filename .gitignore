@@ -7,7 +7,6 @@ obj/
 *.sln.docstates
 
 # Visual Studio Code
-.vscode/
 .history/
 
 # Build Results

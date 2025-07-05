@@ -25,4 +25,23 @@ jobs:
         run: dotnet build --configuration Release ./src/StackSifter/StackSifter.csproj
 
       - name: Run StackSifter
-        run: dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release
+        run: |
+          if [ -f last-run.txt ]; then
+            PREV=$(cat last-run.txt)
+          else
+            PREV=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          fi
+          echo "Previous run: $PREV"
+          dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- "$PREV"
+
+      - name: Persist last run information
+        run: |
+          NOW=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          echo "$NOW" > last-run.txt
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add last-run.txt
+          git commit -m "chore: update last run timestamp [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

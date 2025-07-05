@@ -5,12 +5,18 @@ using System.Net.Http;
 
 public class MetaStackOverflowFeedService : IFeedService
 {
+    private readonly HttpClient _httpClient;
+
+    public MetaStackOverflowFeedService(HttpClient? httpClient = null)
+    {
+        _httpClient = httpClient ?? new HttpClient();
+    }
+
     public async Task<List<Post>> FetchPostsSinceAsync(DateTime since)
     {
         var feedUrl = "https://meta.stackoverflow.com/feeds";
-        using var httpClient = new HttpClient();
-        httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("StackSifterBot/1.0 (+https://github.com/gcasar/stack-sifter)");
-        var xml = await httpClient.GetStringAsync(feedUrl);
+        _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("StackSifterBot/1.0 (+https://github.com/gcasar/stack-sifter)");
+        var xml = await _httpClient.GetStringAsync(feedUrl);
         // Replace problematic entities (e.g., &bull;) with safe equivalents
         xml = xml.Replace("&bull;", "•");
         // Add more replacements as needed for other entities

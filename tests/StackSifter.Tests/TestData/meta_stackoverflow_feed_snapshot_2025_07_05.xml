@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:re="http://purl.org/atompub/rank/1.0">
+    <title type="text">Recent Questions - Meta Stack Overflow</title>
+    <link rel="self" href="https://meta.stackoverflow.com/feeds" type="application/atom+xml" />
+    <link rel="alternate" href="https://meta.stackoverflow.com/questions" type="text/html" />
+    <subtitle>most recent 30 from meta.stackoverflow.com</subtitle>
+    <updated>2025-07-05T16:10:24Z</updated>
+    <id>https://meta.stackoverflow.com/feeds</id>
+    <creativeCommons:license>https://creativecommons.org/licenses/by-sa/4.0/rdf</creativeCommons:license> 
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434450</id>
+        <re:rank scheme="https://meta.stackoverflow.com">5</re:rank>
+        <title type="text">How can make my question more focused?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="specific-question" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="needs-more-focus" />
+        <author>
+            <name>hanshenrik</name>
+            <uri>https://meta.stackoverflow.com/users/1067003</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434450/how-can-make-my-question-more-focused" />
+        <published>2025-07-05T08:47:04Z</published>
+        <updated>2025-07-05T13:48:33Z</updated>
+        <summary type="html">
+            &lt;p&gt;This question was closed as &amp;quot;needs to be more focused&amp;quot;: &lt;a href=&quot;https://stackoverflow.com/questions/79688579/how-to-make-files-autosave-onfocuschange-permanent&quot;&gt;How to make &amp;quot;files.autoSave&amp;quot;: &amp;quot;onFocusChange&amp;quot; permanent?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;And I am confused. The question focuses on one specific issue, without deviation, as far as I see. How to make it more focused?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434449</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-10</re:rank>
+        <title type="text">How do i unlock the ability to post questions? [duplicate]</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="post-ban" />
+        <author>
+            <name>Nick</name>
+            <uri>https://meta.stackoverflow.com/users/26293556</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434449/how-do-i-unlock-the-ability-to-post-questions" />
+        <published>2025-07-04T19:08:51Z</published>
+        <updated>2025-07-04T20:50:26Z</updated>
+        <summary type="html">
+            &lt;p&gt;I have been blocked from posting questions in stackoverflow.com. I have rechecked all my posted questions and they generally comply with the rules. Can you tell me what and where I need to correct in order to be able to post my questions again?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434445</id>
+        <re:rank scheme="https://meta.stackoverflow.com">25</re:rank>
+        <title type="text">C posts regarding why bitwise operators have lower precedence than ==</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="canonical" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="dupehammer" />
+        <author>
+            <name>Lundin</name>
+            <uri>https://meta.stackoverflow.com/users/584518</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434445/c-posts-regarding-why-bitwise-operators-have-lower-precedence-than" />
+        <published>2025-07-04T10:54:45Z</published>
+        <updated>2025-07-04T15:22:22Z</updated>
+        <summary type="html">
+            &lt;p&gt;We have a very old post from 2011 regarding why the bitwise operators &lt;code&gt;|&lt;/code&gt; and &lt;code&gt;&amp;amp;&lt;/code&gt; have lower precedence than the equality operators &lt;code&gt;==&lt;/code&gt;, &lt;code&gt;!=&lt;/code&gt; here:&#xA;&lt;a href=&quot;https://stackoverflow.com/questions/4685072/operator-precedence-bitwise-lower-than&quot;&gt;Operator precedence (bitwise &amp;#39;&amp;amp;&amp;#39; lower than &amp;#39;==&amp;#39;)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Then a recent duplicate question popped up a few days ago:&#xA;&lt;a href=&quot;https://stackoverflow.com/questions/79686427/why-do-bit-operators-have-such-low-precedence-in-c-and-c&quot;&gt;Why do bit operators have such low precedence in C and C&#x2B;&#x2B;?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The latter was closed for questionable reasons such as programming language history being off-topic, as well as close votes pointing it out as a duplicate to the older post. I worked to get it re-opened and while I was at it, I also &lt;a href=&quot;https://stackoverflow.com/questions/tagged/c&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;c&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;c&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-c-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;c&lt;/a&gt; dupe hammered the older post as a duplicate to the newer one.&lt;/p&gt;&#xA;&lt;p&gt;This meta post is here to explain my reasoning and open up for discussion in case someone else has something to add.&lt;/p&gt;&#xA;&lt;p&gt;Regarding the new question:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The &lt;a href=&quot;https://stackoverflow.com/q/79686427/584518&quot;&gt;new question&lt;/a&gt; itself is slightly better than the &lt;a href=&quot;https://stackoverflow.com/questions/4685072/operator-precedence-bitwise-lower-than&quot;&gt;old one&lt;/a&gt; since it also gives examples instead of just stating &amp;quot;it does not make sense to me&amp;quot;.&lt;/li&gt;&#xA;&lt;li&gt;The &lt;a href=&quot;https://stackoverflow.com/a/79686446/584518&quot;&gt;new accepted answer&lt;/a&gt; to the newer question is of higher quality than any of the answers in the older question. It quotes a well-known paper by Dennis Ritchie which is a good direct source.&lt;/li&gt;&#xA;&lt;li&gt;Both the new question and the new accepted answer were well-received by the community.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Regarding the old question:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;It has been up-voted over the years for whatever reason, as most old SO posts tend to be. I don&#x27;t think the vote count alone is reason not to close it.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/a/4685140/584518&quot;&gt;The accepted answer to the old question&lt;/a&gt; uses a fishy, low quality forum as an indirect source.&lt;/p&gt;&#xA;&lt;p&gt;It is factually incorrect, one would have to ask Dennis Ritchie alone and not Brian Kernighan, who did not design C. Kernighan came in later when he wrote the famous &amp;quot;K&amp;amp;R&amp;quot; book about C together with Ritchie, but the initial language design was carried out by Ritchie alone. A valid answer should contain Ritchie&#x27;s concerns about compatibility with the B and BCPL languages and the previous lack of booleans etc.&lt;/p&gt;&#xA;&lt;p&gt;Furthermore, guessing and speculation does not belong in a good answer.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/a/4685177/584518&quot;&gt;This answer to the old question&lt;/a&gt; is decent, as it does supposedly quote Ritchie(?), but in the context of a posted summary in some old user group, rather than the paper that Ritchie wrote about it.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/a/4685115/584518&quot;&gt;This answer to the old question&lt;/a&gt; is not good since it does not give any valid source and doesn&#x27;t answer the question either.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So that is why I closed the older post as a duplicate to the new one. I see no value in merging the posts since all answers to the old question are of fairly low quality.&lt;/p&gt;&#xA;&lt;p&gt;I think that cross-tagging C and C&#x2B;&#x2B; is OK in this case, since the reason why C&#x2B;&#x2B; operator precedence ended up the way it did is because it copied it from C.&lt;/p&gt;&#xA;&lt;p&gt;Normally I wouldn&#x27;t write a meta post but just tell people to trust in the dupe hammer, but there were some concerns about closing an old, up-voted post, so feel free to discuss it here.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434442</id>
+        <re:rank scheme="https://meta.stackoverflow.com">1</re:rank>
+        <title type="text">My question has been closed as &quot;not about programming or software development&quot;. This is incorrect. How can I move forward?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+        <author>
+            <name>schuelermine</name>
+            <uri>https://meta.stackoverflow.com/users/8025936</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434442/my-question-has-been-closed-as-not-about-programming-or-software-development" />
+        <published>2025-07-04T00:56:43Z</published>
+        <updated>2025-07-04T14:14:27Z</updated>
+        <summary type="html">
+            &lt;p&gt;I recently asked &lt;a href=&quot;https://stackoverflow.com/questions/79666725/is-it-possible-to-compose-dockerfiles-to-create-multiple-images-with-shared-code&quot;&gt;this question&lt;/a&gt;, titled &lt;em&gt;Is it possible to compose Dockerfiles to create multiple images with shared code?&lt;/em&gt;. The question has been closed with the close reason &amp;quot;not about programming or software development&amp;quot;.&lt;/p&gt;&#xA;&lt;p&gt;This is incorrect, the question is directly about software development.&#xA;The explanation reads&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This question does not appear to be about a specific programming problem, a software algorithm, or software tools primarily used by programmers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Docker is a software tool primarily used by programmers. The question is about writing build files for Docker, which is programming.&lt;/p&gt;&#xA;&lt;p&gt;The question is also asking about a specific problem. While there can be solutions to the problem that deviate from the specific formulation of the question, the focus is clear, and an on-topic question is easily recognisable.&lt;/p&gt;&#xA;&lt;p&gt;Since close votes do not require an explanation, to my knowledge, or do not provide this explanation to me, I cannot know of any arguments for this question being off-topic. The question is very obviously on-topic and satisfies the criteria from &lt;a href=&quot;https://stackoverflow.com/help/on-topic&quot;&gt;&lt;em&gt;What topics can I ask about here?&lt;/em&gt;&lt;/a&gt; to the letter.&lt;/p&gt;&#xA;&lt;p&gt;It is possible that the question may be closed for a different reason. I do not believe so, but this is irrelevant to the fact that the current close reason and therefore the state of the question being closed is incorrect.&lt;/p&gt;&#xA;&lt;p&gt;In this situation, how should I respond?&#xA;I have voted to reopen the question. However, the question has been deleted automatically.&#xA;I was prompted before to edit the question to make it &amp;quot;on-topic&amp;quot;. I edited the question as a formality, since the close reason is incorrect. I do not see a way forward.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434440</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-1</re:rank>
+        <title type="text">Question closed as &#x27;opinion based&#x27; that doesn&#x27;t seem to be opinion based</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="specific-question" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="close-reasons" />
+        <author>
+            <name>bmargulies</name>
+            <uri>https://meta.stackoverflow.com/users/131433</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434440/question-closed-as-opinion-based-that-doesnt-seem-to-be-opinion-based" />
+        <published>2025-07-03T23:08:20Z</published>
+        <updated>2025-07-05T10:28:35Z</updated>
+        <summary type="html">
+            &lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/questions/79689180/is-apache-ignite-2-17-0-still-supported-and-is-there-official-documentation-for&quot;&gt;Is Apache Ignite 2.17.0 still supported, and is there official documentation for migrating to Ignite 3.0.0?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;asks a series of factual questions. It might lack focus, and the last of the series might be a bit squishy, but the rest of them have clear yes-or-no answers. An email to the Apache mailing list would be more useful than this question, but if we&#x27;re going to close it, shouldn&#x27;t we be using the right reason?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434436</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-26</re:rank>
+        <title type="text">Question closed for invalid reason</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="specific-question" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="close-reasons" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="reopen-closed" />
+        <author>
+            <name>Jaideep Shekhar</name>
+            <uri>https://meta.stackoverflow.com/users/9414470</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434436/question-closed-for-invalid-reason" />
+        <published>2025-07-03T12:10:33Z</published>
+        <updated>2025-07-03T19:03:54Z</updated>
+        <summary type="html">
+            &lt;p&gt;I posted a question about something I was working on, &lt;a href=&quot;https://stackoverflow.com/questions/79688637/is-there-any-way-to-natively-port-libmbim-to-windows&quot;&gt;Is there any way to natively port libmbim to windows? [closed]&lt;/a&gt;. I wanted to see if there was ANY way to implement something that already exists in linux through a library implementing the Mobile Broadband Interface Model (MBIM) called the &lt;a href=&quot;https://github.com/linux-mobile-broadband/libmbim&quot; rel=&quot;nofollow noreferrer&quot;&gt;libmbim&lt;/a&gt;, and I made the fatal error of asking if it could be done in windows a similar way. I removed that &amp;quot;seeking recommendations&amp;quot; part, but the question was still downvoted (without explanation), and closed after I made the edits dealing with that?&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Closed. This question is seeking recommendations for software libraries, tutorials, tools, books, or other off-site resources. It does not meet Stack Overflow guidelines. It is not currently accepting answers.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;How is anyone supposed to get any help here???&lt;/p&gt;&#xA;&lt;p&gt;To give a hard example, for the question &amp;quot;How do I implement a class in (old) javascript&amp;quot;, the answer would include using function prototypes to simulate it.&lt;/p&gt;&#xA;&lt;p&gt;Clearly this is a perfectly clear answer, and not a step by step guide or a recommendation.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434434</id>
+        <re:rank scheme="https://meta.stackoverflow.com">6</re:rank>
+        <title type="text">Blog site Recent Articles overlays links on the right side of page footer</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="blog" />
+        <author>
+            <name>devlin carnate</name>
+            <uri>https://meta.stackoverflow.com/users/2359687</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434434/blog-site-recent-articles-overlays-links-on-the-right-side-of-page-footer" />
+        <published>2025-07-02T22:35:55Z</published>
+        <updated>2025-07-02T22:35:55Z</updated>
+        <summary type="html">
+            &lt;p&gt;When I scroll to the bottom of the &lt;a href=&quot;https://stackoverflow.blog/2025/07/01/programming-problems-that-seem-easy-but-aren-t-featuring-jon-skeet/&quot;&gt;blog page&lt;/a&gt;, there&#x27;s a &amp;quot;Recent Articles&amp;quot; section that is displayed on top of the Company links in the page footer.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/V0Npm4pt.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/V0Npm4pt.png&quot; alt=&quot;recent articles image&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&#x27;m not logged in -- I&#x27;m not sure if that makes a difference.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434432</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-11</re:rank>
+        <title type="text">Inconsistent UI: Double voting looks possible using review queue</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="review-queues" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="voting" />
+        <author>
+            <name>zerocukor287</name>
+            <uri>https://meta.stackoverflow.com/users/14583599</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434432/inconsistent-ui-double-voting-looks-possible-using-review-queue" />
+        <published>2025-07-02T13:28:13Z</published>
+        <updated>2025-07-03T08:11:10Z</updated>
+        <summary type="html">
+            &lt;p&gt;I&#x27;ve found an interesting edge case of doing double voting causing the UI to end up inconsistent state. It looks like it is only a front end issue.&lt;/p&gt;&#xA;&lt;p&gt;Repro:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Go to the review queue of your choice (I was in Late Answers and was reading the question&#x27;s text)&lt;/li&gt;&#xA;&lt;li&gt;Open the question in a new browser tab, so there are 2 tabs open, &lt;code&gt;tab 1&lt;/code&gt; is the review, &lt;code&gt;tab 2&lt;/code&gt; is the question.&lt;/li&gt;&#xA;&lt;li&gt;Downvote the question on &lt;code&gt;tab 2&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Go back to &lt;code&gt;tab 1&lt;/code&gt; (since step 2, we are on the Question part, not that the score is already updated), and downvote it again.&lt;br /&gt;&#xA;Result: The vote button is not saying &amp;quot;You have recently voted on this question&amp;quot;. Until refresh, the UI will show both of the votes counted in the score*.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Refreshing any of the tabs shows the right score (no double downvote) and clearly indicates that I already voted.&lt;/p&gt;&#xA;&lt;p&gt;I think the question itself is not relevant, therefore I&#x27;m not linking it.&lt;/p&gt;&#xA;&lt;p&gt;*: A more interesting edge case (thanks to ColleenV) when using one up and one down vote on those tabs. This case will end up in even more inconsistent state, as doing the second vote would change the score by &#x2B;-2 (depending if it&#x27;s up or downvote) - because technically we retract our &amp;quot;invisible&amp;quot; vote, and cast another one.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434430</id>
+        <re:rank scheme="https://meta.stackoverflow.com">1</re:rank>
+        <title type="text">Should we create a new &quot;Java API&quot; tag?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="tags" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="tag-disambiguation" />
+        <author>
+            <name>k314159</name>
+            <uri>https://meta.stackoverflow.com/users/13963086</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434430/should-we-create-a-new-java-api-tag" />
+        <published>2025-07-02T09:38:47Z</published>
+        <updated>2025-07-03T19:24:49Z</updated>
+        <summary type="html">
+            &lt;p&gt;Questions are often asked which entirely concern usage of the standard Java API, but are written in a JVM language other than Java itself. Recent example: &lt;a href=&quot;https://stackoverflow.com/questions/79686873/get-count-of-threads-in-each-state-in-your-jvm&quot;&gt;Get count of threads in each state in your JVM&lt;/a&gt;. This happened to be written in Kotlin, but the question was about the Java API. It would have been the same question and would have had the same answers if it was written in Java. The calls to the Java API are the same; it&#x27;s just that the syntax is slightly different. Yet, people objected to the use of the &lt;a href=&quot;https://stackoverflow.com/questions/tagged/java&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;java&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;java&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-java-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;java&lt;/a&gt; tag and changed it to the &lt;a href=&quot;https://stackoverflow.com/questions/tagged/kotlin&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;kotlin&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;kotlin&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-kotlin-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;kotlin&lt;/a&gt; tag.&lt;/p&gt;&#xA;&lt;p&gt;When I saw this, I thought we needed a &lt;a href=&quot;https://stackoverflow.com/questions/tagged/java-api&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;java-api&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;java-api&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-java-api-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;java-api&lt;/a&gt; tag for questions concerning the standard API that comes with the JDK. However, this tag &lt;a href=&quot;https://meta.stackoverflow.com/questions/396987/why-is-there-a-java-api-tag&quot;&gt;previously existed for a different purpose&lt;/a&gt;: it was for Java bindings of various products that had a published API. That&#x27;s a shame, as &lt;a href=&quot;https://stackoverflow.com/questions/tagged/java-api&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;java-api&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;java-api&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-java-api-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;java-api&lt;/a&gt; would have been suitable for questions about the standard Java API, such as the one above. Any ideas what we should do? (For the record, I don&#x27;t agree that questions like the above should only be tagged as &lt;a href=&quot;https://stackoverflow.com/questions/tagged/kotlin&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;kotlin&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;kotlin&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-kotlin-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;kotlin&lt;/a&gt;. For a start, it would be entirely relevant to Java programmers who only look at the &lt;a href=&quot;https://stackoverflow.com/questions/tagged/java&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;java&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;java&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-java-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;java&lt;/a&gt; tag, and it would be totally irrelevant to Kotlin programmers who only program in non-JVM versions of Kotlin, such as Native or JS.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434421</id>
+        <re:rank scheme="https://meta.stackoverflow.com">1</re:rank>
+        <title type="text">Missing transcript for podcast 838</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="accessibility" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="podcast" />
+        <author>
+            <name>Anerdw</name>
+            <uri>https://meta.stackoverflow.com/users/25441514</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434421/missing-transcript-for-podcast-838" />
+        <published>2025-07-01T17:33:16Z</published>
+        <updated>2025-07-01T17:33:16Z</updated>
+        <summary type="html">
+            &lt;p&gt;&lt;a href=&quot;https://stackoverflow.blog/2025/07/01/programming-problems-that-seem-easy-but-aren-t-featuring-jon-skeet&quot;&gt;Episode 838&lt;/a&gt; of the Stack Overflow podcast, released 1 July 2025, is currently missing a transcript. The &lt;a href=&quot;https://the-stack-overflow-podcast.simplecast.com/episodes/programming-problems-that-seem-easy-but-arent-featuring-jon-skeet/transcript&quot; rel=&quot;nofollow noreferrer&quot;&gt;transcript page&lt;/a&gt; exists, but it&#x27;s totally blank. Can the transcript please be added to the website?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434420</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-16</re:rank>
+        <title type="text">One Ask Page to Rule Them All</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="asking-questions" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="announcement" />
+        <author>
+            <name>Sasha</name>
+            <uri>https://meta.stackoverflow.com/users/21182738</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434420/one-ask-page-to-rule-them-all" />
+        <published>2025-07-01T17:04:43Z</published>
+        <updated>2025-07-02T06:57:30Z</updated>
+        <summary type="html">
+            &lt;p&gt;The company is working to simplify, improve, and consolidate the question asking experience for users new and old &lt;a href=&quot;https://meta.stackoverflow.com/questions/433053/how-can-we-improve-the-question-asking-process-on-stack-overflow&quot;&gt;on Stack Overflow&lt;/a&gt; and across the Stack Exchange network. We are rolling out a few more improvements in the next few weeks.&lt;/p&gt;&#xA;&lt;p&gt;The goals of this rollout are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Have one unified Ask page format across the Stack Exchange network to simplify the code base, making it easier to roll out fixes and improvements in the future&lt;/li&gt;&#xA;&lt;li&gt;Give all users access to the version of the Ask experience with the most functionality and best performance&lt;/li&gt;&#xA;&lt;li&gt;Include an improved review step so users can see how their post will really look before submitting it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;On Stack Overflow only:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Give all askers access to &lt;a href=&quot;https://stackoverflow.com/help/question-assistant&quot;&gt;Question Assistant&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Give all first-time askers access to &lt;a href=&quot;https://stackoverflow.com/help/what-is-staging-ground&quot;&gt;Staging Ground&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2&gt;What is changing across the board?&lt;/h2&gt;&#xA;&lt;p&gt;On most Stack Exchange sites, very little is changing in terms of the user experience. The differences you will notice are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An upgrade to the Stacks Editor to use in drafting questions (the same &lt;a href=&quot;https://meta.stackoverflow.com/questions/433034/stacks-editor-development-and-testing&quot;&gt;version which has recently been made available for drafting answers on Stack Overflow&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A visual change at the &#x201C;review&#x201D; step. You will now see an improved preview page, showing what your question will look like once posted.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/fzeGaNb6l.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/fzeGaNb6l.png&quot; alt=&quot;preview of a stack overflow question&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A handful of Stack Exchange sites are being excluded from these changes initially, which you can &lt;a href=&quot;https://meta.stackexchange.com/q/411109/1324540&quot;&gt;read about here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2&gt;What is changing on Stack Overflow only?&lt;/h2&gt;&#xA;&lt;p&gt;In addition to the changes noted above, the new version of the Ask page will include a few further changes for Stack Overflow specifically.&lt;/p&gt;&#xA;&lt;p&gt;On Stack Overflow only, the new Ask page will also:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Replace &lt;a href=&quot;https://stackoverflow.com/help/askwizard&quot;&gt;the Ask Wizard&lt;/a&gt;, which is currently shown to approximately 25% of Stack Overflow askers.&#xA;The wizard was &lt;a href=&quot;https://meta.stackoverflow.com/q/421038/21182738&quot;&gt;developed to help new askers&lt;/a&gt; be more successful on the platform, by guiding them through the asking process. While testing did show that it performed well when it was first introduced, recent experiments show that the one-step Ask experience actually performs better, with a 10% increase in the number of page visits that actually turn into question submissions, indicating that the multistep approach may be a barrier for some users.&lt;/li&gt;&#xA;&lt;li&gt;Make the Question Assistant (&lt;a href=&quot;https://meta.stackoverflow.com/questions/432630/results-and-next-steps-for-the-question-assistant-experiment-in-staging-ground&quot;&gt;Results and next steps for the Question Assistant experiment in Staging Ground&lt;/a&gt;) suggestions in the sidebar visible to all users when they draft a question (but will remain only on Stack Overflow &#x2013; there are currently no plans to expand it to other Stack Exchange sites).&lt;/li&gt;&#xA;&lt;li&gt;Give all new askers the ability to determine the destination of their post &#x2013; whether they want it to be posted directly on the main site, or go to &lt;a href=&quot;https://stackoverflow.com/staging-ground&quot;&gt;Staging Ground&lt;/a&gt; for review first. This way, new askers who want to receive support from and collaborate with experienced users can do so, and reviewers can avoid wasting their time reviewing questions that are likely to be abandoned by their authors.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2&gt;Next Steps&lt;/h2&gt;&#xA;&lt;p&gt;The shift to the new Ask page across the network will not be happening all at once. We will start by rolling it out on &lt;a href=&quot;https://superuser.com&quot;&gt;Super User&lt;/a&gt;, and then expanding it to the rest of the network including Stack Overflow. On each site, we will start by introducing it to a small percent of users and then progressively scaling it up over several weeks.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434419</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-22</re:rank>
+        <title type="text">Feedback on Challenge Four</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussions-space" />
+        <author>
+            <name>Sasha</name>
+            <uri>https://meta.stackoverflow.com/users/21182738</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434419/feedback-on-challenge-four" />
+        <published>2025-07-01T16:37:22Z</published>
+        <updated>2025-07-02T17:24:11Z</updated>
+        <summary type="html">
+            &lt;p&gt;&lt;strong&gt;Use this post to provide feedback on the fourth coding challenge (&lt;a href=&quot;https://stackoverflow.com/beta/challenges/79686363/code-challenge-4-create-a-futuristic-technology&quot;&gt;which you can participate in here&lt;/a&gt;)&lt;/strong&gt;, just like you did for &lt;a href=&quot;https://meta.stackoverflow.com/q/433972/21182738&quot;&gt;challenge one&lt;/a&gt;, &lt;a href=&quot;https://meta.stackoverflow.com/q/434158/21182738&quot;&gt;two&lt;/a&gt;, &lt;a href=&quot;https://meta.stackoverflow.com/questions/434307/feedback-on-coding-challenge-number-three&quot;&gt;and three&lt;/a&gt;. General feedback about Coding Challenges, and how it could be improved, is also welcome.&lt;/p&gt;&#xA;&lt;p&gt;We are still analyzing all the data from the first three challenges, and the feedback you all have been giving us thus far.&lt;/p&gt;&#xA;&lt;p&gt;What we like about Challenges in its current implementation is that there can be multiple right answers taking very different and interesting approaches, and that participation is accessible to learners at all levels. While we don&#x2019;t have an exact timeline yet, going forward we hope to expand on these strengths, and implement updates to improve the experience for users who want to take on a challenge!&lt;/p&gt;&#xA;&lt;p&gt;Users have raised a lot of good feedback which we are exploring for future iterations of Challenges. Although we don&#x2019;t have a timeline yet, some of our initial ideas to work on are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Random sorting of responses to increase the fairness of voting&lt;/li&gt;&#xA;&lt;li&gt;Ability to include images in the challenge entries&lt;/li&gt;&#xA;&lt;li&gt;More options for peer evaluation of entries&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your feedback is very much appreciated and will help us guide the future of this feature, so let us know what you think!&lt;/strong&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434417</id>
+        <re:rank scheme="https://meta.stackoverflow.com">2</re:rank>
+        <title type="text">widgets-container content not loading [duplicate]</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+        <author>
+            <name>You Old Fool</name>
+            <uri>https://meta.stackoverflow.com/users/1767412</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434417/widgets-container-content-not-loading" />
+        <published>2025-07-01T14:24:39Z</published>
+        <updated>2025-07-01T14:24:39Z</updated>
+        <summary type="html">
+            &lt;p&gt;For a couple of days now the &lt;code&gt;widgets-container&lt;/code&gt; content at the top of the home page does not seem to load. I&#x27;ve tried in multiple browsers and it doesn&#x27;t seem to make any difference.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/e8SoowNv.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/e8SoowNv.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;There is this error in the console:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;homepage-widgets.en.js?v=172316b1a425:1 Uncaught TypeError: s[e] is not a function&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434416</id>
+        <re:rank scheme="https://meta.stackoverflow.com">1</re:rank>
+        <title type="text">Proper syntax highlighting for Blazor - C# with HTML on Stack Overflow</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="code-formatting" />
+        <author>
+            <name>FlorianD</name>
+            <uri>https://meta.stackoverflow.com/users/23770356</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434416/proper-syntax-highlighting-for-blazor-c-with-html-on-stack-overflow" />
+        <published>2025-07-01T09:51:43Z</published>
+        <updated>2025-07-01T20:05:10Z</updated>
+        <summary type="html">
+            &lt;p&gt;The code highlighting here on Stack Overflow appears to be missing a tag for Blazor-like pages where C# and HTML are combined within the same file.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I can only format it as either C# or HTML. Is there a way to combine C# and HTML highlighting and format these code snippets?&lt;/p&gt;&#xA;&lt;p&gt;Formatted as HTML:&lt;/p&gt;&#xA;&lt;pre class=&quot;lang-html prettyprint-override&quot;&gt;&lt;code&gt;@page&#xA;@model Kommunikator.Api.Pages.OptionsModel&#xA;@{&#xA;    ViewData[&amp;quot;Title&amp;quot;] = &amp;quot;Options&amp;quot;;&#xA;    string tableBorderColor = &amp;quot;#777&amp;quot;;&#xA;}&#xA;&#xA;&amp;lt;h1&amp;gt;&#xDC;bersicht&amp;lt;/h1&amp;gt;&#xA;&#xA;&amp;lt;div class=&amp;quot;w3-row-padding w3-stretch&amp;quot;&amp;gt;&#xA;    &amp;lt;div class=&amp;quot;w3-third&amp;quot;&amp;gt;&#xA;        &amp;lt;h2&amp;gt;Options&amp;lt;/h2&amp;gt;&#xA;        &amp;lt;table class=&amp;quot;w3-small&amp;quot; style=&amp;quot;width: 100%; border: 1px solid @tableBorderColor; border-collapse: collapse&amp;quot;&amp;gt;&#xA;        &amp;lt;tr&amp;gt;&#xA;          &amp;lt;td colspan=&amp;quot;2&amp;quot; style=&amp;quot;font-weight: bold&amp;quot; class=&amp;quot;w3-pale-blue&amp;quot;&amp;gt;@validations.Name&amp;lt;/td&amp;gt;&#xA;        &amp;lt;/tr&amp;gt;&#xA;&#xA;        @foreach (Kommunikator.Core.Application.ActionResult reason in validations.Results)&#xA;        {&#xA;          &amp;lt;tr style=&amp;quot;border: 1px solid @tableBorderColor&amp;quot;&amp;gt;&#xA;            &amp;lt;td class=&amp;quot;@OptionsModel.StatusZuFarbe(reason)&amp;quot; style=&amp;quot;border-right: 1px solid @tableBorderColor&amp;quot;&amp;gt;@OptionsModel.StatusZuText(reason)&amp;lt;/td&amp;gt;&#xA;            &amp;lt;td style=&amp;quot;padding-left: 5px&amp;quot;&amp;gt;@reason.Message&amp;lt;/td&amp;gt;&#xA;          &amp;lt;/tr&amp;gt;&#xA;        }&#xA;      }&#xA;    &amp;lt;/table&amp;gt;&#xA;  &amp;lt;/div&amp;gt; &#xA;&amp;lt;/div&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Formatted in C#:&lt;/p&gt;&#xA;&lt;pre class=&quot;lang-cs prettyprint-override&quot;&gt;&lt;code&gt;@page&#xA;@model Kommunikator.Api.Pages.OptionsModel&#xA;@{&#xA;    ViewData[&amp;quot;Title&amp;quot;] = &amp;quot;Options&amp;quot;;&#xA;    string tableBorderColor = &amp;quot;#777&amp;quot;;&#xA;}&#xA;&#xA;&amp;lt;h1&amp;gt;&#xDC;bersicht&amp;lt;/h1&amp;gt;&#xA;&#xA;&amp;lt;div class=&amp;quot;w3-row-padding w3-stretch&amp;quot;&amp;gt;&#xA;    &amp;lt;div class=&amp;quot;w3-third&amp;quot;&amp;gt;&#xA;        &amp;lt;h2&amp;gt;Options&amp;lt;/h2&amp;gt;&#xA;        &amp;lt;table class=&amp;quot;w3-small&amp;quot; style=&amp;quot;width: 100%; border: 1px solid @tableBorderColor; border-collapse: collapse&amp;quot;&amp;gt;     &#xA;        &amp;lt;tr&amp;gt;&#xA;          &amp;lt;td colspan=&amp;quot;2&amp;quot; style=&amp;quot;font-weight: bold&amp;quot; class=&amp;quot;w3-pale-blue&amp;quot;&amp;gt;@validations.Name&amp;lt;/td&amp;gt;&#xA;        &amp;lt;/tr&amp;gt;&#xA;&#xA;        @foreach (Kommunikator.Core.Application.ActionResult reason in validations.Results)&#xA;        {&#xA;          &amp;lt;tr style=&amp;quot;border: 1px solid @tableBorderColor&amp;quot;&amp;gt;&#xA;            &amp;lt;td class=&amp;quot;@OptionsModel.StatusZuFarbe(reason)&amp;quot; style=&amp;quot;border-right: 1px solid @tableBorderColor&amp;quot;&amp;gt;@OptionsModel.StatusZuText(reason)&amp;lt;/td&amp;gt;&#xA;            &amp;lt;td style=&amp;quot;padding-left: 5px&amp;quot;&amp;gt;@reason.Message&amp;lt;/td&amp;gt;&#xA;          &amp;lt;/tr&amp;gt;&#xA;        }&#xA;      }&#xA;    &amp;lt;/table&amp;gt;&#xA;  &amp;lt;/div&amp;gt;&#xA; &#xA;&amp;lt;/div&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;In Visual Studio there is proper syntax highlighting for the HTML and C# parts of the code:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/Cp9tmCrk.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/Cp9tmCrk.png&quot; alt=&quot;Example code formatted and highlighted in VS&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434415</id>
+        <re:rank scheme="https://meta.stackoverflow.com">11</re:rank>
+        <title type="text">Negative number of notifications</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="user-interface" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="global-inbox" />
+        <author>
+            <name>Micha&#x142; Turczyn</name>
+            <uri>https://meta.stackoverflow.com/users/7132550</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434415/negative-number-of-notifications" />
+        <published>2025-07-01T08:16:33Z</published>
+        <updated>2025-07-01T10:14:26Z</updated>
+        <summary type="html">
+            &lt;p&gt;I have seen this post here: &lt;a href=&quot;https://meta.stackoverflow.com/questions/424152/inbox-messages-activity-indicator-showing-negative-number&quot;&gt;Inbox message&#x27;s activity indicator showing negative number&lt;/a&gt;, but:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;it&#x27;s missing a clear explanation how it got to that state&lt;/li&gt;&#xA;&lt;li&gt;answer there address scenario where there were unread messages count overflow, which I think is not the case (OP mentioned that he has read all notifications).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I also have come to that state today:&#xA;&lt;a href=&quot;https://i.sstatic.net/WiRbAjKw.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/WiRbAjKw.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&#x27;s what happened:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;I answered &lt;a href=&quot;https://stackoverflow.com/questions/79685439/how-to-make-a-process-wait-until-its-completed-before-a-new-request&quot;&gt;this question&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;After some time I logged in from mobile, saw notification, but did not click it, just opened the notification list and close it, and this made notification icon (count with red background) to disappear.&lt;/li&gt;&#xA;&lt;li&gt;I switched off the browser in the phone&lt;/li&gt;&#xA;&lt;li&gt;After some time, I went to Stack Overflow again, and the number was negative. When I checked the answer, &lt;strong&gt;the comment was no longer there (user must have deleted it)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;And of course, I don&#x27;t have unread notifications, so any integer overflow is rather out of question here.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434405</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-57</re:rank>
+        <title type="text">Allow adding flagging &quot;malicious downvoting suspected&quot; on an answer</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="feature-request" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-declined" />
+        <author>
+            <name>Ivan Petrov</name>
+            <uri>https://meta.stackoverflow.com/users/6908545</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434405/allow-adding-flagging-malicious-downvoting-suspected-on-an-answer" />
+        <published>2025-06-29T22:53:39Z</published>
+        <updated>2025-07-05T14:09:13Z</updated>
+        <summary type="html">
+            &lt;p&gt;I&#x27;ve spent around 3-4&#x2B; hours writing/editing this answer:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/questions/79683301/c-sharp-linq-dynamic-against-a-datatable-syntax-not-working/79683397#79683397&quot;&gt;C# LINQ Dynamic - Against a DataTable - Syntax not working?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The final version of it was downvoted.&lt;/p&gt;&#xA;&lt;p&gt;I want to be able to flag an answer I wrote for moderator attention with the reason &amp;quot;malicious downvoting suspected&amp;quot;.&lt;/p&gt;&#xA;&lt;p&gt;The moderator can judge if there are obvious flaws with the answer and if NOT ask the downvoter to provide justification for the downvote. If no/bad justification is provided a warning is issued that a second successfully flagged downvote will trigger 30 day ban/lack of voting rights.&lt;/p&gt;&#xA;&lt;p&gt;This will help sanitize the site from the actions of bad actors who show zero regard for people&#x27;s work and efforts.&lt;/p&gt;&#xA;&lt;p&gt;If we don&#x27;t want to infringe on improper downvoting too much, we can limit the amounts of flags that a person can raise to 1 per month - something like a challenge in NBA/VAR/etc other correcting systems in sports.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The main objection from the answers here seems to be to the involvement of moderators. I agree they are not subject matter experts.&lt;/p&gt;&#xA;&lt;p&gt;So I want to amend this proposal that there needs to be a QUEUE of some form (something like Staging Ground) for flagged answers that can be reviewed by subject matter experts.&lt;/p&gt;&#xA;&lt;p&gt;For that I propose those to be the ones holding a Bronze Badge (or higher) in at least one of the tags that the question is marked for.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434392</id>
+        <re:rank scheme="https://meta.stackoverflow.com">8</re:rank>
+        <title type="text">Where is the Stack Exchange performance page?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="stack-exchange" />
+        <author>
+            <name>Timur Baburin</name>
+            <uri>https://meta.stackoverflow.com/users/12901542</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434392/where-is-the-stack-exchange-performance-page" />
+        <published>2025-06-27T15:09:56Z</published>
+        <updated>2025-07-03T14:01:57Z</updated>
+        <summary type="html">
+            &lt;p&gt;Where is this beautiful page with all good information?&lt;/p&gt;&#xA;&lt;p&gt;Found one image from there. Please help me to find and see it again even if it&#x2019;s not exists anymore. Maybe some backup?&lt;/p&gt;&#xA;&lt;p&gt;And if it was removed then why it was removed?&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/2RifUgM6.jpg&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/2RifUgM6.jpg&quot; alt=&quot;Image from there&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434339</id>
+        <re:rank scheme="https://meta.stackoverflow.com">18</re:rank>
+        <title type="text">Main page showing skeletons forever</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="homepage" />
+        <author>
+            <name>matt</name>
+            <uri>https://meta.stackoverflow.com/users/341994</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434339/main-page-showing-skeletons-forever" />
+        <published>2025-06-21T16:09:56Z</published>
+        <updated>2025-07-03T12:53:52Z</updated>
+        <summary type="html">
+            &lt;p&gt;The main page, at the top where the personal graphs are supposed to be is just showing perpetual skeletons (for me at least).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/Dtnw3g4E.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/Dtnw3g4E.png&quot; alt=&quot;screenshot showing skeletons&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The following errors (for what they are worth) are shown in the console (Safari):&lt;/p&gt;&#xA;&lt;pre class=&quot;lang-none prettyprint-override&quot;&gt;&lt;code&gt;[Error] Failed to load resource: the server responded with a status of 400 () (https://lh4.googleusercontent.com/...photo.jpg, line 0)&#xA;[Error] TypeError: i[e] is not a function. (In &#x27;i[e](a,a.exports,o)&#x27;, &#x27;i[e]&#x27; is undefined)&#xA;    o (homepage-widgets.en.js:1:50804)&#xA;    78049 (stacks-svelte.en.js:1:18088)&#xA;    o (homepage-widgets.en.js:1:50804)&#xA;    4760 (homepage-widgets.en.js:1:3446)&#xA;    o (homepage-widgets.en.js:1:50804)&#xA;    (anonymous function) (homepage-widgets.en.js:1:55827)&#xA;    (anonymous function) (homepage-widgets.en.js:1:51061)&#xA;    (anonymous function) (homepage-widgets.en.js:1:55841)&#xA;    Global Code (homepage-widgets.en.js:1:55846)&#xA;[Error] 33Across Lexicon ID Mappings Provider: PID not found&#xA;    (anonymous function) (ob.js:1:17755)&#xA;[Error] Failed to load resource: the server responded with a status of 400 () (https://lh5.googleusercontent.com/...photo.jpg, line 0)&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434332</id>
+        <re:rank scheme="https://meta.stackoverflow.com">8</re:rank>
+        <title type="text">Filtered question page doesn&#x27;t have header</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="questions" />
+        <author>
+            <name>Warcupine</name>
+            <uri>https://meta.stackoverflow.com/users/11643528</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434332/filtered-question-page-doesnt-have-header" />
+        <published>2025-06-20T18:43:25Z</published>
+        <updated>2025-07-02T15:58:11Z</updated>
+        <summary type="html">
+            &lt;p&gt;When filtering on a tag, there used to be a header on the page with questions tagged [Tag]:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&quot;https://i.sstatic.net/Wx2tNIWw.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;There is currently no header if filtering on a single tag:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&quot;https://i.sstatic.net/FnjuBOVo.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;If there is a custom filter with multiple tags, you still get a header:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&quot;https://i.sstatic.net/kPrJztb8.png&quot; alt=&quot;enter image description here&quot; /&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I can reproduce the issue when logged in for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chrome Version 137.0.7151.120 (Official Build) (64-bit)&lt;/li&gt;&#xA;&lt;li&gt;Chrome for IOS Version 137.0.7151.107&lt;/li&gt;&#xA;&lt;li&gt;Edge Version 137.0.3296.83 (Official build) (64-bit)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I cannot replicate the issue if logged out.&lt;/p&gt;&#xA;&lt;p&gt;This is the error I see:&lt;/p&gt;&#xA;&lt;pre class=&quot;lang-none prettyprint-override&quot;&gt;&lt;code&gt;Uncaught TypeError: s[e] is not a function` in tag-page-headline.en.js &#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;This is the line in question:&lt;/p&gt;&#xA;&lt;pre class=&quot;lang-js prettyprint-override&quot;&gt;&lt;code&gt;return s[e](t, t.exports, o),&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434267</id>
+        <re:rank scheme="https://meta.stackoverflow.com">108</re:rank>
+        <title type="text">2025 Community Moderator Election Results</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="moderator-election" />
+        <author>
+            <name>Sasha</name>
+            <uri>https://meta.stackoverflow.com/users/21182738</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434267/2025-community-moderator-election-results" />
+        <published>2025-06-11T20:11:18Z</published>
+        <updated>2025-07-03T01:44:34Z</updated>
+        <summary type="html">
+            &lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/election/16&quot;&gt;Moderator election #16&lt;/a&gt; on Stack Overflow has come to a close, the votes have been tallied, and the new moderators are:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/users/11107541&quot;&gt;&lt;img src=&quot;https://stackoverflow.com/users/flair/11107541.png&quot; alt=&quot;starball&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/users/2943403&quot;&gt;&lt;img src=&quot;https://stackoverflow.com/users/flair/2943403.png&quot; alt=&quot;mickmackusa&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;They will be joining &lt;a href=&quot;https://stackoverflow.com/users?tab=moderators&quot;&gt;the existing crew&lt;/a&gt; shortly &#x2014; please thank them for volunteering and share your assistance and advice with them as they learn the ropes!&lt;/p&gt;&#xA;&lt;p&gt;Also, please join me in thanking &lt;a href=&quot;https://stackoverflow.com/users/59303&quot;&gt;ChrisF&lt;/a&gt;, who will &lt;a href=&quot;https://meta.stackoverflow.com/q/434281&quot;&gt;soon be stepping down as moderator&lt;/a&gt;, after many years of dedicated service:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/users/59303&quot;&gt;&lt;img src=&quot;https://stackoverflow.com/users/flair/59303.png&quot; alt=&quot;ChrisF&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For details on how the voting played out, you can download the election results &lt;a href=&quot;https://stackoverflow.com/election/16&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;https://www.opavote.com/results/5121937432379392&quot; rel=&quot;nofollow noreferrer&quot;&gt;view a summary report online&lt;/a&gt;.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434248</id>
+        <re:rank scheme="https://meta.stackoverflow.com">15</re:rank>
+        <title type="text">Post editor and Snippet Preview issues</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="feature-request" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="stacks-editor" />
+        <author>
+            <name>Roko C. Buljan</name>
+            <uri>https://meta.stackoverflow.com/users/383904</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434248/post-editor-and-snippet-preview-issues" />
+        <published>2025-06-10T14:59:20Z</published>
+        <updated>2025-06-30T21:15:07Z</updated>
+        <summary type="html">
+            &lt;p&gt;There was no mention (that I was aware of) regarding the brave new changes in the Editor and Snippets area? And I can humbly say that it&#x27;s terrible from a UE/UI/UX point of view; incomprehensible given everything was working just perfectly before those changes.&lt;/p&gt;&#xA;&lt;p&gt;To sum up some of those issues:&lt;/p&gt;&#xA;&lt;h3&gt;Expand snippet - Preview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;This one is the worst.&lt;/strong&gt; Seems this one went under the radar so I&#x27;ll just put a &lt;a href=&quot;https://meta.stackexchange.com/q/409052/168011&quot;&gt;&lt;strong&gt;link to an expanded post&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/oT6yooeA.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/oT6yooeA.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/a&gt;&lt;br&gt;&#xA;&lt;sup&gt;Sorry for the ugly red lines, but tradition &lt;em&gt;is&lt;/em&gt; important.&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;h2&gt;Post Editor&lt;/h2&gt;&#xA;&lt;h3&gt;Edit code snippet&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;[Edit code snippet]&lt;/code&gt; button &lt;strong&gt;on questions (only)&lt;/strong&gt; does not work.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3&gt;Make text bold&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Before&lt;/strong&gt;: one would write i.e: &amp;quot;Lorem ipsum dolor&amp;quot; double click &lt;em&gt;&amp;quot;ipsum&amp;quot;&lt;/em&gt; in order to highlight it &amp;quot;Lorem &lt;code&gt;ipsum &lt;/code&gt;dolor&amp;quot; (here the browser captures an extra space before the next word) and when hitting &lt;kbd&gt;Ctrl&lt;/kbd&gt;&#x2B;&lt;kbd&gt;B&lt;/kbd&gt; the result you would get would be correctly markdowned as: &lt;code&gt;Lorem **ipsum** dolor&lt;/code&gt; - only &lt;em&gt;ipsum&lt;/em&gt; becoming bold. (Works here in Meta Post Editor). &lt;strong&gt;And everything worked.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;After&lt;/strong&gt;: &lt;code&gt;Lorem **ipsum **dolor&lt;/code&gt; resulting in invalid markdown with the exact same result in preview: &amp;quot;Lorem **ipsum **dolor&amp;quot; instead of &amp;quot;Lorem &lt;strong&gt;ipsum&lt;/strong&gt; dolor&amp;quot;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3&gt;Create a link&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Before:&lt;/strong&gt; one would highlight a text, hit &lt;kbd&gt;Ctrl&lt;/kbd&gt;&#x2B;&lt;kbd&gt;L&lt;/kbd&gt;, a popup would appear where the user could just paste in a link and hit enter. &lt;strong&gt;And everything worked.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;After:&lt;/strong&gt; it seems really a &lt;strong&gt;better experience TBH&lt;/strong&gt;, just - if you know that the &lt;code&gt;https://stackoverflow.com&lt;/code&gt; portion is already highlighted. Perhaps it&#x27;s about getting used to this. Nice good feature anyways! (just to keep the spirits up).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3&gt;Creating a Stack Snippet&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Extra space is inserted between the &lt;code&gt;&amp;lt;&lt;/code&gt; start of the snippet and any previous text in the post. &lt;a href=&quot;https://i.sstatic.net/Ekg0PYZP.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/Ekg0PYZP.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/a&gt;&lt;br&gt;&#xA;(Unsure how to reproduce this issue.)&lt;/li&gt;&#xA;&lt;li&gt;Extra &lt;code&gt;-&amp;gt;&lt;/code&gt; is added after the code snippet. Sometimes after exiting the snipped you can see in the answer, below the snippet some extra &lt;code&gt;-&amp;gt;&lt;/code&gt; characters like a strange remnant. Also, unsure how to reproduce, happened to me twice and have seen some answers that had this issue as well.&lt;br&gt;&#xA;&lt;a href=&quot;https://i.sstatic.net/xV2lbnei.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/xV2lbnei.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3&gt;Saving a snippet&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sometimes, after saving a snippet, you end up on the window far top (the page scrolls to the question top) instead of keeping the &lt;code&gt;scrollTop&lt;/code&gt; at least on the Answer&#x27;s Y top coordinate. So you don&#x27;t have to scroll back 12300 px down just to save your answer.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3&gt;Save Answer using Ctrl &#x2B; Enter&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seems like using &lt;kbd&gt;Ctrl&lt;/kbd&gt; &#x2B; &lt;kbd&gt;Enter&lt;/kbd&gt; there&#x27;s &lt;strong&gt;unnecessary newlines&lt;/strong&gt; added into the markdown, and then the Answer is saved with those extra newlines at the caret position. I would expect that the default Event is prevented (&lt;em&gt;Enter&lt;/em&gt;), no newline is added, and the snippet is saved into the question.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3&gt;Stack editor iconography&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Before:&lt;/strong&gt; we had a &lt;code&gt;&amp;lt;&amp;gt;&lt;/code&gt; icon that represented the &amp;quot;Runnable Snippet&amp;quot; modal. There&#x27;s &lt;em&gt;in the wild&lt;/em&gt; way too many comments (specially under questions) asking directly OPs to create a runnable beauty: &lt;em&gt;&amp;quot;...use rather the &lt;code&gt;&amp;lt;&amp;gt;&lt;/code&gt; icon in the editor top bar in order to create a Runnable snippet...&amp;quot;&lt;/em&gt; - kind of comments.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;After:&lt;/strong&gt; Now we have a [&#x25B6;&lt;sub&gt;&amp;lt;&amp;gt;&lt;/sub&gt;] icon - making pretty much all those comments obsolete, and even misleading since no there&#x27;s another icon for the &lt;strong&gt;Code Block&lt;/strong&gt; that has &lt;code&gt;[&amp;lt;&amp;gt;]&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Suggestion&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;the designers that work on this tasks should have a better correspondence with heavy-duty users of the tools they plan to change/modify in order to prepare their creative thoughts for improvements not only based on the new UI features, but also on the often forgotten &lt;strong&gt;UE&lt;/strong&gt; (User Expectation) &#x2014; specially with the ones that happens, are experts in the field as well.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/434241</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-20</re:rank>
+        <title type="text">Recent changes to &#x201C;unanswered&#x201D; tab, and testing of a new recommendation engine on tags pages</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="tags" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="announcement" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="unanswered-questions" />
+        <author>
+            <name>JNat</name>
+            <uri>https://meta.stackoverflow.com/users/1328704</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/434241/recent-changes-to-unanswered-tab-and-testing-of-a-new-recommendation-engine-o" />
+        <published>2025-06-10T09:03:42Z</published>
+        <updated>2025-07-01T19:10:30Z</updated>
+        <summary type="html">
+            &lt;p&gt;&lt;strong&gt;July 1 Update:&lt;/strong&gt; We&#x27;ve decided to keep the new &amp;quot;unanswered&amp;quot; experience because of the positive signals we&#x27;ve seen it have on answering questions (details below). We saw in the responses that some users prefer the original experience of the unanswered tab showing questions with no upvoted or accepted answer, sorted by score, even if that meant showing questions with answers. We&#x27;re going to be updating the name of an existing filter from &amp;quot;No accepted answers&amp;quot; to &amp;quot;No upvoted or accepted answers&amp;quot;. The current functionality of that filter returns questions with no upvoted or accepted answer, so there is no change in functionality. If you want to reproduce the old &amp;quot;unanswered&amp;quot; experience you can apply that filter and sort by highest scoring. Lastly, we&#x27;re still working on the recommendation engine and expect to have an update about that experimentation in the next few weeks.&lt;/p&gt;&#xA;&lt;p&gt;To understand the impact this change has, we looked at the period before and after the change. Looking at 28 days (14 before, 14 after), the answer submit rate increased from .31% to 1.28%. There was minimal change to click-through rate, increasing from 25.0% to 26.3%. At that point, we began routing a random subset of users without any stored preferences for tabs or filters to the &#x2018;unanswered&#x2019; tab for our recommendation engine, as mentioned in the original post. Routing those users who wouldn&#x27;t have otherwise visited the unanswered tab impacted results. Looking at 21 days before and after, the percent of visits to the unanswered tab that resulted in an answer increased from 0.40% to 0.70%. Even with the diluted audience we are seeing positive signals that this change is helping people find questions to answer.&lt;/p&gt;&#xA;&lt;p&gt;We also wanted to address @Thom A&#x27;s concerns &lt;a href=&quot;https://meta.stackoverflow.com/questions/434241/recent-changes-to-unanswered-tab-and-testing-of-a-new-recommendation-engine-o#comment1027402_434241&quot;&gt;here&lt;/a&gt;. There&#x27;s definitely different ways to cut this and look at the problem. Overall, while the ratio of &lt;em&gt;new&lt;/em&gt; votes to &lt;em&gt;new&lt;/em&gt; posts has increased since 2016, new votes can happen on old posts. Since 2016 answers have grown from roughly 24M to 43M. Those new votes can happen on a much larger pool of answers. When that&#x27;s coupled with our original conclusion that votes are in decline, but there are not indicators it&#x27;s driven by the quality of content, we feel comfortable in the conclusion that voting is no longer the signal a question is sufficiently answered like it was historically.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; Around mid-May, we rolled out changes to the behavior for the &#x201C;unanswered&#x201D; tab everywhere on the site. These pages will now show only questions with no answers, sorted by recent activity. Users with no preferences set for tabs or filters on &lt;a href=&quot;https://stackoverflow.com/questions/tagged/python?tab=Unanswered&quot;&gt;tag pages&lt;/a&gt; will be directed to the &#x201C;unanswered&#x201D; tab on those pages by default. We&#x2019;ll also be A/B testing a new recommendation engine on the tab on tag pages to help users more easily find questions they&#x2019;re likely to answer.&lt;/p&gt;&#xA;&lt;h3&gt;Is it an &#x201C;unanswered&#x201D; question, really?&lt;/h3&gt;&#xA;&lt;p&gt;Historically the &#x201C;unanswered&#x201D; tab has had &lt;a href=&quot;https://meta.stackexchange.com/q/18870/208518&quot;&gt;a consistent behavior&lt;/a&gt; throughout all parts of the site where it is available and has shown questions with no upvoted or accepted answers, with the reasoning that those two measures would be good indicators for a question having been satisfactorily answered &#x2014; maybe the question was challenging, or maybe one (or many) of the answers provided didn&#x2019;t quite address it. This was a fair reasoning at the time and the intention of drawing attention to these challenging questions is reasonable, but that means the tab&#x2019;s name is also a misnomer &#x2014; those questions aren&#x2019;t &lt;em&gt;really&lt;/em&gt; unanswered.&lt;/p&gt;&#xA;&lt;p&gt;A lot has changed since the original behavior of the tab was implemented, and we no longer believe no accepted or upvoted answers is a good indicator that a question was not sufficiently answered. As you can see from the graphs below, we&#x2019;ve observed a drop in answer score and in accepted answers over the years.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/6ogNRbBM.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/6ogNRbBM.png&quot; alt=&quot;graph showing answers posted per year on the horizontal axis, and the percentage with a positive score on the vertical axis. The graph shows a trending decline from 2008 all the way to 2025&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/oTy4WFCA.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/oTy4WFCA.png&quot; alt=&quot;graph showing questions posted per year on the horizontal axis, and the percentage with an accepted answer on the vertical axis. The graph shows a trending decline between 2008 and 2025&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Not having observed a corresponding increase in downvoted and deleted answers, this leads us to conclude that it&#x2019;s not the case that answer quality has dropped over time, but rather that users are voting less often, so voting is a less reliable indicator that an answer sufficiently addressed a question. By extension, this means the initial reasoning behind the tab&#x2019;s behavior may not hold true any more, and should be updated accordingly.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/jCNDm7Fd.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/jCNDm7Fd.png&quot; alt=&quot;graph showing year on the horizontal axis, the total number of accepted answers on the left vertical axis, and the total number of votes on the right vertical axis. Both vertical axes show a drop from around 2020&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/w3IQKeY8.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/w3IQKeY8.png&quot; alt=&quot;graph showing answers posted per year on the horizontal axis, and the percentage of which were deleted on the vertical axis. The graph shows a relatively constant rate of deletion between 2010 and 2023, with a slight increase between 2023 and 2025 (that increase doesn&#x27;t appear to be inversely proportional to the declines shown in previous graphs)&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3&gt;We&#x2019;ve rolled out a new unanswered questions recommendation engine, and will be performing several tests for a new recommendation engine&lt;/h3&gt;&#xA;&lt;p&gt;We&#x2019;re testing a new recommendation engine built with machine learning models that&#x2019;ll retrieve posts and rank them based on user-context to help users more easily find questions they&#x2019;re likely to answer. Since our data shows that a common entry point for those users is through tag pages we&#x2019;re testing the engine in the &#x201C;unanswered&#x201D; tab on tag pages. Since the recommendation engine is built to retrieve unanswered questions (as in: without any answers) to show to users, and the historical behavior of the tab results in mostly (partly) answered, old questions being shown to users, changing the behavior of the tab provides a better baseline to compare the new engine&#x2019;s performance to.&lt;/p&gt;&#xA;&lt;p&gt;As part of this testing we want to collect as much data as possible, so that we can run A/B tests faster and conduct more exploratory analysis, like finding edge cases where the recommendation engine underperforms. Then, we can iterate on it, run new tests, and help improve its performance. This means we&#x2019;ll be running tests periodically on the unanswered tab of tag pages.&lt;/p&gt;&#xA;&lt;p&gt;Today the unanswered tab on tag pages doesn&#x2019;t get much traffic, so we&#x2019;ll be periodically routing a random subset of users without any stored preferences for tabs or filters to the &#x2018;unanswered&#x2019; tab and to our tests. As of now, we&#x2019;re only planning to do this when we&#x2019;re running experiments, but it&#x2019;s possible we&#x2019;ll route all traffic from those users to the &#x2018;unanswered&#x2019; tab or the recommendation engine, depending on what we see.&lt;/p&gt;&#xA;&lt;h3&gt;What we&#x2019;re monitoring, and how we&#x2019;re measuring success&lt;/h3&gt;&#xA;&lt;p&gt;Overall, we&#x2019;ll be looking at changes in two main metrics, both for the tag pages&#x2019; &#x201C;unanswered&#x201D; tab&#x2019;s new behavior as well as the A/B test for the new recommendation engine:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click-through rate: what percentage of  users make their way to questions from that tab&lt;/li&gt;&#xA;&lt;li&gt;Answer submit rate: of the users who visit a question from the unanswered tab, how many successfully post an answer to that question&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For the new &#x201C;unanswered&#x201D; tab we&#x2019;ve rolled out on the tags pages, we&#x2019;ll keep the new behavior if no noticeable drops in those metrics are observed until the end of the month of June. Early results, comparing 4 weeks prior to the change to performance since the change, show an increase in click-through and submit from 2% to 5.9%.&lt;/p&gt;&#xA;&lt;p&gt;For the A/B testing new recommendation engine we&#x2019;ll be looking for differences in the engine&#x2019;s performance and the tab&#x2019;s new behavior, establishing theories for causes of the shortcomings we observe, and iteratively testing improvements to the model within a 2-3 week cadence&lt;/p&gt;&#xA;&lt;h3&gt;Wrapping up&lt;/h3&gt;&#xA;&lt;p&gt;While the change to the baseline &#x201C;unanswered&#x201D; tab on tag pages has already been rolled out, the recommendation engine will be undergoing development work for some time, which means your feedback can be helpful in formulating some of our future hypotheses and tests. With that in mind, we&#x2019;re particularly interested in hearing from you on how you find questions to answer today. &lt;strong&gt;How do you judge which questions you can and want to answer, and which questions you can&#x27;t or do not want to answer?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As we modify the tags pages for the &amp;quot;looking for questions to answer&amp;quot; use case, we also want to understand what other use cases we might be encroaching on in case we&#x27;re making that experience worse. &lt;strong&gt;So it&#x2019;s also important to us to understand what purposes other than finding unanswered questions you use the tags pages for today, and how frequently you use it for those other purposes.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have thoughts on those questions you&#x2019;d like to share, please post them answers below (one use case per answer makes it easier to parse). &lt;strong&gt;We&#x2019;ll be monitoring this post for feedback until June 24.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you see bugs introduced by these changes and tests, please post them as separate questions.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/433864</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-25</re:rank>
+        <title type="text">Do you agree with Gergely that &quot;Stack Overflow is almost dead&quot;?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="statistics" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="community" />
+        <author>
+            <name>Jim DeLaHunt</name>
+            <uri>https://meta.stackoverflow.com/users/1099571</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/433864/do-you-agree-with-gergely-that-stack-overflow-is-almost-dead" />
+        <published>2025-05-15T21:42:32Z</published>
+        <updated>2025-07-02T06:13:00Z</updated>
+        <summary type="html">
+            &lt;p&gt;Software industry blogger Gergely Orosz claimed that &lt;a href=&quot;https://newsletter.pragmaticengineer.com/p/the-pulse-134&quot; rel=&quot;nofollow noreferrer&quot;&gt;&amp;quot;Stack overflow almost dead&amp;quot; in a 15 May 2025 post&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Today, Stack overflow has almost as few questions asked per month, as when it launched back in 2009. A recap of its slow, then rapid, downfall.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;They base this on a &lt;a href=&quot;https://xcancel.com/marcgravell/status/1922922817143660783&quot; rel=&quot;nofollow noreferrer&quot;&gt;Twitter post&lt;/a&gt; citing data from &lt;a href=&quot;https://data.stackexchange.com/stackoverflow/queries&quot; rel=&quot;nofollow noreferrer&quot;&gt;SEDE metrics&lt;/a&gt; of number of questions asked per month. The post also summarises a timeline of Stack Overflow actions on moderation, with commentary.&lt;/p&gt;&#xA;&lt;p&gt;Gergely points to LLM use as a main factor drying up questions. But they also write:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;2014: questions started to decline, which was also when Stack Overflow &lt;a href=&quot;https://meta.stackoverflow.com/questions/251175/stack-overflow-is-not-yet-a-vast-wasteland-a-history-of-moderator-tooling&quot;&gt;significantly improved moderator efficiency&lt;/a&gt;. From then, questions were closed faster, many more were closed, and &#x201C;low quality&#x201D; questions were removed more efficiently. This tallies with my memory of feeling that site moderators had gone on a power trip by closing legitimate questions. &lt;em&gt;I stopped asking questions around this time because the site felt unwelcome.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is interesting context for &lt;a href=&quot;https://meta.stackoverflow.com/users/21167450/emmabee&quot;&gt;EmmaBee&lt;/a&gt;&#x27;s summary of Meta&#x27;s insights on &amp;quot;&lt;a href=&quot;https://meta.stackoverflow.com/questions/433769/what-we-learned-insights-from-the-discussion-on-closed-and-potentially-useful&quot;&gt;closed (and potentially useful) questions on Stack Overflow&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My questions: do you agree with the conclusion that &amp;quot;Stack Overflow is almost dead&amp;quot;?  Do you agree with that the rise of LLMs, and SO feeling unwelcome, are the cause?  Is number of new questions the right metric for &amp;quot;life&amp;quot; or &amp;quot;death&amp;quot; of SO?&lt;/p&gt;&#xA;&lt;p&gt;My hidden agenda: I think Gergely&#x27;s commentary will be interesting to Meta Stack Overflow readers, so I want to make it known here.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/433817</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-272</re:rank>
+        <title type="text">Experimenting with New Comment UI Features on Stack Overflow</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="comments" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="user-interface" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="experiments" />
+        <author>
+            <name>Hoid</name>
+            <uri>https://meta.stackoverflow.com/users/16680213</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/433817/experimenting-with-new-comment-ui-features-on-stack-overflow" />
+        <published>2025-05-12T19:01:21Z</published>
+        <updated>2025-07-02T13:07:12Z</updated>
+        <summary type="html">
+            &lt;h2&gt;Update May 20th, 2025&lt;/h2&gt;&#xA;&lt;p&gt;Earlier today, we turned the experiment back on for Stack Overflow. As for what happened, &lt;a href=&quot;https://stackoverflow.com/u/11107541&quot;&gt;starball&lt;/a&gt; identified and reported an XSS vulnerability. This occurred because the new comment UI, built differently from our current system, unfortunately omitted some necessary sanitization checks that are normally applied when rendering comments. After thoroughly reviewing all comments made since the experiment launched, we can confirm that no malicious comments were found. We have added the necessary sanitization code prior to redeployment.&lt;/p&gt;&#xA;&lt;h2&gt;Update May 15th, 2025&lt;/h2&gt;&#xA;&lt;p&gt;We encountered an issue with the commenting experiment and have temporarily paused it while we investigate and resolve it. We will provide more information once that has been completed.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://meta.stackexchange.com/questions/408584/evolving-comments-an-experiment-to-encourage-engagement-and-follow-up-questions&quot;&gt;As part of our broader initiative to evolve the commenting system&lt;/a&gt;, starting tomorrow, May 14th, and for approximately the next two weeks, we are beginning a series of focused UI experiments with comments on Stack Overflow. The first experiment will introduce an update to &lt;strong&gt;the comment interface only on Answers&lt;/strong&gt;. Users who do not wish to participate in the experiment can opt out by going to &lt;a href=&quot;https://stackoverflow.com/help/experiment-opt-out&quot;&gt;settings&amp;gt;preferences and toggling the enable experiments option off&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2&gt;Experimental UI changes:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/XIeobiIc.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/XIeobiIc.png&quot; alt=&quot;Screenshot of the SO user interface displaying a question-and-answer page. Key elements include the left navigation sidebar, the central content area with a question, one answer, and six comments (all populated with &#x27;Lorem ipsum&#x27; placeholder text), voting controls, user details, and a &#x27;Your Answer&#x27; text editor at the bottom. The right sidebar shows sections for &#x27;Related&#x27; and &#x27;Hot Network Questions&#x27;.&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This initial test will include changes to the comment UI experience. Users on Stack Overflow will be split into two groups&#x2013; Those who see the old commenting UI and those who will see the new commenting UI. Those changes will be as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An updated visual change for the comments UI, making them larger and more prominent than the current design, with updated buttons.&lt;/li&gt;&#xA;&lt;li&gt;Comment actions such as &amp;quot;Share,&amp;quot; &amp;quot;Edit,&amp;quot; and &amp;quot;Delete&amp;quot; will be consolidated within a three-dot overflow menu for users with the appropriate permissions instead of showing on hover.&lt;/li&gt;&#xA;&lt;li&gt;The flag option will become visible upon hovering over a comment for users who have earned flagging privileges, instead of it being visible under the upvote icon.&lt;/li&gt;&#xA;&lt;li&gt;As with the current logic only the first five comments beneath a post will be displayed. An &amp;quot;Expand Comments&amp;quot; option will be available to reveal the full set of comments under a given post.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This experiment aims to evaluate how these changes impact the commenting experience and whether it encourages more users to engage by commenting.&lt;/p&gt;&#xA;&lt;h2&gt;Key Metrics&lt;/h2&gt;&#xA;&lt;p&gt;We will be measuring the overall volume of comments between the control group and the variant group. We will also be sampling comments to determine if they are in line with more expansive commenting rules that are as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Asking specific follow-up questions about the post.&lt;/li&gt;&#xA;&lt;li&gt;Seeking clarification on how an answer works or why it might not work for you.&lt;/li&gt;&#xA;&lt;li&gt;Sharing variations or related experiences pertinent to the Q&amp;amp;A.&lt;/li&gt;&#xA;&lt;li&gt;Engaging in constructive, technical discussion sparked by a question or answer, even if it explores associated concepts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2&gt;Request for Feedback&lt;/h2&gt;&#xA;&lt;p&gt;If you have any questions, notice bugs, or have feedback to share, please share your feedback on this post. We will be keeping tabs on feedback left here till &lt;strong&gt;June 9th, 2025&lt;/strong&gt;.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/432537</id>
+        <re:rank scheme="https://meta.stackoverflow.com">-7</re:rank>
+        <title type="text">Profile does not accept x.com links and shows outdated Twitter/X label and logo</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="bug" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-completed" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="profile-page" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="twitter" />
+        <author>
+            <name>Deep Dalsania</name>
+            <uri>https://meta.stackoverflow.com/users/13351822</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/432537/profile-does-not-accept-x-com-links-and-shows-outdated-twitter-x-label-and-logo" />
+        <published>2024-12-28T14:12:56Z</published>
+        <updated>2025-07-03T07:27:29Z</updated>
+        <summary type="html">
+            &lt;p&gt;I came across an issue while updating my Stack Overflow profile. Since Twitter has rebranded to X, I noticed a major as well as crucial inconsistency and issue in the &amp;quot;Twitter link or username&amp;quot; section of the profile settings:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The label still says &#x201C;Twitter link or username&#x201D;, which is outdated. Ideally, it should be updated to something like &#x201C;Twitter/X link or username&#x201D; to reflect the rebranding.&lt;/li&gt;&#xA;&lt;li&gt;The logo displayed next to the field is still the old Twitter bird icon. This should be replaced with the new X logo.&lt;/li&gt;&#xA;&lt;li&gt;The validation does not accept links to x.com (e.g., &lt;a href=&quot;https://x.com/DalsaniaDd&quot; rel=&quot;nofollow noreferrer&quot;&gt;https://x.com/DalsaniaDd&lt;/a&gt;), which is now the official domain for Twitter/X.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I think this issue occurs because:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Regular expression to validate a link is not updated to accept&#xA;either a twitter or an X.com link.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Steps to Reproduce:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Go to your profile edit page on Stack Overflow.&lt;/li&gt;&#xA;&lt;li&gt;Enter a valid &lt;strong&gt;X profile&lt;/strong&gt; link, e.g., &lt;code&gt;https://x.com/YourUsername&lt;/code&gt;, in the &amp;quot;Twitter link or username&amp;quot; field.&lt;/li&gt;&#xA;&lt;li&gt;Click &#x201C;Save Profile&#x201D;.&lt;/li&gt;&#xA;&lt;li&gt;Observe the error message as mentioned below.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Screenshot:&#xA;&lt;a href=&quot;https://i.sstatic.net/Tp9umXBJ.png&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/Tp9umXBJ.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Expected Behavior:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The label should be updated to &amp;quot;Twitter/X link or username.&amp;quot;&lt;/li&gt;&#xA;&lt;li&gt;The logo should be updated to the X logo.&lt;/li&gt;&#xA;&lt;li&gt;Validation should accept links to x.com too.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Actual Behavior:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The label says &amp;quot;Twitter link or username.&lt;/li&gt;&#xA;&lt;li&gt;The old Twitter bird icon is displayed as the logo.&lt;/li&gt;&#xA;&lt;li&gt;Validation does not accept x.com links, making it impossible to save valid X profile URLs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Environment:&lt;br&gt;&#xA;Browser: Any Browser&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/421831</id>
+        <re:rank scheme="https://meta.stackoverflow.com">5208</re:rank>
+        <title type="text">Policy: Generative AI (e.g., ChatGPT) is banned</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="featured" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="announcement" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="rules" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="ai-generated-content" />
+        <author>
+            <name>Makyen</name>
+            <uri>https://meta.stackoverflow.com/users/3773011</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned" />
+        <published>2022-12-05T05:34:36Z</published>
+        <updated>2025-07-04T11:21:54Z</updated>
+        <summary type="html">
+            &lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Moderator Note:&lt;/strong&gt; This post has been locked to prevent comments because people have been using them for protracted debate and discussion (we&#x27;ve deleted over 300 comments on this post alone, not even including its answers).&lt;/p&gt;&#xA;&lt;p&gt;The comment lock is not meant to suppress discussion or prevent users from expressing their opinions. You are (as always) encouraged to vote on this post to express your agreement/disagreement. If you want to discuss this policy further, or suggest other related changes, please &lt;a href=&quot;https://meta.stackoverflow.com/questions/ask&quot;&gt;Ask a New Question&lt;/a&gt; and use the &lt;a href=&quot;/questions/tagged/ai-generated-content&quot; class=&quot;s-tag post-tag&quot; title=&quot;show questions tagged &amp;#39;ai-generated-content&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;ai-generated-content&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-ai-generated-content-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;ai-generated-content&lt;/a&gt; tag.&lt;/p&gt;&#xA;&lt;p&gt;This question remains &lt;a href=&quot;/questions/tagged/featured&quot; class=&quot;s-tag post-tag s-tag__moderator moderator-tag&quot; title=&quot;show questions tagged &amp;#39;featured&amp;#39;&quot; aria-label=&quot;show questions tagged &amp;#39;featured&amp;#39;&quot; rel=&quot;tag&quot; aria-labelledby=&quot;tag-featured-tooltip-container&quot; data-tag-menu-origin=&quot;Unknown&quot;&gt;featured&lt;/a&gt; because that is still the best, most prominent, and only &lt;em&gt;permanent&lt;/em&gt; way that we have to announce this policy site-wide.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2&gt;&lt;em&gt;All&lt;/em&gt; use of generative AI (e.g., &lt;a href=&quot;https://openai.com/blog/chatgpt/&quot; rel=&quot;nofollow noreferrer&quot;&gt;ChatGPT&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt; and other LLMs) is banned when posting content on Stack Overflow.&lt;/h2&gt;&#xA;&lt;h3&gt;This includes &amp;quot;asking&amp;quot; the question to an AI generator then copy-pasting its output &lt;em&gt;as well as&lt;/em&gt; using an AI generator to &amp;quot;reword&amp;quot; your answers.&lt;/h3&gt;&#xA;&lt;h3&gt;Please see the Help Center article: &lt;a href=&quot;https://stackoverflow.com/help/ai-policy&quot;&gt;What is this site&#x2019;s policy on content generated by generative artificial intelligence tools?&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Overall, because the average rate of getting &lt;em&gt;correct&lt;/em&gt; answers from ChatGPT and other generative AI technologies is too low, &lt;strong&gt;the posting of content created by ChatGPT and other generative AI technologies is &lt;em&gt;substantially harmful&lt;/em&gt; to the site and to users who are asking questions and looking for &lt;em&gt;correct&lt;/em&gt; answers.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The primary problem is that while the answers which ChatGPT and other generative AI technologies produce have a high rate of being incorrect, they typically &lt;em&gt;look like&lt;/em&gt; the answers &lt;em&gt;might&lt;/em&gt; be good and the answers are &lt;em&gt;very&lt;/em&gt; easy to produce. There are also many people trying out ChatGPT and other generative AI technologies to create answers, without the expertise or willingness to verify that the answer is correct prior to posting. Because such answers are so easy to produce, a large number of people are posting a &lt;em&gt;lot&lt;/em&gt; of answers. The volume of these answers (thousands) and the fact that the answers often require a detailed read by someone with significant subject matter expertise in order to determine that the answer is actually bad has effectively swamped our volunteer-based quality curation infrastructure.&lt;/p&gt;&#xA;&lt;p&gt;As such, we need to reduce the volume of these posts and we need to be able to deal with the ones which are posted quickly, which means dealing with users, rather than individual posts.&lt;/p&gt;&#xA;&lt;p&gt;So, the use of ChatGPT or other generative AI technologies to create posts or other content here on Stack Overflow is not permitted. If a user is believed to have used ChatGPT or other generative AI technologies after the posting of this policy, sanctions will be imposed to prevent them from continuing to post such content, even if the posts would otherwise be acceptable.&lt;/p&gt;&#xA;&lt;p&gt;NOTE: While the above text focuses on answers, because that&#x27;s where we&#x27;re experiencing the largest volume of such content, the ban applies to all content on Stack Overflow, except each user&#x27;s profile content (e.g., your &amp;quot;About me&amp;quot; text).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4&gt;Historical context of this ban originally being &amp;quot;temporary&amp;quot;&lt;/h4&gt;&#xA;&lt;p&gt;When this ban was originally posted on 2022-12-05, it was explicitly stated as a &amp;quot;Temporary policy&amp;quot;. It was specifically &amp;quot;temporary&amp;quot;, because it was, at that time, a policy which was being imposed by the subset of moderators who were present on the site over the weekend after the announcement of ChatGPT&#x27;s public release, 2022-11-30, through the Monday, 2022-12-05, when this question was posted. The moderators involved strongly felt that we didn&#x27;t have the right to impose a permanent policy in this manner upon the site, but did have a responsibility to impose a temporary policy that was necessary in order for the site to remain functioning while discussion was had, consensus reached, and also allowed Stack Overflow, the company, time to have internal discussions to see what policies they would adopt network wide. So, after consultation with the company, the moderators present at that time chose to implement this as a &amp;quot;temporary&amp;quot; policy.&lt;/p&gt;&#xA;&lt;p&gt;Since then, quite a lot has happened. Based on the voting for this question, it&#x27;s clear that there&#x27;s an overwhelming consensus for this policy. The company &lt;a href=&quot;https://meta.stackexchange.com/questions/384396/ban-chatgpt-network-wide/385002#385002&quot;&gt;has chosen that the specific policy on AI-generated content will be up to individual sites&lt;/a&gt; (&lt;a href=&quot;https://meta.stackexchange.com/questions/384922/is-there-a-list-of-chatgpt-or-other-ai-related-discussions-and-policies-for-our&quot;&gt;list of per-site policies&lt;/a&gt;), but that even on sites which permit AI-generated content, such &lt;a href=&quot;https://meta.stackexchange.com/questions/384647/is-attribution-required-for-machine-generated-text-when-posting-on-stack-exchang/384648#384648&quot;&gt;AI-generated content is considered &amp;quot;not your own work&amp;quot;&lt;/a&gt; and must follow the &lt;a href=&quot;/help/referencing&quot;&gt;referencing requirements&lt;/a&gt;. The requirement for following the referencing requirements was, later, put into the &lt;a href=&quot;/conduct/inauthentic-usage&quot;&gt;Code of Conduct: Inauthentic usage policy&lt;/a&gt;. There&#x27;s a &lt;strong&gt;lot more&lt;/strong&gt; that&#x27;s gone on with respect to AI-generated content. So much has happened such that it&#x27;s not reasonable to try to summarize all of it here.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;sup&gt;1. ChatGPT is an Artificial Intelligence based chat bot by OpenAI, which was announced on 2022-11-30. Use of ChatGPT is currently available to the public without monetary payment.&lt;/sup&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/362924</id>
+        <re:rank scheme="https://meta.stackoverflow.com">2</re:rank>
+        <title type="text">When to post solidity &amp; smart contract questions on SO rather than Ethereum SE?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="questions" />
+        <author>
+            <name>Don</name>
+            <uri>https://meta.stackoverflow.com/users/5031762</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/362924/when-to-post-solidity-smart-contract-questions-on-so-rather-than-ethereum-se" />
+        <published>2018-02-04T01:39:01Z</published>
+        <updated>2025-07-01T05:51:49Z</updated>
+        <summary type="html">
+            &lt;p&gt;When will solidity &amp;amp; smart contract question posts be better received on Stack Overflow rather than Ethereum Stack Exchange?&lt;/p&gt;&#xA;&lt;p&gt;A glance at the Ethereum SE&#x27;s top questions clearly shows most of them are programming-related. The community is much smaller so answers may be slower to come &amp;amp; fewer in number but &lt;em&gt;may&lt;/em&gt; be higher in quality.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/285551</id>
+        <re:rank scheme="https://meta.stackoverflow.com">170</re:rank>
+        <title type="text">Why should I not upload images of code/data/errors?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="faq" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="code-formatting" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="images" />
+        <author>
+            <name>Ashley Pieterse</name>
+            <uri>https://meta.stackoverflow.com/users/4489669</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/285551/why-should-i-not-upload-images-of-code-data-errors" />
+        <published>2015-02-06T22:40:14Z</published>
+        <updated>2025-07-04T02:16:01Z</updated>
+        <summary type="html">
+            &lt;p&gt;I am new to Stack Overflow, and I have asked about 5 questions so far. I make sure to always upload images of my code. On two separate occasions, two different users advised me not to upload images of code and outputs. One even jokingly said that, every time an image of code is uploaded, a kitten somewhere dies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why is uploading images of code on Stack Overflow such a big &amp;quot;no no&amp;quot;?&lt;/strong&gt; Isn&#x27;t that why we have the option to upload images?&lt;/p&gt;&#xA;&lt;p&gt;What other options do I have if I want to show my code to everyone, so that they can have a better understanding of what I am explaining?&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://meta.stackoverflow.com/questions/251225/&quot;&gt;Return to FAQ index&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Canonical link:&lt;/strong&gt; &lt;code&gt;[Please do not upload images of code/data/errors.](//meta.stackoverflow.com/q/285551)&lt;/code&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/269191</id>
+        <re:rank scheme="https://meta.stackoverflow.com">172</re:rank>
+        <title type="text">Impose a 24 hour voting freeze on questions being discussed on Meta</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="discussion" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="feature-request" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="status-review" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="locked-posts" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="meta-effect" />
+        <author>
+            <name>George Stocker</name>
+            <uri>https://meta.stackoverflow.com/users/16587</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/269191/impose-a-24-hour-voting-freeze-on-questions-being-discussed-on-meta" />
+        <published>2014-08-19T14:24:57Z</published>
+        <updated>2025-07-02T14:14:49Z</updated>
+        <summary type="html">
+            &lt;p&gt;The &lt;a href=&quot;https://www.google.com/search?q=%22meta%20effect%22%20site%3Ameta.stackexchange.com&quot; rel=&quot;nofollow noreferrer&quot;&gt;&quot;Meta Effect&quot; is well known&lt;/a&gt;. Not a week goes by where a valid question is asked on Meta, and Meta users flock to Stack Overflow to upvote or downvote that question.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;It&#x27;s even getting to the point &lt;a href=&quot;https://meta.stackoverflow.com/questions/262702/is-there-a-problem-with-questions-linked-to-on-meta-recieving-too-much-attention/262703#262703&quot;&gt;where the Meta effect is actively detrimental&lt;/a&gt; to welcoming new users to Meta.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Because of that, and because the purpose of Meta is to freely discuss issues related to Stack Overflow, I propose that we institute a system-imposed voting freeze (think of a new type of lock that only affects votes on the question) on Stack Overflow questions that are linked to in Meta &lt;em&gt;questions&lt;/em&gt; for the first 24 hours of the Meta question&#x27;s existence.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This freeze should only go into effect if the OP of the original Stack Overflow question is the one that poses the Meta question that references the Stack Overflow question.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This accomplishes two goals:&lt;/p&gt;&#xA;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;p&gt;Allows free discussion of a question&#x27;s merits without adversely affecting the OP&#x27;s Stack Overflow reputation. A new user that brings up a Meta question about their Stack Overflow question needs our guidance, not our judgment. The very fact that they&#x27;re bringing their problem up to Meta is a step above what we see from users who don&#x27;t care.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Relieves moderators from needing to manually intervene when a question is targeted by the Meta Effect, as this requires near 24-hour coverage of Meta by moderators.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&quot;https://meta.stackoverflow.com/questions/269106/is-there-anyway-to-further-improve-my-bad-question#comment80961_269106&quot;&gt;Robert Harvey&#x27;s manual lock&lt;/a&gt; of a Stack Overflow question brought this idea up.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://meta.stackoverflow.com/q/255583</id>
+        <re:rank scheme="https://meta.stackoverflow.com">53</re:rank>
+        <title type="text">What can I do when getting &#x201C;We are no longer accepting questions/answers from this account&#x201D;?</title>
+            <category scheme="https://meta.stackoverflow.com/tags" term="support" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="faq" />
+            <category scheme="https://meta.stackoverflow.com/tags" term="post-ban" />
+        <author>
+            <name>Robert Harvey</name>
+            <uri>https://meta.stackoverflow.com/users/102937</uri>
+        </author>
+        <link rel="alternate" href="https://meta.stackoverflow.com/questions/255583/what-can-i-do-when-getting-we-are-no-longer-accepting-questions-answers-from-th" />
+        <published>2014-05-20T19:38:39Z</published>
+        <updated>2025-07-05T01:55:59Z</updated>
+        <summary type="html">
+            &lt;p&gt;Do not repost the question you were about to ask until you have&lt;/p&gt;&#xA;&lt;h1&gt;&lt;a href=&quot;https://meta.stackoverflow.com/a/255584&quot;&gt;READ EVERYTHING IN THE ANSWER BELOW&lt;/a&gt;.&lt;/h1&gt;&#xA;&lt;h5&gt;The answer below is the best information we have for people who are getting a notice that the system is no longer accepting questions or answers from their account. This is a tough situation. It&#x27;s unlikely there&#x27;s a quick fix. Resolving this is going to take work on the part of the person who owns the account. If that&#x27;s you, and you want to resolve this, read the entire answer below.&lt;/h5&gt;&#xA;&lt;h1&gt;&#x2800;&lt;/h1&gt;&#xA;&lt;p&gt;While trying to ask a question, one could see:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h1&gt;You can&#x27;t post new questions right now&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Sorry, we are no longer accepting questions from your account because most of your questions need improvement or are out of scope for this site. See the Help Center page &lt;a href=&quot;https://stackoverflow.com/help/question-bans&quot;&gt;Why are questions no longer being accepted from my account?&lt;/a&gt; to learn more.&lt;/p&gt;&#xA;&lt;p&gt;Please &lt;strong&gt;do not create a new account&lt;/strong&gt;. Instead, work on &lt;em&gt;improving your existing questions&lt;/em&gt; by editing them to comply with &lt;a href=&quot;https://stackoverflow.com/help/how-to-ask&quot;&gt;the site&#x27;s guidelines&lt;/a&gt; and address any feedback you&#x27;ve received. You can also continue to contribute to the site in other ways, such as &lt;a href=&quot;https://stackoverflow.com/help/editing&quot;&gt;editing&lt;/a&gt; other posts to improve them.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Likewise, for answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sorry, we are no longer accepting questions/answers from your account because most of your answers need improvement or do not sufficiently answer the question. See &lt;a href=&quot;https://stackoverflow.com/help/answer-bans&quot;&gt;the Help Center&lt;/a&gt; to learn more.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2&gt;The answer below covers the following points:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Why am I getting this message?&lt;/li&gt;&#xA;&lt;li&gt;Are deleted posts taken into account too?&lt;/li&gt;&#xA;&lt;li&gt;Is a question/answer ban the same as a suspension?&lt;/li&gt;&#xA;&lt;li&gt;How do I avoid getting a question ban?&lt;/li&gt;&#xA;&lt;li&gt;How long do I have to wait before I can post again? What can I do to release the ban? How can I reactivate my account?&lt;/li&gt;&#xA;&lt;li&gt;Can I simply create a new account?&lt;/li&gt;&#xA;&lt;li&gt;I&#x27;ll just ask on Super User or Server Fault, and they&#x27;ll migrate my question to the correct site!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&quot;/q/251225&quot;&gt;Return to FAQ index&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+</feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Meta Stack Overflow</title>
+  <entry>
+    <title>Test Post 1</title>
+    <link href="https://meta.stackoverflow.com/q/1" />
+    <id>https://meta.stackoverflow.com/q/1</id>
+    <published>2024-07-02T12:00:00Z</published>
+    <updated>2024-07-02T12:00:00Z</updated>
+    <summary type="html">This is a test summary 1.</summary>
+    <category term="discussion" />
+    <category term="feature-request" />
+  </entry>
+  <entry>
+    <title>Test Post 2</title>
+    <link href="https://meta.stackoverflow.com/q/2" />
+    <id>https://meta.stackoverflow.com/q/2</id>
+    <published>2024-07-03T13:00:00Z</published>
+    <updated>2024-07-03T13:00:00Z</updated>
+    <summary type="html">This is a test summary 2.</summary>
+    <category term="bug" />
+  </entry>
+</feed>

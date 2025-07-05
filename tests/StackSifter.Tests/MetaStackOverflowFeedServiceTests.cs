@@ -1,3 +1,5 @@
+using StackSifter.Feed;
+
 namespace StackSifter.Tests;
 
 public class MetaStackOverflowFeedServiceTests

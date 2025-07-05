@@ -22,3 +22,8 @@ foreach (var post in posts)
 {
     Console.WriteLine($"Created: [{post.Published:O}]\n Title: {post.Title}\nTags: {string.Join(", ", post.Tags)}\n");
 }
+
+if (!posts.Any())
+{
+    Console.WriteLine("No posts matched");
+}

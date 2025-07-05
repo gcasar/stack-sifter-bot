@@ -18,13 +18,16 @@ public class MetaStackOverflowFeedService : IFeedService
         var posts = feed.Items
             .Where(item => item.PublishingDate != null && item.PublishingDate > since)
             .OrderBy(item => item.PublishingDate)
-            .Select(item => new Post
-            {
-                Published = item.PublishingDate!.Value
-                // Add other property mappings as needed
-            })
+            .Select(item =>
+                new Post(
+                    item.PublishingDate!.Value,
+                    item.Title ?? string.Empty,
+                    item.Description ?? string.Empty,
+                    item.Categories?.ToList() ?? new List<string>()
+                )
+            )
             .ToList();
         // Return in batches of 10 (or less if not enough)
-        return posts.Take((posts.Count / 10) * 10).ToList();
+        return posts.Take(posts.Count / 10 * 10).ToList();
     }
 }

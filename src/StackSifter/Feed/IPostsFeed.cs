@@ -1,6 +1,6 @@
 namespace StackSifter.Feed;
 
-public interface IFeedService
+public interface IPostsFeed
 {
     Task<List<Post>> FetchPostsSinceAsync(DateTime since);
 }

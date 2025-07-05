@@ -3,14 +3,14 @@ using System.Net;
 
 namespace StackSifter.Tests;
 
-public class MetaStackOverflowFeedServiceTests
+public class WhenFetchingFromRssFeed
 {
     [Test]
-    public async Task FetchPostsSince_MapsAllPostFields()
+    public async Task MapsAllPostFields()
     {
         // Arrange
         var lastRun = new DateTime(2024, 7, 1, 0, 0, 0, DateTimeKind.Utc);
-        var service = new MetaStackOverflowFeedService();
+        var service = new StackOverflowRSSFeed();
 
         // Act
         var posts = await service.FetchPostsSinceAsync(lastRun);

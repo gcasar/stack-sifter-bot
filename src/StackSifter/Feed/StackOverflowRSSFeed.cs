@@ -3,20 +3,21 @@ namespace StackSifter.Feed;
 using CodeHollow.FeedReader;
 using System.Net.Http;
 
-public class MetaStackOverflowFeedService : IFeedService
+public class StackOverflowRSSFeed : IPostsFeed
 {
     private readonly HttpClient _httpClient;
+    private readonly string _feedUrl;
 
-    public MetaStackOverflowFeedService(HttpClient? httpClient = null)
+    public StackOverflowRSSFeed(HttpClient? httpClient = null, string? feedUrl = null)
     {
         _httpClient = httpClient ?? new HttpClient();
+        _feedUrl = feedUrl ?? "https://meta.stackoverflow.com/feeds";
     }
 
     public async Task<List<Post>> FetchPostsSinceAsync(DateTime since)
     {
-        var feedUrl = "https://meta.stackoverflow.com/feeds";
         _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("StackSifterBot/1.0 (+https://github.com/gcasar/stack-sifter)");
-        var xml = await _httpClient.GetStringAsync(feedUrl);
+        var xml = await _httpClient.GetStringAsync(_feedUrl);
         // Replace problematic entities (e.g., &bull;) with safe equivalents
         xml = xml.Replace("&bull;", "•");
         // Add more replacements as needed for other entities

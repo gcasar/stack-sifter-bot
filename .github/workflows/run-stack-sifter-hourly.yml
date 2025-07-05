@@ -1,0 +1,28 @@
+# This workflow runs the StackSifter console app every hour
+name: Run StackSifter Hourly
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore ./src/StackSifter/StackSifter.csproj
+
+      - name: Build
+        run: dotnet build --configuration Release ./src/StackSifter/StackSifter.csproj
+
+      - name: Run StackSifter
+        run: dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release

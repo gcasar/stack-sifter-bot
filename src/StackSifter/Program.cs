@@ -2,6 +2,9 @@
 using StackSifter;
 using System.Text.Json;
 
+// Require OpenAI API key from environment variable
+var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY") ?? throw new InvalidOperationException("OPENAI_API_KEY environment variable is not set.");
+
 // Require UTC timestamp as argument
 if (args.Length == 0 || !DateTime.TryParse(args[0], null, System.Globalization.DateTimeStyles.AdjustToUniversal | System.Globalization.DateTimeStyles.AssumeUniversal, out var since))
 {
@@ -13,7 +16,9 @@ string? feedUrl = args.Length > 1 ? args[1] : null;
 
 // Wire things up!
 IPostsFeed feed = new StackOverflowRSSFeed(feedUrl: feedUrl);
-var sifter = new AllMatchPostSifter();
+// Configure OpenAILLMSifter to filter for Python or C code questions
+var criteriaPrompt = "Does this post contain a question about Python or C code?";
+var sifter = new OpenAILLMSifter(apiKey, criteriaPrompt);
 var service = new PostsProcessingService(feed, sifter);
 
 // Run the actual processing

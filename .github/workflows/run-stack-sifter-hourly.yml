@@ -29,6 +29,8 @@ jobs:
 
       - name: Run StackSifter
         id: run_stack_sifter
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           # Try to checkout last-run.txt from the remote branch without switching
           git fetch origin data-run-information
@@ -46,7 +48,7 @@ jobs:
           echo "$OUTPUT"
 
           # Extract the last Created timestamp from the JSON output, or use PREV if no output
-            if [ "$(echo "$OUTPUT" | jq 'length')" -eq 0 ]; then
+          if [ "$(echo "$OUTPUT" | jq 'length')" -eq 0 ]; then
             LAST_CREATED="$PREV"
             echo "No posts found, keeping previous checked value $PREV"
           else

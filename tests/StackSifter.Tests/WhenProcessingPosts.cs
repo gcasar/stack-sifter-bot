@@ -11,8 +11,8 @@ public class WhenProcessingPosts
         // Arrange
         var posts = new List<Post>
         {
-            new(DateTime.UtcNow.AddMinutes(-10), "A", "Brief A", new() { "c#" }),
-            new(DateTime.UtcNow.AddMinutes(-5), "B", "Brief B", new() { "java" })
+            new(DateTime.UtcNow.AddMinutes(-10), "A", "Brief A", new() { "c#" }, "AuthorA", "https://example.com/a"),
+            new(DateTime.UtcNow.AddMinutes(-5), "B", "Brief B", new() { "java" }, "AuthorB", "https://example.com/b")
         };
         var feedMock = new Mock<IPostsFeed>();
         feedMock.Setup(f => f.FetchPostsSinceAsync(It.IsAny<DateTime>())).ReturnsAsync(posts);

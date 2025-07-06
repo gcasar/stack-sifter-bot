@@ -23,7 +23,7 @@ var service = new PostsProcessingService(feed, sifter);
 
 // Run the actual processing
 var posts = await service.FetchAndFilterPostsAsync(since);
-var minimalPosts = posts.Select(p => new { Created = p.Published, p.Title, p.Tags }).ToList();
+var minimalPosts = posts.Select(p => new { Created = p.Published, p.Title, p.Tags, p.Url }).ToList();
 
 var json = JsonSerializer.Serialize(minimalPosts, new JsonSerializerOptions { WriteIndented = true });
 Console.WriteLine(json);

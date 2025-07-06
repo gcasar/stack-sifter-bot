@@ -11,7 +11,7 @@ public class WhenSiftingWithOpenAILLM
     public async Task ReturnsMatchWhenLLMRespondsYes()
     {
         // Arrange
-        var post = new Post(DateTime.UtcNow, "How to use OpenAI API?", "Details...", new List<string>{"openai"});
+        var post = new Post(DateTime.UtcNow, "How to use OpenAI API?", "Details...", new List<string>{"openai"}, "TestAuthor", "https://example.com");
         var apiKey = "fake-api-key";
         var yesResponsePath = "StackSifter.Tests.TestData.openai_response_yes_snapshot.json";
         var handlerYes = new MockHttpMessageHandler(yesResponsePath);
@@ -29,7 +29,7 @@ public class WhenSiftingWithOpenAILLM
     public async Task DoesNotMatchPostWhenLLMRespondsNo()
     {
         // Arrange
-        var post = new Post(DateTime.UtcNow, "Unrelated question", "Details...", new List<string>{"other"});
+        var post = new Post(DateTime.UtcNow, "Unrelated question", "Details...", new List<string>{"other"}, "TestAuthor", "https://example.com");
         var apiKey = "fake-api-key";
         var noResponsePath = "StackSifter.Tests.TestData.openai_response_no_snapshot.json";
         var handlerNo = new MockHttpMessageHandler(noResponsePath);

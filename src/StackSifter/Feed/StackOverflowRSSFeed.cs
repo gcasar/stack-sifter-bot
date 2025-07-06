@@ -22,6 +22,7 @@ public class StackOverflowRSSFeed : IPostsFeed
         xml = xml.Replace("&bull;", "•");
         // Add more replacements as needed for other entities
         var feed = FeedReader.ReadFromString(xml);
+
         var posts = feed.Items
             .Where(item => item.PublishingDate != null && item.PublishingDate > since)
             .OrderBy(item => item.PublishingDate)
@@ -30,7 +31,9 @@ public class StackOverflowRSSFeed : IPostsFeed
                     item.PublishingDate!.Value,
                     item.Title ?? string.Empty,
                     item.Description ?? string.Empty,
-                    item.Categories?.ToList() ?? new List<string>()
+                    item.Categories?.ToList() ?? new List<string>(),
+                    item.Author ?? string.Empty,
+                    item.Link ?? string.Empty
                 )
             )
             .ToList();

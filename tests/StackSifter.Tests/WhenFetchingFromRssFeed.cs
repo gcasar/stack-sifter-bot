@@ -1,5 +1,5 @@
 using StackSifter.Feed;
-using System.Net;
+using StackSifter.Tests.Utils;
 
 namespace StackSifter.Tests;
 
@@ -25,27 +25,6 @@ public class WhenFetchingFromRssFeed
             Assert.That(post.Title, Is.Not.Null.And.Not.Empty, "Title should be mapped");
             Assert.That(post.Brief, Is.Not.Null, "Brief should be mapped");
             Assert.That(post.Tags, Is.Not.Null, "Tags should be mapped");
-        }
-    }
-
-    private class MockHttpMessageHandler : HttpMessageHandler
-    {
-        private readonly string _responseContent;
-        public MockHttpMessageHandler(string resourceName)
-        {
-            var assembly = typeof(WhenFetchingFromRssFeed).Assembly;
-            using var stream = assembly.GetManifestResourceStream(resourceName);
-            if (stream == null)
-                throw new InvalidOperationException($"Resource not found: {resourceName}");
-            using var reader = new StreamReader(stream);
-            _responseContent = reader.ReadToEnd();
-        }
-        protected override Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
-        {
-            return Task.FromResult(new HttpResponseMessage(HttpStatusCode.OK)
-            {
-                Content = new StringContent(_responseContent)
-            });
         }
     }
 }

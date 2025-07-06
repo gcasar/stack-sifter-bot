@@ -10,18 +10,19 @@ using StackSifter.Feed;
 public class OpenAILLMSifter : IPostSifter
 {
     private readonly string _apiKey;
-    private readonly string _prompt;
+    private readonly string _criteria;
     private readonly HttpClient _httpClient;
 
+    private const string SystemPromptTemplate = "You are an AI assistant that answers only with 'yes' or 'no'. Use the following criteria: {0} Answer only 'yes' or 'no'.";
 
     private List<string>? _lastFilteredTitles;
     private List<Post>? _lastPosts;
     private bool _llmCalled;
 
-    public OpenAILLMSifter(string apiKey, string prompt, HttpClient? httpClient = null)
+    public OpenAILLMSifter(string apiKey, string criteriaPrompt, HttpClient? httpClient = null)
     {
         _apiKey = apiKey;
-        _prompt = prompt;
+        _criteria = criteriaPrompt;
         _httpClient = httpClient ?? new HttpClient();
         _llmCalled = false;
     }
@@ -40,12 +41,13 @@ public class OpenAILLMSifter : IPostSifter
             return _lastFilteredTitles.Contains(post.Title);
 
         // Prepare the prompt for the LLM
+        var systemPrompt = string.Format(SystemPromptTemplate, _criteria);
         var requestBody = new
         {
             model = "gpt-3.5-turbo",
             messages = new[]
             {
-                new { role = "system", content = _prompt },
+                new { role = "system", content = systemPrompt },
                 new { role = "user", content = $"Title: {post.Title}\nBrief: {post.Brief}" }
             },
             max_tokens = 1,

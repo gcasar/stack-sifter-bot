@@ -1,9 +1,16 @@
+
+using DotEnv = dotenv.net.DotEnv;
 using StackSifter.Feed;
 
 namespace StackSifter.Tests;
 
 public class WhenSiftingWithOpenAILLM
 {
+    [OneTimeSetUp]
+    public void LoadEnv()
+    {
+        DotEnv.Load(); // Loads .env file if present
+    }
     [Test]
     public async Task ReturnsOnlyPostsMatchingLLMResponse()
     {
@@ -13,8 +20,9 @@ public class WhenSiftingWithOpenAILLM
             new Post(DateTime.UtcNow, "How to use OpenAI API?", "Details...", new List<string>{"openai"}),
             new Post(DateTime.UtcNow, "Unrelated question", "Details...", new List<string>{"other"})
         };
-        var llmSifter = new OpenAILLMSifter("fake-api-key", prompt: "Return only OpenAI questions");
-        llmSifter.SetFilteredTitlesForTest(new List<string> { "How to use OpenAI API?" });
+        var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
+        Assert.That(apiKey, Is.Not.Null.And.Not.Empty, "OPENAI_API_KEY environment variable must be set for integration test.");
+        var llmSifter = new OpenAILLMSifter(apiKey, prompt: "Return 'yes' if the post is about OpenAI, otherwise 'no'. Only answer 'yes' or 'no'.");
 
         // Act
         var filtered = new List<Post>();

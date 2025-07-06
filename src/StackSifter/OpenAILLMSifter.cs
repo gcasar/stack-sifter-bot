@@ -33,13 +33,44 @@ public class OpenAILLMSifter : IPostSifter
         _llmCalled = true;
     }
 
-    public Task<bool> IsMatch(Post post)
+    public async Task<bool> IsMatch(Post post)
     {
         // For test, if SetFilteredTitlesForTest was called, use that
         if (_llmCalled && _lastFilteredTitles != null)
-            return Task.FromResult(_lastFilteredTitles.Contains(post.Title));
-        // In production, you would want to call the LLM here with the batch of posts
-        // For now, always return false to avoid network calls in tests
-        return Task.FromResult(false);
+            return _lastFilteredTitles.Contains(post.Title);
+
+        // Prepare the prompt for the LLM
+        var requestBody = new
+        {
+            model = "gpt-3.5-turbo",
+            messages = new[]
+            {
+                new { role = "system", content = _prompt },
+                new { role = "user", content = $"Title: {post.Title}\nBrief: {post.Brief}" }
+            },
+            max_tokens = 1,
+            temperature = 0.0,
+            n = 1,
+            stop = "\n"
+        };
+
+        var json = JsonSerializer.Serialize(requestBody);
+        var content = new StringContent(json, Encoding.UTF8, "application/json");
+        _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _apiKey);
+
+        var response = await _httpClient.PostAsync("https://api.openai.com/v1/chat/completions", content);
+        response.EnsureSuccessStatusCode();
+        var responseString = await response.Content.ReadAsStringAsync();
+
+        using var doc = JsonDocument.Parse(responseString);
+        var root = doc.RootElement;
+        var answer = root
+            .GetProperty("choices")[0]
+            .GetProperty("message")
+            .GetProperty("content")
+            .GetString();
+
+        // Interpret the answer as a yes/no (customize as needed)
+        return answer != null && answer.Trim().ToLower().StartsWith("yes");
     }
 }

@@ -6,3 +6,5 @@ This project is a C# solution for monitoring Stack Overflow RSS feeds, evaluatin
 - Do not use unnecessary usings (e.g., System, System.Collections.Generic, System.Threading.Tasks).
 - Start implementation by creating tests to specify behaviour. 
 - Be sure to split implementation into the src folder out of tests.
+
+After every change run `dotnet test` to ensure all tests pass.

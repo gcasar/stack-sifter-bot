@@ -33,13 +33,13 @@ public class OpenAILLMSifter : IPostSifter
         _llmCalled = true;
     }
 
-    public bool IsMatch(Post post)
+    public Task<bool> IsMatch(Post post)
     {
         // For test, if SetFilteredTitlesForTest was called, use that
         if (_llmCalled && _lastFilteredTitles != null)
-            return _lastFilteredTitles.Contains(post.Title);
+            return Task.FromResult(_lastFilteredTitles.Contains(post.Title));
         // In production, you would want to call the LLM here with the batch of posts
         // For now, always return false to avoid network calls in tests
-        return false;
+        return Task.FromResult(false);
     }
 }

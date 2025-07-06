@@ -10,7 +10,7 @@ public class PostsProcessingService(IPostsFeed Feed, IPostSifter Sifter)
         var matches = new List<Post>();
         foreach (var post in posts)
         {
-            if (Sifter.IsMatch(post))
+            if (await Sifter.IsMatch(post))
             {
                 matches.Add(post);
             }

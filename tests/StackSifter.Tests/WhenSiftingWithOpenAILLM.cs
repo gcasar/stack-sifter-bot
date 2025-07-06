@@ -20,7 +20,7 @@ public class WhenSiftingWithOpenAILLM
         var filtered = new List<Post>();
         foreach (var post in posts)
         {
-            if (llmSifter.IsMatch(post))
+            if (await llmSifter.IsMatch(post))
                 filtered.Add(post);
         }
 

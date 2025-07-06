@@ -17,8 +17,8 @@ public class WhenProcessingPosts
         var feedMock = new Mock<IPostsFeed>();
         feedMock.Setup(f => f.FetchPostsSinceAsync(It.IsAny<DateTime>())).ReturnsAsync(posts);
         var sifterMock = new Mock<IPostSifter>();
-        sifterMock.Setup(s => s.IsMatch(It.Is<Post>(p => p.Title == "A"))).Returns(true);
-        sifterMock.Setup(s => s.IsMatch(It.Is<Post>(p => p.Title == "B"))).Returns(false);
+        sifterMock.Setup(s => s.IsMatch(It.Is<Post>(p => p.Title == "A"))).ReturnsAsync(true);
+        sifterMock.Setup(s => s.IsMatch(It.Is<Post>(p => p.Title == "B"))).ReturnsAsync(false);
         var service = new PostsProcessingService(feedMock.Object, sifterMock.Object);
 
         // Act

@@ -8,9 +8,11 @@ if (args.Length == 0 || !DateTime.TryParse(args[0], null, System.Globalization.D
     Console.WriteLine("Please provide a UTC timestamp as the first argument (e.g., 2025-07-05T12:34:56Z)");
     return;
 }
+// Optionally accept feedUrl as second argument
+string? feedUrl = args.Length > 1 ? args[1] : null;
 
 // Wire things up!
-IPostsFeed feed = new StackOverflowRSSFeed();
+IPostsFeed feed = new StackOverflowRSSFeed(feedUrl: feedUrl);
 var sifter = new AllMatchPostSifter();
 var service = new PostsProcessingService(feed, sifter);
 

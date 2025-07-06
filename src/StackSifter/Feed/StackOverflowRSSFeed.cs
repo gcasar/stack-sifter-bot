@@ -11,7 +11,7 @@ public class StackOverflowRSSFeed : IPostsFeed
     public StackOverflowRSSFeed(HttpClient? httpClient = null, string? feedUrl = null)
     {
         _httpClient = httpClient ?? new HttpClient();
-        _feedUrl = feedUrl ?? "https://meta.stackoverflow.com/feeds";
+        _feedUrl = feedUrl ?? "https://stackoverflow.com/feeds";
     }
 
     public async Task<List<Post>> FetchPostsSinceAsync(DateTime since)

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-07T10:03:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T09:18:57Z",
+      "Title": "Api platform inject route parameter in input dto",
+      "Tags": [
+        "symfony",
+        "api-platform.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692597/api-platform-inject-route-parameter-in-input-dto"
+    },
+    {
+      "Created": "2025-07-07T09:48:48Z",
+      "Title": "hashicorp/setup-terraform running on different runner amidst job execution?",
+      "Tags": [
+        "terraform",
+        "github-actions",
+        "github-actions-self-hosted-runners"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692647/hashicorp-setup-terraform-running-on-different-runner-amidst-job-execution"
+    },
+    {
+      "Created": "2025-07-07T09:53:16Z",
+      "Title": "I am trying to connect two tables using joins in floor database in flutter but it is only adding one product into the cart with id 1",
+      "Tags": [
+        "flutter",
+        "floor",
+        "local-database",
+        "flutter-floor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692654/i-am-trying-to-connect-two-tables-using-joins-in-floor-database-in-flutter-but-i"
+    },
+    {
+      "Created": "2025-07-07T09:54:21Z",
+      "Title": "Getting list index out of range error for historical weather data [closed]",
+      "Tags": [
+        "python",
+        "meteostat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692657/getting-list-index-out-of-range-error-for-historical-weather-data"
+    },
+    {
+      "Created": "2025-07-07T10:03:02Z",
+      "Title": "How to set response modalities correctly in GenerationConfig.Builder",
+      "Tags": [
+        "kotlin",
+        "google-cloud-vertex-ai",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692667/how-to-set-response-modalities-correctly-in-generationconfig-builder"
+    }
+  ]
+}

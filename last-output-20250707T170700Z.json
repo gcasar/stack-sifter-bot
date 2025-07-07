@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-07T16:47:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T16:22:52Z",
+      "Title": "How to apply Spring Boot config props validation to inner classes without making them config props as well?",
+      "Tags": [
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693147/how-to-apply-spring-boot-config-props-validation-to-inner-classes-without-making"
+    },
+    {
+      "Created": "2025-07-07T16:37:37Z",
+      "Title": "Entity Framework Skip Take Performance Issue",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core",
+        "query-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693164/entity-framework-skip-take-performance-issue"
+    },
+    {
+      "Created": "2025-07-07T16:47:25Z",
+      "Title": "Drawing red rectangle around a combo",
+      "Tags": [
+        "visual-c\u002B\u002B",
+        "combobox",
+        "mfc",
+        "dialog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693177/drawing-red-rectangle-around-a-combo"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-07T22:03:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T21:52:00Z",
+      "Title": "Does SQL\u0027s IN operator hash its input?",
+      "Tags": [
+        "sql",
+        "database",
+        "postgresql",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693444/does-sqls-in-operator-hash-its-input"
+    },
+    {
+      "Created": "2025-07-07T21:54:09Z",
+      "Title": "How to store cloze type exam questions with blanks in sql",
+      "Tags": [
+        "sql",
+        "database",
+        "postgresql",
+        "database-design",
+        "database-schema"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693446/how-to-store-cloze-type-exam-questions-with-blanks-in-sql"
+    },
+    {
+      "Created": "2025-07-07T22:00:58Z",
+      "Title": "cannot determine which instance of overloaded function \u0022Init::Init\u0022 is intended",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "glew",
+        "glu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693454/cannot-determine-which-instance-of-overloaded-function-initinit-is-intended"
+    },
+    {
+      "Created": "2025-07-07T22:01:47Z",
+      "Title": "Google Cloud / contacts gets 403 / n8n",
+      "Tags": [
+        "google-people-api",
+        "n8n"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693455/google-cloud-contacts-gets-403-n8n"
+    },
+    {
+      "Created": "2025-07-07T22:03:40Z",
+      "Title": "How to set border radius globally in Hero UI?",
+      "Tags": [
+        "reactjs",
+        "tailwind-css",
+        "nextui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693459/how-to-set-border-radius-globally-in-hero-ui"
+    }
+  ]
+}

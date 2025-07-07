@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-07T06:02:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T05:55:22Z",
+      "Title": "## React Native Document Picker Android Build Error: \u0060GuardedResultAsyncTask\u0060 Not Found",
+      "Tags": [
+        "android",
+        "reactjs",
+        "react-native",
+        "build-error",
+        "uidocumentpicker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692357/react-native-document-picker-android-build-error-guardedresultasynctask-no"
+    },
+    {
+      "Created": "2025-07-07T05:57:14Z",
+      "Title": "After adding flutter_statusbarcolor_ns, I got a JVM error: \u0027Inconsistent JVM-target compatibility detected\u0027 between Java and Kotlin. How to fix this?",
+      "Tags": [
+        "java",
+        "flutter",
+        "kotlin",
+        "jvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692359/after-adding-flutter-statusbarcolor-ns-i-got-a-jvm-error-inconsistent-jvm-tar"
+    },
+    {
+      "Created": "2025-07-07T06:02:43Z",
+      "Title": "Can we just open an app or its activity made by us in android studio by dialing a specific code in dialer of the phone?? Is it possible to do so how?",
+      "Tags": [
+        "java",
+        "android",
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692366/can-we-just-open-an-app-or-its-activity-made-by-us-in-android-studio-by-dialing"
+    }
+  ]
+}

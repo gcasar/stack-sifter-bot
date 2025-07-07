@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-07T20:02:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T19:17:24Z",
+      "Title": "How to use Clerk on MERN stack websites [closed]",
+      "Tags": [
+        "reactjs",
+        "mongodb",
+        "express",
+        "clerk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693319/how-to-use-clerk-on-mern-stack-websites"
+    },
+    {
+      "Created": "2025-07-07T19:22:55Z",
+      "Title": "How to represent a potentially infinite list of computation as an algebraic datatype",
+      "Tags": [
+        "haskell",
+        "abstract-syntax-tree",
+        "algebraic-data-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693324/how-to-represent-a-potentially-infinite-list-of-computation-as-an-algebraic-data"
+    },
+    {
+      "Created": "2025-07-07T19:29:59Z",
+      "Title": "Trying to move an image in Unity C#",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "unityscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693329/trying-to-move-an-image-in-unity-c-sharp"
+    },
+    {
+      "Created": "2025-07-07T19:40:26Z",
+      "Title": "SSRS Report Only Returns Results for the First Selected Value in Multi-Select Parameter",
+      "Tags": [
+        "sql-server",
+        "reporting-services",
+        "multi-select"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693337/ssrs-report-only-returns-results-for-the-first-selected-value-in-multi-select-pa"
+    },
+    {
+      "Created": "2025-07-07T19:49:12Z",
+      "Title": "image as part of the page_navbar in Shiny Python",
+      "Tags": [
+        "python",
+        "py-shiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693348/image-as-part-of-the-page-navbar-in-shiny-python"
+    },
+    {
+      "Created": "2025-07-07T19:52:20Z",
+      "Title": "Discord.py cogs not starting looping tasks",
+      "Tags": [
+        "discord.py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693354/discord-py-cogs-not-starting-looping-tasks"
+    },
+    {
+      "Created": "2025-07-07T20:01:08Z",
+      "Title": "SOAP and REST application architecture for PyQt6",
+      "Tags": [
+        "rest",
+        "soap",
+        "architecture",
+        "wsdl",
+        "pyqt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693362/soap-and-rest-application-architecture-for-pyqt6"
+    },
+    {
+      "Created": "2025-07-07T20:02:48Z",
+      "Title": "How to get rid of warning message \u0022NSApplicationDelegate\u0022 on MacOS?",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693364/how-to-get-rid-of-warning-message-nsapplicationdelegate-on-macos"
+    }
+  ]
+}

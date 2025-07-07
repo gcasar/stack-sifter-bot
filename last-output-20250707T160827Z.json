@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-07T16:03:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T15:07:37Z",
+      "Title": "How to use new Angular 20 inject syntax with",
+      "Tags": [
+        "angular",
+        "eslint",
+        "angular-dependency-injection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693059/how-to-use-new-angular-20-inject-syntax-with"
+    },
+    {
+      "Created": "2025-07-07T15:42:12Z",
+      "Title": "I need to test bytetracker Python package",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693104/i-need-to-test-bytetracker-python-package"
+    },
+    {
+      "Created": "2025-07-07T15:43:18Z",
+      "Title": "Sonos SMAPI integration - IP whitelisting requirements for non-search functionality [closed]",
+      "Tags": [
+        "sonos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693106/sonos-smapi-integration-ip-whitelisting-requirements-for-non-search-functional"
+    },
+    {
+      "Created": "2025-07-07T15:45:58Z",
+      "Title": "In \u0022statsmodels\u0022 Python library, why does z-test dosen\u0027t require Polpulation std?",
+      "Tags": [
+        "python",
+        "statistics",
+        "data-science",
+        "statsmodels",
+        "python-hypothesis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693109/in-statsmodels-python-library-why-does-z-test-dosent-require-polpulation-std"
+    },
+    {
+      "Created": "2025-07-07T15:52:27Z",
+      "Title": "Proper way to handle a select tied to values in a state? [closed]",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "html-select"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693112/proper-way-to-handle-a-select-tied-to-values-in-a-state"
+    },
+    {
+      "Created": "2025-07-07T15:53:33Z",
+      "Title": "How should my class be initialized? missing 1 required positional argument [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693113/how-should-my-class-be-initialized-missing-1-required-positional-argument"
+    },
+    {
+      "Created": "2025-07-07T15:55:37Z",
+      "Title": "Convert Microsoft Word docx to html using Apache POI",
+      "Tags": [
+        "java",
+        "ms-word",
+        "apache-poi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693118/convert-microsoft-word-docx-to-html-using-apache-poi"
+    },
+    {
+      "Created": "2025-07-07T16:03:49Z",
+      "Title": "Generate IPA with expo\u0027s app.config.js \u0022infoPlist\u0022 using xcode\u0027s \u0022xcodebuild\u0022 using Azure devops",
+      "Tags": [
+        "ios",
+        "xcode",
+        "azure-devops",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693124/generate-ipa-with-expos-app-config-js-infoplist-using-xcodes-xcodebuild-us"
+    }
+  ]
+}

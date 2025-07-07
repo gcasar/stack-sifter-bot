@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-07T18:54:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T18:40:57Z",
+      "Title": "Activity content hidden behind action bar [duplicate]",
+      "Tags": [
+        "android",
+        "layout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693294/activity-content-hidden-behind-action-bar"
+    },
+    {
+      "Created": "2025-07-07T18:47:58Z",
+      "Title": "How to Build a Location-Based AR Experience Using PlayCanvas (with Cesium ion?)",
+      "Tags": [
+        "android",
+        "html",
+        "augmented-reality",
+        "playcanvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693301/how-to-build-a-location-based-ar-experience-using-playcanvas-with-cesium-ion"
+    },
+    {
+      "Created": "2025-07-07T18:52:03Z",
+      "Title": "How to integrate MapLibre GL JS CSP version with Angular",
+      "Tags": [
+        "typescript",
+        "angular-cli",
+        "maplibre-gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693304/how-to-integrate-maplibre-gl-js-csp-version-with-angular"
+    },
+    {
+      "Created": "2025-07-07T18:54:07Z",
+      "Title": "How do I use python-mpv with PySlide6 using GL Rendering for Wayland?",
+      "Tags": [
+        "python",
+        "opengl",
+        "pyqt6",
+        "qt6",
+        "mpv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693305/how-do-i-use-python-mpv-with-pyslide6-using-gl-rendering-for-wayland"
+    }
+  ]
+}

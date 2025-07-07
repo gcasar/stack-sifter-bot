@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-07T18:05:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T17:34:54Z",
+      "Title": "(C) Accessing Arrays with Indices and Components",
+      "Tags": [
+        "arrays",
+        "c",
+        "struct"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693227/c-accessing-arrays-with-indices-and-components"
+    },
+    {
+      "Created": "2025-07-07T17:48:35Z",
+      "Title": "C# procedural style to search and append result into a result file",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693244/c-sharp-procedural-style-to-search-and-append-result-into-a-result-file"
+    },
+    {
+      "Created": "2025-07-07T17:54:44Z",
+      "Title": "Error \u0022Property smth of object smth is not a function\u0022 , how to fix?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693248/error-property-smth-of-object-smth-is-not-a-function-how-to-fix"
+    },
+    {
+      "Created": "2025-07-07T18:00:52Z",
+      "Title": "Python/Jinja - trouble loading static assets to a Jinja template",
+      "Tags": [
+        "python",
+        "jinja2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693256/python-jinja-trouble-loading-static-assets-to-a-jinja-template"
+    },
+    {
+      "Created": "2025-07-07T18:05:15Z",
+      "Title": "update json file with HTML script",
+      "Tags": [
+        "javascript",
+        "php",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693263/update-json-file-with-html-script"
+    },
+    {
+      "Created": "2025-07-07T18:05:54Z",
+      "Title": "Is there a way to chain/add deltas together?",
+      "Tags": [
+        "patch",
+        "libgit2",
+        "pygit2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693265/is-there-a-way-to-chain-add-deltas-together"
+    }
+  ]
+}

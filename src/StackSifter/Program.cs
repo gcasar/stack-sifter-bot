@@ -25,5 +25,12 @@ var service = new PostsProcessingService(feed, sifter);
 var posts = await service.FetchAndFilterPostsAsync(since);
 var minimalPosts = posts.Select(p => new { Created = p.Published, p.Title, p.Tags, p.Url }).ToList();
 
-var json = JsonSerializer.Serialize(minimalPosts, new JsonSerializerOptions { WriteIndented = true });
+var metadata = new
+{
+    TotalProcessed = posts.Count,
+    LastCreated = posts.Count > 0 ? posts.Max(p => p.Published) : (DateTime?)null,
+    MatchingPosts = minimalPosts
+};
+
+var json = JsonSerializer.Serialize(metadata, new JsonSerializerOptions { WriteIndented = true });
 Console.WriteLine(json);

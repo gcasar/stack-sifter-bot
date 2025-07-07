@@ -47,15 +47,15 @@ jobs:
           OUTPUT=$(dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- "$PREV")
           echo "$OUTPUT"
 
-          # Extract the last Created timestamp from the JSON output, or use PREV if no output
-          if [ "$(echo "$OUTPUT" | jq 'length')" -eq 0 ]; then
+          # Extract the LastCreated timestamp from the JSON output, or use PREV if no output
+          LAST_CREATED=$(echo "$OUTPUT" | jq -r '.LastCreated // empty')
+          if [ -z "$LAST_CREATED" ] || [ "$LAST_CREATED" = "null" ]; then
             LAST_CREATED="$PREV"
             echo "No posts found, keeping previous checked value $PREV"
           else
             # Save the output for persistence with timestamp to avoid overwriting
             OUTPUT_FILE="last-output-$(date -u +'%Y%m%dT%H%M%SZ').json"
             echo "$OUTPUT" > "$OUTPUT_FILE"
-            LAST_CREATED=$(echo "$OUTPUT" | jq -r '.[-1].Created')
           fi
           echo "LAST_PROCESSED_TIMESTAMP=$LAST_CREATED" >> $GITHUB_ENV
           echo "Last processed timestamp: $LAST_CREATED"

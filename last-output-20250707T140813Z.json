@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-07T14:04:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T13:42:40Z",
+      "Title": "Custom type object tests as member of sequence but not of dictionary",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692951/custom-type-object-tests-as-member-of-sequence-but-not-of-dictionary"
+    },
+    {
+      "Created": "2025-07-07T13:45:27Z",
+      "Title": "Healthcheck for apim docker image",
+      "Tags": [
+        "azure-api-management",
+        "on-premises-instances"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692956/healthcheck-for-apim-docker-image"
+    },
+    {
+      "Created": "2025-07-07T13:46:55Z",
+      "Title": "Could not load external library error when reading from OPENROWSET parquet file",
+      "Tags": [
+        "sql-server",
+        "parquet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692957/could-not-load-external-library-error-when-reading-from-openrowset-parquet-file"
+    },
+    {
+      "Created": "2025-07-07T13:50:21Z",
+      "Title": "Formatting my boxplots with correct labels",
+      "Tags": [
+        "r",
+        "formatting",
+        "boxplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692961/formatting-my-boxplots-with-correct-labels"
+    },
+    {
+      "Created": "2025-07-07T13:56:37Z",
+      "Title": "Azure Storage Account Folder Scan recursiv - VHDX older then x days",
+      "Tags": [
+        "azure",
+        "profile",
+        "azure-storage-account"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692966/azure-storage-account-folder-scan-recursiv-vhdx-older-then-x-days"
+    },
+    {
+      "Created": "2025-07-07T14:00:42Z",
+      "Title": "Detect what is injecting malicoious javascript into \u003Chead\u003E of shopify store",
+      "Tags": [
+        "html",
+        "security",
+        "shopify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692970/detect-what-is-injecting-malicoious-javascript-into-head-of-shopify-store"
+    },
+    {
+      "Created": "2025-07-07T14:04:17Z",
+      "Title": "How to implement dark mode in WebView Flutter?",
+      "Tags": [
+        "android",
+        "flutter",
+        "web",
+        "webview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692971/how-to-implement-dark-mode-in-webview-flutter"
+    }
+  ]
+}

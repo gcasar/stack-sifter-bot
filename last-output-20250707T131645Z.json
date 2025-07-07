@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-07T13:10:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T12:17:17Z",
+      "Title": "Position sticky is not working even when i used some simple examples i found online",
+      "Tags": [
+        "html",
+        "css",
+        "reactjs",
+        "jsx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692835/position-sticky-is-not-working-even-when-i-used-some-simple-examples-i-found-onl"
+    },
+    {
+      "Created": "2025-07-07T13:04:11Z",
+      "Title": "DJI Thermal SDK \u2014 Is it possible to extract radiometric thermal data from _T.MP4 videos recorded by DJI drones like the M30T?",
+      "Tags": [
+        "dji-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692897/dji-thermal-sdk-is-it-possible-to-extract-radiometric-thermal-data-from-t-mp4"
+    },
+    {
+      "Created": "2025-07-07T13:04:40Z",
+      "Title": "Convert video to HLS in iOS app without triggering GPL (FFmpegKit alternative?)",
+      "Tags": [
+        "ios",
+        "swift",
+        "ffmpeg",
+        "http-live-streaming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692898/convert-video-to-hls-in-ios-app-without-triggering-gpl-ffmpegkit-alternative"
+    },
+    {
+      "Created": "2025-07-07T13:05:11Z",
+      "Title": "When i try to execute a iot core command using sdk v3 i get a 404 Resource Not Found Error, but i already checked the resources many times",
+      "Tags": [
+        "amazon-web-services",
+        "aws-sdk-js",
+        "aws-iot-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692901/when-i-try-to-execute-a-iot-core-command-using-sdk-v3-i-get-a-404-resource-not-f"
+    },
+    {
+      "Created": "2025-07-07T13:10:57Z",
+      "Title": "What is the best place to store data so that I can use it in the Converters in Spring Boot?",
+      "Tags": [
+        "java",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692905/what-is-the-best-place-to-store-data-so-that-i-can-use-it-in-the-converters-in-s"
+    }
+  ]
+}

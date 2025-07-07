@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-07T07:07:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T06:12:24Z",
+      "Title": "Why doesn\u2019t Python 3.12.6 raise ValueError on slice assignment length mismatch? [duplicate]",
+      "Tags": [
+        "python",
+        "python-3.12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692377/why-doesn-t-python-3-12-6-raise-valueerror-on-slice-assignment-length-mismatch"
+    },
+    {
+      "Created": "2025-07-07T06:41:11Z",
+      "Title": "VS Code MCP client does not work if I limit ingress in MCP server pod to IP range containing my machine\u0027s IP",
+      "Tags": [
+        "visual-studio-code",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692401/vs-code-mcp-client-does-not-work-if-i-limit-ingress-in-mcp-server-pod-to-ip-rang"
+    },
+    {
+      "Created": "2025-07-07T06:58:37Z",
+      "Title": "How to build platform to manage FB, YouTube, Google Play, and email channels \u2014 API access and licensing requirements?",
+      "Tags": [
+        "facebook",
+        "graph",
+        "graphql",
+        "youtube",
+        "meta"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692416/how-to-build-platform-to-manage-fb-youtube-google-play-and-email-channels-a"
+    },
+    {
+      "Created": "2025-07-07T06:59:52Z",
+      "Title": "Best Practice to store ABP Audit log",
+      "Tags": [
+        ".net",
+        "abp-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692419/best-practice-to-store-abp-audit-log"
+    },
+    {
+      "Created": "2025-07-07T07:02:58Z",
+      "Title": "Why am I getting so many npm WARN deprecated messages when running npm install in my React project?",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "npm",
+        "create-react-app",
+        "package.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692421/why-am-i-getting-so-many-npm-warn-deprecated-messages-when-running-npm-install-i"
+    },
+    {
+      "Created": "2025-07-07T07:06:56Z",
+      "Title": "how to set a temperature for Thermostat or AC devices by using Siri voice command directly?",
+      "Tags": [
+        "ios",
+        "swift",
+        "siri",
+        "sirikit",
+        "home-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692428/how-to-set-a-temperature-for-thermostat-or-ac-devices-by-using-siri-voice-comman"
+    },
+    {
+      "Created": "2025-07-07T07:06:59Z",
+      "Title": "SwiftUI - adding a .swipActions button",
+      "Tags": [
+        "swiftui",
+        "swipe",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692429/swiftui-adding-a-swipactions-button"
+    },
+    {
+      "Created": "2025-07-07T07:07:41Z",
+      "Title": "Rendering WebView2 in packaged WinUI 3 app",
+      "Tags": [
+        "windows-store-apps",
+        "winrt-xaml",
+        "uwp-xaml",
+        "winui-3",
+        "webview2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692431/rendering-webview2-in-packaged-winui-3-app"
+    }
+  ]
+}

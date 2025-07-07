@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-07T08:05:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T07:36:25Z",
+      "Title": "Decoupling templated dispatcher",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692457/decoupling-templated-dispatcher"
+    },
+    {
+      "Created": "2025-07-07T07:52:03Z",
+      "Title": "An issue on output generation by vim",
+      "Tags": [
+        "vim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692476/an-issue-on-output-generation-by-vim"
+    },
+    {
+      "Created": "2025-07-07T08:00:08Z",
+      "Title": "Why this code in Android onCreate is not Failing",
+      "Tags": [
+        "android",
+        "kotlin-coroutines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692484/why-this-code-in-android-oncreate-is-not-failing"
+    },
+    {
+      "Created": "2025-07-07T08:01:54Z",
+      "Title": "How to prevent useQuery from resetting everytime I try to update the field?",
+      "Tags": [
+        "reactjs",
+        "datepicker",
+        "react-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692488/how-to-prevent-usequery-from-resetting-everytime-i-try-to-update-the-field"
+    },
+    {
+      "Created": "2025-07-07T08:05:27Z",
+      "Title": "How to find element on a pop window which is not accesible",
+      "Tags": [
+        "popup",
+        "popupwindow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692493/how-to-find-element-on-a-pop-window-which-is-not-accesible"
+    }
+  ]
+}

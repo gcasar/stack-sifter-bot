@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-07T15:02:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T14:53:45Z",
+      "Title": "C# SOAP Call for Kelio Service Authentication issue",
+      "Tags": [
+        "c#",
+        "authentication",
+        "soap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693032/c-sharp-soap-call-for-kelio-service-authentication-issue"
+    },
+    {
+      "Created": "2025-07-07T14:55:43Z",
+      "Title": "python osmium application can\u0027t stop",
+      "Tags": [
+        "python",
+        "osmium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693036/python-osmium-application-cant-stop"
+    },
+    {
+      "Created": "2025-07-07T14:55:57Z",
+      "Title": "Why aren\u0027t the pins being set to LOW?",
+      "Tags": [
+        "embedded",
+        "8051"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693037/why-arent-the-pins-being-set-to-low"
+    },
+    {
+      "Created": "2025-07-07T14:56:56Z",
+      "Title": "If it\u0027s a bad idea to derive classes from C\u002B\u002B STL types, why do some container adaptors have protected members? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "priority-queue",
+        "protected",
+        "derived-class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693039/if-its-a-bad-idea-to-derive-classes-from-c-stl-types-why-do-some-container-a"
+    },
+    {
+      "Created": "2025-07-07T14:59:28Z",
+      "Title": "Local notifications are silent when device is in standby mode",
+      "Tags": [
+        "ios",
+        "swift",
+        "iphone",
+        "xcode",
+        "notifications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693043/local-notifications-are-silent-when-device-is-in-standby-mode"
+    },
+    {
+      "Created": "2025-07-07T15:02:55Z",
+      "Title": "Windows CreateMutexW using Python not working",
+      "Tags": [
+        "python",
+        "windows",
+        "mutex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693052/windows-createmutexw-using-python-not-working"
+    }
+  ]
+}

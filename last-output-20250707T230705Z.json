@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-07T22:56:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T22:39:21Z",
+      "Title": "Run VBA on multiple worksheets and sort data in table by color",
+      "Tags": [
+        "excel",
+        "vba",
+        "excel-tables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693476/run-vba-on-multiple-worksheets-and-sort-data-in-table-by-color"
+    },
+    {
+      "Created": "2025-07-07T22:39:33Z",
+      "Title": "I can\u0027t get query.count() to work in unity for firestore. My firestore version is 12.10.2 fy\u0131",
+      "Tags": [
+        "firebase",
+        "unity-game-engine",
+        "google-cloud-firestore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693477/i-cant-get-query-count-to-work-in-unity-for-firestore-my-firestore-version-i"
+    },
+    {
+      "Created": "2025-07-07T22:40:56Z",
+      "Title": "How to launch 1DM (idm.internet.download.manager) app from a flutter app and give it download data?",
+      "Tags": [
+        "android",
+        "flutter",
+        "android-intent",
+        "idm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693480/how-to-launch-1dm-idm-internet-download-manager-app-from-a-flutter-app-and-giv"
+    },
+    {
+      "Created": "2025-07-07T22:46:27Z",
+      "Title": "VS Code: Is there a way to customize the way the path is displayed in the \u0022Open Editors\u0022 tab?",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693484/vs-code-is-there-a-way-to-customize-the-way-the-path-is-displayed-in-the-open"
+    },
+    {
+      "Created": "2025-07-07T22:48:10Z",
+      "Title": "Can the compiler add extra defaulted template parameters to the std templates?",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang",
+        "language-lawyer",
+        "libc\u002B\u002B",
+        "standards-compliance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693488/can-the-compiler-add-extra-defaulted-template-parameters-to-the-std-templates"
+    },
+    {
+      "Created": "2025-07-07T22:52:44Z",
+      "Title": "How to see when my host DAW starts recording with VST3 plugin in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "vst"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693490/how-to-see-when-my-host-daw-starts-recording-with-vst3-plugin-in-c"
+    },
+    {
+      "Created": "2025-07-07T22:56:07Z",
+      "Title": "If I enqueue multiple read commands on a USB Mass Storage device, can I be guaranteed that the responses will come back in a predictable order?",
+      "Tags": [
+        "usb",
+        "usb-drive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693493/if-i-enqueue-multiple-read-commands-on-a-usb-mass-storage-device-can-i-be-guara"
+    }
+  ]
+}

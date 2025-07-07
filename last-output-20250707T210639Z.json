@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-07T21:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T20:47:57Z",
+      "Title": "Why does ArrayList.removeIf() throw ConcurrentModificationException when using a parallel stream inside the predicate?",
+      "Tags": [
+        "java",
+        "arraylist",
+        "remove-if"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693404/why-does-arraylist-removeif-throw-concurrentmodificationexception-when-using-a"
+    },
+    {
+      "Created": "2025-07-07T20:57:01Z",
+      "Title": "How to best manage Theme and HDPI Scaling with QSettings in PyQt?",
+      "Tags": [
+        "python",
+        "pyqt",
+        "pyqt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693410/how-to-best-manage-theme-and-hdpi-scaling-with-qsettings-in-pyqt"
+    },
+    {
+      "Created": "2025-07-07T21:02:47Z",
+      "Title": "Why is the fastest way to print a list of ints so unintuitive?",
+      "Tags": [
+        "python",
+        "performance",
+        "optimization",
+        "language-implementation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693413/why-is-the-fastest-way-to-print-a-list-of-ints-so-unintuitive"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-07T09:04:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T08:40:38Z",
+      "Title": "Custom page indicator cannot change the indicator index",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692539/custom-page-indicator-cannot-change-the-indicator-index"
+    },
+    {
+      "Created": "2025-07-07T08:58:51Z",
+      "Title": "Docker OpenRouteService on Linux: curl: (56) Recv failure: Connection reset by peer for /ors/v2/health",
+      "Tags": [
+        "docker",
+        "curl",
+        "whm",
+        "openrouteservice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692563/docker-openrouteservice-on-linux-curl-56-recv-failure-connection-reset-by-p"
+    },
+    {
+      "Created": "2025-07-07T09:03:24Z",
+      "Title": "showing 2 raised to the power of a fractional argument in sympy",
+      "Tags": [
+        "python-3.x",
+        "jupyter-notebook",
+        "sympy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692568/showing-2-raised-to-the-power-of-a-fractional-argument-in-sympy"
+    },
+    {
+      "Created": "2025-07-07T09:04:58Z",
+      "Title": "Ansible Playbook error with netcommon bad escape",
+      "Tags": [
+        "ansible",
+        "yaml",
+        "jinja2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692572/ansible-playbook-error-with-netcommon-bad-escape"
+    }
+  ]
+}

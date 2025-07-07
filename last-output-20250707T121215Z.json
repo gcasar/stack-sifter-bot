@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-07T12:08:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T11:17:02Z",
+      "Title": "Can i use the using: scope modifier for a script block executed in a module function",
+      "Tags": [
+        "powershell",
+        "module",
+        "scope"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692766/can-i-use-the-using-scope-modifier-for-a-script-block-executed-in-a-module-func"
+    },
+    {
+      "Created": "2025-07-07T11:53:19Z",
+      "Title": "RISC-V vs C Code Comparison for Simple Multiply and Accumulate (MAC) Operation",
+      "Tags": [
+        "optimization",
+        "vectorization",
+        "profiling",
+        "riscv",
+        "risc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692814/risc-v-vs-c-code-comparison-for-simple-multiply-and-accumulate-mac-operation"
+    },
+    {
+      "Created": "2025-07-07T12:01:52Z",
+      "Title": "Switching bluetooth microphone on/off when AVCaptureSession is running",
+      "Tags": [
+        "ios",
+        "swift",
+        "avfoundation",
+        "avcapturesession",
+        "avaudiosession"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692822/switching-bluetooth-microphone-on-off-when-avcapturesession-is-running"
+    },
+    {
+      "Created": "2025-07-07T12:08:00Z",
+      "Title": "SVG Latex Equation Displaying Incorrectly in C\u002B\u002B with OpenGL and nanosvg.h",
+      "Tags": [
+        "c\u002B\u002B",
+        "svg",
+        "opengl",
+        "graphics",
+        "latex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79692826/svg-latex-equation-displaying-incorrectly-in-c-with-opengl-and-nanosvg-h"
+    }
+  ]
+}

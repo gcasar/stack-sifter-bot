@@ -52,6 +52,9 @@ jobs:
             LAST_CREATED="$PREV"
             echo "No posts found, keeping previous checked value $PREV"
           else
+            # Save the output for persistence with timestamp to avoid overwriting
+            OUTPUT_FILE="last-output-$(date -u +'%Y%m%dT%H%M%SZ').json"
+            echo "$OUTPUT" > "$OUTPUT_FILE"
             LAST_CREATED=$(echo "$OUTPUT" | jq -r '.[-1].Created')
           fi
           echo "LAST_PROCESSED_TIMESTAMP=$LAST_CREATED" >> $GITHUB_ENV
@@ -63,10 +66,16 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin data-run-information || git checkout -b data-run-information
           git checkout -B data-run-information origin/data-run-information || git checkout -b data-run-information
-          # Update last-run.txt and commit it to the data-run-information branch only
+          # Update last-run.txt and last-output-*.json (if it exists) and commit them to the data-run-information branch only
           echo "$LAST_PROCESSED_TIMESTAMP" > last-run.txt
           git add last-run.txt
-          git commit -m "chore: update last run timestamp [skip ci]" || echo "No changes to commit"
+          # Add any last-output-*.json files created in this run
+          for f in last-output-*.json; do
+            if [ -f "$f" ]; then
+              git add "$f"
+            fi
+          done
+          git commit -m "chore: update last run timestamp and output [skip ci]" || echo "No changes to commit"
           git pull --rebase origin data-run-information || true
           git push origin data-run-information
-          echo "Last run timestamp updated to: $LAST_PROCESSED_TIMESTAMP"
+          echo "Last run timestamp and output updated to: $LAST_PROCESSED_TIMESTAMP"

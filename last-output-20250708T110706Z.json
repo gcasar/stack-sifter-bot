@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-08T10:56:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T10:48:49Z",
+      "Title": "creating a bitbake recipe for jool to generate kernel modules",
+      "Tags": [
+        "linux-kernel",
+        "yocto",
+        "bitbake",
+        "jool-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694110/creating-a-bitbake-recipe-for-jool-to-generate-kernel-modules"
+    },
+    {
+      "Created": "2025-07-08T10:50:46Z",
+      "Title": "How to inherit method type signatures from a base class in Sorbet?",
+      "Tags": [
+        "ruby",
+        "sorbet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694113/how-to-inherit-method-type-signatures-from-a-base-class-in-sorbet"
+    },
+    {
+      "Created": "2025-07-08T10:51:05Z",
+      "Title": "Is it possible to derive a union type from a switch statement?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694114/is-it-possible-to-derive-a-union-type-from-a-switch-statement"
+    },
+    {
+      "Created": "2025-07-08T10:56:05Z",
+      "Title": "TRIM in SELECT statement that works in Stand Alone Query Fails in Stored Procedure (MySQL)",
+      "Tags": [
+        "mysql",
+        "stored-procedures",
+        "whitespace",
+        "trim",
+        "removing-whitespace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694120/trim-in-select-statement-that-works-in-stand-alone-query-fails-in-stored-procedu"
+    },
+    {
+      "Created": "2025-07-08T10:56:30Z",
+      "Title": "NPM package - difference in running npx command vs npm command",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "vue.js",
+        "npm",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694123/npm-package-difference-in-running-npx-command-vs-npm-command"
+    }
+  ]
+}

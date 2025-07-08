@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-08T16:05:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T15:54:09Z",
+      "Title": "How do I accept in a non-repeating way both an IntEnum and that enum\u0027s values?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "enums",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694514/how-do-i-accept-in-a-non-repeating-way-both-an-intenum-and-that-enums-values"
+    },
+    {
+      "Created": "2025-07-08T15:55:35Z",
+      "Title": "L = {a\u1D50b\u207F | m \u2260 n} accepted by PDA deterministically or non-deterministically [closed]",
+      "Tags": [
+        "context-free-grammar",
+        "computation-theory",
+        "pushdown-automaton",
+        "context-free-language"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694516/l-a%e1%b5%90b%e2%81%bf-m-%e2%89%a0-n-accepted-by-pda-deterministically-or-non-deterministically"
+    },
+    {
+      "Created": "2025-07-08T15:56:57Z",
+      "Title": "Issue with running virtual machines throught virt-manager from pacman",
+      "Tags": [
+        "python",
+        "virtual-machine",
+        "gnu",
+        "pacman-package-manager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694519/issue-with-running-virtual-machines-throught-virt-manager-from-pacman"
+    },
+    {
+      "Created": "2025-07-08T16:03:52Z",
+      "Title": "Why is EnterCriticalSection not timing out?",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "winapi",
+        "critical-section"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694526/why-is-entercriticalsection-not-timing-out"
+    },
+    {
+      "Created": "2025-07-08T16:05:30Z",
+      "Title": "Having an issue updating safe membership permissions using PSPAS or direct API call",
+      "Tags": [
+        "powershell",
+        "rest",
+        "cyber-ark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694528/having-an-issue-updating-safe-membership-permissions-using-pspas-or-direct-api-c"
+    }
+  ]
+}

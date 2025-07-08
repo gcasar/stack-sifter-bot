@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-08T14:03:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T13:22:37Z",
+      "Title": "Python program stops after specific number of passes",
+      "Tags": [
+        "gpiozero"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694325/python-program-stops-after-specific-number-of-passes"
+    },
+    {
+      "Created": "2025-07-08T13:24:16Z",
+      "Title": "How to create a fully transparent rectangle on HTML Canvas that is actually rendered?",
+      "Tags": [
+        "javascript",
+        "html",
+        "html5-canvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694326/how-to-create-a-fully-transparent-rectangle-on-html-canvas-that-is-actually-rend"
+    },
+    {
+      "Created": "2025-07-08T13:24:52Z",
+      "Title": "The calibrateCamera OpenCV function return the wrong value, which is currently greater than 244 (should be\u003C1.0)",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "opencv",
+        "camera-calibration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694328/the-calibratecamera-opencv-function-return-the-wrong-value-which-is-currently-g"
+    },
+    {
+      "Created": "2025-07-08T13:47:42Z",
+      "Title": "How to sum two columns and calculate their average in BigQuery?",
+      "Tags": [
+        "sql",
+        "google-bigquery",
+        "sum",
+        "average",
+        "aggregation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694353/how-to-sum-two-columns-and-calculate-their-average-in-bigquery"
+    },
+    {
+      "Created": "2025-07-08T13:50:40Z",
+      "Title": "Hint to the C compiler (gcc, clang) that an expression will be in a particular range",
+      "Tags": [
+        "gcc",
+        "clang",
+        "hint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694356/hint-to-the-c-compiler-gcc-clang-that-an-expression-will-be-in-a-particular-r"
+    },
+    {
+      "Created": "2025-07-08T13:57:02Z",
+      "Title": "macro for dimension formatting in solidworks?",
+      "Tags": [
+        "vba",
+        "solidworks",
+        "solidworksapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694360/macro-for-dimension-formatting-in-solidworks"
+    },
+    {
+      "Created": "2025-07-08T13:59:39Z",
+      "Title": "How do I make a tab effect in CSS?",
+      "Tags": [
+        "html",
+        "css",
+        "button"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694364/how-do-i-make-a-tab-effect-in-css"
+    },
+    {
+      "Created": "2025-07-08T14:02:52Z",
+      "Title": "How can I make Python classmethods act on a subclass; if that doesn\u0027t work, what would be a better approach?",
+      "Tags": [
+        "python",
+        "inheritance",
+        "class-method"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694370/how-can-i-make-python-classmethods-act-on-a-subclass-if-that-doesnt-work-what"
+    },
+    {
+      "Created": "2025-07-08T14:03:38Z",
+      "Title": "Trying to use multithreading to get around Unity LoadSceneAsync not being async",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "unity-game-engine",
+        "asynchronous"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694371/trying-to-use-multithreading-to-get-around-unity-loadsceneasync-not-being-async"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-08T10:02:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T09:22:45Z",
+      "Title": "Chat list re-fetching instead of using cache with cometchat and cometchat_chat_uikit",
+      "Tags": [
+        "flutter",
+        "flutter-dependencies"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693988/chat-list-re-fetching-instead-of-using-cache-with-cometchat-and-cometchat-chat-u"
+    },
+    {
+      "Created": "2025-07-08T09:40:56Z",
+      "Title": "How to add received data in blade to public_path() function in Laravel?",
+      "Tags": [
+        "laravel",
+        "laravel-blade"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694017/how-to-add-received-data-in-blade-to-public-path-function-in-laravel"
+    },
+    {
+      "Created": "2025-07-08T09:41:53Z",
+      "Title": "Why does submitting a form in React 19 reset checkbox inputs but not text inputs?",
+      "Tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694019/why-does-submitting-a-form-in-react-19-reset-checkbox-inputs-but-not-text-inputs"
+    },
+    {
+      "Created": "2025-07-08T09:49:42Z",
+      "Title": "In Jupyter notebook I want to get my plot to display bigger on my laptop screen",
+      "Tags": [
+        "matplotlib",
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694030/in-jupyter-notebook-i-want-to-get-my-plot-to-display-bigger-on-my-laptop-screen"
+    },
+    {
+      "Created": "2025-07-08T09:52:25Z",
+      "Title": "Problem in calculating total of textbox in tablix report (RDLC) with if condition",
+      "Tags": [
+        "vb.net",
+        "visual-studio",
+        "rdlc",
+        "reportviewer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694035/problem-in-calculating-total-of-textbox-in-tablix-report-rdlc-with-if-conditio"
+    },
+    {
+      "Created": "2025-07-08T10:02:08Z",
+      "Title": "Need help connecting to a SQLite database from a JavaScript function",
+      "Tags": [
+        "javascript",
+        "sql",
+        "sqlite",
+        "agent",
+        "flowise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694044/need-help-connecting-to-a-sqlite-database-from-a-javascript-function"
+    },
+    {
+      "Created": "2025-07-08T10:02:19Z",
+      "Title": "How to connect wirelessly to Android device listening on non default port?",
+      "Tags": [
+        "android",
+        "debugging",
+        "port",
+        "wireless",
+        "scanning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694045/how-to-connect-wirelessly-to-android-device-listening-on-non-default-port"
+    }
+  ]
+}

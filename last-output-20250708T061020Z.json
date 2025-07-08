@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-08T06:06:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T05:11:21Z",
+      "Title": "How to resume last y coordinate in Vertical Scroll view in Swift",
+      "Tags": [
+        "ios",
+        "swift",
+        "uikit",
+        "uiscrollview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693688/how-to-resume-last-y-coordinate-in-vertical-scroll-view-in-swift"
+    },
+    {
+      "Created": "2025-07-08T05:30:24Z",
+      "Title": "How to stop main \u003Cli\u003E from closing when clicking an \u003Cli\u003E within it",
+      "Tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693698/how-to-stop-main-li-from-closing-when-clicking-an-li-within-it"
+    },
+    {
+      "Created": "2025-07-08T05:51:15Z",
+      "Title": "Why pyinstaller build of PaddleOcr fails",
+      "Tags": [
+        "paddle-paddle",
+        "paddleocr",
+        "paddle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693713/why-pyinstaller-build-of-paddleocr-fails"
+    },
+    {
+      "Created": "2025-07-08T05:57:18Z",
+      "Title": "How to safely sync GridDB time-series data with an Oracle DB on Linux using Python?",
+      "Tags": [
+        "oracle-database",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693719/how-to-safely-sync-griddb-time-series-data-with-an-oracle-db-on-linux-using-pyth"
+    },
+    {
+      "Created": "2025-07-08T05:58:29Z",
+      "Title": "Tekton Multiple Repository CRs Limitation",
+      "Tags": [
+        "openshift",
+        "tekton"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693721/tekton-multiple-repository-crs-limitation"
+    },
+    {
+      "Created": "2025-07-08T06:03:00Z",
+      "Title": "Word Addin - Get version from the manifest file",
+      "Tags": [
+        "angular",
+        "ms-word",
+        "office-js",
+        "office-addins",
+        "ms-office-addin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693723/word-addin-get-version-from-the-manifest-file"
+    },
+    {
+      "Created": "2025-07-08T06:06:20Z",
+      "Title": "lost formatting in file read and overwritten by abap2xlsx",
+      "Tags": [
+        "abap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693725/lost-formatting-in-file-read-and-overwritten-by-abap2xlsx"
+    }
+  ]
+}

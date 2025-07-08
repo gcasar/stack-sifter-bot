@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-08T02:10:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T01:51:56Z",
+      "Title": "Where is manager.war for Tomcat?",
+      "Tags": [
+        "java",
+        "tomcat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693584/where-is-manager-war-for-tomcat"
+    },
+    {
+      "Created": "2025-07-08T01:58:14Z",
+      "Title": "How to optimally join a DataFrame on a column with comma separated IDs",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693586/how-to-optimally-join-a-dataframe-on-a-column-with-comma-separated-ids"
+    },
+    {
+      "Created": "2025-07-08T02:01:59Z",
+      "Title": "How can I access the user-assigned SIM name from Samsung SIM Manager in Android?",
+      "Tags": [
+        "android",
+        "mobile",
+        "samsung-mobile",
+        "samsung-mobile-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693589/how-can-i-access-the-user-assigned-sim-name-from-samsung-sim-manager-in-android"
+    },
+    {
+      "Created": "2025-07-08T02:10:40Z",
+      "Title": "Should a container type define its own swap function even if its move-semantics has been correctly implemented?",
+      "Tags": [
+        "c\u002B\u002B",
+        "performance",
+        "swap",
+        "api-design",
+        "move-semantics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693592/should-a-container-type-define-its-own-swap-function-even-if-its-move-semantics"
+    }
+  ]
+}

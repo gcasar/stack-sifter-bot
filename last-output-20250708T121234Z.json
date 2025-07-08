@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-08T12:06:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T11:24:25Z",
+      "Title": "set and remove password on NTAG213",
+      "Tags": [
+        "node.js",
+        "nfc",
+        "acr122",
+        "ntag21x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694149/set-and-remove-password-on-ntag213"
+    },
+    {
+      "Created": "2025-07-08T11:47:58Z",
+      "Title": "R Reticulate does work with for loop but not purrr::map2",
+      "Tags": [
+        "r",
+        "purrr",
+        "reticulate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694177/r-reticulate-does-work-with-for-loop-but-not-purrrmap2"
+    },
+    {
+      "Created": "2025-07-08T11:50:34Z",
+      "Title": "Memory Not Released After Each Request Despite Cleanup Attempts",
+      "Tags": [
+        "python",
+        "fastapi",
+        "python-polars",
+        "pyarrow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694182/memory-not-released-after-each-request-despite-cleanup-attempts"
+    },
+    {
+      "Created": "2025-07-08T12:02:45Z",
+      "Title": "How and why GCC \u003Cstring\u003E header creates global max function?",
+      "Tags": [
+        "c\u002B\u002B",
+        "string",
+        "gcc",
+        "header"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694200/how-and-why-gcc-string-header-creates-global-max-function"
+    },
+    {
+      "Created": "2025-07-08T12:03:32Z",
+      "Title": "Computing inverse Jacobi elliptic functions on Python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694202/computing-inverse-jacobi-elliptic-functions-on-python"
+    },
+    {
+      "Created": "2025-07-08T12:06:38Z",
+      "Title": "How to deserialize JSON in C#? Is the input format data correct?",
+      "Tags": [
+        "c#",
+        "json",
+        "serialization",
+        "deserialization",
+        "jsonserializer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694204/how-to-deserialize-json-in-c-is-the-input-format-data-correct"
+    }
+  ]
+}

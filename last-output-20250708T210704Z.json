@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-08T21:04:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T20:57:26Z",
+      "Title": "C# on Linux searches current directory with Process.Start?",
+      "Tags": [
+        "c#",
+        "linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694822/c-sharp-on-linux-searches-current-directory-with-process-start"
+    },
+    {
+      "Created": "2025-07-08T20:59:36Z",
+      "Title": "Hash table with storage but no allocation in C",
+      "Tags": [
+        "c",
+        "hashmap",
+        "hashtable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694824/hash-table-with-storage-but-no-allocation-in-c"
+    },
+    {
+      "Created": "2025-07-08T21:02:22Z",
+      "Title": "Difference between data received in PHP usingfile_get_contents(\u0027php://input\u0027) and using $_POST",
+      "Tags": [
+        "php",
+        "arrays",
+        "json",
+        "post",
+        "input"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694825/difference-between-data-received-in-php-usingfile-get-contentsphp-input-an"
+    },
+    {
+      "Created": "2025-07-08T21:03:53Z",
+      "Title": "how to avoid re-rendering for markers in google map component?",
+      "Tags": [
+        "google-maps",
+        "web",
+        "google-maps-advanced-marker-element"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694826/how-to-avoid-re-rendering-for-markers-in-google-map-component"
+    },
+    {
+      "Created": "2025-07-08T21:04:20Z",
+      "Title": "File does not have a stream with WriteToDirectory with .7zip",
+      "Tags": [
+        "c#",
+        "zip",
+        "subdirectory",
+        "7zip",
+        "sharpcompress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694827/file-does-not-have-a-stream-with-writetodirectory-with-7zip"
+    }
+  ]
+}

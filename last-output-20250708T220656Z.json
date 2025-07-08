@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-08T22:01:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T21:38:10Z",
+      "Title": "Will Azure Spot VMs be supported on Visual Studio subscriptions?",
+      "Tags": [
+        "azure",
+        "azure-batch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694855/will-azure-spot-vms-be-supported-on-visual-studio-subscriptions"
+    },
+    {
+      "Created": "2025-07-08T21:44:12Z",
+      "Title": "switch to another tenant is redirected to login instead of tenant path",
+      "Tags": [
+        "laravel",
+        "laravel-backpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694856/switch-to-another-tenant-is-redirected-to-login-instead-of-tenant-path"
+    },
+    {
+      "Created": "2025-07-08T21:53:17Z",
+      "Title": "How to store and load the state from an external database",
+      "Tags": [
+        "python",
+        "langchain",
+        "multi-agent",
+        "langgraph",
+        "langchain-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694863/how-to-store-and-load-the-state-from-an-external-database"
+    },
+    {
+      "Created": "2025-07-08T21:59:08Z",
+      "Title": "How to implement Python\u0027s unified attribute lookup (__getattribute__) in C\u002B\u002B, handling descriptors and metaclasses?",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "metaclass",
+        "internals",
+        "python-descriptors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694873/how-to-implement-pythons-unified-attribute-lookup-getattribute-in-c-ha"
+    },
+    {
+      "Created": "2025-07-08T22:01:59Z",
+      "Title": "How to Preserve the Order of selectizeInput Selections in R Shiny for Plotly Stacked Plots?",
+      "Tags": [
+        "r",
+        "shiny",
+        "plotly",
+        "data.table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694874/how-to-preserve-the-order-of-selectizeinput-selections-in-r-shiny-for-plotly-sta"
+    }
+  ]
+}

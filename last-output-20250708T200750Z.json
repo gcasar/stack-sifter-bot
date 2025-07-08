@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-08T20:02:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T19:13:21Z",
+      "Title": "OPEGL \u002B GLSL \u002B SDL_ttf text is not displayed correctly [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "glsl",
+        "sdl",
+        "sdl-ttf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694722/opegl-glsl-sdl-ttf-text-is-not-displayed-correctly"
+    },
+    {
+      "Created": "2025-07-08T19:33:57Z",
+      "Title": "Is it a good coding practice to use a React state to be set once with the expectation it will never change to prevent re-renders?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694745/is-it-a-good-coding-practice-to-use-a-react-state-to-be-set-once-with-the-expect"
+    },
+    {
+      "Created": "2025-07-08T19:52:32Z",
+      "Title": "How can one get multiple inheritance working when there are arguments? [duplicate]",
+      "Tags": [
+        "python",
+        "super"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694764/how-can-one-get-multiple-inheritance-working-when-there-are-arguments"
+    },
+    {
+      "Created": "2025-07-08T19:54:27Z",
+      "Title": "Transferring 20TB of date from Azure VM Disk storage to NAS in another tenant or domain",
+      "Tags": [
+        "azure",
+        "virtual-machine",
+        "file-transfer",
+        "nas",
+        "azcopy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694766/transferring-20tb-of-date-from-azure-vm-disk-storage-to-nas-in-another-tenant-or"
+    },
+    {
+      "Created": "2025-07-08T19:57:55Z",
+      "Title": "RL Trading Agent Can\u0027t Learn Sensible Behavior Even on a Simple Sine Wave \u2014 What Am I Doing Wrong?",
+      "Tags": [
+        "lstm",
+        "reinforcement-learning",
+        "algorithmic-trading",
+        "stable-baselines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694769/rl-trading-agent-cant-learn-sensible-behavior-even-on-a-simple-sine-wave-what"
+    },
+    {
+      "Created": "2025-07-08T20:01:51Z",
+      "Title": "Recharts tick on y axis doesn\u0027t align with CartesianGrid",
+      "Tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "next.js",
+        "recharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694771/recharts-tick-on-y-axis-doesnt-align-with-cartesiangrid"
+    },
+    {
+      "Created": "2025-07-08T20:02:31Z",
+      "Title": "How to create custom font classes in Tailwind CLI?",
+      "Tags": [
+        "html",
+        "css",
+        "fonts",
+        "config",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694773/how-to-create-custom-font-classes-in-tailwind-cli"
+    }
+  ]
+}

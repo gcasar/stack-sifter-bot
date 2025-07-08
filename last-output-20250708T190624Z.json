@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-08T18:52:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T18:18:28Z",
+      "Title": "Program crashes with no build errors when calling functions from included library",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "shared-libraries"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694667/program-crashes-with-no-build-errors-when-calling-functions-from-included-librar"
+    },
+    {
+      "Created": "2025-07-08T18:25:57Z",
+      "Title": "List of points [ (x,y), \u2026] to np.array()",
+      "Tags": [
+        "python-3.x",
+        "list",
+        "numpy-ndarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694676/list-of-points-x-y-to-np-array"
+    },
+    {
+      "Created": "2025-07-08T18:33:10Z",
+      "Title": "How to scale the units of the data \u0026 trend components of an autoplot of a multiplicative decomposition of a time series? [duplicate]",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694683/how-to-scale-the-units-of-the-data-trend-components-of-an-autoplot-of-a-multip"
+    },
+    {
+      "Created": "2025-07-08T18:52:27Z",
+      "Title": "Python @classmethod and @staticmethod decorators cause isinstance(\u2026, FunctionType) to be False",
+      "Tags": [
+        "python",
+        "types",
+        "metaclass",
+        "isinstance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694704/python-classmethod-and-staticmethod-decorators-cause-isinstance-functiontyp"
+    },
+    {
+      "Created": "2025-07-08T18:52:52Z",
+      "Title": "Are database transactions supported in Elsa.Client.Services.IWorkflowDefinitionsApi?",
+      "Tags": [
+        ".net-core",
+        ".net-standard",
+        "elsa-workflows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694707/are-database-transactions-supported-in-elsa-client-services-iworkflowdefinitions"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-08T17:53:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T17:41:22Z",
+      "Title": "How to delete an item in an immutable signal array or a key/value in a signal object?",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript",
+        "immutability",
+        "angular-signals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694625/how-to-delete-an-item-in-an-immutable-signal-array-or-a-key-value-in-a-signal-ob"
+    },
+    {
+      "Created": "2025-07-08T17:53:03Z",
+      "Title": "How do I code headers to be exported once to CSV? [duplicate]",
+      "Tags": [
+        "python",
+        "csv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694639/how-do-i-code-headers-to-be-exported-once-to-csv"
+    }
+  ]
+}

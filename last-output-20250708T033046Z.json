@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-08T03:16:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T02:40:33Z",
+      "Title": "Given an API that returns const char*, how to get its return value\u0027s address?",
+      "Tags": [
+        "c\u002B\u002B",
+        "pointers",
+        "rvalue",
+        "return-by-value"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693601/given-an-api-that-returns-const-char-how-to-get-its-return-values-address"
+    },
+    {
+      "Created": "2025-07-08T02:48:05Z",
+      "Title": "Unity Facebook Instant Games: getConnectedPlayersAsync() always returns empty even after adding Test Users as friends",
+      "Tags": [
+        "facebook",
+        "unity-game-engine",
+        "meta",
+        "facebook-instant-games"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693605/unity-facebook-instant-games-getconnectedplayersasync-always-returns-empty-ev"
+    },
+    {
+      "Created": "2025-07-08T03:06:58Z",
+      "Title": "flush I/O in Vercel beforeExit in node.js",
+      "Tags": [
+        "node.js",
+        "next.js",
+        "vercel",
+        "nextjs-15",
+        "neondb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693611/flush-i-o-in-vercel-beforeexit-in-node-js"
+    },
+    {
+      "Created": "2025-07-08T03:09:05Z",
+      "Title": "Weird dropdown field at \u0060/create-first-user\u0060 screen in Payload CMS",
+      "Tags": [
+        "next.js",
+        "payload-cms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693612/weird-dropdown-field-at-create-first-user-screen-in-payload-cms"
+    },
+    {
+      "Created": "2025-07-08T03:16:41Z",
+      "Title": "How to read [project.urls] metadata inside a project\u0027s entry point?",
+      "Tags": [
+        "python",
+        "pyproject.toml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693617/how-to-read-project-urls-metadata-inside-a-projects-entry-point"
+    }
+  ]
+}

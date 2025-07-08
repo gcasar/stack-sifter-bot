@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-08T05:02:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T04:20:31Z",
+      "Title": "How to return both early result and final async result using Promise?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "promise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693648/how-to-return-both-early-result-and-final-async-result-using-promise"
+    },
+    {
+      "Created": "2025-07-08T04:25:15Z",
+      "Title": "How to fix pygame error: not a file object",
+      "Tags": [
+        "python",
+        "file",
+        "pygame",
+        "mp3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693655/how-to-fix-pygame-error-not-a-file-object"
+    },
+    {
+      "Created": "2025-07-08T04:36:03Z",
+      "Title": "Why is Matrix Multiplication Slow During Pseudoinverse Calculation?",
+      "Tags": [
+        "python",
+        "matrix",
+        "multiplication",
+        "svd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693663/why-is-matrix-multiplication-slow-during-pseudoinverse-calculation"
+    },
+    {
+      "Created": "2025-07-08T04:41:25Z",
+      "Title": "Stable-Baselines3 PPO agent doesn\u0027t learn in custom projectile environment (reward/action constant)",
+      "Tags": [
+        "python",
+        "openai-gym",
+        "stable-baselines",
+        "pymunk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693668/stable-baselines3-ppo-agent-doesnt-learn-in-custom-projectile-environment-rewa"
+    },
+    {
+      "Created": "2025-07-08T04:47:50Z",
+      "Title": "MailKit SMTP connection lifetime and authenticate with OAuth tokens",
+      "Tags": [
+        "smtp",
+        "mailkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693672/mailkit-smtp-connection-lifetime-and-authenticate-with-oauth-tokens"
+    },
+    {
+      "Created": "2025-07-08T04:47:58Z",
+      "Title": "FInding a centerline of a contour?",
+      "Tags": [
+        "python",
+        "opencv",
+        "center",
+        "contour"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693673/finding-a-centerline-of-a-contour"
+    },
+    {
+      "Created": "2025-07-08T05:02:35Z",
+      "Title": "In Python, How to run two statistical tests on all numeric columns",
+      "Tags": [
+        "python",
+        "pandas",
+        "numpy",
+        "scipy",
+        "scikits"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693681/in-python-how-to-run-two-statistical-tests-on-all-numeric-columns"
+    }
+  ]
+}

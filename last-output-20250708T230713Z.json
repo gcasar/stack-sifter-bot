@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-08T23:02:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T22:40:54Z",
+      "Title": "Jasperreports in Java: Unable to load report",
+      "Tags": [
+        "java",
+        "jasper-reports"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694897/jasperreports-in-java-unable-to-load-report"
+    },
+    {
+      "Created": "2025-07-08T22:44:55Z",
+      "Title": "Local override equivalent as a chrome extension (mv3)",
+      "Tags": [
+        "javascript",
+        "google-chrome",
+        "google-chrome-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694901/local-override-equivalent-as-a-chrome-extension-mv3"
+    },
+    {
+      "Created": "2025-07-08T22:55:32Z",
+      "Title": "Regex to find character anywhere between two strings",
+      "Tags": [
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694904/regex-to-find-character-anywhere-between-two-strings"
+    },
+    {
+      "Created": "2025-07-08T23:02:25Z",
+      "Title": "How can I force longitude axis labels to display correctly with coord_sf() in ggplot2 (ticks at 160\u2013180\u00B0E)?",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "plot",
+        "mapping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694908/how-can-i-force-longitude-axis-labels-to-display-correctly-with-coord-sf-in-gg"
+    }
+  ]
+}

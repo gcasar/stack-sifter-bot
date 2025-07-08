@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-08T15:02:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T14:45:12Z",
+      "Title": "Python \u0022Chrome is being controlled by automated test software\u0022",
+      "Tags": [
+        "python",
+        "google-chrome",
+        "webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694431/python-chrome-is-being-controlled-by-automated-test-software"
+    },
+    {
+      "Created": "2025-07-08T14:57:57Z",
+      "Title": "Imports of self-written tools in Python",
+      "Tags": [
+        "python",
+        "python-import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694452/imports-of-self-written-tools-in-python"
+    },
+    {
+      "Created": "2025-07-08T15:00:07Z",
+      "Title": "How to prioritize manually triggered builds over queued auto builds waiting on a shared resource?",
+      "Tags": [
+        "buildbot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694453/how-to-prioritize-manually-triggered-builds-over-queued-auto-builds-waiting-on-a"
+    },
+    {
+      "Created": "2025-07-08T15:01:14Z",
+      "Title": "How to add multiple rows in a tabset within a Quarto dashboard",
+      "Tags": [
+        "python",
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694455/how-to-add-multiple-rows-in-a-tabset-within-a-quarto-dashboard"
+    },
+    {
+      "Created": "2025-07-08T15:01:35Z",
+      "Title": "How can I move an iterable value from an outer loop to an inner loop without iterating through the inner loops?",
+      "Tags": [
+        "django",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694457/how-can-i-move-an-iterable-value-from-an-outer-loop-to-an-inner-loop-without-ite"
+    },
+    {
+      "Created": "2025-07-08T15:02:24Z",
+      "Title": "Chrome Express/NGINX Video Stream Not Handling Range Requests (Flooding)?",
+      "Tags": [
+        "express",
+        "google-chrome",
+        "nginx",
+        "video-streaming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694459/chrome-express-nginx-video-stream-not-handling-range-requests-flooding"
+    }
+  ]
+}

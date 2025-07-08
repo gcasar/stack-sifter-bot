@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-08T07:03:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T06:27:58Z",
+      "Title": "ReactJS - Javascript addEventListener does not remove the listener function at component\u0027s unMount",
+      "Tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "dom",
+        "events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693747/reactjs-javascript-addeventlistener-does-not-remove-the-listener-function-at-c"
+    },
+    {
+      "Created": "2025-07-08T06:44:10Z",
+      "Title": "How can I properly connect and use my GPU with TensorFlow on my computer?",
+      "Tags": [
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693764/how-can-i-properly-connect-and-use-my-gpu-with-tensorflow-on-my-computer"
+    },
+    {
+      "Created": "2025-07-08T06:47:39Z",
+      "Title": "My classes getters and setters are now prefix-less. But Spark isn\u0027t able to use their objects correctly, as if get and set prefixes were mandatory",
+      "Tags": [
+        "java",
+        "apache-spark",
+        "getter-setter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693769/my-classes-getters-and-setters-are-now-prefix-less-but-spark-isnt-able-to-use"
+    },
+    {
+      "Created": "2025-07-08T06:59:36Z",
+      "Title": "K8s Keycloak Deployment to GCP \u0022Https is Required\u0022",
+      "Tags": [
+        "kubernetes",
+        "google-cloud-platform",
+        "kubernetes-helm",
+        "kubernetes-ingress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693785/k8s-keycloak-deployment-to-gcp-https-is-required"
+    },
+    {
+      "Created": "2025-07-08T07:01:31Z",
+      "Title": "Why is Dash ignoring the HOST environment variable?",
+      "Tags": [
+        "python",
+        "docker",
+        "environment-variables",
+        "plotly-dash",
+        "jupyter-lab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693791/why-is-dash-ignoring-the-host-environment-variable"
+    },
+    {
+      "Created": "2025-07-08T07:03:36Z",
+      "Title": "Alternative way to deploy Azure Function App when VS Code extension is not allowed in MVD",
+      "Tags": [
+        "azure",
+        "visual-studio-code",
+        "deployment",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693793/alternative-way-to-deploy-azure-function-app-when-vs-code-extension-is-not-allow"
+    }
+  ]
+}

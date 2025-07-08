@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-08T17:04:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T16:35:16Z",
+      "Title": "Using Arduino LedControl Library for multiple MAX7219 without daisy chaning",
+      "Tags": [
+        "arduino"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694554/using-arduino-ledcontrol-library-for-multiple-max7219-without-daisy-chaning"
+    },
+    {
+      "Created": "2025-07-08T16:55:42Z",
+      "Title": "How to efficiently parse data packets into structs",
+      "Tags": [
+        "c",
+        "parsing",
+        "struct",
+        "can-bus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694577/how-to-efficiently-parse-data-packets-into-structs"
+    },
+    {
+      "Created": "2025-07-08T17:00:00Z",
+      "Title": "CallKit in call screen opens behind my app",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "callkit",
+        "pushkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694582/callkit-in-call-screen-opens-behind-my-app"
+    },
+    {
+      "Created": "2025-07-08T17:01:07Z",
+      "Title": "EXECUTE IMMEDIATE BULK COLLECT DYNAMIC USING",
+      "Tags": [
+        "oracle-database",
+        "plsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694584/execute-immediate-bulk-collect-dynamic-using"
+    },
+    {
+      "Created": "2025-07-08T17:04:29Z",
+      "Title": "Kotlin Redis insertion causes high heap usage with async \u2013 is this normal or am I doing something wrong?",
+      "Tags": [
+        "kotlin",
+        "redis",
+        "ktor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694586/kotlin-redis-insertion-causes-high-heap-usage-with-async-is-this-normal-or-am"
+    }
+  ]
+}

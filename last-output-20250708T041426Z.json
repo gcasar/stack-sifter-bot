@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-08T04:07:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T03:32:07Z",
+      "Title": "how to add unique constraint in multiple column in QxORM",
+      "Tags": [
+        "constraints",
+        "unique",
+        "qxorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693624/how-to-add-unique-constraint-in-multiple-column-in-qxorm"
+    },
+    {
+      "Created": "2025-07-08T03:52:15Z",
+      "Title": "ReportLab stringWidth() inconsistency. One bullet point always truncates despite pixel-based text wrapping",
+      "Tags": [
+        "python",
+        "word-wrap",
+        "reportlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693634/reportlab-stringwidth-inconsistency-one-bullet-point-always-truncates-despite"
+    },
+    {
+      "Created": "2025-07-08T03:52:22Z",
+      "Title": "confused in using IMFDXGIDeviceManager when using IMFTransform?",
+      "Tags": [
+        "ms-media-foundation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693635/confused-in-using-imfdxgidevicemanager-when-using-imftransform"
+    },
+    {
+      "Created": "2025-07-08T04:07:41Z",
+      "Title": "How i can do Free and NULL inside a function correctly and why?",
+      "Tags": [
+        "c",
+        "function",
+        "pointers",
+        "null",
+        "free"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693639/how-i-can-do-free-and-null-inside-a-function-correctly-and-why"
+    }
+  ]
+}

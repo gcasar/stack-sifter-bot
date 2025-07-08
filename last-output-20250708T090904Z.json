@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-08T09:06:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T08:35:37Z",
+      "Title": "Android Google geofence sometimes not detecting regions",
+      "Tags": [
+        "android",
+        "broadcastreceiver",
+        "android-geofence",
+        "geofence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693924/android-google-geofence-sometimes-not-detecting-regions"
+    },
+    {
+      "Created": "2025-07-08T08:49:59Z",
+      "Title": "Getting \u0022Registration response error messages\u0022 with Chromedriver 138.0.7204.92 in selenium",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693946/getting-registration-response-error-messages-with-chromedriver-138-0-7204-92-i"
+    },
+    {
+      "Created": "2025-07-08T08:58:27Z",
+      "Title": "How to fix \u0022Search functionality must be placed within a landmark region\u0022 WCAG issue with input and icon?",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "screen-readers",
+        "browserstack",
+        "wcag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693951/how-to-fix-search-functionality-must-be-placed-within-a-landmark-region-wcag-i"
+    },
+    {
+      "Created": "2025-07-08T08:59:48Z",
+      "Title": "Docker image (ubuntu 16.04 based) does not work on rocky 9 (but on Fedora 42, Ubuntu 20.04 / 22.04 / 24.04) [closed]",
+      "Tags": [
+        "docker",
+        "bitbake",
+        "rocky-os"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693952/docker-image-ubuntu-16-04-based-does-not-work-on-rocky-9-but-on-fedora-42-ub"
+    },
+    {
+      "Created": "2025-07-08T09:01:18Z",
+      "Title": "How can I pass the values \u200Bof list elements by index to the template - as the number of iterations of the loop?",
+      "Tags": [
+        "html",
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693954/how-can-i-pass-the-values-of-list-elements-by-index-to-the-template-as-the-nu"
+    },
+    {
+      "Created": "2025-07-08T09:03:56Z",
+      "Title": "Take a long time I load the Django library using PyCharm",
+      "Tags": [
+        "python",
+        "django",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693958/take-a-long-time-i-load-the-django-library-using-pycharm"
+    },
+    {
+      "Created": "2025-07-08T09:06:11Z",
+      "Title": "Expo EAS Build Fails on Android: \u0022style/Theme.App.SplashScreen not found\u0022 Despite Using expo-splash-screen",
+      "Tags": [
+        "expo",
+        "eas",
+        "turborepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693960/expo-eas-build-fails-on-android-style-theme-app-splashscreen-not-found-despit"
+    }
+  ]
+}

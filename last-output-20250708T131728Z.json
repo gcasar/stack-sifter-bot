@@ -1,0 +1,93 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-08T13:14:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T12:58:05Z",
+      "Title": "How to test class initalization in Python? AttributeError: \u0027GithubPiz\u0027 object has no attribute \u0027request_resource\u0027",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694277/how-to-test-class-initalization-in-python-attributeerror-githubpiz-object-ha"
+    },
+    {
+      "Created": "2025-07-08T13:08:34Z",
+      "Title": "alGetSourcei doesn\u0027t return the right number of processed buffers",
+      "Tags": [
+        "openal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694292/algetsourcei-doesnt-return-the-right-number-of-processed-buffers"
+    },
+    {
+      "Created": "2025-07-08T13:09:00Z",
+      "Title": "Microsoft.Azure.NotificationHubs does not register Android and iOS Devices",
+      "Tags": [
+        "android",
+        "ios",
+        ".net",
+        "azure",
+        "azure-notificationhub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694294/microsoft-azure-notificationhubs-does-not-register-android-and-ios-devices"
+    },
+    {
+      "Created": "2025-07-08T13:10:27Z",
+      "Title": "Emgu CV: CvInvoke.ProjectPoints throws \u0022OpenCV: d == 2 \u0026\u0026 (sizes[0] == 1 || sizes[1] == 1 || sizes[0]sizes[1] == 0)\u0022 despite valid inputs",
+      "Tags": [
+        "c#",
+        "opencv",
+        "emgucv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694299/emgu-cv-cvinvoke-projectpoints-throws-opencv-d-2-sizes0-1-size"
+    },
+    {
+      "Created": "2025-07-08T13:11:01Z",
+      "Title": "flutter push notification onclick function not work",
+      "Tags": [
+        "flutter",
+        "firebase-cloud-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694302/flutter-push-notification-onclick-function-not-work"
+    },
+    {
+      "Created": "2025-07-08T13:12:20Z",
+      "Title": "ReportViewer WebForms breaks when certain cultures are used in reports with datetime filtering",
+      "Tags": [
+        "asp.net",
+        "reporting-services",
+        "webforms",
+        "rdlc",
+        "reportviewer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694304/reportviewer-webforms-breaks-when-certain-cultures-are-used-in-reports-with-date"
+    },
+    {
+      "Created": "2025-07-08T13:13:40Z",
+      "Title": "Mime type for PDF on Windows",
+      "Tags": [
+        "pdf",
+        "mime-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694307/mime-type-for-pdf-on-windows"
+    },
+    {
+      "Created": "2025-07-08T13:14:19Z",
+      "Title": "extended mapfield results in error when updating a doc - mongoengine",
+      "Tags": [
+        "python",
+        "mongoengine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694308/extended-mapfield-results-in-error-when-updating-a-doc-mongoengine"
+    },
+    {
+      "Created": "2025-07-08T13:14:55Z",
+      "Title": "Modifying state for \u0060par()\u0060 and environmental variables using withr",
+      "Tags": [
+        "r",
+        "state",
+        "environment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694311/modifying-state-for-par-and-environmental-variables-using-withr"
+    }
+  ]
+}

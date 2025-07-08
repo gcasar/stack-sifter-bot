@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-08T08:05:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-08T07:46:11Z",
+      "Title": "Best Sendable practice with Combine",
+      "Tags": [
+        "ios",
+        "swift",
+        "iphone",
+        "combine",
+        "swift6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693852/best-sendable-practice-with-combine"
+    },
+    {
+      "Created": "2025-07-08T08:04:59Z",
+      "Title": "How to implement Mobile Deep Links with BitlySDK iOS",
+      "Tags": [
+        "ios",
+        "swift",
+        "deep-linking",
+        "bitly",
+        "deferred-deep-linking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693883/how-to-implement-mobile-deep-links-with-bitlysdk-ios"
+    },
+    {
+      "Created": "2025-07-08T08:05:35Z",
+      "Title": "Can I set the locale from within a Haskell program, so I can print unicode characters appropriately?",
+      "Tags": [
+        "windows",
+        "haskell",
+        "unicode",
+        "windows-subsystem-for-linux",
+        "locale"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693884/can-i-set-the-locale-from-within-a-haskell-program-so-i-can-print-unicode-chara"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-08T00:03:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-07T23:23:57Z",
+      "Title": "How can I make mapbox-gl symbols appear regardless of zoom level?",
+      "Tags": [
+        "mapbox-gl",
+        "react-map-gl",
+        "maplibre-gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693508/how-can-i-make-mapbox-gl-symbols-appear-regardless-of-zoom-level"
+    },
+    {
+      "Created": "2025-07-07T23:25:18Z",
+      "Title": "How to write a line feed to a file?",
+      "Tags": [
+        "windows",
+        "batch-file",
+        "cmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693511/how-to-write-a-line-feed-to-a-file"
+    },
+    {
+      "Created": "2025-07-07T23:57:02Z",
+      "Title": "Why does this CMake list variable expansion not behaving as expected?",
+      "Tags": [
+        "list",
+        "cmake",
+        "macros",
+        "set",
+        "expansion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693529/why-does-this-cmake-list-variable-expansion-not-behaving-as-expected"
+    },
+    {
+      "Created": "2025-07-08T00:03:06Z",
+      "Title": "Cropper.js image is too small in Vue 3 component",
+      "Tags": [
+        "javascript",
+        "image",
+        "vue.js",
+        "frontend",
+        "cropperjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79693530/cropper-js-image-is-too-small-in-vue-3-component"
+    }
+  ]
+}

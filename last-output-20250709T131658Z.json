@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-09T13:12:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T12:44:43Z",
+      "Title": "how to fix sfml show white square instead of sprites?",
+      "Tags": [
+        "c\u002B\u002B",
+        "sfml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695638/how-to-fix-sfml-show-white-square-instead-of-sprites"
+    },
+    {
+      "Created": "2025-07-09T13:08:26Z",
+      "Title": "How to forcefully terminate a running Python test in VSCode",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "debugging",
+        "python-unittest",
+        "ray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695675/how-to-forcefully-terminate-a-running-python-test-in-vscode"
+    },
+    {
+      "Created": "2025-07-09T13:08:27Z",
+      "Title": "How to handle JWT token expiration and auto-refresh in a Spring Boot \u002B Angular application?",
+      "Tags": [
+        "angular",
+        "spring-boot",
+        "authentication",
+        "jwt",
+        "refresh-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695676/how-to-handle-jwt-token-expiration-and-auto-refresh-in-a-spring-boot-angular-a"
+    },
+    {
+      "Created": "2025-07-09T13:09:34Z",
+      "Title": "dplyr::select rename columns and negative selection at the same time doesn\u0027t work",
+      "Tags": [
+        "r",
+        "select",
+        "dplyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695678/dplyrselect-rename-columns-and-negative-selection-at-the-same-time-doesnt-wor"
+    },
+    {
+      "Created": "2025-07-09T13:11:36Z",
+      "Title": "Can I extract a specific path in Power Bi with DAX?",
+      "Tags": [
+        "powerbi",
+        "dax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695684/can-i-extract-a-specific-path-in-power-bi-with-dax"
+    },
+    {
+      "Created": "2025-07-09T13:12:11Z",
+      "Title": "Consolidate date ranges using Teradata",
+      "Tags": [
+        "date",
+        "range",
+        "teradata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695686/consolidate-date-ranges-using-teradata"
+    },
+    {
+      "Created": "2025-07-09T13:12:42Z",
+      "Title": "Finding All Classes works in NetBeans but fails in a Maven built JAR at runtime",
+      "Tags": [
+        "classloader",
+        "executable-jar",
+        "maven-assembly-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695688/finding-all-classes-works-in-netbeans-but-fails-in-a-maven-built-jar-at-runtime"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-09T06:04:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T05:36:29Z",
+      "Title": "Kafka and consumer-level concurrency \\ race-conditions",
+      "Tags": [
+        "apache-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695113/kafka-and-consumer-level-concurrency-race-conditions"
+    },
+    {
+      "Created": "2025-07-09T06:00:25Z",
+      "Title": "Migrating from Joda-Time to java.time: How to replace time.toDateTimeToday().getMillis()?",
+      "Tags": [
+        "java",
+        "scheduler",
+        "java-time",
+        "localtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695127/migrating-from-joda-time-to-java-time-how-to-replace-time-todatetimetoday-get"
+    },
+    {
+      "Created": "2025-07-09T06:01:46Z",
+      "Title": "Golang deffered func execution, local variables",
+      "Tags": [
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695129/golang-deffered-func-execution-local-variables"
+    },
+    {
+      "Created": "2025-07-09T06:02:46Z",
+      "Title": "Issue in downloading pre open market file from NSE website using Selenium",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "nse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695131/issue-in-downloading-pre-open-market-file-from-nse-website-using-selenium"
+    },
+    {
+      "Created": "2025-07-09T06:04:30Z",
+      "Title": "Is there a way to conditionally apply Equatable?",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695133/is-there-a-way-to-conditionally-apply-equatable"
+    }
+  ]
+}

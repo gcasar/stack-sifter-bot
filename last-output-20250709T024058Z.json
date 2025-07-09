@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-09T02:36:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T02:05:09Z",
+      "Title": "Is there a way to skip the voter_memberships association and adjust the voters association so it keeps working",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby",
+        "activerecord"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695008/is-there-a-way-to-skip-the-voter-memberships-association-and-adjust-the-voters-a"
+    },
+    {
+      "Created": "2025-07-09T02:28:44Z",
+      "Title": "Max number of non-intersecting subarrays such that the last element is not the max in the subarray",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695018/max-number-of-non-intersecting-subarrays-such-that-the-last-element-is-not-the-m"
+    },
+    {
+      "Created": "2025-07-09T02:36:52Z",
+      "Title": "PyQt6: How can I allow custom-painted elements to extend outside widget bounds without being clipped?",
+      "Tags": [
+        "python",
+        "qwidget",
+        "pyqt6",
+        "qpainter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695020/pyqt6-how-can-i-allow-custom-painted-elements-to-extend-outside-widget-bounds-w"
+    }
+  ]
+}

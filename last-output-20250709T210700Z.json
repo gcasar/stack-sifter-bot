@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-09T21:01:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T20:39:04Z",
+      "Title": "recv() or select() doesn\u0027t return immediately after shutdown() and abortFlag in multithreaded socket listener",
+      "Tags": [
+        "multithreading",
+        "sockets",
+        "select",
+        "nonblocking",
+        "recv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696231/recv-or-select-doesnt-return-immediately-after-shutdown-and-abortflag-in"
+    },
+    {
+      "Created": "2025-07-09T20:48:23Z",
+      "Title": "Is Android App Links possible to use with an internal-only website?",
+      "Tags": [
+        "android",
+        "applinks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696239/is-android-app-links-possible-to-use-with-an-internal-only-website"
+    },
+    {
+      "Created": "2025-07-09T20:50:35Z",
+      "Title": "Multiple ranges with creating a chart via Excel VBA",
+      "Tags": [
+        "excel",
+        "vba",
+        "charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696242/multiple-ranges-with-creating-a-chart-via-excel-vba"
+    },
+    {
+      "Created": "2025-07-09T21:01:43Z",
+      "Title": "How to let a python coded programm work always if the Computer is turned on?",
+      "Tags": [
+        "python",
+        "windows",
+        "batch-file",
+        "exe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696252/how-to-let-a-python-coded-programm-work-always-if-the-computer-is-turned-on"
+    }
+  ]
+}

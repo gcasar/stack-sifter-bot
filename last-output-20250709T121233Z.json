@@ -1,0 +1,95 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-09T12:10:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T11:50:38Z",
+      "Title": "How do I add a header/headers to an IBM Cloud Object S3 object created from IBM ACE?",
+      "Tags": [
+        "ibm-integration-bus",
+        "ibm-cloud-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695567/how-do-i-add-a-header-headers-to-an-ibm-cloud-object-s3-object-created-from-ibm"
+    },
+    {
+      "Created": "2025-07-09T11:51:26Z",
+      "Title": "Is there a way ro remove rpz.gs.local DNS? File hosts in Windows doesn\u0027t work correctly",
+      "Tags": [
+        "php",
+        "dns",
+        "xampp",
+        "localhost",
+        "hosts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695569/is-there-a-way-ro-remove-rpz-gs-local-dns-file-hosts-in-windows-doesnt-work-co"
+    },
+    {
+      "Created": "2025-07-09T11:56:41Z",
+      "Title": "DualSense touchpad button press not recognized as gamepad button [closed]",
+      "Tags": [
+        "linux",
+        "gamepad",
+        "moonlight"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695576/dualsense-touchpad-button-press-not-recognized-as-gamepad-button"
+    },
+    {
+      "Created": "2025-07-09T11:57:53Z",
+      "Title": "Keycloak internal token exchange",
+      "Tags": [
+        "oauth-2.0",
+        "keycloak",
+        "token-exchange"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695577/keycloak-internal-token-exchange"
+    },
+    {
+      "Created": "2025-07-09T12:06:15Z",
+      "Title": "Matplotlib Engformatter base 2",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695585/matplotlib-engformatter-base-2"
+    },
+    {
+      "Created": "2025-07-09T12:07:58Z",
+      "Title": "Oracle sysdate vs postgres *_timestamp()",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695586/oracle-sysdate-vs-postgres-timestamp"
+    },
+    {
+      "Created": "2025-07-09T12:08:57Z",
+      "Title": "ANSI C12.19-2021 Compliance: Can Manufacturer Tables (MFG) Fully Replace Standard Tables (STD) Except 00/07/08?",
+      "Tags": [
+        "embedded",
+        "standards-compliance",
+        "ansi",
+        "meter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695588/ansi-c12-19-2021-compliance-can-manufacturer-tables-mfg-fully-replace-standar"
+    },
+    {
+      "Created": "2025-07-09T12:09:48Z",
+      "Title": "Create Google Word Doc programmatically in PHP",
+      "Tags": [
+        "php",
+        "ms-word",
+        "google-docs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695589/create-google-word-doc-programmatically-in-php"
+    },
+    {
+      "Created": "2025-07-09T12:10:09Z",
+      "Title": "PlatformException(sign_in_failed, ApiException: 10) when migrating to new Google Sign-In package in Flutter",
+      "Tags": [
+        "flutter",
+        "firebase-authentication",
+        "google-signin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695590/platformexceptionsign-in-failed-apiexception-10-when-migrating-to-new-google"
+    }
+  ]
+}

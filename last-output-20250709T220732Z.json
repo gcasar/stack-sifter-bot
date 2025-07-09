@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-09T22:00:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T21:15:18Z",
+      "Title": "SwiftUI MVVM \u2013 How to share a single GameViewModel instance across multiple sub-ViewModels?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "mvvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696264/swiftui-mvvm-how-to-share-a-single-gameviewmodel-instance-across-multiple-sub"
+    },
+    {
+      "Created": "2025-07-09T21:25:04Z",
+      "Title": "How to call the function \u0022NtQueryInformationProcess\u0022, which is a function in the \u0022windows\u0022 crate, correctly?",
+      "Tags": [
+        "windows",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696274/how-to-call-the-function-ntqueryinformationprocess-which-is-a-function-in-the"
+    },
+    {
+      "Created": "2025-07-09T21:48:39Z",
+      "Title": "Storing Xarray.Datasets in single Pandas.DataFrame cells",
+      "Tags": [
+        "python",
+        "pandas",
+        "python-xarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696295/storing-xarray-datasets-in-single-pandas-dataframe-cells"
+    },
+    {
+      "Created": "2025-07-09T21:51:34Z",
+      "Title": "outlook 2010 vba want to switch from any view to email and then display a form",
+      "Tags": [
+        "vba",
+        "forms",
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696296/outlook-2010-vba-want-to-switch-from-any-view-to-email-and-then-display-a-form"
+    },
+    {
+      "Created": "2025-07-09T21:58:09Z",
+      "Title": "I am getting unauthenticated response from api/user while using react and laravel sanctum",
+      "Tags": [
+        "reactjs",
+        "laravel",
+        "laravel-sanctum"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696301/i-am-getting-unauthenticated-response-from-api-user-while-using-react-and-larave"
+    },
+    {
+      "Created": "2025-07-09T22:00:06Z",
+      "Title": "disable wp_get_loading_optimization_attributes",
+      "Tags": [
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696302/disable-wp-get-loading-optimization-attributes"
+    }
+  ]
+}

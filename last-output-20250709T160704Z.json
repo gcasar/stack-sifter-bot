@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-09T16:06:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T15:21:42Z",
+      "Title": "Why is my Python logger placing log files in a completely different place from where I ask?",
+      "Tags": [
+        "python",
+        "logging",
+        "configuration",
+        "python-logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695884/why-is-my-python-logger-placing-log-files-in-a-completely-different-place-from-w"
+    },
+    {
+      "Created": "2025-07-09T15:45:45Z",
+      "Title": "how to unit test flask method using google cloud storage library",
+      "Tags": [
+        "python",
+        "flask",
+        "google-cloud-storage",
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695922/how-to-unit-test-flask-method-using-google-cloud-storage-library"
+    },
+    {
+      "Created": "2025-07-09T15:58:07Z",
+      "Title": "Peer dependency conflict",
+      "Tags": [
+        "node.js",
+        "express",
+        "npm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695934/peer-dependency-conflict"
+    },
+    {
+      "Created": "2025-07-09T15:59:03Z",
+      "Title": "Why does only .Range(\u0022A2\u0022) work when I\u0027m setting a value between two sheets? How can I make variable references work?",
+      "Tags": [
+        "excel",
+        "vba",
+        "syntax",
+        "runtime-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695935/why-does-only-rangea2-work-when-im-setting-a-value-between-two-sheets-how"
+    },
+    {
+      "Created": "2025-07-09T16:00:54Z",
+      "Title": "Last fragment is shown as a flicker when launched from a different application",
+      "Tags": [
+        "android",
+        "android-fragments",
+        "android-activity",
+        "android-activitymanager",
+        "navcontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695940/last-fragment-is-shown-as-a-flicker-when-launched-from-a-different-application"
+    },
+    {
+      "Created": "2025-07-09T16:02:51Z",
+      "Title": "Frameless window flag in QT creator program is ignored in debian, but accepted in ubuntu and wsl",
+      "Tags": [
+        "qt",
+        "ubuntu",
+        "debian",
+        "qt-creator",
+        "flags"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695943/frameless-window-flag-in-qt-creator-program-is-ignored-in-debian-but-accepted-i"
+    },
+    {
+      "Created": "2025-07-09T16:06:11Z",
+      "Title": "Deactivate slider from user click",
+      "Tags": [
+        "android",
+        "kotlin",
+        "slider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695948/deactivate-slider-from-user-click"
+    }
+  ]
+}

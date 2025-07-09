@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-09T14:01:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T13:34:31Z",
+      "Title": "How to properly parse JSON in C#",
+      "Tags": [
+        "c#",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695722/how-to-properly-parse-json-in-c-sharp"
+    },
+    {
+      "Created": "2025-07-09T13:54:25Z",
+      "Title": "Error \u0022TypeError: Property \u0027smth\u0027 of object \u0027smth\u0027 is not a function\u0022",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695744/error-typeerror-property-smth-of-object-smth-is-not-a-function"
+    },
+    {
+      "Created": "2025-07-09T13:55:26Z",
+      "Title": "MimeKit, us-ascii text body instead of UTF-8 with BodyBuilder",
+      "Tags": [
+        "c#",
+        "powershell",
+        "mimekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695746/mimekit-us-ascii-text-body-instead-of-utf-8-with-bodybuilder"
+    },
+    {
+      "Created": "2025-07-09T13:59:03Z",
+      "Title": "R sample size calculation w/ ratio",
+      "Tags": [
+        "r",
+        "sample-size"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695752/r-sample-size-calculation-w-ratio"
+    },
+    {
+      "Created": "2025-07-09T14:01:20Z",
+      "Title": "How to get the KL divergence between two datasets (say ImageNet1k and FGVC-Aircraft)",
+      "Tags": [
+        "deep-learning",
+        "pytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695755/how-to-get-the-kl-divergence-between-two-datasets-say-imagenet1k-and-fgvc-aircr"
+    }
+  ]
+}

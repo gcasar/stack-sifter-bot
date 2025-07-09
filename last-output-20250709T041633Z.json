@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-09T04:11:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T03:57:52Z",
+      "Title": "Why do my OpenType ligature substitutions work on Windows but fail for multiple CJK characters on Android?",
+      "Tags": [
+        "android",
+        "truetype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695059/why-do-my-opentype-ligature-substitutions-work-on-windows-but-fail-for-multiple"
+    },
+    {
+      "Created": "2025-07-09T03:59:20Z",
+      "Title": "I\u0027m getting an error when trying to load a Hugging Face dataset in Colab",
+      "Tags": [
+        "python",
+        "huggingface-transformers",
+        "huggingface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695060/im-getting-an-error-when-trying-to-load-a-hugging-face-dataset-in-colab"
+    },
+    {
+      "Created": "2025-07-09T04:11:17Z",
+      "Title": "Aerospike Big Memory Usage",
+      "Tags": [
+        "java",
+        "linux",
+        "database",
+        "aerospike"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695066/aerospike-big-memory-usage"
+    }
+  ]
+}

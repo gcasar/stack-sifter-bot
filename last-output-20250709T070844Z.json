@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-09T06:54:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T06:32:36Z",
+      "Title": "reverse triangle with number patterns [closed]",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695172/reverse-triangle-with-number-patterns"
+    },
+    {
+      "Created": "2025-07-09T06:41:05Z",
+      "Title": "How to use properly the override flag with Stripe CLI?",
+      "Tags": [
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695183/how-to-use-properly-the-override-flag-with-stripe-cli"
+    },
+    {
+      "Created": "2025-07-09T06:50:22Z",
+      "Title": "Electron desktop app works only on my dev pc but not on other pc",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "electron",
+        "better-sqlite3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695193/electron-desktop-app-works-only-on-my-dev-pc-but-not-on-other-pc"
+    },
+    {
+      "Created": "2025-07-09T06:50:40Z",
+      "Title": "Find field throwing error in Python Dataclass conversion",
+      "Tags": [
+        "python",
+        "python-dataclasses",
+        "dataclass-wizard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695194/find-field-throwing-error-in-python-dataclass-conversion"
+    },
+    {
+      "Created": "2025-07-09T06:54:48Z",
+      "Title": "Error when using Terragrunt Stack as a dependency",
+      "Tags": [
+        "terraform",
+        "infrastructure-as-code",
+        "terragrunt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695200/error-when-using-terragrunt-stack-as-a-dependency"
+    }
+  ]
+}

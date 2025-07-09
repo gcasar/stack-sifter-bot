@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-09T22:38:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T22:32:30Z",
+      "Title": "Only 1 file from multi-file list copied to Clipboard with Win32 C\u002B\u002B CF_HDROP and DROPFILES",
+      "Tags": [
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696317/only-1-file-from-multi-file-list-copied-to-clipboard-with-win32-c-cf-hdrop-and"
+    },
+    {
+      "Created": "2025-07-09T22:38:07Z",
+      "Title": "How to debug STL container data in watch window in Visual Studio 2022?",
+      "Tags": [
+        "c\u002B\u002B",
+        "debugging",
+        "stl",
+        "visual-studio-2022",
+        "watch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696319/how-to-debug-stl-container-data-in-watch-window-in-visual-studio-2022"
+    }
+  ]
+}

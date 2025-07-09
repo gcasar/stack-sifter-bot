@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-09T04:57:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T04:21:15Z",
+      "Title": "Limiting the starting rule of an expression in ANTLR4",
+      "Tags": [
+        "parsing",
+        "antlr",
+        "antlr4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695070/limiting-the-starting-rule-of-an-expression-in-antlr4"
+    },
+    {
+      "Created": "2025-07-09T04:52:15Z",
+      "Title": "Real robot gets randomly into recovery mode after more than a hour of running it. Gets stuck in that mode. How do I diagnose it? How can I fix it?",
+      "Tags": [
+        "navigation",
+        "robotics",
+        "ros2",
+        "slam-algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695092/real-robot-gets-randomly-into-recovery-mode-after-more-than-a-hour-of-running-it"
+    },
+    {
+      "Created": "2025-07-09T04:57:23Z",
+      "Title": "Where are bitonic arrays found in the real world?",
+      "Tags": [
+        "arrays",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695097/where-are-bitonic-arrays-found-in-the-real-world"
+    }
+  ]
+}

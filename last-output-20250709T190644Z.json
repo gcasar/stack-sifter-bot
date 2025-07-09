@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-09T19:00:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T18:39:23Z",
+      "Title": "Why is watchdog event-handler trying to open every new file?",
+      "Tags": [
+        "python",
+        "python-watchdog",
+        "kqueue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696110/why-is-watchdog-event-handler-trying-to-open-every-new-file"
+    },
+    {
+      "Created": "2025-07-09T18:50:19Z",
+      "Title": "UnicodeDecodeError when connecting to PostgreSQL using psycopg2, despite UTF-8 encoding everywhere",
+      "Tags": [
+        "python",
+        "django",
+        "database",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696122/unicodedecodeerror-when-connecting-to-postgresql-using-psycopg2-despite-utf-8-e"
+    },
+    {
+      "Created": "2025-07-09T18:53:18Z",
+      "Title": "(Woocomerce) Unable To Update Order Meta",
+      "Tags": [
+        "php",
+        "wordpress",
+        "hook-woocommerce",
+        "custom-fields",
+        "post-meta"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696125/woocomerce-unable-to-update-order-meta"
+    },
+    {
+      "Created": "2025-07-09T18:55:31Z",
+      "Title": "Netsuite Suite Analytics JDBC lastmodifieddate NullPointerException error",
+      "Tags": [
+        "jdbc",
+        "databricks",
+        "netsuite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696126/netsuite-suite-analytics-jdbc-lastmodifieddate-nullpointerexception-error"
+    },
+    {
+      "Created": "2025-07-09T18:59:43Z",
+      "Title": "Pathfinding algorithm using tangents around circles, Lua",
+      "Tags": [
+        "lua",
+        "geometry",
+        "path-finding",
+        "love2d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696129/pathfinding-algorithm-using-tangents-around-circles-lua"
+    },
+    {
+      "Created": "2025-07-09T18:59:53Z",
+      "Title": "Using zsh and ace to pull metadata from epub using recursion",
+      "Tags": [
+        "macos",
+        "jq",
+        "zsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696130/using-zsh-and-ace-to-pull-metadata-from-epub-using-recursion"
+    },
+    {
+      "Created": "2025-07-09T19:00:00Z",
+      "Title": "sam watch with Separate Lambda Layer and Function Stacks -- how to use newest layers in lambdas during development",
+      "Tags": [
+        "amazon-web-services",
+        "aws-lambda",
+        "aws-cloudformation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696131/sam-watch-with-separate-lambda-layer-and-function-stacks-how-to-use-newest-la"
+    }
+  ]
+}

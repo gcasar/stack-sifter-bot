@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-09T00:24:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T00:03:51Z",
+      "Title": "Guardar un usuario en un arreglo en una petici\u00F3n post [closed]",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "express",
+        "mongoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694938/guardar-un-usuario-en-un-arreglo-en-una-petici%c3%b3n-post"
+    },
+    {
+      "Created": "2025-07-09T00:13:42Z",
+      "Title": "pycharm ipykernel error when clicking CANCEL button in the input dialog box",
+      "Tags": [
+        "python-3.x",
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694944/pycharm-ipykernel-error-when-clicking-cancel-button-in-the-input-dialog-box"
+    },
+    {
+      "Created": "2025-07-09T00:24:17Z",
+      "Title": "Connecting Fastify to SQL Server",
+      "Tags": [
+        "node.js",
+        "sql-server",
+        "fastify",
+        "mssql-jdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79694952/connecting-fastify-to-sql-server"
+    }
+  ]
+}

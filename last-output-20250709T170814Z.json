@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-09T17:03:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T16:32:08Z",
+      "Title": "Flink CDC Pipeline - OutOfMemoryError: Direct buffer memory",
+      "Tags": [
+        "apache-flink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695972/flink-cdc-pipeline-outofmemoryerror-direct-buffer-memory"
+    },
+    {
+      "Created": "2025-07-09T16:41:24Z",
+      "Title": "How to assign subgraph IDs based on weakly connected user pairs, but split when no shared connection exists (NetworkX, pandas)",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695981/how-to-assign-subgraph-ids-based-on-weakly-connected-user-pairs-but-split-when"
+    },
+    {
+      "Created": "2025-07-09T16:43:50Z",
+      "Title": "Understanding the Main/UI Thread in .NET MAUI?",
+      "Tags": [
+        "c#",
+        ".net",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695984/understanding-the-main-ui-thread-in-net-maui"
+    },
+    {
+      "Created": "2025-07-09T17:03:20Z",
+      "Title": "TimescaleDB installation on postgres 14",
+      "Tags": [
+        "postgresql",
+        "timescaledb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695994/timescaledb-installation-on-postgres-14"
+    }
+  ]
+}

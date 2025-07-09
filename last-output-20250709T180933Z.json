@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-09T18:04:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T17:16:09Z",
+      "Title": "How to speed up MySQL query containing LEFT JOIN and GROUP BY with 4M\u002B rows?",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696006/how-to-speed-up-mysql-query-containing-left-join-and-group-by-with-4m-rows"
+    },
+    {
+      "Created": "2025-07-09T17:28:46Z",
+      "Title": "Getting Blank PDF with html2pdf - Tried StackOverflow Solutions Without Success",
+      "Tags": [
+        "javascript",
+        "html",
+        "pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696023/getting-blank-pdf-with-html2pdf-tried-stackoverflow-solutions-without-success"
+    },
+    {
+      "Created": "2025-07-09T17:30:41Z",
+      "Title": "How do I get the last valid (non-null, non-zero) value per day in a time-series SQL query?",
+      "Tags": [
+        "sql",
+        "mysql",
+        "group-by",
+        "time-series"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696026/how-do-i-get-the-last-valid-non-null-non-zero-value-per-day-in-a-time-series"
+    },
+    {
+      "Created": "2025-07-09T17:45:10Z",
+      "Title": "Make VSCode ide not consider newline at the end of special character replacement for brackets in my extension",
+      "Tags": [
+        "typescript",
+        "visual-studio-code",
+        "newline",
+        "special-characters",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696046/make-vscode-ide-not-consider-newline-at-the-end-of-special-character-replacement"
+    },
+    {
+      "Created": "2025-07-09T17:54:53Z",
+      "Title": "Does Google Play Console offer a webhook for App releases?",
+      "Tags": [
+        "gcloud",
+        "google-play-console",
+        "google-developers-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696054/does-google-play-console-offer-a-webhook-for-app-releases"
+    },
+    {
+      "Created": "2025-07-09T17:55:08Z",
+      "Title": "How to know which dependency to add?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696055/how-to-know-which-dependency-to-add"
+    },
+    {
+      "Created": "2025-07-09T18:04:38Z",
+      "Title": "Forced orientation ignored on Android 16 (API 36) for games, causing layout issues on tablets",
+      "Tags": [
+        "android",
+        "screen-orientation",
+        "android-screen-orientation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696067/forced-orientation-ignored-on-android-16-api-36-for-games-causing-layout-issu"
+    }
+  ]
+}

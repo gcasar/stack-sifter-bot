@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-09T15:06:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T14:17:01Z",
+      "Title": "Ranking categories by count within groups in Polars",
+      "Tags": [
+        "python",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695783/ranking-categories-by-count-within-groups-in-polars"
+    },
+    {
+      "Created": "2025-07-09T14:24:03Z",
+      "Title": "Why Time Complexity for loop of 1 to 10 is O(1) and not O(n)? [duplicate]",
+      "Tags": [
+        "javascript",
+        "time-complexity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695797/why-time-complexity-for-loop-of-1-to-10-is-o1-and-not-on"
+    },
+    {
+      "Created": "2025-07-09T14:57:57Z",
+      "Title": "Using Python and the Google Play API, need to: download information about the top 10 applications from the Social networkin category and upload tocsv",
+      "Tags": [
+        "python",
+        "google-play",
+        "serpapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695850/using-python-and-the-google-play-api-need-to-download-information-about-the-to"
+    },
+    {
+      "Created": "2025-07-09T14:58:21Z",
+      "Title": "React Native Android Build Fails with \u0022Plugin not found\u0022 After Downgrading Gradle for Vision Camera",
+      "Tags": [
+        "android",
+        "reactjs",
+        "react-native",
+        "gradle",
+        "build"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695851/react-native-android-build-fails-with-plugin-not-found-after-downgrading-gradl"
+    },
+    {
+      "Created": "2025-07-09T14:59:41Z",
+      "Title": "Blazor: bind-Xxx is not mapped to XxxCanged",
+      "Tags": [
+        "c#",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695853/blazor-bind-xxx-is-not-mapped-to-xxxcanged"
+    },
+    {
+      "Created": "2025-07-09T15:04:03Z",
+      "Title": "Restrict permission on WooCommerce REST API specific user",
+      "Tags": [
+        "woocommerce",
+        "woocommerce-rest-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695858/restrict-permission-on-woocommerce-rest-api-specific-user"
+    },
+    {
+      "Created": "2025-07-09T15:06:06Z",
+      "Title": "How to set degree of parallelism dynamically when using explicit cursor?",
+      "Tags": [
+        "sql",
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695863/how-to-set-degree-of-parallelism-dynamically-when-using-explicit-cursor"
+    }
+  ]
+}

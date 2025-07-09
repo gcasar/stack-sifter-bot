@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-09T11:05:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-09T10:49:41Z",
+      "Title": "Databricks pipeline set cluster spark_version",
+      "Tags": [
+        "machine-learning",
+        "databricks",
+        "databricks-bundle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695490/databricks-pipeline-set-cluster-spark-version"
+    },
+    {
+      "Created": "2025-07-09T10:49:51Z",
+      "Title": "Why doesn\u0027t Axios catch the same response as Postman?",
+      "Tags": [
+        "javascript",
+        "axios",
+        "postman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695491/why-doesnt-axios-catch-the-same-response-as-postman"
+    },
+    {
+      "Created": "2025-07-09T10:51:53Z",
+      "Title": "REGEX: match the all words which is given by users in textarea html regex in php How [duplicate]",
+      "Tags": [
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695492/regex-match-the-all-words-which-is-given-by-users-in-textarea-html-regex-in-php"
+    },
+    {
+      "Created": "2025-07-09T10:56:28Z",
+      "Title": "How to display real audio waveform from MP3 binary data stored in a database in Flutter?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "audio",
+        "flutter-listview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695498/how-to-display-real-audio-waveform-from-mp3-binary-data-stored-in-a-database-in"
+    },
+    {
+      "Created": "2025-07-09T10:59:50Z",
+      "Title": "How to extract private part of RSA key from Azure Key Vault?",
+      "Tags": [
+        "azure",
+        "rsa",
+        "azure-keyvault",
+        "azure-java-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695502/how-to-extract-private-part-of-rsa-key-from-azure-key-vault"
+    },
+    {
+      "Created": "2025-07-09T11:03:38Z",
+      "Title": "How to aggregate fio write_bw_log files when timestamps have multiple entries and don\u2019t align?",
+      "Tags": [
+        "linux",
+        "io",
+        "performance-testing",
+        "solid-state-drive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695507/how-to-aggregate-fio-write-bw-log-files-when-timestamps-have-multiple-entries-an"
+    },
+    {
+      "Created": "2025-07-09T11:05:54Z",
+      "Title": "JpaRepository delete not executing with @SQLDelete",
+      "Tags": [
+        "java",
+        "postgresql",
+        "spring-boot",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79695510/jparepository-delete-not-executing-with-sqldelete"
+    }
+  ]
+}

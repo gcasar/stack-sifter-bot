@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-10T12:11:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T11:15:29Z",
+      "Title": "Android Studio how to get around the permissions for rooted devices",
+      "Tags": [
+        "java",
+        "android-studio",
+        "root",
+        "file-writing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696967/android-studio-how-to-get-around-the-permissions-for-rooted-devices"
+    },
+    {
+      "Created": "2025-07-10T11:54:44Z",
+      "Title": "DEG analysis in R",
+      "Tags": [
+        "r",
+        "analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697020/deg-analysis-in-r"
+    },
+    {
+      "Created": "2025-07-10T11:55:50Z",
+      "Title": "How to stop reload page in browser to generate random data in Axios and Express?",
+      "Tags": [
+        "express",
+        "axios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697022/how-to-stop-reload-page-in-browser-to-generate-random-data-in-axios-and-express"
+    },
+    {
+      "Created": "2025-07-10T11:56:41Z",
+      "Title": "Bot translator in discord",
+      "Tags": [
+        "python",
+        "discord",
+        "bots"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697023/bot-translator-in-discord"
+    },
+    {
+      "Created": "2025-07-10T12:00:02Z",
+      "Title": "Why is \u0022with torch.cuda.stream()\u0022 not asynchronous?",
+      "Tags": [
+        "pytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697025/why-is-with-torch-cuda-stream-not-asynchronous"
+    },
+    {
+      "Created": "2025-07-10T12:11:02Z",
+      "Title": "Set color scheme for each chart in column layout individually",
+      "Tags": [
+        "plot",
+        "bar-chart",
+        "altair",
+        "color-scheme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697031/set-color-scheme-for-each-chart-in-column-layout-individually"
+    },
+    {
+      "Created": "2025-07-10T12:11:35Z",
+      "Title": "Pair the iOS Application with Mac Application using WiFi pairing its not working when using Bonjour Services",
+      "Tags": [
+        "ios",
+        "objective-c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697032/pair-the-ios-application-with-mac-application-using-wifi-pairing-its-not-working"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-10T14:57:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T14:32:12Z",
+      "Title": "Why is my aws CodePipeline not picking up changes to main branch?",
+      "Tags": [
+        "amazon-web-services",
+        "github",
+        "terraform",
+        "terraform-provider-aws",
+        "aws-codepipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697221/why-is-my-aws-codepipeline-not-picking-up-changes-to-main-branch"
+    },
+    {
+      "Created": "2025-07-10T14:51:53Z",
+      "Title": "How to handle async Task and Task\u003CT\u003E methods with Prism Unity ICallHandler without breaking await or causing casting errors",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "async-await",
+        "prism",
+        "audit-logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697243/how-to-handle-async-task-and-taskt-methods-with-prism-unity-icallhandler-witho"
+    },
+    {
+      "Created": "2025-07-10T14:56:45Z",
+      "Title": "Font-family not respected when using img with an svg [duplicate]",
+      "Tags": [
+        "html",
+        "svg",
+        "fonts",
+        "webfonts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697253/font-family-not-respected-when-using-img-with-an-svg"
+    },
+    {
+      "Created": "2025-07-10T14:57:21Z",
+      "Title": "Facebook ad insights discrepancy async vs sync",
+      "Tags": [
+        "facebook-graph-api",
+        "facebook-marketing-api",
+        "facebook-insights",
+        "facebook-python-business-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697254/facebook-ad-insights-discrepancy-async-vs-sync"
+    }
+  ]
+}

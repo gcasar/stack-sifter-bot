@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-10T02:32:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T01:58:13Z",
+      "Title": "Is it safe to use multiple ModelActors concurrently for fetch/update operations?",
+      "Tags": [
+        "swift",
+        "swiftdata",
+        "swift-data-modelcontext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696410/is-it-safe-to-use-multiple-modelactors-concurrently-for-fetch-update-operations"
+    },
+    {
+      "Created": "2025-07-10T02:13:14Z",
+      "Title": "Issue with plotly.resampler",
+      "Tags": [
+        "plotly",
+        "jupyter",
+        "resampling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696417/issue-with-plotly-resampler"
+    },
+    {
+      "Created": "2025-07-10T02:32:45Z",
+      "Title": "POSIX-exec-like transfer of console handles to CreateProcess child",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "createprocess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696425/posix-exec-like-transfer-of-console-handles-to-createprocess-child"
+    }
+  ]
+}

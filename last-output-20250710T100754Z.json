@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-10T10:05:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T09:16:15Z",
+      "Title": "How to correctly send EDI files via S/MIME to Australian Border Force (ABF) \u2014 \u0022malformed PKCS#7\u0022 error",
+      "Tags": [
+        "php",
+        "phpmailer",
+        "pkcs#7",
+        "edi",
+        "smime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696812/how-to-correctly-send-edi-files-via-s-mime-to-australian-border-force-abf-m"
+    },
+    {
+      "Created": "2025-07-10T09:57:21Z",
+      "Title": "AWS Bedrock Nova Sonic Bidirectional Stream output_stream is always None after invoke_model_with_bidirectional_stream (Python SDK)",
+      "Tags": [
+        "python",
+        "amazon-web-services",
+        "docker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696860/aws-bedrock-nova-sonic-bidirectional-stream-output-stream-is-always-none-after-i"
+    },
+    {
+      "Created": "2025-07-10T09:57:42Z",
+      "Title": "Updating repeatable job\u0027s startDate/pattern does not update next run time (even after deleting and recreating job)",
+      "Tags": [
+        "node.js",
+        "redis",
+        "cron",
+        "job-scheduling",
+        "bullmq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696861/updating-repeatable-jobs-startdate-pattern-does-not-update-next-run-time-even"
+    },
+    {
+      "Created": "2025-07-10T10:04:25Z",
+      "Title": "How to reach the IP of a device on a local network from an Android emulator",
+      "Tags": [
+        "android",
+        "android-emulator",
+        "ssl-certificate",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696871/how-to-reach-the-ip-of-a-device-on-a-local-network-from-an-android-emulator"
+    },
+    {
+      "Created": "2025-07-10T10:05:42Z",
+      "Title": "How to setup a remote Powershell communication between devices using c# using Kerberos/Certificate?",
+      "Tags": [
+        "c#",
+        "powershell",
+        "powershell-remoting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696874/how-to-setup-a-remote-powershell-communication-between-devices-using-c-sharp-usi"
+    }
+  ]
+}

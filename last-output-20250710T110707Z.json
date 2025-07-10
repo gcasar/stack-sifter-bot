@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-10T11:04:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T10:29:47Z",
+      "Title": "How to make my API call not give me a string as an error response but the error\u0027s body instead? [duplicate]",
+      "Tags": [
+        "javascript",
+        "angular",
+        "angular-httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696900/how-to-make-my-api-call-not-give-me-a-string-as-an-error-response-but-the-error"
+    },
+    {
+      "Created": "2025-07-10T10:43:05Z",
+      "Title": "How to have a frame scroll both directions (horizontal and vertically) in customtkinter",
+      "Tags": [
+        "python",
+        "tkinter",
+        "customtkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696920/how-to-have-a-frame-scroll-both-directions-horizontal-and-vertically-in-custom"
+    },
+    {
+      "Created": "2025-07-10T10:45:47Z",
+      "Title": "Can we use the HAVING clause instead of WHERE to filter rows by a column like id in MySQL?",
+      "Tags": [
+        "sql",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696924/can-we-use-the-having-clause-instead-of-where-to-filter-rows-by-a-column-like-id"
+    },
+    {
+      "Created": "2025-07-10T10:56:14Z",
+      "Title": "How to handle error reporting and validation of uploaded files using django-formset?",
+      "Tags": [
+        "django",
+        "validation",
+        "file-upload",
+        "error-handling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696940/how-to-handle-error-reporting-and-validation-of-uploaded-files-using-django-form"
+    },
+    {
+      "Created": "2025-07-10T10:59:25Z",
+      "Title": "What is the default HTTP client in AWS Java SDK v2: UrlConnectionHttpClient or ApacheHttpClient?",
+      "Tags": [
+        "java",
+        "amazon-web-services",
+        "spring-boot",
+        "amazon-dynamodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696943/what-is-the-default-http-client-in-aws-java-sdk-v2-urlconnectionhttpclient-or-a"
+    },
+    {
+      "Created": "2025-07-10T11:03:12Z",
+      "Title": "What\u2019s the difference between Auto-scaling and Predictive Scaling in cloud infrastructure?",
+      "Tags": [
+        "cloud",
+        "backend",
+        "scalability",
+        "autoscaling",
+        "system-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696949/what-s-the-difference-between-auto-scaling-and-predictive-scaling-in-cloud-infra"
+    },
+    {
+      "Created": "2025-07-10T11:04:23Z",
+      "Title": "tokio stream to send and receive data",
+      "Tags": [
+        "rust",
+        "async-await",
+        "rust-tokio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696951/tokio-stream-to-send-and-receive-data"
+    }
+  ]
+}

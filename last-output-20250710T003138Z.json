@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-10T00:27:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T00:11:35Z",
+      "Title": "Do we really need std::start_lifetime_as if a well-defined alternative already exists?",
+      "Tags": [
+        "c\u002B\u002B",
+        "standards",
+        "undefined-behavior",
+        "lifetime",
+        "c\u002B\u002B26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696360/do-we-really-need-stdstart-lifetime-as-if-a-well-defined-alternative-already-e"
+    },
+    {
+      "Created": "2025-07-10T00:26:09Z",
+      "Title": "How to add custom depth maps and generate point cloud metashape?",
+      "Tags": [
+        "python",
+        "metashape"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696370/how-to-add-custom-depth-maps-and-generate-point-cloud-metashape"
+    },
+    {
+      "Created": "2025-07-10T00:27:43Z",
+      "Title": "How to build an MSIX package in a windows docker container",
+      "Tags": [
+        "windows",
+        "docker",
+        "powershell",
+        "msix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696372/how-to-build-an-msix-package-in-a-windows-docker-container"
+    }
+  ]
+}

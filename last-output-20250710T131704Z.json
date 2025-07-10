@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-10T13:10:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T12:38:27Z",
+      "Title": "Initializing a field in generic class derived from generic type parameter in python",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "generics",
+        "python-typing",
+        "type-hinting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697068/initializing-a-field-in-generic-class-derived-from-generic-type-parameter-in-pyt"
+    },
+    {
+      "Created": "2025-07-10T13:01:20Z",
+      "Title": "disable some parts of a form",
+      "Tags": [
+        "typescript",
+        "forms",
+        "validation",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697101/disable-some-parts-of-a-form"
+    },
+    {
+      "Created": "2025-07-10T13:03:34Z",
+      "Title": "Transfer Big Query dataset data to SQL Server using C#",
+      "Tags": [
+        "c#",
+        "google-bigquery",
+        "google-bigquery-storage-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697107/transfer-big-query-dataset-data-to-sql-server-using-c-sharp"
+    },
+    {
+      "Created": "2025-07-10T13:06:05Z",
+      "Title": "PinView in SwiftUI",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697110/pinview-in-swiftui"
+    },
+    {
+      "Created": "2025-07-10T13:10:54Z",
+      "Title": "Clipper (CP437) Character Display Issue on AlmaLinux 9.6 Minimal Server Terminal",
+      "Tags": [
+        "server",
+        "terminal",
+        "character-encoding",
+        "almalinux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697113/clipper-cp437-character-display-issue-on-almalinux-9-6-minimal-server-terminal"
+    }
+  ]
+}

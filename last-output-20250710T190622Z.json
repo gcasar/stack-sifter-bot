@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-10T19:02:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T18:56:07Z",
+      "Title": "How to get groupedColumnDefs in sidebar and flat columnDefs in the grid?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "ag-grid-react"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697496/how-to-get-groupedcolumndefs-in-sidebar-and-flat-columndefs-in-the-grid"
+    },
+    {
+      "Created": "2025-07-10T19:02:29Z",
+      "Title": "Terraform deployment in localstack with out errors half the config only get deployed",
+      "Tags": [
+        "amazon-web-services",
+        "terraform",
+        "aws-api-gateway",
+        "windows-subsystem-for-linux",
+        "localstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697499/terraform-deployment-in-localstack-with-out-errors-half-the-config-only-get-depl"
+    }
+  ]
+}

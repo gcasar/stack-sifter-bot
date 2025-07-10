@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-10T03:28:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T02:54:52Z",
+      "Title": "Problems installing python 3.7.7with pyenv on Mac OS 15.5",
+      "Tags": [
+        "python",
+        "macos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696434/problems-installing-python-3-7-7with-pyenv-on-mac-os-15-5"
+    },
+    {
+      "Created": "2025-07-10T02:57:16Z",
+      "Title": "Is this cppref\u0027s statement outdated on typical uses of std::launder?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "standards",
+        "undefined-behavior",
+        "lifetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696435/is-this-cpprefs-statement-outdated-on-typical-uses-of-stdlaunder"
+    },
+    {
+      "Created": "2025-07-10T03:05:07Z",
+      "Title": "Co-exist React component and normal class",
+      "Tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696437/co-exist-react-component-and-normal-class"
+    },
+    {
+      "Created": "2025-07-10T03:19:27Z",
+      "Title": "Autodesk OSS v2 API returns 404 when uploading IFC file \u2013 \u201CThe requested resource does not exist\u201D",
+      "Tags": [
+        "upload",
+        "autodesk-forge",
+        "open-source",
+        "ifc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696443/autodesk-oss-v2-api-returns-404-when-uploading-ifc-file-the-requested-resourc"
+    },
+    {
+      "Created": "2025-07-10T03:23:44Z",
+      "Title": "SwiftUI: Multiple NavigationLinks in a List Trigger Simultaneously \u2013 How to Fix?",
+      "Tags": [
+        "swiftui",
+        "swiftui-navigationlink",
+        "swiftui-navigationstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696447/swiftui-multiple-navigationlinks-in-a-list-trigger-simultaneously-how-to-fix"
+    },
+    {
+      "Created": "2025-07-10T03:28:13Z",
+      "Title": "Unable to fetch GCP Dataflow worker logs using Python google-cloud-logging despite correct filter",
+      "Tags": [
+        "python",
+        "google-cloud-platform",
+        "google-cloud-dataflow",
+        "google-cloud-logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696450/unable-to-fetch-gcp-dataflow-worker-logs-using-python-google-cloud-logging-despi"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-10T04:08:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T03:40:33Z",
+      "Title": "Mario-more Terminal correct Check50 saying otherwise",
+      "Tags": [
+        "c",
+        "cs50"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696458/mario-more-terminal-correct-check50-saying-otherwise"
+    },
+    {
+      "Created": "2025-07-10T03:47:34Z",
+      "Title": "How to implement recursive folder processing in Power Automate to handle dynamic folder depths?",
+      "Tags": [
+        "sharepoint",
+        "filesystems",
+        "power-automate",
+        "child-process",
+        "onpremises-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696461/how-to-implement-recursive-folder-processing-in-power-automate-to-handle-dynamic"
+    },
+    {
+      "Created": "2025-07-10T03:49:56Z",
+      "Title": "Understanding SQL Update - Sub-Select Grouped Results",
+      "Tags": [
+        "sql",
+        "oracle-database",
+        "data-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696464/understanding-sql-update-sub-select-grouped-results"
+    },
+    {
+      "Created": "2025-07-10T03:50:14Z",
+      "Title": "How can I generate map tiles from Level 3 NEXRAD radar data?",
+      "Tags": [
+        "python",
+        "leaflet",
+        "weather"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696465/how-can-i-generate-map-tiles-from-level-3-nexrad-radar-data"
+    },
+    {
+      "Created": "2025-07-10T03:53:04Z",
+      "Title": "What is the best way to write ajax code in laravel?",
+      "Tags": [
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696466/what-is-the-best-way-to-write-ajax-code-in-laravel"
+    },
+    {
+      "Created": "2025-07-10T03:58:32Z",
+      "Title": "SDL_LoadBMP won\u0027t load BMP file",
+      "Tags": [
+        "c\u002B\u002B",
+        "sdl-2",
+        "bmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696468/sdl-loadbmp-wont-load-bmp-file"
+    },
+    {
+      "Created": "2025-07-10T04:08:10Z",
+      "Title": "grantruntimepermission to Android 11 devices enrolled into MDM",
+      "Tags": [
+        "android",
+        "mdm",
+        "honeywell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696476/grantruntimepermission-to-android-11-devices-enrolled-into-mdm"
+    }
+  ]
+}

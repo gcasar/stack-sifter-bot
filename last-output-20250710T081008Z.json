@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-10T08:01:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T07:43:33Z",
+      "Title": "Constant \u0060isSelected\u0060 is inferred to have type (), which may be unexpected when using the toggle() instance method on a Bool",
+      "Tags": [
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696684/constant-isselected-is-inferred-to-have-type-which-may-be-unexpected-when"
+    },
+    {
+      "Created": "2025-07-10T07:57:00Z",
+      "Title": "Reproduce a particular tree from the random forest using DecisionTreeRegressor",
+      "Tags": [
+        "python",
+        "scikit-learn",
+        "random-forest",
+        "decision-tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696701/reproduce-a-particular-tree-from-the-random-forest-using-decisiontreeregressor"
+    },
+    {
+      "Created": "2025-07-10T07:57:47Z",
+      "Title": "Handling Events Between Two Different Web Pages",
+      "Tags": [
+        "javascript",
+        "html",
+        "spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696703/handling-events-between-two-different-web-pages"
+    },
+    {
+      "Created": "2025-07-10T08:01:58Z",
+      "Title": "GridRow clickable area",
+      "Tags": [
+        "swiftui",
+        "swiftui-gridrow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696707/gridrow-clickable-area"
+    }
+  ]
+}

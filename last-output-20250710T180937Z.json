@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-10T18:05:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T17:12:58Z",
+      "Title": "django-celery-results: error ModuleNotFoundError: No module named \u0027django_celery_results\u0027",
+      "Tags": [
+        "python",
+        "django",
+        "django-celery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697399/django-celery-results-error-modulenotfounderror-no-module-named-django-celery"
+    },
+    {
+      "Created": "2025-07-10T17:25:08Z",
+      "Title": "Initialisation order in static nested class is important?",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697412/initialisation-order-in-static-nested-class-is-important"
+    },
+    {
+      "Created": "2025-07-10T17:59:33Z",
+      "Title": "git submodule relative url with different org",
+      "Tags": [
+        "git",
+        "git-submodules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697445/git-submodule-relative-url-with-different-org"
+    },
+    {
+      "Created": "2025-07-10T17:59:51Z",
+      "Title": "Pass metadata to stripe subscription using stripe plugin from better auth",
+      "Tags": [
+        "next.js",
+        "stripe-payments",
+        "better-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697446/pass-metadata-to-stripe-subscription-using-stripe-plugin-from-better-auth"
+    },
+    {
+      "Created": "2025-07-10T18:05:57Z",
+      "Title": "UnknownDependenciesException [Error]: Nest can\u0027t resolve dependencies of the MysqlAgendaRepository (?)",
+      "Tags": [
+        "javascript",
+        "service",
+        "module",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697451/unknowndependenciesexception-error-nest-cant-resolve-dependencies-of-the-mys"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-10T05:01:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T04:41:02Z",
+      "Title": "I have constructed a JSON file but there is a \u0027mandatory: where I put \u0027true\u0027. What does that mean?",
+      "Tags": [
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696491/i-have-constructed-a-json-file-but-there-is-a-mandatory-where-i-put-true-wh"
+    },
+    {
+      "Created": "2025-07-10T04:45:59Z",
+      "Title": "Why are Tailwind divide-* and gap-* classes not working?",
+      "Tags": [
+        "ruby-on-rails",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696495/why-are-tailwind-divide-and-gap-classes-not-working"
+    },
+    {
+      "Created": "2025-07-10T04:56:51Z",
+      "Title": "What happens if setTimeout and fs.readFile callbacks are ready at the same time in Node.js?",
+      "Tags": [
+        "node.js",
+        "event-loop",
+        "libuv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696502/what-happens-if-settimeout-and-fs-readfile-callbacks-are-ready-at-the-same-time"
+    },
+    {
+      "Created": "2025-07-10T05:00:48Z",
+      "Title": "Serial Key create (no random)",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696505/serial-key-create-no-random"
+    },
+    {
+      "Created": "2025-07-10T05:01:04Z",
+      "Title": "Why does static_cast not work as the standard says in such a case?",
+      "Tags": [
+        "c\u002B\u002B",
+        "type-conversion",
+        "standards",
+        "type-safety",
+        "static-cast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696506/why-does-static-cast-not-work-as-the-standard-says-in-such-a-case"
+    }
+  ]
+}

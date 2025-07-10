@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-10T20:04:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T19:26:47Z",
+      "Title": "Few questions on a medical dataset",
+      "Tags": [
+        "python",
+        "dataset",
+        "tiff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697514/few-questions-on-a-medical-dataset"
+    },
+    {
+      "Created": "2025-07-10T19:32:46Z",
+      "Title": "Tableau : how to implement UNION in a calculated field",
+      "Tags": [
+        "tableau-desktop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697526/tableau-how-to-implement-union-in-a-calculated-field"
+    },
+    {
+      "Created": "2025-07-10T19:53:57Z",
+      "Title": "include NA counts of \u0060by\u0060 variable in \u0060tbl_summary()\u0060 but **exclude** from row %?",
+      "Tags": [
+        "r",
+        "gtsummary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697541/include-na-counts-of-by-variable-in-tbl-summary-but-exclude-from-row"
+    },
+    {
+      "Created": "2025-07-10T19:58:08Z",
+      "Title": "How to send model and some other parameters from javascript to controller using jquery.ajax?",
+      "Tags": [
+        "javascript",
+        "c#",
+        "ajax",
+        "asp.net-core",
+        "asp.net-core-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697546/how-to-send-model-and-some-other-parameters-from-javascript-to-controller-using"
+    },
+    {
+      "Created": "2025-07-10T20:02:53Z",
+      "Title": "How to propagate HTTP error response payloads (e.g., 400, 401) from HTTP_AAE to ABAP server in SOAP-to-HTTP scenario?",
+      "Tags": [
+        "java-ee-8",
+        "netweaver",
+        "sap",
+        "sap-pi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697548/how-to-propagate-http-error-response-payloads-e-g-400-401-from-http-aae-to"
+    },
+    {
+      "Created": "2025-07-10T20:03:11Z",
+      "Title": "Repeat for-loop until condition is false",
+      "Tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697549/repeat-for-loop-until-condition-is-false"
+    },
+    {
+      "Created": "2025-07-10T20:04:50Z",
+      "Title": "Oracle NetSuite SuiteQL query tool: Search error occurred: Invalid or unsupported search when using \u0022WITH\u0022 clause",
+      "Tags": [
+        "netsuite-rest-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697552/oracle-netsuite-suiteql-query-tool-search-error-occurred-invalid-or-unsupporte"
+    }
+  ]
+}

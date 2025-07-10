@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-10T21:01:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T20:13:39Z",
+      "Title": "I need to write a powershell script that will modify certain tags within an html file",
+      "Tags": [
+        "html",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697560/i-need-to-write-a-powershell-script-that-will-modify-certain-tags-within-an-html"
+    },
+    {
+      "Created": "2025-07-10T20:51:19Z",
+      "Title": "How to use most compact height for UICalendarView in UIViewRepresentable",
+      "Tags": [
+        "swiftui",
+        "uikit",
+        "uiviewrepresentable",
+        "uicalendarview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697593/how-to-use-most-compact-height-for-uicalendarview-in-uiviewrepresentable"
+    },
+    {
+      "Created": "2025-07-10T20:58:54Z",
+      "Title": "Spring Validation skipping other validations if there is a violation in custom field validator",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-validator",
+        "jakarta-validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697599/spring-validation-skipping-other-validations-if-there-is-a-violation-in-custom-f"
+    },
+    {
+      "Created": "2025-07-10T21:01:31Z",
+      "Title": "Is there a good way to overwrite one item in an array in the appsettings stack when the item is moderately complex?",
+      "Tags": [
+        "asp.net-core-mvc",
+        "serilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697603/is-there-a-good-way-to-overwrite-one-item-in-an-array-in-the-appsettings-stack-w"
+    }
+  ]
+}

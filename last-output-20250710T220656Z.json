@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-10T22:03:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T21:24:12Z",
+      "Title": "How to update UI components from SensorEventListener",
+      "Tags": [
+        "android",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697618/how-to-update-ui-components-from-sensoreventlistener"
+    },
+    {
+      "Created": "2025-07-10T21:35:11Z",
+      "Title": "Efficient multi-host TPU dataset processing",
+      "Tags": [
+        "dataset",
+        "tokenize",
+        "tpu",
+        "flax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697626/efficient-multi-host-tpu-dataset-processing"
+    },
+    {
+      "Created": "2025-07-10T21:42:33Z",
+      "Title": "How to restrict Slick slider dragging to a center zone only (disable drag from left/right edges)?",
+      "Tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "css",
+        "flexbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697629/how-to-restrict-slick-slider-dragging-to-a-center-zone-only-disable-drag-from-l"
+    },
+    {
+      "Created": "2025-07-10T21:43:23Z",
+      "Title": "Tkinter app freezes when using filedialog.askdirectory() in scrollable Canvas layout",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697630/tkinter-app-freezes-when-using-filedialog-askdirectory-in-scrollable-canvas-la"
+    },
+    {
+      "Created": "2025-07-10T21:44:22Z",
+      "Title": "Zapier Code by Zapier not counting quantities for bundled products in Shopify subscription orders",
+      "Tags": [
+        "javascript",
+        "shopify",
+        "zapier"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697632/zapier-code-by-zapier-not-counting-quantities-for-bundled-products-in-shopify-su"
+    },
+    {
+      "Created": "2025-07-10T21:45:27Z",
+      "Title": "EF Core/Serilog/serilog-tracing - Non DI-Injected database context not logging in Serilog",
+      "Tags": [
+        ".net",
+        "entity-framework",
+        "serilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697633/ef-core-serilog-serilog-tracing-non-di-injected-database-context-not-logging-i"
+    },
+    {
+      "Created": "2025-07-10T22:03:58Z",
+      "Title": "Getting used memory on Redis instance using Redis Enterprise REST API",
+      "Tags": [
+        "java",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697642/getting-used-memory-on-redis-instance-using-redis-enterprise-rest-api"
+    }
+  ]
+}

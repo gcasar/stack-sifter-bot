@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-10T16:01:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T15:37:40Z",
+      "Title": "Why is \u0060else\u0060 omitted after \u0060return\u0060 in some libstdc\u002B\u002B \u0060std::expected\u0060 methods, but not in others?",
+      "Tags": [
+        "c\u002B\u002B",
+        "libstdc\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697298/why-is-else-omitted-after-return-in-some-libstdc-stdexpected-methods"
+    },
+    {
+      "Created": "2025-07-10T15:38:11Z",
+      "Title": "Using deflation indexes with a stock",
+      "Tags": [
+        "pine-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697300/using-deflation-indexes-with-a-stock"
+    },
+    {
+      "Created": "2025-07-10T15:54:14Z",
+      "Title": "68000 assembly \u2013 two-pass routine to find the average of A and count elements above it (stack-passed args)",
+      "Tags": [
+        "assembly",
+        "optimization",
+        "micro-optimization",
+        "motorola",
+        "68000"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697315/68000-assembly-two-pass-routine-to-find-the-average-of-a-and-count-elements-ab"
+    },
+    {
+      "Created": "2025-07-10T16:01:30Z",
+      "Title": "Excel12(xlcCalculateDocument) recalculates only the active sheet of the active workbook",
+      "Tags": [
+        "c\u002B\u002B",
+        "excel",
+        "vba",
+        "com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697318/excel12xlccalculatedocument-recalculates-only-the-active-sheet-of-the-active-w"
+    }
+  ]
+}

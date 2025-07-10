@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-10T06:58:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T06:13:14Z",
+      "Title": "How to train paddle OCR on rtx5070ti GPU?",
+      "Tags": [
+        "paddle-paddle",
+        "paddleocr",
+        "paddle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696572/how-to-train-paddle-ocr-on-rtx5070ti-gpu"
+    },
+    {
+      "Created": "2025-07-10T06:18:04Z",
+      "Title": "In which situations does the second form of \u0060__has_include\u0060 appear?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "c-preprocessor",
+        "preprocessor-directive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696575/in-which-situations-does-the-second-form-of-has-include-appear"
+    },
+    {
+      "Created": "2025-07-10T06:19:21Z",
+      "Title": "how to get API request using ESP32",
+      "Tags": [
+        "c\u002B\u002B",
+        "json",
+        "esp32",
+        "arduino-esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696576/how-to-get-api-request-using-esp32"
+    },
+    {
+      "Created": "2025-07-10T06:58:58Z",
+      "Title": "ASP.NET Core OpenAPI - how to add request examples?",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        "openapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696617/asp-net-core-openapi-how-to-add-request-examples"
+    }
+  ]
+}

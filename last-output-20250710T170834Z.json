@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-10T17:07:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T16:20:47Z",
+      "Title": "How to display mixed latex or mathematical equation and text in a android application?",
+      "Tags": [
+        "android",
+        "latex",
+        "katex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697336/how-to-display-mixed-latex-or-mathematical-equation-and-text-in-a-android-applic"
+    },
+    {
+      "Created": "2025-07-10T16:29:34Z",
+      "Title": "How to define a immutable ClassVar in a python protocol?",
+      "Tags": [
+        "python",
+        "protocols",
+        "python-typing",
+        "class-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697347/how-to-define-a-immutable-classvar-in-a-python-protocol"
+    },
+    {
+      "Created": "2025-07-10T16:56:57Z",
+      "Title": "How can I replicate canva.com group functionality in fabric js",
+      "Tags": [
+        "reactjs",
+        "canvas",
+        "frontend",
+        "html5-canvas",
+        "fabricjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697380/how-can-i-replicate-canva-com-group-functionality-in-fabric-js"
+    },
+    {
+      "Created": "2025-07-10T16:58:24Z",
+      "Title": "WPF custom panel layout",
+      "Tags": [
+        "wpf",
+        "layout",
+        "panel",
+        "measureoverride",
+        "arrangeoverride"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697381/wpf-custom-panel-layout"
+    },
+    {
+      "Created": "2025-07-10T17:01:49Z",
+      "Title": "How to get a mule version from the command line in linux?",
+      "Tags": [
+        "linux",
+        "mule"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697385/how-to-get-a-mule-version-from-the-command-line-in-linux"
+    },
+    {
+      "Created": "2025-07-10T17:07:41Z",
+      "Title": "MariaDB left join ignores index key - slow performance with large joined table",
+      "Tags": [
+        "mysql",
+        "linux",
+        "ubuntu",
+        "join",
+        "mariadb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697391/mariadb-left-join-ignores-index-key-slow-performance-with-large-joined-table"
+    }
+  ]
+}

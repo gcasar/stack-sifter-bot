@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-10T14:05:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T13:23:55Z",
+      "Title": "Performance issue while deleting top 10K data from SQL Server table",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697129/performance-issue-while-deleting-top-10k-data-from-sql-server-table"
+    },
+    {
+      "Created": "2025-07-10T13:34:13Z",
+      "Title": "Ambiguous method call in Androdi studio",
+      "Tags": [
+        "android",
+        "ambiguous"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697144/ambiguous-method-call-in-androdi-studio"
+    },
+    {
+      "Created": "2025-07-10T13:52:57Z",
+      "Title": "Nx run monorepo with custom command",
+      "Tags": [
+        "reactjs",
+        "npm-scripts",
+        "npm-start",
+        "nx-monorepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697172/nx-run-monorepo-with-custom-command"
+    },
+    {
+      "Created": "2025-07-10T13:57:44Z",
+      "Title": "Is it possible to run a pySide6 GUI simultaneously with Excel (using xlwings)?",
+      "Tags": [
+        "excel",
+        "xlwings",
+        "pyside6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697179/is-it-possible-to-run-a-pyside6-gui-simultaneously-with-excel-using-xlwings"
+    },
+    {
+      "Created": "2025-07-10T13:58:40Z",
+      "Title": "Run Python-based service via crontab",
+      "Tags": [
+        "python",
+        "linux",
+        "cron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697182/run-python-based-service-via-crontab"
+    },
+    {
+      "Created": "2025-07-10T14:00:26Z",
+      "Title": "How to build an \u0060eng\u0060 or \u0060userdebug\u0060 aosp kernel (android-15)?",
+      "Tags": [
+        "android",
+        "bazel",
+        "android-source",
+        "android-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697185/how-to-build-an-eng-or-userdebug-aosp-kernel-android-15"
+    },
+    {
+      "Created": "2025-07-10T14:05:59Z",
+      "Title": "ComfyUI error: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0",
+      "Tags": [
+        "python",
+        "cuda",
+        "lora"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697190/comfyui-error-expected-all-tensors-to-be-on-the-same-device-but-found-at-least"
+    }
+  ]
+}

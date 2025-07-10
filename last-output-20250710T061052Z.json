@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-10T06:05:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T05:59:53Z",
+      "Title": "How do I store an array index efficiently?",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696559/how-do-i-store-an-array-index-efficiently"
+    },
+    {
+      "Created": "2025-07-10T06:05:39Z",
+      "Title": "How to get the DB/Model version in Objectbox for existing DB File in device (For migrating)",
+      "Tags": [
+        "objectbox",
+        "flutter-objectbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696563/how-to-get-the-db-model-version-in-objectbox-for-existing-db-file-in-device-for"
+    }
+  ]
+}

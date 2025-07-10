@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-10T09:04:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T08:24:10Z",
+      "Title": "MemoryLeakage VmRSS is increased when alloc/free often, is it memory fragmentation?",
+      "Tags": [
+        "memory-leaks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696732/memoryleakage-vmrss-is-increased-when-alloc-free-often-is-it-memory-fragmentati"
+    },
+    {
+      "Created": "2025-07-10T08:45:12Z",
+      "Title": "Angle brackets cause re.split() result to become empty string",
+      "Tags": [
+        "python",
+        "python-re"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696760/angle-brackets-cause-re-split-result-to-become-empty-string"
+    },
+    {
+      "Created": "2025-07-10T08:55:38Z",
+      "Title": "Azure MCP Server can access Blob Storage but not Log Analytics",
+      "Tags": [
+        "python",
+        "azure",
+        "azure-active-directory",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696778/azure-mcp-server-can-access-blob-storage-but-not-log-analytics"
+    },
+    {
+      "Created": "2025-07-10T08:56:00Z",
+      "Title": "Getting waring if is use custom extension for swiftui task on xcode 16.4 but wonder why i\u0027m not getting it when i use built-in task",
+      "Tags": [
+        "swift",
+        "xcode",
+        "swiftui",
+        "swift-concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696779/getting-waring-if-is-use-custom-extension-for-swiftui-task-on-xcode-16-4-but-won"
+    },
+    {
+      "Created": "2025-07-10T09:04:14Z",
+      "Title": "Compiler complains when including functional in cpp for function - function\u0027: is not a member of \u0027std",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "sdk",
+        "wrapper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696792/compiler-complains-when-including-functional-in-cpp-for-function-function-is"
+    }
+  ]
+}

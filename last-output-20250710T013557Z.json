@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-10T01:27:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-10T01:00:06Z",
+      "Title": "How to animate biomass merging effect using shaders or procedural animation?",
+      "Tags": [
+        "unity-game-engine",
+        "unity3d-shaders"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696387/how-to-animate-biomass-merging-effect-using-shaders-or-procedural-animation"
+    },
+    {
+      "Created": "2025-07-10T01:25:58Z",
+      "Title": "Selenide: Check Articles on news portal",
+      "Tags": [
+        "maven",
+        "selenide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696394/selenide-check-articles-on-news-portal"
+    },
+    {
+      "Created": "2025-07-10T01:27:36Z",
+      "Title": "How to get the text inside span data-role and select matching checkbox using Selenium",
+      "Tags": [
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79696396/how-to-get-the-text-inside-span-data-role-and-select-matching-checkbox-using-sel"
+    }
+  ]
+}

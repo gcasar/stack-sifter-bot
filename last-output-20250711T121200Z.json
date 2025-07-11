@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-11T12:09:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T11:52:31Z",
+      "Title": "Elegant way to merge string to ArrayList as a value of Map in Java",
+      "Tags": [
+        "java",
+        "dictionary",
+        "merge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698294/elegant-way-to-merge-string-to-arraylist-as-a-value-of-map-in-java"
+    },
+    {
+      "Created": "2025-07-11T12:04:27Z",
+      "Title": "Flax NNX: Does vmap correctly split the RNG keys?",
+      "Tags": [
+        "jax",
+        "flax",
+        "nnx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698307/flax-nnx-does-vmap-correctly-split-the-rng-keys"
+    },
+    {
+      "Created": "2025-07-11T12:05:59Z",
+      "Title": "Z Order curve 4D decode",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "c",
+        "bit",
+        "z-order"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698309/z-order-curve-4d-decode"
+    },
+    {
+      "Created": "2025-07-11T12:07:47Z",
+      "Title": "Understanding F expression in Django",
+      "Tags": [
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698314/understanding-f-expression-in-django"
+    },
+    {
+      "Created": "2025-07-11T12:09:24Z",
+      "Title": "Is it good practice to create separate components for different product types in an e-commerce app?",
+      "Tags": [
+        "reactjs",
+        "e-commerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698315/is-it-good-practice-to-create-separate-components-for-different-product-types-in"
+    }
+  ]
+}

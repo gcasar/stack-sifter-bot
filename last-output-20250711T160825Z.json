@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-11T16:06:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T15:37:00Z",
+      "Title": "accordion only working as button inside container class but working as expected outside",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "bootstrap-5",
+        "accordion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698550/accordion-only-working-as-button-inside-container-class-but-working-as-expected"
+    },
+    {
+      "Created": "2025-07-11T15:54:53Z",
+      "Title": "The function cv2.solvePnP keep crashing",
+      "Tags": [
+        "python",
+        "opencv",
+        "computer-vision",
+        "opencv-solvepnp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698570/the-function-cv2-solvepnp-keep-crashing"
+    },
+    {
+      "Created": "2025-07-11T15:58:31Z",
+      "Title": "Arduino / C / split String",
+      "Tags": [
+        "string",
+        "split",
+        "arduino"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698573/arduino-c-split-string"
+    },
+    {
+      "Created": "2025-07-11T16:00:48Z",
+      "Title": "TypeError: Can not read property \u0027store\u0027 of undefined, react-native 0.79.2",
+      "Tags": [
+        "typescript",
+        "react-native",
+        "react-redux",
+        "redux-toolkit",
+        "redux-saga"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698576/typeerror-can-not-read-property-store-of-undefined-react-native-0-79-2"
+    },
+    {
+      "Created": "2025-07-11T16:01:10Z",
+      "Title": "Unable to import module \u0027lambda_function\u0027: No module named \u0027PIL\u0027 even after importing pillow as a layer",
+      "Tags": [
+        "python",
+        "amazon-web-services",
+        "aws-lambda",
+        "python-imaging-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698578/unable-to-import-module-lambda-function-no-module-named-pil-even-after-impo"
+    },
+    {
+      "Created": "2025-07-11T16:02:49Z",
+      "Title": "GridDB TimeSeries container not returning expected results when querying across multiple partitions with TQL aggregation",
+      "Tags": [
+        "time-series",
+        "iot",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698580/griddb-timeseries-container-not-returning-expected-results-when-querying-across"
+    },
+    {
+      "Created": "2025-07-11T16:03:48Z",
+      "Title": "WebRTC mic permission fails in Android WebView when loading index.html from assets folder (not external URL)",
+      "Tags": [
+        "audio",
+        "webview",
+        "permissions",
+        "local",
+        "webrtc-android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698584/webrtc-mic-permission-fails-in-android-webview-when-loading-index-html-from-asse"
+    },
+    {
+      "Created": "2025-07-11T16:06:19Z",
+      "Title": "I want to reduce products quantity in my database(POS inventory system) after a client makes purchases in laravel 10",
+      "Tags": [
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698587/i-want-to-reduce-products-quantity-in-my-databasepos-inventory-system-after-a"
+    }
+  ]
+}

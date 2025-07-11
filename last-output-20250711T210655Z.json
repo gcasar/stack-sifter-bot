@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T21:05:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T20:39:41Z",
+      "Title": "Can\u0027t run Python script with ./script.py, but works with python script.py \u2014 ICU data error",
+      "Tags": [
+        "python",
+        "windows",
+        "visual-studio-code",
+        "terminal",
+        "shebang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698806/cant-run-python-script-with-script-py-but-works-with-python-script-py-icu"
+    },
+    {
+      "Created": "2025-07-11T20:50:09Z",
+      "Title": "How to simulate realtime flow in a pipe network",
+      "Tags": [
+        "simulation",
+        "graph-theory",
+        "fluid-dynamics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698820/how-to-simulate-realtime-flow-in-a-pipe-network"
+    },
+    {
+      "Created": "2025-07-11T20:52:28Z",
+      "Title": "Canvas UI not showing on Magic Leap 2 (MRTK3 \u002B Vuforia Digital Eyewear Sample)",
+      "Tags": [
+        "unity-game-engine",
+        "vuforia",
+        "mrtk",
+        "magic-leap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698822/canvas-ui-not-showing-on-magic-leap-2-mrtk3-vuforia-digital-eyewear-sample"
+    },
+    {
+      "Created": "2025-07-11T20:53:19Z",
+      "Title": "Closing a channel from inside an FnMut callback",
+      "Tags": [
+        "rust",
+        "channel",
+        "chunking",
+        "ownership-semantics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698823/closing-a-channel-from-inside-an-fnmut-callback"
+    },
+    {
+      "Created": "2025-07-11T20:57:31Z",
+      "Title": "Change of basis for log-log plotting, grid in log-scale",
+      "Tags": [
+        "matplotlib",
+        "scale",
+        "loglog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698825/change-of-basis-for-log-log-plotting-grid-in-log-scale"
+    },
+    {
+      "Created": "2025-07-11T21:05:24Z",
+      "Title": "How to apply a Kusto function to many values at once",
+      "Tags": [
+        "function",
+        "kql",
+        "azure-data-explorer",
+        "kusto-explorer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698828/how-to-apply-a-kusto-function-to-many-values-at-once"
+    }
+  ]
+}

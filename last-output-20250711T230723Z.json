@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-11T22:59:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T22:47:03Z",
+      "Title": "Replace an entire parent element in an XML data type",
+      "Tags": [
+        "sql-server",
+        "xquery-sql",
+        "xml.modify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698896/replace-an-entire-parent-element-in-an-xml-data-type"
+    },
+    {
+      "Created": "2025-07-11T22:59:05Z",
+      "Title": "When migrating Kafka Streams to Spring Cloud Stream how to resolve InconsistentGroupProtocolException",
+      "Tags": [
+        "spring-kafka",
+        "apache-kafka-streams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698900/when-migrating-kafka-streams-to-spring-cloud-stream-how-to-resolve-inconsistentg"
+    }
+  ]
+}

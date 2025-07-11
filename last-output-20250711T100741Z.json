@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T10:00:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T09:17:17Z",
+      "Title": "Ajax call return status as 200 but goes to Error callback",
+      "Tags": [
+        "c#",
+        "jquery",
+        "asp.net",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698091/ajax-call-return-status-as-200-but-goes-to-error-callback"
+    },
+    {
+      "Created": "2025-07-11T09:31:34Z",
+      "Title": "why add ConfigureAwait(false) again when the library code already use ConfigureAwait(false)",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698111/why-add-configureawaitfalse-again-when-the-library-code-already-use-configurea"
+    },
+    {
+      "Created": "2025-07-11T09:32:04Z",
+      "Title": "Must T be unqualified in std::allocator\u003CT\u003E?",
+      "Tags": [
+        "c\u002B\u002B",
+        "constants",
+        "standards",
+        "volatile",
+        "ref-qualifier"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698113/must-t-be-unqualified-in-stdallocatort"
+    },
+    {
+      "Created": "2025-07-11T09:57:56Z",
+      "Title": "VSCode openResources() Not Opening Folder in Ubuntu (No Error Shown)",
+      "Tags": [
+        "visual-studio-code",
+        "ubuntu",
+        "automated-tests",
+        "redhat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698146/vscode-openresources-not-opening-folder-in-ubuntu-no-error-shown"
+    },
+    {
+      "Created": "2025-07-11T09:59:24Z",
+      "Title": "Ansible reject with search/regex",
+      "Tags": [
+        "regex",
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698149/ansible-reject-with-search-regex"
+    },
+    {
+      "Created": "2025-07-11T10:00:41Z",
+      "Title": "GradientTape won\u0027t calculate gradients after restoring a model from ModelCheckpoint (TensorFlow)",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "deep-learning",
+        "conv-neural-network",
+        "google-colaboratory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698151/gradienttape-wont-calculate-gradients-after-restoring-a-model-from-modelcheckpo"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-11T01:26:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T01:04:17Z",
+      "Title": "PyCharm deduces type of overridden __floordiv__ as Union of actual return type and that of the superclass?",
+      "Tags": [
+        "python",
+        "pycharm",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697727/pycharm-deduces-type-of-overridden-floordiv-as-union-of-actual-return-type-a"
+    },
+    {
+      "Created": "2025-07-11T01:19:20Z",
+      "Title": "Best way to parse a bunch of excel files, extract information (not placed uniformally) and get it all into one file",
+      "Tags": [
+        "python",
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697734/best-way-to-parse-a-bunch-of-excel-files-extract-information-not-placed-unifor"
+    },
+    {
+      "Created": "2025-07-11T01:22:22Z",
+      "Title": "Duplicate OrderID detected error in MongoDB",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "express",
+        "mongoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697737/duplicate-orderid-detected-error-in-mongodb"
+    },
+    {
+      "Created": "2025-07-11T01:26:14Z",
+      "Title": "How can I prevent form spam from hitting my AWS Lambda endpoint via API Gateway?",
+      "Tags": [
+        "aws-lambda",
+        "aws-api-gateway",
+        "rate-limiting",
+        "spam-prevention"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697739/how-can-i-prevent-form-spam-from-hitting-my-aws-lambda-endpoint-via-api-gateway"
+    }
+  ]
+}

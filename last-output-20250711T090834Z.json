@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T09:06:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T08:51:27Z",
+      "Title": "Gradio \u002B YOLOv8 \u002B Supervision ile domates tespit projesinde Gradio g\u00F6rseli i\u015Flemiyor (MacOS \u002B PyCharm) \u00C7\u00F6z\u00FCm nedir?\u201D [closed]",
+      "Tags": [
+        "python",
+        "pycharm",
+        "yolov8",
+        "gradio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698066/gradio-yolov8-supervision-ile-domates-tespit-projesinde-gradio-g%c3%b6rseli-i%c5%9flem"
+    },
+    {
+      "Created": "2025-07-11T08:54:19Z",
+      "Title": "certutil commands to check certificate and verify hash equivalent to openssl",
+      "Tags": [
+        "openssl",
+        "certificate",
+        "certutil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698069/certutil-commands-to-check-certificate-and-verify-hash-equivalent-to-openssl"
+    },
+    {
+      "Created": "2025-07-11T08:54:59Z",
+      "Title": "Adding vertical lines to histogram plot",
+      "Tags": [
+        "python",
+        "histogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698070/adding-vertical-lines-to-histogram-plot"
+    },
+    {
+      "Created": "2025-07-11T08:55:16Z",
+      "Title": "How to configure an Azure Pipeline Trigger cross Repo",
+      "Tags": [
+        "azure-devops",
+        "azure-pipelines",
+        "azure-pipelines-yaml",
+        "azure-repos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698071/how-to-configure-an-azure-pipeline-trigger-cross-repo"
+    },
+    {
+      "Created": "2025-07-11T09:04:05Z",
+      "Title": "Wix heat replacement with Advanced Harvesting",
+      "Tags": [
+        "wix",
+        "heatwave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698079/wix-heat-replacement-with-advanced-harvesting"
+    },
+    {
+      "Created": "2025-07-11T09:06:25Z",
+      "Title": "How to setup a Remote PowerShell using WSManConnectionInfo in C# using Certificate Authentication?",
+      "Tags": [
+        "c#",
+        "powershell",
+        "powershell-remoting",
+        "winrm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698082/how-to-setup-a-remote-powershell-using-wsmanconnectioninfo-in-c-sharp-using-cert"
+    }
+  ]
+}

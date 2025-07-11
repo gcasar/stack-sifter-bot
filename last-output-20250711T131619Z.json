@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T13:06:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T12:43:32Z",
+      "Title": "MainActivity cannot be converted to runnable",
+      "Tags": [
+        "java",
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698348/mainactivity-cannot-be-converted-to-runnable"
+    },
+    {
+      "Created": "2025-07-11T12:58:45Z",
+      "Title": "How to replace default IJobActivator in Azure Function",
+      "Tags": [
+        "c#",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698374/how-to-replace-default-ijobactivator-in-azure-function"
+    },
+    {
+      "Created": "2025-07-11T13:03:53Z",
+      "Title": "PyQt vs PySide uic loader difference",
+      "Tags": [
+        "python",
+        "pyqt5",
+        "qt-designer",
+        "pyside6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698380/pyqt-vs-pyside-uic-loader-difference"
+    },
+    {
+      "Created": "2025-07-11T13:03:53Z",
+      "Title": "Is it thread-safe to use OPCPackage.open in a multi-threaded environment",
+      "Tags": [
+        "java",
+        "excel",
+        "apache-poi",
+        "thread-safety",
+        "java-threads"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698379/is-it-thread-safe-to-use-opcpackage-open-in-a-multi-threaded-environment"
+    },
+    {
+      "Created": "2025-07-11T13:05:44Z",
+      "Title": "Using MuleSoft Transform message initialize variables when payload is null",
+      "Tags": [
+        "mulesoft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698384/using-mulesoft-transform-message-initialize-variables-when-payload-is-null"
+    },
+    {
+      "Created": "2025-07-11T13:06:01Z",
+      "Title": "Why does looping markdown change layout of pdf when iterating",
+      "Tags": [
+        "r",
+        "pdf",
+        "r-markdown",
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698388/why-does-looping-markdown-change-layout-of-pdf-when-iterating"
+    }
+  ]
+}

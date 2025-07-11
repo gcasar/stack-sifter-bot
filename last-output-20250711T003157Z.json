@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-11T00:28:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T00:11:27Z",
+      "Title": "Should the order I do the method chaining affect the output when using yiisoft/html to generate HTML?",
+      "Tags": [
+        "yii",
+        "yii3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697698/should-the-order-i-do-the-method-chaining-affect-the-output-when-using-yiisoft-h"
+    },
+    {
+      "Created": "2025-07-11T00:13:35Z",
+      "Title": "Should CDI methods be overridden with annotations?",
+      "Tags": [
+        "cdi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697700/should-cdi-methods-be-overridden-with-annotations"
+    },
+    {
+      "Created": "2025-07-11T00:20:08Z",
+      "Title": "why is Kestrel returning empty (zero length) but HTTP status 200 for static files in Linux?",
+      "Tags": [
+        "c#",
+        "linux",
+        "ubuntu",
+        "kestrel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697705/why-is-kestrel-returning-empty-zero-length-but-http-status-200-for-static-file"
+    },
+    {
+      "Created": "2025-07-11T00:28:22Z",
+      "Title": "How do I create a constant expression for if an assembly is loaded?",
+      "Tags": [
+        "c#",
+        ".net",
+        "constant-expression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697709/how-do-i-create-a-constant-expression-for-if-an-assembly-is-loaded"
+    },
+    {
+      "Created": "2025-07-11T00:28:46Z",
+      "Title": "(C OpenGL) Transformations Involved in Gribb \u0026 Hartmann Frustum Construction",
+      "Tags": [
+        "c",
+        "opengl",
+        "game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697710/c-opengl-transformations-involved-in-gribb-hartmann-frustum-construction"
+    }
+  ]
+}

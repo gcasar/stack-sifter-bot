@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-11T15:02:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T14:43:14Z",
+      "Title": "Trying to bind a string column for table valued parameter using ODBC",
+      "Tags": [
+        "c\u002B\u002B",
+        "sql-server",
+        "visual-c\u002B\u002B",
+        "c\u002B\u002B17",
+        "odbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698500/trying-to-bind-a-string-column-for-table-valued-parameter-using-odbc"
+    },
+    {
+      "Created": "2025-07-11T14:49:36Z",
+      "Title": "Error NoClassDeffoundError: jakarta/servlet/ServletException with Spring Boot 3.4 and spring-boot-starter-webflux",
+      "Tags": [
+        "spring",
+        "exception",
+        "netty",
+        "flux",
+        "boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698507/error-noclassdeffounderror-jakarta-servlet-servletexception-with-spring-boot-3"
+    },
+    {
+      "Created": "2025-07-11T14:52:08Z",
+      "Title": "In R, how do you get the Beta coefficient and 95% CI of a dropped level of a categorical variable when using deviation coding in quantile regression?",
+      "Tags": [
+        "r",
+        "regression",
+        "quantile",
+        "quantreg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698511/in-r-how-do-you-get-the-beta-coefficient-and-95-ci-of-a-dropped-level-of-a-cat"
+    },
+    {
+      "Created": "2025-07-11T15:00:16Z",
+      "Title": "GROUP BY in sub query undone in outer query",
+      "Tags": [
+        "nosql",
+        "azure-cosmosdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698523/group-by-in-sub-query-undone-in-outer-query"
+    },
+    {
+      "Created": "2025-07-11T15:02:24Z",
+      "Title": "Session_id is always null in fastmcp (https://github.com/jlowin/fastmcp)",
+      "Tags": [
+        "sessionid",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698524/session-id-is-always-null-in-fastmcp-https-github-com-jlowin-fastmcp"
+    }
+  ]
+}

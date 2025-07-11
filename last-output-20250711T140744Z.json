@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-11T14:04:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T13:14:41Z",
+      "Title": "unable to load file or assembly \u0027Microsoft.Web.WebView2.Wpf\u0027",
+      "Tags": [
+        "c#",
+        "wpf",
+        "webview2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698393/unable-to-load-file-or-assembly-microsoft-web-webview2-wpf"
+    },
+    {
+      "Created": "2025-07-11T13:47:34Z",
+      "Title": "How to make a fast and accurate relevant data extraction for a chatbot?",
+      "Tags": [
+        "python",
+        "json",
+        "database",
+        "large-language-model",
+        "claude"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698431/how-to-make-a-fast-and-accurate-relevant-data-extraction-for-a-chatbot"
+    },
+    {
+      "Created": "2025-07-11T13:47:41Z",
+      "Title": "How do I use boost::catmull_rom for time series interpolation?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "mfc",
+        "interpolation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698432/how-do-i-use-boostcatmull-rom-for-time-series-interpolation"
+    },
+    {
+      "Created": "2025-07-11T13:55:04Z",
+      "Title": "What regex flavor does Grafana use?",
+      "Tags": [
+        "regex",
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698438/what-regex-flavor-does-grafana-use"
+    },
+    {
+      "Created": "2025-07-11T13:57:10Z",
+      "Title": "\u0022Everyone cannot fool some person all the time.\u0022 translate in logic",
+      "Tags": [
+        "math",
+        "logic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698440/everyone-cannot-fool-some-person-all-the-time-translate-in-logic"
+    },
+    {
+      "Created": "2025-07-11T13:57:38Z",
+      "Title": "Running Python functions from other files",
+      "Tags": [
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698441/running-python-functions-from-other-files"
+    },
+    {
+      "Created": "2025-07-11T13:59:45Z",
+      "Title": "Monster Control Center for Linux [closed]",
+      "Tags": [
+        "linux",
+        "driver",
+        "hardware",
+        "control-center",
+        "notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698444/monster-control-center-for-linux"
+    },
+    {
+      "Created": "2025-07-11T14:00:57Z",
+      "Title": "Next.js static export with NGINX: Refresh or direct URL gives 403 Forbidden",
+      "Tags": [
+        "nginx",
+        "next.js",
+        "deployment",
+        "page-refresh",
+        "static-site"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698446/next-js-static-export-with-nginx-refresh-or-direct-url-gives-403-forbidden"
+    },
+    {
+      "Created": "2025-07-11T14:04:32Z",
+      "Title": "How to modify the matching mode of the filters in a PrimeVue TreeTable?",
+      "Tags": [
+        "vue.js",
+        "primevue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698450/how-to-modify-the-matching-mode-of-the-filters-in-a-primevue-treetable"
+    }
+  ]
+}

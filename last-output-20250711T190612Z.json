@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T19:02:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T18:39:42Z",
+      "Title": "How to securely transfer data from DMZ web server to internal LAN database without breaking DMZ principles? [closed]",
+      "Tags": [
+        "security",
+        "ssh",
+        "firewall",
+        "dmz"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698722/how-to-securely-transfer-data-from-dmz-web-server-to-internal-lan-database-witho"
+    },
+    {
+      "Created": "2025-07-11T18:41:22Z",
+      "Title": "CoroutineTestExtension not working when parallel test execution is enabled in JUnit5",
+      "Tags": [
+        "android",
+        "kotlin",
+        "unit-testing",
+        "parallel-processing",
+        "junit5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698723/coroutinetestextension-not-working-when-parallel-test-execution-is-enabled-in-ju"
+    },
+    {
+      "Created": "2025-07-11T18:47:38Z",
+      "Title": "How to make Stack fit to width of the screen",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698730/how-to-make-stack-fit-to-width-of-the-screen"
+    },
+    {
+      "Created": "2025-07-11T18:52:21Z",
+      "Title": "Add spacebar click event for pagination buttons",
+      "Tags": [
+        "jquery",
+        "accessibility",
+        "keyboard-events",
+        "wcag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698732/add-spacebar-click-event-for-pagination-buttons"
+    },
+    {
+      "Created": "2025-07-11T18:53:32Z",
+      "Title": "How does \u00270\u0027 \u002B (n % 10) convert an integer digit to its character representation in C?",
+      "Tags": [
+        "c",
+        "casting",
+        "character",
+        "ascii",
+        "modulo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698733/how-does-0-n-10-convert-an-integer-digit-to-its-character-representation"
+    },
+    {
+      "Created": "2025-07-11T19:02:58Z",
+      "Title": "Where can I find a remote storage adapter for Influxdb3?",
+      "Tags": [
+        "prometheus",
+        "influxdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698740/where-can-i-find-a-remote-storage-adapter-for-influxdb3"
+    }
+  ]
+}

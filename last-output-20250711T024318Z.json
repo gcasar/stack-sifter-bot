@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-11T02:39:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T02:07:26Z",
+      "Title": "Dask large outer join with gzip files",
+      "Tags": [
+        "pandas",
+        "dask",
+        "duckdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697757/dask-large-outer-join-with-gzip-files"
+    },
+    {
+      "Created": "2025-07-11T02:29:54Z",
+      "Title": "Trying to pass Kafka message bodies as environment variables through an Argo Sensor that triggers jobs",
+      "Tags": [
+        "docker",
+        "kubernetes",
+        "apache-kafka",
+        "kubernetes-helm",
+        "jobs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697768/trying-to-pass-kafka-message-bodies-as-environment-variables-through-an-argo-sen"
+    },
+    {
+      "Created": "2025-07-11T02:35:00Z",
+      "Title": "Does kusto support lazy-evaluation? Strategies to find an object that satisfies conditions across tables? (tables of different Kusto clusters)",
+      "Tags": [
+        "lazy-evaluation",
+        "kql",
+        "azure-data-explorer",
+        "kusto-explorer",
+        "lazyeval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697770/does-kusto-support-lazy-evaluation-strategies-to-find-an-object-that-satisfies"
+    },
+    {
+      "Created": "2025-07-11T02:38:06Z",
+      "Title": "Using inline Web Workers with importScripts in Cordova",
+      "Tags": [
+        "cordova",
+        "cordova-plugins",
+        "wkwebview",
+        "web-worker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697771/using-inline-web-workers-with-importscripts-in-cordova"
+    },
+    {
+      "Created": "2025-07-11T02:39:32Z",
+      "Title": "How do I compute group means in a pandas DataFrame when grouped by ranking?",
+      "Tags": [
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697772/how-do-i-compute-group-means-in-a-pandas-dataframe-when-grouped-by-ranking"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-11T04:17:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T03:37:51Z",
+      "Title": "How to catch TaskCanceledException from client disconnect in gRPC (.NET 8)?",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "error-handling",
+        "grpc",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697797/how-to-catch-taskcanceledexception-from-client-disconnect-in-grpc-net-8"
+    },
+    {
+      "Created": "2025-07-11T03:56:59Z",
+      "Title": "Next.js API Route Not Reflecting Code Changes \u2013 Stuck on Old Gemini Model Name Despite Restarting",
+      "Tags": [
+        "next.js",
+        "caching",
+        "serverless"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697806/next-js-api-route-not-reflecting-code-changes-stuck-on-old-gemini-model-name-d"
+    },
+    {
+      "Created": "2025-07-11T04:03:58Z",
+      "Title": "Can a Flutter module be integrated as an AAR/XCFramework into another Flutter app to encapsulate implementation logic?",
+      "Tags": [
+        "android",
+        "flutter",
+        "aar",
+        "flutter-module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697812/can-a-flutter-module-be-integrated-as-an-aar-xcframework-into-another-flutter-ap"
+    },
+    {
+      "Created": "2025-07-11T04:11:31Z",
+      "Title": "Flask app with flask-ngrok stuck in Colab (no public URL, cell runs indefinitely, 127.0.0.1 access denied)",
+      "Tags": [
+        "python",
+        "flask",
+        "google-colaboratory",
+        "ngrok",
+        "pyngrok"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697816/flask-app-with-flask-ngrok-stuck-in-colab-no-public-url-cell-runs-indefinitely"
+    },
+    {
+      "Created": "2025-07-11T04:17:18Z",
+      "Title": "[iOS][v0.73] JS run result not expected when return value in catch",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697821/iosv0-73-js-run-result-not-expected-when-return-value-in-catch"
+    }
+  ]
+}

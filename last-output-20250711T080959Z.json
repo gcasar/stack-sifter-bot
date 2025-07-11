@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-11T08:06:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T07:57:49Z",
+      "Title": "how to decide forward or backward computation in dynamic programming tabulation",
+      "Tags": [
+        "algorithm",
+        "dynamic-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698009/how-to-decide-forward-or-backward-computation-in-dynamic-programming-tabulation"
+    },
+    {
+      "Created": "2025-07-11T07:58:12Z",
+      "Title": "gRPC: HTTP-level resilience handler (retries)?",
+      "Tags": [
+        "grpc",
+        "distributed-system",
+        "grpc-dotnet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698010/grpc-http-level-resilience-handler-retries"
+    },
+    {
+      "Created": "2025-07-11T08:03:51Z",
+      "Title": "non-blocking \u0060accept\u0060 return \u0060EAGAIN\u0060 on connection burst",
+      "Tags": [
+        "linux",
+        "sockets",
+        "network-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698016/non-blocking-accept-return-eagain-on-connection-burst"
+    },
+    {
+      "Created": "2025-07-11T08:06:49Z",
+      "Title": "Will requests to my site lag and work slowly in django while waiting for celery results?",
+      "Tags": [
+        "python",
+        "django",
+        "pdf",
+        "celery",
+        "docx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698019/will-requests-to-my-site-lag-and-work-slowly-in-django-while-waiting-for-celery"
+    }
+  ]
+}

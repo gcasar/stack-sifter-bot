@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T18:06:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T17:33:09Z",
+      "Title": "Python keyboard module doesn\u2019t recognize alphanumeric key presses",
+      "Tags": [
+        "python",
+        "keyboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698679/python-keyboard-module-doesn-t-recognize-alphanumeric-key-presses"
+    },
+    {
+      "Created": "2025-07-11T17:47:25Z",
+      "Title": "Hibernate\u00A06.6 (Spring\u00A0Boot\u00A03): \u0060AssertionFailure: null id\u0060 when saving/updating entity with null ID",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698688/hibernate-6-6-spring-boot-3-assertionfailure-null-id-when-saving-updating"
+    },
+    {
+      "Created": "2025-07-11T17:49:49Z",
+      "Title": "Google Places API always returns only 20 results, no nextPageToken for any query",
+      "Tags": [
+        "python",
+        "google-places-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698689/google-places-api-always-returns-only-20-results-no-nextpagetoken-for-any-query"
+    },
+    {
+      "Created": "2025-07-11T17:56:59Z",
+      "Title": "How to Identify Browser back, page close and redirect to another route in React Js",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "react-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698694/how-to-identify-browser-back-page-close-and-redirect-to-another-route-in-react"
+    },
+    {
+      "Created": "2025-07-11T18:04:41Z",
+      "Title": "Signed wire and register sizes in Verilog for PI module in FPGA",
+      "Tags": [
+        "verilog",
+        "fpga",
+        "pid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698697/signed-wire-and-register-sizes-in-verilog-for-pi-module-in-fpga"
+    },
+    {
+      "Created": "2025-07-11T18:06:19Z",
+      "Title": "bootstrap scoped import with @use",
+      "Tags": [
+        "sass",
+        "bootstrap-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698698/bootstrap-scoped-import-with-use"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T22:03:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T21:13:04Z",
+      "Title": "Understanding the setenv() implementation in glibc",
+      "Tags": [
+        "c\u002B\u002B",
+        "glibc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698836/understanding-the-setenv-implementation-in-glibc"
+    },
+    {
+      "Created": "2025-07-11T21:28:47Z",
+      "Title": "TailwindCSS / NativeWind randomly stops working in new Next.js and Expo projects",
+      "Tags": [
+        "next.js",
+        "expo",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698850/tailwindcss-nativewind-randomly-stops-working-in-new-next-js-and-expo-projects"
+    },
+    {
+      "Created": "2025-07-11T21:55:10Z",
+      "Title": "CropperJS crop() is never called in Vue component, preview not updating",
+      "Tags": [
+        "image",
+        "vue.js",
+        "frontend",
+        "crop",
+        "cropperjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698868/cropperjs-crop-is-never-called-in-vue-component-preview-not-updating"
+    },
+    {
+      "Created": "2025-07-11T21:57:05Z",
+      "Title": "Python - convert FlightRadar altitude to WGS84 ellipsoid \u002B elevation",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698870/python-convert-flightradar-altitude-to-wgs84-ellipsoid-elevation"
+    },
+    {
+      "Created": "2025-07-11T21:57:55Z",
+      "Title": "Dimensionality matching in multimodal transformer model",
+      "Tags": [
+        "deep-learning",
+        "pytorch",
+        "artificial-intelligence",
+        "transformer-model",
+        "multimodal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698871/dimensionality-matching-in-multimodal-transformer-model"
+    },
+    {
+      "Created": "2025-07-11T22:03:05Z",
+      "Title": "Why doesn\u0027t my EAS Expo build connect to my local server like it does with npx expo start",
+      "Tags": [
+        "react-native",
+        "network-programming",
+        "expo",
+        "fetch",
+        "eas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698875/why-doesnt-my-eas-expo-build-connect-to-my-local-server-like-it-does-with-npx-e"
+    }
+  ]
+}

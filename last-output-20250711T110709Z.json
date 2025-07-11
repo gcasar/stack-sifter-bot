@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-11T11:04:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T10:38:31Z",
+      "Title": "NumPy broadcasting error when trying to add 2D array and 1D array",
+      "Tags": [
+        "machine-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698196/numpy-broadcasting-error-when-trying-to-add-2d-array-and-1d-array"
+    },
+    {
+      "Created": "2025-07-11T10:45:08Z",
+      "Title": "Using decltype to instantiate vector",
+      "Tags": [
+        "c\u002B\u002B",
+        "vector",
+        "compiler-errors",
+        "decltype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698204/using-decltype-to-instantiate-vector"
+    },
+    {
+      "Created": "2025-07-11T10:49:06Z",
+      "Title": "How to properly set up debugging for a TypeScript Node.js project using decorators and ES modules?",
+      "Tags": [
+        "typescript",
+        "debugging",
+        "vscode-debugger"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698212/how-to-properly-set-up-debugging-for-a-typescript-node-js-project-using-decorato"
+    },
+    {
+      "Created": "2025-07-11T11:03:12Z",
+      "Title": "How come tokenization and generation of model behaves differently accross different versions of transformers",
+      "Tags": [
+        "huggingface-transformers",
+        "huggingface-tokenizers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698231/how-come-tokenization-and-generation-of-model-behaves-differently-accross-differ"
+    },
+    {
+      "Created": "2025-07-11T11:03:47Z",
+      "Title": "How can I capture regex in ngnix and proxy pass onto another service?",
+      "Tags": [
+        "nginx",
+        "nginx-reverse-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698233/how-can-i-capture-regex-in-ngnix-and-proxy-pass-onto-another-service"
+    },
+    {
+      "Created": "2025-07-11T11:04:57Z",
+      "Title": "Move article when viewport changes with bootstrap",
+      "Tags": [
+        "html",
+        "css",
+        "class",
+        "row",
+        "article"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698236/move-article-when-viewport-changes-with-bootstrap"
+    }
+  ]
+}

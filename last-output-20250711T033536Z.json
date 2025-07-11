@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-11T03:26:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T02:54:54Z",
+      "Title": "Don\u0027t understand Scheme \u0022unbound identifier\u0022 message for this function definition",
+      "Tags": [
+        "scheme",
+        "racket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697775/dont-understand-scheme-unbound-identifier-message-for-this-function-definitio"
+    },
+    {
+      "Created": "2025-07-11T03:00:21Z",
+      "Title": "Blazor web app .NET 9: I can open and manage SQLite database in debug mode, but not in the hosted web app in IIS",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        "iis",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697779/blazor-web-app-net-9-i-can-open-and-manage-sqlite-database-in-debug-mode-but"
+    },
+    {
+      "Created": "2025-07-11T03:04:13Z",
+      "Title": "Is there a portable, simple, way to compress/decompress gzip in C?",
+      "Tags": [
+        "c",
+        "gzip",
+        "minecraft",
+        "zlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697780/is-there-a-portable-simple-way-to-compress-decompress-gzip-in-c"
+    },
+    {
+      "Created": "2025-07-11T03:06:22Z",
+      "Title": "How to get Google Ads demographic insights (e.g. age, gender) tied to GCLID or gbraid?",
+      "Tags": [
+        "google-ads-api",
+        "google-analytics-4",
+        "demographics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697781/how-to-get-google-ads-demographic-insights-e-g-age-gender-tied-to-gclid-or-g"
+    },
+    {
+      "Created": "2025-07-11T03:11:15Z",
+      "Title": "JOINs in Room - Question about Dao class specification",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-room"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697782/joins-in-room-question-about-dao-class-specification"
+    },
+    {
+      "Created": "2025-07-11T03:16:19Z",
+      "Title": "Do I need a closing X for this language?",
+      "Tags": [
+        "automaton"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697786/do-i-need-a-closing-x-for-this-language"
+    },
+    {
+      "Created": "2025-07-11T03:26:31Z",
+      "Title": "Using Microsoft Access to send email through Outlook with a button click",
+      "Tags": [
+        "email",
+        "ms-access",
+        "outlook",
+        "mail-sender"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697794/using-microsoft-access-to-send-email-through-outlook-with-a-button-click"
+    }
+  ]
+}

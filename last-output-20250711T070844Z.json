@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-11T07:03:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T06:42:13Z",
+      "Title": "Multiple buttons which act indipendently on Click",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "winforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697931/multiple-buttons-which-act-indipendently-on-click"
+    },
+    {
+      "Created": "2025-07-11T06:57:23Z",
+      "Title": "Regex substring SQL",
+      "Tags": [
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697943/regex-substring-sql"
+    },
+    {
+      "Created": "2025-07-11T06:57:58Z",
+      "Title": "Is this assignment to brace-enclosed string constant really illegal in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "g\u002B\u002B",
+        "operator-overloading",
+        "clang\u002B\u002B",
+        "assignment-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697945/is-this-assignment-to-brace-enclosed-string-constant-really-illegal-in-c"
+    },
+    {
+      "Created": "2025-07-11T06:58:26Z",
+      "Title": "QPushButton::setAutoRepeat(true) not working with touch screen",
+      "Tags": [
+        "windows",
+        "qt",
+        "touch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697946/qpushbuttonsetautorepeattrue-not-working-with-touch-screen"
+    },
+    {
+      "Created": "2025-07-11T07:00:13Z",
+      "Title": "swiper.update() triggers slideChange unexpectedly \u2014 how to prevent or handle it?",
+      "Tags": [
+        "angular",
+        "swiper.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697950/swiper-update-triggers-slidechange-unexpectedly-how-to-prevent-or-handle-it"
+    },
+    {
+      "Created": "2025-07-11T07:02:35Z",
+      "Title": "SQL to EXCEL report generation application not working with a server connection",
+      "Tags": [
+        "python",
+        "sql",
+        "sql-server",
+        "excel",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697955/sql-to-excel-report-generation-application-not-working-with-a-server-connection"
+    },
+    {
+      "Created": "2025-07-11T07:03:06Z",
+      "Title": "Opcache question moving from php 8.0 to 8.3",
+      "Tags": [
+        "php",
+        "upgrade",
+        "opcache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697956/opcache-question-moving-from-php-8-0-to-8-3"
+    }
+  ]
+}

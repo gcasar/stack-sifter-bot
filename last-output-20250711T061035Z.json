@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-11T06:05:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T05:20:39Z",
+      "Title": "Why is there a difference with passing a base class as a function argument not the same as passing the base class as a data member?",
+      "Tags": [
+        "c\u002B\u002B",
+        "casting",
+        "polymorphism"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697860/why-is-there-a-difference-with-passing-a-base-class-as-a-function-argument-not-t"
+    },
+    {
+      "Created": "2025-07-11T05:54:09Z",
+      "Title": "Why is my numpy-based custom data loader extremely slow and unstable when iterating over large tick data",
+      "Tags": [
+        "python",
+        "numpy",
+        "dataloader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697885/why-is-my-numpy-based-custom-data-loader-extremely-slow-and-unstable-when-iterat"
+    },
+    {
+      "Created": "2025-07-11T05:56:10Z",
+      "Title": "Is it possible to trigger an event at the moment a Teams call is received and retrieve the caller\u0027s phone number?",
+      "Tags": [
+        "azure",
+        "microsoft-teams",
+        "microsoft-graph-teams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697888/is-it-possible-to-trigger-an-event-at-the-moment-a-teams-call-is-received-and-re"
+    },
+    {
+      "Created": "2025-07-11T06:05:19Z",
+      "Title": "Can\u0027t connect to imap server using office365 app password and mail",
+      "Tags": [
+        "python",
+        "email",
+        "automation",
+        "outlook",
+        "imap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79697894/cant-connect-to-imap-server-using-office365-app-password-and-mail"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-11T16:50:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T16:40:29Z",
+      "Title": "How to design this kind of borders?",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698631/how-to-design-this-kind-of-borders"
+    },
+    {
+      "Created": "2025-07-11T16:48:10Z",
+      "Title": "REST API design with OneToMany relationship with Spring and JPA",
+      "Tags": [
+        "spring-boot",
+        "rest",
+        "jpa",
+        "api-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698638/rest-api-design-with-onetomany-relationship-with-spring-and-jpa"
+    },
+    {
+      "Created": "2025-07-11T16:50:03Z",
+      "Title": "How do I use the \u0022no.\u0022 prefix instruction in CIL?",
+      "Tags": [
+        ".net",
+        "cil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698640/how-do-i-use-the-no-prefix-instruction-in-cil"
+    }
+  ]
+}

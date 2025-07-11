@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-11T20:02:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T19:34:00Z",
+      "Title": "Microsoft Recognizer Extracting individual date text from a date range",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698764/microsoft-recognizer-extracting-individual-date-text-from-a-date-range"
+    },
+    {
+      "Created": "2025-07-11T19:35:15Z",
+      "Title": "Spring Boot REST API returns 404 on POST",
+      "Tags": [
+        "spring-boot",
+        "spring-mvc",
+        "postman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698765/spring-boot-rest-api-returns-404-on-post"
+    },
+    {
+      "Created": "2025-07-11T19:40:03Z",
+      "Title": "VS Code: how to fix Notebook output font size/family?",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698768/vs-code-how-to-fix-notebook-output-font-size-family"
+    },
+    {
+      "Created": "2025-07-11T19:41:37Z",
+      "Title": "Open Source charter marketplace? [closed]",
+      "Tags": [
+        "saas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698770/open-source-charter-marketplace"
+    },
+    {
+      "Created": "2025-07-11T19:41:56Z",
+      "Title": "Dynatrace Query - Extraction of fileds from Dynatrace that contains Json",
+      "Tags": [
+        "json",
+        "dynatrace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698771/dynatrace-query-extraction-of-fileds-from-dynatrace-that-contains-json"
+    },
+    {
+      "Created": "2025-07-11T19:52:13Z",
+      "Title": "How do I make Vite work on a multi-page website?",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698777/how-do-i-make-vite-work-on-a-multi-page-website"
+    },
+    {
+      "Created": "2025-07-11T19:58:15Z",
+      "Title": "How to keep history of entities using Table-per-Type inheritance in EF Core",
+      "Tags": [
+        "c#",
+        ".net",
+        "polymorphism"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698780/how-to-keep-history-of-entities-using-table-per-type-inheritance-in-ef-core"
+    },
+    {
+      "Created": "2025-07-11T20:02:46Z",
+      "Title": "Artillery Socket.IO: {{token}} in socketio.query interpolates as \u0027undefined\u0027 despite beforeConnect",
+      "Tags": [
+        "websocket",
+        "socket.io",
+        "jwt",
+        "load-testing",
+        "artillery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698784/artillery-socket-io-token-in-socketio-query-interpolates-as-undefined-des"
+    }
+  ]
+}

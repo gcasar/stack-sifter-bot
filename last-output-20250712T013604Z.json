@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-12T01:29:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T01:05:34Z",
+      "Title": "Drawing specific ASCII characters causes screen glitches in Circle framework for the rpi",
+      "Tags": [
+        "c\u002B\u002B",
+        "embedded",
+        "raspberry-pi4",
+        "visual-glitch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698935/drawing-specific-ascii-characters-causes-screen-glitches-in-circle-framework-for"
+    },
+    {
+      "Created": "2025-07-12T01:19:04Z",
+      "Title": "Can HAVING clause conditions use aliases for the columns?",
+      "Tags": [
+        "sql",
+        "mysql",
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698939/can-having-clause-conditions-use-aliases-for-the-columns"
+    },
+    {
+      "Created": "2025-07-12T01:27:16Z",
+      "Title": "not able to call FastMCP server using http or sse protocol",
+      "Tags": [
+        "python",
+        "semantic-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698941/not-able-to-call-fastmcp-server-using-http-or-sse-protocol"
+    },
+    {
+      "Created": "2025-07-12T01:29:58Z",
+      "Title": "By far the most odd optimization problem I have encountered. Please help :\u0027)",
+      "Tags": [
+        "java",
+        "optimization",
+        "mathematical-optimization",
+        "jit",
+        "chess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698942/by-far-the-most-odd-optimization-problem-i-have-encountered-please-help"
+    }
+  ]
+}

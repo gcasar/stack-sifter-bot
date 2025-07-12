@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-12T02:35:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T02:08:23Z",
+      "Title": "Populate a combobox list items blank except for the last item",
+      "Tags": [
+        "delphi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698959/populate-a-combobox-list-items-blank-except-for-the-last-item"
+    },
+    {
+      "Created": "2025-07-12T02:12:11Z",
+      "Title": "#error \u0022Please port gnulib freadahead.c to your platform!\u0022 while compiling openwrt",
+      "Tags": [
+        "c-preprocessor",
+        "m4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698960/error-please-port-gnulib-freadahead-c-to-your-platform-while-compiling-openw"
+    },
+    {
+      "Created": "2025-07-12T02:18:32Z",
+      "Title": "Performing operations inside a function on dataframe with pipe workflow",
+      "Tags": [
+        "r",
+        "dataframe",
+        "function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698962/performing-operations-inside-a-function-on-dataframe-with-pipe-workflow"
+    },
+    {
+      "Created": "2025-07-12T02:35:18Z",
+      "Title": "Editable installations with non-Python files (src layout)",
+      "Tags": [
+        "python",
+        "pip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698966/editable-installations-with-non-python-files-src-layout"
+    }
+  ]
+}

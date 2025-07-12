@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-12T18:06:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T17:16:06Z",
+      "Title": "Redirect of www and http/s help in nginx",
+      "Tags": [
+        "nginx",
+        "nginx-config"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699453/redirect-of-www-and-http-s-help-in-nginx"
+    },
+    {
+      "Created": "2025-07-12T17:17:21Z",
+      "Title": "How to remove zoom and layers buttons from mapview or leaflet maps before saving to a file",
+      "Tags": [
+        "r",
+        "shiny",
+        "r-leaflet",
+        "r-mapview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699454/how-to-remove-zoom-and-layers-buttons-from-mapview-or-leaflet-maps-before-saving"
+    },
+    {
+      "Created": "2025-07-12T17:24:52Z",
+      "Title": "Why is my SQLite database not creating a column for password?",
+      "Tags": [
+        "react-native",
+        "sqlite",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699458/why-is-my-sqlite-database-not-creating-a-column-for-password"
+    },
+    {
+      "Created": "2025-07-12T17:36:48Z",
+      "Title": "New 64-bit dev (Old 32-bit dev) : Why is my 64-bit executable so huge?",
+      "Tags": [
+        "c\u002B\u002B",
+        "ide",
+        "c\u002B\u002Bbuilder",
+        "32bit-64bit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699464/new-64-bit-dev-old-32-bit-dev-why-is-my-64-bit-executable-so-huge"
+    },
+    {
+      "Created": "2025-07-12T17:39:34Z",
+      "Title": "\u0022There is no unique or exclusion constraint matching the ON CONFLICT specification\u0022 when upserting in Supabase",
+      "Tags": [
+        "python",
+        "supabase",
+        "upsert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699466/there-is-no-unique-or-exclusion-constraint-matching-the-on-conflict-specificati"
+    },
+    {
+      "Created": "2025-07-12T17:55:32Z",
+      "Title": "How to execute data transformation scripts (like password encryption) during Prisma migration?",
+      "Tags": [
+        "mysql",
+        "node.js",
+        "database-migration",
+        "prisma",
+        "bcrypt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699473/how-to-execute-data-transformation-scripts-like-password-encryption-during-pri"
+    },
+    {
+      "Created": "2025-07-12T18:02:41Z",
+      "Title": "What is the purpose of the pkey parameter?",
+      "Tags": [
+        "assimp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699476/what-is-the-purpose-of-the-pkey-parameter"
+    },
+    {
+      "Created": "2025-07-12T18:06:43Z",
+      "Title": "How backend work with front end using flask",
+      "Tags": [
+        "javascript",
+        "python",
+        "flask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699477/how-backend-work-with-front-end-using-flask"
+    }
+  ]
+}

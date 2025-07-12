@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-12T21:50:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T21:28:34Z",
+      "Title": "Off by one byte; Need extra CR in base64 encoded MIME string for sending email attachment",
+      "Tags": [
+        "c\u002B\u002B",
+        "base64",
+        "mime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699601/off-by-one-byte-need-extra-cr-in-base64-encoded-mime-string-for-sending-email-a"
+    },
+    {
+      "Created": "2025-07-12T21:50:45Z",
+      "Title": "How to optimize updating entries inside vector in c\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "vector",
+        "architecture",
+        "containers",
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699612/how-to-optimize-updating-entries-inside-vector-in-c"
+    },
+    {
+      "Created": "2025-07-12T21:50:47Z",
+      "Title": "TypeScript Service Layer: Interface \u002B Implementation pattern with arrow functions - Best practices?",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "rest",
+        "design-patterns",
+        "architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699613/typescript-service-layer-interface-implementation-pattern-with-arrow-function"
+    }
+  ]
+}

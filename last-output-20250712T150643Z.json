@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-12T15:01:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T14:47:26Z",
+      "Title": "C# Winforms Datagridview with BindingSource is not filled at startup",
+      "Tags": [
+        "c#",
+        "winforms",
+        "mvvm",
+        "bindingsource"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699362/c-sharp-winforms-datagridview-with-bindingsource-is-not-filled-at-startup"
+    },
+    {
+      "Created": "2025-07-12T14:56:37Z",
+      "Title": "How to dynamically call function in class [duplicate]",
+      "Tags": [
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699370/how-to-dynamically-call-function-in-class"
+    },
+    {
+      "Created": "2025-07-12T14:57:02Z",
+      "Title": "How to stack columns in a dataframe and create new dataframe or modify existing dataframe",
+      "Tags": [
+        "pandas",
+        "dataframe",
+        "group-by",
+        "jupyter-notebook",
+        "sklearn-pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699371/how-to-stack-columns-in-a-dataframe-and-create-new-dataframe-or-modify-existing"
+    },
+    {
+      "Created": "2025-07-12T14:59:58Z",
+      "Title": "KMM build operation error. does anyone facing this?",
+      "Tags": [
+        "android",
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699372/kmm-build-operation-error-does-anyone-facing-this"
+    },
+    {
+      "Created": "2025-07-12T15:01:05Z",
+      "Title": "Why does removing elements from a list during a loop in Python skip items? [duplicate]",
+      "Tags": [
+        "python",
+        "list",
+        "for-loop",
+        "iteration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699375/why-does-removing-elements-from-a-list-during-a-loop-in-python-skip-items"
+    }
+  ]
+}

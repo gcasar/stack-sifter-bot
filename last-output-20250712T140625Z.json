@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-12T13:58:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T13:42:11Z",
+      "Title": "Mouse Cursor in 16-bit Assembly (NASM) Overwrites Screen Content in VGA Mode 0x12",
+      "Tags": [
+        "assembly",
+        "operating-system",
+        "driver",
+        "osdev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699320/mouse-cursor-in-16-bit-assembly-nasm-overwrites-screen-content-in-vga-mode-0x1"
+    },
+    {
+      "Created": "2025-07-12T13:44:39Z",
+      "Title": "How to create S3 Bucket for backend in tflocal",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699324/how-to-create-s3-bucket-for-backend-in-tflocal"
+    },
+    {
+      "Created": "2025-07-12T13:50:50Z",
+      "Title": "How can I reduce the startup time of FastAPI",
+      "Tags": [
+        "python-3.x",
+        "apache-kafka",
+        "fastapi",
+        "huggingface-transformers",
+        "rag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699331/how-can-i-reduce-the-startup-time-of-fastapi"
+    },
+    {
+      "Created": "2025-07-12T13:58:31Z",
+      "Title": "AWS CDK: EcsDeployAction permissions to access S3",
+      "Tags": [
+        "typescript",
+        "aws-cdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699335/aws-cdk-ecsdeployaction-permissions-to-access-s3"
+    }
+  ]
+}

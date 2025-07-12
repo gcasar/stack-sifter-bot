@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-12T05:35:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T05:20:41Z",
+      "Title": "Why would changing the function signature cause my parameter to be overwritten?",
+      "Tags": [
+        "webassembly",
+        "emscripten"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699025/why-would-changing-the-function-signature-cause-my-parameter-to-be-overwritten"
+    },
+    {
+      "Created": "2025-07-12T05:34:37Z",
+      "Title": "alternative for this code not using eval or for newer PHP versions [duplicate]",
+      "Tags": [
+        "php",
+        "eval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699030/alternative-for-this-code-not-using-eval-or-for-newer-php-versions"
+    },
+    {
+      "Created": "2025-07-12T05:35:49Z",
+      "Title": "Reproducing a libc\u002B\u002B optimisation that uses tail padding to store field members with no additional space",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "optimization",
+        "padding",
+        "libc\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699031/reproducing-a-libc-optimisation-that-uses-tail-padding-to-store-field-members"
+    }
+  ]
+}

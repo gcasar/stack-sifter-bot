@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-12T11:04:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T10:14:21Z",
+      "Title": "How to link the Autocomplete dropdown item to a subsection of same page without displaying full url name",
+      "Tags": [
+        "html",
+        "autocomplete",
+        "dropdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699186/how-to-link-the-autocomplete-dropdown-item-to-a-subsection-of-same-page-without"
+    },
+    {
+      "Created": "2025-07-12T10:27:55Z",
+      "Title": "Increase tmp_table_size/max_heap_table_size does not improve Tmp_Tables_ToDisk percentage",
+      "Tags": [
+        "mariadb-10.6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699194/increase-tmp-table-size-max-heap-table-size-does-not-improve-tmp-tables-todisk-p"
+    },
+    {
+      "Created": "2025-07-12T10:30:29Z",
+      "Title": "Dynamic list of arguments for a variadic function",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B14",
+        "variadic-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699195/dynamic-list-of-arguments-for-a-variadic-function"
+    },
+    {
+      "Created": "2025-07-12T10:44:23Z",
+      "Title": "AnimatedContent size change animation not working smoothly in Jetpack Compose dialog",
+      "Tags": [
+        "android",
+        "animation",
+        "android-jetpack-compose",
+        "android-jetpack-compose-material3",
+        "jetpack-compose-animation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699206/animatedcontent-size-change-animation-not-working-smoothly-in-jetpack-compose-di"
+    },
+    {
+      "Created": "2025-07-12T11:04:59Z",
+      "Title": "How to handle token limit issues when processing large JSON responses via MCP client-server with LLMs?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "large-language-model",
+        "model-context-protocol",
+        "anthropic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699217/how-to-handle-token-limit-issues-when-processing-large-json-responses-via-mcp-cl"
+    }
+  ]
+}

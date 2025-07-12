@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-12T15:51:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T15:48:10Z",
+      "Title": "Lua While loops are Faster than For loops should i use While loops instead of For",
+      "Tags": [
+        "for-loop",
+        "while-loop",
+        "lua"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699400/lua-while-loops-are-faster-than-for-loops-should-i-use-while-loops-instead-of-fo"
+    },
+    {
+      "Created": "2025-07-12T15:51:16Z",
+      "Title": "QNap NAS server with old firmware can\u0027t update firmware",
+      "Tags": [
+        "nas",
+        "qnap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699403/qnap-nas-server-with-old-firmware-cant-update-firmware"
+    }
+  ]
+}

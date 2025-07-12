@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-12T22:57:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T22:15:28Z",
+      "Title": "Firefox extension for android mobile permissions error",
+      "Tags": [
+        "javascript",
+        "firefox-addon",
+        "firefox-addon-webextensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699622/firefox-extension-for-android-mobile-permissions-error"
+    },
+    {
+      "Created": "2025-07-12T22:19:40Z",
+      "Title": "How can my WPF app be always on top of all windows (even fullscreen app)?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "directx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699623/how-can-my-wpf-app-be-always-on-top-of-all-windows-even-fullscreen-app"
+    },
+    {
+      "Created": "2025-07-12T22:42:17Z",
+      "Title": "Altair sorting a layered chart with mark_errorbar doesn\u0027t work",
+      "Tags": [
+        "python",
+        "altair"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699630/altair-sorting-a-layered-chart-with-mark-errorbar-doesnt-work"
+    },
+    {
+      "Created": "2025-07-12T22:44:08Z",
+      "Title": "Applied styles when CSS Style conflict",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699632/applied-styles-when-css-style-conflict"
+    },
+    {
+      "Created": "2025-07-12T22:56:15Z",
+      "Title": "Why does UIView only appear after its touched?",
+      "Tags": [
+        "ios",
+        "swift",
+        "uiview",
+        "uikit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699639/why-does-uiview-only-appear-after-its-touched"
+    },
+    {
+      "Created": "2025-07-12T22:57:18Z",
+      "Title": "Prevent \u0060None\u0060 values from matching in Python-Polars",
+      "Tags": [
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699641/prevent-none-values-from-matching-in-python-polars"
+    }
+  ]
+}

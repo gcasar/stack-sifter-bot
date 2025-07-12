@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-12T04:11:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T03:39:27Z",
+      "Title": "Apps Script: eval(include(\u0022FilterUICode\u0022)) fails with SyntaxError: expected expression, got \u0027\u003C\u0027 when injecting JS from separate file",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698986/apps-script-evalincludefilteruicode-fails-with-syntaxerror-expected-expr"
+    },
+    {
+      "Created": "2025-07-12T03:42:41Z",
+      "Title": "How can I execute a Python script in the REPL interpreter mode and get the exactly same output as if it was manually typed in? (Ubuntu, Python 3.12)",
+      "Tags": [
+        "python-3.x",
+        "linux",
+        "stdout",
+        "interactive",
+        "read-eval-print-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698987/how-can-i-execute-a-python-script-in-the-repl-interpreter-mode-and-get-the-exact"
+    },
+    {
+      "Created": "2025-07-12T03:49:14Z",
+      "Title": "How to connect WordPress frontend with ASP.NET Core Web API backend to fetch external data?",
+      "Tags": [
+        "wordpress",
+        "rest",
+        "asp.net-core",
+        "frontend",
+        "integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698989/how-to-connect-wordpress-frontend-with-asp-net-core-web-api-backend-to-fetch-ext"
+    },
+    {
+      "Created": "2025-07-12T03:54:37Z",
+      "Title": "JasperReports ExtensionsEnvironment initialization fails with NoClassDefFoundError in OSGi/CXF environment",
+      "Tags": [
+        "java",
+        "jasper-reports",
+        "osgi",
+        "cxf",
+        "noclassdeffounderror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698992/jasperreports-extensionsenvironment-initialization-fails-with-noclassdeffounderr"
+    },
+    {
+      "Created": "2025-07-12T04:04:55Z",
+      "Title": "unable to use foreachactivity inside if statement true in ADF/Ms Fabric",
+      "Tags": [
+        "azure-data-factory",
+        "microsoft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698996/unable-to-use-foreachactivity-inside-if-statement-true-in-adf-ms-fabric"
+    },
+    {
+      "Created": "2025-07-12T04:11:17Z",
+      "Title": "what are different operations used in file handling and their meaning like other than read,write",
+      "Tags": [
+        "python-3.x",
+        "file-handling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698998/what-are-different-operations-used-in-file-handling-and-their-meaning-like-other"
+    }
+  ]
+}

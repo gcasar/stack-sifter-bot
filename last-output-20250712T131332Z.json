@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-12T13:11:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T12:13:21Z",
+      "Title": "When is it required to add the types for template code and when not?",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699256/when-is-it-required-to-add-the-types-for-template-code-and-when-not"
+    },
+    {
+      "Created": "2025-07-12T12:27:35Z",
+      "Title": "Problem with .csproj file in .NET Windows Forms project C#",
+      "Tags": [
+        "c#",
+        ".net",
+        "windows-forms-designer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699272/problem-with-csproj-file-in-net-windows-forms-project-c-sharp"
+    },
+    {
+      "Created": "2025-07-12T13:00:44Z",
+      "Title": "error TS2688: Cannot find type definition file for \u0027diff\u0027",
+      "Tags": [
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699295/error-ts2688-cannot-find-type-definition-file-for-diff"
+    },
+    {
+      "Created": "2025-07-12T13:02:42Z",
+      "Title": "How to upload a jpg to pic = Image.open(\u0022dog.jpg\u0022)?",
+      "Tags": [
+        "python",
+        "computer-vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699296/how-to-upload-a-jpg-to-pic-image-opendog-jpg"
+    },
+    {
+      "Created": "2025-07-12T13:03:37Z",
+      "Title": "Next.js 15: Unable to serve static audio file from public directory",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "audio",
+        "next.js15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699297/next-js-15-unable-to-serve-static-audio-file-from-public-directory"
+    },
+    {
+      "Created": "2025-07-12T13:11:56Z",
+      "Title": "\u0060purrr::in_parallel\u0060 extremely slow for rowwise operation on data.frames",
+      "Tags": [
+        "r",
+        "parallel-processing",
+        "purrr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699301/purrrin-parallel-extremely-slow-for-rowwise-operation-on-data-frames"
+    }
+  ]
+}

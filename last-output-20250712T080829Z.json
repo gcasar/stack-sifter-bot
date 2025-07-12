@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-12T08:04:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T07:23:00Z",
+      "Title": "I\u0027m struggling with my first Verilog task",
+      "Tags": [
+        "verilog",
+        "pwm",
+        "register-transfer-level"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699092/im-struggling-with-my-first-verilog-task"
+    },
+    {
+      "Created": "2025-07-12T07:26:10Z",
+      "Title": "Testing equality of lists which contain NaN",
+      "Tags": [
+        "python",
+        "unit-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699094/testing-equality-of-lists-which-contain-nan"
+    },
+    {
+      "Created": "2025-07-12T07:57:33Z",
+      "Title": "ADF: passing the output of a Set Variable to Azure SQL database table",
+      "Tags": [
+        "stored-procedures",
+        "azure-data-factory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699113/adf-passing-the-output-of-a-set-variable-to-azure-sql-database-table"
+    },
+    {
+      "Created": "2025-07-12T08:04:55Z",
+      "Title": "Can\u0027t read PDF Text",
+      "Tags": [
+        "python",
+        "pypdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699115/cant-read-pdf-text"
+    }
+  ]
+}

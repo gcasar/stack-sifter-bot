@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-12T18:56:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T18:24:21Z",
+      "Title": "Memory usage accumulates in simple loop until PC crashes",
+      "Tags": [
+        "python",
+        "memory",
+        "garbage-collection",
+        "jupyter-lab",
+        "gmpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699486/memory-usage-accumulates-in-simple-loop-until-pc-crashes"
+    },
+    {
+      "Created": "2025-07-12T18:40:57Z",
+      "Title": "Google Compute Engine -- how to duplicate non-system disk from snapshot and mount on cloned system disk (ubuntu)",
+      "Tags": [
+        "google-compute-engine",
+        "clone",
+        "disk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699495/google-compute-engine-how-to-duplicate-non-system-disk-from-snapshot-and-moun"
+    },
+    {
+      "Created": "2025-07-12T18:43:28Z",
+      "Title": "How to properly include SQLite3 with an Electron, Electron Forge, Sequelizer set-up?",
+      "Tags": [
+        "build",
+        "electron",
+        "sequelize.js",
+        "electron-forge",
+        "node-sqlite3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699496/how-to-properly-include-sqlite3-with-an-electron-electron-forge-sequelizer-set"
+    },
+    {
+      "Created": "2025-07-12T18:56:13Z",
+      "Title": "Why does CTAD deduce S\u003Cconst char*\u003E (not S\u003Cchar\u003E) and allow auto s2 = S{\u0022hi\u0022};?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "aggregate-initialization",
+        "ctad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699500/why-does-ctad-deduce-sconst-char-not-schar-and-allow-auto-s2-shi"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-12T10:04:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T09:13:25Z",
+      "Title": "Latex merge vertical spacing",
+      "Tags": [
+        "latex",
+        "spacing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699139/latex-merge-vertical-spacing"
+    },
+    {
+      "Created": "2025-07-12T09:18:30Z",
+      "Title": "Refactoring minimal WebApplication pattern into classic full Program.cs with Main",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "asp.net-web-api",
+        "web-applications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699143/refactoring-minimal-webapplication-pattern-into-classic-full-program-cs-with-mai"
+    },
+    {
+      "Created": "2025-07-12T09:43:25Z",
+      "Title": "Decoding a Secret Message [closed]",
+      "Tags": [
+        "python",
+        "google-docs",
+        "decoder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699165/decoding-a-secret-message"
+    },
+    {
+      "Created": "2025-07-12T09:44:47Z",
+      "Title": "TypeOrm - Dynamic Where Clause",
+      "Tags": [
+        "typeorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699167/typeorm-dynamic-where-clause"
+    },
+    {
+      "Created": "2025-07-12T10:04:05Z",
+      "Title": "Type Checking in Vite/React Project: Why do I need tsc when tsserver is already working?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699180/type-checking-in-vite-react-project-why-do-i-need-tsc-when-tsserver-is-already"
+    }
+  ]
+}

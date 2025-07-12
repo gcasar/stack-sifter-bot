@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-12T00:20:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-11T23:32:23Z",
+      "Title": "What is wrong with my reading of command line arguments? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "command-line-arguments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698914/what-is-wrong-with-my-reading-of-command-line-arguments"
+    },
+    {
+      "Created": "2025-07-11T23:48:55Z",
+      "Title": "Dynamic Selection-Screen Parameter",
+      "Tags": [
+        "abap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698920/dynamic-selection-screen-parameter"
+    },
+    {
+      "Created": "2025-07-11T23:58:09Z",
+      "Title": "Need a Batch script to rename files",
+      "Tags": [
+        "windows",
+        "batch-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698922/need-a-batch-script-to-rename-files"
+    },
+    {
+      "Created": "2025-07-12T00:16:40Z",
+      "Title": "Deck.gl SolidPolygonLayer shader injection to offset extruded polygons",
+      "Tags": [
+        "javascript",
+        "webgl",
+        "deck.gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698926/deck-gl-solidpolygonlayer-shader-injection-to-offset-extruded-polygons"
+    },
+    {
+      "Created": "2025-07-12T00:20:46Z",
+      "Title": "how to get the id from url using playwright",
+      "Tags": [
+        "playwright",
+        "playwright-typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79698928/how-to-get-the-id-from-url-using-playwright"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-12T21:00:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T20:15:04Z",
+      "Title": "Why does UEFI GetMemoryMap return EFI_BUFFER_TOO_SMALL after allocating a buffer of the reported size?",
+      "Tags": [
+        "operating-system",
+        "bootloader",
+        "osdev",
+        "uefi",
+        "zig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699558/why-does-uefi-getmemorymap-return-efi-buffer-too-small-after-allocating-a-buffer"
+    },
+    {
+      "Created": "2025-07-12T20:19:18Z",
+      "Title": "I am attempting to bind a WPF TreeViewItem to a TreeView and I\u0027m getting an empty TreeView and two binding failures",
+      "Tags": [
+        "c#",
+        "wpf",
+        "treeview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699560/i-am-attempting-to-bind-a-wpf-treeviewitem-to-a-treeview-and-im-getting-an-empt"
+    },
+    {
+      "Created": "2025-07-12T20:36:17Z",
+      "Title": "Deploy command from msbuild for a wapproj file",
+      "Tags": [
+        "visual-studio",
+        "msbuild",
+        "msix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699571/deploy-command-from-msbuild-for-a-wapproj-file"
+    },
+    {
+      "Created": "2025-07-12T20:36:59Z",
+      "Title": "git clone in new dockerfile clones old version of repo",
+      "Tags": [
+        "git",
+        "docker",
+        "caching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699572/git-clone-in-new-dockerfile-clones-old-version-of-repo"
+    },
+    {
+      "Created": "2025-07-12T20:39:34Z",
+      "Title": "IRRemote and FreeRtos code for Esp32 runs with Arduino IDE but not fully with Platformio",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "esp32",
+        "arduino-ide",
+        "platformio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699574/irremote-and-freertos-code-for-esp32-runs-with-arduino-ide-but-not-fully-with-pl"
+    },
+    {
+      "Created": "2025-07-12T20:48:50Z",
+      "Title": "Writing a Von Neumann Ordinal generator in C : Problem with malloc",
+      "Tags": [
+        "c",
+        "set",
+        "malloc",
+        "free",
+        "von-neumann"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699579/writing-a-von-neumann-ordinal-generator-in-c-problem-with-malloc"
+    },
+    {
+      "Created": "2025-07-12T21:00:05Z",
+      "Title": "How to set a maximum range on a variable in Python",
+      "Tags": [
+        "python",
+        "range"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699580/how-to-set-a-maximum-range-on-a-variable-in-python"
+    }
+  ]
+}

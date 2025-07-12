@@ -1,0 +1,99 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-12T12:09:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T11:18:31Z",
+      "Title": "Is the finish awaited process executed using multi thread or interrupt function in this scenario",
+      "Tags": [
+        "c#",
+        "asynchronous",
+        "async-await"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699227/is-the-finish-awaited-process-executed-using-multi-thread-or-interrupt-function"
+    },
+    {
+      "Created": "2025-07-12T11:36:34Z",
+      "Title": "Django cannot create record with correct foreign key to CharField with spaces in middle - getting surrounded by single and double quotes like \u0022\u0027a a\u0027\u0022",
+      "Tags": [
+        "django",
+        "django-models"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699235/django-cannot-create-record-with-correct-foreign-key-to-charfield-with-spaces-in"
+    },
+    {
+      "Created": "2025-07-12T11:38:53Z",
+      "Title": "How to properly remove outliers in sensor data?",
+      "Tags": [
+        "python",
+        "numpy",
+        "data-cleaning",
+        "outliers",
+        "data-preprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699237/how-to-properly-remove-outliers-in-sensor-data"
+    },
+    {
+      "Created": "2025-07-12T11:44:57Z",
+      "Title": "VS Code Python extension injects incorrect start up script oh-my-posh variables with shell integration",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "git-bash",
+        "python-poetry",
+        "oh-my-posh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699240/vs-code-python-extension-injects-incorrect-start-up-script-oh-my-posh-variables"
+    },
+    {
+      "Created": "2025-07-12T11:47:53Z",
+      "Title": "Why WebTransport cannot connect to my server?",
+      "Tags": [
+        "javascript",
+        "openssl",
+        "ssl-certificate",
+        "deno",
+        "quic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699241/why-webtransport-cannot-connect-to-my-server"
+    },
+    {
+      "Created": "2025-07-12T12:02:05Z",
+      "Title": "using for loop to render image in background image",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699248/using-for-loop-to-render-image-in-background-image"
+    },
+    {
+      "Created": "2025-07-12T12:02:41Z",
+      "Title": "Advantages in using different ports in networking",
+      "Tags": [
+        "network-programming",
+        "websocket",
+        "port"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699249/advantages-in-using-different-ports-in-networking"
+    },
+    {
+      "Created": "2025-07-12T12:03:37Z",
+      "Title": "Looking for an example of Payload 3.47 running without NextJS, if that\u0027s standard, or to know if it\u0027s non-standard",
+      "Tags": [
+        "next.js",
+        "payload-cms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699250/looking-for-an-example-of-payload-3-47-running-without-nextjs-if-thats-standar"
+    },
+    {
+      "Created": "2025-07-12T12:09:47Z",
+      "Title": "Radio Buttons are not working when inside a SplitContainer",
+      "Tags": [
+        "winforms",
+        "radio-button"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699252/radio-buttons-are-not-working-when-inside-a-splitcontainer"
+    }
+  ]
+}

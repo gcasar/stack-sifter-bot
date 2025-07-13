@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-13T12:58:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T12:27:57Z",
+      "Title": "Rotary Encoder Controller C\u002B\u002B - how would you do it?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "udp",
+        "juce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699956/rotary-encoder-controller-c-how-would-you-do-it"
+    },
+    {
+      "Created": "2025-07-13T12:58:07Z",
+      "Title": "String to PHP procedure",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699971/string-to-php-procedure"
+    }
+  ]
+}

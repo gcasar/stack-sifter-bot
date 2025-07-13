@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-13T15:54:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T15:26:18Z",
+      "Title": "How to create a single Prisma instance in Next.js development env?",
+      "Tags": [
+        "node.js",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700060/how-to-create-a-single-prisma-instance-in-next-js-development-env"
+    },
+    {
+      "Created": "2025-07-13T15:30:39Z",
+      "Title": "Supabase single device session enforcement logs out user on page refresh",
+      "Tags": [
+        "reactjs",
+        "supabase",
+        "supabase-database",
+        "supabase-js",
+        "supabase-realtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700063/supabase-single-device-session-enforcement-logs-out-user-on-page-refresh"
+    },
+    {
+      "Created": "2025-07-13T15:31:58Z",
+      "Title": "Streaming protected video not worked in nginx with asp.net",
+      "Tags": [
+        "asp.net-core",
+        "nginx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700064/streaming-protected-video-not-worked-in-nginx-with-asp-net"
+    },
+    {
+      "Created": "2025-07-13T15:36:30Z",
+      "Title": "Find every div.class in DOM and add certain CSS classes to children with JavaScript",
+      "Tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700066/find-every-div-class-in-dom-and-add-certain-css-classes-to-children-with-javascr"
+    },
+    {
+      "Created": "2025-07-13T15:46:07Z",
+      "Title": "countback from date is negative, how to make numbers positive?",
+      "Tags": [
+        "javascript",
+        "countdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700072/countback-from-date-is-negative-how-to-make-numbers-positive"
+    },
+    {
+      "Created": "2025-07-13T15:53:04Z",
+      "Title": "javac 21 Xlint in Maven not showing warnings for missing serial version ID",
+      "Tags": [
+        "java",
+        "maven",
+        "javac"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700076/javac-21-xlint-in-maven-not-showing-warnings-for-missing-serial-version-id"
+    },
+    {
+      "Created": "2025-07-13T15:54:47Z",
+      "Title": "Why does Google Drive API return a 403 \u0060storageQuotaExceeded\u0060 error for new Service Accounts, even with 0-byte operations?",
+      "Tags": [
+        "python",
+        "google-cloud-platform",
+        "google-drive-api",
+        "http-status-code-403"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700077/why-does-google-drive-api-return-a-403-storagequotaexceeded-error-for-new-serv"
+    }
+  ]
+}

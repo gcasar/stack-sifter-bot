@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-13T02:22:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T02:01:53Z",
+      "Title": "How do I use the jQuery each function?",
+      "Tags": [
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699691/how-do-i-use-the-jquery-each-function"
+    },
+    {
+      "Created": "2025-07-13T02:05:33Z",
+      "Title": "Laggy Android Studio revisited",
+      "Tags": [
+        "linux",
+        "android-studio",
+        "lag",
+        "glx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699692/laggy-android-studio-revisited"
+    },
+    {
+      "Created": "2025-07-13T02:06:40Z",
+      "Title": "Multi-Login Issues While Integrating WordPress LMS with Next.js",
+      "Tags": [
+        "wordpress",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699693/multi-login-issues-while-integrating-wordpress-lms-with-next-js"
+    },
+    {
+      "Created": "2025-07-13T02:09:59Z",
+      "Title": "CDK Java Lambda \u201CBundling did not produce any output\u201D",
+      "Tags": [
+        "java",
+        "docker",
+        "gradle",
+        "lambda",
+        "aws-cdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699695/cdk-java-lambda-bundling-did-not-produce-any-output"
+    },
+    {
+      "Created": "2025-07-13T02:11:54Z",
+      "Title": "nginx showing \u0022permission denied\u0022 even though that user owns the files",
+      "Tags": [
+        "ubuntu",
+        "nginx",
+        "server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699696/nginx-showing-permission-denied-even-though-that-user-owns-the-files"
+    },
+    {
+      "Created": "2025-07-13T02:13:34Z",
+      "Title": "how do i install TailwindCSS v4 on Electron-Vite?",
+      "Tags": [
+        "next.js",
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699697/how-do-i-install-tailwindcss-v4-on-electron-vite"
+    },
+    {
+      "Created": "2025-07-13T02:17:51Z",
+      "Title": "Noob Seeking Front-End Resources [closed]",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "reactjs",
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699701/noob-seeking-front-end-resources"
+    },
+    {
+      "Created": "2025-07-13T02:22:35Z",
+      "Title": "How to receive an array of objects (with IFormFile) using [FromForm] in ASP.NET Core Web API?",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "controller",
+        "swagger",
+        "multipartform-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699703/how-to-receive-an-array-of-objects-with-iformfile-using-fromform-in-asp-net"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-13T21:38:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T21:38:44Z",
+      "Title": "How do you get fwrite to work correctly it currently has spaces in the file",
+      "Tags": [
+        "c\u002B\u002B",
+        "fwrite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700268/how-do-you-get-fwrite-to-work-correctly-it-currently-has-spaces-in-the-file"
+    }
+  ]
+}

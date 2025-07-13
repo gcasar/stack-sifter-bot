@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-13T04:40:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T04:40:22Z",
+      "Title": "Explain mcp resource end to end workflow",
+      "Tags": [
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699731/explain-mcp-resource-end-to-end-workflow"
+    },
+    {
+      "Created": "2025-07-13T04:40:41Z",
+      "Title": "Apply custom function to each row of a data.table and add result to the data.table",
+      "Tags": [
+        "r",
+        "data.table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699732/apply-custom-function-to-each-row-of-a-data-table-and-add-result-to-the-data-tab"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-13T14:56:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T14:23:15Z",
+      "Title": "Query inside a stored procedure does not return any rows but the same query in SSMS returns rows",
+      "Tags": [
+        "sql-server",
+        "stored-procedures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700022/query-inside-a-stored-procedure-does-not-return-any-rows-but-the-same-query-in-s"
+    },
+    {
+      "Created": "2025-07-13T14:44:39Z",
+      "Title": "when trying to connect to local MongoDB Server with nodeJS",
+      "Tags": [
+        "node.js",
+        "mongodb",
+        "database-connection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700036/when-trying-to-connect-to-local-mongodb-server-with-nodejs"
+    },
+    {
+      "Created": "2025-07-13T14:46:31Z",
+      "Title": "calico isn\u0027t establishing connection between nodes correctly",
+      "Tags": [
+        "kubernetes",
+        "dns",
+        "istio",
+        "calico-project"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700037/calico-isnt-establishing-connection-between-nodes-correctly"
+    },
+    {
+      "Created": "2025-07-13T14:47:03Z",
+      "Title": "translate-y-full makes a slide up animation completely stop working?",
+      "Tags": [
+        "css",
+        "reactjs",
+        "tailwind-css",
+        "jsx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700038/translate-y-full-makes-a-slide-up-animation-completely-stop-working"
+    },
+    {
+      "Created": "2025-07-13T14:49:12Z",
+      "Title": "Performing Union Operation using Inkscape Extension on 3 Groups But Weird Result",
+      "Tags": [
+        "python",
+        "inkscape"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700040/performing-union-operation-using-inkscape-extension-on-3-groups-but-weird-result"
+    },
+    {
+      "Created": "2025-07-13T14:56:28Z",
+      "Title": "Segfault when calling OpenGL functions from other file",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "openglcontext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700045/segfault-when-calling-opengl-functions-from-other-file"
+    }
+  ]
+}

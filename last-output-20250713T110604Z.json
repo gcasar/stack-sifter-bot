@@ -1,0 +1,113 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-13T10:49:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T10:06:35Z",
+      "Title": "Iterating through a $_SERVER[\u0027DOCUMENT_ROOT\u0027] path, and echoing out in HTML",
+      "Tags": [
+        "php",
+        "file",
+        "path",
+        "directory",
+        "filenames"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699878/iterating-through-a-serverdocument-root-path-and-echoing-out-in-html"
+    },
+    {
+      "Created": "2025-07-13T10:22:29Z",
+      "Title": "So I wanted to print Hello world in c\u002B\u002B but got so many different mistakes with include path, how can I possibly fix them? [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "compiler-errors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699887/so-i-wanted-to-print-hello-world-in-c-but-got-so-many-different-mistakes-with"
+    },
+    {
+      "Created": "2025-07-13T10:26:11Z",
+      "Title": "Cannot import \u0060readConfiguration\u0060 from \u0060@angular/compiler-cli\u0060 in a pnpm with nx monorepo",
+      "Tags": [
+        "nrwl-nx",
+        "pnpm",
+        "pnpm-workspace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699889/cannot-import-readconfiguration-from-angular-compiler-cli-in-a-pnpm-with-nx"
+    },
+    {
+      "Created": "2025-07-13T10:26:24Z",
+      "Title": "Spring WebSocket: How to reject group message but still send error to /queue/errors/{userId}?",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "websocket",
+        "spring-websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699890/spring-websocket-how-to-reject-group-message-but-still-send-error-to-queue-err"
+    },
+    {
+      "Created": "2025-07-13T10:34:14Z",
+      "Title": "how does the single-global order in std::memory_order_seq_cst work?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "c\u002B\u002B11",
+        "c\u002B\u002B20",
+        "memory-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699895/how-does-the-single-global-order-in-stdmemory-order-seq-cst-work"
+    },
+    {
+      "Created": "2025-07-13T10:36:29Z",
+      "Title": "How to uv add git repo with subpackages",
+      "Tags": [
+        "python",
+        "python-packaging",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699897/how-to-uv-add-git-repo-with-subpackages"
+    },
+    {
+      "Created": "2025-07-13T10:45:13Z",
+      "Title": "Pydantic field_validator with FastAPI",
+      "Tags": [
+        "fastapi",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699900/pydantic-field-validator-with-fastapi"
+    },
+    {
+      "Created": "2025-07-13T10:46:10Z",
+      "Title": "Trying to render custom map tiles over an open street map as base",
+      "Tags": [
+        "openstreetmap",
+        "openmaptiles",
+        "osm.pbf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699901/trying-to-render-custom-map-tiles-over-an-open-street-map-as-base"
+    },
+    {
+      "Created": "2025-07-13T10:46:23Z",
+      "Title": "Gateways design in a react native app with TDD approch and clean architecture principles",
+      "Tags": [
+        "react-native",
+        "oop",
+        "tdd",
+        "clean-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699902/gateways-design-in-a-react-native-app-with-tdd-approch-and-clean-architecture-pr"
+    },
+    {
+      "Created": "2025-07-13T10:49:29Z",
+      "Title": "Matrix Multiply with Vector and Tensor in Python",
+      "Tags": [
+        "python",
+        "vector",
+        "linear-algebra",
+        "matrix-multiplication",
+        "tensor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699906/matrix-multiply-with-vector-and-tensor-in-python"
+    }
+  ]
+}

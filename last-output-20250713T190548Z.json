@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-13T18:58:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T18:31:28Z",
+      "Title": "How to Create Plotly Choropleth Plot of Metropolitan Statistical Areas(MSA)",
+      "Tags": [
+        "python",
+        "plotly",
+        "visualization",
+        "geojson",
+        "plotly-express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700175/how-to-create-plotly-choropleth-plot-of-metropolitan-statistical-areasmsa"
+    },
+    {
+      "Created": "2025-07-13T18:52:39Z",
+      "Title": "RhinoCommon C#: Render command is not executing in plugin",
+      "Tags": [
+        "c#",
+        "render",
+        "rhino-commons",
+        "rhinoceros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700179/rhinocommon-c-render-command-is-not-executing-in-plugin"
+    },
+    {
+      "Created": "2025-07-13T18:54:50Z",
+      "Title": "Should I count the head in a linked list as an index?",
+      "Tags": [
+        "javascript",
+        "indexing",
+        "data-structures",
+        "linked-list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700181/should-i-count-the-head-in-a-linked-list-as-an-index"
+    },
+    {
+      "Created": "2025-07-13T18:58:21Z",
+      "Title": "VirtualBox Port forwarding when using Nat Network",
+      "Tags": [
+        "virtualbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700183/virtualbox-port-forwarding-when-using-nat-network"
+    }
+  ]
+}

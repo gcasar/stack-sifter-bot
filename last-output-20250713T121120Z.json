@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-13T11:54:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T11:39:24Z",
+      "Title": "Spring WebSocket STOMP: convertAndSendToUser() not delivering private messages",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "websocket",
+        "spring-websocket",
+        "java-websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699927/spring-websocket-stomp-convertandsendtouser-not-delivering-private-messages"
+    },
+    {
+      "Created": "2025-07-13T11:40:05Z",
+      "Title": "Flutter BottomNavigationBar with custom GlassNavbar: Rounded corners not visible despite ClipRRect",
+      "Tags": [
+        "flutter",
+        "flutter-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699928/flutter-bottomnavigationbar-with-custom-glassnavbar-rounded-corners-not-visible"
+    },
+    {
+      "Created": "2025-07-13T11:43:54Z",
+      "Title": "Why is the PostgreSQL concat_ws function not immutable?",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699931/why-is-the-postgresql-concat-ws-function-not-immutable"
+    },
+    {
+      "Created": "2025-07-13T11:53:46Z",
+      "Title": "How to Track Full Update History of TPT Entities in EF Core with MySQL",
+      "Tags": [
+        "c#",
+        "mysql",
+        ".net",
+        "entity-framework",
+        "polymorphism"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699937/how-to-track-full-update-history-of-tpt-entities-in-ef-core-with-mysql"
+    },
+    {
+      "Created": "2025-07-13T11:54:13Z",
+      "Title": "Kafka load test on Gatling",
+      "Tags": [
+        "java",
+        "apache-kafka",
+        "gatling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699939/kafka-load-test-on-gatling"
+    }
+  ]
+}

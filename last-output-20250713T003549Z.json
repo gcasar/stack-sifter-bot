@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-13T00:21:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-12T23:21:05Z",
+      "Title": "Using std::move with Constructor(Type t) or Constructor(Type\u0026\u0026 t). What\u0027s the difference?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11",
+        "memory-management",
+        "std",
+        "move-semantics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699652/using-stdmove-with-constructortype-t-or-constructortype-t-whats-the-di"
+    },
+    {
+      "Created": "2025-07-12T23:57:37Z",
+      "Title": "Erro \u0022Deadline expired before operation could complete\u0022 ao sintetizar com Text\u2011to\u2011Speech API (ID: 862168600830531013) [closed]",
+      "Tags": [
+        "google-text-to-speech"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699667/erro-deadline-expired-before-operation-could-complete-ao-sintetizar-com-text-t"
+    },
+    {
+      "Created": "2025-07-13T00:16:22Z",
+      "Title": "Spring boot: Jackson won\u0027t parse concrete type",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "serialization",
+        "jackson",
+        "jackson2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699671/spring-boot-jackson-wont-parse-concrete-type"
+    },
+    {
+      "Created": "2025-07-13T00:21:10Z",
+      "Title": "Why does .readSource() get a List\u003CString\u003E and not a String?",
+      "Tags": [
+        "java",
+        "string",
+        "intellij-idea",
+        "shader",
+        "minecraft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699674/why-does-readsource-get-a-liststring-and-not-a-string"
+    }
+  ]
+}

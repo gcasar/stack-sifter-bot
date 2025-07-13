@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-13T07:04:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T06:43:06Z",
+      "Title": "Why is my Cordova Android Plugin not visible in JavaScript?",
+      "Tags": [
+        "android",
+        "capacitor",
+        "capacitor-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699777/why-is-my-cordova-android-plugin-not-visible-in-javascript"
+    },
+    {
+      "Created": "2025-07-13T06:49:32Z",
+      "Title": "Calculating latitude and longitude from a single GNSS constellation",
+      "Tags": [
+        "android",
+        "google-maps",
+        "geolocation",
+        "gps",
+        "galileo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699782/calculating-latitude-and-longitude-from-a-single-gnss-constellation"
+    },
+    {
+      "Created": "2025-07-13T06:56:09Z",
+      "Title": "How to search with multiple keywords in Google Maps search for places",
+      "Tags": [
+        "google-maps",
+        "search",
+        "google-places-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699784/how-to-search-with-multiple-keywords-in-google-maps-search-for-places"
+    },
+    {
+      "Created": "2025-07-13T06:59:02Z",
+      "Title": "How is Next.js beneficial if most of my components require client-side rendering?",
+      "Tags": [
+        "next.js",
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699786/how-is-next-js-beneficial-if-most-of-my-components-require-client-side-rendering"
+    },
+    {
+      "Created": "2025-07-13T06:59:06Z",
+      "Title": "Comparing for loops vs spread and concat for merging arrays in JavaScript \u2014 performance and best practices?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "performance",
+        "for-loop",
+        "ecmascript-6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699787/comparing-for-loops-vs-spread-and-concat-for-merging-arrays-in-javascript-perf"
+    },
+    {
+      "Created": "2025-07-13T07:04:34Z",
+      "Title": "Mismatched Types in Oxcaml Tutorial",
+      "Tags": [
+        "ocaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699790/mismatched-types-in-oxcaml-tutorial"
+    },
+    {
+      "Created": "2025-07-13T07:04:51Z",
+      "Title": "cache coherency semantics in latest intel processors",
+      "Tags": [
+        "caching",
+        "x86-64",
+        "intel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699791/cache-coherency-semantics-in-latest-intel-processors"
+    }
+  ]
+}

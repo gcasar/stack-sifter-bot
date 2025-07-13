@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-13T14:04:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T13:33:47Z",
+      "Title": "New-AzVM throws \u0027ParameterBindingValidationException: Cannot validate argument on parameter VM\u0027 due to null VM config",
+      "Tags": [
+        "azure",
+        "powershell",
+        "azure-virtual-machine",
+        "azure-runbook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699993/new-azvm-throws-parameterbindingvalidationexception-cannot-validate-argument-o"
+    },
+    {
+      "Created": "2025-07-13T13:43:26Z",
+      "Title": "I\u2019m working on a Selenium automation project using Python. Whenever I run Chrome , my system freezes. (using windows 11)",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "crash",
+        "window"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700001/i-m-working-on-a-selenium-automation-project-using-python-whenever-i-run-chrome"
+    },
+    {
+      "Created": "2025-07-13T13:51:42Z",
+      "Title": "Detect Http Basic Authentication in Playwright",
+      "Tags": [
+        "automation",
+        "playwright",
+        "basic-authentication",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700003/detect-http-basic-authentication-in-playwright"
+    },
+    {
+      "Created": "2025-07-13T13:58:08Z",
+      "Title": "How can I build a chatbot that answers questions only based on hundreds of large PDF files?",
+      "Tags": [
+        "chatbot",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700006/how-can-i-build-a-chatbot-that-answers-questions-only-based-on-hundreds-of-large"
+    },
+    {
+      "Created": "2025-07-13T14:00:24Z",
+      "Title": "Ternary operator in Prisma WHERE statement",
+      "Tags": [
+        "javascript",
+        "prisma",
+        "conditional-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700007/ternary-operator-in-prisma-where-statement"
+    },
+    {
+      "Created": "2025-07-13T14:04:25Z",
+      "Title": "How to make a Discord bot command that allows a user to perform an action with another user?",
+      "Tags": [
+        "javascript",
+        "discord",
+        "discord.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700012/how-to-make-a-discord-bot-command-that-allows-a-user-to-perform-an-action-with-a"
+    }
+  ]
+}

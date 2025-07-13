@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-13T07:57:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T07:37:04Z",
+      "Title": "Why isn\u0027t the lifetime of RefMut over at the end of if let statement?",
+      "Tags": [
+        "rust",
+        "lifetime",
+        "ownership"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699807/why-isnt-the-lifetime-of-refmut-over-at-the-end-of-if-let-statement"
+    },
+    {
+      "Created": "2025-07-13T07:40:17Z",
+      "Title": "How to make the return value of the opencv camera calibration function less than 1?",
+      "Tags": [
+        "qt",
+        "opencv",
+        "c\u002B\u002B17",
+        "camera-calibration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699809/how-to-make-the-return-value-of-the-opencv-camera-calibration-function-less-than"
+    },
+    {
+      "Created": "2025-07-13T07:57:58Z",
+      "Title": "Windows getting freeze while running python script",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "redis",
+        "fastapi",
+        "uvicorn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699820/windows-getting-freeze-while-running-python-script"
+    }
+  ]
+}

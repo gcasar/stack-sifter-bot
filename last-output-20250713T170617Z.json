@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-13T17:03:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T16:41:07Z",
+      "Title": "ksqlDB returns NULL for nested ARRAY fields in AVRO schema despite valid data in topic",
+      "Tags": [
+        "apache-kafka",
+        "apache-kafka-streams",
+        "ksqldb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700109/ksqldb-returns-null-for-nested-array-fields-in-avro-schema-despite-valid-data-in"
+    },
+    {
+      "Created": "2025-07-13T17:03:18Z",
+      "Title": "How do I add the right amount of padding for my turtle function?",
+      "Tags": [
+        "python",
+        "turtle-graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700123/how-do-i-add-the-right-amount-of-padding-for-my-turtle-function"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-13T08:33:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T08:16:33Z",
+      "Title": "Spring Boot requestMatchers permitAll always return 403",
+      "Tags": [
+        "java",
+        "spring",
+        "security",
+        "boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699832/spring-boot-requestmatchers-permitall-always-return-403"
+    },
+    {
+      "Created": "2025-07-13T08:21:02Z",
+      "Title": "Apple Wallet Pass registration",
+      "Tags": [
+        "ios",
+        "nestjs",
+        "apple-wallet",
+        "pkpass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699833/apple-wallet-pass-registration"
+    },
+    {
+      "Created": "2025-07-13T08:22:02Z",
+      "Title": "Open external local web app from Tauri v2",
+      "Tags": [
+        "tauri",
+        "tauri-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699834/open-external-local-web-app-from-tauri-v2"
+    },
+    {
+      "Created": "2025-07-13T08:33:13Z",
+      "Title": "VSCode devcontainer and UV",
+      "Tags": [
+        "python",
+        "docker",
+        "vscode-devcontainer",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79699841/vscode-devcontainer-and-uv"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-13T23:04:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T22:34:47Z",
+      "Title": "python typing from a json get operation",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700288/python-typing-from-a-json-get-operation"
+    },
+    {
+      "Created": "2025-07-13T22:50:50Z",
+      "Title": "Repeat a function for all selected cells in a range",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700294/repeat-a-function-for-all-selected-cells-in-a-range"
+    },
+    {
+      "Created": "2025-07-13T22:53:48Z",
+      "Title": "Photoshop JavaScript Script Issues",
+      "Tags": [
+        "javascript",
+        "image-processing",
+        "automation",
+        "scripting",
+        "photoshop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700295/photoshop-javascript-script-issues"
+    },
+    {
+      "Created": "2025-07-13T23:03:08Z",
+      "Title": "How to change the font, size and color of texts inside a Tabset in Quarto",
+      "Tags": [
+        "css",
+        "r",
+        "rstudio",
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700300/how-to-change-the-font-size-and-color-of-texts-inside-a-tabset-in-quarto"
+    },
+    {
+      "Created": "2025-07-13T23:04:33Z",
+      "Title": "Parameterizing an entire Pytest session",
+      "Tags": [
+        "python",
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700302/parameterizing-an-entire-pytest-session"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-14T15:02:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T14:27:13Z",
+      "Title": "Oracle 11g adding a column with default value incorrectly fills a different column",
+      "Tags": [
+        "sql",
+        "oracle11g",
+        "oracle-sqldeveloper",
+        "default-value",
+        "alter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701027/oracle-11g-adding-a-column-with-default-value-incorrectly-fills-a-different-colu"
+    },
+    {
+      "Created": "2025-07-14T14:29:27Z",
+      "Title": "Why UnsafeMutablePointer is deallocated after first read from buffer?",
+      "Tags": [
+        "swift",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701030/why-unsafemutablepointer-is-deallocated-after-first-read-from-buffer"
+    },
+    {
+      "Created": "2025-07-14T14:41:54Z",
+      "Title": "Make type checker understand that class and instance attributes share names but have diffent types dynamically",
+      "Tags": [
+        "python",
+        "generics",
+        "python-typing",
+        "class-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701038/make-type-checker-understand-that-class-and-instance-attributes-share-names-but"
+    },
+    {
+      "Created": "2025-07-14T14:45:30Z",
+      "Title": "How to handle sorting, filtering and pagination in the same ListView",
+      "Tags": [
+        "django",
+        "sorting",
+        "listview",
+        "filter",
+        "pagination"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701044/how-to-handle-sorting-filtering-and-pagination-in-the-same-listview"
+    },
+    {
+      "Created": "2025-07-14T14:47:32Z",
+      "Title": "How to create a function for grouping time values and dataframes by a specific time interval?",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701046/how-to-create-a-function-for-grouping-time-values-and-dataframes-by-a-specific-t"
+    },
+    {
+      "Created": "2025-07-14T14:52:03Z",
+      "Title": "chartjs dynamically increase line sizing",
+      "Tags": [
+        "javascript",
+        "chart.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701053/chartjs-dynamically-increase-line-sizing"
+    },
+    {
+      "Created": "2025-07-14T14:57:13Z",
+      "Title": "Cassandra dedicated DC for emitting cluster CDC logs",
+      "Tags": [
+        "cassandra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701055/cassandra-dedicated-dc-for-emitting-cluster-cdc-logs"
+    },
+    {
+      "Created": "2025-07-14T14:57:14Z",
+      "Title": "DFM Statsmodels contemporaneus effects",
+      "Tags": [
+        "python",
+        "statsmodels",
+        "dfm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701056/dfm-statsmodels-contemporaneus-effects"
+    },
+    {
+      "Created": "2025-07-14T14:58:07Z",
+      "Title": "Why does StoreKit not mark my transaction as finished?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "storekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701058/why-does-storekit-not-mark-my-transaction-as-finished"
+    },
+    {
+      "Created": "2025-07-14T15:02:27Z",
+      "Title": "Getting a cors error when sending a request to the backend api. (TSX Frontend) (JS Backend)",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "fetch-api",
+        "render.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701061/getting-a-cors-error-when-sending-a-request-to-the-backend-api-tsx-frontend"
+    }
+  ]
+}

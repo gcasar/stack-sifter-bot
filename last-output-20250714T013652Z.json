@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-14T01:30:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T00:28:13Z",
+      "Title": "RendezvousTimeoutError when using torchrun",
+      "Tags": [
+        "machine-learning",
+        "pytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700340/rendezvoustimeouterror-when-using-torchrun"
+    },
+    {
+      "Created": "2025-07-14T00:46:07Z",
+      "Title": "How can one handle long-running SynthDefs when live-coding?",
+      "Tags": [
+        "supercollider",
+        "livecoding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700346/how-can-one-handle-long-running-synthdefs-when-live-coding"
+    },
+    {
+      "Created": "2025-07-14T00:48:44Z",
+      "Title": "How can I update purrr package within Tidyverse?",
+      "Tags": [
+        "r",
+        "tidyverse",
+        "purrr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700349/how-can-i-update-purrr-package-within-tidyverse"
+    },
+    {
+      "Created": "2025-07-14T00:56:59Z",
+      "Title": "Polars Rust Filtering on Group in Aggregate Window",
+      "Tags": [
+        "rust-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700350/polars-rust-filtering-on-group-in-aggregate-window"
+    },
+    {
+      "Created": "2025-07-14T01:23:33Z",
+      "Title": "Problem with Additional Header File Directories",
+      "Tags": [
+        "c\u002B\u002B",
+        "include",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700358/problem-with-additional-header-file-directories"
+    },
+    {
+      "Created": "2025-07-14T01:30:59Z",
+      "Title": "findChessboardCorners fails for thermal image",
+      "Tags": [
+        "python",
+        "opencv",
+        "computer-vision",
+        "camera-calibration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700363/findchessboardcorners-fails-for-thermal-image"
+    }
+  ]
+}

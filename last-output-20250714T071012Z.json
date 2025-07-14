@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-14T07:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T06:47:08Z",
+      "Title": "Why \u0060use client\u0060 is used to display the error.js in next.js? [closed]",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700511/why-use-client-is-used-to-display-the-error-js-in-next-js"
+    },
+    {
+      "Created": "2025-07-14T06:54:25Z",
+      "Title": "Why is the perft function for my chess engine giving two different outputs?",
+      "Tags": [
+        "c\u002B\u002B",
+        "chess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700517/why-is-the-perft-function-for-my-chess-engine-giving-two-different-outputs"
+    },
+    {
+      "Created": "2025-07-14T06:55:33Z",
+      "Title": "when i set card elevation there is an invisible rectangle drawn inside the card composable",
+      "Tags": [
+        "android-jetpack-compose",
+        "android-jetpack-compose-material3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700518/when-i-set-card-elevation-there-is-an-invisible-rectangle-drawn-inside-the-card"
+    },
+    {
+      "Created": "2025-07-14T06:59:50Z",
+      "Title": "How can I change a DomainProperty type to another DomainClass in Visual Studio DSL Designer?",
+      "Tags": [
+        "dsl",
+        "dsl-tools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700522/how-can-i-change-a-domainproperty-type-to-another-domainclass-in-visual-studio-d"
+    },
+    {
+      "Created": "2025-07-14T07:02:28Z",
+      "Title": "Robot framework- xpath - how to use translate() function",
+      "Tags": [
+        "xpath",
+        "frameworks",
+        "translate",
+        "ignore-case",
+        "robot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700525/robot-framework-xpath-how-to-use-translate-function"
+    }
+  ]
+}

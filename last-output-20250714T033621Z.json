@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-14T03:32:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T02:58:53Z",
+      "Title": "NoClassDefFoundError: org/apache/poi/logging/PoiLogManager",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "apache-poi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700395/noclassdeffounderror-org-apache-poi-logging-poilogmanager"
+    },
+    {
+      "Created": "2025-07-14T03:30:23Z",
+      "Title": "In java, does using \u0022new\u0022 multiple times in a loop causes performance issues?",
+      "Tags": [
+        "java",
+        "arrays",
+        "initialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700413/in-java-does-using-new-multiple-times-in-a-loop-causes-performance-issues"
+    },
+    {
+      "Created": "2025-07-14T03:32:57Z",
+      "Title": "Difference between RequestDelegate and Middleware in ASP.NET Core?",
+      "Tags": [
+        "asp.net-core",
+        "asp.net-core-webapi",
+        "middleware",
+        "asp.net-core-middleware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700415/difference-between-requestdelegate-and-middleware-in-asp-net-core"
+    }
+  ]
+}

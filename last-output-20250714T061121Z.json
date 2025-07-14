@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-14T06:02:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T05:59:44Z",
+      "Title": "How to resolve an undefined symbol from a weak symbol (W) in a dependent library in Bazel",
+      "Tags": [
+        "c\u002B\u002B",
+        "bazel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700481/how-to-resolve-an-undefined-symbol-from-a-weak-symbol-w-in-a-dependent-library"
+    },
+    {
+      "Created": "2025-07-14T06:02:25Z",
+      "Title": "Prometheus alert summary: variables not showing in firing alerts",
+      "Tags": [
+        "jinja2",
+        "promql",
+        "prometheus-alertmanager",
+        "victoriametrics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700485/prometheus-alert-summary-variables-not-showing-in-firing-alerts"
+    }
+  ]
+}

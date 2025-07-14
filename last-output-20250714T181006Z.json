@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-14T17:50:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T17:09:01Z",
+      "Title": "Compiler divergence, how to access nested class\u0027s private constructor? [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "design-patterns",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701183/compiler-divergence-how-to-access-nested-classs-private-constructor"
+    },
+    {
+      "Created": "2025-07-14T17:38:03Z",
+      "Title": "Drawing a vertical line in Gnuplot and adding a key/legend to it",
+      "Tags": [
+        "gnuplot",
+        "line",
+        "legend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701206/drawing-a-vertical-line-in-gnuplot-and-adding-a-key-legend-to-it"
+    },
+    {
+      "Created": "2025-07-14T17:39:41Z",
+      "Title": "How can I make these float wrapper functions cleaner/more efficient? [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "function",
+        "class",
+        "floating-point",
+        "operator-overloading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701209/how-can-i-make-these-float-wrapper-functions-cleaner-more-efficient"
+    },
+    {
+      "Created": "2025-07-14T17:45:22Z",
+      "Title": "Is this a bug in Rust crate \u0022bulletproofs\u0022?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701213/is-this-a-bug-in-rust-crate-bulletproofs"
+    },
+    {
+      "Created": "2025-07-14T17:49:25Z",
+      "Title": "Are import aliases possible using Typescript? - part 2",
+      "Tags": [
+        "reactjs",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701219/are-import-aliases-possible-using-typescript-part-2"
+    },
+    {
+      "Created": "2025-07-14T17:50:14Z",
+      "Title": "Why does my JWT-based session not auto-expire after 2 hours in a MERN HRMS project?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701221/why-does-my-jwt-based-session-not-auto-expire-after-2-hours-in-a-mern-hrms-proje"
+    }
+  ]
+}

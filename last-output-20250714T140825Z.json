@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-14T14:04:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T13:38:09Z",
+      "Title": "Get coupons code from email restiction using SQL Query",
+      "Tags": [
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700969/get-coupons-code-from-email-restiction-using-sql-query"
+    },
+    {
+      "Created": "2025-07-14T13:58:00Z",
+      "Title": "Getting devcontainers to work on Macs with Apple Silicon and Windows",
+      "Tags": [
+        "docker",
+        "visual-studio-code",
+        "apple-silicon",
+        "vscode-devcontainer",
+        "devcontainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700992/getting-devcontainers-to-work-on-macs-with-apple-silicon-and-windows"
+    },
+    {
+      "Created": "2025-07-14T14:00:27Z",
+      "Title": "Send big \u0060tokio::fs::File\u0060 as response body with hyper 1.0 (in a streaming fashion)",
+      "Tags": [
+        "asynchronous",
+        "rust",
+        "rust-tokio",
+        "hyper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700999/send-big-tokiofsfile-as-response-body-with-hyper-1-0-in-a-streaming-fashi"
+    },
+    {
+      "Created": "2025-07-14T14:01:01Z",
+      "Title": "MySQL: Soft Delete \u002B Unique Constraint",
+      "Tags": [
+        "mysql",
+        "unique-constraint",
+        "soft-delete"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701000/mysql-soft-delete-unique-constraint"
+    },
+    {
+      "Created": "2025-07-14T14:01:35Z",
+      "Title": "Context and client for multi MCP server",
+      "Tags": [
+        "artificial-intelligence",
+        "agent",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701002/context-and-client-for-multi-mcp-server"
+    },
+    {
+      "Created": "2025-07-14T14:02:04Z",
+      "Title": "Generating blue noise with values sampled from a log normal distribution",
+      "Tags": [
+        "numpy",
+        "scipy",
+        "signal-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701003/generating-blue-noise-with-values-sampled-from-a-log-normal-distribution"
+    },
+    {
+      "Created": "2025-07-14T14:04:02Z",
+      "Title": "Does Visual Studio Code still support firebase version 8.10.0?",
+      "Tags": [
+        "reactjs",
+        "firebase",
+        "react-native",
+        "visual-studio-code",
+        "asyncstorage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701005/does-visual-studio-code-still-support-firebase-version-8-10-0"
+    }
+  ]
+}

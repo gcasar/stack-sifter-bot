@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-14T10:02:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T09:16:08Z",
+      "Title": "Does there exist a reversed comma operator in C?",
+      "Tags": [
+        "c",
+        "comma-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700655/does-there-exist-a-reversed-comma-operator-in-c"
+    },
+    {
+      "Created": "2025-07-14T09:59:31Z",
+      "Title": "Performant storage of data with duplicate keys that also needs to be ordered by length",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700710/performant-storage-of-data-with-duplicate-keys-that-also-needs-to-be-ordered-by"
+    },
+    {
+      "Created": "2025-07-14T10:02:11Z",
+      "Title": "I was implementing an app for getting data from tally. i was able to get customer data like name, alias etc. but not able to get contact details",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "xml",
+        "electron",
+        "tally"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700713/i-was-implementing-an-app-for-getting-data-from-tally-i-was-able-to-get-custome"
+    }
+  ]
+}

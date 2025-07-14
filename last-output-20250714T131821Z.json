@@ -1,0 +1,105 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-14T13:15:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T12:14:20Z",
+      "Title": "Removing surrounding black borders from image using python",
+      "Tags": [
+        "python",
+        "image",
+        "border"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700857/removing-surrounding-black-borders-from-image-using-python"
+    },
+    {
+      "Created": "2025-07-14T12:34:43Z",
+      "Title": "Receiving an overload error when trying to set some props on a Grid component",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "material-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700886/receiving-an-overload-error-when-trying-to-set-some-props-on-a-grid-component"
+    },
+    {
+      "Created": "2025-07-14T12:57:12Z",
+      "Title": "Exception logging filter not catching JSON exceptions",
+      "Tags": [
+        "spring-boot",
+        "logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700906/exception-logging-filter-not-catching-json-exceptions"
+    },
+    {
+      "Created": "2025-07-14T13:01:05Z",
+      "Title": "Ktor Websocket chat Client needs to wait for authentication confirm message. MVVM best practices for Websocket client",
+      "Tags": [
+        "kotlin",
+        "mvvm",
+        "websocket",
+        "android-jetpack-compose",
+        "ktor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700913/ktor-websocket-chat-client-needs-to-wait-for-authentication-confirm-message-mvv"
+    },
+    {
+      "Created": "2025-07-14T13:07:41Z",
+      "Title": "How to reference an EC2 IP from Elastic Beanstalk",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-ec2",
+        "amazon-elastic-beanstalk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700926/how-to-reference-an-ec2-ip-from-elastic-beanstalk"
+    },
+    {
+      "Created": "2025-07-14T13:10:52Z",
+      "Title": "Look up values in multiple second dataframes",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700927/look-up-values-in-multiple-second-dataframes"
+    },
+    {
+      "Created": "2025-07-14T13:12:33Z",
+      "Title": "JasperReports table component hides entirely when no data, despite setting whenNoDataType=\u0022AllSectionsNoDetail\u0022 and \u003Cnodata\u003E",
+      "Tags": [
+        "java",
+        "xml",
+        "jaspersoft-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700929/jasperreports-table-component-hides-entirely-when-no-data-despite-setting-whenn"
+    },
+    {
+      "Created": "2025-07-14T13:13:18Z",
+      "Title": "I have generated Model from Database and post updating the NUGet Packages getting Error CS1503",
+      "Tags": [
+        "c#",
+        "asp.net-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700931/i-have-generated-model-from-database-and-post-updating-the-nuget-packages-gettin"
+    },
+    {
+      "Created": "2025-07-14T13:14:04Z",
+      "Title": ".NET Visa connection to instrument fails",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700933/net-visa-connection-to-instrument-fails"
+    },
+    {
+      "Created": "2025-07-14T13:15:32Z",
+      "Title": "Outlook Add-in Sideloading fails with AADSTS500200 on Personal Account \u0026 NoMailboxAndNoLicenseAssignedError on Org Account",
+      "Tags": [
+        "outlook",
+        "office365",
+        "office-js",
+        "outlook-addin",
+        "sideloading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700936/outlook-add-in-sideloading-fails-with-aadsts500200-on-personal-account-nomailb"
+    }
+  ]
+}

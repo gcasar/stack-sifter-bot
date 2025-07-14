@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-14T04:07:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T03:43:50Z",
+      "Title": "sympy mod on formulas with custom functions",
+      "Tags": [
+        "python",
+        "sympy",
+        "symbolic-math",
+        "largenumber"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700418/sympy-mod-on-formulas-with-custom-functions"
+    },
+    {
+      "Created": "2025-07-14T04:05:50Z",
+      "Title": "Pydantic does not validate dict values when assigning an unexpected type to dict values",
+      "Tags": [
+        "python",
+        "dictionary",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700424/pydantic-does-not-validate-dict-values-when-assigning-an-unexpected-type-to-dict"
+    },
+    {
+      "Created": "2025-07-14T04:07:43Z",
+      "Title": "Integrating Snowflake Streamlit App via Custom Domain for Seamless UI Embedding",
+      "Tags": [
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700425/integrating-snowflake-streamlit-app-via-custom-domain-for-seamless-ui-embedding"
+    }
+  ]
+}

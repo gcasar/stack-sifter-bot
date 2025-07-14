@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-14T08:58:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T08:15:05Z",
+      "Title": "C struct assignment by unnamed struct initialized by member-wise list, syntax candy or unintentional memory overhead?",
+      "Tags": [
+        "c",
+        "struct",
+        "rvalue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700593/c-struct-assignment-by-unnamed-struct-initialized-by-member-wise-list-syntax-ca"
+    },
+    {
+      "Created": "2025-07-14T08:54:29Z",
+      "Title": "Why are there different typeclass hierarchies?",
+      "Tags": [
+        "functional-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700631/why-are-there-different-typeclass-hierarchies"
+    },
+    {
+      "Created": "2025-07-14T08:55:24Z",
+      "Title": "Python pickle scipy.interpolate.RBFInterpolator across operating systems (windows, mac)",
+      "Tags": [
+        "python-3.x",
+        "windows",
+        "macos",
+        "scipy",
+        "pickle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700632/python-pickle-scipy-interpolate-rbfinterpolator-across-operating-systems-window"
+    },
+    {
+      "Created": "2025-07-14T08:57:15Z",
+      "Title": "Should I still use make_unique in C\u002B\u002B17 or later?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17",
+        "std",
+        "code-standards"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700634/should-i-still-use-make-unique-in-c17-or-later"
+    },
+    {
+      "Created": "2025-07-14T08:58:11Z",
+      "Title": "Python3 dictionary being modified at another trhead does not show changes after those modifications at the original thread",
+      "Tags": [
+        "python",
+        "multithreading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700637/python3-dictionary-being-modified-at-another-trhead-does-not-show-changes-after"
+    }
+  ]
+}

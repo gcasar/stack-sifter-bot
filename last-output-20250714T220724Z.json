@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-14T21:54:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T21:41:54Z",
+      "Title": "Clarity of type of subject effects in my study",
+      "Tags": [
+        "statistics",
+        "spss"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701372/clarity-of-type-of-subject-effects-in-my-study"
+    },
+    {
+      "Created": "2025-07-14T21:47:44Z",
+      "Title": "Adding accessibility to a Leaflet map, in R?",
+      "Tags": [
+        "r",
+        "leaflet",
+        "accessibility",
+        "quarto",
+        "reveal.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701376/adding-accessibility-to-a-leaflet-map-in-r"
+    },
+    {
+      "Created": "2025-07-14T21:54:54Z",
+      "Title": "Python: Running tests with all combinations of feature flags",
+      "Tags": [
+        "python",
+        "testing",
+        "python-unittest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701380/python-running-tests-with-all-combinations-of-feature-flags"
+    }
+  ]
+}

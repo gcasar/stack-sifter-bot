@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-14T15:53:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T15:20:15Z",
+      "Title": "When is it safe to drop gRPC stub and channel in C\u002B\u002B (Callback API)?",
+      "Tags": [
+        "c\u002B\u002B",
+        "callback",
+        "client",
+        "grpc",
+        "shutdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701086/when-is-it-safe-to-drop-grpc-stub-and-channel-in-c-callback-api"
+    },
+    {
+      "Created": "2025-07-14T15:34:25Z",
+      "Title": "Is there anyway to force all traffic except Maven Central via Internal Repo?",
+      "Tags": [
+        "maven",
+        "maven-3",
+        "nexus",
+        "maven-central",
+        "aws-codeartifact"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701090/is-there-anyway-to-force-all-traffic-except-maven-central-via-internal-repo"
+    },
+    {
+      "Created": "2025-07-14T15:47:05Z",
+      "Title": "function to_timestamp(bytea, unknown) does not exist",
+      "Tags": [
+        "postgresql",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701104/function-to-timestampbytea-unknown-does-not-exist"
+    },
+    {
+      "Created": "2025-07-14T15:53:22Z",
+      "Title": "Why should we use enum in TS instant of object? [duplicate]",
+      "Tags": [
+        "javascript",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701110/why-should-we-use-enum-in-ts-instant-of-object"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-14T12:07:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T12:02:51Z",
+      "Title": "Are SVM models trained with OpenCV (.xml) and scikit-learn (.pkl) identical if trained on the same data with the same parameters?",
+      "Tags": [
+        "python",
+        "opencv",
+        "machine-learning",
+        "scikit-learn",
+        "svm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700840/are-svm-models-trained-with-opencv-xml-and-scikit-learn-pkl-identical-if-t"
+    },
+    {
+      "Created": "2025-07-14T12:03:42Z",
+      "Title": "Firebot to Twitch API, how to extract a variable",
+      "Tags": [
+        "twitch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700841/firebot-to-twitch-api-how-to-extract-a-variable"
+    },
+    {
+      "Created": "2025-07-14T12:04:41Z",
+      "Title": "How to solve winnt.h E0338 on Visual Studio Community 2022",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700843/how-to-solve-winnt-h-e0338-on-visual-studio-community-2022"
+    },
+    {
+      "Created": "2025-07-14T12:07:19Z",
+      "Title": "MassTransit Saga: Order of execution with InMemoryOutbox - Activity vs Transition",
+      "Tags": [
+        "masstransit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700846/masstransit-saga-order-of-execution-with-inmemoryoutbox-activity-vs-transitio"
+    }
+  ]
+}

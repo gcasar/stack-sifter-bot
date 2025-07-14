@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-14T21:05:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T20:53:06Z",
+      "Title": "How to listen for messages from a widget (iframe) embedded within a Wix page to Velo code on the page",
+      "Tags": [
+        "javascript",
+        "html",
+        "wix",
+        "bots",
+        "velo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701345/how-to-listen-for-messages-from-a-widget-iframe-embedded-within-a-wix-page-to"
+    },
+    {
+      "Created": "2025-07-14T21:03:22Z",
+      "Title": "C\u002B\u002B \u0022function with deduced return type cannot be used before it is defined\u0022 when using template \u003C\u003E specialization",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "c\u002B\u002B17",
+        "auto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701351/c-function-with-deduced-return-type-cannot-be-used-before-it-is-defined-when"
+    },
+    {
+      "Created": "2025-07-14T21:05:30Z",
+      "Title": "Pugixml get full string containing whitespace",
+      "Tags": [
+        "c\u002B\u002B",
+        "pugixml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701353/pugixml-get-full-string-containing-whitespace"
+    }
+  ]
+}

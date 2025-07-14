@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-14T19:04:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T18:17:57Z",
+      "Title": "@DisabledIf with jUnit depending on a string value in application.yml",
+      "Tags": [
+        "java",
+        "spring",
+        "junit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701240/disabledif-with-junit-depending-on-a-string-value-in-application-yml"
+    },
+    {
+      "Created": "2025-07-14T18:34:18Z",
+      "Title": "onclick event not firing under any circumstance, but worked earlier in document",
+      "Tags": [
+        "javascript",
+        "html",
+        "events",
+        "onclick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701251/onclick-event-not-firing-under-any-circumstance-but-worked-earlier-in-document"
+    },
+    {
+      "Created": "2025-07-14T18:45:43Z",
+      "Title": "Create a new Crypto order - stock demo/code",
+      "Tags": [
+        "c\u002B\u002B",
+        "interactive-brokers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701259/create-a-new-crypto-order-stock-demo-code"
+    },
+    {
+      "Created": "2025-07-14T19:04:13Z",
+      "Title": "How to clean csv file containing empty entires",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "csv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701270/how-to-clean-csv-file-containing-empty-entires"
+    }
+  ]
+}

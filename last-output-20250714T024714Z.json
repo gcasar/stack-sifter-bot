@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-14T02:43:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T01:42:55Z",
+      "Title": "Why does CTAD fail for an aggregate with a dependent non-array element?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "c\u002B\u002B20",
+        "aggregate-initialization",
+        "ctad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700366/why-does-ctad-fail-for-an-aggregate-with-a-dependent-non-array-element"
+    },
+    {
+      "Created": "2025-07-14T02:07:15Z",
+      "Title": "Getting an OAuth2 access and refresh token from AWS in webapi .net4.8",
+      "Tags": [
+        "amazon-web-services",
+        "oauth-2.0",
+        "amazon-cognito",
+        "webapi",
+        ".net-4.8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700375/getting-an-oauth2-access-and-refresh-token-from-aws-in-webapi-net4-8"
+    },
+    {
+      "Created": "2025-07-14T02:19:26Z",
+      "Title": "How to authenticate Azure Web App using Managed Identity to APIM?",
+      "Tags": [
+        "azure-web-app-service",
+        "azure-api-management",
+        "azure-managed-identity",
+        "azure-openai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700378/how-to-authenticate-azure-web-app-using-managed-identity-to-apim"
+    },
+    {
+      "Created": "2025-07-14T02:21:37Z",
+      "Title": "Showing a dialog with error checking using jetpack compose",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700379/showing-a-dialog-with-error-checking-using-jetpack-compose"
+    },
+    {
+      "Created": "2025-07-14T02:30:28Z",
+      "Title": "How to see image build hashes on docker-composer?",
+      "Tags": [
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700384/how-to-see-image-build-hashes-on-docker-composer"
+    },
+    {
+      "Created": "2025-07-14T02:43:57Z",
+      "Title": "Using SelectionFilter in multiple PlanningVariable scenarios",
+      "Tags": [
+        "java",
+        "optaplanner",
+        "timefold"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700387/using-selectionfilter-in-multiple-planningvariable-scenarios"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-14T00:04:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-13T23:11:24Z",
+      "Title": "Pathfinding algorithm doesn\u2019t always find the optimal path \u2014 why?",
+      "Tags": [
+        "python",
+        "dijkstra",
+        "path-finding",
+        "a-star"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700305/pathfinding-algorithm-doesn-t-always-find-the-optimal-path-why"
+    },
+    {
+      "Created": "2025-07-13T23:29:40Z",
+      "Title": "Pydantic: How to return user friendly validation error messages?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "validation",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700314/pydantic-how-to-return-user-friendly-validation-error-messages"
+    },
+    {
+      "Created": "2025-07-13T23:46:12Z",
+      "Title": "How to code the Shabbat sunset algorithm for any friday in Java?",
+      "Tags": [
+        "java",
+        "time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700322/how-to-code-the-shabbat-sunset-algorithm-for-any-friday-in-java"
+    },
+    {
+      "Created": "2025-07-13T23:57:49Z",
+      "Title": "C program won\u0027t skip second half of While statement",
+      "Tags": [
+        "c",
+        "while-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700327/c-program-wont-skip-second-half-of-while-statement"
+    },
+    {
+      "Created": "2025-07-14T00:04:16Z",
+      "Title": "DANE and STARTTLS not working with Stalwart Mail Server \u2013 no errors in logs",
+      "Tags": [
+        "mail-server",
+        "starttls",
+        "dane"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700329/dane-and-starttls-not-working-with-stalwart-mail-server-no-errors-in-logs"
+    }
+  ]
+}

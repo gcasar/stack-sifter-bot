@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-14T10:56:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T10:56:58Z",
+      "Title": "My stripe payment is not upgrading my Firebase AI Studio web APP",
+      "Tags": [
+        "firebase",
+        "google-cloud-firestore",
+        "google-cloud-functions",
+        "stripe-payments",
+        "google-cloud-run"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700778/my-stripe-payment-is-not-upgrading-my-firebase-ai-studio-web-app"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-14T08:01:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T07:13:32Z",
+      "Title": "Concurrent Threads TicTacToe",
+      "Tags": [
+        "java",
+        "multithreading",
+        "concurrency",
+        "tic-tac-toe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700531/concurrent-threads-tictactoe"
+    },
+    {
+      "Created": "2025-07-14T07:52:52Z",
+      "Title": "Can\u2019t create CNAME DNS record using ldap3 and python",
+      "Tags": [
+        "python",
+        "dns",
+        "ldap",
+        "ldap3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700563/can-t-create-cname-dns-record-using-ldap3-and-python"
+    },
+    {
+      "Created": "2025-07-14T07:56:08Z",
+      "Title": "Is the interactive feature of the Google Chat API required for a non-interactive notification bot?",
+      "Tags": [
+        "google-workspace",
+        "google-hangouts",
+        "google-chat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700567/is-the-interactive-feature-of-the-google-chat-api-required-for-a-non-interactive"
+    },
+    {
+      "Created": "2025-07-14T07:57:28Z",
+      "Title": "Why does inject() return the value of a ref from a reactive object instead of a reactive reference?",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "vuejs3",
+        "vue-composition-api",
+        "vue-reactivity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700569/why-does-inject-return-the-value-of-a-ref-from-a-reactive-object-instead-of-a"
+    },
+    {
+      "Created": "2025-07-14T07:58:53Z",
+      "Title": "Laravel serving private user images via custom route \u2014 image URL returns 200 but image not displayed",
+      "Tags": [
+        "php",
+        "laravel",
+        "storage",
+        "laravel-storage",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700570/laravel-serving-private-user-images-via-custom-route-image-url-returns-200-but"
+    },
+    {
+      "Created": "2025-07-14T08:01:58Z",
+      "Title": "LOGIC ISSUE IN PINE SCRIPT EXECUTION On Tradug View Stratergy",
+      "Tags": [
+        "error-handling",
+        "automation",
+        "logic",
+        "pine-script-v5",
+        "logical-operators"
+      ],
+      "Url": "https://stackoverflow.com/questions/79700576/logic-issue-in-pine-script-execution-on-tradug-view-stratergy"
+    }
+  ]
+}

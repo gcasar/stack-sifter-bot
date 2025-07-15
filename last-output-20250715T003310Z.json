@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-14T23:56:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-14T23:25:08Z",
+      "Title": "Open Folder In Container options missing in VSCode 1.101.2",
+      "Tags": [
+        "docker",
+        "visual-studio-code",
+        "vscode-devcontainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701420/open-folder-in-container-options-missing-in-vscode-1-101-2"
+    },
+    {
+      "Created": "2025-07-14T23:32:23Z",
+      "Title": "Applicable for use in a bash script match substring as whole word only in parent string?",
+      "Tags": [
+        "bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701422/applicable-for-use-in-a-bash-script-match-substring-as-whole-word-only-in-parent"
+    },
+    {
+      "Created": "2025-07-14T23:32:33Z",
+      "Title": "Pycord cog loading gives TypeError: object NoneType can\u0027t be used in \u0027await\u0027 expression despite using async setup",
+      "Tags": [
+        "python",
+        "discord"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701423/pycord-cog-loading-gives-typeerror-object-nonetype-cant-be-used-in-await-exp"
+    },
+    {
+      "Created": "2025-07-14T23:37:32Z",
+      "Title": "Why is allInterceptors not resolved in ApiClient.mustache when using openapi-generator-maven-plugin?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701428/why-is-allinterceptors-not-resolved-in-apiclient-mustache-when-using-openapi-gen"
+    },
+    {
+      "Created": "2025-07-14T23:56:17Z",
+      "Title": "How to prevent Drupal from making view feed links all relative",
+      "Tags": [
+        "drupal",
+        "drupal-views",
+        "drupal-10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701433/how-to-prevent-drupal-from-making-view-feed-links-all-relative"
+    }
+  ]
+}

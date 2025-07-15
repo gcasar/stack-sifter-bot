@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-15T08:06:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T07:14:38Z",
+      "Title": "Can\u0027t use of custom user data added to identity user",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "asp.net-core-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701691/cant-use-of-custom-user-data-added-to-identity-user"
+    },
+    {
+      "Created": "2025-07-15T07:38:00Z",
+      "Title": "XUnit tests with Dapper Mock confuses multiple .SetupDapper setups",
+      "Tags": [
+        "c#",
+        "dapper",
+        "xunit.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701716/xunit-tests-with-dapper-mock-confuses-multiple-setupdapper-setups"
+    },
+    {
+      "Created": "2025-07-15T07:49:02Z",
+      "Title": "\u0060View.onDrag(_:)\u0060 gets called again right after \u0060DropDelegate.performDrop(info:)\u0060",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "drag-and-drop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701724/view-ondrag-gets-called-again-right-after-dropdelegate-performdropinfo"
+    },
+    {
+      "Created": "2025-07-15T07:59:10Z",
+      "Title": "When/Where would one use (HashSet \u002B List) over LinkedHashSet for unique and ordered collection of objects?",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701734/when-where-would-one-use-hashset-list-over-linkedhashset-for-unique-and-orde"
+    },
+    {
+      "Created": "2025-07-15T07:59:39Z",
+      "Title": "Semaphore using docker-compose | issue in cloning git repo",
+      "Tags": [
+        "docker",
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701735/semaphore-using-docker-compose-issue-in-cloning-git-repo"
+    },
+    {
+      "Created": "2025-07-15T08:06:31Z",
+      "Title": "Is it possible to take user input and use as a visibility filter in BIRT report writer?",
+      "Tags": [
+        "sql",
+        "parameters",
+        "birt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701738/is-it-possible-to-take-user-input-and-use-as-a-visibility-filter-in-birt-report"
+    }
+  ]
+}

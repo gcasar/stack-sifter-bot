@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-15T15:03:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T14:56:51Z",
+      "Title": "How to normalize a JSON Object that has nested arrays and lists in python pandas",
+      "Tags": [
+        "python",
+        "dataframe",
+        "pandas-explode",
+        "json-flattener"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702265/how-to-normalize-a-json-object-that-has-nested-arrays-and-lists-in-python-pandas"
+    },
+    {
+      "Created": "2025-07-15T15:03:13Z",
+      "Title": "Astro: Animations between View Transitions looking weird on Chrome but fine in Firefox/Safari",
+      "Tags": [
+        "javascript",
+        "gsap",
+        "astrojs",
+        "view-transitions-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702273/astro-animations-between-view-transitions-looking-weird-on-chrome-but-fine-in-f"
+    }
+  ]
+}

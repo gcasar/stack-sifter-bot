@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-15T16:05:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T15:46:05Z",
+      "Title": "Terraform RDS Cluster Re-Apply Fails with \u201CStorageTypeNotSupported: You can\u0027t use storage type null\u201D",
+      "Tags": [
+        "postgresql",
+        "terraform",
+        "amazon-rds",
+        "terraform-provider-aws",
+        "terraform0.12\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702320/terraform-rds-cluster-re-apply-fails-with-storagetypenotsupported-you-cant-us"
+    },
+    {
+      "Created": "2025-07-15T15:58:12Z",
+      "Title": "How to Retrieve the Telegram Store Gift Catalog via Bot API for a Business Account?",
+      "Tags": [
+        "telegram",
+        "telegram-bot",
+        "python-telegram-bot",
+        "telegram-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702330/how-to-retrieve-the-telegram-store-gift-catalog-via-bot-api-for-a-business-accou"
+    },
+    {
+      "Created": "2025-07-15T16:02:33Z",
+      "Title": "Angular Universal SSR build fails: \u0022this.debug is not a function\u0022 during index.html generation",
+      "Tags": [
+        "angular",
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702336/angular-universal-ssr-build-fails-this-debug-is-not-a-function-during-index-h"
+    },
+    {
+      "Created": "2025-07-15T16:04:13Z",
+      "Title": "Writing a Binomial Coefficient calculator in C : Problem with checking scanf failure",
+      "Tags": [
+        "c",
+        "scanf",
+        "factorial",
+        "binomial-coefficients"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702340/writing-a-binomial-coefficient-calculator-in-c-problem-with-checking-scanf-fai"
+    },
+    {
+      "Created": "2025-07-15T16:05:02Z",
+      "Title": "Converting JSON from API call to C# classes and pass between Blazor components",
+      "Tags": [
+        "c#",
+        "json",
+        "blazor",
+        "amadeus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702341/converting-json-from-api-call-to-c-sharp-classes-and-pass-between-blazor-compone"
+    }
+  ]
+}

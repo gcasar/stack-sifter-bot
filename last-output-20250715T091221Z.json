@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-15T09:11:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T09:00:14Z",
+      "Title": "crypto order on interactive brokers - not being accepted see error message",
+      "Tags": [
+        "interactive-brokers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701799/crypto-order-on-interactive-brokers-not-being-accepted-see-error-message"
+    },
+    {
+      "Created": "2025-07-15T09:01:02Z",
+      "Title": "Why do bit manipulation intrinsics like _bextr_u64 often perform worse than simple shift and mask operations?",
+      "Tags": [
+        "bit-manipulation",
+        "intrinsics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701800/why-do-bit-manipulation-intrinsics-like-bextr-u64-often-perform-worse-than-simp"
+    },
+    {
+      "Created": "2025-07-15T09:11:39Z",
+      "Title": "Piecewise curve segment lengths from Pytorch",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "pytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701808/piecewise-curve-segment-lengths-from-pytorch"
+    }
+  ]
+}

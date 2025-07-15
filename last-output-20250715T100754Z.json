@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T10:04:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T09:34:56Z",
+      "Title": "How to completely disable video recording in Karate Docker CI execution?",
+      "Tags": [
+        "automation",
+        "continuous-integration",
+        "karate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701845/how-to-completely-disable-video-recording-in-karate-docker-ci-execution"
+    },
+    {
+      "Created": "2025-07-15T09:36:29Z",
+      "Title": "How to type hint an attribute to be a dataclass?",
+      "Tags": [
+        "python",
+        "python-typing",
+        "python-dataclasses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701849/how-to-type-hint-an-attribute-to-be-a-dataclass"
+    },
+    {
+      "Created": "2025-07-15T09:51:47Z",
+      "Title": "Capturing a photo with CameraCaptureUI opens post-capture editor popup on some Windows 10 devices",
+      "Tags": [
+        "c#",
+        "windows",
+        "winui-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701870/capturing-a-photo-with-cameracaptureui-opens-post-capture-editor-popup-on-some-w"
+    },
+    {
+      "Created": "2025-07-15T10:04:03Z",
+      "Title": "Is CIS AWS Foundations Benchmark v3.0.0 still valid?",
+      "Tags": [
+        "amazon-web-services",
+        "aws-security-hub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701881/is-cis-aws-foundations-benchmark-v3-0-0-still-valid"
+    }
+  ]
+}

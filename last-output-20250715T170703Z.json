@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T17:04:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T16:30:25Z",
+      "Title": "Templated Variable within a C\u002B\u002B class",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702384/templated-variable-within-a-c-class"
+    },
+    {
+      "Created": "2025-07-15T16:33:09Z",
+      "Title": "How to track which observations are new in each year?",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702390/how-to-track-which-observations-are-new-in-each-year"
+    },
+    {
+      "Created": "2025-07-15T16:40:54Z",
+      "Title": "Best practice to Building a Dynamic, Elementor-like Page Builder with Angular and a Headless CMS (SEO Friendly)",
+      "Tags": [
+        "angular",
+        "frontend",
+        "seo",
+        "server-side-rendering",
+        "micro-frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702400/best-practice-to-building-a-dynamic-elementor-like-page-builder-with-angular-an"
+    },
+    {
+      "Created": "2025-07-15T17:04:56Z",
+      "Title": "Bootstrap card not showing when value is 0 using JavaScript",
+      "Tags": [
+        "javascript",
+        "html",
+        "twitter-bootstrap",
+        "if-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702424/bootstrap-card-not-showing-when-value-is-0-using-javascript"
+    }
+  ]
+}

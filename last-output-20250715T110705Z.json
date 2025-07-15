@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-15T11:03:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T10:06:52Z",
+      "Title": "Indicating which column wins in a df.min() call [duplicate]",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701884/indicating-which-column-wins-in-a-df-min-call"
+    },
+    {
+      "Created": "2025-07-15T10:37:53Z",
+      "Title": "Responsive CSS grid not responding correctly to small browser",
+      "Tags": [
+        "html",
+        "css",
+        "css-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701929/responsive-css-grid-not-responding-correctly-to-small-browser"
+    },
+    {
+      "Created": "2025-07-15T10:54:55Z",
+      "Title": "Writing from Databricks to Azure storage through function returns \u0022Can not infer schema for type: \u0027str\u0027\u0022",
+      "Tags": [
+        "python",
+        "pyspark",
+        "databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701949/writing-from-databricks-to-azure-storage-through-function-returns-can-not-infer"
+    },
+    {
+      "Created": "2025-07-15T10:59:15Z",
+      "Title": "Webpack changes URLs in CSS during build: how to keep original relative paths in url()",
+      "Tags": [
+        "css",
+        "webpack",
+        "sass",
+        "assets",
+        "css-loader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701958/webpack-changes-urls-in-css-during-build-how-to-keep-original-relative-paths-in"
+    },
+    {
+      "Created": "2025-07-15T11:00:46Z",
+      "Title": "Problem: Chests using Positioned disappear under the header inside a ScrollablePositionedList with a fixed header on top",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701961/problem-chests-using-positioned-disappear-under-the-header-inside-a-scrollablep"
+    },
+    {
+      "Created": "2025-07-15T11:03:17Z",
+      "Title": "how to add foreign key that contains varchar?",
+      "Tags": [
+        "mysql",
+        "codeigniter-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701962/how-to-add-foreign-key-that-contains-varchar"
+    },
+    {
+      "Created": "2025-07-15T11:03:26Z",
+      "Title": "asyncio CancelledError when using aio_pika and httpx",
+      "Tags": [
+        "python",
+        "python-asyncio",
+        "httpx",
+        "aio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701963/asyncio-cancellederror-when-using-aio-pika-and-httpx"
+    },
+    {
+      "Created": "2025-07-15T11:03:42Z",
+      "Title": "AG Grid React crashes with \u0022cannot get grid to draw rows when it is in the middle of drawing rows\u0022 on scroll and data update",
+      "Tags": [
+        "reactjs",
+        "runtime-error",
+        "ag-grid",
+        "ag-grid-react"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701964/ag-grid-react-crashes-with-cannot-get-grid-to-draw-rows-when-it-is-in-the-middl"
+    }
+  ]
+}

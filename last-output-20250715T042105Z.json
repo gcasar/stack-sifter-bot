@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T04:03:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T03:43:01Z",
+      "Title": "Animator on parent of object doesn\u0027t assign properly and says that an animation doesn\u0027t Exist (c#)",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701530/animator-on-parent-of-object-doesnt-assign-properly-and-says-that-an-animation"
+    },
+    {
+      "Created": "2025-07-15T03:53:06Z",
+      "Title": "mysql proper API call",
+      "Tags": [
+        "mysql",
+        "c",
+        "multithreading",
+        "client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701532/mysql-proper-api-call"
+    },
+    {
+      "Created": "2025-07-15T03:58:55Z",
+      "Title": "What does this reduce() function do in counting elements from an array? [duplicate]",
+      "Tags": [
+        "javascript",
+        "loops",
+        "methods",
+        "reduce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701534/what-does-this-reduce-function-do-in-counting-elements-from-an-array"
+    },
+    {
+      "Created": "2025-07-15T04:03:14Z",
+      "Title": "pip and uv point to ~/.local/bin/ even after activating virtual environment",
+      "Tags": [
+        "python",
+        "ubuntu",
+        "pip",
+        "pydantic",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701540/pip-and-uv-point-to-local-bin-even-after-activating-virtual-environment"
+    }
+  ]
+}

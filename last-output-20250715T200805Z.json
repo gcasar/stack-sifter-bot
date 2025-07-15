@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T20:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T19:53:14Z",
+      "Title": "How to have separate logging for instances of a class",
+      "Tags": [
+        "python",
+        "logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702590/how-to-have-separate-logging-for-instances-of-a-class"
+    },
+    {
+      "Created": "2025-07-15T19:54:40Z",
+      "Title": "Running systemd service from python script that requires env (uv)",
+      "Tags": [
+        "python",
+        "service",
+        "systemd",
+        "systemctl",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702591/running-systemd-service-from-python-script-that-requires-env-uv"
+    },
+    {
+      "Created": "2025-07-15T19:55:31Z",
+      "Title": "How can I add secondary \u0027y\u0027 and \u0027x\u0027 axis to this contour?",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702592/how-can-i-add-secondary-y-and-x-axis-to-this-contour"
+    },
+    {
+      "Created": "2025-07-15T20:04:10Z",
+      "Title": "How to close all open and pending positions with MT5 Web API in PHP?",
+      "Tags": [
+        "php",
+        "cron",
+        "webapi",
+        "trading",
+        "metatrader5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702597/how-to-close-all-open-and-pending-positions-with-mt5-web-api-in-php"
+    }
+  ]
+}

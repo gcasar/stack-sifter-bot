@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T06:01:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T05:31:20Z",
+      "Title": "NVIDIA\u0027s CUTLASS lib for multiple architectures",
+      "Tags": [
+        "cuda",
+        "nvidia",
+        "nvcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701596/nvidias-cutlass-lib-for-multiple-architectures"
+    },
+    {
+      "Created": "2025-07-15T05:34:09Z",
+      "Title": "class instance is not a function when interacting with jQuery",
+      "Tags": [
+        "jquery",
+        "vue.js",
+        "referenceerror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701598/class-instance-is-not-a-function-when-interacting-with-jquery"
+    },
+    {
+      "Created": "2025-07-15T05:59:14Z",
+      "Title": "cybersource Multi payment currency support",
+      "Tags": [
+        "cybersource",
+        "cybersource-rest-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701622/cybersource-multi-payment-currency-support"
+    },
+    {
+      "Created": "2025-07-15T06:01:18Z",
+      "Title": "How to check for uniqueness of multiple fields in a database?",
+      "Tags": [
+        "php",
+        "codeigniter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701625/how-to-check-for-uniqueness-of-multiple-fields-in-a-database"
+    }
+  ]
+}

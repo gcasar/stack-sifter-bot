@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-15T13:13:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T12:51:50Z",
+      "Title": "Vercel build fails with TypeScript error \u0027params\u0027 is a Promise on Next.js 15 Server Component",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "next.js",
+        "eslint",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702085/vercel-build-fails-with-typescript-error-params-is-a-promise-on-next-js-15-ser"
+    },
+    {
+      "Created": "2025-07-15T12:52:20Z",
+      "Title": "(X)HTML / CSS: preventing line break in html where CSS ::after is used",
+      "Tags": [
+        "html",
+        "css",
+        "word-wrap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702086/xhtml-css-preventing-line-break-in-html-where-css-after-is-used"
+    },
+    {
+      "Created": "2025-07-15T12:55:32Z",
+      "Title": "Flink : failed authentication due to: SSL handshake",
+      "Tags": [
+        "apache-flink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702091/flink-failed-authentication-due-to-ssl-handshake"
+    },
+    {
+      "Created": "2025-07-15T13:02:51Z",
+      "Title": "to create backup data with in different network servers [closed]",
+      "Tags": [
+        "server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702108/to-create-backup-data-with-in-different-network-servers"
+    },
+    {
+      "Created": "2025-07-15T13:04:58Z",
+      "Title": "Filter for part of a string in an array",
+      "Tags": [
+        "arrays",
+        "swiftui",
+        "filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702112/filter-for-part-of-a-string-in-an-array"
+    },
+    {
+      "Created": "2025-07-15T13:05:08Z",
+      "Title": "Asking a question of callbacks and functions:",
+      "Tags": [
+        "javascript",
+        "function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702113/asking-a-question-of-callbacks-and-functions"
+    },
+    {
+      "Created": "2025-07-15T13:13:50Z",
+      "Title": "How can I make awk print a text string followed by the entire line piped from a previous command?",
+      "Tags": [
+        "bash",
+        "awk",
+        "printing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702122/how-can-i-make-awk-print-a-text-string-followed-by-the-entire-line-piped-from-a"
+    }
+  ]
+}

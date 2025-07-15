@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-15T03:15:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T02:54:15Z",
+      "Title": "Cache updates in chatbot when adding new documents",
+      "Tags": [
+        "python",
+        "caching",
+        "artificial-intelligence",
+        "chatbot",
+        "langchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701508/cache-updates-in-chatbot-when-adding-new-documents"
+    },
+    {
+      "Created": "2025-07-15T03:08:14Z",
+      "Title": "how to know when printf() internal buffer is full",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "printf",
+        "glibc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701512/how-to-know-when-printf-internal-buffer-is-full"
+    },
+    {
+      "Created": "2025-07-15T03:15:07Z",
+      "Title": "\u0022use setasign\\Fpdi\\Fpdi\u0022 command doesn\u0027t work in php",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701517/use-setasign-fpdi-fpdi-command-doesnt-work-in-php"
+    }
+  ]
+}

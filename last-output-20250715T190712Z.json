@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T19:03:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T18:35:57Z",
+      "Title": "Create a line type in LaTeX/TikZ as -\\- and |-| that goes between two points",
+      "Tags": [
+        "types",
+        "latex",
+        "line",
+        "new-operator",
+        "tikz"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702525/create-a-line-type-in-latex-tikz-as-and-that-goes-between-two-points"
+    },
+    {
+      "Created": "2025-07-15T18:50:22Z",
+      "Title": "How to properly set the background color of the TabControl header area in C# WinForms?",
+      "Tags": [
+        "c#",
+        "tabmenu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702542/how-to-properly-set-the-background-color-of-the-tabcontrol-header-area-in-c-shar"
+    },
+    {
+      "Created": "2025-07-15T18:58:50Z",
+      "Title": "Terraform apply not auto-approving in GitHub Actions due to missing variable input",
+      "Tags": [
+        "amazon-web-services",
+        "terraform",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702547/terraform-apply-not-auto-approving-in-github-actions-due-to-missing-variable-inp"
+    },
+    {
+      "Created": "2025-07-15T19:03:36Z",
+      "Title": "Efficiently Count Number of Ones at Deepest Level in Recursive Floor-Ceil Splitting of Large Binary Number",
+      "Tags": [
+        "recursion",
+        "count",
+        "binary",
+        "floor",
+        "ceil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702549/efficiently-count-number-of-ones-at-deepest-level-in-recursive-floor-ceil-splitt"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T23:00:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T22:19:59Z",
+      "Title": "NetSuite - Change order of scripts that are in a deployed script and when their triggers fire",
+      "Tags": [
+        "deployment",
+        "triggers",
+        "scripting",
+        "netsuite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702719/netsuite-change-order-of-scripts-that-are-in-a-deployed-script-and-when-their"
+    },
+    {
+      "Created": "2025-07-15T22:51:42Z",
+      "Title": "Why does np.unique return fewer/more unique rows than MATLAB\u2019s unique with identical input?",
+      "Tags": [
+        "python",
+        "numpy",
+        "matlab",
+        "unique"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702735/why-does-np-unique-return-fewer-more-unique-rows-than-matlab-s-unique-with-ident"
+    },
+    {
+      "Created": "2025-07-15T22:57:26Z",
+      "Title": "Tomcat 9 change in retrieving MIME type of a resource?",
+      "Tags": [
+        "java",
+        "tomcat",
+        "tomcat9"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702740/tomcat-9-change-in-retrieving-mime-type-of-a-resource"
+    },
+    {
+      "Created": "2025-07-15T23:00:14Z",
+      "Title": "How to correctly work with string like \u00221.\u0022 in parseFloat, because it is user typing input",
+      "Tags": [
+        "javascript",
+        "parsefloat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702741/how-to-correctly-work-with-string-like-1-in-parsefloat-because-it-is-user-ty"
+    }
+  ]
+}

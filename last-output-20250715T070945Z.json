@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-15T07:07:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T06:34:59Z",
+      "Title": "How to change speed of swipe to go back gesture animation in navigator?",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701657/how-to-change-speed-of-swipe-to-go-back-gesture-animation-in-navigator"
+    },
+    {
+      "Created": "2025-07-15T06:44:07Z",
+      "Title": "Seeking Assistance: PyTorchStreamReader Error with Fine-tuned SAM Model on Roboflow Dataset",
+      "Tags": [
+        "pytorch",
+        "computer-vision",
+        "fine-tuning",
+        "roboflow",
+        "segment-anything"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701666/seeking-assistance-pytorchstreamreader-error-with-fine-tuned-sam-model-on-robof"
+    },
+    {
+      "Created": "2025-07-15T06:50:14Z",
+      "Title": "How to speedup python telegram bot?",
+      "Tags": [
+        "python",
+        "telegram",
+        "pyrogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701671/how-to-speedup-python-telegram-bot"
+    },
+    {
+      "Created": "2025-07-15T06:50:56Z",
+      "Title": "Clean way to share data between viewModels",
+      "Tags": [
+        "android",
+        "mvvm",
+        "android-jetpack-compose",
+        "clean-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701672/clean-way-to-share-data-between-viewmodels"
+    },
+    {
+      "Created": "2025-07-15T07:07:14Z",
+      "Title": "Why does PyLance fail to resolve imports from UV-managed virtual environments in Python?",
+      "Tags": [
+        "python",
+        "pylance",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701685/why-does-pylance-fail-to-resolve-imports-from-uv-managed-virtual-environments-in"
+    }
+  ]
+}

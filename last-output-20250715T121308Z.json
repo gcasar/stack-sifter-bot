@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-15T12:08:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T11:52:41Z",
+      "Title": "How to write a relative path for fetch() that works with different base paths?",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702018/how-to-write-a-relative-path-for-fetch-that-works-with-different-base-paths"
+    },
+    {
+      "Created": "2025-07-15T11:57:43Z",
+      "Title": "How to deal with submodule update in dependent repos",
+      "Tags": [
+        "git",
+        "pull-request"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702022/how-to-deal-with-submodule-update-in-dependent-repos"
+    },
+    {
+      "Created": "2025-07-15T12:01:06Z",
+      "Title": "How to pass a function returning \u0060some View\u0060 as parameter to \u0060sheet(item:onDismiss:content:)\u0060",
+      "Tags": [
+        "xcode",
+        "swiftui",
+        "swift-concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702029/how-to-pass-a-function-returning-some-view-as-parameter-to-sheetitemondismi"
+    },
+    {
+      "Created": "2025-07-15T12:04:11Z",
+      "Title": "Power BI report not embedding inside ASP.Update panel",
+      "Tags": [
+        "javascript",
+        "asp.net",
+        "powerbi",
+        "asp.net-ajax",
+        "powerbi-paginated-reports"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702033/power-bi-report-not-embedding-inside-asp-update-panel"
+    },
+    {
+      "Created": "2025-07-15T12:06:42Z",
+      "Title": "Can I printf a half-precision floating-point value?",
+      "Tags": [
+        "c",
+        "printf",
+        "glibc",
+        "format-specifiers",
+        "half-precision-float"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702036/can-i-printf-a-half-precision-floating-point-value"
+    },
+    {
+      "Created": "2025-07-15T12:08:00Z",
+      "Title": "Loop SUMPRODUCT or LAMBDA in Range",
+      "Tags": [
+        "excel",
+        "excel-formula",
+        "sequence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702040/loop-sumproduct-or-lambda-in-range"
+    }
+  ]
+}

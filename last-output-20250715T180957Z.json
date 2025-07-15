@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-15T17:57:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T17:47:01Z",
+      "Title": "Sum the vectors stored in the list using Rcpp",
+      "Tags": [
+        "r",
+        "rcpp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702485/sum-the-vectors-stored-in-the-list-using-rcpp"
+    },
+    {
+      "Created": "2025-07-15T17:57:44Z",
+      "Title": "How do I plot finalized candles only?",
+      "Tags": [
+        "pine-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702494/how-do-i-plot-finalized-candles-only"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-15T22:04:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T21:23:50Z",
+      "Title": "Please explain this very confusing way String intern works",
+      "Tags": [
+        "java",
+        "string",
+        "string-literals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702679/please-explain-this-very-confusing-way-string-intern-works"
+    },
+    {
+      "Created": "2025-07-15T21:48:03Z",
+      "Title": "Perform double duplication in Delta Live tables",
+      "Tags": [
+        "databricks",
+        "cdc",
+        "delta-live-tables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702699/perform-double-duplication-in-delta-live-tables"
+    },
+    {
+      "Created": "2025-07-15T21:56:29Z",
+      "Title": "How to disable mobile_scanner widget on changing page via GoRouter",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-go-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702706/how-to-disable-mobile-scanner-widget-on-changing-page-via-gorouter"
+    },
+    {
+      "Created": "2025-07-15T22:04:47Z",
+      "Title": "Automate PDF flattening | Adobe PDF Services API",
+      "Tags": [
+        "adobe-pdfservices",
+        "flatten-pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702708/automate-pdf-flattening-adobe-pdf-services-api"
+    }
+  ]
+}

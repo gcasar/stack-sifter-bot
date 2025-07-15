@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-15T21:03:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T20:13:58Z",
+      "Title": "Is it possible to verilate and compile big generate with verilator?",
+      "Tags": [
+        "verilog",
+        "hdl",
+        "verilator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702609/is-it-possible-to-verilate-and-compile-big-generate-with-verilator"
+    },
+    {
+      "Created": "2025-07-15T20:42:18Z",
+      "Title": "How can I remove the leading question mark and specify an absolute path? [closed]",
+      "Tags": [
+        "c#",
+        "unicode",
+        "path"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702643/how-can-i-remove-the-leading-question-mark-and-specify-an-absolute-path"
+    },
+    {
+      "Created": "2025-07-15T20:48:54Z",
+      "Title": "Wildcard HTTPS certificate not working for *.example in ASP.NET Core (Kestrel)",
+      "Tags": [
+        "blazor",
+        "ssl-certificate",
+        "kestrel-http-server",
+        "wildcard-subdomain",
+        "mkcert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702651/wildcard-https-certificate-not-working-for-example-in-asp-net-core-kestrel"
+    },
+    {
+      "Created": "2025-07-15T20:51:57Z",
+      "Title": "How to tell mapshot not to crop leaflet or mapview maps",
+      "Tags": [
+        "r",
+        "shiny",
+        "r-leaflet",
+        "r-mapview",
+        "webshot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702653/how-to-tell-mapshot-not-to-crop-leaflet-or-mapview-maps"
+    },
+    {
+      "Created": "2025-07-15T20:55:33Z",
+      "Title": "ActveX scroll button prevents use of arrow keys",
+      "Tags": [
+        "excel",
+        "vba",
+        "macros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702657/actvex-scroll-button-prevents-use-of-arrow-keys"
+    },
+    {
+      "Created": "2025-07-15T20:56:08Z",
+      "Title": "On x86-64 if you modify code at runtime and don\u0027t flush the icache, can the old code run indefinitely?",
+      "Tags": [
+        "x86-64",
+        "cpu-cache",
+        "self-modifying"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702658/on-x86-64-if-you-modify-code-at-runtime-and-dont-flush-the-icache-can-the-old"
+    },
+    {
+      "Created": "2025-07-15T21:00:33Z",
+      "Title": "What is the time complexity of the following algorithm:",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "for-loop",
+        "time-complexity",
+        "big-o"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702662/what-is-the-time-complexity-of-the-following-algorithm"
+    },
+    {
+      "Created": "2025-07-15T21:03:07Z",
+      "Title": "How to add Excel Sheets to a new Excel File in Python",
+      "Tags": [
+        "python",
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702666/how-to-add-excel-sheets-to-a-new-excel-file-in-python"
+    }
+  ]
+}

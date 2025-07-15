@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-15T14:02:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T13:17:08Z",
+      "Title": "How to activate the specific part in CATIA assembly using VBA",
+      "Tags": [
+        "vba",
+        "assembly",
+        "catia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702124/how-to-activate-the-specific-part-in-catia-assembly-using-vba"
+    },
+    {
+      "Created": "2025-07-15T13:25:01Z",
+      "Title": "std::launder to a dynamic array?",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "stdlaunder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702139/stdlaunder-to-a-dynamic-array"
+    },
+    {
+      "Created": "2025-07-15T13:27:51Z",
+      "Title": "how to change background color of react/chakra switch?",
+      "Tags": [
+        "reactjs",
+        "frontend",
+        "chakra-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702147/how-to-change-background-color-of-react-chakra-switch"
+    },
+    {
+      "Created": "2025-07-15T13:32:18Z",
+      "Title": "Error \u201Ccould not find function \u0027dposnegbin2\u0027\u201D when using posnegbinomial() in vglm() from VGAM",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702156/error-could-not-find-function-dposnegbin2-when-using-posnegbinomial-in-vgl"
+    },
+    {
+      "Created": "2025-07-15T13:53:47Z",
+      "Title": "react Why is my cookie emtpy although it is set?",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702182/react-why-is-my-cookie-emtpy-although-it-is-set"
+    },
+    {
+      "Created": "2025-07-15T13:59:33Z",
+      "Title": "AVCapturePhotoCaptureDelegate.photoOutput(:didFinishCapturingDeferredPhotoProxy) not called",
+      "Tags": [
+        "ios",
+        "swift",
+        "avfoundation",
+        "avcapturephotosettings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702188/avcapturephotocapturedelegate-photooutputdidfinishcapturingdeferredphotoproxy"
+    },
+    {
+      "Created": "2025-07-15T14:02:49Z",
+      "Title": "Calculate rendered text width, but NOT using TextPainter - so it can be done on any thread",
+      "Tags": [
+        "flutter",
+        "dart",
+        "dart-isolates",
+        "flutter-textpainter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702194/calculate-rendered-text-width-but-not-using-textpainter-so-it-can-be-done-on"
+    }
+  ]
+}

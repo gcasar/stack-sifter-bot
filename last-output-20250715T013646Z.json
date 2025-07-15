@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-15T01:27:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T00:36:18Z",
+      "Title": "Tailwind v4 variables are not working in prod build but working in dev",
+      "Tags": [
+        "webpack",
+        "tailwind-css",
+        "postcss"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701442/tailwind-v4-variables-are-not-working-in-prod-build-but-working-in-dev"
+    },
+    {
+      "Created": "2025-07-15T01:07:48Z",
+      "Title": "Authenticating with Key Vault Certificate in M365 Agents SDK",
+      "Tags": [
+        "botframework",
+        "agent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701458/authenticating-with-key-vault-certificate-in-m365-agents-sdk"
+    },
+    {
+      "Created": "2025-07-15T01:13:11Z",
+      "Title": "Initramfs does not identify non-root LUKS partitions when hostonly=\u0022no\u0022",
+      "Tags": [
+        "encryption",
+        "redhat",
+        "initrd",
+        "luks",
+        "initramfs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701459/initramfs-does-not-identify-non-root-luks-partitions-when-hostonly-no"
+    },
+    {
+      "Created": "2025-07-15T01:23:54Z",
+      "Title": "Why nothing written in AWS Lambda logs?",
+      "Tags": [
+        "python",
+        "amazon-web-services",
+        "aws-lambda",
+        "amazon-ecr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701463/why-nothing-written-in-aws-lambda-logs"
+    },
+    {
+      "Created": "2025-07-15T01:25:11Z",
+      "Title": "Why are accented characters (\u00E9, \u00E8, \u00E0) missing in Notion pages created via the Notion API in NodeJS",
+      "Tags": [
+        "node.js",
+        "utf-8",
+        "markdown",
+        "notion-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701464/why-are-accented-characters-%c3%a9-%c3%a8-%c3%a0-missing-in-notion-pages-created-via-the-no"
+    },
+    {
+      "Created": "2025-07-15T01:26:00Z",
+      "Title": "Why the print line will exec twice in a py file?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701465/why-the-print-line-will-exec-twice-in-a-py-file"
+    },
+    {
+      "Created": "2025-07-15T01:26:59Z",
+      "Title": "C How to generate an arbitrary permutation within range [i,j]?",
+      "Tags": [
+        "c",
+        "algorithm",
+        "random",
+        "permutation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701467/c-how-to-generate-an-arbitrary-permutation-within-range-i-j"
+    },
+    {
+      "Created": "2025-07-15T01:27:24Z",
+      "Title": "Implementing Custom Kafka Consumer based on LinkedBlockingQueue can not return size",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "unit-testing",
+        "apache-kafka",
+        "blockingqueue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79701469/implementing-custom-kafka-consumer-based-on-linkedblockingqueue-can-not-return-s"
+    }
+  ]
+}

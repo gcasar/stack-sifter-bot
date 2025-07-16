@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-16T10:51:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T10:51:10Z",
+      "Title": "is it possible to set a field to a custom type (object) using @typegoose",
+      "Tags": [
+        "node.js",
+        "typegoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703299/is-it-possible-to-set-a-field-to-a-custom-type-object-using-typegoose"
+    }
+  ]
+}

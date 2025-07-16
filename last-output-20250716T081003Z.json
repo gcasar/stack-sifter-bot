@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-16T07:14:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T07:14:19Z",
+      "Title": "Setting system path environment for GSL in Windows",
+      "Tags": [
+        "windows",
+        "pip",
+        "gsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703042/setting-system-path-environment-for-gsl-in-windows"
+    }
+  ]
+}

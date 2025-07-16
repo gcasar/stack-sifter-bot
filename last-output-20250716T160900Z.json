@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-16T16:06:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T15:40:36Z",
+      "Title": "String manipulation produces surprising result, too much removed",
+      "Tags": [
+        "r",
+        "regex",
+        "substring",
+        "geocoding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703680/string-manipulation-produces-surprising-result-too-much-removed"
+    },
+    {
+      "Created": "2025-07-16T15:51:15Z",
+      "Title": "Why is cloning Trait Objects not supported, but possible via a crate?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703692/why-is-cloning-trait-objects-not-supported-but-possible-via-a-crate"
+    },
+    {
+      "Created": "2025-07-16T15:56:19Z",
+      "Title": "Rescale FITS images to a common pixel size?",
+      "Tags": [
+        "astropy",
+        "fits"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703699/rescale-fits-images-to-a-common-pixel-size"
+    },
+    {
+      "Created": "2025-07-16T15:57:21Z",
+      "Title": "ModuleNotFoundError: No module named \u0027hidapi\u0027",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703702/modulenotfounderror-no-module-named-hidapi"
+    },
+    {
+      "Created": "2025-07-16T16:02:08Z",
+      "Title": "How use Typo3 and other WEB files on the same server",
+      "Tags": [
+        "apache",
+        "debian",
+        "typo3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703706/how-use-typo3-and-other-web-files-on-the-same-server"
+    },
+    {
+      "Created": "2025-07-16T16:02:49Z",
+      "Title": "Median Position in a Min-Heap can be found at any level - need proof",
+      "Tags": [
+        "algorithm",
+        "binary-tree",
+        "median",
+        "min-heap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703709/median-position-in-a-min-heap-can-be-found-at-any-level-need-proof"
+    },
+    {
+      "Created": "2025-07-16T16:05:10Z",
+      "Title": "Chrome Dev Tools Heap Snapshot only shows sizes in KBs",
+      "Tags": [
+        "google-chrome-devtools",
+        "heap-memory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703711/chrome-dev-tools-heap-snapshot-only-shows-sizes-in-kbs"
+    },
+    {
+      "Created": "2025-07-16T16:06:17Z",
+      "Title": "Validating ES query_string upfront, namely without connecting to an Elasticsearch server",
+      "Tags": [
+        "python",
+        "elasticsearch",
+        "elasticsearch-dsl",
+        "elasticsearch-py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703712/validating-es-query-string-upfront-namely-without-connecting-to-an-elasticsearc"
+    }
+  ]
+}

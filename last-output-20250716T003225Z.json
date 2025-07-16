@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-16T00:16:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-15T23:33:13Z",
+      "Title": "How do I stop Chrome rendering U\u002B2122 in a different colour to the rest of my text?",
+      "Tags": [
+        "html",
+        "google-chrome",
+        "unicode",
+        "fonts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702761/how-do-i-stop-chrome-rendering-u2122-in-a-different-colour-to-the-rest-of-my-te"
+    },
+    {
+      "Created": "2025-07-15T23:55:00Z",
+      "Title": "Changing From field to monitored email",
+      "Tags": [
+        "vba",
+        "ms-access",
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702775/changing-from-field-to-monitored-email"
+    },
+    {
+      "Created": "2025-07-15T23:57:21Z",
+      "Title": "Documents folder path discrepancy between Android version (9 et 15)",
+      "Tags": [
+        "c#",
+        "android",
+        "path",
+        "maui",
+        "storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702779/documents-folder-path-discrepancy-between-android-version-9-et-15"
+    },
+    {
+      "Created": "2025-07-16T00:03:02Z",
+      "Title": "How does Oracle Retail Xstore calculate Item Level Tax and Transaction Level Tax",
+      "Tags": [
+        "java",
+        "oracle-database",
+        "point-of-sale",
+        "oracle-fusion-apps",
+        "oracleapplications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702782/how-does-oracle-retail-xstore-calculate-item-level-tax-and-transaction-level-tax"
+    },
+    {
+      "Created": "2025-07-16T00:14:47Z",
+      "Title": "How to access authenticated user principal in SessionConnectedEvent when using a ChannelInterceptor for JWT authentication?",
+      "Tags": [
+        "javascript",
+        "java",
+        "spring",
+        "spring-websocket",
+        "stomp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702785/how-to-access-authenticated-user-principal-in-sessionconnectedevent-when-using-a"
+    },
+    {
+      "Created": "2025-07-16T00:16:58Z",
+      "Title": "CondaToSNonInteractiveError: Terms of Service have not been accepted",
+      "Tags": [
+        "docker",
+        "conda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702788/condatosnoninteractiveerror-terms-of-service-have-not-been-accepted"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-16T07:04:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T06:48:06Z",
+      "Title": "Issue while trying to retrive github access token from github via keycloak",
+      "Tags": [
+        "spring-boot",
+        "spring-security",
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703017/issue-while-trying-to-retrive-github-access-token-from-github-via-keycloak"
+    },
+    {
+      "Created": "2025-07-16T06:48:39Z",
+      "Title": "Android App with Go Library Causes OpenGL Errors",
+      "Tags": [
+        "android",
+        "go",
+        "opengl",
+        "gomobile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703018/android-app-with-go-library-causes-opengl-errors"
+    },
+    {
+      "Created": "2025-07-16T06:48:51Z",
+      "Title": "Potential clickjacking on legacy browsers issue while running checkmarx on angular 16 project",
+      "Tags": [
+        "c#",
+        "angular",
+        "security",
+        "checkmarx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703019/potential-clickjacking-on-legacy-browsers-issue-while-running-checkmarx-on-angul"
+    },
+    {
+      "Created": "2025-07-16T07:00:15Z",
+      "Title": "AL1078 in Visual Studio after switching certificates",
+      "Tags": [
+        "visual-studio",
+        "strongname",
+        "tooling",
+        "strong-named-key"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703028/al1078-in-visual-studio-after-switching-certificates"
+    },
+    {
+      "Created": "2025-07-16T07:04:28Z",
+      "Title": "Quarkus jdbi unable to bind array in query parameter",
+      "Tags": [
+        "oracle-database",
+        "quarkus",
+        "jdbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703033/quarkus-jdbi-unable-to-bind-array-in-query-parameter"
+    }
+  ]
+}

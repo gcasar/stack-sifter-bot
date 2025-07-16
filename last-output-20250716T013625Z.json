@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-16T01:30:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T00:31:12Z",
+      "Title": "Different results from iconv utility and iconv function in my application",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "iconv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702796/different-results-from-iconv-utility-and-iconv-function-in-my-application"
+    },
+    {
+      "Created": "2025-07-16T01:29:11Z",
+      "Title": "Using a descendant combinator after :not",
+      "Tags": [
+        "css",
+        "flexbox",
+        "css-selectors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702820/using-a-descendant-combinator-after-not"
+    },
+    {
+      "Created": "2025-07-16T01:30:15Z",
+      "Title": "How can I fix \u0022error: cannot initialize a variable of type \u0027Node *\u0027 with an rvalue of type \u0027void\u0027\u0022?",
+      "Tags": [
+        "c\u002B\u002B",
+        "vector",
+        "types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702821/how-can-i-fix-error-cannot-initialize-a-variable-of-type-node-with-an-rval"
+    }
+  ]
+}

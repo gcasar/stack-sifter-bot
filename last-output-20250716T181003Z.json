@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-16T18:01:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T17:09:22Z",
+      "Title": "Interface Inheritance with Different Return Types?",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703782/interface-inheritance-with-different-return-types"
+    },
+    {
+      "Created": "2025-07-16T17:47:33Z",
+      "Title": "Is there better solution to normalize characters in GML?",
+      "Tags": [
+        "string",
+        "utf-8",
+        "gml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703823/is-there-better-solution-to-normalize-characters-in-gml"
+    },
+    {
+      "Created": "2025-07-16T17:50:12Z",
+      "Title": "Multiplying a float and casting the result to an unsigned int is leading to a weird result for a single case [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "math",
+        "casting",
+        "floating-point",
+        "precision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703825/multiplying-a-float-and-casting-the-result-to-an-unsigned-int-is-leading-to-a-we"
+    },
+    {
+      "Created": "2025-07-16T17:56:38Z",
+      "Title": "JavaMail 1.6.2 Hangs Connecting to outlook.office365.com using OAUTH2 inside AWS",
+      "Tags": [
+        "amazon-web-services",
+        "oauth-2.0",
+        "jakarta-mail",
+        "imap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703833/javamail-1-6-2-hangs-connecting-to-outlook-office365-com-using-oauth2-inside-aws"
+    },
+    {
+      "Created": "2025-07-16T17:57:52Z",
+      "Title": "Is there a name for this method of flattening a jagged array?",
+      "Tags": [
+        "arrays",
+        "multidimensional-array",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703834/is-there-a-name-for-this-method-of-flattening-a-jagged-array"
+    },
+    {
+      "Created": "2025-07-16T18:00:29Z",
+      "Title": "How can I automate backlink submissions for BecomeFarmer.com using Python?",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping",
+        "beautifulsoup",
+        "python-requests"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703838/how-can-i-automate-backlink-submissions-for-becomefarmer-com-using-python"
+    },
+    {
+      "Created": "2025-07-16T18:01:33Z",
+      "Title": "Using tkinter.after() repeatedly",
+      "Tags": [
+        "python",
+        "tkinter",
+        "plc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703840/using-tkinter-after-repeatedly"
+    }
+  ]
+}

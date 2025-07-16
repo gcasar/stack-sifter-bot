@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-16T22:06:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T21:23:41Z",
+      "Title": "How to store the dataset of an Oracle query for later reference?",
+      "Tags": [
+        "sql",
+        "oracle-database",
+        "webfocus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704040/how-to-store-the-dataset-of-an-oracle-query-for-later-reference"
+    },
+    {
+      "Created": "2025-07-16T21:40:15Z",
+      "Title": "Change event date to TBD in Modern Event Calendar (aka MEC)",
+      "Tags": [
+        "php",
+        "wordpress",
+        "function",
+        "plugins",
+        "code-snippets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704049/change-event-date-to-tbd-in-modern-event-calendar-aka-mec"
+    },
+    {
+      "Created": "2025-07-16T21:51:44Z",
+      "Title": "Open custom wordpress sidebar as default",
+      "Tags": [
+        "sidebar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704057/open-custom-wordpress-sidebar-as-default"
+    },
+    {
+      "Created": "2025-07-16T21:54:42Z",
+      "Title": "C\u002B\u002B SFML window created from X11 handle says \u0022not responding\u0022 despite running fine, and polling for events on Linux",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "sfml",
+        "x11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704058/c-sfml-window-created-from-x11-handle-says-not-responding-despite-running-fi"
+    },
+    {
+      "Created": "2025-07-16T22:00:15Z",
+      "Title": "iOS AVPlayerLayer wrong aspect ratio for landscape videos",
+      "Tags": [
+        "ios",
+        "feed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704064/ios-avplayerlayer-wrong-aspect-ratio-for-landscape-videos"
+    },
+    {
+      "Created": "2025-07-16T22:00:25Z",
+      "Title": "How to dynamically import a Vite-bundled React library served over HTTP, using the host app\u0027s local React instead of a CDN",
+      "Tags": [
+        "reactjs",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704065/how-to-dynamically-import-a-vite-bundled-react-library-served-over-http-using-t"
+    },
+    {
+      "Created": "2025-07-16T22:06:19Z",
+      "Title": "How to refresh a Zoho access token only when expired in a .NET Azure Timer Trigger (Isolated Process)?",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure",
+        "cron",
+        "zoho"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704069/how-to-refresh-a-zoho-access-token-only-when-expired-in-a-net-azure-timer-trigg"
+    }
+  ]
+}

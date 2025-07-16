@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-16T05:03:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T04:31:19Z",
+      "Title": "Why does Spring Boot insist on serializing my ZonedDateTime type data as a floating-point timestamp in seconds?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "jackson",
+        "spring-webflux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702910/why-does-spring-boot-insist-on-serializing-my-zoneddatetime-type-data-as-a-float"
+    },
+    {
+      "Created": "2025-07-16T04:46:24Z",
+      "Title": "Polars.write_excel: How to remove thousand separator for i64 \u0026 f64 \u0026 remove trailing zero for f64 efficiently?",
+      "Tags": [
+        "python",
+        "excel",
+        "pandas",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702918/polars-write-excel-how-to-remove-thousand-separator-for-i64-f64-remove-trai"
+    },
+    {
+      "Created": "2025-07-16T04:56:07Z",
+      "Title": "How to collect prometheus metrics in a closed network?",
+      "Tags": [
+        "prometheus",
+        "monitoring",
+        "metrics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702922/how-to-collect-prometheus-metrics-in-a-closed-network"
+    },
+    {
+      "Created": "2025-07-16T04:58:35Z",
+      "Title": "Aspose pdf to html with formats retained",
+      "Tags": [
+        "aspose",
+        "aspose.pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702923/aspose-pdf-to-html-with-formats-retained"
+    },
+    {
+      "Created": "2025-07-16T05:03:12Z",
+      "Title": "Generate BigQuery Table Insights using Gemini in Google Cloud feature",
+      "Tags": [
+        "google-bigquery",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702929/generate-bigquery-table-insights-using-gemini-in-google-cloud-feature"
+    },
+    {
+      "Created": "2025-07-16T05:03:32Z",
+      "Title": "RabbitMQ Channel Pooling",
+      "Tags": [
+        "python",
+        "rabbitmq",
+        "connection-pooling",
+        "pooling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702930/rabbitmq-channel-pooling"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-16T23:01:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T22:43:19Z",
+      "Title": "How handle the child process errors in Gulp?",
+      "Tags": [
+        "node.js",
+        "gulp",
+        "child-process"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704098/how-handle-the-child-process-errors-in-gulp"
+    },
+    {
+      "Created": "2025-07-16T22:46:55Z",
+      "Title": "RuntimeError: unreachable executed from wasm-bindgen",
+      "Tags": [
+        "rust",
+        "webassembly",
+        "wasm-bindgen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704099/runtimeerror-unreachable-executed-from-wasm-bindgen"
+    },
+    {
+      "Created": "2025-07-16T22:48:39Z",
+      "Title": "Expo app crashes when built for Android due to expo-audio useAudioRecorder issue",
+      "Tags": [
+        "android",
+        "react-native",
+        "expo",
+        "google-play"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704100/expo-app-crashes-when-built-for-android-due-to-expo-audio-useaudiorecorder-issue"
+    },
+    {
+      "Created": "2025-07-16T22:53:30Z",
+      "Title": "Unable to run dbt core on Snowflake with username \u002B password \u002B TOTP",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "dbt",
+        "totp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704105/unable-to-run-dbt-core-on-snowflake-with-username-password-totp"
+    },
+    {
+      "Created": "2025-07-16T23:01:43Z",
+      "Title": "elasticsearch scoring through multiple indices",
+      "Tags": [
+        "elasticsearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704107/elasticsearch-scoring-through-multiple-indices"
+    }
+  ]
+}

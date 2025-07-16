@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-16T10:06:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T09:34:52Z",
+      "Title": "Count how many adjacent elements satisfy a predicate",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703216/count-how-many-adjacent-elements-satisfy-a-predicate"
+    },
+    {
+      "Created": "2025-07-16T09:44:55Z",
+      "Title": "C: How to initialize a 2d array with existing array objects rather than array pointers",
+      "Tags": [
+        "arrays",
+        "c",
+        "internals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703229/c-how-to-initialize-a-2d-array-with-existing-array-objects-rather-than-array-po"
+    },
+    {
+      "Created": "2025-07-16T09:56:35Z",
+      "Title": "in Rust how would I \u0022template\u0022 or \u0022functionalise\u0022 repeated behavour?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703235/in-rust-how-would-i-template-or-functionalise-repeated-behavour"
+    },
+    {
+      "Created": "2025-07-16T09:57:05Z",
+      "Title": "Click event on buttons not working in dropdown Shadow DOM",
+      "Tags": [
+        "javascript",
+        "css",
+        "arcgis",
+        "shadow-dom",
+        "arcgis-js-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703237/click-event-on-buttons-not-working-in-dropdown-shadow-dom"
+    },
+    {
+      "Created": "2025-07-16T09:58:23Z",
+      "Title": "How Should I Handle Authentication and User Identity in a Microservice Architecture?",
+      "Tags": [
+        "authentication",
+        "architecture",
+        "microservices",
+        "api-gateway",
+        "system-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703242/how-should-i-handle-authentication-and-user-identity-in-a-microservice-architect"
+    },
+    {
+      "Created": "2025-07-16T10:02:31Z",
+      "Title": "How to execute sql server xpath having field name into a variable",
+      "Tags": [
+        "sql-server",
+        "t-sql",
+        "xpath"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703245/how-to-execute-sql-server-xpath-having-field-name-into-a-variable"
+    },
+    {
+      "Created": "2025-07-16T10:04:22Z",
+      "Title": "inputting to a cstring of undefined size without wasting memory",
+      "Tags": [
+        "c",
+        "c-strings",
+        "stdio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703250/inputting-to-a-cstring-of-undefined-size-without-wasting-memory"
+    },
+    {
+      "Created": "2025-07-16T10:06:00Z",
+      "Title": "Why it is common to use sigmoid activation for heatmap prediction in pose estimation? Why not use Softmax?",
+      "Tags": [
+        "deep-learning",
+        "computer-vision",
+        "pose-estimation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703251/why-it-is-common-to-use-sigmoid-activation-for-heatmap-prediction-in-pose-estima"
+    }
+  ]
+}

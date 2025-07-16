@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-16T15:04:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T14:07:13Z",
+      "Title": "How to synchronize tabs in Quarto dashboard",
+      "Tags": [
+        "r",
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703547/how-to-synchronize-tabs-in-quarto-dashboard"
+    },
+    {
+      "Created": "2025-07-16T14:42:21Z",
+      "Title": "Is there a way to ignore specific subfolders when using DirectoryInfo.EnumerateFiles without manual recursion?",
+      "Tags": [
+        "c#",
+        ".net",
+        "recursion",
+        "filesystems",
+        "directoryinfo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703600/is-there-a-way-to-ignore-specific-subfolders-when-using-directoryinfo-enumeratef"
+    },
+    {
+      "Created": "2025-07-16T14:50:57Z",
+      "Title": "Code using constrained auto rejected by GCC but not by Clang",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "c\u002B\u002B-concepts",
+        "c\u002B\u002B-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703610/code-using-constrained-auto-rejected-by-gcc-but-not-by-clang"
+    },
+    {
+      "Created": "2025-07-16T14:57:07Z",
+      "Title": "UISplitViewController (.tripleColumn) \u2013 Hiding Supplementary Column Causes UI Issues and Inconsistent Toggle Button Behavior",
+      "Tags": [
+        "ios",
+        "swift",
+        "ipad",
+        "uisplitviewcontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703621/uisplitviewcontroller-triplecolumn-hiding-supplementary-column-causes-ui-is"
+    },
+    {
+      "Created": "2025-07-16T15:00:33Z",
+      "Title": "Use pointer and call function in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "pointers",
+        "templates",
+        "macros",
+        "variadic-macros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703624/use-pointer-and-call-function-in-c"
+    },
+    {
+      "Created": "2025-07-16T15:04:40Z",
+      "Title": "Google Script - Write user emails and access types for a file in a shared drive in a spreadsheet",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script",
+        "google-drive-shared-drive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703630/google-script-write-user-emails-and-access-types-for-a-file-in-a-shared-drive"
+    }
+  ]
+}

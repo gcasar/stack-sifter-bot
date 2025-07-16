@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-16T21:01:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T20:56:54Z",
+      "Title": "Retrieving data from another table after using MIN function",
+      "Tags": [
+        "sql",
+        "oracle-database",
+        "join",
+        "min"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704017/retrieving-data-from-another-table-after-using-min-function"
+    },
+    {
+      "Created": "2025-07-16T20:58:03Z",
+      "Title": "pandas.DataFrame.to_sql skips rows with missing foreign keys",
+      "Tags": [
+        "python",
+        "sql",
+        "pandas",
+        "postgresql",
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704018/pandas-dataframe-to-sql-skips-rows-with-missing-foreign-keys"
+    },
+    {
+      "Created": "2025-07-16T21:01:23Z",
+      "Title": "PHP Equivalent of Mysql inet6_aton() function",
+      "Tags": [
+        "php",
+        "mysql",
+        "database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704021/php-equivalent-of-mysql-inet6-aton-function"
+    }
+  ]
+}

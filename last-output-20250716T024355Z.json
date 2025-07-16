@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-16T02:30:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T02:11:51Z",
+      "Title": "How to transfer collaborator metadata in OpenFL",
+      "Tags": [
+        "ml",
+        "openfl",
+        "federated-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702840/how-to-transfer-collaborator-metadata-in-openfl"
+    },
+    {
+      "Created": "2025-07-16T02:17:11Z",
+      "Title": "How to shrink SVG image proportionally with viewport",
+      "Tags": [
+        "css",
+        "svg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702842/how-to-shrink-svg-image-proportionally-with-viewport"
+    },
+    {
+      "Created": "2025-07-16T02:21:52Z",
+      "Title": "Are there any plans for an LTS maintenance release addressing vulnerabilities in Quarkus 3.20.1?",
+      "Tags": [
+        "quarkus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702845/are-there-any-plans-for-an-lts-maintenance-release-addressing-vulnerabilities-in"
+    },
+    {
+      "Created": "2025-07-16T02:30:20Z",
+      "Title": "C# WPF Opening a new window for logging, and keepting it open for lest of process",
+      "Tags": [
+        "c#",
+        "wpf",
+        "asynchronous",
+        "window"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702849/c-sharp-wpf-opening-a-new-window-for-logging-and-keepting-it-open-for-lest-of-p"
+    }
+  ]
+}

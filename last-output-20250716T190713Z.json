@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-16T18:58:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T18:17:39Z",
+      "Title": "How can I clean up these wrapper traits?",
+      "Tags": [
+        "rust",
+        "types",
+        "interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703853/how-can-i-clean-up-these-wrapper-traits"
+    },
+    {
+      "Created": "2025-07-16T18:22:13Z",
+      "Title": "How to get response errors from webforms WebMethod in production?",
+      "Tags": [
+        "c#",
+        ".net",
+        "webforms",
+        "webmethod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703863/how-to-get-response-errors-from-webforms-webmethod-in-production"
+    },
+    {
+      "Created": "2025-07-16T18:29:06Z",
+      "Title": "Getting read access for specific document in case a field matches",
+      "Tags": [
+        "javascript",
+        "google-cloud-firestore",
+        "firebase-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703869/getting-read-access-for-specific-document-in-case-a-field-matches"
+    },
+    {
+      "Created": "2025-07-16T18:50:05Z",
+      "Title": "Built-in list.append vs list.extend selection?",
+      "Tags": [
+        "python",
+        "list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703895/built-in-list-append-vs-list-extend-selection"
+    },
+    {
+      "Created": "2025-07-16T18:58:34Z",
+      "Title": "Relationship is not preserved while migrating from mysql to Drupal",
+      "Tags": [
+        "mysql",
+        "drupal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703907/relationship-is-not-preserved-while-migrating-from-mysql-to-drupal"
+    }
+  ]
+}

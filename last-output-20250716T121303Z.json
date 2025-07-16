@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-16T12:10:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T11:24:31Z",
+      "Title": "Is there a service that handles WinRM operations [closed]",
+      "Tags": [
+        "windows",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703330/is-there-a-service-that-handles-winrm-operations"
+    },
+    {
+      "Created": "2025-07-16T12:03:32Z",
+      "Title": "Efficient SQL select on date range and user ID",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "t-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703373/efficient-sql-select-on-date-range-and-user-id"
+    },
+    {
+      "Created": "2025-07-16T12:07:15Z",
+      "Title": "CS50P Problem Set 4, Little Professor displays number of problems incorrectly",
+      "Tags": [
+        "python",
+        "cs50"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703378/cs50p-problem-set-4-little-professor-displays-number-of-problems-incorrectly"
+    },
+    {
+      "Created": "2025-07-16T12:10:15Z",
+      "Title": "Python merge multiple dataframes out of memory and chunk them while preserving multindex boundaries",
+      "Tags": [
+        "python",
+        "linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703383/python-merge-multiple-dataframes-out-of-memory-and-chunk-them-while-preserving-m"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-16T17:07:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T16:20:04Z",
+      "Title": "Data class with argument optional only in init",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "python-dataclasses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703727/data-class-with-argument-optional-only-in-init"
+    },
+    {
+      "Created": "2025-07-16T16:49:28Z",
+      "Title": "Is something wrong with my ISNUMBER(SEARCH)*ISNUMBER(SEARCH) formula?",
+      "Tags": [
+        "excel",
+        "excel-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703759/is-something-wrong-with-my-isnumbersearchisnumbersearch-formula"
+    },
+    {
+      "Created": "2025-07-16T16:55:22Z",
+      "Title": "Rsyslog Help Please",
+      "Tags": [
+        "logging",
+        "time",
+        "syslog",
+        "rsyslog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703768/rsyslog-help-please"
+    },
+    {
+      "Created": "2025-07-16T16:58:37Z",
+      "Title": "Spring, what is chosen as bean datatype?",
+      "Tags": [
+        "java",
+        "spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703770/spring-what-is-chosen-as-bean-datatype"
+    },
+    {
+      "Created": "2025-07-16T16:59:01Z",
+      "Title": "Comparing 2 Columns to determin if higher or lower",
+      "Tags": [
+        "python",
+        "anaconda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703771/comparing-2-columns-to-determin-if-higher-or-lower"
+    },
+    {
+      "Created": "2025-07-16T17:00:54Z",
+      "Title": "Audio stops after dragging slider and doesn\u0027t resume",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-audioplayers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703772/audio-stops-after-dragging-slider-and-doesnt-resume"
+    },
+    {
+      "Created": "2025-07-16T17:04:06Z",
+      "Title": "ConnectionTimeout Warning when saving Plotly using partial bundle parameter and HTMLWidget",
+      "Tags": [
+        "r",
+        "plotly",
+        "plotly.js",
+        "htmlwidgets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703777/connectiontimeout-warning-when-saving-plotly-using-partial-bundle-parameter-and"
+    },
+    {
+      "Created": "2025-07-16T17:04:49Z",
+      "Title": "FastAPI application: page stuck loading",
+      "Tags": [
+        "python",
+        "webserver",
+        "fastapi",
+        "directory-structure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703778/fastapi-application-page-stuck-loading"
+    },
+    {
+      "Created": "2025-07-16T17:07:13Z",
+      "Title": "How can I support Apple login on both iOS and Android using Firebase without breaking Android builds in GitHub Actions CI?",
+      "Tags": [
+        "flutter",
+        "github-actions",
+        "cicd",
+        "android-build",
+        "apple-sign-in"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703780/how-can-i-support-apple-login-on-both-ios-and-android-using-firebase-without-bre"
+    }
+  ]
+}

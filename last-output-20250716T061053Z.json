@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-16T06:01:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T05:51:01Z",
+      "Title": "Django send_mail() / EmailMessage with Gmail SMTP has 4-minute delay for new email recipients",
+      "Tags": [
+        "python",
+        "django",
+        "smtp",
+        "gmail",
+        "email-delivery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702959/django-send-mail-emailmessage-with-gmail-smtp-has-4-minute-delay-for-new-ema"
+    },
+    {
+      "Created": "2025-07-16T05:51:12Z",
+      "Title": "Get-MgUserMessageAttachment - process each line of txt file",
+      "Tags": [
+        "powershell",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702960/get-mgusermessageattachment-process-each-line-of-txt-file"
+    },
+    {
+      "Created": "2025-07-16T05:56:02Z",
+      "Title": "How to control Stockfish CLI through Python?",
+      "Tags": [
+        "python",
+        "command-line-interface",
+        "stockfish"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702965/how-to-control-stockfish-cli-through-python"
+    },
+    {
+      "Created": "2025-07-16T05:56:14Z",
+      "Title": "template \u0027void\u0027 function returning a value",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702966/template-void-function-returning-a-value"
+    },
+    {
+      "Created": "2025-07-16T05:57:40Z",
+      "Title": "Secure TextField value get cleared",
+      "Tags": [
+        "ios",
+        "swift",
+        "uitextfield"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702969/secure-textfield-value-get-cleared"
+    },
+    {
+      "Created": "2025-07-16T06:00:59Z",
+      "Title": "Metro \u201CFailed to start watch mode\u201D on Windows when watching shared file",
+      "Tags": [
+        "android",
+        "reactjs",
+        "react-native",
+        "expo",
+        "metro-bundler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702971/metro-failed-to-start-watch-mode-on-windows-when-watching-shared-file"
+    },
+    {
+      "Created": "2025-07-16T06:01:21Z",
+      "Title": "dynamically resizing array in queue implementation",
+      "Tags": [
+        "c",
+        "data-structures",
+        "queue",
+        "dynamic-memory-allocation",
+        "dynamic-arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79702972/dynamically-resizing-array-in-queue-implementation"
+    }
+  ]
+}

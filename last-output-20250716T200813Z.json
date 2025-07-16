@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-16T20:04:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T19:40:31Z",
+      "Title": "how to force compiler error with strcpy() when destination is const",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703950/how-to-force-compiler-error-with-strcpy-when-destination-is-const"
+    },
+    {
+      "Created": "2025-07-16T19:51:59Z",
+      "Title": "Why does the Python REPL behave differently in VS Code\u0027s vs native cmd.exe?",
+      "Tags": [
+        "python",
+        "terminal",
+        "exit",
+        "read-eval-print-loop",
+        "parentheses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703959/why-does-the-python-repl-behave-differently-in-vs-codes-vs-native-cmd-exe"
+    },
+    {
+      "Created": "2025-07-16T19:52:24Z",
+      "Title": "How to center align two inline-block divs",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703960/how-to-center-align-two-inline-block-divs"
+    },
+    {
+      "Created": "2025-07-16T20:04:53Z",
+      "Title": "pandas test if the datatype of an input series supports nan values",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703974/pandas-test-if-the-datatype-of-an-input-series-supports-nan-values"
+    }
+  ]
+}

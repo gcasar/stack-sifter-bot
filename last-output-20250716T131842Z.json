@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-16T13:17:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T12:36:52Z",
+      "Title": "Python intellisense / type sensing seems broken on function overload",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "python-typing",
+        "pylance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703419/python-intellisense-type-sensing-seems-broken-on-function-overload"
+    },
+    {
+      "Created": "2025-07-16T12:53:04Z",
+      "Title": "Merge data between 2 tables using the same primary key but different record count in Oracle",
+      "Tags": [
+        "oracle-database",
+        "merge",
+        "upsert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703443/merge-data-between-2-tables-using-the-same-primary-key-but-different-record-coun"
+    },
+    {
+      "Created": "2025-07-16T13:04:52Z",
+      "Title": "Get spacing between QMenu and QAction in PyQt5?",
+      "Tags": [
+        "pyqt5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703458/get-spacing-between-qmenu-and-qaction-in-pyqt5"
+    },
+    {
+      "Created": "2025-07-16T13:05:12Z",
+      "Title": "Syncfusion Charts: Absorb tap on tooltip",
+      "Tags": [
+        "flutter",
+        "syncfusion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703461/syncfusion-charts-absorb-tap-on-tooltip"
+    },
+    {
+      "Created": "2025-07-16T13:05:21Z",
+      "Title": "Bluetooth LE and RP2040 W in C language",
+      "Tags": [
+        "raspberry-pi-pico",
+        "rp2040"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703462/bluetooth-le-and-rp2040-w-in-c-language"
+    },
+    {
+      "Created": "2025-07-16T13:05:40Z",
+      "Title": "What\u2019s the easiest way to create and track invoices online without paying for expensive software? [closed]",
+      "Tags": [
+        "invoice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703463/what-s-the-easiest-way-to-create-and-track-invoices-online-without-paying-for-ex"
+    },
+    {
+      "Created": "2025-07-16T13:07:47Z",
+      "Title": "Pancakeswap trading bots",
+      "Tags": [
+        "python-3.x",
+        "trading",
+        "uniswap",
+        "bsc",
+        "pancakeswap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703466/pancakeswap-trading-bots"
+    },
+    {
+      "Created": "2025-07-16T13:12:45Z",
+      "Title": "Is there a way to request a remotely stored file in Snakemake?",
+      "Tags": [
+        "snakemake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703470/is-there-a-way-to-request-a-remotely-stored-file-in-snakemake"
+    },
+    {
+      "Created": "2025-07-16T13:16:06Z",
+      "Title": "Optix how to create controller link",
+      "Tags": [
+        "c#",
+        "optix",
+        "rockwell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703471/optix-how-to-create-controller-link"
+    },
+    {
+      "Created": "2025-07-16T13:17:38Z",
+      "Title": "How do I spawn multiple coroutines with co_spawn that run concurrently while awaiting the results in another coroutine in the same order?",
+      "Tags": [
+        "boost-asio",
+        "c\u002B\u002B-coroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79703473/how-do-i-spawn-multiple-coroutines-with-co-spawn-that-run-concurrently-while-awa"
+    }
+  ]
+}

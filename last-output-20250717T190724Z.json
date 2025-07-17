@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-17T18:52:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T18:23:28Z",
+      "Title": "Is there a way to monitor progress of vmapped function in JAX (like with tqdm)?",
+      "Tags": [
+        "progress-bar",
+        "vectorization",
+        "jax",
+        "tqdm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705266/is-there-a-way-to-monitor-progress-of-vmapped-function-in-jax-like-with-tqdm"
+    },
+    {
+      "Created": "2025-07-17T18:24:37Z",
+      "Title": "Is it safe to .pop_back() from an std::vector in order to avoid pointers/memory shifting?",
+      "Tags": [
+        "c\u002B\u002B",
+        "pointers",
+        "memory",
+        "vector",
+        "memory-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705267/is-it-safe-to-pop-back-from-an-stdvector-in-order-to-avoid-pointers-memory"
+    },
+    {
+      "Created": "2025-07-17T18:50:53Z",
+      "Title": "What cause \u0060$display\u0060 work well and not well in one verilog script?",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705295/what-cause-display-work-well-and-not-well-in-one-verilog-script"
+    },
+    {
+      "Created": "2025-07-17T18:52:06Z",
+      "Title": "How come multiline strings with double quotes are working in PHP 8.2 and 8.4 [duplicate]",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705296/how-come-multiline-strings-with-double-quotes-are-working-in-php-8-2-and-8-4"
+    },
+    {
+      "Created": "2025-07-17T18:52:57Z",
+      "Title": "Using ORDER BY and FOR UPDATE in a single query",
+      "Tags": [
+        "sql",
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705297/using-order-by-and-for-update-in-a-single-query"
+    }
+  ]
+}

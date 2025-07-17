@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-17T09:05:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T08:39:29Z",
+      "Title": "etcd keys permissions for patroni",
+      "Tags": [
+        "etcd",
+        "patroni",
+        "etcd3",
+        "etcdctl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704524/etcd-keys-permissions-for-patroni"
+    },
+    {
+      "Created": "2025-07-17T08:40:40Z",
+      "Title": "How to write a database query in Node.js/MongoDb using regex that returns a result when a field starts with a given string?",
+      "Tags": [
+        "node.js",
+        "regex",
+        "mongodb",
+        "path",
+        "startswith"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704527/how-to-write-a-database-query-in-node-js-mongodb-using-regex-that-returns-a-resu"
+    },
+    {
+      "Created": "2025-07-17T08:58:36Z",
+      "Title": "LLaMA model Training for a specific domain",
+      "Tags": [
+        "chatbot",
+        "embedding",
+        "llama",
+        "sentence-transformers",
+        "rag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704550/llama-model-training-for-a-specific-domain"
+    },
+    {
+      "Created": "2025-07-17T09:00:46Z",
+      "Title": "How to implement efficient secondary index filtering on non-key columns in TimeSeries containers?",
+      "Tags": [
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704551/how-to-implement-efficient-secondary-index-filtering-on-non-key-columns-in-times"
+    },
+    {
+      "Created": "2025-07-17T09:05:35Z",
+      "Title": "I\u0027m stuck: No GPS, No LiDAR, Only Pi Zero \u002B Camera \u2014 Can\u0027t Get Drone to Stabilize",
+      "Tags": [
+        "computer-vision",
+        "drone.io",
+        "raspberry-pi-zero",
+        "mavlink",
+        "visual-odometry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704559/im-stuck-no-gps-no-lidar-only-pi-zero-camera-cant-get-drone-to-stabiliz"
+    }
+  ]
+}

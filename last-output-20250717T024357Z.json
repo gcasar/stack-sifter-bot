@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-17T02:39:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T02:02:38Z",
+      "Title": "Does Excel VBA\u0027s \u0022Scripting.Dictionary\u0022 work in languages other than English?",
+      "Tags": [
+        "excel",
+        "vba",
+        "dictionary",
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704204/does-excel-vbas-scripting-dictionary-work-in-languages-other-than-english"
+    },
+    {
+      "Created": "2025-07-17T02:20:55Z",
+      "Title": "I\u0027m a beginner who doesn\u0027t know anything about coding, so I\u0027m asking because I got blocked while making it through GPT",
+      "Tags": [
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704211/im-a-beginner-who-doesnt-know-anything-about-coding-so-im-asking-because-i-g"
+    },
+    {
+      "Created": "2025-07-17T02:31:06Z",
+      "Title": "How can I pass the input parameter of the AWS Step Function StartExecutionCommand into the event of the first lambdaInvoke state using sst?",
+      "Tags": [
+        "amazon-web-services",
+        "lambda",
+        "aws-step-functions",
+        "sst"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704216/how-can-i-pass-the-input-parameter-of-the-aws-step-function-startexecutioncomman"
+    },
+    {
+      "Created": "2025-07-17T02:33:48Z",
+      "Title": "Tailwind css v4, organising file/folder/directory structure?",
+      "Tags": [
+        "css",
+        "typescript",
+        "next.js",
+        "directory-structure",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704219/tailwind-css-v4-organising-file-folder-directory-structure"
+    },
+    {
+      "Created": "2025-07-17T02:34:40Z",
+      "Title": "Apply contenteditable to selected columns in HTML Table",
+      "Tags": [
+        "html",
+        "attributes",
+        "contenteditable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704222/apply-contenteditable-to-selected-columns-in-html-table"
+    },
+    {
+      "Created": "2025-07-17T02:39:12Z",
+      "Title": "What is the purpose of glassEffectID?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "ios26",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704224/what-is-the-purpose-of-glasseffectid"
+    }
+  ]
+}

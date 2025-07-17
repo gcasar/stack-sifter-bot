@@ -1,0 +1,110 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-07-17T21:04:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T20:07:02Z",
+      "Title": "Lex Setup Correctly Validating Assignments but not Expressions",
+      "Tags": [
+        "c",
+        "lex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705348/lex-setup-correctly-validating-assignments-but-not-expressions"
+    },
+    {
+      "Created": "2025-07-17T20:12:13Z",
+      "Title": "Array reassignment in while loop condition",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705354/array-reassignment-in-while-loop-condition"
+    },
+    {
+      "Created": "2025-07-17T20:14:36Z",
+      "Title": "Perl: IPC::run escaping problems with special characters, commands not working",
+      "Tags": [
+        "linux",
+        "perl",
+        "sh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705359/perl-ipcrun-escaping-problems-with-special-characters-commands-not-working"
+    },
+    {
+      "Created": "2025-07-17T20:16:12Z",
+      "Title": "How to create a std::shared_ptr with the same control block as an expired std::weak_ptr",
+      "Tags": [
+        "c\u002B\u002B11",
+        "shared-ptr",
+        "weak-ptr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705360/how-to-create-a-stdshared-ptr-with-the-same-control-block-as-an-expired-stdw"
+    },
+    {
+      "Created": "2025-07-17T20:37:38Z",
+      "Title": "how to restrict drag inside the main container (prevent infinite scroll)",
+      "Tags": [
+        "reactjs",
+        "drag-and-drop",
+        "tailwind-css",
+        "dnd-kit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705379/how-to-restrict-drag-inside-the-main-container-prevent-infinite-scroll"
+    },
+    {
+      "Created": "2025-07-17T20:44:34Z",
+      "Title": "SwiftUI HStack layout from right to left",
+      "Tags": [
+        "swiftui",
+        "hstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705384/swiftui-hstack-layout-from-right-to-left"
+    },
+    {
+      "Created": "2025-07-17T20:52:36Z",
+      "Title": "How do I modify and save the changes made to a file using Python and VSCode?",
+      "Tags": [
+        "python-3.x",
+        "binaryfiles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705393/how-do-i-modify-and-save-the-changes-made-to-a-file-using-python-and-vscode"
+    },
+    {
+      "Created": "2025-07-17T21:01:38Z",
+      "Title": "429 error on vertext AI on google cloud platform, despite never having used it before",
+      "Tags": [
+        "google-cloud-platform",
+        "artificial-intelligence",
+        "vertex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705400/429-error-on-vertext-ai-on-google-cloud-platform-despite-never-having-used-it-b"
+    },
+    {
+      "Created": "2025-07-17T21:01:53Z",
+      "Title": "CakePHP 5 Middleware: Authorization check error when using custom middleware",
+      "Tags": [
+        "cakephp",
+        "cakephp-5.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705402/cakephp-5-middleware-authorization-check-error-when-using-custom-middleware"
+    },
+    {
+      "Created": "2025-07-17T21:04:03Z",
+      "Title": "Can you mask a subview\u0027s layer relative to a superviews coordinate space in UIKit?",
+      "Tags": [
+        "swift",
+        "uikit",
+        "core-animation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705404/can-you-mask-a-subviews-layer-relative-to-a-superviews-coordinate-space-in-uiki"
+    },
+    {
+      "Created": "2025-07-17T21:04:39Z",
+      "Title": "How to fix circular dependency for Zod schema importing validator importing schema?",
+      "Tags": [
+        "typescript",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705405/how-to-fix-circular-dependency-for-zod-schema-importing-validator-importing-sche"
+    }
+  ]
+}

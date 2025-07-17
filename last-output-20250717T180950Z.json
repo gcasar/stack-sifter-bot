@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-17T18:00:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T17:54:30Z",
+      "Title": "How do I control the size of margins around a cartopy map projection?",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "cartopy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705236/how-do-i-control-the-size-of-margins-around-a-cartopy-map-projection"
+    },
+    {
+      "Created": "2025-07-17T18:00:12Z",
+      "Title": "Fine \u0026 Gray fails due to singularity - but Cox and binomial regression do not",
+      "Tags": [
+        "r",
+        "glm",
+        "survival-analysis",
+        "cox-regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705240/fine-gray-fails-due-to-singularity-but-cox-and-binomial-regression-do-not"
+    }
+  ]
+}

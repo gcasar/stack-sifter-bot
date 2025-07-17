@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-17T16:49:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T16:46:50Z",
+      "Title": "FormulaR1C1 giving me errors (need to remove part of cells in cells in a loop",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705157/formular1c1-giving-me-errors-need-to-remove-part-of-cells-in-cells-in-a-loop"
+    },
+    {
+      "Created": "2025-07-17T16:49:13Z",
+      "Title": "ServiceBusOutput binding not working in .NET 8 isolated Azure Function, but manual send works",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure",
+        "azure-functions",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705160/servicebusoutput-binding-not-working-in-net-8-isolated-azure-function-but-manu"
+    }
+  ]
+}

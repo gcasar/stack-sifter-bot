@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-17T00:12:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-16T23:07:06Z",
+      "Title": "Styles not applying",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-native",
+        "nativewind"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704110/styles-not-applying"
+    },
+    {
+      "Created": "2025-07-16T23:15:57Z",
+      "Title": "Is there a way to stack a pseudo-element *behind* its \u003Cp\u003E parent\u0027s text gradient fill?",
+      "Tags": [
+        "css",
+        "css-selectors",
+        "css-gradients"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704114/is-there-a-way-to-stack-a-pseudo-element-behind-its-p-parents-text-gradient"
+    },
+    {
+      "Created": "2025-07-16T23:45:20Z",
+      "Title": "C\u002B\u002B\u0027s virtual methods implementation in C",
+      "Tags": [
+        "c",
+        "oop",
+        "virtual-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704128/cs-virtual-methods-implementation-in-c"
+    },
+    {
+      "Created": "2025-07-16T23:48:16Z",
+      "Title": "Why does my function replace my letters with weird characters?",
+      "Tags": [
+        "c",
+        "c-strings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704129/why-does-my-function-replace-my-letters-with-weird-characters"
+    },
+    {
+      "Created": "2025-07-16T23:57:14Z",
+      "Title": "Adding multiple series to QChart causes bad scaling",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qt5",
+        "qchart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704133/adding-multiple-series-to-qchart-causes-bad-scaling"
+    },
+    {
+      "Created": "2025-07-17T00:07:41Z",
+      "Title": "Is it possible to add classes to the body tag in Twig?",
+      "Tags": [
+        "wordpress",
+        "symfony",
+        "twig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704141/is-it-possible-to-add-classes-to-the-body-tag-in-twig"
+    },
+    {
+      "Created": "2025-07-17T00:07:47Z",
+      "Title": "Make pre-commit work to check the commit message on GitHub",
+      "Tags": [
+        "python",
+        "git",
+        "github",
+        "commit",
+        "pre-commit.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704142/make-pre-commit-work-to-check-the-commit-message-on-github"
+    },
+    {
+      "Created": "2025-07-17T00:10:14Z",
+      "Title": "How do I programmatically determine if my Windows XP System is Windows Embedded Standard 2009?",
+      "Tags": [
+        "batch-file",
+        "windows-xp-embedded"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704145/how-do-i-programmatically-determine-if-my-windows-xp-system-is-windows-embedded"
+    },
+    {
+      "Created": "2025-07-17T00:12:33Z",
+      "Title": "Script throws Exception for Task object in Apex class",
+      "Tags": [
+        "salesforce",
+        "salesforce-lightning",
+        "salesforce-communities"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704149/script-throws-exception-for-task-object-in-apex-class"
+    }
+  ]
+}

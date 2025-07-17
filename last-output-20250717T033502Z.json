@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-17T03:21:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T03:01:58Z",
+      "Title": "GlassEffectContainer does not merge glass effects that are near each other?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "ios26",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704238/glasseffectcontainer-does-not-merge-glass-effects-that-are-near-each-other"
+    },
+    {
+      "Created": "2025-07-17T03:07:12Z",
+      "Title": "Launch.json set up for VSCode debugging on qemu within docker container",
+      "Tags": [
+        "gdb",
+        "qemu",
+        "vscode-devcontainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704243/launch-json-set-up-for-vscode-debugging-on-qemu-within-docker-container"
+    },
+    {
+      "Created": "2025-07-17T03:11:05Z",
+      "Title": "tHelp how to decrypt in python:",
+      "Tags": [
+        "python",
+        "encryption",
+        "deobfuscation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704245/thelp-how-to-decrypt-in-python"
+    },
+    {
+      "Created": "2025-07-17T03:16:54Z",
+      "Title": "Fastlane CodeSign error with match \u0022errSecInternalComponent\u0022",
+      "Tags": [
+        "ios",
+        "cordova",
+        "gitlab-ci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704249/fastlane-codesign-error-with-match-errsecinternalcomponent"
+    },
+    {
+      "Created": "2025-07-17T03:20:36Z",
+      "Title": "Why don\u2019t resource references inside a MonoBehaviour get automatically released after destroying its GameObject in Unity?",
+      "Tags": [
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704251/why-don-t-resource-references-inside-a-monobehaviour-get-automatically-released"
+    },
+    {
+      "Created": "2025-07-17T03:21:08Z",
+      "Title": "PrimeNG 19 custom preset not being applied in Production outside my VM",
+      "Tags": [
+        "angular",
+        "primeng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704252/primeng-19-custom-preset-not-being-applied-in-production-outside-my-vm"
+    }
+  ]
+}

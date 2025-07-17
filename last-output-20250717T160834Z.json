@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-17T15:37:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T15:10:32Z",
+      "Title": "activate script missing from Python virtual environment (venv) on Ubuntu 22.04 with Python 3.12",
+      "Tags": [
+        "python",
+        "django",
+        "ubuntu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705028/activate-script-missing-from-python-virtual-environment-venv-on-ubuntu-22-04-w"
+    },
+    {
+      "Created": "2025-07-17T15:37:49Z",
+      "Title": "Creating an email with word document as template - does not work in W365",
+      "Tags": [
+        "vba",
+        "outlook",
+        "ms-word"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705066/creating-an-email-with-word-document-as-template-does-not-work-in-w365"
+    }
+  ]
+}

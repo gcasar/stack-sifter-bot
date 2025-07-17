@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-17T19:53:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T19:02:28Z",
+      "Title": "FOR XML PATH serialization of float",
+      "Tags": [
+        "json",
+        "sql-server",
+        "xml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705305/for-xml-path-serialization-of-float"
+    },
+    {
+      "Created": "2025-07-17T19:53:13Z",
+      "Title": "How to change the rpId (Relying Party ID) in Django-Allauth",
+      "Tags": [
+        "django-allauth",
+        "passkey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705341/how-to-change-the-rpid-relying-party-id-in-django-allauth"
+    }
+  ]
+}

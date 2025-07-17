@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-17T04:14:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T03:44:36Z",
+      "Title": "Jquery how do I append \u0027\u003Cb\u003E\u003C/b\u003E\u0027 into a textarea as plain-text?",
+      "Tags": [
+        "javascript",
+        "html",
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704260/jquery-how-do-i-append-b-b-into-a-textarea-as-plain-text"
+    },
+    {
+      "Created": "2025-07-17T03:44:46Z",
+      "Title": "Installing Griddb python client strange error",
+      "Tags": [
+        "python",
+        "pip",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704261/installing-griddb-python-client-strange-error"
+    },
+    {
+      "Created": "2025-07-17T04:00:53Z",
+      "Title": "Why does my Python check for \u0022among us always imposter\u0022 string return False?",
+      "Tags": [
+        "apk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704271/why-does-my-python-check-for-among-us-always-imposter-string-return-false"
+    },
+    {
+      "Created": "2025-07-17T04:14:22Z",
+      "Title": "serialver tool in openjdk 21 does not work for nested classes",
+      "Tags": [
+        "java",
+        "ubuntu",
+        "java-21"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704275/serialver-tool-in-openjdk-21-does-not-work-for-nested-classes"
+    }
+  ]
+}

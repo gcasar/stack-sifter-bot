@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-17T05:05:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T04:20:30Z",
+      "Title": "How to correctly implement gltf to 3Dtile",
+      "Tags": [
+        "cesiumjs",
+        "threejs-editor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704280/how-to-correctly-implement-gltf-to-3dtile"
+    },
+    {
+      "Created": "2025-07-17T04:32:08Z",
+      "Title": "Missing com.apple.developer.voip-push-notification Entitlement in Provisioning Profile",
+      "Tags": [
+        "ios",
+        "react-native",
+        "apple-push-notifications",
+        "voip",
+        "twilio-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704284/missing-com-apple-developer-voip-push-notification-entitlement-in-provisioning-p"
+    },
+    {
+      "Created": "2025-07-17T04:35:29Z",
+      "Title": "Is it possible to publish a notification-only Google Chat app without interactive features?",
+      "Tags": [
+        "google-workspace",
+        "google-apps-marketplace",
+        "google-chat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704287/is-it-possible-to-publish-a-notification-only-google-chat-app-without-interactiv"
+    },
+    {
+      "Created": "2025-07-17T04:36:20Z",
+      "Title": "PyCharm2025 doesn\u0027t auto-indent after colon when editing code on remote server",
+      "Tags": [
+        "python",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704289/pycharm2025-doesnt-auto-indent-after-colon-when-editing-code-on-remote-server"
+    },
+    {
+      "Created": "2025-07-17T04:55:31Z",
+      "Title": "Stuck at Login Screen After using clerk for android",
+      "Tags": [
+        "android",
+        "react-native",
+        "expo",
+        "apk",
+        "clerk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704300/stuck-at-login-screen-after-using-clerk-for-android"
+    },
+    {
+      "Created": "2025-07-17T05:05:21Z",
+      "Title": "Localization works locally but not in Docker container (ASP.NET Core)",
+      "Tags": [
+        "c#",
+        "docker",
+        "asp.net-core",
+        "localization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704302/localization-works-locally-but-not-in-docker-container-asp-net-core"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-17T23:03:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T22:38:18Z",
+      "Title": "Python (no Django/Flask) - CSS and other static files not being recognized in base template",
+      "Tags": [
+        "python",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705481/python-no-django-flask-css-and-other-static-files-not-being-recognized-in-ba"
+    },
+    {
+      "Created": "2025-07-17T22:38:42Z",
+      "Title": "pandas processing duplicate column names",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705482/pandas-processing-duplicate-column-names"
+    },
+    {
+      "Created": "2025-07-17T23:03:43Z",
+      "Title": "How to migrate from Webpack to @nx/esbuild and replace generate-package-json-webpack-plugin?",
+      "Tags": [
+        "webpack",
+        "esbuild",
+        "angular19"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705501/how-to-migrate-from-webpack-to-nx-esbuild-and-replace-generate-package-json-web"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-17T01:32:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T00:52:37Z",
+      "Title": "Is there a way in *any* JVM language to implement two interfaces with some method(s) with the same signature but different return types",
+      "Tags": [
+        "java",
+        "groovy",
+        "jvm",
+        "programming-languages"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704167/is-there-a-way-in-any-jvm-language-to-implement-two-interfaces-with-some-metho"
+    },
+    {
+      "Created": "2025-07-17T01:03:01Z",
+      "Title": "Connect a second page through Flask",
+      "Tags": [
+        "flask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704173/connect-a-second-page-through-flask"
+    },
+    {
+      "Created": "2025-07-17T01:08:48Z",
+      "Title": "Continuously stream audio from .m3u8 file between ffmpeg processes",
+      "Tags": [
+        "ffmpeg",
+        "http-live-streaming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704175/continuously-stream-audio-from-m3u8-file-between-ffmpeg-processes"
+    },
+    {
+      "Created": "2025-07-17T01:11:53Z",
+      "Title": "Regex for latitude DDMMSSH where minute or second is equal to 60",
+      "Tags": [
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704178/regex-for-latitude-ddmmssh-where-minute-or-second-is-equal-to-60"
+    },
+    {
+      "Created": "2025-07-17T01:15:35Z",
+      "Title": "What are equivalent of the https status code and how to handle errors in new Get-MessageTraceV2",
+      "Tags": [
+        "powershell",
+        "exchange-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704181/what-are-equivalent-of-the-https-status-code-and-how-to-handle-errors-in-new-get"
+    },
+    {
+      "Created": "2025-07-17T01:22:22Z",
+      "Title": "Word VBA: Why merely reading List.Range property changes the document (and adds \u0022Bullets and Numbering\u0022 item to undo stack)?",
+      "Tags": [
+        "vba",
+        "ms-word"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704184/word-vba-why-merely-reading-list-range-property-changes-the-document-and-adds"
+    },
+    {
+      "Created": "2025-07-17T01:25:21Z",
+      "Title": "Cypress cy.visit() Fails for One Subdomain (ENOTFOUND), But Works for Another \u2014 DNS Resolution Issue?",
+      "Tags": [
+        "network-programming",
+        "jwt",
+        "dns",
+        "cypress",
+        "subdomain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704186/cypress-cy-visit-fails-for-one-subdomain-enotfound-but-works-for-another"
+    },
+    {
+      "Created": "2025-07-17T01:28:24Z",
+      "Title": "How we can create team bot for Azure monitoring for SRE team",
+      "Tags": [
+        "python",
+        "azure",
+        "bots"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704189/how-we-can-create-team-bot-for-azure-monitoring-for-sre-team"
+    },
+    {
+      "Created": "2025-07-17T01:32:46Z",
+      "Title": "How do I get my image to appear on my webpage?",
+      "Tags": [
+        "html",
+        "image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704191/how-do-i-get-my-image-to-appear-on-my-webpage"
+    }
+  ]
+}

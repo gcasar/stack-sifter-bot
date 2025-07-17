@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-17T15:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T14:39:17Z",
+      "Title": "Dependency resolution in of .NET type initializer in PowerShell",
+      "Tags": [
+        ".net",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704985/dependency-resolution-in-of-net-type-initializer-in-powershell"
+    },
+    {
+      "Created": "2025-07-17T14:56:03Z",
+      "Title": "Power BI: DAX measure to calculate portfolio, benchmark and excess returns in a matrix filter context",
+      "Tags": [
+        "powerbi",
+        "dax",
+        "visualization",
+        "powerbi-desktop",
+        "measure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705005/power-bi-dax-measure-to-calculate-portfolio-benchmark-and-excess-returns-in-a"
+    },
+    {
+      "Created": "2025-07-17T15:04:07Z",
+      "Title": "Type mismatch error when using match on an array in Excel VBA",
+      "Tags": [
+        "arrays",
+        "excel",
+        "vba",
+        "match",
+        "type-mismatch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705018/type-mismatch-error-when-using-match-on-an-array-in-excel-vba"
+    }
+  ]
+}

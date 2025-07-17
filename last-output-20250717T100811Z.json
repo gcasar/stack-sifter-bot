@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-17T10:06:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T09:29:21Z",
+      "Title": "How to package customized QGC built using QT6 into an AppImage?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qt6",
+        "qgroundcontrol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704584/how-to-package-customized-qgc-built-using-qt6-into-an-appimage"
+    },
+    {
+      "Created": "2025-07-17T09:39:35Z",
+      "Title": "Actix variable path",
+      "Tags": [
+        "rust",
+        "actix-web"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704601/actix-variable-path"
+    },
+    {
+      "Created": "2025-07-17T09:54:48Z",
+      "Title": "How to find relative coordinates on the screen",
+      "Tags": [
+        "math",
+        "coordinates",
+        "screen",
+        "dimension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704620/how-to-find-relative-coordinates-on-the-screen"
+    },
+    {
+      "Created": "2025-07-17T09:57:56Z",
+      "Title": "How to stop Python from collapsing None entries in dictionaries? [duplicate]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704625/how-to-stop-python-from-collapsing-none-entries-in-dictionaries"
+    },
+    {
+      "Created": "2025-07-17T10:01:08Z",
+      "Title": "VBA code to Fill excel rows in column with dates and time, using only weeksdays and per day displaying 13 hours incremented by 15 minutes",
+      "Tags": [
+        "excel",
+        "vba",
+        "datetime",
+        "nested-loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704629/vba-code-to-fill-excel-rows-in-column-with-dates-and-time-using-only-weeksdays"
+    },
+    {
+      "Created": "2025-07-17T10:02:09Z",
+      "Title": "Google Play: App rejected for READ_MEDIA_IMAGES / READ_MEDIA_VIDEO usage but not declared in code or manifest",
+      "Tags": [
+        "android",
+        "flutter",
+        "permissions",
+        "google-play",
+        "google-play-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704631/google-play-app-rejected-for-read-media-images-read-media-video-usage-but-not"
+    },
+    {
+      "Created": "2025-07-17T10:06:02Z",
+      "Title": "Why does \u0060sympy.plot_implicit\u0060 not work on for combined conditionals that involve \u0060sympy.Abs\u0060?",
+      "Tags": [
+        "python",
+        "sympy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704635/why-does-sympy-plot-implicit-not-work-on-for-combined-conditionals-that-involv"
+    }
+  ]
+}

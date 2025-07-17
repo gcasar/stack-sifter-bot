@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-17T14:03:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T13:32:57Z",
+      "Title": "When trying to get specific files from all Assets folders, why it\u0027s not finding all the files but only one?",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704898/when-trying-to-get-specific-files-from-all-assets-folders-why-its-not-finding"
+    },
+    {
+      "Created": "2025-07-17T13:41:59Z",
+      "Title": "How to connect to Fabric SQL database from Notebook?",
+      "Tags": [
+        "python",
+        "azure",
+        "azure-sql-database",
+        "microsoft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704909/how-to-connect-to-fabric-sql-database-from-notebook"
+    },
+    {
+      "Created": "2025-07-17T13:55:37Z",
+      "Title": "What is student number in error message from exams2nops/R-exams referring to?",
+      "Tags": [
+        "r",
+        "r-exams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704924/what-is-student-number-in-error-message-from-exams2nops-r-exams-referring-to"
+    },
+    {
+      "Created": "2025-07-17T14:03:36Z",
+      "Title": "How to audit only base class (AbstractDict) and avoid creating audit tables for subclasses?",
+      "Tags": [
+        "spring-boot",
+        "hibernate",
+        "audit",
+        "hibernate-envers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704936/how-to-audit-only-base-class-abstractdict-and-avoid-creating-audit-tables-for"
+    },
+    {
+      "Created": "2025-07-17T14:03:40Z",
+      "Title": "Problem with COM login (IBSesja) in Comarch ERP Optima \u2013 error 8007000E",
+      "Tags": [
+        "c#",
+        "com",
+        "interop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704937/problem-with-com-login-ibsesja-in-comarch-erp-optima-error-8007000e"
+    }
+  ]
+}

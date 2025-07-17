@@ -1,0 +1,123 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-07-17T07:07:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T06:23:52Z",
+      "Title": "create an imaginary equation from a quadratic equation",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704358/create-an-imaginary-equation-from-a-quadratic-equation"
+    },
+    {
+      "Created": "2025-07-17T06:34:43Z",
+      "Title": "How do I update an address with a constant minus an address in a circular buffer",
+      "Tags": [
+        "c",
+        "pointers",
+        "delay",
+        "circular-buffer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704372/how-do-i-update-an-address-with-a-constant-minus-an-address-in-a-circular-buffer"
+    },
+    {
+      "Created": "2025-07-17T06:38:39Z",
+      "Title": "Proper way in JavaScript to compare two DOM elements and remove duplicates created by appendChild in loop?",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704378/proper-way-in-javascript-to-compare-two-dom-elements-and-remove-duplicates-creat"
+    },
+    {
+      "Created": "2025-07-17T06:42:33Z",
+      "Title": "How i can make tcp client for simple chat system in .net",
+      "Tags": [
+        "c#",
+        ".net",
+        "tcp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704383/how-i-can-make-tcp-client-for-simple-chat-system-in-net"
+    },
+    {
+      "Created": "2025-07-17T06:49:16Z",
+      "Title": "Please tell me how to solve the output error when implementing voice calls through python aiortc communication",
+      "Tags": [
+        "python",
+        "aiohttp",
+        "aiortc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704396/please-tell-me-how-to-solve-the-output-error-when-implementing-voice-calls-throu"
+    },
+    {
+      "Created": "2025-07-17T06:49:25Z",
+      "Title": "How to perform audio subtraction in Python?",
+      "Tags": [
+        "python",
+        "audio",
+        "artificial-intelligence",
+        "librosa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704397/how-to-perform-audio-subtraction-in-python"
+    },
+    {
+      "Created": "2025-07-17T06:50:01Z",
+      "Title": "Why does AVAudioFormat fail to create a 4-channel PCM format for 44100/48000 Hz on Apple Silicon (M2) with AVFoundation?",
+      "Tags": [
+        "swift",
+        "macos",
+        "audio",
+        "avfoundation",
+        "core-audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704399/why-does-avaudioformat-fail-to-create-a-4-channel-pcm-format-for-44100-48000-hz"
+    },
+    {
+      "Created": "2025-07-17T06:50:04Z",
+      "Title": "How to autogenerate and apply migrations with alembic when building a docker image?",
+      "Tags": [
+        "docker",
+        "fastapi",
+        "database-migration",
+        "alembic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704400/how-to-autogenerate-and-apply-migrations-with-alembic-when-building-a-docker-ima"
+    },
+    {
+      "Created": "2025-07-17T06:59:19Z",
+      "Title": "How to get CSS translateX working the same on Chrome and Firefox",
+      "Tags": [
+        "html",
+        "css",
+        "google-chrome",
+        "firefox",
+        "translate-animation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704402/how-to-get-css-translatex-working-the-same-on-chrome-and-firefox"
+    },
+    {
+      "Created": "2025-07-17T07:05:02Z",
+      "Title": "CMake in MacOS cannot compile basic test program",
+      "Tags": [
+        "macos",
+        "cmake",
+        "clang",
+        "cc",
+        "cimg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704407/cmake-in-macos-cannot-compile-basic-test-program"
+    },
+    {
+      "Created": "2025-07-17T07:07:28Z",
+      "Title": "SignalR connection fails after deploying .NET MAUI app and ASP.NET Core API to Azure",
+      "Tags": [
+        ".net",
+        ".net-core",
+        "signalr",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704409/signalr-connection-fails-after-deploying-net-maui-app-and-asp-net-core-api-to-a"
+    }
+  ]
+}

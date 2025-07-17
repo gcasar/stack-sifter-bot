@@ -1,0 +1,93 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-17T12:10:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T11:18:52Z",
+      "Title": "When workspace include paths are defined, intellisense doesn\u0027t work any more on user ones",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio-code",
+        "intellisense",
+        "include-path"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704707/when-workspace-include-paths-are-defined-intellisense-doesnt-work-any-more-on"
+    },
+    {
+      "Created": "2025-07-17T11:24:02Z",
+      "Title": "How to detect memory leaks in Python when using asynchronous tasks with asyncio?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704719/how-to-detect-memory-leaks-in-python-when-using-asynchronous-tasks-with-asyncio"
+    },
+    {
+      "Created": "2025-07-17T11:42:35Z",
+      "Title": "How to handle async/await inside Express middleware without blocking the request-response cycle?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "middleware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704741/how-to-handle-async-await-inside-express-middleware-without-blocking-the-request"
+    },
+    {
+      "Created": "2025-07-17T11:56:51Z",
+      "Title": "How to create a custom WordPress plugin for adding a shortcode?",
+      "Tags": [
+        "javascript",
+        "php",
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704764/how-to-create-a-custom-wordpress-plugin-for-adding-a-shortcode"
+    },
+    {
+      "Created": "2025-07-17T11:59:48Z",
+      "Title": "Struggling with structured data extraction from scanned receipts",
+      "Tags": [
+        "image",
+        "machine-learning",
+        "information-extraction",
+        "mlmodel",
+        "vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704768/struggling-with-structured-data-extraction-from-scanned-receipts"
+    },
+    {
+      "Created": "2025-07-17T12:01:52Z",
+      "Title": "Using environment variables in Packer HCL v1.13.1",
+      "Tags": [
+        "packer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704772/using-environment-variables-in-packer-hcl-v1-13-1"
+    },
+    {
+      "Created": "2025-07-17T12:02:14Z",
+      "Title": "How to interact .NetCore services with Systemd to identify that service is frozen?",
+      "Tags": [
+        ".net-core",
+        "service",
+        "systemd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704774/how-to-interact-netcore-services-with-systemd-to-identify-that-service-is-froze"
+    },
+    {
+      "Created": "2025-07-17T12:09:55Z",
+      "Title": "Morris chart only five Y axis labes are showing",
+      "Tags": [
+        "morris.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704780/morris-chart-only-five-y-axis-labes-are-showing"
+    },
+    {
+      "Created": "2025-07-17T12:10:04Z",
+      "Title": "Google Drive: Apps Script",
+      "Tags": [
+        "google-apps-script",
+        "google-drive-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704781/google-drive-apps-script"
+    }
+  ]
+}

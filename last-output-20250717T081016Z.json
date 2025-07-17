@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-17T08:05:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T07:53:26Z",
+      "Title": "Why does this va_start crash?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704473/why-does-this-va-start-crash"
+    },
+    {
+      "Created": "2025-07-17T07:53:38Z",
+      "Title": "SIP.js Audio Lost After Network Change \u0026 Reconnect \u2013 Works in JsSIP",
+      "Tags": [
+        "javascript",
+        "network-programming",
+        "webrtc",
+        "audio-streaming",
+        "sip.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704474/sip-js-audio-lost-after-network-change-reconnect-works-in-jssip"
+    },
+    {
+      "Created": "2025-07-17T07:54:19Z",
+      "Title": "How can I implement a live search input with DataviewJS in Obsidian?",
+      "Tags": [
+        "javascript",
+        "obsidian",
+        "obsidian-dataview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704476/how-can-i-implement-a-live-search-input-with-dataviewjs-in-obsidian"
+    },
+    {
+      "Created": "2025-07-17T07:57:34Z",
+      "Title": "RefetchInterval, and QueryKey Changing, will this cause two network requests?",
+      "Tags": [
+        "react-query",
+        "long-polling",
+        "tanstackreact-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704479/refetchinterval-and-querykey-changing-will-this-cause-two-network-requests"
+    },
+    {
+      "Created": "2025-07-17T08:03:17Z",
+      "Title": "c# how to deserialize json object with subclass",
+      "Tags": [
+        "c#",
+        "json",
+        "serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704489/c-sharp-how-to-deserialize-json-object-with-subclass"
+    },
+    {
+      "Created": "2025-07-17T08:05:36Z",
+      "Title": "Using properties in router-link to field",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "vue-component",
+        "vue-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704493/using-properties-in-router-link-to-field"
+    }
+  ]
+}

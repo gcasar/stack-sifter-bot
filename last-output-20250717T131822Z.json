@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-17T13:11:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T12:29:51Z",
+      "Title": "Should a Bill of Materials (BOM) be declared as compileOnly in a Gradle spring-boot-starter?",
+      "Tags": [
+        "spring-boot",
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704818/should-a-bill-of-materials-bom-be-declared-as-compileonly-in-a-gradle-spring-b"
+    },
+    {
+      "Created": "2025-07-17T12:38:13Z",
+      "Title": "How to automically update a specific column in a TimeSeries container row without overwriting other fields?",
+      "Tags": [
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704833/how-to-automically-update-a-specific-column-in-a-timeseries-container-row-withou"
+    },
+    {
+      "Created": "2025-07-17T12:50:56Z",
+      "Title": "My code don\u00B4t read the week 22 and week 28 in dataframe [closed]",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704848/my-code-don%c2%b4t-read-the-week-22-and-week-28-in-dataframe"
+    },
+    {
+      "Created": "2025-07-17T12:50:59Z",
+      "Title": "Creating list of Dictionaries from .csv, mixed datatypes issue",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704849/creating-list-of-dictionaries-from-csv-mixed-datatypes-issue"
+    },
+    {
+      "Created": "2025-07-17T12:58:27Z",
+      "Title": "CUDA_ERROR_INVALID_HANDLE with tensorflow on Nvidia Tesla M60",
+      "Tags": [
+        "tensorflow",
+        "cuda",
+        "cuda-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704854/cuda-error-invalid-handle-with-tensorflow-on-nvidia-tesla-m60"
+    },
+    {
+      "Created": "2025-07-17T13:03:17Z",
+      "Title": "How to migrate Joda-Time DateTime to java.time while keeping the same business logic?",
+      "Tags": [
+        "java",
+        "date",
+        "migration",
+        "jodatime",
+        "java-time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704863/how-to-migrate-joda-time-datetime-to-java-time-while-keeping-the-same-business-l"
+    },
+    {
+      "Created": "2025-07-17T13:04:54Z",
+      "Title": "AVPlayer in SwiftUI delays video playback from URL by 4\u20137 seconds even after setting playImmediately and buffer optimizations",
+      "Tags": [
+        "ios",
+        "swift",
+        "avfoundation",
+        "avplayer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704868/avplayer-in-swiftui-delays-video-playback-from-url-by-4-7-seconds-even-after-set"
+    },
+    {
+      "Created": "2025-07-17T13:11:38Z",
+      "Title": "What is the correct React Native version for using the Viro AR library?",
+      "Tags": [
+        "android",
+        "react-native",
+        "augmented-reality",
+        "viro-react"
+      ],
+      "Url": "https://stackoverflow.com/questions/79704874/what-is-the-correct-react-native-version-for-using-the-viro-ar-library"
+    }
+  ]
+}

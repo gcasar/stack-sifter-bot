@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-17T21:50:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-17T21:40:18Z",
+      "Title": "Best practice to organize pytest fixtures to prevent linter redefined-outer-name warnings",
+      "Tags": [
+        "python",
+        "pytest",
+        "pylint",
+        "fixtures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705443/best-practice-to-organize-pytest-fixtures-to-prevent-linter-redefined-outer-name"
+    },
+    {
+      "Created": "2025-07-17T21:42:19Z",
+      "Title": "Package libffi-dev has no installation candidate on Raspberry pi-os bookworm 12",
+      "Tags": [
+        "python",
+        "raspberry-pi",
+        "tflite",
+        "libffi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705445/package-libffi-dev-has-no-installation-candidate-on-raspberry-pi-os-bookworm-12"
+    },
+    {
+      "Created": "2025-07-17T21:45:26Z",
+      "Title": "How to unit test a pipeline in BizTalk 2020? Option to create a New Test is unavailable in VS2019",
+      "Tags": [
+        "c#",
+        "visual-studio-2019",
+        "biztalk",
+        "biztalk-2020"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705447/how-to-unit-test-a-pipeline-in-biztalk-2020-option-to-create-a-new-test-is-unav"
+    },
+    {
+      "Created": "2025-07-17T21:45:56Z",
+      "Title": "Listening to that subscription update event which belongs to the real downgrade",
+      "Tags": [
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705448/listening-to-that-subscription-update-event-which-belongs-to-the-real-downgrade"
+    },
+    {
+      "Created": "2025-07-17T21:50:53Z",
+      "Title": "Better architecture for nuxt \u002B node \u002B aws",
+      "Tags": [
+        "node.js",
+        "amazon-web-services",
+        "architecture",
+        "nuxt.js",
+        "nuxt3.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705450/better-architecture-for-nuxt-node-aws"
+    }
+  ]
+}

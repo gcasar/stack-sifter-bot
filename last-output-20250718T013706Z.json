@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-18T01:33:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T00:48:49Z",
+      "Title": "Tkinter image label object is not going to the desired spot",
+      "Tags": [
+        "python",
+        "user-interface",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705542/tkinter-image-label-object-is-not-going-to-the-desired-spot"
+    },
+    {
+      "Created": "2025-07-18T01:18:13Z",
+      "Title": "Conditional Merge in Protobuf-Net",
+      "Tags": [
+        "c#",
+        "protobuf-net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705563/conditional-merge-in-protobuf-net"
+    },
+    {
+      "Created": "2025-07-18T01:22:28Z",
+      "Title": "Spring WebFlux caching with Caffeine",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "caching",
+        "spring-webflux",
+        "reactive-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705567/spring-webflux-caching-with-caffeine"
+    },
+    {
+      "Created": "2025-07-18T01:33:18Z",
+      "Title": "How to define custom guidelines/rules for JetBrains AI Assistant",
+      "Tags": [
+        "jetbrains-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705571/how-to-define-custom-guidelines-rules-for-jetbrains-ai-assistant"
+    }
+  ]
+}

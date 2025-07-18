@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-18T06:09:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T05:56:21Z",
+      "Title": "TTouchKeyboard in Delphi steals focus from TChromium control after KB5060829/KB5062553 update",
+      "Tags": [
+        "delphi",
+        "lost-focus",
+        "tchromium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705743/ttouchkeyboard-in-delphi-steals-focus-from-tchromium-control-after-kb5060829-kb5"
+    },
+    {
+      "Created": "2025-07-18T06:01:57Z",
+      "Title": "Using Git across network denied Linux Vmware",
+      "Tags": [
+        "git",
+        "vmware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705746/using-git-across-network-denied-linux-vmware"
+    },
+    {
+      "Created": "2025-07-18T06:02:49Z",
+      "Title": "I can\u0027t open a specific branch on GitHub because there are too many files in the root folder",
+      "Tags": [
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705747/i-cant-open-a-specific-branch-on-github-because-there-are-too-many-files-in-the"
+    },
+    {
+      "Created": "2025-07-18T06:07:12Z",
+      "Title": "How to package a module in python3?",
+      "Tags": [
+        "python",
+        "module",
+        "package",
+        "python-module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705753/how-to-package-a-module-in-python3"
+    },
+    {
+      "Created": "2025-07-18T06:09:47Z",
+      "Title": "Initialize the parameter values of an FMU from a PAR file within the FMU",
+      "Tags": [
+        "fmi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705758/initialize-the-parameter-values-of-an-fmu-from-a-par-file-within-the-fmu"
+    }
+  ]
+}

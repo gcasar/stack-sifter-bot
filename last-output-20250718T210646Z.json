@@ -1,0 +1,109 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-18T21:04:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T20:08:10Z",
+      "Title": "Setting up cocoapods on kmp (kotlin multiplatform) project in separate gradle file",
+      "Tags": [
+        "gradle",
+        "build.gradle",
+        "kotlin-multiplatform",
+        "gradle-kotlin-dsl",
+        "kmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706696/setting-up-cocoapods-on-kmp-kotlin-multiplatform-project-in-separate-gradle-fi"
+    },
+    {
+      "Created": "2025-07-18T20:21:47Z",
+      "Title": "C\u002B\u002B\u0027s std::unique returns clearly non-unique results",
+      "Tags": [
+        "c\u002B\u002B",
+        "std",
+        "unique"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706709/cs-stdunique-returns-clearly-non-unique-results"
+    },
+    {
+      "Created": "2025-07-18T20:38:04Z",
+      "Title": "Why does this PySpark job fail when performing the second checkpoint?",
+      "Tags": [
+        "apache-spark",
+        "pyspark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706722/why-does-this-pyspark-job-fail-when-performing-the-second-checkpoint"
+    },
+    {
+      "Created": "2025-07-18T20:39:00Z",
+      "Title": "Tailwind CSS is not working in Next JS project",
+      "Tags": [
+        "next.js",
+        "frontend",
+        "tailwind-css",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706723/tailwind-css-is-not-working-in-next-js-project"
+    },
+    {
+      "Created": "2025-07-18T20:42:04Z",
+      "Title": "How can I implement Apple Wallet Extensions in a .NET MAUI app? Is a wrapper required?",
+      "Tags": [
+        ".net",
+        "maui",
+        "applepay",
+        "maui-ios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706726/how-can-i-implement-apple-wallet-extensions-in-a-net-maui-app-is-a-wrapper-req"
+    },
+    {
+      "Created": "2025-07-18T20:43:36Z",
+      "Title": "In what order do model_validators run in Pydantic?",
+      "Tags": [
+        "python",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706727/in-what-order-do-model-validators-run-in-pydantic"
+    },
+    {
+      "Created": "2025-07-18T20:46:40Z",
+      "Title": "Can\u0027t get \u0060sed\u0060 to work with text containing escape sequences",
+      "Tags": [
+        "bash",
+        "sed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706731/cant-get-sed-to-work-with-text-containing-escape-sequences"
+    },
+    {
+      "Created": "2025-07-18T20:49:58Z",
+      "Title": "How to replace FLAG_FULLSCREEN with WindowInsetsController and hide",
+      "Tags": [
+        "java",
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706735/how-to-replace-flag-fullscreen-with-windowinsetscontroller-and-hide"
+    },
+    {
+      "Created": "2025-07-18T20:54:15Z",
+      "Title": "How to determine left and right indices quickly in depth-first ordered implicit binary tree?",
+      "Tags": [
+        "indexing",
+        "binary-tree",
+        "depth-first-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706739/how-to-determine-left-and-right-indices-quickly-in-depth-first-ordered-implicit"
+    },
+    {
+      "Created": "2025-07-18T21:04:05Z",
+      "Title": "Canvas svg manipulation and glsl",
+      "Tags": [
+        "javascript",
+        "svg",
+        "canvas",
+        "three.js",
+        "react-three-fiber"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706741/canvas-svg-manipulation-and-glsl"
+    }
+  ]
+}

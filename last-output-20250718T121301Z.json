@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-18T12:12:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T11:59:45Z",
+      "Title": "GitLab Runner with bash executor in windows failing to load bash profile",
+      "Tags": [
+        "bash",
+        "gitlab",
+        "gitlab-ci",
+        "gitlab-ci-runner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706137/gitlab-runner-with-bash-executor-in-windows-failing-to-load-bash-profile"
+    },
+    {
+      "Created": "2025-07-18T12:00:04Z",
+      "Title": "Why does \u0027is\u0027 behave differently for small and large integers in Python? [duplicate]",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "python-internals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706138/why-does-is-behave-differently-for-small-and-large-integers-in-python"
+    },
+    {
+      "Created": "2025-07-18T12:01:01Z",
+      "Title": "Unable to run inference in onnxruntime-web (wasm backend) proxy mode with multi-threading enabled",
+      "Tags": [
+        "onnxruntime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706140/unable-to-run-inference-in-onnxruntime-web-wasm-backend-proxy-mode-with-multi"
+    },
+    {
+      "Created": "2025-07-18T12:04:48Z",
+      "Title": "Hiding the SAP GUI window while accessing it through python",
+      "Tags": [
+        "python",
+        "sap-gui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706144/hiding-the-sap-gui-window-while-accessing-it-through-python"
+    },
+    {
+      "Created": "2025-07-18T12:05:21Z",
+      "Title": "Align bars on different axes on top on each other in matplotlib",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706145/align-bars-on-different-axes-on-top-on-each-other-in-matplotlib"
+    },
+    {
+      "Created": "2025-07-18T12:12:07Z",
+      "Title": "Swift DispatchQueue deadlock when calling sync inside async",
+      "Tags": [
+        "ios",
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706149/swift-dispatchqueue-deadlock-when-calling-sync-inside-async"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-18T16:04:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T15:52:28Z",
+      "Title": "Email verification in django python",
+      "Tags": [
+        "python",
+        "django",
+        "email",
+        "verification",
+        "email-validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706438/email-verification-in-django-python"
+    },
+    {
+      "Created": "2025-07-18T15:58:51Z",
+      "Title": "htaccess block root folder bit allow access to list of specified sub folders",
+      "Tags": [
+        "php",
+        "wordpress",
+        "apache",
+        ".htaccess",
+        "mod-rewrite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706447/htaccess-block-root-folder-bit-allow-access-to-list-of-specified-sub-folders"
+    },
+    {
+      "Created": "2025-07-18T16:01:44Z",
+      "Title": "Why is my WordPress plugin shortcode output duplicating every time I refresh the page?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "shortcode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706454/why-is-my-wordpress-plugin-shortcode-output-duplicating-every-time-i-refresh-the"
+    },
+    {
+      "Created": "2025-07-18T16:04:11Z",
+      "Title": "Is there a way to run an Android Studio scratch file that uses classes implementing android.os.Parcelable?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-studio",
+        "parcelable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706458/is-there-a-way-to-run-an-android-studio-scratch-file-that-uses-classes-implement"
+    }
+  ]
+}

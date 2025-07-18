@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-18T15:01:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T14:22:27Z",
+      "Title": "Modify a column with awk and a bash script",
+      "Tags": [
+        "bash",
+        "awk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706316/modify-a-column-with-awk-and-a-bash-script"
+    },
+    {
+      "Created": "2025-07-18T14:31:28Z",
+      "Title": "Regex with multiple optional capture groups",
+      "Tags": [
+        "regex",
+        "capture-group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706327/regex-with-multiple-optional-capture-groups"
+    },
+    {
+      "Created": "2025-07-18T14:41:13Z",
+      "Title": "What determines when an array is considered a variable length array",
+      "Tags": [
+        "arrays",
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706352/what-determines-when-an-array-is-considered-a-variable-length-array"
+    },
+    {
+      "Created": "2025-07-18T14:44:22Z",
+      "Title": "How to concurrently remove lines from a file in Python?",
+      "Tags": [
+        "python",
+        "locking",
+        "cluster-computing",
+        "python-multiprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706357/how-to-concurrently-remove-lines-from-a-file-in-python"
+    },
+    {
+      "Created": "2025-07-18T14:48:38Z",
+      "Title": "Trying to split parameter pack into two smaller packs using an index sequence and nested lambdas leads to weird compiler behaviors",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "lambda",
+        "variadic-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706366/trying-to-split-parameter-pack-into-two-smaller-packs-using-an-index-sequence-an"
+    },
+    {
+      "Created": "2025-07-18T14:56:32Z",
+      "Title": "How to manage Android devices with rounded corners screens",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-activity",
+        "rounded-corners",
+        "windowinsets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706378/how-to-manage-android-devices-with-rounded-corners-screens"
+    },
+    {
+      "Created": "2025-07-18T14:56:36Z",
+      "Title": "How can I remove a block of text from an email body based on criteria?",
+      "Tags": [
+        "c#",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706379/how-can-i-remove-a-block-of-text-from-an-email-body-based-on-criteria"
+    },
+    {
+      "Created": "2025-07-18T14:57:39Z",
+      "Title": "Does Firebase Authentication support IdP-initiated login with SAML or OIDC?",
+      "Tags": [
+        "firebase",
+        "authentication",
+        "google-cloud-platform",
+        "firebase-authentication",
+        "okta"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706381/does-firebase-authentication-support-idp-initiated-login-with-saml-or-oidc"
+    },
+    {
+      "Created": "2025-07-18T15:01:24Z",
+      "Title": "Plotly area graph not showing lines correctly",
+      "Tags": [
+        "python",
+        "graph",
+        "plotly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706386/plotly-area-graph-not-showing-lines-correctly"
+    }
+  ]
+}

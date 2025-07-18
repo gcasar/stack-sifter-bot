@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-18T22:00:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T21:10:35Z",
+      "Title": "split in void context worked in old perl, misbehaves in new - easiest fix?",
+      "Tags": [
+        "perl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706747/split-in-void-context-worked-in-old-perl-misbehaves-in-new-easiest-fix"
+    },
+    {
+      "Created": "2025-07-18T21:39:50Z",
+      "Title": "How to design a normalized database schema for a university notes blog with reusable subjects?",
+      "Tags": [
+        "sql",
+        "mysql",
+        "database",
+        "database-design",
+        "schema"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706774/how-to-design-a-normalized-database-schema-for-a-university-notes-blog-with-reus"
+    },
+    {
+      "Created": "2025-07-18T21:42:49Z",
+      "Title": "DB2 LUW Why does TRANSLATE produce this error? SQLSTATE(42815)",
+      "Tags": [
+        "stored-procedures",
+        "translate",
+        "db2-luw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706776/db2-luw-why-does-translate-produce-this-error-sqlstate42815"
+    },
+    {
+      "Created": "2025-07-18T21:43:42Z",
+      "Title": "What is the viable path to upgrade from 4.7.5 Artifactory single node docker(Debian 9) to 7.111.12 single node docker (Ubuntu24)",
+      "Tags": [
+        "artifactory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706777/what-is-the-viable-path-to-upgrade-from-4-7-5-artifactory-single-node-dockerdeb"
+    },
+    {
+      "Created": "2025-07-18T21:44:38Z",
+      "Title": "How do I restrict the results by date range based on which S\u0026F Pro form is used while allowing a date range in the search form?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706779/how-do-i-restrict-the-results-by-date-range-based-on-which-sf-pro-form-is-used"
+    },
+    {
+      "Created": "2025-07-18T22:00:14Z",
+      "Title": "How to map a value from one range to another accurately without using floating point?",
+      "Tags": [
+        "c",
+        "math",
+        "range",
+        "microcontroller",
+        "integer-arithmetic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706787/how-to-map-a-value-from-one-range-to-another-accurately-without-using-floating-p"
+    },
+    {
+      "Created": "2025-07-18T22:00:15Z",
+      "Title": "The class \u0027GoogleSignIn\u0027 doesn\u0027t have an unnamed constructor",
+      "Tags": [
+        "flutter",
+        "google-signin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706789/the-class-googlesignin-doesnt-have-an-unnamed-constructor"
+    }
+  ]
+}

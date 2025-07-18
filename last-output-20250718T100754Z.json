@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-18T10:04:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T09:53:59Z",
+      "Title": "Difference between Tensorflow/Keras Dense Layer output and matmul operation with weights with NumPy",
+      "Tags": [
+        "python",
+        "numpy",
+        "tensorflow",
+        "keras"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706005/difference-between-tensorflow-keras-dense-layer-output-and-matmul-operation-with"
+    },
+    {
+      "Created": "2025-07-18T10:00:36Z",
+      "Title": "Aspire 9 Service discovery not showing IP",
+      "Tags": [
+        ".net-9.0",
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706010/aspire-9-service-discovery-not-showing-ip"
+    },
+    {
+      "Created": "2025-07-18T10:01:26Z",
+      "Title": "How to get the public IP address of my Pythonanywhere server?",
+      "Tags": [
+        "python",
+        "sockets",
+        "server",
+        "pythonanywhere"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706011/how-to-get-the-public-ip-address-of-my-pythonanywhere-server"
+    },
+    {
+      "Created": "2025-07-18T10:04:22Z",
+      "Title": "Installing GTKWave at Cygwin fails because of missing libbz2 headers",
+      "Tags": [
+        "cygwin",
+        "gtkwave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706013/installing-gtkwave-at-cygwin-fails-because-of-missing-libbz2-headers"
+    },
+    {
+      "Created": "2025-07-18T10:04:35Z",
+      "Title": "Modify the order of the variables in sv_importance beeswarm plot",
+      "Tags": [
+        "r",
+        "plot",
+        "shap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706014/modify-the-order-of-the-variables-in-sv-importance-beeswarm-plot"
+    }
+  ]
+}

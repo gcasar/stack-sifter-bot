@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-18T13:16:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T12:51:10Z",
+      "Title": "How can I optimize the time complexity of my brute-force solution for finding all unique triplets with sum zero?",
+      "Tags": [
+        "java",
+        "arrays",
+        "algorithm",
+        "time-complexity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706196/how-can-i-optimize-the-time-complexity-of-my-brute-force-solution-for-finding-al"
+    },
+    {
+      "Created": "2025-07-18T13:13:29Z",
+      "Title": "\u0027IServiceCollection\u0027 does not contain a definition for \u0027AddIdentity\u0027 and no accessible extension method \u0027AddIdentity\u0027",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706225/iservicecollection-does-not-contain-a-definition-for-addidentity-and-no-acce"
+    },
+    {
+      "Created": "2025-07-18T13:13:56Z",
+      "Title": "P/Invoke function throws \u0022Entry Point Not Found\u0022 error",
+      "Tags": [
+        "pinvoke"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706226/p-invoke-function-throws-entry-point-not-found-error"
+    },
+    {
+      "Created": "2025-07-18T13:16:41Z",
+      "Title": "vis.js shows items with no time starting at around 8PM instead of midnight",
+      "Tags": [
+        "javascript",
+        "vis.js",
+        "vis.js-timeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706229/vis-js-shows-items-with-no-time-starting-at-around-8pm-instead-of-midnight"
+    }
+  ]
+}

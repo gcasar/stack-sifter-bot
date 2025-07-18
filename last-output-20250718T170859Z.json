@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-18T17:03:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T16:35:39Z",
+      "Title": "Is projecting directly to nested DTOs using ternary operators to handle nulls a reliable pattern in EF Core 8?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "blazor",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706493/is-projecting-directly-to-nested-dtos-using-ternary-operators-to-handle-nulls-a"
+    },
+    {
+      "Created": "2025-07-18T17:03:18Z",
+      "Title": "Getting a \u0022connection refused\u0022 error when attempting to upload metrics to an OpenTelemetry collector",
+      "Tags": [
+        "go",
+        "docker-compose",
+        "open-telemetry",
+        "open-telemetry-collector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706517/getting-a-connection-refused-error-when-attempting-to-upload-metrics-to-an-ope"
+    }
+  ]
+}

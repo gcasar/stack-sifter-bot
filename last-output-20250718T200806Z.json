@@ -1,0 +1,106 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-18T19:56:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T19:28:07Z",
+      "Title": "How can a server communicare with multiple clients : \u0060client_fd\u0060, \u0060server_fd\u0060?",
+      "Tags": [
+        "sockets",
+        "websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706645/how-can-a-server-communicare-with-multiple-clients-client-fd-server-fd"
+    },
+    {
+      "Created": "2025-07-18T19:34:34Z",
+      "Title": "Can the name of a template parameter shadow the name of a member of that class?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706653/can-the-name-of-a-template-parameter-shadow-the-name-of-a-member-of-that-class"
+    },
+    {
+      "Created": "2025-07-18T19:43:32Z",
+      "Title": "How can I identify an error \u0022reading CGI reply\u0022 when running a Perl Mail::Mailer script under NGINX",
+      "Tags": [
+        "perl",
+        "email"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706671/how-can-i-identify-an-error-reading-cgi-reply-when-running-a-perl-mailmailer"
+    },
+    {
+      "Created": "2025-07-18T19:43:42Z",
+      "Title": "Missing rows in Pandas",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706672/missing-rows-in-pandas"
+    },
+    {
+      "Created": "2025-07-18T19:45:24Z",
+      "Title": "How can I associate Firefox profiles from Snap with custom desktop launchers on GNOME?",
+      "Tags": [
+        "firefox",
+        "wayland",
+        "ubuntu-24.04",
+        "snap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706675/how-can-i-associate-firefox-profiles-from-snap-with-custom-desktop-launchers-on"
+    },
+    {
+      "Created": "2025-07-18T19:45:55Z",
+      "Title": "Why doesn\u0027t GDB hit the breakpoint at main after monitor reset run with OpenOCD?",
+      "Tags": [
+        "debugging",
+        "gdb",
+        "openocd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706676/why-doesnt-gdb-hit-the-breakpoint-at-main-after-monitor-reset-run-with-openocd"
+    },
+    {
+      "Created": "2025-07-18T19:49:41Z",
+      "Title": "How to conditionally include a variable in a @UserMessage prompt in LangChain4j (skip if null)?",
+      "Tags": [
+        "java",
+        "langchain",
+        "large-language-model",
+        "langchain4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706678/how-to-conditionally-include-a-variable-in-a-usermessage-prompt-in-langchain4j"
+    },
+    {
+      "Created": "2025-07-18T19:54:02Z",
+      "Title": "GNU Attribute \u0022nonnull\u0022 and Custom Assert Conflict",
+      "Tags": [
+        "c",
+        "gnu",
+        "assert",
+        "non-nullable",
+        "gcc-attribute"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706682/gnu-attribute-nonnull-and-custom-assert-conflict"
+    },
+    {
+      "Created": "2025-07-18T19:54:26Z",
+      "Title": "why default infoPlist.strings is in English? And how to make other default language for infoPlist.strings",
+      "Tags": [
+        "ios",
+        "swift",
+        "localization",
+        "plist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706684/why-default-infoplist-strings-is-in-english-and-how-to-make-other-default-langu"
+    },
+    {
+      "Created": "2025-07-18T19:56:23Z",
+      "Title": "Displaying Gantt Chart with Partial Date Data in Highcharts",
+      "Tags": [
+        "javascript",
+        "highcharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706686/displaying-gantt-chart-with-partial-date-data-in-highcharts"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-18T02:43:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T01:46:38Z",
+      "Title": "Revoking multiple sonar tokens trough api",
+      "Tags": [
+        "sonarqube"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705580/revoking-multiple-sonar-tokens-trough-api"
+    },
+    {
+      "Created": "2025-07-18T02:26:31Z",
+      "Title": "What do these symbols mean in a Sphinx docstring?",
+      "Tags": [
+        "sphinx",
+        "docstring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705607/what-do-these-symbols-mean-in-a-sphinx-docstring"
+    },
+    {
+      "Created": "2025-07-18T02:40:36Z",
+      "Title": "Cannot access pasteboard from App Intents in swift",
+      "Tags": [
+        "swift",
+        "uipasteboard",
+        "appintents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705614/cannot-access-pasteboard-from-app-intents-in-swift"
+    },
+    {
+      "Created": "2025-07-18T02:42:07Z",
+      "Title": "Downloaded postgres fresh with Homebrew on Mac but cannot connect",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705615/downloaded-postgres-fresh-with-homebrew-on-mac-but-cannot-connect"
+    },
+    {
+      "Created": "2025-07-18T02:43:51Z",
+      "Title": "My react-hot-toast in Nextjs doesn\u0027t fire until their is another toast present",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "react-hot-toast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705619/my-react-hot-toast-in-nextjs-doesnt-fire-until-their-is-another-toast-present"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-18T04:57:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T04:29:59Z",
+      "Title": "What is the diffrence between a byte string and a normal string in python? [duplicate]",
+      "Tags": [
+        "python",
+        "string",
+        "byte",
+        "character"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705680/what-is-the-diffrence-between-a-byte-string-and-a-normal-string-in-python"
+    },
+    {
+      "Created": "2025-07-18T04:43:36Z",
+      "Title": "Ant JWSC Task failed on WebLogic 14c and JDK17",
+      "Tags": [
+        "java",
+        "web-services",
+        "weblogic",
+        "jax-ws",
+        "weblogic14c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705690/ant-jwsc-task-failed-on-weblogic-14c-and-jdk17"
+    },
+    {
+      "Created": "2025-07-18T04:57:34Z",
+      "Title": "Error in predicting the strategy in a trained model",
+      "Tags": [
+        "python",
+        "train-test-split",
+        "tfidfvectorizer",
+        "sklearn.model-selection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705696/error-in-predicting-the-strategy-in-a-trained-model"
+    }
+  ]
+}

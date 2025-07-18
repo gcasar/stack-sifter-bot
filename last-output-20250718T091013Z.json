@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-18T08:59:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T08:13:10Z",
+      "Title": "Finding the next month with year",
+      "Tags": [
+        "r",
+        "lubridate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705876/finding-the-next-month-with-year"
+    },
+    {
+      "Created": "2025-07-18T08:45:28Z",
+      "Title": "Why is my plotly.graph_objects.Bar graph displaying increments of one rather than the values in my pandas DataFrame?",
+      "Tags": [
+        "python",
+        "pandas",
+        "plotly",
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705912/why-is-my-plotly-graph-objects-bar-graph-displaying-increments-of-one-rather-tha"
+    },
+    {
+      "Created": "2025-07-18T08:51:38Z",
+      "Title": "Why does memory usage never decrease after large FlatBuffers serialization in Swift (v25.2.10)?",
+      "Tags": [
+        "ios",
+        "swift",
+        "macos",
+        "memory-management",
+        "flatbuffers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705916/why-does-memory-usage-never-decrease-after-large-flatbuffers-serialization-in-sw"
+    },
+    {
+      "Created": "2025-07-18T08:56:06Z",
+      "Title": "Kafka Incremental Rebalacing Protocol does not allow commit?",
+      "Tags": [
+        "apache-kafka",
+        "messaging",
+        "rebalancing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705922/kafka-incremental-rebalacing-protocol-does-not-allow-commit"
+    },
+    {
+      "Created": "2025-07-18T08:59:13Z",
+      "Title": "Using DataLoader for efficient model prediction",
+      "Tags": [
+        "python",
+        "pytorch",
+        "pytorch-dataloader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705928/using-dataloader-for-efficient-model-prediction"
+    }
+  ]
+}

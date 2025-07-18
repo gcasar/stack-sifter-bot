@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-18T06:57:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T06:39:37Z",
+      "Title": "How to modify or remove default context menu items in Autodesk Viewer 7.x, and how to create submenus in custom context menu?",
+      "Tags": [
+        "javascript",
+        "autodesk-forge",
+        "autodesk-viewer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705783/how-to-modify-or-remove-default-context-menu-items-in-autodesk-viewer-7-x-and-h"
+    },
+    {
+      "Created": "2025-07-18T06:42:46Z",
+      "Title": "whenever i hit post request on my page then I cannot display the updated value from database even though I fetched the data from updated db",
+      "Tags": [
+        "python",
+        "flask",
+        "flask-sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705785/whenever-i-hit-post-request-on-my-page-then-i-cannot-display-the-updated-value-f"
+    },
+    {
+      "Created": "2025-07-18T06:57:14Z",
+      "Title": "I was unable to get images urls from document picker in macOS",
+      "Tags": [
+        "ios",
+        "swift",
+        "macos",
+        "swiftui",
+        "uikit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705805/i-was-unable-to-get-images-urls-from-document-picker-in-macos"
+    }
+  ]
+}

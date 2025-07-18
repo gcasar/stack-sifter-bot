@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-18T00:19:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T00:11:09Z",
+      "Title": "Why does \u0060np.random.default_rng()\u0060 prevent seed change compared to \u0060numpy.random.seed\u0060?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705527/why-does-np-random-default-rng-prevent-seed-change-compared-to-numpy-random"
+    },
+    {
+      "Created": "2025-07-18T00:19:48Z",
+      "Title": "How to create a route with parameters only, while still retaining predefined routes",
+      "Tags": [
+        "c#",
+        "asp.net-mvc-4",
+        "model-view-controller",
+        "routes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79705531/how-to-create-a-route-with-parameters-only-while-still-retaining-predefined-rou"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-18T18:46:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T18:36:56Z",
+      "Title": "How to run Mesa ABM SolaraViz visualization locally outside Jupyter notebooks?",
+      "Tags": [
+        "mesa",
+        "mesa-abm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706599/how-to-run-mesa-abm-solaraviz-visualization-locally-outside-jupyter-notebooks"
+    },
+    {
+      "Created": "2025-07-18T18:46:33Z",
+      "Title": "Tkinter widget formatting problems",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706606/tkinter-widget-formatting-problems"
+    }
+  ]
+}

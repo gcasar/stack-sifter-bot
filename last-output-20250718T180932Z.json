@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-18T18:07:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T17:41:35Z",
+      "Title": "How to get the link copied",
+      "Tags": [
+        "playwright",
+        "playwright-typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706548/how-to-get-the-link-copied"
+    },
+    {
+      "Created": "2025-07-18T17:57:26Z",
+      "Title": "Output of C\u002B\u002B program is in random order. Help me understand why. Is it compiler bug? [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706561/output-of-c-program-is-in-random-order-help-me-understand-why-is-it-compiler"
+    },
+    {
+      "Created": "2025-07-18T18:00:06Z",
+      "Title": "How do I disable the swipe to go back gesture on Android?",
+      "Tags": [
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706562/how-do-i-disable-the-swipe-to-go-back-gesture-on-android"
+    },
+    {
+      "Created": "2025-07-18T18:02:54Z",
+      "Title": "Sessionimpl :: isDirty return false even when there are objects locked with OPTIMISTIC_FORCE_INCREMENT",
+      "Tags": [
+        "java",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706566/sessionimpl-isdirty-return-false-even-when-there-are-objects-locked-with-opti"
+    },
+    {
+      "Created": "2025-07-18T18:04:50Z",
+      "Title": "Can\u0027t validate shopify header in webhook",
+      "Tags": [
+        "c#",
+        ".net",
+        "shopify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706569/cant-validate-shopify-header-in-webhook"
+    },
+    {
+      "Created": "2025-07-18T18:07:51Z",
+      "Title": "Python scikit-rf: Unexpected impedance plot from series RLC .s2p: S\u2192Y OK, but Z plot incorrect \u2014 why?",
+      "Tags": [
+        "python",
+        "scikits"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706575/python-scikit-rf-unexpected-impedance-plot-from-series-rlc-s2p-s%e2%86%92y-ok-but-z"
+    }
+  ]
+}

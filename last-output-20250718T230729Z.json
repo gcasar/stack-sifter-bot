@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-18T23:04:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T22:15:04Z",
+      "Title": "template function as a template typename of another temlate",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "function-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706797/template-function-as-a-template-typename-of-another-temlate"
+    },
+    {
+      "Created": "2025-07-18T22:28:33Z",
+      "Title": "How can I optimize my Node.js logging package (logit-pro) for async logging and log rotation?",
+      "Tags": [
+        "node.js",
+        "npm",
+        "logging",
+        "npm-scripts",
+        "npm-package"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706805/how-can-i-optimize-my-node-js-logging-package-logit-pro-for-async-logging-and"
+    },
+    {
+      "Created": "2025-07-18T22:31:30Z",
+      "Title": "System.IO.FileNotFoundException Loading Dll",
+      "Tags": [
+        "file",
+        "assembly",
+        "dll"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706808/system-io-filenotfoundexception-loading-dll"
+    },
+    {
+      "Created": "2025-07-18T22:46:23Z",
+      "Title": "How to fix this lifetime-related error happen when using the Fn trait?",
+      "Tags": [
+        "testing",
+        "rust",
+        "compiler-errors",
+        "borrow-checker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706815/how-to-fix-this-lifetime-related-error-happen-when-using-the-fn-trait"
+    },
+    {
+      "Created": "2025-07-18T23:02:21Z",
+      "Title": "Run a GUI app in Windows Server 2022 without logging in",
+      "Tags": [
+        "windows",
+        "server",
+        "windows-server-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706820/run-a-gui-app-in-windows-server-2022-without-logging-in"
+    },
+    {
+      "Created": "2025-07-18T23:04:04Z",
+      "Title": "Can\u0027t create a valid APK file with MAUI from a specific computer",
+      "Tags": [
+        "android",
+        "visual-studio",
+        "maui",
+        "apk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706822/cant-create-a-valid-apk-file-with-maui-from-a-specific-computer"
+    }
+  ]
+}

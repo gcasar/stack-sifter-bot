@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-19T05:45:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T05:44:12Z",
+      "Title": "Pyppeteer returns None or empty content when scraping Digikala product page",
+      "Tags": [
+        "javascript",
+        "python",
+        "web-scraping",
+        "async-await",
+        "pyppeteer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706973/pyppeteer-returns-none-or-empty-content-when-scraping-digikala-product-page"
+    },
+    {
+      "Created": "2025-07-19T05:45:38Z",
+      "Title": "Is moving inline JavaScript to an external file a valid way to avoid using nonces in CSP for a static site?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "vite",
+        "content-security-policy",
+        "nonce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706976/is-moving-inline-javascript-to-an-external-file-a-valid-way-to-avoid-using-nonce"
+    }
+  ]
+}

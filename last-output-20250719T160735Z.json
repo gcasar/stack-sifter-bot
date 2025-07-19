@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-19T16:00:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T15:41:04Z",
+      "Title": "Strange bool behavior storing an integer that is neither 0 nor 1 when uninitialized [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B14",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707363/strange-bool-behavior-storing-an-integer-that-is-neither-0-nor-1-when-uninitiali"
+    },
+    {
+      "Created": "2025-07-19T15:42:59Z",
+      "Title": "x265 encrypts video with fps=25 instead of 24 [closed]",
+      "Tags": [
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707365/x265-encrypts-video-with-fps-25-instead-of-24"
+    },
+    {
+      "Created": "2025-07-19T15:43:59Z",
+      "Title": "Python to convert CSV to JSON",
+      "Tags": [
+        "python",
+        "json",
+        "csv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707366/python-to-convert-csv-to-json"
+    },
+    {
+      "Created": "2025-07-19T15:44:13Z",
+      "Title": "Bootstrap 5 mega menu not displaying properly on dekstop",
+      "Tags": [
+        "javascript",
+        "css",
+        "bootstrap-5",
+        "megamenu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707367/bootstrap-5-mega-menu-not-displaying-properly-on-dekstop"
+    },
+    {
+      "Created": "2025-07-19T15:49:52Z",
+      "Title": "Set a modelContext in watchOS app but it does not see it?",
+      "Tags": [
+        "ios",
+        "swift",
+        "watchos",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707368/set-a-modelcontext-in-watchos-app-but-it-does-not-see-it"
+    },
+    {
+      "Created": "2025-07-19T15:50:57Z",
+      "Title": "How can I read environment variables in the early stages?",
+      "Tags": [
+        "c",
+        "linux",
+        "ld-preload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707369/how-can-i-read-environment-variables-in-the-early-stages"
+    },
+    {
+      "Created": "2025-07-19T15:52:40Z",
+      "Title": "Ensure docker CLI compatibility for docker files and npm scripts that may use nerdctl or some other CLI (2)",
+      "Tags": [
+        "containers",
+        "containerd",
+        "docker-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707370/ensure-docker-cli-compatibility-for-docker-files-and-npm-scripts-that-may-use-ne"
+    },
+    {
+      "Created": "2025-07-19T16:00:10Z",
+      "Title": "How do I define a C# / ASP.NET MVC String class with a MaxLength that works with Entity Framework Core?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "data-annotations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707376/how-do-i-define-a-c-sharp-asp-net-mvc-string-class-with-a-maxlength-that-works"
+    }
+  ]
+}

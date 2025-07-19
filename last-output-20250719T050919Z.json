@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-19T04:42:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T04:26:02Z",
+      "Title": "How do I target this specific Azure App Service Pricing Plan with Azure CLI?",
+      "Tags": [
+        "azure",
+        "azure-web-app-service",
+        "azure-cli",
+        "azure-app-service-plans",
+        "azure-runbook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706930/how-do-i-target-this-specific-azure-app-service-pricing-plan-with-azure-cli"
+    },
+    {
+      "Created": "2025-07-19T04:42:04Z",
+      "Title": "C Switch Default Statement",
+      "Tags": [
+        "c",
+        "visual-studio-code",
+        "switch-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706935/c-switch-default-statement"
+    }
+  ]
+}

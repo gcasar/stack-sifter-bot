@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-19T19:57:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T19:33:10Z",
+      "Title": "Converting coordinates into mm and plotting them in ggplot2",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "geometry",
+        "geospatial",
+        "spatial"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707527/converting-coordinates-into-mm-and-plotting-them-in-ggplot2"
+    },
+    {
+      "Created": "2025-07-19T19:37:11Z",
+      "Title": "Is it acceptable to introduce a use-case layer in Express.js with a classic MVC architecture?",
+      "Tags": [
+        "node.js",
+        "express",
+        "architecture",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707531/is-it-acceptable-to-introduce-a-use-case-layer-in-express-js-with-a-classic-mvc"
+    },
+    {
+      "Created": "2025-07-19T19:39:26Z",
+      "Title": "zlib dependency error on Fedora installing yesod-bin with stack",
+      "Tags": [
+        "haskell",
+        "fedora",
+        "zlib",
+        "haskell-stack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707532/zlib-dependency-error-on-fedora-installing-yesod-bin-with-stack"
+    },
+    {
+      "Created": "2025-07-19T19:40:02Z",
+      "Title": "Wayland compositor using wlroots: xdg_surface doesn\u0027t maps, and wlr_surface_get_texture() always returns NULL",
+      "Tags": [
+        "c\u002B\u002B",
+        "wayland"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707533/wayland-compositor-using-wlroots-xdg-surface-doesnt-maps-and-wlr-surface-get"
+    },
+    {
+      "Created": "2025-07-19T19:57:05Z",
+      "Title": "How can I reliably automate a FlareSolverr-based scraper in AWS ECS?",
+      "Tags": [
+        "python",
+        "docker",
+        "web-scraping",
+        "aws-fargate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707538/how-can-i-reliably-automate-a-flaresolverr-based-scraper-in-aws-ecs"
+    }
+  ]
+}

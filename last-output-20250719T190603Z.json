@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-19T18:57:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T18:37:10Z",
+      "Title": "Intersection Observer for two elements",
+      "Tags": [
+        "javascript",
+        "intersection-observer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707489/intersection-observer-for-two-elements"
+    },
+    {
+      "Created": "2025-07-19T18:37:51Z",
+      "Title": "Can\u0027t make candle chart due to some error with mpf.plot",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "candlestick-chart",
+        "mplfinance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707491/cant-make-candle-chart-due-to-some-error-with-mpf-plot"
+    },
+    {
+      "Created": "2025-07-19T18:39:40Z",
+      "Title": "How to solve circular import for Zod base schema importing extending schema for union type field?",
+      "Tags": [
+        "typescript",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707492/how-to-solve-circular-import-for-zod-base-schema-importing-extending-schema-for"
+    },
+    {
+      "Created": "2025-07-19T18:51:06Z",
+      "Title": "Destructuring assignment to non-scalar variables",
+      "Tags": [
+        "raku"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707499/destructuring-assignment-to-non-scalar-variables"
+    },
+    {
+      "Created": "2025-07-19T18:52:58Z",
+      "Title": "ddev: \u0022Bad Gateway\u0022 on web_extra_exposed_ports despite full internal connectivity",
+      "Tags": [
+        "vite",
+        "ddev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707503/ddev-bad-gateway-on-web-extra-exposed-ports-despite-full-internal-connectivit"
+    },
+    {
+      "Created": "2025-07-19T18:53:48Z",
+      "Title": "Does the MSVC implementation of \u0060signaling_NaN\u0060 comply with the the latest IEEE floating-point standard?",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B",
+        "ieee-754"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707504/does-the-msvc-implementation-of-signaling-nan-comply-with-the-the-latest-ieee"
+    },
+    {
+      "Created": "2025-07-19T18:55:21Z",
+      "Title": "How to monitor db connections using classes/db/DbPDO.php",
+      "Tags": [
+        "php",
+        "database",
+        "prestashop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707505/how-to-monitor-db-connections-using-classes-db-dbpdo-php"
+    },
+    {
+      "Created": "2025-07-19T18:57:07Z",
+      "Title": "How to purge attached ActiveStorage files when updating a record in Rails 7?",
+      "Tags": [
+        "ruby-on-rails",
+        "file-upload",
+        "rails-activestorage",
+        "ruby-on-rails-7",
+        "form-with"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707508/how-to-purge-attached-activestorage-files-when-updating-a-record-in-rails-7"
+    }
+  ]
+}

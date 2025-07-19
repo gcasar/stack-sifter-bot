@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-19T08:04:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T07:45:53Z",
+      "Title": "How to make concurrent writes in SQLite with FastAPI \u002B SQLAlchemy without \u0022database is locked\u0022 error?",
+      "Tags": [
+        "python",
+        "sqlite",
+        "sqlalchemy",
+        "concurrency",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707043/how-to-make-concurrent-writes-in-sqlite-with-fastapi-sqlalchemy-without-datab"
+    },
+    {
+      "Created": "2025-07-19T07:46:26Z",
+      "Title": "Why can\u0027t I read registers using pymodbus from my Oriental Motor AZD-AD?",
+      "Tags": [
+        "python",
+        "rs485",
+        "pymodbus",
+        "motordriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707044/why-cant-i-read-registers-using-pymodbus-from-my-oriental-motor-azd-ad"
+    },
+    {
+      "Created": "2025-07-19T07:46:55Z",
+      "Title": "How to enable back windows animations if I disabled the default windows frame with the respective flag?",
+      "Tags": [
+        "python",
+        "pyqt",
+        "window",
+        "pyqt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707045/how-to-enable-back-windows-animations-if-i-disabled-the-default-windows-frame-wi"
+    },
+    {
+      "Created": "2025-07-19T07:47:33Z",
+      "Title": "Nested for-loop alternative",
+      "Tags": [
+        "python",
+        "numpy",
+        "for-loop",
+        "optimization",
+        "nested-loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707047/nested-for-loop-alternative"
+    },
+    {
+      "Created": "2025-07-19T07:48:46Z",
+      "Title": "Using Add_implications in CP solver (google OR Tools)",
+      "Tags": [
+        "python",
+        "solver",
+        "or-tools",
+        "cp",
+        "constraint-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707048/using-add-implications-in-cp-solver-google-or-tools"
+    },
+    {
+      "Created": "2025-07-19T08:04:00Z",
+      "Title": "How to avoid SOQL query limit error when querying child records in a loop in Apex?",
+      "Tags": [
+        "salesforce",
+        "apex",
+        "soql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707058/how-to-avoid-soql-query-limit-error-when-querying-child-records-in-a-loop-in-ape"
+    }
+  ]
+}

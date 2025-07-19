@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-19T21:48:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T21:12:09Z",
+      "Title": "source is not working for deserializing POST data in django rest framework",
+      "Tags": [
+        "django-rest-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707573/source-is-not-working-for-deserializing-post-data-in-django-rest-framework"
+    },
+    {
+      "Created": "2025-07-19T21:33:37Z",
+      "Title": "How to post a table with hyperlinked text in the cells for a slack canvas page?",
+      "Tags": [
+        "hyperlink",
+        "markdown",
+        "slack-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707581/how-to-post-a-table-with-hyperlinked-text-in-the-cells-for-a-slack-canvas-page"
+    },
+    {
+      "Created": "2025-07-19T21:39:50Z",
+      "Title": "Issue converting from Google Sheets to Excel with xludf replacement for simple formulas",
+      "Tags": [
+        "excel",
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707583/issue-converting-from-google-sheets-to-excel-with-xludf-replacement-for-simple-f"
+    },
+    {
+      "Created": "2025-07-19T21:48:16Z",
+      "Title": "AVAudioEngine produces bad output when samples are mostly the same value",
+      "Tags": [
+        "ios",
+        "swift",
+        "avaudioengine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707585/avaudioengine-produces-bad-output-when-samples-are-mostly-the-same-value"
+    }
+  ]
+}

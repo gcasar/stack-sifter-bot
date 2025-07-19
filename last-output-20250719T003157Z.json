@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-18T23:07:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-18T23:07:36Z",
+      "Title": "Is using shadow-[...] the right way to create a custom box-shadow with spread in Tailwind?",
+      "Tags": [
+        "css",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706823/is-using-shadow-the-right-way-to-create-a-custom-box-shadow-with-spread-in"
+    }
+  ]
+}

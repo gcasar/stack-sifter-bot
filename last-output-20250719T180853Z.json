@@ -1,0 +1,122 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-07-19T17:57:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T17:05:50Z",
+      "Title": "How can I make the child component detect changes to properties inside an object passed via @Input()?",
+      "Tags": [
+        "angular",
+        "parameter-passing",
+        "ngoninit",
+        "ngonchanges"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707425/how-can-i-make-the-child-component-detect-changes-to-properties-inside-an-object"
+    },
+    {
+      "Created": "2025-07-19T17:11:29Z",
+      "Title": "Windows 11: Apache, php and postgreSQL installed, phppgadmin doesn\u0027t work",
+      "Tags": [
+        "php",
+        "postgresql",
+        "phppgadmin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707428/windows-11-apache-php-and-postgresql-installed-phppgadmin-doesnt-work"
+    },
+    {
+      "Created": "2025-07-19T17:28:03Z",
+      "Title": "Tailwindcss rounded-tl-xl not woking with rounded-tr-full",
+      "Tags": [
+        "css",
+        "next.js",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707444/tailwindcss-rounded-tl-xl-not-woking-with-rounded-tr-full"
+    },
+    {
+      "Created": "2025-07-19T17:35:10Z",
+      "Title": "Why is the time zone in Google Sheets set programmatically via Apps Script not reflected in settings of the spreadsheet?",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script",
+        "timezone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707449/why-is-the-time-zone-in-google-sheets-set-programmatically-via-apps-script-not-r"
+    },
+    {
+      "Created": "2025-07-19T17:36:05Z",
+      "Title": "React Native: App X opens but doesn\u0027t show search results with Linking.openURL",
+      "Tags": [
+        "react-native",
+        "twitter",
+        "deep-linking",
+        "url-scheme",
+        "react-native-linking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707451/react-native-app-x-opens-but-doesnt-show-search-results-with-linking-openurl"
+    },
+    {
+      "Created": "2025-07-19T17:40:58Z",
+      "Title": "How to delete Firestore document when a user closes the web page",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707454/how-to-delete-firestore-document-when-a-user-closes-the-web-page"
+    },
+    {
+      "Created": "2025-07-19T17:45:28Z",
+      "Title": "What are fast GPU algorithms for sequential bin packing?",
+      "Tags": [
+        "algorithm",
+        "gpu",
+        "bin-packing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707457/what-are-fast-gpu-algorithms-for-sequential-bin-packing"
+    },
+    {
+      "Created": "2025-07-19T17:46:33Z",
+      "Title": "Is Pillow ImageDraw.Draw.draw and Tkinter units the same?",
+      "Tags": [
+        "python",
+        "tkinter",
+        "python-imaging-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707458/is-pillow-imagedraw-draw-draw-and-tkinter-units-the-same"
+    },
+    {
+      "Created": "2025-07-19T17:53:22Z",
+      "Title": "Replicate \u0060avg_comparisons\u0060 by hand",
+      "Tags": [
+        "r",
+        "marginal-effects",
+        "r-marginaleffects"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707463/replicate-avg-comparisons-by-hand"
+    },
+    {
+      "Created": "2025-07-19T17:55:49Z",
+      "Title": "Porting Xero API google apps script code to c# not working",
+      "Tags": [
+        "c#",
+        "http",
+        "google-apps-script",
+        "xero-api",
+        "xero"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707464/porting-xero-api-google-apps-script-code-to-c-sharp-not-working"
+    },
+    {
+      "Created": "2025-07-19T17:57:34Z",
+      "Title": "Pipe placeholder doesn\u0027t work when calculating expression",
+      "Tags": [
+        "r",
+        "tidyverse",
+        "pipe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707465/pipe-placeholder-doesnt-work-when-calculating-expression"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-19T06:53:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T06:29:39Z",
+      "Title": "Gradle MultipleCompilationErrorsException",
+      "Tags": [
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707002/gradle-multiplecompilationerrorsexception"
+    },
+    {
+      "Created": "2025-07-19T06:35:34Z",
+      "Title": "Not able to run a spark code due to some issue on my local",
+      "Tags": [
+        "python",
+        "java",
+        "apache-spark",
+        "pyspark",
+        "pyspark-pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707005/not-able-to-run-a-spark-code-due-to-some-issue-on-my-local"
+    },
+    {
+      "Created": "2025-07-19T06:38:48Z",
+      "Title": "ModuleNotFoundError: No module named \u0027llama_cpp_binaries\u0027",
+      "Tags": [
+        "python-3.x",
+        "huggingface-transformers",
+        "llama-cpp-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707006/modulenotfounderror-no-module-named-llama-cpp-binaries"
+    },
+    {
+      "Created": "2025-07-19T06:53:31Z",
+      "Title": "Is it safe to change string variables after passing them in multiple threads in Delphi",
+      "Tags": [
+        "multithreading",
+        "delphi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707013/is-it-safe-to-change-string-variables-after-passing-them-in-multiple-threads-in"
+    }
+  ]
+}

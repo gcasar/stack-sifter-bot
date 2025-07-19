@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-19T09:05:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T08:16:52Z",
+      "Title": "Does Diesel ORM run \u0060CREATE TRIGGER\u0060 SQL expressions defined in migration files?",
+      "Tags": [
+        "sql",
+        "sqlite",
+        "orm",
+        "rust-diesel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707069/does-diesel-orm-run-create-trigger-sql-expressions-defined-in-migration-files"
+    },
+    {
+      "Created": "2025-07-19T08:34:41Z",
+      "Title": "Optimized re-sorting",
+      "Tags": [
+        "algorithm",
+        "sorting",
+        "optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707083/optimized-re-sorting"
+    },
+    {
+      "Created": "2025-07-19T08:41:24Z",
+      "Title": "Best way to handle per\u2010property change notifications in a retained\u2010mode C\u002B\u002B UI library?",
+      "Tags": [
+        "c\u002B\u002B",
+        "user-interface",
+        "data-driven"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707087/best-way-to-handle-per-property-change-notifications-in-a-retained-mode-c-ui-l"
+    },
+    {
+      "Created": "2025-07-19T08:45:47Z",
+      "Title": "why am I getting two titles in pywebview?",
+      "Tags": [
+        "python",
+        "pywebview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707091/why-am-i-getting-two-titles-in-pywebview"
+    },
+    {
+      "Created": "2025-07-19T09:00:58Z",
+      "Title": "Linker placement order is reversed in map file after compiling",
+      "Tags": [
+        "c",
+        "linker",
+        "arm",
+        "linker-errors",
+        "freertos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707100/linker-placement-order-is-reversed-in-map-file-after-compiling"
+    },
+    {
+      "Created": "2025-07-19T09:03:35Z",
+      "Title": "PySpark bigtable connector read cell timestamp",
+      "Tags": [
+        "google-cloud-platform",
+        "pyspark",
+        "google-cloud-bigtable",
+        "bigtable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707105/pyspark-bigtable-connector-read-cell-timestamp"
+    },
+    {
+      "Created": "2025-07-19T09:05:45Z",
+      "Title": "Route [filament.admin.resources.accounts.index] not defined in tomatophp/filament-saas-panel",
+      "Tags": [
+        "laravel",
+        "laravel-filament",
+        "filamentphp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707106/route-filament-admin-resources-accounts-index-not-defined-in-tomatophp-filamen"
+    }
+  ]
+}

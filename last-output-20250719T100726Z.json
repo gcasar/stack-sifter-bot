@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-19T10:04:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T09:18:08Z",
+      "Title": "How to get ProcessStartInfo for an already running process in C#?",
+      "Tags": [
+        "c#",
+        "pinvoke"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707117/how-to-get-processstartinfo-for-an-already-running-process-in-c"
+    },
+    {
+      "Created": "2025-07-19T09:37:44Z",
+      "Title": "ufw deletes ipv4 rules but the ipv6 rules remain",
+      "Tags": [
+        "ubuntu",
+        "security",
+        "ipv6",
+        "ipv4",
+        "ufw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707127/ufw-deletes-ipv4-rules-but-the-ipv6-rules-remain"
+    },
+    {
+      "Created": "2025-07-19T09:42:09Z",
+      "Title": "In Jetpack Compose, how can I prevent HorizontalPager from scrolling when swiping left or right on the edge of the screen?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "android-jetpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707128/in-jetpack-compose-how-can-i-prevent-horizontalpager-from-scrolling-when-swipin"
+    },
+    {
+      "Created": "2025-07-19T09:47:49Z",
+      "Title": "What is the correct configuration of Testcontainers and LocalStack to test S3ControlClient createAccessPoint?",
+      "Tags": [
+        "spring-boot",
+        "amazon-s3",
+        "testcontainers",
+        "localstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707131/what-is-the-correct-configuration-of-testcontainers-and-localstack-to-test-s3con"
+    },
+    {
+      "Created": "2025-07-19T09:50:31Z",
+      "Title": "How do i bundle a full stack Next js app with API routes in an electron JS?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "next.js",
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707134/how-do-i-bundle-a-full-stack-next-js-app-with-api-routes-in-an-electron-js"
+    },
+    {
+      "Created": "2025-07-19T09:53:33Z",
+      "Title": "Rerun test from within test itself",
+      "Tags": [
+        "deno",
+        "vitest",
+        "jsdom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707136/rerun-test-from-within-test-itself"
+    },
+    {
+      "Created": "2025-07-19T09:59:35Z",
+      "Title": "Initialize array of pointer to struct using compound literals without being verbose",
+      "Tags": [
+        "c",
+        "initialization",
+        "compound-literals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707139/initialize-array-of-pointer-to-struct-using-compound-literals-without-being-verb"
+    },
+    {
+      "Created": "2025-07-19T10:04:32Z",
+      "Title": "Use c\u002B\u002B dll to hook to an instruction and still use the registers (x86)",
+      "Tags": [
+        "c\u002B\u002B",
+        "assembly",
+        "dll",
+        "hook",
+        "inline-assembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707147/use-c-dll-to-hook-to-an-instruction-and-still-use-the-registers-x86"
+    }
+  ]
+}

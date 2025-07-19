@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-19T14:02:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T13:59:13Z",
+      "Title": "How to force a new instance of a program to stay a separate window with a separate PID, instead of merging into an existing instance as a tab",
+      "Tags": [
+        "c",
+        "linux",
+        "posix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707300/how-to-force-a-new-instance-of-a-program-to-stay-a-separate-window-with-a-separa"
+    },
+    {
+      "Created": "2025-07-19T14:02:51Z",
+      "Title": "Adding C and C\u002B\u002B files to a dune build of ocaml app",
+      "Tags": [
+        "ocaml",
+        "dune"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707304/adding-c-and-c-files-to-a-dune-build-of-ocaml-app"
+    },
+    {
+      "Created": "2025-07-19T14:02:55Z",
+      "Title": "How to provide actual arguments for functions bound to each route with a Rocket crate?",
+      "Tags": [
+        "rust",
+        "web",
+        "rocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707305/how-to-provide-actual-arguments-for-functions-bound-to-each-route-with-a-rocket"
+    }
+  ]
+}

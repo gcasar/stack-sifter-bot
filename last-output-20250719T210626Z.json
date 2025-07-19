@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-19T20:54:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T20:45:10Z",
+      "Title": "How to Download Large Files to External Storage Without Increasing App Size Using background_downloader in Flutter?",
+      "Tags": [
+        "android",
+        "flutter",
+        "download",
+        "storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707559/how-to-download-large-files-to-external-storage-without-increasing-app-size-usin"
+    },
+    {
+      "Created": "2025-07-19T20:46:33Z",
+      "Title": "Can Transact-SQL snapshot backups interface with Amazon EBS?",
+      "Tags": [
+        "sql-server",
+        "amazon-web-services",
+        "snapshot",
+        "amazon-ebs",
+        "sql-server-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707561/can-transact-sql-snapshot-backups-interface-with-amazon-ebs"
+    },
+    {
+      "Created": "2025-07-19T20:54:17Z",
+      "Title": "MuleSoft Anypoint Code Builder - vscode - CB - workbench.editorAssociations - search bar",
+      "Tags": [
+        "mulesoft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707564/mulesoft-anypoint-code-builder-vscode-cb-workbench-editorassociations-se"
+    }
+  ]
+}

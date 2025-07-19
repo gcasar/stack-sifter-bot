@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-19T10:39:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T10:20:31Z",
+      "Title": "gSoap API soap-\u003Efpost is truncating value of bearer token",
+      "Tags": [
+        "c\u002B\u002B",
+        "exchangewebservices",
+        "gsoap",
+        "strong-soap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707158/gsoap-api-soap-fpost-is-truncating-value-of-bearer-token"
+    },
+    {
+      "Created": "2025-07-19T10:37:32Z",
+      "Title": "Rust borrow checker",
+      "Tags": [
+        "sorting",
+        "rust",
+        "memory",
+        "borrow-checker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707171/rust-borrow-checker"
+    },
+    {
+      "Created": "2025-07-19T10:38:47Z",
+      "Title": "How to position a visually hidden \u003Cinput type=\u0022color\u0022\u003E\u0027s popup under an icon?",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707174/how-to-position-a-visually-hidden-input-type-colors-popup-under-an-icon"
+    },
+    {
+      "Created": "2025-07-19T10:39:13Z",
+      "Title": "Compiling issues with roslyn",
+      "Tags": [
+        "c#",
+        ".net",
+        "entity-framework-core",
+        "roslyn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707175/compiling-issues-with-roslyn"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-19T22:49:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T22:08:52Z",
+      "Title": "Flatten JSON array with multiple items - how to fit to a single csv cell?",
+      "Tags": [
+        "php",
+        "arrays",
+        "json",
+        "csv",
+        "curl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707593/flatten-json-array-with-multiple-items-how-to-fit-to-a-single-csv-cell"
+    },
+    {
+      "Created": "2025-07-19T22:18:40Z",
+      "Title": "Why Spring DevTools consider as \u00222 modifications\u0022 when one .html file is edited?",
+      "Tags": [
+        "spring-boot",
+        "spring-boot-devtools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707598/why-spring-devtools-consider-as-2-modifications-when-one-html-file-is-edited"
+    },
+    {
+      "Created": "2025-07-19T22:22:37Z",
+      "Title": "How to mention parameters in a docstring",
+      "Tags": [
+        "python-sphinx",
+        "restructuredtext",
+        "docutils"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707599/how-to-mention-parameters-in-a-docstring"
+    },
+    {
+      "Created": "2025-07-19T22:24:15Z",
+      "Title": "Adding a line break in an .each do loop in an ERB file",
+      "Tags": [
+        "ruby-on-rails",
+        "erb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707600/adding-a-line-break-in-an-each-do-loop-in-an-erb-file"
+    },
+    {
+      "Created": "2025-07-19T22:49:47Z",
+      "Title": "outlook vba how to return function value with folder-type value so that code can test if found",
+      "Tags": [
+        "vba",
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707607/outlook-vba-how-to-return-function-value-with-folder-type-value-so-that-code-can"
+    }
+  ]
+}

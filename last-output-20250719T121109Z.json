@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-19T12:08:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T11:41:02Z",
+      "Title": "Enabeling per-request DEBUG level in Springf framework",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "http",
+        "logback",
+        "mdc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707206/enabeling-per-request-debug-level-in-springf-framework"
+    },
+    {
+      "Created": "2025-07-19T12:08:20Z",
+      "Title": "Couldn\u0027t perform the edit because another user changed the record (don\u0027t exist two users but two queries)",
+      "Tags": [
+        "bde"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707223/couldnt-perform-the-edit-because-another-user-changed-the-record-dont-exist-t"
+    }
+  ]
+}

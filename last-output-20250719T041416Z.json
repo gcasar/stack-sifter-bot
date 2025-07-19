@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-19T03:33:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T03:33:45Z",
+      "Title": "CUDA Acceleration but not for Deep Learning tasks",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "cuda",
+        "probability"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706912/cuda-acceleration-but-not-for-deep-learning-tasks"
+    }
+  ]
+}

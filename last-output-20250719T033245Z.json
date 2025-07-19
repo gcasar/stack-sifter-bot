@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-19T03:21:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T02:43:50Z",
+      "Title": "Flutter_map with side menu",
+      "Tags": [
+        "android",
+        "flutter",
+        "dart",
+        "visual-studio-code",
+        "fluttermap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706886/flutter-map-with-side-menu"
+    },
+    {
+      "Created": "2025-07-19T02:47:48Z",
+      "Title": "Test a Rocket websocket route",
+      "Tags": [
+        "testing",
+        "rust",
+        "websocket",
+        "rust-rocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706889/test-a-rocket-websocket-route"
+    },
+    {
+      "Created": "2025-07-19T02:59:03Z",
+      "Title": "Portability of newer assembly instructions",
+      "Tags": [
+        "assembly",
+        "cpu-architecture",
+        "arm64",
+        "portability",
+        "instruction-set"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706894/portability-of-newer-assembly-instructions"
+    },
+    {
+      "Created": "2025-07-19T02:59:58Z",
+      "Title": "Is casting from a pointer polymorphic base object to pointer to a derived object via explicit cast and accessing only functions ill-formed?",
+      "Tags": [
+        "c\u002B\u002B",
+        "polymorphism",
+        "downcast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706895/is-casting-from-a-pointer-polymorphic-base-object-to-pointer-to-a-derived-object"
+    },
+    {
+      "Created": "2025-07-19T03:21:29Z",
+      "Title": "AdBlock Extension not Working in Selenium",
+      "Tags": [
+        "java",
+        "selenium-webdriver",
+        "adblock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79706901/adblock-extension-not-working-in-selenium"
+    }
+  ]
+}

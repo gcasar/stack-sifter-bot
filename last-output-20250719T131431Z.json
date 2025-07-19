@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-19T13:10:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T13:04:05Z",
+      "Title": "Firebase cloud message gettoken not work on Edge newest version",
+      "Tags": [
+        "firebase-cloud-messaging",
+        "microsoft-edge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707261/firebase-cloud-message-gettoken-not-work-on-edge-newest-version"
+    },
+    {
+      "Created": "2025-07-19T13:04:05Z",
+      "Title": "Azure DevOps pipeline fails during default checkout: fatal: ambiguous argument \u0027HEAD\u0027 and git clean/reset errors",
+      "Tags": [
+        "azure",
+        "azure-devops",
+        "yaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707260/azure-devops-pipeline-fails-during-default-checkout-fatal-ambiguous-argument"
+    },
+    {
+      "Created": "2025-07-19T13:05:04Z",
+      "Title": "Regex use of OR (|) does not return results equal to the individual Regex\u0027s",
+      "Tags": [
+        "python",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707262/regex-use-of-or-does-not-return-results-equal-to-the-individual-regexs"
+    },
+    {
+      "Created": "2025-07-19T13:07:11Z",
+      "Title": "Is it possible to handle a child process in rustyline?",
+      "Tags": [
+        "rust",
+        "child-process",
+        "read-eval-print-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707263/is-it-possible-to-handle-a-child-process-in-rustyline"
+    },
+    {
+      "Created": "2025-07-19T13:10:52Z",
+      "Title": "How to check enum case of a thrown error without if-else and avoid uncovered code in Swift async test?",
+      "Tags": [
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707267/how-to-check-enum-case-of-a-thrown-error-without-if-else-and-avoid-uncovered-cod"
+    }
+  ]
+}

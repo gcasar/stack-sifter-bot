@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-20T12:01:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T11:53:11Z",
+      "Title": "How to reset navigation history in React Native app",
+      "Tags": [
+        "reactjs",
+        "react-native",
+        "react-navigation",
+        "react-navigation-drawer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707963/how-to-reset-navigation-history-in-react-native-app"
+    },
+    {
+      "Created": "2025-07-20T12:01:34Z",
+      "Title": "Why does __init_subclass__ behave unexpectedly when using metaclasses with dynamic class generation?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707967/why-does-init-subclass-behave-unexpectedly-when-using-metaclasses-with-dynam"
+    }
+  ]
+}

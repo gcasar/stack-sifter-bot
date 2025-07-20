@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-20T05:01:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T04:28:03Z",
+      "Title": "How to write SqlAlchemy Query that joins two tables, but has this complex wrinkle?",
+      "Tags": [
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707722/how-to-write-sqlalchemy-query-that-joins-two-tables-but-has-this-complex-wrinkl"
+    },
+    {
+      "Created": "2025-07-20T04:29:08Z",
+      "Title": "Strange behavior when using ctypes to cast/mutate the memory of a number in Python",
+      "Tags": [
+        "python",
+        "ctypes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707723/strange-behavior-when-using-ctypes-to-cast-mutate-the-memory-of-a-number-in-pyth"
+    },
+    {
+      "Created": "2025-07-20T04:58:15Z",
+      "Title": "Problems with printing double constants in c",
+      "Tags": [
+        "c",
+        "floating-point",
+        "printf",
+        "long-double"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707729/problems-with-printing-double-constants-in-c"
+    },
+    {
+      "Created": "2025-07-20T04:59:34Z",
+      "Title": "Passing jwt token from MFE to host with multi-zones",
+      "Tags": [
+        "next.js",
+        "micro-frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707730/passing-jwt-token-from-mfe-to-host-with-multi-zones"
+    },
+    {
+      "Created": "2025-07-20T05:01:30Z",
+      "Title": "tailwind css version customization not working",
+      "Tags": [
+        "tailwind-css",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707732/tailwind-css-version-customization-not-working"
+    }
+  ]
+}

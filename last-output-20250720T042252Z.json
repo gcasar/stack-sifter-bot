@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-20T04:09:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T03:45:32Z",
+      "Title": "Candid UI not showing shared query method in Motoko",
+      "Tags": [
+        "backend",
+        "motoko",
+        "dfinity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707698/candid-ui-not-showing-shared-query-method-in-motoko"
+    },
+    {
+      "Created": "2025-07-20T03:59:18Z",
+      "Title": "C#: Deleting an object that has subscribed to events",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707705/c-deleting-an-object-that-has-subscribed-to-events"
+    },
+    {
+      "Created": "2025-07-20T04:04:38Z",
+      "Title": "Filtering in for-loops",
+      "Tags": [
+        "r",
+        "loops",
+        "select",
+        "dplyr",
+        "filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707707/filtering-in-for-loops"
+    },
+    {
+      "Created": "2025-07-20T04:07:37Z",
+      "Title": "Why do roof segment areas from the Google Solar API overlap when visualized?",
+      "Tags": [
+        "google-solar-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707712/why-do-roof-segment-areas-from-the-google-solar-api-overlap-when-visualized"
+    },
+    {
+      "Created": "2025-07-20T04:09:14Z",
+      "Title": "\u0022oidc_callback wants to open an external app\u0022 popup in Microsoft Edge",
+      "Tags": [
+        "react-native",
+        "expo",
+        "openid-connect",
+        "microsoft-edge",
+        "ping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707714/oidc-callback-wants-to-open-an-external-app-popup-in-microsoft-edge"
+    },
+    {
+      "Created": "2025-07-20T04:09:52Z",
+      "Title": "How to run keycloak behind reverse proxy via unix socket?",
+      "Tags": [
+        "java",
+        "keycloak",
+        "reverse-proxy",
+        "quarkus",
+        "unix-socket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707715/how-to-run-keycloak-behind-reverse-proxy-via-unix-socket"
+    }
+  ]
+}

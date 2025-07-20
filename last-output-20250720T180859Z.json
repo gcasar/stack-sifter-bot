@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-20T17:36:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T17:35:56Z",
+      "Title": "Unity AddForce does not push, but teleports",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708240/unity-addforce-does-not-push-but-teleports"
+    },
+    {
+      "Created": "2025-07-20T17:36:19Z",
+      "Title": "What are Areas for in ASP.NET Core? Do we really need to use them?",
+      "Tags": [
+        "asp.net-core-mvc",
+        "asp.net-mvc-areas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708241/what-are-areas-for-in-asp-net-core-do-we-really-need-to-use-them"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-20T10:04:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T09:05:54Z",
+      "Title": "Python type-annotation for getitem",
+      "Tags": [
+        "python",
+        "dataframe",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707880/python-type-annotation-for-getitem"
+    },
+    {
+      "Created": "2025-07-20T09:33:52Z",
+      "Title": "chart.js annotation using enter event does not redraw box",
+      "Tags": [
+        "chart.js",
+        "chartjs-plugin-annotation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707903/chart-js-annotation-using-enter-event-does-not-redraw-box"
+    },
+    {
+      "Created": "2025-07-20T09:49:18Z",
+      "Title": "Is it possible to have some external files in an RMarkdown html document with self_contained = yes?",
+      "Tags": [
+        "html",
+        "r",
+        "r-markdown",
+        "knitr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707910/is-it-possible-to-have-some-external-files-in-an-rmarkdown-html-document-with-se"
+    },
+    {
+      "Created": "2025-07-20T09:55:06Z",
+      "Title": "In Odoo ORM, how non-abstract prototype inheritance work?",
+      "Tags": [
+        "odoo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707913/in-odoo-orm-how-non-abstract-prototype-inheritance-work"
+    },
+    {
+      "Created": "2025-07-20T09:57:02Z",
+      "Title": "How to undistort an image by generating cameraMatrix and distortion coefficients using cv.aruco.calibrateCameraAruco? Error: nMarkersInThisFrame \u003E 0",
+      "Tags": [
+        "python",
+        "opencv",
+        "aruco"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707914/how-to-undistort-an-image-by-generating-cameramatrix-and-distortion-coefficients"
+    },
+    {
+      "Created": "2025-07-20T10:04:02Z",
+      "Title": "Same Kubernetes Setup \u2013 No pod-to-pod communication on One setup",
+      "Tags": [
+        "kubernetes",
+        "redhat",
+        "coredns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707920/same-kubernetes-setup-no-pod-to-pod-communication-on-one-setup"
+    }
+  ]
+}

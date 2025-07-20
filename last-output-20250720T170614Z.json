@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-20T16:52:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T16:29:27Z",
+      "Title": "Mocking a global jQuery object in Node.js",
+      "Tags": [
+        "jquery",
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708180/mocking-a-global-jquery-object-in-node-js"
+    },
+    {
+      "Created": "2025-07-20T16:36:56Z",
+      "Title": "How to get a random word in Python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708188/how-to-get-a-random-word-in-python"
+    },
+    {
+      "Created": "2025-07-20T16:52:35Z",
+      "Title": "compiler errors when trying to use modify function in boost multiindex when looping over a specific iterator?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "compiler-errors",
+        "multi-index",
+        "boost-multi-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708204/compiler-errors-when-trying-to-use-modify-function-in-boost-multiindex-when-loop"
+    }
+  ]
+}

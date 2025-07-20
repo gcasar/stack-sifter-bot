@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-20T18:55:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T18:28:26Z",
+      "Title": "How to reduce composition time [closed]",
+      "Tags": [
+        "android",
+        "performance",
+        "composable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708277/how-to-reduce-composition-time"
+    },
+    {
+      "Created": "2025-07-20T18:37:29Z",
+      "Title": "How to deploy .keras and .joblib models in FRDM MXCN947 (NXP) Microcontroller?",
+      "Tags": [
+        "keras",
+        "deployment",
+        "embedded",
+        "random-forest",
+        "nxp-microcontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708283/how-to-deploy-keras-and-joblib-models-in-frdm-mxcn947-nxp-microcontroller"
+    },
+    {
+      "Created": "2025-07-20T18:39:41Z",
+      "Title": "\u0027Match\u0027-Function not available in Excel 2016?",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708284/match-function-not-available-in-excel-2016"
+    },
+    {
+      "Created": "2025-07-20T18:45:48Z",
+      "Title": "How to preload videos using BetterPlayer controllers in Flutter for a video reels project?",
+      "Tags": [
+        "flutter",
+        "video",
+        "preloading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708290/how-to-preload-videos-using-betterplayer-controllers-in-flutter-for-a-video-reel"
+    },
+    {
+      "Created": "2025-07-20T18:47:43Z",
+      "Title": "Python Polars copy on write",
+      "Tags": [
+        "python",
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708291/python-polars-copy-on-write"
+    },
+    {
+      "Created": "2025-07-20T18:55:46Z",
+      "Title": "Gradio call spins with no output in Dockerfile",
+      "Tags": [
+        "docker",
+        "gradio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708294/gradio-call-spins-with-no-output-in-dockerfile"
+    }
+  ]
+}

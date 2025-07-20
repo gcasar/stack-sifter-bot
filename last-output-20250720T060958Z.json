@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-20T05:35:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T05:35:43Z",
+      "Title": "How to share a TokenService from Angular Host app to Remote apps using Native Federation in Angular?",
+      "Tags": [
+        "angular",
+        "micro-frontend",
+        "angular-module-federation",
+        "angular-native-federation",
+        "native-federation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707750/how-to-share-a-tokenservice-from-angular-host-app-to-remote-apps-using-native-fe"
+    }
+  ]
+}

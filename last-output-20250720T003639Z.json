@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-20T00:19:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-19T23:23:18Z",
+      "Title": "\u0060react-router\u0060 \u0060useLocation\u0060 ignores query state from \u0060nuqs\u0060",
+      "Tags": [
+        "typescript",
+        "react-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707618/react-router-uselocation-ignores-query-state-from-nuqs"
+    },
+    {
+      "Created": "2025-07-19T23:33:23Z",
+      "Title": "I am getting sporadic crashes since updating Swift ModelContainer",
+      "Tags": [
+        "ios",
+        "swift",
+        "model",
+        "containers",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707621/i-am-getting-sporadic-crashes-since-updating-swift-modelcontainer"
+    },
+    {
+      "Created": "2025-07-19T23:50:18Z",
+      "Title": "Trouble communicating with AHT15 sensor over I2C using PIC16F1827 (MCC Melody)",
+      "Tags": [
+        "c",
+        "microcontroller",
+        "pic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707625/trouble-communicating-with-aht15-sensor-over-i2c-using-pic16f1827-mcc-melody"
+    },
+    {
+      "Created": "2025-07-20T00:12:25Z",
+      "Title": "Stop PyVISA from writing to the console in Spyder",
+      "Tags": [
+        "python",
+        "pyvisa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707628/stop-pyvisa-from-writing-to-the-console-in-spyder"
+    },
+    {
+      "Created": "2025-07-20T00:19:38Z",
+      "Title": "What is the reason that there is a top padding on UIViewRepresentable in a SwiftUI container",
+      "Tags": [
+        "swift",
+        "uikit",
+        "swiftui-list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707630/what-is-the-reason-that-there-is-a-top-padding-on-uiviewrepresentable-in-a-swift"
+    },
+    {
+      "Created": "2025-07-20T00:19:56Z",
+      "Title": "Can I delete huge \u0060vcpkg_installed/vcpkg/blds\u0060 etc. safely?",
+      "Tags": [
+        "clang",
+        "vcpkg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707631/can-i-delete-huge-vcpkg-installed-vcpkg-blds-etc-safely"
+    }
+  ]
+}

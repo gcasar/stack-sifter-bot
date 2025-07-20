@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-20T22:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T21:56:10Z",
+      "Title": "How to add date filter in Grafana query where created_at is different for all orders",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708405/how-to-add-date-filter-in-grafana-query-where-created-at-is-different-for-all-or"
+    },
+    {
+      "Created": "2025-07-20T21:57:19Z",
+      "Title": "Can\u0027t scrape all the titles from the map on the webpage using the requests module",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "web-scraping",
+        "python-requests"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708407/cant-scrape-all-the-titles-from-the-map-on-the-webpage-using-the-requests-modul"
+    },
+    {
+      "Created": "2025-07-20T22:04:07Z",
+      "Title": "Is there a safe way to create directories with std::filesystem?",
+      "Tags": [
+        "c\u002B\u002B",
+        "sonarqube",
+        "std-filesystem",
+        "create-directory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708412/is-there-a-safe-way-to-create-directories-with-stdfilesystem"
+    }
+  ]
+}

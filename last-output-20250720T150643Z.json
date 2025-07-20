@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-20T14:59:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T14:40:50Z",
+      "Title": "as.POSIXct gives different results from vector and single value arguments",
+      "Tags": [
+        "r",
+        "posixct"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708088/as-posixct-gives-different-results-from-vector-and-single-value-arguments"
+    },
+    {
+      "Created": "2025-07-20T14:51:11Z",
+      "Title": "I\u0027m writing a parser in C\u002B\u002B for my programming language, but I don\u0027t figure out how to represent token trees",
+      "Tags": [
+        "c\u002B\u002B",
+        "parsing",
+        "struct",
+        "programming-languages"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708100/im-writing-a-parser-in-c-for-my-programming-language-but-i-dont-figure-out"
+    },
+    {
+      "Created": "2025-07-20T14:55:22Z",
+      "Title": "vba filter using wild card criteria",
+      "Tags": [
+        "vba",
+        "filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708104/vba-filter-using-wild-card-criteria"
+    },
+    {
+      "Created": "2025-07-20T14:59:31Z",
+      "Title": "L1D Cache Collisions: Google Benchmark DoNotOptimize vs volatile Behavior in GCC vs Clang",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "microbenchmark",
+        "google-benchmark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708110/l1d-cache-collisions-google-benchmark-donotoptimize-vs-volatile-behavior-in-gcc"
+    }
+  ]
+}

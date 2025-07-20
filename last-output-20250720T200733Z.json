@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-20T20:05:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T19:40:22Z",
+      "Title": "Is it possible to decrypt a Whatsminer M3 firmware binary encrypted with GPG?",
+      "Tags": [
+        "encryption",
+        "gnupg",
+        "cryptocurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708319/is-it-possible-to-decrypt-a-whatsminer-m3-firmware-binary-encrypted-with-gpg"
+    },
+    {
+      "Created": "2025-07-20T19:42:15Z",
+      "Title": "ReferenceError: Cannot access \u0027__vite_ssr_import_1__\u0027 before initialization for Zod discriminated union",
+      "Tags": [
+        "typescript",
+        "vite",
+        "vitest",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708321/referenceerror-cannot-access-vite-ssr-import-1-before-initialization-for"
+    },
+    {
+      "Created": "2025-07-20T19:59:09Z",
+      "Title": "Right way to do HttpClient that can be injected and used in Blazor server",
+      "Tags": [
+        "asp.net-web-api",
+        "controller",
+        "blazor",
+        "httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708337/right-way-to-do-httpclient-that-can-be-injected-and-used-in-blazor-server"
+    },
+    {
+      "Created": "2025-07-20T20:05:13Z",
+      "Title": "finding zeroes in complex polynomial taking forever in sympy, pathological case?",
+      "Tags": [
+        "sympy",
+        "signal-processing",
+        "polynomial-math"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708339/finding-zeroes-in-complex-polynomial-taking-forever-in-sympy-pathological-case"
+    }
+  ]
+}

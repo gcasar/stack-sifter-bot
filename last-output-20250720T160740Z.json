@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-20T15:49:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T15:18:59Z",
+      "Title": "Can I tell my compiler that a floating-point value is not NaN nor \u002B/-infinity?",
+      "Tags": [
+        "optimization",
+        "floating-point",
+        "nan",
+        "compiler-optimization",
+        "hint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708124/can-i-tell-my-compiler-that-a-floating-point-value-is-not-nan-nor-infinity"
+    },
+    {
+      "Created": "2025-07-20T15:22:53Z",
+      "Title": "Need Help Optimizing Real-Time OHLC Pipeline on AWS (EC2 \u002B S3 \u002B Athena)",
+      "Tags": [
+        "python-3.x",
+        "amazon-web-services",
+        "firebase-realtime-database",
+        "bigdata",
+        "amazon-athena"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708130/need-help-optimizing-real-time-ohlc-pipeline-on-aws-ec2-s3-athena"
+    },
+    {
+      "Created": "2025-07-20T15:28:34Z",
+      "Title": "How to define custom colours in DaisyUI that integrate with themes?",
+      "Tags": [
+        "tailwind-css",
+        "daisyui",
+        "daisyui-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708136/how-to-define-custom-colours-in-daisyui-that-integrate-with-themes"
+    },
+    {
+      "Created": "2025-07-20T15:42:20Z",
+      "Title": "How do I use pygbag to put my python game on a website? (similar questions only talk about using pygbag initially not the errors afterward) [duplicate]",
+      "Tags": [
+        "python",
+        "html",
+        "pygame",
+        "webassembly",
+        "pygbag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708146/how-do-i-use-pygbag-to-put-my-python-game-on-a-website-similar-questions-only"
+    },
+    {
+      "Created": "2025-07-20T15:49:19Z",
+      "Title": "How can i create multiple columns in fpdf in Python",
+      "Tags": [
+        "python",
+        "pyfpdf",
+        "fpdf2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708150/how-can-i-create-multiple-columns-in-fpdf-in-python"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-20T09:02:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T08:04:30Z",
+      "Title": "How to change Tree folder icon in Ant Vue Design with another SVG?",
+      "Tags": [
+        "typescript",
+        "vue.js",
+        "ant",
+        "ant-design-vue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707839/how-to-change-tree-folder-icon-in-ant-vue-design-with-another-svg"
+    },
+    {
+      "Created": "2025-07-20T08:55:37Z",
+      "Title": "Google static maps api need to show multiple characters",
+      "Tags": [
+        "angular",
+        "google-maps",
+        "google-maps-api-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707873/google-static-maps-api-need-to-show-multiple-characters"
+    },
+    {
+      "Created": "2025-07-20T08:55:46Z",
+      "Title": "How to solve circular import for Zod schema importing discriminatedUnion schema containing itself?",
+      "Tags": [
+        "typescript",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707874/how-to-solve-circular-import-for-zod-schema-importing-discriminatedunion-schema"
+    },
+    {
+      "Created": "2025-07-20T09:02:35Z",
+      "Title": "How to use visitLocalVariable in ASM correctly?",
+      "Tags": [
+        "java",
+        "kotlin",
+        "jvm",
+        "bytecode",
+        "java-bytecode-asm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707876/how-to-use-visitlocalvariable-in-asm-correctly"
+    }
+  ]
+}

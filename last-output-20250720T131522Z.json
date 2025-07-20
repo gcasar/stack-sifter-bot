@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-20T13:12:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T12:19:15Z",
+      "Title": "Python replace substring same end",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707976/python-replace-substring-same-end"
+    },
+    {
+      "Created": "2025-07-20T12:44:26Z",
+      "Title": "Undefined reference to mbedtls functions using Zephyr",
+      "Tags": [
+        "c",
+        "encryption",
+        "zephyr-rtos",
+        "mbedtls",
+        "nrf52840"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707997/undefined-reference-to-mbedtls-functions-using-zephyr"
+    },
+    {
+      "Created": "2025-07-20T12:58:54Z",
+      "Title": "Delta live tables are producing different results",
+      "Tags": [
+        "apache-spark",
+        "databricks",
+        "azure-databricks",
+        "delta-live-tables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708005/delta-live-tables-are-producing-different-results"
+    },
+    {
+      "Created": "2025-07-20T13:02:31Z",
+      "Title": "A tuple-like container that only allows unique types",
+      "Tags": [
+        "c\u002B\u002B",
+        "tuples",
+        "type-traits"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708008/a-tuple-like-container-that-only-allows-unique-types"
+    },
+    {
+      "Created": "2025-07-20T13:04:25Z",
+      "Title": "What are good practice for forward declaration of nlohmann::json in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "header-files",
+        "forward-declaration",
+        "nlohmann-json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708012/what-are-good-practice-for-forward-declaration-of-nlohmannjson-in-c"
+    },
+    {
+      "Created": "2025-07-20T13:07:45Z",
+      "Title": "AD B2C custom policies with Local email signin (with SSPR) and Azure AD signin",
+      "Tags": [
+        "azure",
+        "azure-ad-b2c-custom-policy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708019/ad-b2c-custom-policies-with-local-email-signin-with-sspr-and-azure-ad-signin"
+    },
+    {
+      "Created": "2025-07-20T13:12:13Z",
+      "Title": "variadic template parameters in non-deduced context of a function template",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "variadic-templates",
+        "template-argument-deduction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708023/variadic-template-parameters-in-non-deduced-context-of-a-function-template"
+    }
+  ]
+}

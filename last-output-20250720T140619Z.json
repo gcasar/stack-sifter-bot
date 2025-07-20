@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-20T13:59:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T13:49:19Z",
+      "Title": "how to get non-aggregate columns using pandas using group by",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708053/how-to-get-non-aggregate-columns-using-pandas-using-group-by"
+    },
+    {
+      "Created": "2025-07-20T13:57:24Z",
+      "Title": "Why is my Python list index out of range? python Copy Edit my_list = [1, 2, 3] print(my_list[3]) I\u0027m getting an IndexError I don\u0027t understand why [duplicate]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708058/why-is-my-python-list-index-out-of-range-python-copy-edit-my-list-1-2-3-p"
+    },
+    {
+      "Created": "2025-07-20T13:59:34Z",
+      "Title": "How to make TypeScript infer discriminated union types from a sentinel value in a generic function?",
+      "Tags": [
+        "typescript",
+        "generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708062/how-to-make-typescript-infer-discriminated-union-types-from-a-sentinel-value-in"
+    }
+  ]
+}

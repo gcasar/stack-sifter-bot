@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-20T20:53:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T20:08:34Z",
+      "Title": "Stack Smashing with strtol",
+      "Tags": [
+        "c",
+        "stack",
+        "stack-smash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708340/stack-smashing-with-strtol"
+    },
+    {
+      "Created": "2025-07-20T20:32:49Z",
+      "Title": "Cannon vehicle moving on its own",
+      "Tags": [
+        "three.js",
+        "cannon.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708354/cannon-vehicle-moving-on-its-own"
+    },
+    {
+      "Created": "2025-07-20T20:36:48Z",
+      "Title": "How Do I resolve the namespace errors in C# when building a simple raw input handler?",
+      "Tags": [
+        "python",
+        "c#",
+        "raw-input"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708359/how-do-i-resolve-the-namespace-errors-in-c-sharp-when-building-a-simple-raw-inpu"
+    },
+    {
+      "Created": "2025-07-20T20:44:31Z",
+      "Title": "How do I setup VS Code Debugging with Rails 8 on Macbook M4?",
+      "Tags": [
+        "ruby-on-rails",
+        "macos",
+        "visual-studio-code",
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708363/how-do-i-setup-vs-code-debugging-with-rails-8-on-macbook-m4"
+    },
+    {
+      "Created": "2025-07-20T20:46:50Z",
+      "Title": "Is there any better way to do count 1s of a binary number when input is given in decimal?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708364/is-there-any-better-way-to-do-count-1s-of-a-binary-number-when-input-is-given-in"
+    },
+    {
+      "Created": "2025-07-20T20:51:04Z",
+      "Title": "How to filter values from a list in JSON with jq where some Id value does not start with value",
+      "Tags": [
+        "shell",
+        "jq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708368/how-to-filter-values-from-a-list-in-json-with-jq-where-some-id-value-does-not-st"
+    },
+    {
+      "Created": "2025-07-20T20:53:38Z",
+      "Title": "Wrong partitions are assigned to KStream threads after topic selectKey / repartition",
+      "Tags": [
+        "spring-kafka",
+        "apache-kafka-streams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708369/wrong-partitions-are-assigned-to-kstream-threads-after-topic-selectkey-reparti"
+    }
+  ]
+}

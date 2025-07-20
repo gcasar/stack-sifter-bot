@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-20T07:04:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T06:42:03Z",
+      "Title": "How can I solve the problem of docker conflict error while installing Open VPN panel?",
+      "Tags": [
+        "docker",
+        "vpn",
+        "openvpn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707786/how-can-i-solve-the-problem-of-docker-conflict-error-while-installing-open-vpn-p"
+    },
+    {
+      "Created": "2025-07-20T06:46:36Z",
+      "Title": "Postgres indexing fails in Django",
+      "Tags": [
+        "django",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707789/postgres-indexing-fails-in-django"
+    },
+    {
+      "Created": "2025-07-20T06:58:37Z",
+      "Title": "How can I make a Figma prototype scrollable inside an iframe in my React app?",
+      "Tags": [
+        "html",
+        "css",
+        "reactjs",
+        "iframe",
+        "figma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707795/how-can-i-make-a-figma-prototype-scrollable-inside-an-iframe-in-my-react-app"
+    },
+    {
+      "Created": "2025-07-20T07:03:30Z",
+      "Title": "How to set target sales for each product category and compare with actual sales in Tableau (using Superstore dataset)",
+      "Tags": [
+        "bar-chart",
+        "visualization",
+        "tableau-desktop",
+        "calculated-field",
+        "bullet-chart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707799/how-to-set-target-sales-for-each-product-category-and-compare-with-actual-sales"
+    },
+    {
+      "Created": "2025-07-20T07:04:05Z",
+      "Title": "How to use two different expressions in one filter in Diesel ORM?",
+      "Tags": [
+        "sql",
+        "rust",
+        "orm",
+        "rust-diesel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707800/how-to-use-two-different-expressions-in-one-filter-in-diesel-orm"
+    }
+  ]
+}

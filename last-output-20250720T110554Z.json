@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-20T11:02:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T10:26:45Z",
+      "Title": "How to preserve component state while dynamically rendering and unmounting components in React?",
+      "Tags": [
+        "reactjs",
+        "conditional-statements",
+        "state"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707933/how-to-preserve-component-state-while-dynamically-rendering-and-unmounting-compo"
+    },
+    {
+      "Created": "2025-07-20T10:28:52Z",
+      "Title": "Why is \u0022status: :unprocessable_entity\u0022 needed for displaying errors?",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707936/why-is-status-unprocessable-entity-needed-for-displaying-errors"
+    },
+    {
+      "Created": "2025-07-20T10:50:55Z",
+      "Title": "Passing a variable name to r function consisting of wilcox_effsize",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707944/passing-a-variable-name-to-r-function-consisting-of-wilcox-effsize"
+    },
+    {
+      "Created": "2025-07-20T10:55:59Z",
+      "Title": "Git rebase removes an empty(?) commit despite options \u0060--empty=keep\u0060 and \u0060--keep-empty\u0060",
+      "Tags": [
+        "git",
+        "git-rebase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707946/git-rebase-removes-an-empty-commit-despite-options-empty-keep-and-keep"
+    },
+    {
+      "Created": "2025-07-20T11:02:09Z",
+      "Title": "QPainter draws text on QPixmap, but the text is ugly",
+      "Tags": [
+        "qt",
+        "qt5",
+        "qpainter",
+        "qpixmap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707948/qpainter-draws-text-on-qpixmap-but-the-text-is-ugly"
+    },
+    {
+      "Created": "2025-07-20T11:02:48Z",
+      "Title": "How to type-annotate write when subclassing io.RawIOBase, getting \u0022Liskov substitution principle\u0022 violation",
+      "Tags": [
+        "python",
+        "python-typing",
+        "mypy",
+        "liskov-substitution-principle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79707949/how-to-type-annotate-write-when-subclassing-io-rawiobase-getting-liskov-substi"
+    }
+  ]
+}

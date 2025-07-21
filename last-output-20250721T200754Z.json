@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-21T20:00:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T19:50:47Z",
+      "Title": "How do I configure Vercel to treat a compiled index.js as a serverless function instead of a static file?",
+      "Tags": [
+        "vercel",
+        "serverless",
+        "hono"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709568/how-do-i-configure-vercel-to-treat-a-compiled-index-js-as-a-serverless-function"
+    },
+    {
+      "Created": "2025-07-21T20:00:31Z",
+      "Title": "The Java Equivalent of queryProductDetailsResult and how to use it?",
+      "Tags": [
+        "android",
+        "play-billing-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709578/the-java-equivalent-of-queryproductdetailsresult-and-how-to-use-it"
+    }
+  ]
+}

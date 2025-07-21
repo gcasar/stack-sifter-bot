@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-21T18:56:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T18:31:58Z",
+      "Title": "How to organize and package first-party dependencies of a large-scale project in Python?",
+      "Tags": [
+        "python",
+        "python-poetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709501/how-to-organize-and-package-first-party-dependencies-of-a-large-scale-project-in"
+    },
+    {
+      "Created": "2025-07-21T18:38:07Z",
+      "Title": "How do I export a function that returns a Playwright \u0060expect\u0060 object from a typescript module?",
+      "Tags": [
+        "typescript",
+        "playwright",
+        "playwright-test",
+        "playwright-typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709508/how-do-i-export-a-function-that-returns-a-playwright-expect-object-from-a-type"
+    },
+    {
+      "Created": "2025-07-21T18:42:44Z",
+      "Title": "How to prevent Django from generating migrations when using dynamic GoogleCloudStorage in a FileField?",
+      "Tags": [
+        "django",
+        "django-models",
+        "google-cloud-storage",
+        "migration",
+        "filefield"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709513/how-to-prevent-django-from-generating-migrations-when-using-dynamic-googleclouds"
+    },
+    {
+      "Created": "2025-07-21T18:45:42Z",
+      "Title": "How to reference child of child in Bicep?",
+      "Tags": [
+        "azure-bicep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709517/how-to-reference-child-of-child-in-bicep"
+    },
+    {
+      "Created": "2025-07-21T18:50:04Z",
+      "Title": "python asyncio: allow user to choose fire-and-forget vs blocking-group-of-functions",
+      "Tags": [
+        "python",
+        "multithreading",
+        "python-requests",
+        "python-asyncio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709521/python-asyncio-allow-user-to-choose-fire-and-forget-vs-blocking-group-of-functi"
+    },
+    {
+      "Created": "2025-07-21T18:54:23Z",
+      "Title": "Is there a way to express dependency on the first iteration of the parallelized loop?",
+      "Tags": [
+        "c\u002B\u002B",
+        "dependencies",
+        "openmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709524/is-there-a-way-to-express-dependency-on-the-first-iteration-of-the-parallelized"
+    },
+    {
+      "Created": "2025-07-21T18:55:59Z",
+      "Title": "Odoo 17: How to control which fields are available in the Export wizard using a custom module?",
+      "Tags": [
+        "python",
+        "odoo",
+        "export",
+        "odoo-17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709525/odoo-17-how-to-control-which-fields-are-available-in-the-export-wizard-using-a"
+    },
+    {
+      "Created": "2025-07-21T18:56:19Z",
+      "Title": "Find bluetooth connected devices battery level through Apple Script",
+      "Tags": [
+        "macos",
+        "bluetooth",
+        "applescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709526/find-bluetooth-connected-devices-battery-level-through-apple-script"
+    }
+  ]
+}

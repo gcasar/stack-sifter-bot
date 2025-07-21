@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-21T17:56:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T17:19:29Z",
+      "Title": "Python: How to use changing window in pandas rolling groupby function",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709428/python-how-to-use-changing-window-in-pandas-rolling-groupby-function"
+    },
+    {
+      "Created": "2025-07-21T17:22:04Z",
+      "Title": "PowerApp - Graph API Call using Office365Group connector is now failing with permission error",
+      "Tags": [
+        "ms-office",
+        "powerapps",
+        "power-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709433/powerapp-graph-api-call-using-office365group-connector-is-now-failing-with-per"
+    },
+    {
+      "Created": "2025-07-21T17:30:45Z",
+      "Title": "Using Application.Match and an array with wildcards",
+      "Tags": [
+        "arrays",
+        "excel",
+        "vba",
+        "loops",
+        "match"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709441/using-application-match-and-an-array-with-wildcards"
+    },
+    {
+      "Created": "2025-07-21T17:44:35Z",
+      "Title": "PySide6: PyQtGraph scatterplot not loading data spots correctly, it displays all spot on top-left side of the graph",
+      "Tags": [
+        "pyside6",
+        "pyqtgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709455/pyside6-pyqtgraph-scatterplot-not-loading-data-spots-correctly-it-displays-all"
+    },
+    {
+      "Created": "2025-07-21T17:46:48Z",
+      "Title": "Passing parameter to route function from ajax",
+      "Tags": [
+        "javascript",
+        "ajax",
+        "laravel",
+        "laravel-10",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709456/passing-parameter-to-route-function-from-ajax"
+    },
+    {
+      "Created": "2025-07-21T17:56:16Z",
+      "Title": "Django Celery with prefork workers breaks OpenTelemetry metrics",
+      "Tags": [
+        "python",
+        "django",
+        "celery",
+        "open-telemetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709465/django-celery-with-prefork-workers-breaks-opentelemetry-metrics"
+    }
+  ]
+}

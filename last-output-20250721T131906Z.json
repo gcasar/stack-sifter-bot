@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-21T13:11:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T12:58:59Z",
+      "Title": "Extract table from (GitHub) Markdown page into Python data structure",
+      "Tags": [
+        "python",
+        "html",
+        "markdown",
+        "github-flavored-markdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709106/extract-table-from-github-markdown-page-into-python-data-structure"
+    },
+    {
+      "Created": "2025-07-21T13:11:10Z",
+      "Title": "How are these attacker\u2013defender pairs (e.g., 560-490, 238-458) generated? W hat pairing algorithm or rule is my tactical event game server using?",
+      "Tags": [
+        "algorithm",
+        "game-development",
+        "reverse-engineering",
+        "pattern-recognition",
+        "exploratory-data-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709114/how-are-these-attacker-defender-pairs-e-g-560-490-238-458-generated-w-hat"
+    },
+    {
+      "Created": "2025-07-21T13:11:48Z",
+      "Title": "adding an extended property in another database",
+      "Tags": [
+        "exec",
+        "extended-properties",
+        "cross-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709116/adding-an-extended-property-in-another-database"
+    }
+  ]
+}

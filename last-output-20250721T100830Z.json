@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-21T10:05:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T09:51:16Z",
+      "Title": "Matplotlib could not convert string to float when iterating through tick labels",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708863/matplotlib-could-not-convert-string-to-float-when-iterating-through-tick-labels"
+    },
+    {
+      "Created": "2025-07-21T09:51:22Z",
+      "Title": "How to define the data model as a SQL variable not a table or view in EF Core?",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "blazor",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708865/how-to-define-the-data-model-as-a-sql-variable-not-a-table-or-view-in-ef-core"
+    },
+    {
+      "Created": "2025-07-21T09:53:11Z",
+      "Title": "Unable to Convert SQL Server varbinary(max) Image Data to Valid Image File in .NET Core (Black/Gray Output)",
+      "Tags": [
+        "sql-server",
+        ".net-core",
+        "image-processing",
+        "varbinary",
+        "image-conversion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708866/unable-to-convert-sql-server-varbinarymax-image-data-to-valid-image-file-in-n"
+    },
+    {
+      "Created": "2025-07-21T09:55:58Z",
+      "Title": "Why does subprocess require two .readline() calls when shell=False, but only one with shell=True?",
+      "Tags": [
+        "python",
+        "shell",
+        "subprocess",
+        "popen",
+        "bc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708874/why-does-subprocess-require-two-readline-calls-when-shell-false-but-only-one"
+    },
+    {
+      "Created": "2025-07-21T09:56:38Z",
+      "Title": "UIViewRepresentable with fixedSize in HStack",
+      "Tags": [
+        "swiftui",
+        "uikit",
+        "uiviewrepresentable",
+        "hstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708876/uiviewrepresentable-with-fixedsize-in-hstack"
+    },
+    {
+      "Created": "2025-07-21T09:57:05Z",
+      "Title": "Postgres Aurora index creation using to much resources",
+      "Tags": [
+        "postgresql",
+        "amazon-aurora"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708877/postgres-aurora-index-creation-using-to-much-resources"
+    },
+    {
+      "Created": "2025-07-21T10:02:49Z",
+      "Title": "Database or data structure for fast exact counting",
+      "Tags": [
+        "database",
+        "data-structures",
+        "count"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708881/database-or-data-structure-for-fast-exact-counting"
+    },
+    {
+      "Created": "2025-07-21T10:05:12Z",
+      "Title": "Making a dynamic form in streamlit",
+      "Tags": [
+        "python-3.x",
+        "forms",
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708889/making-a-dynamic-form-in-streamlit"
+    }
+  ]
+}

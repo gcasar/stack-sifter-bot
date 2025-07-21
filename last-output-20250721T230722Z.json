@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-21T23:06:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T22:24:30Z",
+      "Title": "How to Assert if the instance is of type, and use the instance casted to the type in the next assertions?",
+      "Tags": [
+        "c#",
+        "nunit",
+        "nunit-3.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709676/how-to-assert-if-the-instance-is-of-type-and-use-the-instance-casted-to-the-typ"
+    },
+    {
+      "Created": "2025-07-21T22:25:11Z",
+      "Title": "Python recursion prints all elements repeatedly instead of printing each elements on the new line called by the function",
+      "Tags": [
+        "python",
+        "algorithm",
+        "recursion",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709677/python-recursion-prints-all-elements-repeatedly-instead-of-printing-each-element"
+    },
+    {
+      "Created": "2025-07-21T22:51:42Z",
+      "Title": "Handle multiple types \u0027react-hook-form\u0027",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "react-hook-form"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709695/handle-multiple-types-react-hook-form"
+    },
+    {
+      "Created": "2025-07-21T23:01:53Z",
+      "Title": "Clip a canvas using a polygon and a blured circle",
+      "Tags": [
+        "javascript",
+        "canvas",
+        "clip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709697/clip-a-canvas-using-a-polygon-and-a-blured-circle"
+    },
+    {
+      "Created": "2025-07-21T23:06:10Z",
+      "Title": "How to reduce the number of cores Gurobi solver uses",
+      "Tags": [
+        "multithreading",
+        "solver",
+        "pyomo",
+        "gurobi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709703/how-to-reduce-the-number-of-cores-gurobi-solver-uses"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-21T09:08:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T08:22:33Z",
+      "Title": "Rollup: Error: Cannot find package all rollup plugins packages",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "bundle",
+        "rollup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708767/rollup-error-cannot-find-package-all-rollup-plugins-packages"
+    },
+    {
+      "Created": "2025-07-21T08:43:51Z",
+      "Title": "How to avoid a NameError in SQLAlchemy when using an ORM for a MySQL database?",
+      "Tags": [
+        "python",
+        "sqlalchemy",
+        "orm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708791/how-to-avoid-a-nameerror-in-sqlalchemy-when-using-an-orm-for-a-mysql-database"
+    },
+    {
+      "Created": "2025-07-21T09:04:19Z",
+      "Title": "Reusable workflow output propagation",
+      "Tags": [
+        "github",
+        "github-actions",
+        "hashicorp-vault"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708813/reusable-workflow-output-propagation"
+    },
+    {
+      "Created": "2025-07-21T09:08:59Z",
+      "Title": "Why does Collectors.toMap() throw NullPointerException when mapping to null values?",
+      "Tags": [
+        "dictionary",
+        "collections",
+        "nullpointerexception",
+        "java-stream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708820/why-does-collectors-tomap-throw-nullpointerexception-when-mapping-to-null-valu"
+    }
+  ]
+}

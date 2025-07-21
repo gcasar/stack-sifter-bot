@@ -1,0 +1,108 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-21T11:03:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T10:32:54Z",
+      "Title": "SQL Server Shrink File Stuck at 76% Due to LOB and System Data \u2013 How to Shrink Only the Movable Parts? [closed]",
+      "Tags": [
+        "sql-server",
+        "amazon-rds",
+        "sql-server-2019",
+        "shrink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708926/sql-server-shrink-file-stuck-at-76-due-to-lob-and-system-data-how-to-shrink-o"
+    },
+    {
+      "Created": "2025-07-21T10:40:27Z",
+      "Title": "Getting user client IP in Jenkins",
+      "Tags": [
+        "java",
+        "jenkins",
+        "groovy",
+        "continuous-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708940/getting-user-client-ip-in-jenkins"
+    },
+    {
+      "Created": "2025-07-21T10:42:42Z",
+      "Title": "Firebase not initialized altough code for initializing is called",
+      "Tags": [
+        "java",
+        "android",
+        "firebase-realtime-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708945/firebase-not-initialized-altough-code-for-initializing-is-called"
+    },
+    {
+      "Created": "2025-07-21T10:43:33Z",
+      "Title": "Tensorflow Graph is finalized and cannot be modified",
+      "Tags": [
+        "python",
+        "tensorflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708948/tensorflow-graph-is-finalized-and-cannot-be-modified"
+    },
+    {
+      "Created": "2025-07-21T10:46:20Z",
+      "Title": "How to have nullable interface in c# 13 (dotnet 9)",
+      "Tags": [
+        "c#",
+        "c#-13.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708950/how-to-have-nullable-interface-in-c-sharp-13-dotnet-9"
+    },
+    {
+      "Created": "2025-07-21T10:47:33Z",
+      "Title": "Yarn workspace hoisting works on local but not in deployment",
+      "Tags": [
+        "next.js",
+        "vercel",
+        "yarn-workspaces"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708952/yarn-workspace-hoisting-works-on-local-but-not-in-deployment"
+    },
+    {
+      "Created": "2025-07-21T10:55:51Z",
+      "Title": "Trying to link with mbedtls functions fails with Zephyr",
+      "Tags": [
+        "zephyr-rtos",
+        "mbedtls",
+        "nrf52",
+        "hkdf",
+        "kconfig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708957/trying-to-link-with-mbedtls-functions-fails-with-zephyr"
+    },
+    {
+      "Created": "2025-07-21T10:56:12Z",
+      "Title": "Changing names of listeners in KAFKA_ADVERTISED_LISTENERS results in error for inter.broker.listener.name",
+      "Tags": [
+        "apache-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708958/changing-names-of-listeners-in-kafka-advertised-listeners-results-in-error-for-i"
+    },
+    {
+      "Created": "2025-07-21T11:00:17Z",
+      "Title": "Exclude some test with hatch testing",
+      "Tags": [
+        "python",
+        "pytest",
+        "hatch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708960/exclude-some-test-with-hatch-testing"
+    },
+    {
+      "Created": "2025-07-21T11:03:48Z",
+      "Title": "DataTransferManager never requests data",
+      "Tags": [
+        "c#",
+        "wpf",
+        "windows",
+        ".net-core",
+        "share"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708963/datatransfermanager-never-requests-data"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-21T08:08:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T07:50:14Z",
+      "Title": "How to get the real coordinates of the gradient graphics in PDF",
+      "Tags": [
+        "java",
+        "pdfbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708726/how-to-get-the-real-coordinates-of-the-gradient-graphics-in-pdf"
+    },
+    {
+      "Created": "2025-07-21T07:55:35Z",
+      "Title": "AAPT2 resource linking failed after upgrading to compile/target SDK 35",
+      "Tags": [
+        "android",
+        "react-native",
+        "android-studio",
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708729/aapt2-resource-linking-failed-after-upgrading-to-compile-target-sdk-35"
+    },
+    {
+      "Created": "2025-07-21T08:03:14Z",
+      "Title": "Trying to import an existing spreadsheet (xlsx) into Python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708744/trying-to-import-an-existing-spreadsheet-xlsx-into-python"
+    },
+    {
+      "Created": "2025-07-21T08:08:17Z",
+      "Title": "On Linux-based OS using scripts or similar, how to auto delete all network connections, disable Wi-Fi and networking as part of booting process?",
+      "Tags": [
+        "linux",
+        "bash",
+        "cron",
+        "nmcli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708752/on-linux-based-os-using-scripts-or-similar-how-to-auto-delete-all-network-conne"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-21T22:01:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T21:44:39Z",
+      "Title": "How to enable auto-refresh for VS Code Explorer and Source Control panes for detecting file changes and updates",
+      "Tags": [
+        "go",
+        "visual-studio-code",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709660/how-to-enable-auto-refresh-for-vs-code-explorer-and-source-control-panes-for-det"
+    },
+    {
+      "Created": "2025-07-21T22:01:25Z",
+      "Title": "Why isn\u0027t python 3 psycopg2 LoggingConnection logging to file?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "logging",
+        "psycopg2",
+        "dbconnectionfactory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709666/why-isnt-python-3-psycopg2-loggingconnection-logging-to-file"
+    }
+  ]
+}

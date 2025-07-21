@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-21T16:04:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T15:57:19Z",
+      "Title": "How to use custom query for data migration through SSMA Console",
+      "Tags": [
+        "database-migration",
+        "data-migration",
+        "schema-migration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709317/how-to-use-custom-query-for-data-migration-through-ssma-console"
+    },
+    {
+      "Created": "2025-07-21T15:58:16Z",
+      "Title": "Can the linker produce object files?",
+      "Tags": [
+        "c",
+        "linker",
+        "libraries",
+        "object-files"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709322/can-the-linker-produce-object-files"
+    },
+    {
+      "Created": "2025-07-21T16:04:04Z",
+      "Title": "Implementing AI-driven model-based in WebdriverIO beyond Copilot?",
+      "Tags": [
+        "automation",
+        "artificial-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709329/implementing-ai-driven-model-based-in-webdriverio-beyond-copilot"
+    }
+  ]
+}

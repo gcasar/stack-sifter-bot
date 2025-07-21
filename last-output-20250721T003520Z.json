@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-21T00:16:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-20T23:43:56Z",
+      "Title": "Django message not showing up in template",
+      "Tags": [
+        "python",
+        "django",
+        "web"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708440/django-message-not-showing-up-in-template"
+    },
+    {
+      "Created": "2025-07-21T00:05:11Z",
+      "Title": "How to create an environment value ErrorPresenter that can display SwiftUI alerts in a root view from any sub view without subview redrawing?",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708444/how-to-create-an-environment-value-errorpresenter-that-can-display-swiftui-alert"
+    },
+    {
+      "Created": "2025-07-21T00:16:00Z",
+      "Title": "Backtracking flow of control",
+      "Tags": [
+        "algorithm",
+        "backtracking",
+        "recursive-backtracking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708448/backtracking-flow-of-control"
+    }
+  ]
+}

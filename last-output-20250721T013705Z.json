@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-21T01:32:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T00:45:55Z",
+      "Title": "When does \u0060AVCapturePhotoOutput\u0060 start and stop accumulating light (exposure)?",
+      "Tags": [
+        "ios",
+        "camera",
+        "avfoundation",
+        "exposure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708456/when-does-avcapturephotooutput-start-and-stop-accumulating-light-exposure"
+    },
+    {
+      "Created": "2025-07-21T01:17:40Z",
+      "Title": "How can I improve Copilot\u2019s understanding of hot functions from CPU profiling using code indexing?",
+      "Tags": [
+        "python",
+        "github",
+        "github-copilot",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708463/how-can-i-improve-copilot-s-understanding-of-hot-functions-from-cpu-profiling-us"
+    },
+    {
+      "Created": "2025-07-21T01:19:19Z",
+      "Title": "How to add the third-party dependency to C\u002B\u002B project in CLion?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "clion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708464/how-to-add-the-third-party-dependency-to-c-project-in-clion"
+    },
+    {
+      "Created": "2025-07-21T01:27:12Z",
+      "Title": "Problem trying to sort images alphabetically by file name that have been loaded into a div via file reader",
+      "Tags": [
+        "javascript",
+        "sorting",
+        "filereader",
+        "alphabetical",
+        "alphabetical-sort"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708466/problem-trying-to-sort-images-alphabetically-by-file-name-that-have-been-loaded"
+    },
+    {
+      "Created": "2025-07-21T01:32:37Z",
+      "Title": "Does anyone know what I should add to proguard-rules.pro when doing flutter add to app?",
+      "Tags": [
+        "flutter",
+        "flutter-add-to-app"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708469/does-anyone-know-what-i-should-add-to-proguard-rules-pro-when-doing-flutter-add"
+    }
+  ]
+}

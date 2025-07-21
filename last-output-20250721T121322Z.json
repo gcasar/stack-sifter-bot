@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-21T12:09:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T11:43:40Z",
+      "Title": "Using prettier in unconventional ways? prettier can\u0027t find plugins",
+      "Tags": [
+        "prettier",
+        "code-formatting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709011/using-prettier-in-unconventional-ways-prettier-cant-find-plugins"
+    },
+    {
+      "Created": "2025-07-21T11:49:00Z",
+      "Title": "Correct design for sql table in sqlite3: how to optimize substring search?",
+      "Tags": [
+        "c\u002B\u002B",
+        "sql",
+        "sqlite",
+        "indexing",
+        "full-text-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709014/correct-design-for-sql-table-in-sqlite3-how-to-optimize-substring-search"
+    },
+    {
+      "Created": "2025-07-21T12:01:03Z",
+      "Title": "Kafka-Driven Elasticsearch Document Migration (Index A \u2192 B)",
+      "Tags": [
+        "elasticsearch",
+        "apache-kafka",
+        "logstash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709026/kafka-driven-elasticsearch-document-migration-index-a-%e2%86%92-b"
+    },
+    {
+      "Created": "2025-07-21T12:05:05Z",
+      "Title": "Prevent ruamel.yaml from touching unchanged lines when round-trip dumping YAML",
+      "Tags": [
+        "python",
+        "yaml",
+        "ruamel.yaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709032/prevent-ruamel-yaml-from-touching-unchanged-lines-when-round-trip-dumping-yaml"
+    },
+    {
+      "Created": "2025-07-21T12:08:06Z",
+      "Title": "How to configure openapi-generator-cli to include examples in Pydantic models",
+      "Tags": [
+        "python",
+        "openapi-generator",
+        "pydantic-v2",
+        "openapi-generator-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709037/how-to-configure-openapi-generator-cli-to-include-examples-in-pydantic-models"
+    },
+    {
+      "Created": "2025-07-21T12:09:06Z",
+      "Title": "Hibernate CriteriaBuilder typecast not working after Spring Boot Update",
+      "Tags": [
+        "hibernate",
+        "hibernate-criteria",
+        "criteria-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709038/hibernate-criteriabuilder-typecast-not-working-after-spring-boot-update"
+    }
+  ]
+}

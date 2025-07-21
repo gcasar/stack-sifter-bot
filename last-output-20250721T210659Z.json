@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-21T20:52:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T20:10:55Z",
+      "Title": "How to use PostMessage with TWA to enable communication between TWA \u0026 browser via JS?",
+      "Tags": [
+        "java",
+        "android",
+        "postmessage",
+        "android-browser",
+        "trusted-web-activity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709592/how-to-use-postmessage-with-twa-to-enable-communication-between-twa-browser-vi"
+    },
+    {
+      "Created": "2025-07-21T20:24:48Z",
+      "Title": "Combine two lists for INSERT into a table",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709608/combine-two-lists-for-insert-into-a-table"
+    },
+    {
+      "Created": "2025-07-21T20:30:01Z",
+      "Title": "Build Error during deployment: Service account object must contain a string \u0022private_key\u0022 property",
+      "Tags": [
+        "firebase",
+        "session",
+        "vercel",
+        "firebase-admin",
+        "nextjs-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709616/build-error-during-deployment-service-account-object-must-contain-a-string-pri"
+    },
+    {
+      "Created": "2025-07-21T20:43:49Z",
+      "Title": "Cache Layer Between Service and Repository",
+      "Tags": [
+        "java",
+        "oop",
+        "design-patterns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709626/cache-layer-between-service-and-repository"
+    },
+    {
+      "Created": "2025-07-21T20:51:22Z",
+      "Title": "Error uploading image to Firebase Storage with React Native Expo \u2013 (storage/unknown)",
+      "Tags": [
+        "firebase",
+        "react-native",
+        "expo",
+        "firebase-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709639/error-uploading-image-to-firebase-storage-with-react-native-expo-storage-unkn"
+    },
+    {
+      "Created": "2025-07-21T20:52:32Z",
+      "Title": "Capturing function parameters and optional type hints using regex",
+      "Tags": [
+        "regex",
+        "parsing",
+        "syntax-highlighting",
+        "lexer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709640/capturing-function-parameters-and-optional-type-hints-using-regex"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-21T03:33:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T03:00:48Z",
+      "Title": "Why does this code that moves a closure into another closure and returns both even compile?",
+      "Tags": [
+        "rust",
+        "closures",
+        "borrow-checker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708503/why-does-this-code-that-moves-a-closure-into-another-closure-and-returns-both-ev"
+    },
+    {
+      "Created": "2025-07-21T03:03:09Z",
+      "Title": "ExcelJS in a nuxt server api",
+      "Tags": [
+        "nuxt.js",
+        "cloudflare",
+        "nuxt3.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708505/exceljs-in-a-nuxt-server-api"
+    },
+    {
+      "Created": "2025-07-21T03:04:56Z",
+      "Title": "What\u0027s the correct way to customize the look of a custom painted Qt Widget?",
+      "Tags": [
+        "python",
+        "qt",
+        "pyqt",
+        "pyside"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708506/whats-the-correct-way-to-customize-the-look-of-a-custom-painted-qt-widget"
+    },
+    {
+      "Created": "2025-07-21T03:11:39Z",
+      "Title": "Catching errors of model in controller method",
+      "Tags": [
+        "php",
+        "laravel",
+        "try-catch",
+        "laravel-10",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708510/catching-errors-of-model-in-controller-method"
+    },
+    {
+      "Created": "2025-07-21T03:14:18Z",
+      "Title": "Setting the referrer",
+      "Tags": [
+        "cefsharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708513/setting-the-referrer"
+    },
+    {
+      "Created": "2025-07-21T03:33:06Z",
+      "Title": "Azure function app no longer deploying correctly and showing functions",
+      "Tags": [
+        "azure",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708518/azure-function-app-no-longer-deploying-correctly-and-showing-functions"
+    }
+  ]
+}

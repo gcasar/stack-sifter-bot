@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-21T14:06:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T13:23:45Z",
+      "Title": "Valgrind reports \u0022still reachable\u0022 memory from Python ROS 2 node \u2014 is this normal?",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "memory-leaks",
+        "valgrind",
+        "ros2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709134/valgrind-reports-still-reachable-memory-from-python-ros-2-node-is-this-norma"
+    },
+    {
+      "Created": "2025-07-21T13:27:02Z",
+      "Title": "How do I have the effect the scrolling behind the toolbar?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "macos-tahoe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709137/how-do-i-have-the-effect-the-scrolling-behind-the-toolbar"
+    },
+    {
+      "Created": "2025-07-21T13:46:49Z",
+      "Title": "SQL plain or PDO: how do I get the foreign key?",
+      "Tags": [
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709161/sql-plain-or-pdo-how-do-i-get-the-foreign-key"
+    },
+    {
+      "Created": "2025-07-21T14:06:10Z",
+      "Title": "Images from the SPFx Web Part assets folder are not loading",
+      "Tags": [
+        "sharepoint-online",
+        "spfx",
+        "sharepointframework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709182/images-from-the-spfx-web-part-assets-folder-are-not-loading"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-21T06:57:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T06:15:38Z",
+      "Title": "How to create a unique_ptr while guarding against implicit conversion in ctor?",
+      "Tags": [
+        "c\u002B\u002B",
+        "implicit-conversion",
+        "unique-ptr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708628/how-to-create-a-unique-ptr-while-guarding-against-implicit-conversion-in-ctor"
+    },
+    {
+      "Created": "2025-07-21T06:37:21Z",
+      "Title": "CPP MQTT TLS over ESP32 WiFi Mesh gives me esp-tls-mbedtls: read error :-0x7180 [closed]",
+      "Tags": [
+        "mqtt",
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708657/cpp-mqtt-tls-over-esp32-wifi-mesh-gives-me-esp-tls-mbedtls-read-error-0x7180"
+    },
+    {
+      "Created": "2025-07-21T06:51:21Z",
+      "Title": "How to implement a universal log system for entity changes using TypeORM \u0026 NestJS (handling nested relations cleanly)?",
+      "Tags": [
+        "postgresql",
+        "typeorm",
+        "nestjs-typeorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708677/how-to-implement-a-universal-log-system-for-entity-changes-using-typeorm-nestj"
+    },
+    {
+      "Created": "2025-07-21T06:57:12Z",
+      "Title": "How can I remove the white background on a video loading?",
+      "Tags": [
+        "html",
+        "reactjs",
+        "video"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708680/how-can-i-remove-the-white-background-on-a-video-loading"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-21T02:41:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T01:55:41Z",
+      "Title": "Why does my PhysicsRevoluteJoint not keep two entities hinged together in RealityKit?",
+      "Tags": [
+        "swiftui",
+        "realitykit",
+        "visionos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708478/why-does-my-physicsrevolutejoint-not-keep-two-entities-hinged-together-in-realit"
+    },
+    {
+      "Created": "2025-07-21T02:24:30Z",
+      "Title": "Make QMenu appear disabled in PyQt5?",
+      "Tags": [
+        "pyqt5",
+        "qt5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708490/make-qmenu-appear-disabled-in-pyqt5"
+    },
+    {
+      "Created": "2025-07-21T02:34:47Z",
+      "Title": "KEDA based autoscaling of background services based on Azure Service Bus Load",
+      "Tags": [
+        "azureservicebus",
+        "background-service",
+        "keda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708495/keda-based-autoscaling-of-background-services-based-on-azure-service-bus-load"
+    },
+    {
+      "Created": "2025-07-21T02:41:40Z",
+      "Title": "Autodesk Viewer: Error \u0022Cannot read properties of undefined (reading \u0027transparent\u0027)\u0022 when loading multiple models",
+      "Tags": [
+        "javascript",
+        "autodesk-forge",
+        "autodesk-viewer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708498/autodesk-viewer-error-cannot-read-properties-of-undefined-reading-transparen"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-21T06:07:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-21T05:53:13Z",
+      "Title": "Spring Boot app works in Docker CLI/Desktop but not when run inside IntelliJ \u2013 not accepting requests",
+      "Tags": [
+        "docker",
+        "intellij-idea",
+        "containers",
+        "port",
+        "intellij-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708602/spring-boot-app-works-in-docker-cli-desktop-but-not-when-run-inside-intellij-n"
+    },
+    {
+      "Created": "2025-07-21T05:54:56Z",
+      "Title": "Firebase Realtime Database update() Suddenly Slow/Stuck in Node.js Production Code",
+      "Tags": [
+        "node.js",
+        "firebase",
+        "firebase-realtime-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708604/firebase-realtime-database-update-suddenly-slow-stuck-in-node-js-production-co"
+    },
+    {
+      "Created": "2025-07-21T06:07:20Z",
+      "Title": "is there a way to print the CP437 control characters (specifically 1 - 31) visually onto the console using visual studio?",
+      "Tags": [
+        "c",
+        "visual-studio",
+        "character-encoding",
+        "codepage-437"
+      ],
+      "Url": "https://stackoverflow.com/questions/79708622/is-there-a-way-to-print-the-cp437-control-characters-specifically-1-31-visua"
+    }
+  ]
+}

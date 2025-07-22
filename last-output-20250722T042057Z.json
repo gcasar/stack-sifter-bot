@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-22T04:18:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T03:43:14Z",
+      "Title": "How to increase power limit of usb port/hub on ubuntu laptop?",
+      "Tags": [
+        "ubuntu",
+        "bluetooth",
+        "usb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709846/how-to-increase-power-limit-of-usb-port-hub-on-ubuntu-laptop"
+    },
+    {
+      "Created": "2025-07-22T03:44:42Z",
+      "Title": "How does Python parse \u0060:,\u0060 when used to slice/index a NumPy array?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709847/how-does-python-parse-when-used-to-slice-index-a-numpy-array"
+    },
+    {
+      "Created": "2025-07-22T03:47:05Z",
+      "Title": "Creating Nested Indexes of Subfolders using Python",
+      "Tags": [
+        "python",
+        "html",
+        "static-site"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709848/creating-nested-indexes-of-subfolders-using-python"
+    },
+    {
+      "Created": "2025-07-22T03:54:04Z",
+      "Title": "Arrayformula with countif for column and check single cell",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709851/arrayformula-with-countif-for-column-and-check-single-cell"
+    },
+    {
+      "Created": "2025-07-22T03:58:09Z",
+      "Title": "indesign js: How to apply link to a specific word within a textframe?",
+      "Tags": [
+        "javascript",
+        "adobe-indesign"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709857/indesign-js-how-to-apply-link-to-a-specific-word-within-a-textframe"
+    },
+    {
+      "Created": "2025-07-22T03:58:50Z",
+      "Title": "DDD rich domain entities and EF models separated",
+      "Tags": [
+        ".net",
+        "entity-framework",
+        "domain-driven-design",
+        "clean-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709858/ddd-rich-domain-entities-and-ef-models-separated"
+    },
+    {
+      "Created": "2025-07-22T04:05:08Z",
+      "Title": "PySpark groupBy().applyInPandas() fails with INVALID_PANDAS_UDF despite correct signature and schema for GROUPED_MAP",
+      "Tags": [
+        "python-3.x",
+        "apache-spark",
+        "pyspark",
+        "group-by",
+        "pandas-udf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709861/pyspark-groupby-applyinpandas-fails-with-invalid-pandas-udf-despite-correct"
+    },
+    {
+      "Created": "2025-07-22T04:18:19Z",
+      "Title": "Why does setTimeout inside a loop print the same value?",
+      "Tags": [
+        "javascript",
+        "loops",
+        "asynchronous",
+        "closures",
+        "settimeout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709867/why-does-settimeout-inside-a-loop-print-the-same-value"
+    }
+  ]
+}

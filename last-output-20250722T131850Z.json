@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-22T13:11:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T13:00:00Z",
+      "Title": "python logging dry add class property on method",
+      "Tags": [
+        "python",
+        "python-logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710510/python-logging-dry-add-class-property-on-method"
+    },
+    {
+      "Created": "2025-07-22T13:00:21Z",
+      "Title": "How to use Oracle built in functions in Entity Framework Core?",
+      "Tags": [
+        "asp.net-core",
+        ".net-core",
+        "entity-framework-core",
+        "oracle-manageddataaccess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710512/how-to-use-oracle-built-in-functions-in-entity-framework-core"
+    },
+    {
+      "Created": "2025-07-22T13:06:30Z",
+      "Title": "Custom Connector Returns HTTP 200 but Fails in Copilot Agent with ConnectorRequestFailure",
+      "Tags": [
+        "microsoft-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710521/custom-connector-returns-http-200-but-fails-in-copilot-agent-with-connectorreque"
+    },
+    {
+      "Created": "2025-07-22T13:11:55Z",
+      "Title": "ExportTo PowerBI - Api ExportTo",
+      "Tags": [
+        "rest",
+        "powerbi",
+        "powerbi-embedded",
+        "powerbi-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710524/exportto-powerbi-api-exportto"
+    }
+  ]
+}

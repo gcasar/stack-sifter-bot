@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-22T08:09:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T07:55:37Z",
+      "Title": "Follow-up email using Gmail API appears as a new conversation even with threadId and In-Reply-To headers",
+      "Tags": [
+        "node.js",
+        "email",
+        "google-api",
+        "gmail-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710111/follow-up-email-using-gmail-api-appears-as-a-new-conversation-even-with-threadid"
+    },
+    {
+      "Created": "2025-07-22T08:03:03Z",
+      "Title": "Environment variables not accessible in dynamically loaded .dylib on macOS using Rust libloading, but works on Windows",
+      "Tags": [
+        "macos",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710119/environment-variables-not-accessible-in-dynamically-loaded-dylib-on-macos-using"
+    },
+    {
+      "Created": "2025-07-22T08:04:00Z",
+      "Title": "Handling HTTP 403 Forbidden Response in Quarkus REST Client with ResponseExceptionMapper",
+      "Tags": [
+        "quarkus",
+        "resteasy",
+        "microprofile",
+        "quarkus-reactive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710120/handling-http-403-forbidden-response-in-quarkus-rest-client-with-responseexcepti"
+    },
+    {
+      "Created": "2025-07-22T08:06:38Z",
+      "Title": "How to make a Visual Studio extension using C\u002B\u002B and CMake?",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710122/how-to-make-a-visual-studio-extension-using-c-and-cmake"
+    },
+    {
+      "Created": "2025-07-22T08:09:31Z",
+      "Title": "Unable to access ADLS Gen2 through Spark when manually running a notebook in Synapse Analytics Studio",
+      "Tags": [
+        "apache-spark",
+        "azure-synapse",
+        "azure-data-lake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710128/unable-to-access-adls-gen2-through-spark-when-manually-running-a-notebook-in-syn"
+    }
+  ]
+}

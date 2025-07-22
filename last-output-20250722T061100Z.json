@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-22T06:06:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T05:46:10Z",
+      "Title": "Why does my debounce function not work correctly inside a component?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-functional-component",
+        "debouncing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709945/why-does-my-debounce-function-not-work-correctly-inside-a-component"
+    },
+    {
+      "Created": "2025-07-22T05:58:45Z",
+      "Title": "Restart notification area icon on explorer restart",
+      "Tags": [
+        "windows",
+        "systray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709958/restart-notification-area-icon-on-explorer-restart"
+    },
+    {
+      "Created": "2025-07-22T06:00:04Z",
+      "Title": "Serilog not writing to file when hosted on IIS (.NET 8 Web API)",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        "iis",
+        "serilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709962/serilog-not-writing-to-file-when-hosted-on-iis-net-8-web-api"
+    },
+    {
+      "Created": "2025-07-22T06:06:41Z",
+      "Title": "How to let a UIView handles a tap gesture then let the tap gesture passes down to a UIView beneath in iOS15\u002B using Objective-C",
+      "Tags": [
+        "ios",
+        "objective-c",
+        "xcode",
+        "mobile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709970/how-to-let-a-uiview-handles-a-tap-gesture-then-let-the-tap-gesture-passes-down-t"
+    }
+  ]
+}

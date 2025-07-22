@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-22T16:54:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T16:16:42Z",
+      "Title": "Adjusting values in a table based on another table",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710777/adjusting-values-in-a-table-based-on-another-table"
+    },
+    {
+      "Created": "2025-07-22T16:28:39Z",
+      "Title": "How to call an API on before unload event in react",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "rest",
+        "user-interface",
+        "browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710791/how-to-call-an-api-on-before-unload-event-in-react"
+    },
+    {
+      "Created": "2025-07-22T16:43:21Z",
+      "Title": "How to plot random effects of 18 levels in a single plot?",
+      "Tags": [
+        "r",
+        "plot",
+        "linear-regression",
+        "lme4",
+        "robust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710814/how-to-plot-random-effects-of-18-levels-in-a-single-plot"
+    },
+    {
+      "Created": "2025-07-22T16:53:57Z",
+      "Title": "Why does await headers() return an empty HeadersList in Next.js 15 Server Component?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "react-server-components"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710824/why-does-await-headers-return-an-empty-headerslist-in-next-js-15-server-compon"
+    },
+    {
+      "Created": "2025-07-22T16:54:20Z",
+      "Title": "Servo slowing down in Tinkercad",
+      "Tags": [
+        "arduino",
+        "tinkercad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710825/servo-slowing-down-in-tinkercad"
+    }
+  ]
+}

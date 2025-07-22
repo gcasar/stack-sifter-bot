@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-22T05:05:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T04:48:26Z",
+      "Title": "Parallax hero image turns grey after window resize / DevTools",
+      "Tags": [
+        "html",
+        "jquery",
+        "scroll",
+        "parallax",
+        "window-resize"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709892/parallax-hero-image-turns-grey-after-window-resize-devtools"
+    },
+    {
+      "Created": "2025-07-22T04:54:02Z",
+      "Title": "Reading AB PLC Tags using libplctag and C#",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "plc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709896/reading-ab-plc-tags-using-libplctag-and-c-sharp"
+    },
+    {
+      "Created": "2025-07-22T04:58:51Z",
+      "Title": "running .exe from aspx webservice does not work after hosting on IIS",
+      "Tags": [
+        "asp.net",
+        "web-services",
+        "iis",
+        "exe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709902/running-exe-from-aspx-webservice-does-not-work-after-hosting-on-iis"
+    },
+    {
+      "Created": "2025-07-22T05:04:46Z",
+      "Title": "Spotify API returns public: true even after sending \u0022public\u0022: false while creating playlist",
+      "Tags": [
+        "automated-tests",
+        "postman",
+        "spotify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709904/spotify-api-returns-public-true-even-after-sending-public-false-while-creati"
+    },
+    {
+      "Created": "2025-07-22T05:05:25Z",
+      "Title": "Can\u0027t i change state.value directly and do a re-render below way in flutter riverpod?",
+      "Tags": [
+        "flutter",
+        "riverpod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709905/cant-i-change-state-value-directly-and-do-a-re-render-below-way-in-flutter-rive"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-22T22:06:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T21:38:22Z",
+      "Title": "How to discover and prove the actual startup order of services (Kafka, Redis, gRPC) in a Quarkus application",
+      "Tags": [
+        "redis",
+        "quarkus",
+        "startup",
+        "smallrye",
+        "application-shutdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711082/how-to-discover-and-prove-the-actual-startup-order-of-services-kafka-redis-gr"
+    },
+    {
+      "Created": "2025-07-22T21:41:16Z",
+      "Title": "QML \u002B OSM: Loading Offline Tiles from Local Drive",
+      "Tags": [
+        "qt",
+        "dictionary",
+        "qml",
+        "openstreetmap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711085/qml-osm-loading-offline-tiles-from-local-drive"
+    },
+    {
+      "Created": "2025-07-22T21:48:20Z",
+      "Title": "How to make Kubernetes services accessible using hostname URL",
+      "Tags": [
+        "kubernetes",
+        "load-balancing",
+        "metallb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711090/how-to-make-kubernetes-services-accessible-using-hostname-url"
+    },
+    {
+      "Created": "2025-07-22T21:50:13Z",
+      "Title": "Problem about MediaQuery.of(context).viewInsets in Flutter for Redmi 7",
+      "Tags": [
+        "flutter",
+        "dart",
+        "padding",
+        "mediaquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711091/problem-about-mediaquery-ofcontext-viewinsets-in-flutter-for-redmi-7"
+    },
+    {
+      "Created": "2025-07-22T21:57:25Z",
+      "Title": "Chrome Omnibox suggestions not showing when async response is delayed",
+      "Tags": [
+        "javascript",
+        "google-chrome",
+        "google-chrome-extension",
+        "browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711093/chrome-omnibox-suggestions-not-showing-when-async-response-is-delayed"
+    },
+    {
+      "Created": "2025-07-22T21:58:13Z",
+      "Title": "Duplicates found when linking C\u002B\u002B libraries",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711094/duplicates-found-when-linking-c-libraries"
+    },
+    {
+      "Created": "2025-07-22T21:59:45Z",
+      "Title": "OpenAPI Generator: Conflicting Kotlin property names with case-sensitive JSON properties",
+      "Tags": [
+        "json",
+        "kotlin",
+        "openapi",
+        "json-deserialization",
+        "openapi-generator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711096/openapi-generator-conflicting-kotlin-property-names-with-case-sensitive-json-pr"
+    },
+    {
+      "Created": "2025-07-22T22:06:02Z",
+      "Title": "Task Scheduler won\u0027t open Excel... sometimes",
+      "Tags": [
+        "python-3.x",
+        "excel",
+        "scheduled-tasks",
+        "excel-2019"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711097/task-scheduler-wont-open-excel-sometimes"
+    }
+  ]
+}

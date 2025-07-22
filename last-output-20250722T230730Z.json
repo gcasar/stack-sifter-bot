@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-22T22:56:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T22:32:21Z",
+      "Title": "Can I safely remove the notification permission added by FCM if I\u0027m only using data delivery?",
+      "Tags": [
+        "android",
+        "firebase-cloud-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711121/can-i-safely-remove-the-notification-permission-added-by-fcm-if-im-only-using-d"
+    },
+    {
+      "Created": "2025-07-22T22:44:10Z",
+      "Title": "How do I access active profiles outside spring bean",
+      "Tags": [
+        "spring",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711127/how-do-i-access-active-profiles-outside-spring-bean"
+    },
+    {
+      "Created": "2025-07-22T22:45:02Z",
+      "Title": "Error Raised with SAC for Centralized Training, Decentralized Execution in Ray RLlib",
+      "Tags": [
+        "python",
+        "reinforcement-learning",
+        "ray",
+        "rllib",
+        "multi-agent-reinforcement-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711128/error-raised-with-sac-for-centralized-training-decentralized-execution-in-ray-r"
+    },
+    {
+      "Created": "2025-07-22T22:56:56Z",
+      "Title": "Image Upload form Ecmascript to JAVA Rest not working",
+      "Tags": [
+        "html",
+        "ecmascript-6",
+        "jakarta-ee"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711134/image-upload-form-ecmascript-to-java-rest-not-working"
+    }
+  ]
+}

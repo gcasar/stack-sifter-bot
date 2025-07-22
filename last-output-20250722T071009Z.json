@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-22T07:06:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T06:35:12Z",
+      "Title": "What is the best solution to store key, value that can be same key",
+      "Tags": [
+        "c#",
+        "dictionary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710000/what-is-the-best-solution-to-store-key-value-that-can-be-same-key"
+    },
+    {
+      "Created": "2025-07-22T06:53:42Z",
+      "Title": "How is \u201Cwith\u201D being interpreted in SQL Server?",
+      "Tags": [
+        "sql-server",
+        "syntax",
+        "with-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710020/how-is-with-being-interpreted-in-sql-server"
+    },
+    {
+      "Created": "2025-07-22T07:04:04Z",
+      "Title": "Issues with converthing a python dictionary to a GLib Variant",
+      "Tags": [
+        "python",
+        "dbus",
+        "networkmanager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710035/issues-with-converthing-a-python-dictionary-to-a-glib-variant"
+    },
+    {
+      "Created": "2025-07-22T07:06:52Z",
+      "Title": "Convert custom YOLOX model (.pth) to tflite model",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "pytorch",
+        "object-detection",
+        "tflite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710042/convert-custom-yolox-model-pth-to-tflite-model"
+    }
+  ]
+}

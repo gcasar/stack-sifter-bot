@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-22T15:06:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T14:38:13Z",
+      "Title": "Delta/Difference Histogram",
+      "Tags": [
+        "python",
+        "plotly",
+        "histogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710652/delta-difference-histogram"
+    },
+    {
+      "Created": "2025-07-22T14:55:53Z",
+      "Title": "How to have one view per viewmodel in tabcontrol, while using datatemplates?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710676/how-to-have-one-view-per-viewmodel-in-tabcontrol-while-using-datatemplates"
+    },
+    {
+      "Created": "2025-07-22T15:01:35Z",
+      "Title": "Call API - 404 error on fetching a single resource by ID",
+      "Tags": [
+        "next.js",
+        "api-platform.com",
+        "api-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710685/call-api-404-error-on-fetching-a-single-resource-by-id"
+    },
+    {
+      "Created": "2025-07-22T15:06:17Z",
+      "Title": "Microsoft OAuth: How to do silent logout in Springboot?",
+      "Tags": [
+        "java",
+        "angular",
+        "spring-boot",
+        "spring-security-oauth2",
+        "microsoft-oauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710692/microsoft-oauth-how-to-do-silent-logout-in-springboot"
+    }
+  ]
+}

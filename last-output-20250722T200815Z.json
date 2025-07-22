@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-22T20:00:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T19:07:19Z",
+      "Title": "Intelligent Mail Barcode Parsing Incorrectly in Blazor",
+      "Tags": [
+        "email",
+        "blazor",
+        "nuget",
+        "usps",
+        "neodynamic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710951/intelligent-mail-barcode-parsing-incorrectly-in-blazor"
+    },
+    {
+      "Created": "2025-07-22T19:18:48Z",
+      "Title": "How to specialize a template method for char[]? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "template-specialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710964/how-to-specialize-a-template-method-for-char"
+    },
+    {
+      "Created": "2025-07-22T19:47:43Z",
+      "Title": "Toolbar with UIViewControllerRepresentable breaks Navigation in SwiftUI iOS 18.4\u002B",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "uikit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710982/toolbar-with-uiviewcontrollerrepresentable-breaks-navigation-in-swiftui-ios-18-4"
+    },
+    {
+      "Created": "2025-07-22T19:58:51Z",
+      "Title": "Turtle not detecting key presses in Python",
+      "Tags": [
+        "python",
+        "turtle-graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710989/turtle-not-detecting-key-presses-in-python"
+    },
+    {
+      "Created": "2025-07-22T20:00:10Z",
+      "Title": "Same working Playwright tests fail when placed in a project in playwright.config.js",
+      "Tags": [
+        "node.js",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710990/same-working-playwright-tests-fail-when-placed-in-a-project-in-playwright-config"
+    }
+  ]
+}

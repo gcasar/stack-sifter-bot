@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-22T20:52:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T20:07:30Z",
+      "Title": "Custom alias registered using Nuxt aliases doesn\u0027t resolve to the correct path in tsconfig.json",
+      "Tags": [
+        "typescript",
+        "nuxt3.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710996/custom-alias-registered-using-nuxt-aliases-doesnt-resolve-to-the-correct-path-i"
+    },
+    {
+      "Created": "2025-07-22T20:40:08Z",
+      "Title": "How to make a smooth anti-aliasing outline shader with GLSL",
+      "Tags": [
+        "glsl",
+        "shader",
+        "fragment-shader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711026/how-to-make-a-smooth-anti-aliasing-outline-shader-with-glsl"
+    },
+    {
+      "Created": "2025-07-22T20:40:35Z",
+      "Title": "BroadcastReceiver for PACKAGE_ADDED and PACKAGE_REMOVED not working on Android 15 and OEM devices (Redmi, Oppo, etc.)",
+      "Tags": [
+        "android",
+        "firebase",
+        "service",
+        "broadcastreceiver",
+        "android-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711028/broadcastreceiver-for-package-added-and-package-removed-not-working-on-android-1"
+    },
+    {
+      "Created": "2025-07-22T20:52:33Z",
+      "Title": "Textbox with RequiredFieldValidator requires 2 clicks (have to click twice)",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "textbox",
+        "focus",
+        "requiredfieldvalidator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711041/textbox-with-requiredfieldvalidator-requires-2-clicks-have-to-click-twice"
+    }
+  ]
+}

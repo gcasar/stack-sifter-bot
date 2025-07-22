@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-22T16:05:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T15:47:40Z",
+      "Title": "Is the safety GitHub action supposed to fail?",
+      "Tags": [
+        "python",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710744/is-the-safety-github-action-supposed-to-fail"
+    },
+    {
+      "Created": "2025-07-22T16:00:43Z",
+      "Title": "How to take a png of a page and split it into pngs of paragraphs in python",
+      "Tags": [
+        "python",
+        "opencv",
+        "ocr",
+        "tesseract"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710755/how-to-take-a-png-of-a-page-and-split-it-into-pngs-of-paragraphs-in-python"
+    },
+    {
+      "Created": "2025-07-22T16:01:53Z",
+      "Title": "Granite 3.3:8b with Ollama \u2014 LLM never invokes provided tools during chat interaction",
+      "Tags": [
+        "python",
+        "large-language-model",
+        "ollama",
+        "tool-calling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710757/granite-3-38b-with-ollama-llm-never-invokes-provided-tools-during-chat-intera"
+    },
+    {
+      "Created": "2025-07-22T16:02:54Z",
+      "Title": "Spring Boot \u002B Kotlin: Which Redis get() pattern is better \u2014 Jackson with Class\u003CT\u003E or Kotlinx Serialization with reified T?",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "kotlin",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710759/spring-boot-kotlin-which-redis-get-pattern-is-better-jackson-with-classt"
+    },
+    {
+      "Created": "2025-07-22T16:05:45Z",
+      "Title": "How to get an actual expression for the derivative of the lambert W function using sympy?",
+      "Tags": [
+        "python",
+        "sympy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710760/how-to-get-an-actual-expression-for-the-derivative-of-the-lambert-w-function-usi"
+    }
+  ]
+}

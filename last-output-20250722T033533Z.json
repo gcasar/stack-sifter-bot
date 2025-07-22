@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-22T03:30:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T02:47:50Z",
+      "Title": "Speed problem between run exe file directly from folder and start without debugging (visual studio)",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "runtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709812/speed-problem-between-run-exe-file-directly-from-folder-and-start-without-debugg"
+    },
+    {
+      "Created": "2025-07-22T02:51:17Z",
+      "Title": "How to Add req.user with Prisma User Type in Express (TypeScript)?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "express",
+        "prisma",
+        "type-declaration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709815/how-to-add-req-user-with-prisma-user-type-in-express-typescript"
+    },
+    {
+      "Created": "2025-07-22T02:55:27Z",
+      "Title": "(Game Engine Dev) Player Controller Issues with AABB-Triangle Collision Response",
+      "Tags": [
+        "game-development",
+        "game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709819/game-engine-dev-player-controller-issues-with-aabb-triangle-collision-response"
+    },
+    {
+      "Created": "2025-07-22T03:05:48Z",
+      "Title": "SQL query gives Error Invalid object name [duplicate]",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709826/sql-query-gives-error-invalid-object-name"
+    },
+    {
+      "Created": "2025-07-22T03:15:08Z",
+      "Title": "StaleElementReferenceError in Selenium when running in Docker but not Locally",
+      "Tags": [
+        "javascript",
+        "docker",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709831/staleelementreferenceerror-in-selenium-when-running-in-docker-but-not-locally"
+    },
+    {
+      "Created": "2025-07-22T03:25:52Z",
+      "Title": "How much stack space is required for saving the function context in Go 1.24?",
+      "Tags": [
+        "go",
+        "stack-overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709838/how-much-stack-space-is-required-for-saving-the-function-context-in-go-1-24"
+    },
+    {
+      "Created": "2025-07-22T03:30:38Z",
+      "Title": "Middleware not triggering in Next.js app using next-auth",
+      "Tags": [
+        "next.js",
+        "authorization",
+        "middleware",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709841/middleware-not-triggering-in-next-js-app-using-next-auth"
+    }
+  ]
+}

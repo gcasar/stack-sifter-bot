@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-22T10:06:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T09:26:17Z",
+      "Title": "How do element assignements work with numpy arrays using an array for indexing?",
+      "Tags": [
+        "python",
+        "arrays",
+        "numpy",
+        "indexing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710217/how-do-element-assignements-work-with-numpy-arrays-using-an-array-for-indexing"
+    },
+    {
+      "Created": "2025-07-22T09:57:18Z",
+      "Title": "How to provide resources from MCP client to ChatClient in Spring AI",
+      "Tags": [
+        "java",
+        "spring",
+        "model-context-protocol",
+        "spring-ai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710253/how-to-provide-resources-from-mcp-client-to-chatclient-in-spring-ai"
+    },
+    {
+      "Created": "2025-07-22T10:03:31Z",
+      "Title": "Python typing.Literal in a guarded context",
+      "Tags": [
+        "python",
+        "mypy",
+        "literals",
+        "string-literals",
+        "typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710257/python-typing-literal-in-a-guarded-context"
+    },
+    {
+      "Created": "2025-07-22T10:06:04Z",
+      "Title": "Excel mit externen Daten (PowerQuery): vbscript: .Save wartet nicht, bis .RefreshAll fertig ist",
+      "Tags": [
+        "excel",
+        "vbscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710259/excel-mit-externen-daten-powerquery-vbscript-save-wartet-nicht-bis-refres"
+    }
+  ]
+}

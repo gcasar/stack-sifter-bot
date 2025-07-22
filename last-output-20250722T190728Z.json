@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-22T18:59:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T18:27:12Z",
+      "Title": "how to compose as_tuple with use_awaitable completion adapters for boost.process v2 async_wait?",
+      "Tags": [
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710912/how-to-compose-as-tuple-with-use-awaitable-completion-adapters-for-boost-process"
+    },
+    {
+      "Created": "2025-07-22T18:40:09Z",
+      "Title": "Is it possible to run Django migrations on a Cloud SQL replica without being the owner of the table?",
+      "Tags": [
+        "django",
+        "postgresql",
+        "permissions",
+        "google-cloud-sql",
+        "database-replication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710928/is-it-possible-to-run-django-migrations-on-a-cloud-sql-replica-without-being-the"
+    },
+    {
+      "Created": "2025-07-22T18:40:39Z",
+      "Title": "how to restore the selectedrows after sorting in dbgrid and clientdataset",
+      "Tags": [
+        "sorting",
+        "delphi",
+        "tclientdataset",
+        "delphi-12-athens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710929/how-to-restore-the-selectedrows-after-sorting-in-dbgrid-and-clientdataset"
+    },
+    {
+      "Created": "2025-07-22T18:46:46Z",
+      "Title": "Status bar color issue with image_cropper package on Android 15 in Flutter",
+      "Tags": [
+        "flutter",
+        "flutter-appbar",
+        "image-cropper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710932/status-bar-color-issue-with-image-cropper-package-on-android-15-in-flutter"
+    },
+    {
+      "Created": "2025-07-22T18:52:13Z",
+      "Title": "Bounding Box Display Issue",
+      "Tags": [
+        "c\u002B\u002B",
+        "machine-learning",
+        "cuda",
+        "yolo",
+        "onnx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710937/bounding-box-display-issue"
+    },
+    {
+      "Created": "2025-07-22T18:57:09Z",
+      "Title": "How can I use lightweight argument in find() method of unordered_set?",
+      "Tags": [
+        "c\u002B\u002B",
+        "stl",
+        "g\u002B\u002B",
+        "unordered-set"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710942/how-can-i-use-lightweight-argument-in-find-method-of-unordered-set"
+    },
+    {
+      "Created": "2025-07-22T18:59:49Z",
+      "Title": "Kotlin \u002B Exposed R2DBC: Should transaction wrap query for Flow?",
+      "Tags": [
+        "kotlin",
+        "kotlin-exposed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710947/kotlin-exposed-r2dbc-should-transaction-wrap-query-for-flow"
+    }
+  ]
+}

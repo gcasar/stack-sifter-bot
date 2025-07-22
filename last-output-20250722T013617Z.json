@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-22T01:28:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T00:46:59Z",
+      "Title": "Does package-lock.json get used while we install the package as dependencies?",
+      "Tags": [
+        "npm",
+        "npm-install",
+        "package.json",
+        "package-lock.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709761/does-package-lock-json-get-used-while-we-install-the-package-as-dependencies"
+    },
+    {
+      "Created": "2025-07-22T01:28:41Z",
+      "Title": "Use UnsafeCell to get around rules for uninitialized memory",
+      "Tags": [
+        "rust",
+        "unsafe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79709781/use-unsafecell-to-get-around-rules-for-uninitialized-memory"
+    }
+  ]
+}

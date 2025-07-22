@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-22T14:00:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T13:56:10Z",
+      "Title": "Are \u0060asctime_r\u0060 and \u0060ctime_r\u0060 standard in C?",
+      "Tags": [
+        "c",
+        "standards"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710594/are-asctime-r-and-ctime-r-standard-in-c"
+    },
+    {
+      "Created": "2025-07-22T13:58:55Z",
+      "Title": "gradient background in pyqtgraph w/ pyqt6",
+      "Tags": [
+        "pyqt",
+        "pyqt6",
+        "pyqtgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710598/gradient-background-in-pyqtgraph-w-pyqt6"
+    },
+    {
+      "Created": "2025-07-22T14:00:04Z",
+      "Title": "Error 0A00014D when connecting to SQL Server using pyodbc and Docker on Render",
+      "Tags": [
+        "python",
+        "sql-server",
+        "docker",
+        "render"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710600/error-0a00014d-when-connecting-to-sql-server-using-pyodbc-and-docker-on-render"
+    }
+  ]
+}

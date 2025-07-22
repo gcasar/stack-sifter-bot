@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-22T12:11:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T12:02:17Z",
+      "Title": "Check for free function existence in compile time",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17",
+        "sfinae"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710411/check-for-free-function-existence-in-compile-time"
+    },
+    {
+      "Created": "2025-07-22T12:02:58Z",
+      "Title": "Wrong mode error with TSimpleCodec.Begin_EncryptMemory",
+      "Tags": [
+        "delphi",
+        "delphi-12-athens",
+        "lockbox-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710413/wrong-mode-error-with-tsimplecodec-begin-encryptmemory"
+    },
+    {
+      "Created": "2025-07-22T12:03:09Z",
+      "Title": "Can\u0027t assign a managed identity to Azure Blob Connection API",
+      "Tags": [
+        "azure",
+        "azure-blob-storage",
+        "azure-logic-apps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710414/cant-assign-a-managed-identity-to-azure-blob-connection-api"
+    },
+    {
+      "Created": "2025-07-22T12:04:45Z",
+      "Title": "How to Handle Missing events parameter values in DataLayer Without Triggering (not set) in GA4",
+      "Tags": [
+        "google-analytics",
+        "google-tag-manager",
+        "google-analytics-4",
+        "google-datalayer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710415/how-to-handle-missing-events-parameter-values-in-datalayer-without-triggering-n"
+    },
+    {
+      "Created": "2025-07-22T12:06:34Z",
+      "Title": "aria-live regions re-announce after closing a modal due I hide the rest of the DOM with aria-hidden. HOW this w/o letting the SR cursor esc?",
+      "Tags": [
+        "accessibility",
+        "wai-aria",
+        "screen-readers",
+        "aria-live",
+        "jsx-a11y"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710420/aria-live-regions-re-announce-after-closing-a-modal-due-i-hide-the-rest-of-the-d"
+    },
+    {
+      "Created": "2025-07-22T12:10:07Z",
+      "Title": "Windows service installed as current user",
+      "Tags": [
+        "windows",
+        "service",
+        "windows-installer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710425/windows-service-installed-as-current-user"
+    },
+    {
+      "Created": "2025-07-22T12:11:50Z",
+      "Title": "How odo I scan 87.5-108mHz FM frequency with Arduino?",
+      "Tags": [
+        "arduino",
+        "frequency",
+        "arduino-uno",
+        "arduino-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710430/how-odo-i-scan-87-5-108mhz-fm-frequency-with-arduino"
+    }
+  ]
+}

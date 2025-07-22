@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-22T18:05:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T17:49:55Z",
+      "Title": "How to return a list of lists as single lists?",
+      "Tags": [
+        "haskell",
+        "list-comprehension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710877/how-to-return-a-list-of-lists-as-single-lists"
+    },
+    {
+      "Created": "2025-07-22T17:53:05Z",
+      "Title": "Android Management API Kiosk Mode: Displaying PackageInstaller Confirmation Prompt for Sideloaded APKS (Non-Managed Google Play)",
+      "Tags": [
+        "android",
+        "mdm",
+        "android-management-api",
+        "android-enterprise",
+        "android-for-work"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710883/android-management-api-kiosk-mode-displaying-packageinstaller-confirmation-prom"
+    },
+    {
+      "Created": "2025-07-22T17:58:22Z",
+      "Title": "Django won\u0027t apply null=True changes on fields when running makemigrations and migrate",
+      "Tags": [
+        "python",
+        "django",
+        "migration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710888/django-wont-apply-null-true-changes-on-fields-when-running-makemigrations-and-m"
+    },
+    {
+      "Created": "2025-07-22T18:04:56Z",
+      "Title": "How to have one view instance per viewmodel in tabcontrol?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710892/how-to-have-one-view-instance-per-viewmodel-in-tabcontrol"
+    },
+    {
+      "Created": "2025-07-22T18:05:34Z",
+      "Title": "Why is my Cloud SQL external replica not reflecting schema changes (like new columns) after Django migrations?",
+      "Tags": [
+        "django",
+        "postgresql",
+        "google-cloud-platform",
+        "google-cloud-sql",
+        "database-replication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710894/why-is-my-cloud-sql-external-replica-not-reflecting-schema-changes-like-new-col"
+    }
+  ]
+}

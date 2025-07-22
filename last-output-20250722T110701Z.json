@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-22T11:00:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-22T10:36:01Z",
+      "Title": "How to iterate object? [closed]",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710294/how-to-iterate-object"
+    },
+    {
+      "Created": "2025-07-22T10:39:14Z",
+      "Title": "Performance difference between ObjectAssignmentPattern and ArrayAssignmentPattern",
+      "Tags": [
+        "javascript",
+        "performance",
+        "v8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710304/performance-difference-between-objectassignmentpattern-and-arrayassignmentpatter"
+    },
+    {
+      "Created": "2025-07-22T10:46:16Z",
+      "Title": "Is it possible to somehow interact with DOM during the beforeunload event?",
+      "Tags": [
+        "javascript",
+        "onbeforeunload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710319/is-it-possible-to-somehow-interact-with-dom-during-the-beforeunload-event"
+    },
+    {
+      "Created": "2025-07-22T10:54:04Z",
+      "Title": "How to trigger an Amazon Connect outbound call to a customer and transfer to agent when any key is pressed?",
+      "Tags": [
+        "aws-lambda",
+        "amazon-connect",
+        "amazon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710330/how-to-trigger-an-amazon-connect-outbound-call-to-a-customer-and-transfer-to-age"
+    },
+    {
+      "Created": "2025-07-22T10:56:00Z",
+      "Title": "How can I work out whats using 60GB storage on a web server that only has 10GB of files?",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "webserver",
+        "storage",
+        "digital-ocean"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710331/how-can-i-work-out-whats-using-60gb-storage-on-a-web-server-that-only-has-10gb-o"
+    },
+    {
+      "Created": "2025-07-22T10:58:02Z",
+      "Title": "How do I see the logs of my model calls on Azure OpenAI?",
+      "Tags": [
+        "azure",
+        "azure-log-analytics",
+        "azure-openai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710337/how-do-i-see-the-logs-of-my-model-calls-on-azure-openai"
+    },
+    {
+      "Created": "2025-07-22T11:00:27Z",
+      "Title": "AM Charts 4 scrollbars and zoom button is not announced by screenreader",
+      "Tags": [
+        "javascript",
+        "accessibility",
+        "amcharts",
+        "screen-readers",
+        "amcharts4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79710343/am-charts-4-scrollbars-and-zoom-button-is-not-announced-by-screenreader"
+    }
+  ]
+}

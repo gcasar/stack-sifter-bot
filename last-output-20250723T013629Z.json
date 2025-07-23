@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T01:14:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T00:41:47Z",
+      "Title": "Is it possible to pass a reference to a compile-time constant of a templated type to a template without specifying it\u0027s template arguments again?",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "templates",
+        "constexpr",
+        "c\u002B\u002B-concepts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711186/is-it-possible-to-pass-a-reference-to-a-compile-time-constant-of-a-templated-typ"
+    },
+    {
+      "Created": "2025-07-23T01:01:12Z",
+      "Title": "What\u0027s the best way to model a curve in a database?",
+      "Tags": [
+        "sql",
+        "database",
+        "graph",
+        "database-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711197/whats-the-best-way-to-model-a-curve-in-a-database"
+    },
+    {
+      "Created": "2025-07-23T01:10:35Z",
+      "Title": "How to access Intent and onActivityResult on ReactNative?",
+      "Tags": [
+        "react-native",
+        "android-intent",
+        "onactivityresult"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711202/how-to-access-intent-and-onactivityresult-on-reactnative"
+    },
+    {
+      "Created": "2025-07-23T01:14:33Z",
+      "Title": "Firebase Cloud Functions: FCM tokens being removed causing notification failures",
+      "Tags": [
+        "typescript",
+        "flutter",
+        "firebase",
+        "push-notification",
+        "firebase-cloud-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711203/firebase-cloud-functions-fcm-tokens-being-removed-causing-notification-failures"
+    }
+  ]
+}

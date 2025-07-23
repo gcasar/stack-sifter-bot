@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T22:44:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T22:21:32Z",
+      "Title": "How to hide and not execute dependent tests?",
+      "Tags": [
+        "ctest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712616/how-to-hide-and-not-execute-dependent-tests"
+    },
+    {
+      "Created": "2025-07-23T22:21:39Z",
+      "Title": "Testing StoreKit \u0022Verification: Certificate Revoked\u0022 Weird Behavior",
+      "Tags": [
+        "swiftui",
+        "ios18.5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712617/testing-storekit-verification-certificate-revoked-weird-behavior"
+    },
+    {
+      "Created": "2025-07-23T22:29:20Z",
+      "Title": "Why the cycle running in main proccess wont stop after being class state modified from another proccess?",
+      "Tags": [
+        "python",
+        "multiprocessing",
+        "python-multiprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712623/why-the-cycle-running-in-main-proccess-wont-stop-after-being-class-state-modifie"
+    },
+    {
+      "Created": "2025-07-23T22:44:28Z",
+      "Title": "How can I set the number of pages per sheet in a Microsoft Word macro using VBA?",
+      "Tags": [
+        "vba",
+        "ms-word"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712633/how-can-i-set-the-number-of-pages-per-sheet-in-a-microsoft-word-macro-using-vba"
+    }
+  ]
+}

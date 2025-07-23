@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-23T20:07:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T19:20:03Z",
+      "Title": "Automated backup script unable to find the required window despite successful Get-Process",
+      "Tags": [
+        "powershell",
+        "window",
+        "pinvoke"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712462/automated-backup-script-unable-to-find-the-required-window-despite-successful-ge"
+    },
+    {
+      "Created": "2025-07-23T19:44:08Z",
+      "Title": "Density histogram with different fill colours",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "colors",
+        "histogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712482/density-histogram-with-different-fill-colours"
+    },
+    {
+      "Created": "2025-07-23T19:54:19Z",
+      "Title": "httpOnly cookies not working in production with Render \u002B Vercel (also TS2688 build error)",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "express",
+        "cookies",
+        "render"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712494/httponly-cookies-not-working-in-production-with-render-vercel-also-ts2688-bui"
+    },
+    {
+      "Created": "2025-07-23T19:56:01Z",
+      "Title": "Non existing field in persistentVolumeClaim helm template",
+      "Tags": [
+        "kubernetes",
+        "kubernetes-helm",
+        "azure-aks",
+        "kubernetes-pvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712495/non-existing-field-in-persistentvolumeclaim-helm-template"
+    },
+    {
+      "Created": "2025-07-23T20:01:07Z",
+      "Title": "Pygame window instantly closes when program is run",
+      "Tags": [
+        "python-3.x",
+        "pygame",
+        "pyopengl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712501/pygame-window-instantly-closes-when-program-is-run"
+    },
+    {
+      "Created": "2025-07-23T20:07:01Z",
+      "Title": "What is correct type parameter for T in InvokeMethodAsync\u003CT\u003E() when the target endpoint returns a raw string?",
+      "Tags": [
+        "dapr",
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712505/what-is-correct-type-parameter-for-t-in-invokemethodasynct-when-the-target-e"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-23T02:34:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T01:50:40Z",
+      "Title": "Understanding the SSR Model: Questions on Initial Load, Navigation, and Use Cases",
+      "Tags": [
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711220/understanding-the-ssr-model-questions-on-initial-load-navigation-and-use-case"
+    },
+    {
+      "Created": "2025-07-23T01:59:35Z",
+      "Title": "Is HLSL pessimsing by not offering all of the cuda shuffle intrinsics?",
+      "Tags": [
+        "cuda",
+        "hlsl",
+        "directx-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711227/is-hlsl-pessimsing-by-not-offering-all-of-the-cuda-shuffle-intrinsics"
+    },
+    {
+      "Created": "2025-07-23T02:01:52Z",
+      "Title": "Why does this MRO work in pycharm but supposed to fail as per C3 linearisation?",
+      "Tags": [
+        "python-3.x",
+        "method-resolution-order"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711229/why-does-this-mro-work-in-pycharm-but-supposed-to-fail-as-per-c3-linearisation"
+    },
+    {
+      "Created": "2025-07-23T02:12:58Z",
+      "Title": "How can I fix these Argo Rollouts pre-promotion analysis errors",
+      "Tags": [
+        "kubernetes",
+        "argocd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711234/how-can-i-fix-these-argo-rollouts-pre-promotion-analysis-errors"
+    },
+    {
+      "Created": "2025-07-23T02:16:56Z",
+      "Title": "Facebook Graph API: Posts published via /{page-id}/photos only visible to page admin",
+      "Tags": [
+        "facebook-page",
+        "facebook-access-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711235/facebook-graph-api-posts-published-via-page-id-photos-only-visible-to-page-a"
+    },
+    {
+      "Created": "2025-07-23T02:24:44Z",
+      "Title": "Chainlink Solana SDK: Issue fetching off-chain data asynchronously",
+      "Tags": [
+        "chainlink",
+        "datafeed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711239/chainlink-solana-sdk-issue-fetching-off-chain-data-asynchronously"
+    },
+    {
+      "Created": "2025-07-23T02:31:49Z",
+      "Title": "Segmentation fault in fputs while doing fprintf",
+      "Tags": [
+        "c",
+        "linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711241/segmentation-fault-in-fputs-while-doing-fprintf"
+    },
+    {
+      "Created": "2025-07-23T02:34:35Z",
+      "Title": "Navigating to an anchor in Vue SPA not working in Safari",
+      "Tags": [
+        "vue.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711243/navigating-to-an-anchor-in-vue-spa-not-working-in-safari"
+    }
+  ]
+}

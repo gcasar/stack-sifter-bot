@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-23T10:04:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T09:56:17Z",
+      "Title": "Custom cell text and style",
+      "Tags": [
+        "vuejs3",
+        "nuxt.js",
+        "nuxt3.js",
+        "custom-cell",
+        "webdatarocks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711674/custom-cell-text-and-style"
+    },
+    {
+      "Created": "2025-07-23T10:04:40Z",
+      "Title": "How to Use Public Assets from the Root of a Monorepo in Nuxt 3 with Nuxt Content instead of projects public/",
+      "Tags": [
+        "vuejs3",
+        "nuxt.js",
+        "markdown",
+        "nuxt3.js",
+        "nuxt-content"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711688/how-to-use-public-assets-from-the-root-of-a-monorepo-in-nuxt-3-with-nuxt-content"
+    }
+  ]
+}

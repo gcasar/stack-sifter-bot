@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-23T18:07:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T17:19:39Z",
+      "Title": "getSymbols() fails downloading from FRED",
+      "Tags": [
+        "r",
+        "quantmod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712348/getsymbols-fails-downloading-from-fred"
+    },
+    {
+      "Created": "2025-07-23T17:53:57Z",
+      "Title": "Positron/vs-studio-code How to highlight \u0060:::\u0060 the same as brackets?",
+      "Tags": [
+        "visual-studio-code",
+        "quarto",
+        "positron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712380/positron-vs-studio-code-how-to-highlight-the-same-as-brackets"
+    },
+    {
+      "Created": "2025-07-23T17:55:44Z",
+      "Title": "C-MOVE - Python - pydicom/pynetdicom",
+      "Tags": [
+        "python-3.x",
+        "dicom",
+        "pydicom",
+        "pynetdicom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712385/c-move-python-pydicom-pynetdicom"
+    },
+    {
+      "Created": "2025-07-23T17:56:48Z",
+      "Title": "How to colour polygons either side of a graph line?",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "r-sf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712387/how-to-colour-polygons-either-side-of-a-graph-line"
+    },
+    {
+      "Created": "2025-07-23T18:07:25Z",
+      "Title": "StorageException - row-level security policy Supabase",
+      "Tags": [
+        "flutter",
+        "supabase",
+        "supabase-flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712390/storageexception-row-level-security-policy-supabase"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-23T03:19:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T02:57:14Z",
+      "Title": "Woocommerce Custom Payment Gateway Order Status",
+      "Tags": [
+        "php",
+        "wordpress",
+        "woocommerce",
+        "payment-gateway",
+        "hook-woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711259/woocommerce-custom-payment-gateway-order-status"
+    },
+    {
+      "Created": "2025-07-23T02:58:07Z",
+      "Title": "The Dinning Savages vs The Bear And The Honey Bees synchronization problem",
+      "Tags": [
+        "concurrency",
+        "pascal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711261/the-dinning-savages-vs-the-bear-and-the-honey-bees-synchronization-problem"
+    },
+    {
+      "Created": "2025-07-23T03:04:04Z",
+      "Title": "Switched host and DNS years ago and everything still points to the old host",
+      "Tags": [
+        "amazon-web-services",
+        "heroku",
+        "dns",
+        "amazon-route53"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711263/switched-host-and-dns-years-ago-and-everything-still-points-to-the-old-host"
+    },
+    {
+      "Created": "2025-07-23T03:13:54Z",
+      "Title": "Add new element to existing JSON array with jq in a shell script: problem with variable expansion",
+      "Tags": [
+        "bash",
+        "jq",
+        "variable-expansion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711268/add-new-element-to-existing-json-array-with-jq-in-a-shell-script-problem-with-v"
+    },
+    {
+      "Created": "2025-07-23T03:15:58Z",
+      "Title": "Is it possible to call a function in my program right before it crashes?",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi",
+        "error-handling",
+        "crash-reports"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711270/is-it-possible-to-call-a-function-in-my-program-right-before-it-crashes"
+    },
+    {
+      "Created": "2025-07-23T03:19:51Z",
+      "Title": "What matching algorithm generates attacker\u2013defender pairs in RL game event logs?",
+      "Tags": [
+        "algorithm",
+        "data-analysis",
+        "game-development",
+        "reverse-engineering",
+        "reinforcement-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711272/what-matching-algorithm-generates-attacker-defender-pairs-in-rl-game-event-logs"
+    }
+  ]
+}

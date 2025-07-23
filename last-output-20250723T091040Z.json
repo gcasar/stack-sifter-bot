@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-23T09:06:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T08:12:59Z",
+      "Title": "promote_rule and type conversion for custom types in Julia",
+      "Tags": [
+        "types",
+        "julia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711511/promote-rule-and-type-conversion-for-custom-types-in-julia"
+    },
+    {
+      "Created": "2025-07-23T08:22:34Z",
+      "Title": "Pyplot: Shared x-axis, how to shift individual ytick labels?",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711524/pyplot-shared-x-axis-how-to-shift-individual-ytick-labels"
+    },
+    {
+      "Created": "2025-07-23T08:30:42Z",
+      "Title": "Apply a templated lambda to each type in a std::tuple (C\u002B\u002B20)",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "c\u002B\u002B20",
+        "apply",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711543/apply-a-templated-lambda-to-each-type-in-a-stdtuple-c20"
+    },
+    {
+      "Created": "2025-07-23T08:56:07Z",
+      "Title": "document.activeElement.blur() behavior in firefox and chrome",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711577/document-activeelement-blur-behavior-in-firefox-and-chrome"
+    },
+    {
+      "Created": "2025-07-23T09:03:59Z",
+      "Title": "KWIC in Text database",
+      "Tags": [
+        "sql",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711592/kwic-in-text-database"
+    },
+    {
+      "Created": "2025-07-23T09:05:30Z",
+      "Title": "Mediapipe Hands module resolves incorrect path to .task file",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "mediapipe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711595/mediapipe-hands-module-resolves-incorrect-path-to-task-file"
+    },
+    {
+      "Created": "2025-07-23T09:05:30Z",
+      "Title": "ZEBRA ZD421 Printing blank labels",
+      "Tags": [
+        "zebra-printers",
+        "zpl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711594/zebra-zd421-printing-blank-labels"
+    },
+    {
+      "Created": "2025-07-23T09:05:47Z",
+      "Title": "Thinkcell UpdateChart \u0022Object doesn\u0027t support this property\u0022",
+      "Tags": [
+        "excel",
+        "vba",
+        "powerpoint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711597/thinkcell-updatechart-object-doesnt-support-this-property"
+    },
+    {
+      "Created": "2025-07-23T09:06:48Z",
+      "Title": "NSAttributedString doesn\u0027t get attribute \u0027foregroundColor\u0027 on Mac Catalyst",
+      "Tags": [
+        "swift",
+        "nsattributedstring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711601/nsattributedstring-doesnt-get-attribute-foregroundcolor-on-mac-catalyst"
+    }
+  ]
+}

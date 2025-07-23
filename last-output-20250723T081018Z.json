@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-23T07:59:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T07:25:34Z",
+      "Title": "Is there a quick way to remove duplicates from CoreData database?",
+      "Tags": [
+        "swift",
+        "core-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711472/is-there-a-quick-way-to-remove-duplicates-from-coredata-database"
+    },
+    {
+      "Created": "2025-07-23T07:52:13Z",
+      "Title": "Why Zero has no decimal integer spelling in C?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711495/why-zero-has-no-decimal-integer-spelling-in-c"
+    },
+    {
+      "Created": "2025-07-23T07:54:59Z",
+      "Title": "How can I properly add seed/options to a dmc2gym environment with Gymnasium?",
+      "Tags": [
+        "python",
+        "reinforcement-learning",
+        "openai-gym",
+        "gymnasium",
+        "dmcs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711498/how-can-i-properly-add-seed-options-to-a-dmc2gym-environment-with-gymnasium"
+    },
+    {
+      "Created": "2025-07-23T07:58:08Z",
+      "Title": "Is it possible to determine the geographical looking direction of a Vision Pro device?",
+      "Tags": [
+        "core-location",
+        "core-motion",
+        "visionos",
+        "heading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711501/is-it-possible-to-determine-the-geographical-looking-direction-of-a-vision-pro-d"
+    },
+    {
+      "Created": "2025-07-23T07:59:23Z",
+      "Title": "WebGL is disabled error when opening bing maps with python selenium?",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "webgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711502/webgl-is-disabled-error-when-opening-bing-maps-with-python-selenium"
+    },
+    {
+      "Created": "2025-07-23T07:59:32Z",
+      "Title": "How many keys can I use store in Django file-based cache before it becomes a performance bottleneck?",
+      "Tags": [
+        "django",
+        "caching",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711503/how-many-keys-can-i-use-store-in-django-file-based-cache-before-it-becomes-a-per"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T07:08:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T06:53:18Z",
+      "Title": "Using asynchronous call to NEHotspotConfigurationManager.apply",
+      "Tags": [
+        "ios",
+        "swift",
+        "networkextension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711423/using-asynchronous-call-to-nehotspotconfigurationmanager-apply"
+    },
+    {
+      "Created": "2025-07-23T06:56:44Z",
+      "Title": "After upgrade to Win11 I am not able to run sqlcmd within a .bat script",
+      "Tags": [
+        "windows",
+        "batch-file",
+        "sqlcmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711425/after-upgrade-to-win11-i-am-not-able-to-run-sqlcmd-within-a-bat-script"
+    },
+    {
+      "Created": "2025-07-23T07:06:01Z",
+      "Title": "If C data types are \u0022characters, numbers and addresses\u0022, how do graphics work at a fundamental level?",
+      "Tags": [
+        "c",
+        "graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711436/if-c-data-types-are-characters-numbers-and-addresses-how-do-graphics-work-at"
+    },
+    {
+      "Created": "2025-07-23T07:08:21Z",
+      "Title": "Trying to make an image rotate as it scales/moves between two different hierarchies with matchedGeometryEffect",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711441/trying-to-make-an-image-rotate-as-it-scales-moves-between-two-different-hierarch"
+    }
+  ]
+}

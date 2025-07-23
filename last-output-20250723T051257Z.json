@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T04:56:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T04:50:44Z",
+      "Title": "Integration testing using async-await and Swift Testing",
+      "Tags": [
+        "ios",
+        "swift",
+        "swift-concurrency",
+        "swift-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711325/integration-testing-using-async-await-and-swift-testing"
+    },
+    {
+      "Created": "2025-07-23T04:53:38Z",
+      "Title": "How to fully replace Jackson with kotlinx.serialization in Spring Boot WebFlux?",
+      "Tags": [
+        "kotlin",
+        "serialization",
+        "kotlinx.serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711326/how-to-fully-replace-jackson-with-kotlinx-serialization-in-spring-boot-webflux"
+    },
+    {
+      "Created": "2025-07-23T04:53:52Z",
+      "Title": "Apps Script keeps reading \u201CWAIT\u201D even though the cell shows \u201COK\u201D in the sheet UI",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711327/apps-script-keeps-reading-wait-even-though-the-cell-shows-ok-in-the-sheet-ui"
+    },
+    {
+      "Created": "2025-07-23T04:56:02Z",
+      "Title": "AWS CDK: Fargate Service with two containers",
+      "Tags": [
+        "typescript",
+        "aws-cdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711328/aws-cdk-fargate-service-with-two-containers"
+    }
+  ]
+}

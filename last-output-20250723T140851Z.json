@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-23T14:00:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T13:43:54Z",
+      "Title": "How do you calculate the derivate function of a smoothed curve in Python?",
+      "Tags": [
+        "python",
+        "derivative"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712010/how-do-you-calculate-the-derivate-function-of-a-smoothed-curve-in-python"
+    },
+    {
+      "Created": "2025-07-23T13:47:10Z",
+      "Title": "How to fix plot area size in Matplotlib regardless of tick label length?",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712018/how-to-fix-plot-area-size-in-matplotlib-regardless-of-tick-label-length"
+    },
+    {
+      "Created": "2025-07-23T13:49:11Z",
+      "Title": "How to set file permissions for files generated in Azure web service",
+      "Tags": [
+        "laravel",
+        "azure",
+        "azure-web-app-service",
+        "laravel-passport"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712022/how-to-set-file-permissions-for-files-generated-in-azure-web-service"
+    },
+    {
+      "Created": "2025-07-23T13:57:37Z",
+      "Title": "Why does it crash when calling coroutine_handle.destroy while using coroutines in C\u002B\u002B20?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712041/why-does-it-crash-when-calling-coroutine-handle-destroy-while-using-coroutines-i"
+    },
+    {
+      "Created": "2025-07-23T14:00:35Z",
+      "Title": "When multiple Composables share the same ViewModel, should MutableStateFlow updates be wrapped in viewModelScope?",
+      "Tags": [
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712046/when-multiple-composables-share-the-same-viewmodel-should-mutablestateflow-upda"
+    },
+    {
+      "Created": "2025-07-23T14:00:36Z",
+      "Title": "Looping through list of sheets and selecting specific ones to print",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712045/looping-through-list-of-sheets-and-selecting-specific-ones-to-print"
+    }
+  ]
+}

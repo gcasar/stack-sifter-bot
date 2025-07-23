@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T17:08:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T16:24:35Z",
+      "Title": "Find pattern outside parentheses using regex",
+      "Tags": [
+        "python",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712282/find-pattern-outside-parentheses-using-regex"
+    },
+    {
+      "Created": "2025-07-23T17:05:18Z",
+      "Title": "Regex numeric pattern",
+      "Tags": [
+        "regex",
+        "regex-group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712331/regex-numeric-pattern"
+    },
+    {
+      "Created": "2025-07-23T17:06:31Z",
+      "Title": "How to get a value out of a nested array in PowerAutomate?",
+      "Tags": [
+        "json",
+        "power-automate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712333/how-to-get-a-value-out-of-a-nested-array-in-powerautomate"
+    },
+    {
+      "Created": "2025-07-23T17:08:45Z",
+      "Title": "How do I preserve data integrity with a linking table in PostgreSQL?",
+      "Tags": [
+        "postgresql",
+        "database-design",
+        "database-normalization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712336/how-do-i-preserve-data-integrity-with-a-linking-table-in-postgresql"
+    }
+  ]
+}

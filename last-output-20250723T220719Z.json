@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T21:44:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T21:22:19Z",
+      "Title": "Storing a container of callbacks to different caller types without polymorphism or std function",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712578/storing-a-container-of-callbacks-to-different-caller-types-without-polymorphism"
+    },
+    {
+      "Created": "2025-07-23T21:39:00Z",
+      "Title": "Angular Signal Effect inside our outside Constructor",
+      "Tags": [
+        "angular",
+        "angular-signals",
+        "angular-effect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712588/angular-signal-effect-inside-our-outside-constructor"
+    },
+    {
+      "Created": "2025-07-23T21:40:55Z",
+      "Title": "insert into table with a foreign key",
+      "Tags": [
+        "php",
+        "sql",
+        "mysql",
+        "mysqli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712593/insert-into-table-with-a-foreign-key"
+    },
+    {
+      "Created": "2025-07-23T21:44:50Z",
+      "Title": "Trying to implement CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "computer-vision",
+        "artificial-intelligence",
+        "semantic-segmentation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712596/trying-to-implement-cat-seg-cost-aggregation-for-open-vocabulary-semantic-segme"
+    }
+  ]
+}

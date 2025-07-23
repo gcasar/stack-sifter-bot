@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-23T15:08:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T14:38:06Z",
+      "Title": "Optimize C\u002B\u002B offline GCD\u2011blocks \u002B 2D Fenwick solution for **k**\u2011interesting subarrays [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "data-structures",
+        "grand-central-dispatch",
+        "fenwick-tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712108/optimize-c-offline-gcd-blocks-2d-fenwick-solution-for-k-interesting-suba"
+    },
+    {
+      "Created": "2025-07-23T14:51:25Z",
+      "Title": "Get row number from Databricks external table",
+      "Tags": [
+        "databricks",
+        "databricks-sql",
+        "external-tables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712128/get-row-number-from-databricks-external-table"
+    },
+    {
+      "Created": "2025-07-23T14:52:47Z",
+      "Title": "Python MySQL Connector script in VS Code runs but shows no output in terminal",
+      "Tags": [
+        "python",
+        "mysql",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712131/python-mysql-connector-script-in-vs-code-runs-but-shows-no-output-in-terminal"
+    },
+    {
+      "Created": "2025-07-23T14:59:19Z",
+      "Title": "Why is ggplot plotting wrong axis?",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712139/why-is-ggplot-plotting-wrong-axis"
+    },
+    {
+      "Created": "2025-07-23T15:06:18Z",
+      "Title": "What\u2019s the right Shopify API to use for extension-only app that extracts store data after OAuth?",
+      "Tags": [
+        "shopify",
+        "shopify-app",
+        "shopify-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712149/what-s-the-right-shopify-api-to-use-for-extension-only-app-that-extracts-store-d"
+    },
+    {
+      "Created": "2025-07-23T15:08:03Z",
+      "Title": "Can you remove files from VS Code\u0027s \u0022files changed\u0022 section in the Copilot pane?",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712151/can-you-remove-files-from-vs-codes-files-changed-section-in-the-copilot-pane"
+    }
+  ]
+}

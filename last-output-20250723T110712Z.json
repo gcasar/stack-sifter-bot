@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-23T11:05:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T10:07:42Z",
+      "Title": "What\u0027s the OCaml equivalent of C\u0027s printf(\u0022%.3s\u0022), i.e, specifying a maximum width for a string argument?",
+      "Tags": [
+        "format",
+        "printf",
+        "ocaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711693/whats-the-ocaml-equivalent-of-cs-printf-3s-i-e-specifying-a-maximum-wid"
+    },
+    {
+      "Created": "2025-07-23T10:47:21Z",
+      "Title": "Why can I not efficiently move the strings when using std::istream_iterator\u003Cstd::string\u003E?",
+      "Tags": [
+        "c\u002B\u002B",
+        "standards",
+        "api-design",
+        "move-semantics",
+        "istream-iterator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711731/why-can-i-not-efficiently-move-the-strings-when-using-stdistream-iteratorstd"
+    },
+    {
+      "Created": "2025-07-23T10:50:37Z",
+      "Title": "How to send Prometheus-formatted metrics from Python to an existing server on port 2020 (without starting a new server)?",
+      "Tags": [
+        "python",
+        "prometheus",
+        "newrelic",
+        "fluent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711736/how-to-send-prometheus-formatted-metrics-from-python-to-an-existing-server-on-po"
+    },
+    {
+      "Created": "2025-07-23T11:02:59Z",
+      "Title": "Run \u0022docker inspect\u0022 in justfile and save to variable in shebang recipe",
+      "Tags": [
+        "just"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711748/run-docker-inspect-in-justfile-and-save-to-variable-in-shebang-recipe"
+    },
+    {
+      "Created": "2025-07-23T11:05:14Z",
+      "Title": "Using scoring profile with semantic ranker seems to be bugged when using filter",
+      "Tags": [
+        "azure",
+        "indexing",
+        "azure-cognitive-search",
+        "semantic-search",
+        "scoring-profile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711754/using-scoring-profile-with-semantic-ranker-seems-to-be-bugged-when-using-filter"
+    }
+  ]
+}

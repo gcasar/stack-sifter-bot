@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-23T13:11:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T12:54:09Z",
+      "Title": "JUnit6 test how to? [closed]",
+      "Tags": [
+        "java",
+        "junit",
+        "junit-jupiter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711916/junit6-test-how-to"
+    },
+    {
+      "Created": "2025-07-23T12:55:56Z",
+      "Title": "Using a script variable to generate a stored procedure in Postgresql",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "plpgsql",
+        "postgresql-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711921/using-a-script-variable-to-generate-a-stored-procedure-in-postgresql"
+    },
+    {
+      "Created": "2025-07-23T13:06:37Z",
+      "Title": "Jackson/kafka: leave only non-null fields in the JSON",
+      "Tags": [
+        "json",
+        "apache-kafka",
+        "jackson"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711938/jackson-kafka-leave-only-non-null-fields-in-the-json"
+    },
+    {
+      "Created": "2025-07-23T13:09:34Z",
+      "Title": "How to cancel a gRPC client streaming call cleanly without triggering RpcException, ObjectDisposedException, or InvalidOperationException?",
+      "Tags": [
+        "c#",
+        "exception",
+        "task",
+        "streaming",
+        "cancellation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711942/how-to-cancel-a-grpc-client-streaming-call-cleanly-without-triggering-rpcexcepti"
+    },
+    {
+      "Created": "2025-07-23T13:10:36Z",
+      "Title": "Karate Framework variable resets to last def keyword step and ignores conditions after calling another feature file",
+      "Tags": [
+        "testing",
+        "karate",
+        "gherkin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711944/karate-framework-variable-resets-to-last-def-keyword-step-and-ignores-conditions"
+    },
+    {
+      "Created": "2025-07-23T13:11:18Z",
+      "Title": "Vercel serverless (Node.js) fetch to Notion API fails with 504 Gateway Timeout (works locally)",
+      "Tags": [
+        "node.js",
+        "express",
+        "vercel",
+        "notion-api",
+        "http-status-code-504"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711946/vercel-serverless-node-js-fetch-to-notion-api-fails-with-504-gateway-timeout"
+    }
+  ]
+}

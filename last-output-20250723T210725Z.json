@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T21:04:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T20:26:38Z",
+      "Title": "Storing pointers to objects of different types",
+      "Tags": [
+        "c\u002B\u002B",
+        "network-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712525/storing-pointers-to-objects-of-different-types"
+    },
+    {
+      "Created": "2025-07-23T20:56:34Z",
+      "Title": "Why does navigator.mediaDevices.getUserMedia cause a long delay even when mic permission is already granted?",
+      "Tags": [
+        "webrtc",
+        "media"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712558/why-does-navigator-mediadevices-getusermedia-cause-a-long-delay-even-when-mic-pe"
+    },
+    {
+      "Created": "2025-07-23T20:58:30Z",
+      "Title": "How to write polymorphic function extending abstract class which implements an interface generic function?",
+      "Tags": [
+        "java",
+        "generics",
+        "observer-pattern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712559/how-to-write-polymorphic-function-extending-abstract-class-which-implements-an-i"
+    },
+    {
+      "Created": "2025-07-23T21:04:48Z",
+      "Title": "Snowflake Stored Procedure Returns No Results via JDBC but Works in Web UI",
+      "Tags": [
+        "java",
+        "jdbc",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712563/snowflake-stored-procedure-returns-no-results-via-jdbc-but-works-in-web-ui"
+    }
+  ]
+}

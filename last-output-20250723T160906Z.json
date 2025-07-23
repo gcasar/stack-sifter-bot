@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-23T16:06:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T15:19:04Z",
+      "Title": "Detect circle crossing arc, Lua",
+      "Tags": [
+        "lua",
+        "geometry",
+        "collision-detection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712170/detect-circle-crossing-arc-lua"
+    },
+    {
+      "Created": "2025-07-23T15:42:51Z",
+      "Title": "Passing an ICollection to a parameter that expects an IEnumerable [duplicate]",
+      "Tags": [
+        "c#",
+        "generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712202/passing-an-icollection-to-a-parameter-that-expects-an-ienumerable"
+    },
+    {
+      "Created": "2025-07-23T15:49:41Z",
+      "Title": "Make SQL collation be the same as Python\u0027s str.casefold or str.lower",
+      "Tags": [
+        "sql",
+        "mariadb",
+        "normalization",
+        "equality",
+        "collation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712213/make-sql-collation-be-the-same-as-pythons-str-casefold-or-str-lower"
+    },
+    {
+      "Created": "2025-07-23T15:58:42Z",
+      "Title": "No module named \u0027pkg_resources\u0027 on Heroku",
+      "Tags": [
+        "python",
+        "heroku",
+        "pyramid",
+        "pkg-resources"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712231/no-module-named-pkg-resources-on-heroku"
+    },
+    {
+      "Created": "2025-07-23T16:00:35Z",
+      "Title": "How to enqueue custom CSS and JS files in a WordPress child theme?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "themes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712237/how-to-enqueue-custom-css-and-js-files-in-a-wordpress-child-theme"
+    },
+    {
+      "Created": "2025-07-23T16:02:14Z",
+      "Title": "Netty: Data corruption with high throughput",
+      "Tags": [
+        "java",
+        "netty"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712242/netty-data-corruption-with-high-throughput"
+    },
+    {
+      "Created": "2025-07-23T16:02:22Z",
+      "Title": "How to detect and reduce offscreen component rendering in FlatList (React Native)?",
+      "Tags": [
+        "react-native",
+        "performance",
+        "lazy-loading",
+        "flatlist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712244/how-to-detect-and-reduce-offscreen-component-rendering-in-flatlist-react-native"
+    },
+    {
+      "Created": "2025-07-23T16:03:58Z",
+      "Title": "Images are not updated despite a changed MutableState",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712246/images-are-not-updated-despite-a-changed-mutablestate"
+    },
+    {
+      "Created": "2025-07-23T16:06:26Z",
+      "Title": "Why \u0060-3\u0027d300\u003E5000\u0060 is true in verilog HDL?",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712251/why-3d3005000-is-true-in-verilog-hdl"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-23T04:19:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T03:39:39Z",
+      "Title": "STM32MP157A-DK1 How to enable and read STGEN in non secure context",
+      "Tags": [
+        "stm32",
+        "yocto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711285/stm32mp157a-dk1-how-to-enable-and-read-stgen-in-non-secure-context"
+    },
+    {
+      "Created": "2025-07-23T03:49:13Z",
+      "Title": "Get ALL \u003Cdiv class\u003E text values that starts with specific text",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711291/get-all-div-class-text-values-that-starts-with-specific-text"
+    },
+    {
+      "Created": "2025-07-23T04:16:23Z",
+      "Title": "Is there a way to do two styles of Text side by side in a Buttons label closure?",
+      "Tags": [
+        "ios",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711301/is-there-a-way-to-do-two-styles-of-text-side-by-side-in-a-buttons-label-closure"
+    },
+    {
+      "Created": "2025-07-23T04:19:03Z",
+      "Title": "Looking for ideas to improve my AI-augmented Playwright \u002B Behave \u002B Allure framework",
+      "Tags": [
+        "python",
+        "automation",
+        "artificial-intelligence",
+        "allure",
+        "python-behave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79711303/looking-for-ideas-to-improve-my-ai-augmented-playwright-behave-allure-framew"
+    }
+  ]
+}

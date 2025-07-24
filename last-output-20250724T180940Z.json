@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-24T18:06:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T17:56:46Z",
+      "Title": "Compute Shader only affecting one row",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "compute-shader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713787/compute-shader-only-affecting-one-row"
+    },
+    {
+      "Created": "2025-07-24T17:57:24Z",
+      "Title": "Why does \u0060xcrun simctl bootstatus \u003Cudid\u003E -b\u0060 error with \u0022invalid device\u0022 message when run in script file in GitHub Actions?",
+      "Tags": [
+        "ios",
+        "github-actions",
+        "ios-simulator",
+        "xcrun",
+        "simctl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713790/why-does-xcrun-simctl-bootstatus-udid-b-error-with-invalid-device-message"
+    },
+    {
+      "Created": "2025-07-24T18:06:10Z",
+      "Title": "TS2688: Cannot find type definition file for \u0027node\u0027 when building on Render.com with devDependencies types",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "express",
+        "deployment",
+        "render.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713802/ts2688-cannot-find-type-definition-file-for-node-when-building-on-render-com"
+    }
+  ]
+}

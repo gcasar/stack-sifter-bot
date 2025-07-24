@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-24T05:54:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T05:20:03Z",
+      "Title": "Question regarding Euler phi coprime algorithm",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712823/question-regarding-euler-phi-coprime-algorithm"
+    },
+    {
+      "Created": "2025-07-24T05:30:15Z",
+      "Title": "Caddy Reverse Proxy with Gitlab Web IDE refused to connect",
+      "Tags": [
+        "gitlab",
+        "caddy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712832/caddy-reverse-proxy-with-gitlab-web-ide-refused-to-connect"
+    },
+    {
+      "Created": "2025-07-24T05:33:19Z",
+      "Title": "Bicep, Azure Container Apps - Azure Files SMB volume mount fails using bicep, but works after manual recreate volume",
+      "Tags": [
+        "azure",
+        "azure-bicep",
+        "azure-container-apps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712833/bicep-azure-container-apps-azure-files-smb-volume-mount-fails-using-bicep-bu"
+    },
+    {
+      "Created": "2025-07-24T05:42:04Z",
+      "Title": "Pandas groupby with Grouper still includes time bins beyond my filtered range",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712837/pandas-groupby-with-grouper-still-includes-time-bins-beyond-my-filtered-range"
+    },
+    {
+      "Created": "2025-07-24T05:46:35Z",
+      "Title": "How is the \u0022ig-u-rur\u0022 header in Instagram API requests generated?",
+      "Tags": [
+        "instagram",
+        "reverse-engineering",
+        "instagram-api",
+        "instagram-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712842/how-is-the-ig-u-rur-header-in-instagram-api-requests-generated"
+    },
+    {
+      "Created": "2025-07-24T05:54:52Z",
+      "Title": "check_model() plotting twice when plot_annotation() is used",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "plot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712846/check-model-plotting-twice-when-plot-annotation-is-used"
+    }
+  ]
+}

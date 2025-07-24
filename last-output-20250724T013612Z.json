@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-24T01:15:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T00:33:09Z",
+      "Title": "jQuery step animation plays twice on mobile",
+      "Tags": [
+        "jquery",
+        "jquery-animate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712670/jquery-step-animation-plays-twice-on-mobile"
+    },
+    {
+      "Created": "2025-07-24T01:06:38Z",
+      "Title": "Using python wexpect to run powershell command and start connect to a Linux AWS instance",
+      "Tags": [
+        "python",
+        "linux",
+        "amazon-web-services",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712686/using-python-wexpect-to-run-powershell-command-and-start-connect-to-a-linux-aws"
+    },
+    {
+      "Created": "2025-07-24T01:09:46Z",
+      "Title": "Tailwind CSS v4: @screen \u002B @apply not working in component CSS",
+      "Tags": [
+        "tailwind-css",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712690/tailwind-css-v4-screen-apply-not-working-in-component-css"
+    },
+    {
+      "Created": "2025-07-24T01:15:19Z",
+      "Title": "Why isn\u0027t this removing non-alphanumerical characters?",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712692/why-isnt-this-removing-non-alphanumerical-characters"
+    }
+  ]
+}

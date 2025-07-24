@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-24T22:59:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T22:33:41Z",
+      "Title": "segmentation fault in C\u002B\u002B trie due to node copying during traversal",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714021/segmentation-fault-in-c-trie-due-to-node-copying-during-traversal"
+    },
+    {
+      "Created": "2025-07-24T22:37:59Z",
+      "Title": "Hugging Face sentence-transformers model not loading",
+      "Tags": [
+        "machine-learning",
+        "huggingface-transformers",
+        "sentence-transformers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714027/hugging-face-sentence-transformers-model-not-loading"
+    },
+    {
+      "Created": "2025-07-24T22:38:08Z",
+      "Title": "PDF download automatization in Python",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714028/pdf-download-automatization-in-python"
+    },
+    {
+      "Created": "2025-07-24T22:39:28Z",
+      "Title": "number_format only works up to 999,99",
+      "Tags": [
+        "php",
+        "mariadb",
+        "number-formatting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714029/number-format-only-works-up-to-999-99"
+    },
+    {
+      "Created": "2025-07-24T22:59:11Z",
+      "Title": "Valid output resolutions for MediaFoundation SinkWriter for H264/MP4?",
+      "Tags": [
+        "c\u002B\u002B",
+        "video",
+        "mp4",
+        "h.264",
+        "ms-media-foundation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714041/valid-output-resolutions-for-mediafoundation-sinkwriter-for-h264-mp4"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-24T08:07:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T07:59:04Z",
+      "Title": "Iterate/Loop through a dynamically built HTML table?",
+      "Tags": [
+        "c#",
+        "html",
+        "html-table",
+        "webforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712968/iterate-loop-through-a-dynamically-built-html-table"
+    },
+    {
+      "Created": "2025-07-24T08:07:03Z",
+      "Title": "SSDP devices network discovery: never receive an answer",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712979/ssdp-devices-network-discovery-never-receive-an-answer"
+    },
+    {
+      "Created": "2025-07-24T08:07:28Z",
+      "Title": "Skip \u0022Running Process Detected\u0022 check when executing previous uninstaller with Install4J",
+      "Tags": [
+        "install4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712981/skip-running-process-detected-check-when-executing-previous-uninstaller-with-i"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-24T22:06:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T21:19:39Z",
+      "Title": "Why am I getting an additional \u0022 at the very end of the sbrun string?",
+      "Tags": [
+        "python",
+        "subprocess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713977/why-am-i-getting-an-additional-at-the-very-end-of-the-sbrun-string"
+    },
+    {
+      "Created": "2025-07-24T21:38:41Z",
+      "Title": "How to create a macOS App Bundle for a C and Allegro 5 application?",
+      "Tags": [
+        "c",
+        "macos",
+        "bundle",
+        "allegro",
+        "allegro5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713994/how-to-create-a-macos-app-bundle-for-a-c-and-allegro-5-application"
+    },
+    {
+      "Created": "2025-07-24T21:42:26Z",
+      "Title": "Rewriting a n-dimensional matrix of dot products as a matrix multiplication",
+      "Tags": [
+        "matrix",
+        "optimization",
+        "fortran",
+        "linear-algebra",
+        "tensor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713998/rewriting-a-n-dimensional-matrix-of-dot-products-as-a-matrix-multiplication"
+    },
+    {
+      "Created": "2025-07-24T22:06:32Z",
+      "Title": "Recording System Audio in MacOS Using Electron JS without relying on BlackHole",
+      "Tags": [
+        "javascript",
+        "macos",
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714009/recording-system-audio-in-macos-using-electron-js-without-relying-on-blackhole"
+    }
+  ]
+}

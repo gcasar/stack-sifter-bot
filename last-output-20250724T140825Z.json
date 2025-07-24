@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-24T14:04:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T13:47:10Z",
+      "Title": "GoDaddy domain is unable to access CloudFront that is linked to an s3 static website",
+      "Tags": [
+        "amazon-s3",
+        "amazon-cloudfront",
+        "web-development-server",
+        "godaddy-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713482/godaddy-domain-is-unable-to-access-cloudfront-that-is-linked-to-an-s3-static-web"
+    },
+    {
+      "Created": "2025-07-24T13:56:13Z",
+      "Title": "Veracode CWE Vulnerabilities from External Libraries [closed]",
+      "Tags": [
+        "security",
+        "owasp",
+        "veracode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713492/veracode-cwe-vulnerabilities-from-external-libraries"
+    },
+    {
+      "Created": "2025-07-24T13:57:53Z",
+      "Title": "How to avoid transitioning between two image layouts for an image frequently",
+      "Tags": [
+        "graphics",
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713495/how-to-avoid-transitioning-between-two-image-layouts-for-an-image-frequently"
+    },
+    {
+      "Created": "2025-07-24T13:58:43Z",
+      "Title": "Load QPdfDocument outside of GUI thread for QPdfView?",
+      "Tags": [
+        "pyqt",
+        "pyside6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713497/load-qpdfdocument-outside-of-gui-thread-for-qpdfview"
+    },
+    {
+      "Created": "2025-07-24T14:04:25Z",
+      "Title": "How to query the Ryu controller for network state",
+      "Tags": [
+        "mininet",
+        "sdn",
+        "ryu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713507/how-to-query-the-ryu-controller-for-network-state"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-24T13:16:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T12:53:50Z",
+      "Title": "How to log user activity in Spring Boot and expose it by role (admin/user) with module-wise filtering? [closed]",
+      "Tags": [
+        "java",
+        "database",
+        "spring-boot",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713385/how-to-log-user-activity-in-spring-boot-and-expose-it-by-role-admin-user-with"
+    },
+    {
+      "Created": "2025-07-24T13:05:47Z",
+      "Title": "Convert anonymous Firebase Auth session on TV client to a signed\u2011in user via a separate authenticated client?",
+      "Tags": [
+        "android",
+        "flutter",
+        "google-cloud-firestore",
+        "firebase-authentication",
+        "android-tv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713403/convert-anonymous-firebase-auth-session-on-tv-client-to-a-signed-in-user-via-a-s"
+    },
+    {
+      "Created": "2025-07-24T13:07:57Z",
+      "Title": "Cookie / OIDC authentication enters into an infinite redirect loop",
+      "Tags": [
+        "c#",
+        "cookies",
+        "blazor",
+        "openid-connect",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713406/cookie-oidc-authentication-enters-into-an-infinite-redirect-loop"
+    },
+    {
+      "Created": "2025-07-24T13:16:28Z",
+      "Title": "Not able to get members from TeamsInfo.getMember(context,...) after package updates",
+      "Tags": [
+        "typescript",
+        "microsoft-teams",
+        "package.json",
+        "microsoft-graph-teams",
+        "teams-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713419/not-able-to-get-members-from-teamsinfo-getmembercontext-after-package-upda"
+    }
+  ]
+}

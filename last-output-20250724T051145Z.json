@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-24T05:04:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T05:04:20Z",
+      "Title": "How to randomize a white background on an image?",
+      "Tags": [
+        "c#",
+        "dataset",
+        "artificial-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712814/how-to-randomize-a-white-background-on-an-image"
+    },
+    {
+      "Created": "2025-07-24T05:04:58Z",
+      "Title": "In TeamCity, why are Angular tests failing to start in the build but not in the agent\u0027s terminal?",
+      "Tags": [
+        "continuous-integration",
+        "teamcity",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712817/in-teamcity-why-are-angular-tests-failing-to-start-in-the-build-but-not-in-the"
+    }
+  ]
+}

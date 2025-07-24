@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-24T03:47:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T03:47:39Z",
+      "Title": "Odoo 18: payment.transaction set to \u0027done\u0027 but payment not created and is_post_processed remains False while using custom online payment gateway",
+      "Tags": [
+        "payment-method",
+        "odoo-18"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712777/odoo-18-payment-transaction-set-to-done-but-payment-not-created-and-is-post-p"
+    }
+  ]
+}

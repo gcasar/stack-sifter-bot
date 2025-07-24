@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-24T02:41:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T01:35:25Z",
+      "Title": "Is there a way to get the topic(thread) ID from a Message object in Telethon?",
+      "Tags": [
+        "python",
+        "telegram-bot",
+        "telethon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712696/is-there-a-way-to-get-the-topicthread-id-from-a-message-object-in-telethon"
+    },
+    {
+      "Created": "2025-07-24T01:48:29Z",
+      "Title": "How does print work with multiple words in python?",
+      "Tags": [
+        "python",
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712702/how-does-print-work-with-multiple-words-in-python"
+    },
+    {
+      "Created": "2025-07-24T02:17:55Z",
+      "Title": "How to send a subscription expired webhook event in my Stripe local webhook?",
+      "Tags": [
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712719/how-to-send-a-subscription-expired-webhook-event-in-my-stripe-local-webhook"
+    },
+    {
+      "Created": "2025-07-24T02:25:10Z",
+      "Title": "Texture for a 3d model I made in blockbench fails to load, while another one does load, and I cannot seem to find the difference",
+      "Tags": [
+        "json",
+        "3d",
+        "textures",
+        "minecraft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712722/texture-for-a-3d-model-i-made-in-blockbench-fails-to-load-while-another-one-doe"
+    },
+    {
+      "Created": "2025-07-24T02:30:12Z",
+      "Title": "How do I extract the shapefile of a particular state from a country\u0027s shapefile?",
+      "Tags": [
+        "python",
+        "data-science",
+        "gis",
+        "modeling",
+        "landsat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712725/how-do-i-extract-the-shapefile-of-a-particular-state-from-a-countrys-shapefile"
+    },
+    {
+      "Created": "2025-07-24T02:32:17Z",
+      "Title": "Why does polars kept killing the python kernel when joining two lazy frames and collecting them?",
+      "Tags": [
+        "python",
+        "memory",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712728/why-does-polars-kept-killing-the-python-kernel-when-joining-two-lazy-frames-and"
+    },
+    {
+      "Created": "2025-07-24T02:35:13Z",
+      "Title": "Why my app stuck at loading when run ng serve?",
+      "Tags": [
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712730/why-my-app-stuck-at-loading-when-run-ng-serve"
+    },
+    {
+      "Created": "2025-07-24T02:41:36Z",
+      "Title": "ImportError: cannot import name \u0027Client\u0027 from \u0027pinecone\u0027 (unknown location)",
+      "Tags": [
+        "python",
+        "libraries",
+        "rag",
+        "pinecone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712735/importerror-cannot-import-name-client-from-pinecone-unknown-location"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-24T20:04:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T19:15:35Z",
+      "Title": "Why does my getMarketStructure() function sometimes label Swing Points incorrectly?",
+      "Tags": [
+        "pine-script",
+        "pine-script-v5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713863/why-does-my-getmarketstructure-function-sometimes-label-swing-points-incorrect"
+    },
+    {
+      "Created": "2025-07-24T19:33:29Z",
+      "Title": "SpringBoot 4.0.0-M1 and GraalVM AOT java.lang.ClassNotFoundException: org.springframework.boot.http.client.ClientHttpRequestFactorySettings",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "maven",
+        "graalvm",
+        "graalvm-native-image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713880/springboot-4-0-0-m1-and-graalvm-aot-java-lang-classnotfoundexception-org-spring"
+    },
+    {
+      "Created": "2025-07-24T19:44:01Z",
+      "Title": "How to set an image for class that inherits Turtle",
+      "Tags": [
+        "python",
+        "turtle-graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713886/how-to-set-an-image-for-class-that-inherits-turtle"
+    },
+    {
+      "Created": "2025-07-24T20:04:00Z",
+      "Title": "Storing data frame values into a 2D array and printing the results",
+      "Tags": [
+        "python",
+        "arrays",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713909/storing-data-frame-values-into-a-2d-array-and-printing-the-results"
+    }
+  ]
+}

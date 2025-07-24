@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-24T21:05:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T20:20:17Z",
+      "Title": "Flask API returns 404 on CPanel",
+      "Tags": [
+        "python",
+        "flask",
+        "http-status-code-404",
+        "cpanel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713922/flask-api-returns-404-on-cpanel"
+    },
+    {
+      "Created": "2025-07-24T20:45:57Z",
+      "Title": "STM32N657 Timer Clocks",
+      "Tags": [
+        "timer",
+        "clock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713946/stm32n657-timer-clocks"
+    },
+    {
+      "Created": "2025-07-24T20:47:37Z",
+      "Title": "VBA Excel - Enable and disable controls in a form depending of a combobox value",
+      "Tags": [
+        "excel",
+        "vba",
+        "forms",
+        "dynamic",
+        "controls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713948/vba-excel-enable-and-disable-controls-in-a-form-depending-of-a-combobox-value"
+    },
+    {
+      "Created": "2025-07-24T20:47:45Z",
+      "Title": "Access ubuntu desktop (GUI)",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "vps",
+        "gnome"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713949/access-ubuntu-desktop-gui"
+    },
+    {
+      "Created": "2025-07-24T20:49:55Z",
+      "Title": "How does the syntax in this function work?",
+      "Tags": [
+        "c",
+        "function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713950/how-does-the-syntax-in-this-function-work"
+    },
+    {
+      "Created": "2025-07-24T21:05:57Z",
+      "Title": "How to copy values from an object to another limiting to properties of another object in vue.js/TypeScript?",
+      "Tags": [
+        "typescript",
+        "vue.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713962/how-to-copy-values-from-an-object-to-another-limiting-to-properties-of-another-o"
+    }
+  ]
+}

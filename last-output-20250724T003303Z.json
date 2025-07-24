@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-24T00:20:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-23T23:14:37Z",
+      "Title": "Can Connect to Database in IntelliJ Client but not in Java Source Code",
+      "Tags": [
+        "java",
+        "intellij-idea",
+        "jdbc",
+        "mariadb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712643/can-connect-to-database-in-intellij-client-but-not-in-java-source-code"
+    },
+    {
+      "Created": "2025-07-23T23:59:02Z",
+      "Title": "How to get a subwindow to open mid function to allow for user input in Python tkinter",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712656/how-to-get-a-subwindow-to-open-mid-function-to-allow-for-user-input-in-python-tk"
+    },
+    {
+      "Created": "2025-07-23T23:59:28Z",
+      "Title": "Replace a LaTeX forced double space \u0022\\ \\ \u0022 with single space in lua",
+      "Tags": [
+        "lua",
+        "gsub",
+        "string-substitution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712657/replace-a-latex-forced-double-space-with-single-space-in-lua"
+    },
+    {
+      "Created": "2025-07-24T00:15:48Z",
+      "Title": "WebSocket Connection to KubeVirt Console Established, but No TTY Output",
+      "Tags": [
+        "kubernetes",
+        "websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712661/websocket-connection-to-kubevirt-console-established-but-no-tty-output"
+    },
+    {
+      "Created": "2025-07-24T00:16:07Z",
+      "Title": "windows form problems with accessing files",
+      "Tags": [
+        "c#",
+        "excel",
+        "winforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712662/windows-form-problems-with-accessing-files"
+    },
+    {
+      "Created": "2025-07-24T00:20:13Z",
+      "Title": "editing code to filter a pivottable for multiple values, is my code wrong?",
+      "Tags": [
+        "excel",
+        "vba",
+        "pivot-table",
+        "olap",
+        "olap-cube"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712665/editing-code-to-filter-a-pivottable-for-multiple-values-is-my-code-wrong"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-24T09:52:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T08:39:28Z",
+      "Title": "python type annotation of SpecialForms with pydantic and mypy",
+      "Tags": [
+        "python",
+        "python-typing",
+        "mypy",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713034/python-type-annotation-of-specialforms-with-pydantic-and-mypy"
+    },
+    {
+      "Created": "2025-07-24T09:00:54Z",
+      "Title": "Google Drive API files.download restricted scope",
+      "Tags": [
+        "google-drive-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713078/google-drive-api-files-download-restricted-scope"
+    },
+    {
+      "Created": "2025-07-24T09:51:50Z",
+      "Title": "python 3 - pynput window click listener - relative coordinates",
+      "Tags": [
+        "python-3.x",
+        "pyautogui",
+        "pywinauto",
+        "pynput"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713130/python-3-pynput-window-click-listener-relative-coordinates"
+    },
+    {
+      "Created": "2025-07-24T09:51:55Z",
+      "Title": "How to capture screenshots from a video URL [closed]",
+      "Tags": [
+        "bash",
+        "ffmpeg",
+        "screenshot",
+        "video-processing",
+        "video-capture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713131/how-to-capture-screenshots-from-a-video-url"
+    },
+    {
+      "Created": "2025-07-24T09:52:44Z",
+      "Title": "How to set debugger default gdb path in custom debug configuration plugin?",
+      "Tags": [
+        "eclipse",
+        "eclipse-plugin",
+        "eclipse-rcp",
+        "eclipse-cdt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713132/how-to-set-debugger-default-gdb-path-in-custom-debug-configuration-plugin"
+    }
+  ]
+}

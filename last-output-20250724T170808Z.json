@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-24T17:03:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T16:09:32Z",
+      "Title": "Parse Multiple JSON items out of a Single SQL Cell",
+      "Tags": [
+        "sql",
+        "json",
+        "sql-server-2019"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713664/parse-multiple-json-items-out-of-a-single-sql-cell"
+    },
+    {
+      "Created": "2025-07-24T16:37:28Z",
+      "Title": "Minimum between two lifetimes",
+      "Tags": [
+        "rust",
+        "lifetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713696/minimum-between-two-lifetimes"
+    },
+    {
+      "Created": "2025-07-24T16:40:26Z",
+      "Title": "How to make a legend for geom_grob shapes?",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "grob"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713702/how-to-make-a-legend-for-geom-grob-shapes"
+    },
+    {
+      "Created": "2025-07-24T16:58:42Z",
+      "Title": "How to show custom alert on before unload event in react",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713724/how-to-show-custom-alert-on-before-unload-event-in-react"
+    },
+    {
+      "Created": "2025-07-24T17:03:41Z",
+      "Title": "Capturing a @MainActor-isolated method reference into a SwiftUI view\u2019s escaping closure still triggers \u201Cisolated \u2192 non-isolated\u201D error",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "swift-concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713730/capturing-a-mainactor-isolated-method-reference-into-a-swiftui-view-s-escaping"
+    }
+  ]
+}

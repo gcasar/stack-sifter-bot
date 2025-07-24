@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-24T07:03:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T06:44:19Z",
+      "Title": "How to add a self-signed certificate to bazels runtime JDK",
+      "Tags": [
+        "ssl-certificate",
+        "bazel",
+        "self-signed",
+        "java-deployment-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712888/how-to-add-a-self-signed-certificate-to-bazels-runtime-jdk"
+    },
+    {
+      "Created": "2025-07-24T07:02:06Z",
+      "Title": "CLOB attribute of a oracle record type is taking 0.5 seconds for each update using python (both with oracledb and cx_oracle library)",
+      "Tags": [
+        "python",
+        "oracle-database",
+        "cx-oracle",
+        "python-oracledb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712902/clob-attribute-of-a-oracle-record-type-is-taking-0-5-seconds-for-each-update-usi"
+    },
+    {
+      "Created": "2025-07-24T07:02:56Z",
+      "Title": "ListView delegate height animation",
+      "Tags": [
+        "qt",
+        "qml",
+        "qtquick2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712903/listview-delegate-height-animation"
+    },
+    {
+      "Created": "2025-07-24T07:03:46Z",
+      "Title": "Why don\u0027t I see any Celery task result keys in Redis (even though tasks succeed)?",
+      "Tags": [
+        "python",
+        "docker",
+        "redis",
+        "celery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79712904/why-dont-i-see-any-celery-task-result-keys-in-redis-even-though-tasks-succeed"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-24T11:05:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T10:37:22Z",
+      "Title": "Issue on call FastMCP Server using Postman",
+      "Tags": [
+        "python",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713188/issue-on-call-fastmcp-server-using-postman"
+    },
+    {
+      "Created": "2025-07-24T10:48:44Z",
+      "Title": "Forward string literal to consteval function",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "constexpr",
+        "c\u002B\u002B23",
+        "consteval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713216/forward-string-literal-to-consteval-function"
+    },
+    {
+      "Created": "2025-07-24T11:00:55Z",
+      "Title": "Implementing Android foreground service for device timer to update UI every minute",
+      "Tags": [
+        "android",
+        ".net",
+        "maui",
+        "foreground-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713231/implementing-android-foreground-service-for-device-timer-to-update-ui-every-minu"
+    },
+    {
+      "Created": "2025-07-24T11:00:57Z",
+      "Title": "Trying to add custom function prestashop 1.7",
+      "Tags": [
+        "php",
+        "function",
+        "prestashop-1.7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713230/trying-to-add-custom-function-prestashop-1-7"
+    },
+    {
+      "Created": "2025-07-24T11:01:42Z",
+      "Title": "Using apply on a dataframe and merging with a subset dataframe",
+      "Tags": [
+        "r",
+        "dataframe",
+        "apply"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713233/using-apply-on-a-dataframe-and-merging-with-a-subset-dataframe"
+    },
+    {
+      "Created": "2025-07-24T11:05:33Z",
+      "Title": "React Native Expo (EAS Managed) app crashes silently after calling ImagePicker.launchCameraAsync \u2014 no error in Sentry",
+      "Tags": [
+        "react-native",
+        "expo",
+        "camera",
+        "crash",
+        "expo-image-picker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713239/react-native-expo-eas-managed-app-crashes-silently-after-calling-imagepicker-l"
+    }
+  ]
+}

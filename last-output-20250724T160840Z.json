@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-24T16:07:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-24T15:28:22Z",
+      "Title": "How to set up non-linear (sinusoidal) multiple variable regression problems for tensorflow?",
+      "Tags": [
+        "pandas",
+        "tensorflow",
+        "non-linear-regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713620/how-to-set-up-non-linear-sinusoidal-multiple-variable-regression-problems-for"
+    },
+    {
+      "Created": "2025-07-24T15:33:53Z",
+      "Title": "Solution doesn\u0027t match the answers",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713625/solution-doesnt-match-the-answers"
+    },
+    {
+      "Created": "2025-07-24T15:51:47Z",
+      "Title": "AWS SAM IaC Yaml code with the !Sub throws error stating \u0022 Specify a string as first argument, and an optional second\u0022",
+      "Tags": [
+        "amazon-web-services",
+        "infrastructure-as-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713641/aws-sam-iac-yaml-code-with-the-sub-throws-error-stating-specify-a-string-as-f"
+    },
+    {
+      "Created": "2025-07-24T15:56:19Z",
+      "Title": "How to find the intersection between GPS points and land polygons using opestreetmaps?",
+      "Tags": [
+        "r",
+        "geospatial",
+        "openstreetmap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713645/how-to-find-the-intersection-between-gps-points-and-land-polygons-using-opestree"
+    },
+    {
+      "Created": "2025-07-24T16:05:05Z",
+      "Title": "How to redirect in React Router 7 in Framework mode to another route",
+      "Tags": [
+        "reactjs",
+        "react-router",
+        "react-router-v7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713654/how-to-redirect-in-react-router-7-in-framework-mode-to-another-route"
+    },
+    {
+      "Created": "2025-07-24T16:07:14Z",
+      "Title": "onChange vs escaping closures in Swift UI",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79713658/onchange-vs-escaping-closures-in-swift-ui"
+    }
+  ]
+}

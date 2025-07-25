@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-25T13:13:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T12:14:49Z",
+      "Title": "Efficiently Updating Large Iceberg Tables with Poorly Designed Source Schemas",
+      "Tags": [
+        "sql-server",
+        "etl",
+        "minio",
+        "apache-iceberg",
+        "data-lake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714699/efficiently-updating-large-iceberg-tables-with-poorly-designed-source-schemas"
+    },
+    {
+      "Created": "2025-07-25T13:02:22Z",
+      "Title": "Casting int to valid enum member causes ValueError in Python",
+      "Tags": [
+        "python",
+        "enums",
+        "casting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714767/casting-int-to-valid-enum-member-causes-valueerror-in-python"
+    },
+    {
+      "Created": "2025-07-25T13:08:40Z",
+      "Title": "How to write hyperlink custom field in a SharePoint list using GraphAPI",
+      "Tags": [
+        "c#",
+        "microsoft-graph-api",
+        "kiota"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714772/how-to-write-hyperlink-custom-field-in-a-sharepoint-list-using-graphapi"
+    },
+    {
+      "Created": "2025-07-25T13:10:34Z",
+      "Title": "Pull to Refresh is not working in webview React Native",
+      "Tags": [
+        "android",
+        "react-native",
+        "webview",
+        "expo",
+        "pull-to-refresh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714777/pull-to-refresh-is-not-working-in-webview-react-native"
+    },
+    {
+      "Created": "2025-07-25T13:13:36Z",
+      "Title": "Resource class Administrator does not exist",
+      "Tags": [
+        "php",
+        "cakephp",
+        "cakephp-4.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714781/resource-class-administrator-does-not-exist"
+    }
+  ]
+}

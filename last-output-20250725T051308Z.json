@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-25T04:54:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T04:29:37Z",
+      "Title": "How to extend fixture from the base class?",
+      "Tags": [
+        "python",
+        "pytest",
+        "overloading",
+        "fixtures",
+        "pytest-fixtures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714189/how-to-extend-fixture-from-the-base-class"
+    },
+    {
+      "Created": "2025-07-25T04:35:50Z",
+      "Title": "How to override Specific CMSParagraphComponent in SAP Spartacus and inject custom styles/scripts from CMS?",
+      "Tags": [
+        "angular",
+        "content-management-system",
+        "sap-commerce-cloud",
+        "sanitization",
+        "spartacus-storefront"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714195/how-to-override-specific-cmsparagraphcomponent-in-sap-spartacus-and-inject-custo"
+    },
+    {
+      "Created": "2025-07-25T04:37:13Z",
+      "Title": "Results of Questionnaire to be downloaded as a spreadsheet",
+      "Tags": [
+        "django",
+        "model",
+        "spreadsheet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714196/results-of-questionnaire-to-be-downloaded-as-a-spreadsheet"
+    },
+    {
+      "Created": "2025-07-25T04:39:45Z",
+      "Title": "Android System Monitoring: ADB polling vs. APK with Socket.IO - Which has lower performance overhead?",
+      "Tags": [
+        "android",
+        "adb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714198/android-system-monitoring-adb-polling-vs-apk-with-socket-io-which-has-lower"
+    },
+    {
+      "Created": "2025-07-25T04:48:20Z",
+      "Title": "In git PR i see a file without any change, how to fix this?",
+      "Tags": [
+        "git",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714203/in-git-pr-i-see-a-file-without-any-change-how-to-fix-this"
+    },
+    {
+      "Created": "2025-07-25T04:49:36Z",
+      "Title": "C\u002B\u002B class template with conditional data members",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "variadic-templates",
+        "datamember"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714204/c-class-template-with-conditional-data-members"
+    },
+    {
+      "Created": "2025-07-25T04:54:07Z",
+      "Title": "How to create and apply a new layout with _Imports.razor\u0027s directives then embed this into existing templated authorization project?",
+      "Tags": [
+        "c#",
+        "authentication",
+        "layout",
+        "blazor",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714207/how-to-create-and-apply-a-new-layout-with-imports-razors-directives-then-embed"
+    }
+  ]
+}

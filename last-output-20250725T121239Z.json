@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-25T12:08:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T11:07:30Z",
+      "Title": "WP error - Use placeholders and $wpdb-\u003Eprepare(); found $sql",
+      "Tags": [
+        "php",
+        "sql",
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714624/wp-error-use-placeholders-and-wpdb-prepare-found-sql"
+    },
+    {
+      "Created": "2025-07-25T11:20:16Z",
+      "Title": "How to write a server to test WebRequest.ClientCertificates",
+      "Tags": [
+        "c#",
+        "dotnet-httpclient",
+        "webrequest",
+        "client-certificates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714644/how-to-write-a-server-to-test-webrequest-clientcertificates"
+    },
+    {
+      "Created": "2025-07-25T11:23:08Z",
+      "Title": "How do I calculate the end address of a C struct in memory?",
+      "Tags": [
+        "c",
+        "pointers",
+        "struct",
+        "malloc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714648/how-do-i-calculate-the-end-address-of-a-c-struct-in-memory"
+    },
+    {
+      "Created": "2025-07-25T11:36:19Z",
+      "Title": "How to emulate browser using requests in Python?",
+      "Tags": [
+        "python-3.x",
+        "python-requests"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714660/how-to-emulate-browser-using-requests-in-python"
+    },
+    {
+      "Created": "2025-07-25T12:04:17Z",
+      "Title": "Rust\u0027s mutable borrows in closure parameter",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714686/rusts-mutable-borrows-in-closure-parameter"
+    },
+    {
+      "Created": "2025-07-25T12:08:42Z",
+      "Title": "How to modify parent agent properties in child agent using AnyLogic inheritance?",
+      "Tags": [
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714689/how-to-modify-parent-agent-properties-in-child-agent-using-anylogic-inheritance"
+    }
+  ]
+}

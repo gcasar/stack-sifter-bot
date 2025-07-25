@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-25T09:54:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T09:32:08Z",
+      "Title": "My git operation through GitPython results in the same file be treated as completely different from original",
+      "Tags": [
+        "python",
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714505/my-git-operation-through-gitpython-results-in-the-same-file-be-treated-as-comple"
+    },
+    {
+      "Created": "2025-07-25T09:40:22Z",
+      "Title": "Three-way comparison operator defaulted out of class is not a friend",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "spaceship-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714519/three-way-comparison-operator-defaulted-out-of-class-is-not-a-friend"
+    },
+    {
+      "Created": "2025-07-25T09:47:37Z",
+      "Title": "C\u002B\u002B std::sregex_iterator not working with linefeed",
+      "Tags": [
+        "c\u002B\u002B",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714529/c-stdsregex-iterator-not-working-with-linefeed"
+    },
+    {
+      "Created": "2025-07-25T09:48:24Z",
+      "Title": "My broadcasting is not published using Janus",
+      "Tags": [
+        "flutter",
+        "dart",
+        "dart-pub",
+        "janus",
+        "janus-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714531/my-broadcasting-is-not-published-using-janus"
+    },
+    {
+      "Created": "2025-07-25T09:51:15Z",
+      "Title": "How to detect sheet switch event while user is editing a formula in Google Sheets?",
+      "Tags": [
+        "ios",
+        "swift",
+        "network-programming",
+        "wifi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714533/how-to-detect-sheet-switch-event-while-user-is-editing-a-formula-in-google-sheet"
+    },
+    {
+      "Created": "2025-07-25T09:54:31Z",
+      "Title": "How to set default \u0027\u0027 to varchar field when creating a table",
+      "Tags": [
+        "postgresql",
+        "open-gauss"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714539/how-to-set-default-to-varchar-field-when-creating-a-table"
+    }
+  ]
+}

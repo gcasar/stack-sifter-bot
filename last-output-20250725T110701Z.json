@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-25T11:00:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T10:31:03Z",
+      "Title": "SQL Syntax: CASE \u003CCOLUMN NAME\u003E for MULTIBLE Values using IN- is it just not valid? [closed]",
+      "Tags": [
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714577/sql-syntax-case-column-name-for-multible-values-using-in-is-it-just-not-vali"
+    },
+    {
+      "Created": "2025-07-25T10:39:41Z",
+      "Title": "Why does saving a WMF file as Bitmap result in a much larger size than when opened in Paint?",
+      "Tags": [
+        "c#",
+        "bitmap",
+        "wmf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714587/why-does-saving-a-wmf-file-as-bitmap-result-in-a-much-larger-size-than-when-open"
+    },
+    {
+      "Created": "2025-07-25T10:39:53Z",
+      "Title": "Using sed to extract second apperance of a block",
+      "Tags": [
+        "bash",
+        "awk",
+        "sed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714588/using-sed-to-extract-second-apperance-of-a-block"
+    },
+    {
+      "Created": "2025-07-25T10:45:10Z",
+      "Title": "Check if Python argparse used explicit CLI argument or default value?",
+      "Tags": [
+        "python",
+        "argparse",
+        "python-tap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714594/check-if-python-argparse-used-explicit-cli-argument-or-default-value"
+    },
+    {
+      "Created": "2025-07-25T10:47:58Z",
+      "Title": "XSD 1.1 assert with XPath containing a predicate involving xsi:type fails",
+      "Tags": [
+        "xml",
+        "xsd",
+        "saxon",
+        "xsd-validation",
+        "xsd-1.1"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714598/xsd-1-1-assert-with-xpath-containing-a-predicate-involving-xsitype-fails"
+    },
+    {
+      "Created": "2025-07-25T10:48:39Z",
+      "Title": "How to find and test for broken connection in circuit soldering? [closed]",
+      "Tags": [
+        "hardware",
+        "circuit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714600/how-to-find-and-test-for-broken-connection-in-circuit-soldering"
+    },
+    {
+      "Created": "2025-07-25T10:50:43Z",
+      "Title": "How to map a list of products in source JSON to a single product in target based on unique ID?",
+      "Tags": [
+        "java",
+        "mapping",
+        "mapstruct"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714606/how-to-map-a-list-of-products-in-source-json-to-a-single-product-in-target-based"
+    },
+    {
+      "Created": "2025-07-25T11:00:37Z",
+      "Title": "How to configure Install4j to log action names",
+      "Tags": [
+        "install4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714615/how-to-configure-install4j-to-log-action-names"
+    }
+  ]
+}

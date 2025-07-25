@@ -1,0 +1,121 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-07-25T16:07:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T15:44:07Z",
+      "Title": "Fitting curve not correct - automatic extrapolation",
+      "Tags": [
+        "python",
+        "opencv",
+        "image-processing",
+        "curve-fitting",
+        "coordinate-transformation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714976/fitting-curve-not-correct-automatic-extrapolation"
+    },
+    {
+      "Created": "2025-07-25T15:49:01Z",
+      "Title": "Getting \u0022ImportError: DLL load failed\u0022 after building an .exe in Python",
+      "Tags": [
+        "opencv",
+        "pyinstaller",
+        "exe",
+        "dllimport",
+        "nuitka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714985/getting-importerror-dll-load-failed-after-building-an-exe-in-python"
+    },
+    {
+      "Created": "2025-07-25T15:54:34Z",
+      "Title": "CsvHelper - Is there a way to pre-process a record before reading with CsvHelper?",
+      "Tags": [
+        ".net",
+        "csvhelper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714990/csvhelper-is-there-a-way-to-pre-process-a-record-before-reading-with-csvhelper"
+    },
+    {
+      "Created": "2025-07-25T15:57:19Z",
+      "Title": "Rancher RKE2 Error \u0022Failed to validate connection to cluster\u0022 (Single-node setup, not HA yet)",
+      "Tags": [
+        "kubernetes",
+        "high-availability",
+        "rancher",
+        "rke2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714995/rancher-rke2-error-failed-to-validate-connection-to-cluster-single-node-setup"
+    },
+    {
+      "Created": "2025-07-25T15:58:10Z",
+      "Title": "Connecting to Synapse using \u0022Microsoft Entra ID - Universal with MFA support\u0022",
+      "Tags": [
+        "node.js",
+        "azure-synapse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714997/connecting-to-synapse-using-microsoft-entra-id-universal-with-mfa-support"
+    },
+    {
+      "Created": "2025-07-25T15:59:09Z",
+      "Title": "How to get file_get_contents to work for Cloudflare Turnstile site verification?",
+      "Tags": [
+        "cloudflare",
+        "captcha",
+        "cloudflare-turnstile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714998/how-to-get-file-get-contents-to-work-for-cloudflare-turnstile-site-verification"
+    },
+    {
+      "Created": "2025-07-25T15:59:26Z",
+      "Title": "Optional fields defaulting to \u0022string\u0022 or 0.0 instead of null in Swagger UI",
+      "Tags": [
+        "python",
+        "fastapi",
+        "swagger-ui",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714999/optional-fields-defaulting-to-string-or-0-0-instead-of-null-in-swagger-ui"
+    },
+    {
+      "Created": "2025-07-25T15:59:39Z",
+      "Title": "Request variable doesn\u0027t work if uses environment variables in .http in Visual Studio 2022",
+      "Tags": [
+        "javascript",
+        ".net",
+        "visual-studio",
+        "rest",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715000/request-variable-doesnt-work-if-uses-environment-variables-in-http-in-visual-s"
+    },
+    {
+      "Created": "2025-07-25T16:00:38Z",
+      "Title": "Can I alaways reduce a struct with a single member in c\u002B\u002B to just it\u0027s member?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715005/can-i-alaways-reduce-a-struct-with-a-single-member-in-c-to-just-its-member"
+    },
+    {
+      "Created": "2025-07-25T16:03:10Z",
+      "Title": "Django REST Framework \u0060pagination_class\u0060 on ViewSet is ignored",
+      "Tags": [
+        "django",
+        "django-rest-framework",
+        "django-views",
+        "django-queryset",
+        "django-pagination"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715008/django-rest-framework-pagination-class-on-viewset-is-ignored"
+    },
+    {
+      "Created": "2025-07-25T16:07:06Z",
+      "Title": "How to sync changes I check in to a git repository across machines automatically",
+      "Tags": [
+        "git",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715014/how-to-sync-changes-i-check-in-to-a-git-repository-across-machines-automatically"
+    }
+  ]
+}

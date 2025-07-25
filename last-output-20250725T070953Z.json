@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-25T07:06:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T06:31:59Z",
+      "Title": "FEAST Feature Store - What is event_timestamp in entity_df parameter of FeatureStore.get_historical_features method",
+      "Tags": [
+        "python",
+        "feast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714277/feast-feature-store-what-is-event-timestamp-in-entity-df-parameter-of-features"
+    },
+    {
+      "Created": "2025-07-25T07:00:32Z",
+      "Title": "Etag Implementation in Magento2",
+      "Tags": [
+        "php",
+        "caching",
+        "magento2",
+        "etag",
+        "magento2.4.7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714315/etag-implementation-in-magento2"
+    },
+    {
+      "Created": "2025-07-25T07:06:46Z",
+      "Title": "#include duplication in Open source afl\u002B\u002B",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714323/include-duplication-in-open-source-afl"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-25T14:03:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T13:56:27Z",
+      "Title": "Is there a possibility to use std::vector\u003CT\u003E as parameter in this case",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714844/is-there-a-possibility-to-use-stdvectort-as-parameter-in-this-case"
+    },
+    {
+      "Created": "2025-07-25T14:03:18Z",
+      "Title": "Deck.gl Heatmap values don\u0027t add up",
+      "Tags": [
+        "angular",
+        "typescript",
+        "deck.gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714857/deck-gl-heatmap-values-dont-add-up"
+    }
+  ]
+}

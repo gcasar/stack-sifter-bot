@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-25T09:03:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T08:49:09Z",
+      "Title": "Python: false output with datetime week and isocalendar()",
+      "Tags": [
+        "python",
+        "datetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714452/python-false-output-with-datetime-week-and-isocalendar"
+    },
+    {
+      "Created": "2025-07-25T08:49:46Z",
+      "Title": "Code fullscreen element responsive by clicking fullscreen button? Simulate a mouse click?",
+      "Tags": [
+        "javascript",
+        "onclick",
+        "click",
+        "fullscreen",
+        "fullscreenchange"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714453/code-fullscreen-element-responsive-by-clicking-fullscreen-button-simulate-a-mou"
+    },
+    {
+      "Created": "2025-07-25T08:56:55Z",
+      "Title": "Can\u0027t create an https listener in azure gateway with an azure app service certificate",
+      "Tags": [
+        "azure",
+        "azure-keyvault",
+        "gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714465/cant-create-an-https-listener-in-azure-gateway-with-an-azure-app-service-certif"
+    },
+    {
+      "Created": "2025-07-25T08:59:08Z",
+      "Title": "Pytest rootdir differs between local and GitHub Actions (macOS)",
+      "Tags": [
+        "python",
+        "github-actions",
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714469/pytest-rootdir-differs-between-local-and-github-actions-macos"
+    },
+    {
+      "Created": "2025-07-25T08:59:56Z",
+      "Title": "Efficient way to partially match stringified JSON in a string column using Prisma (without full JSON match)",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "typescript",
+        "postgresql",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714471/efficient-way-to-partially-match-stringified-json-in-a-string-column-using-prism"
+    },
+    {
+      "Created": "2025-07-25T09:02:13Z",
+      "Title": "shopify admin API create product not working",
+      "Tags": [
+        "php",
+        "shopify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714475/shopify-admin-api-create-product-not-working"
+    },
+    {
+      "Created": "2025-07-25T09:03:35Z",
+      "Title": "Finding rotation vectors and translation vectors given 3D points, 2D points, camera matrix, and distortion coefficients",
+      "Tags": [
+        "python",
+        "opencv",
+        "computer-vision",
+        "opencv-solvepnp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714478/finding-rotation-vectors-and-translation-vectors-given-3d-points-2d-points-cam"
+    }
+  ]
+}

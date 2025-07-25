@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-25T20:05:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T19:53:18Z",
+      "Title": "Firebase/auth mock with JEST is not recognised",
+      "Tags": [
+        "reactjs",
+        "firebase",
+        "jestjs",
+        "firebase-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715191/firebase-auth-mock-with-jest-is-not-recognised"
+    },
+    {
+      "Created": "2025-07-25T19:55:29Z",
+      "Title": "paypal oncomplete handler example",
+      "Tags": [
+        "javascript",
+        "php",
+        "paypal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715194/paypal-oncomplete-handler-example"
+    },
+    {
+      "Created": "2025-07-25T19:58:00Z",
+      "Title": "Are Excel permissions causing runtime error 1004 document not saved when exporting to pdf?",
+      "Tags": [
+        "excel",
+        "vba",
+        "runtime-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715195/are-excel-permissions-causing-runtime-error-1004-document-not-saved-when-exporti"
+    },
+    {
+      "Created": "2025-07-25T19:59:23Z",
+      "Title": "Can\u0027t get python to run this file unless the commented \u0022car picture\u0022 variable is not commented",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715197/cant-get-python-to-run-this-file-unless-the-commented-car-picture-variable-is"
+    },
+    {
+      "Created": "2025-07-25T20:05:59Z",
+      "Title": "Win32 - How to make sure window is painted before it is shown?",
+      "Tags": [
+        "windows",
+        "winapi",
+        "opengl",
+        "wgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715204/win32-how-to-make-sure-window-is-painted-before-it-is-shown"
+    }
+  ]
+}

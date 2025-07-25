@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-25T17:05:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T16:47:04Z",
+      "Title": "How to get certain devices from device manager with Win API?",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715048/how-to-get-certain-devices-from-device-manager-with-win-api"
+    },
+    {
+      "Created": "2025-07-25T16:50:02Z",
+      "Title": "Can I use load(Acquire) \u002B read data \u002B compare_exchange_weak(Relaxed, Acquire) in a concurrent ring buffer?",
+      "Tags": [
+        "rust",
+        "concurrency",
+        "atomic",
+        "memory-barriers",
+        "lock-free"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715050/can-i-use-loadacquire-read-data-compare-exchange-weakrelaxed-acquire-in"
+    },
+    {
+      "Created": "2025-07-25T17:00:05Z",
+      "Title": "Running into ModuleNotFoundError while creating a package",
+      "Tags": [
+        "python-3.x",
+        "package"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715056/running-into-modulenotfounderror-while-creating-a-package"
+    },
+    {
+      "Created": "2025-07-25T17:01:44Z",
+      "Title": "ScreenCapture \u002B CMSampleBuffer logic issue",
+      "Tags": [
+        "swift",
+        "macos",
+        "screencapturekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715058/screencapture-cmsamplebuffer-logic-issue"
+    },
+    {
+      "Created": "2025-07-25T17:05:23Z",
+      "Title": "Unable to load Gemma 3n using LlmInference API",
+      "Tags": [
+        "mediapipe",
+        "tflite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715061/unable-to-load-gemma-3n-using-llminference-api"
+    }
+  ]
+}

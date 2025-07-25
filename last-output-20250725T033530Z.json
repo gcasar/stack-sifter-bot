@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-25T03:33:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T02:46:16Z",
+      "Title": "How to get the directory of the published package for Windows Forms application",
+      "Tags": [
+        "c#",
+        ".net",
+        "winforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714141/how-to-get-the-directory-of-the-published-package-for-windows-forms-application"
+    },
+    {
+      "Created": "2025-07-25T02:49:21Z",
+      "Title": "How to cache serializable data class to Redis using @Cacheable in spring boot?",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "kotlin",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714142/how-to-cache-serializable-data-class-to-redis-using-cacheable-in-spring-boot"
+    },
+    {
+      "Created": "2025-07-25T03:07:04Z",
+      "Title": "Is assigning a reference to a temporary undefined behavior? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "reference",
+        "variable-assignment",
+        "temporary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714146/is-assigning-a-reference-to-a-temporary-undefined-behavior"
+    },
+    {
+      "Created": "2025-07-25T03:14:15Z",
+      "Title": "React Native Android fetch to Ngrok URL fails",
+      "Tags": [
+        "android",
+        "react-native",
+        "ngrok"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714149/react-native-android-fetch-to-ngrok-url-fails"
+    },
+    {
+      "Created": "2025-07-25T03:15:20Z",
+      "Title": "How can I click the first div class under a div class in Playwright testing?",
+      "Tags": [
+        "playwright",
+        "playwright-test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714150/how-can-i-click-the-first-div-class-under-a-div-class-in-playwright-testing"
+    },
+    {
+      "Created": "2025-07-25T03:18:46Z",
+      "Title": "Getting StopIteration when using HuggingFaceEndpoint with LangChain and flan-t5-large",
+      "Tags": [
+        "python",
+        "langchain",
+        "huggingface",
+        "huggingface-tokenizers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714152/getting-stopiteration-when-using-huggingfaceendpoint-with-langchain-and-flan-t5"
+    },
+    {
+      "Created": "2025-07-25T03:33:16Z",
+      "Title": "Why Returning an Address of a Dynamic Allocated Structure Causes Segmentation Fault?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714159/why-returning-an-address-of-a-dynamic-allocated-structure-causes-segmentation-fa"
+    }
+  ]
+}

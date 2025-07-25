@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-25T04:18:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T03:50:50Z",
+      "Title": "Hyperledger Fabric chaincode typescript deploy error \u0022MissingRefError: can\u0027t resolve reference Object from id PatientModel#\u0022",
+      "Tags": [
+        "typescript",
+        "hyperledger-fabric",
+        "hyperledger",
+        "hyperledger-chaincode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714168/hyperledger-fabric-chaincode-typescript-deploy-error-missingreferror-cant-res"
+    },
+    {
+      "Created": "2025-07-25T03:55:23Z",
+      "Title": "Any way to know which wallet to be used to sign in One-Click Auth with Reown iOS SDK?",
+      "Tags": [
+        "ios",
+        "wallet-connect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714171/any-way-to-know-which-wallet-to-be-used-to-sign-in-one-click-auth-with-reown-ios"
+    },
+    {
+      "Created": "2025-07-25T04:09:00Z",
+      "Title": "Managing plaid integration for the same institute for different products",
+      "Tags": [
+        "node.js",
+        "plaid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714176/managing-plaid-integration-for-the-same-institute-for-different-products"
+    },
+    {
+      "Created": "2025-07-25T04:13:18Z",
+      "Title": "How to scatter plot marker size based on astronomy image data?",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "astropy",
+        "astronomy",
+        "fits"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714180/how-to-scatter-plot-marker-size-based-on-astronomy-image-data"
+    },
+    {
+      "Created": "2025-07-25T04:18:55Z",
+      "Title": "Using both clang-format and cpplint leads to race condition",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang-format",
+        "pre-commit-hook",
+        "pre-commit",
+        "cpplint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714182/using-both-clang-format-and-cpplint-leads-to-race-condition"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-25T08:03:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T07:28:31Z",
+      "Title": "Pygame sprite is not visible [duplicate]",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714348/pygame-sprite-is-not-visible"
+    },
+    {
+      "Created": "2025-07-25T08:00:37Z",
+      "Title": "Serilog tracing in Azure Functions using different triggers",
+      "Tags": [
+        "serilog",
+        "serilog-aspnetcore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714389/serilog-tracing-in-azure-functions-using-different-triggers"
+    },
+    {
+      "Created": "2025-07-25T08:02:37Z",
+      "Title": "Unable to Access SD card in android application(unity) at runtime",
+      "Tags": [
+        "c#",
+        "android",
+        "unity-game-engine",
+        "android-sdcard",
+        "android-runtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714392/unable-to-access-sd-card-in-android-applicationunity-at-runtime"
+    },
+    {
+      "Created": "2025-07-25T08:03:26Z",
+      "Title": "Header alignment with sort/filter icons in PrimeReact DataTable",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "datatable",
+        "alignment",
+        "primereact"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714394/header-alignment-with-sort-filter-icons-in-primereact-datatable"
+    },
+    {
+      "Created": "2025-07-25T08:03:48Z",
+      "Title": "How to detect when user switches sheets while editing a formula?",
+      "Tags": [
+        "excel",
+        "vba",
+        "vsto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714396/how-to-detect-when-user-switches-sheets-while-editing-a-formula"
+    }
+  ]
+}

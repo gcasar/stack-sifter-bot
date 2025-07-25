@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-25T01:13:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T00:37:14Z",
+      "Title": "How can I return a Filter Formula reference range?",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714078/how-can-i-return-a-filter-formula-reference-range"
+    },
+    {
+      "Created": "2025-07-25T00:43:18Z",
+      "Title": "Write a program that uses dynamic programming to solve the following problem. Find the point closest to P",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "dynamic-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714085/write-a-program-that-uses-dynamic-programming-to-solve-the-following-problem-fi"
+    },
+    {
+      "Created": "2025-07-25T01:13:03Z",
+      "Title": "How to build multiple HTML entry points with TypeScript injection and nested output folders in Vite?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "webpack",
+        "vite",
+        "bundler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714098/how-to-build-multiple-html-entry-points-with-typescript-injection-and-nested-out"
+    }
+  ]
+}

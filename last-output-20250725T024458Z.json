@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-25T02:44:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T01:46:49Z",
+      "Title": "Inner join on random with 1 match",
+      "Tags": [
+        "sql-server",
+        "t-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714114/inner-join-on-random-with-1-match"
+    },
+    {
+      "Created": "2025-07-25T01:57:46Z",
+      "Title": "Align text bottom with floating images",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714116/align-text-bottom-with-floating-images"
+    },
+    {
+      "Created": "2025-07-25T02:27:43Z",
+      "Title": "Spring Data - Sharing a common model between a transformer API and persistence layer API",
+      "Tags": [
+        "java",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714132/spring-data-sharing-a-common-model-between-a-transformer-api-and-persistence-l"
+    },
+    {
+      "Created": "2025-07-25T02:30:52Z",
+      "Title": "How to compute the smoothed curve defined by gml:CubicSpline in a WAFS SIGWX Forecast?",
+      "Tags": [
+        "python",
+        "spline",
+        "gml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714136/how-to-compute-the-smoothed-curve-defined-by-gmlcubicspline-in-a-wafs-sigwx-for"
+    },
+    {
+      "Created": "2025-07-25T02:44:17Z",
+      "Title": "How to guarantee idempontency while i\u0027m enqueing?",
+      "Tags": [
+        "amazon-s3",
+        "lambda",
+        "queue",
+        "amazon-sqs",
+        "idempotent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79714140/how-to-guarantee-idempontency-while-im-enqueing"
+    }
+  ]
+}

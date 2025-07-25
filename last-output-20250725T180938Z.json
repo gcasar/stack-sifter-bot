@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-25T18:05:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T17:49:12Z",
+      "Title": "Execute Ansible task only when file exists",
+      "Tags": [
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715090/execute-ansible-task-only-when-file-exists"
+    },
+    {
+      "Created": "2025-07-25T17:55:24Z",
+      "Title": "Why does hash((1, 2)) give different results on different systems in Python?",
+      "Tags": [
+        "python",
+        "hash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715094/why-does-hash1-2-give-different-results-on-different-systems-in-python"
+    },
+    {
+      "Created": "2025-07-25T17:56:16Z",
+      "Title": "how I push Django database sqlite3 and media folder on github for production server",
+      "Tags": [
+        "django",
+        "git",
+        "github",
+        "django-deployment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715096/how-i-push-django-database-sqlite3-and-media-folder-on-github-for-production-ser"
+    },
+    {
+      "Created": "2025-07-25T17:58:46Z",
+      "Title": "QTreeWidgetItem disable editing if tab key is pressed",
+      "Tags": [
+        "python",
+        "pyqt5",
+        "qtreewidget",
+        "qtreewidgetitem"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715098/qtreewidgetitem-disable-editing-if-tab-key-is-pressed"
+    },
+    {
+      "Created": "2025-07-25T17:59:35Z",
+      "Title": "Using a Python Protocol to type hint a specific implementation of a class that contains polymorphic attributes",
+      "Tags": [
+        "python",
+        "python-typing",
+        "typechecking",
+        "structural-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715099/using-a-python-protocol-to-type-hint-a-specific-implementation-of-a-class-that-c"
+    },
+    {
+      "Created": "2025-07-25T18:03:31Z",
+      "Title": "rewrite rules, doc root, and anchors",
+      "Tags": [
+        "html",
+        ".htaccess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715103/rewrite-rules-doc-root-and-anchors"
+    },
+    {
+      "Created": "2025-07-25T18:05:39Z",
+      "Title": "Replicate PIL.Image.show() scaling and normalization",
+      "Tags": [
+        "matplotlib",
+        "python-imaging-library",
+        "ocr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715106/replicate-pil-image-show-scaling-and-normalization"
+    }
+  ]
+}

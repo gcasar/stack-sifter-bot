@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-25T21:05:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T20:14:39Z",
+      "Title": "Cannot create a release with intellij IDEA due to java.lang.SecurityException exception",
+      "Tags": [
+        "java",
+        "intellij-idea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715211/cannot-create-a-release-with-intellij-idea-due-to-java-lang-securityexception-ex"
+    },
+    {
+      "Created": "2025-07-25T20:40:29Z",
+      "Title": "CMake 3.24.4 bootstrap sees correct compilers, but skips them in favor of system compilers",
+      "Tags": [
+        "c\u002B\u002B11",
+        "gcc",
+        "cmake",
+        "build",
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715229/cmake-3-24-4-bootstrap-sees-correct-compilers-but-skips-them-in-favor-of-system"
+    },
+    {
+      "Created": "2025-07-25T20:57:54Z",
+      "Title": "How to map a collection of e-mail addresses as ICollection\u003CEmailAddress\u003E instead of ICollection\u003Cstring\u003E using FluentNhibernate?",
+      "Tags": [
+        "c#",
+        "nhibernate",
+        "fluent-nhibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715240/how-to-map-a-collection-of-e-mail-addresses-as-icollectionemailaddress-instead"
+    },
+    {
+      "Created": "2025-07-25T20:58:13Z",
+      "Title": "VS Code: How to have global Find functionality for my workspace?",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715241/vs-code-how-to-have-global-find-functionality-for-my-workspace"
+    },
+    {
+      "Created": "2025-07-25T20:59:26Z",
+      "Title": "Need help making a google sheets apps script to hide rows based on colour to work on multiple sheets",
+      "Tags": [
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715242/need-help-making-a-google-sheets-apps-script-to-hide-rows-based-on-colour-to-wor"
+    },
+    {
+      "Created": "2025-07-25T21:05:17Z",
+      "Title": "RabbitMQ - Consume a Large Volume of Messages from a Queue withou ACK",
+      "Tags": [
+        "python",
+        "rabbitmq",
+        "pika"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715248/rabbitmq-consume-a-large-volume-of-messages-from-a-queue-withou-ack"
+    }
+  ]
+}

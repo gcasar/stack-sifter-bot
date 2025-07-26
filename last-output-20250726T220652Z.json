@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-26T22:03:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T21:35:10Z",
+      "Title": "How to create and manipulate JavaScript Date objects from Brython",
+      "Tags": [
+        "javascript",
+        "python",
+        "datetime",
+        "brython"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716018/how-to-create-and-manipulate-javascript-date-objects-from-brython"
+    },
+    {
+      "Created": "2025-07-26T21:44:47Z",
+      "Title": "Using qKnowledgeGradient with SaasFullyBayesianSingleTaskGP gives shape mismatch error",
+      "Tags": [
+        "python",
+        "debugging",
+        "data-science",
+        "bayesian",
+        "botorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716022/using-qknowledgegradient-with-saasfullybayesiansingletaskgp-gives-shape-mismatch"
+    },
+    {
+      "Created": "2025-07-26T21:55:10Z",
+      "Title": "View creation needs to wait on class instantiation",
+      "Tags": [
+        "swift",
+        "completion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716025/view-creation-needs-to-wait-on-class-instantiation"
+    },
+    {
+      "Created": "2025-07-26T22:03:20Z",
+      "Title": "Listing services and details on multiple servers but not getting the computer name",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716029/listing-services-and-details-on-multiple-servers-but-not-getting-the-computer-na"
+    },
+    {
+      "Created": "2025-07-26T22:03:59Z",
+      "Title": "Why is _WINDOWS defined for Qt 6, CMake?",
+      "Tags": [
+        "windows",
+        "qt",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716030/why-is-windows-defined-for-qt-6-cmake"
+    }
+  ]
+}

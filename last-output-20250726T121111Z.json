@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-26T12:04:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T11:54:39Z",
+      "Title": "Pop-up login in next-auth directing immediately to provider auth page",
+      "Tags": [
+        "next.js",
+        "google-oauth",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715646/pop-up-login-in-next-auth-directing-immediately-to-provider-auth-page"
+    },
+    {
+      "Created": "2025-07-26T11:55:22Z",
+      "Title": "Apache apisix returns status 403 for amin/routes",
+      "Tags": [
+        "apache-apisix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715647/apache-apisix-returns-status-403-for-amin-routes"
+    },
+    {
+      "Created": "2025-07-26T11:57:40Z",
+      "Title": "Implementing Lightweight chart custom plugin with konva",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "konvajs",
+        "lightweight-charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715650/implementing-lightweight-chart-custom-plugin-with-konva"
+    },
+    {
+      "Created": "2025-07-26T11:58:01Z",
+      "Title": "Azure Functions on Linux Flex Consumption: Logging works from browser but not from Python client",
+      "Tags": [
+        "python",
+        "azure",
+        "function",
+        "logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715651/azure-functions-on-linux-flex-consumption-logging-works-from-browser-but-not-fr"
+    },
+    {
+      "Created": "2025-07-26T11:58:21Z",
+      "Title": "Misalignment between a raster overlay and DEM in rayshader 3D maps",
+      "Tags": [
+        "r",
+        "openstreetmap",
+        "raster"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715652/misalignment-between-a-raster-overlay-and-dem-in-rayshader-3d-maps"
+    },
+    {
+      "Created": "2025-07-26T12:04:12Z",
+      "Title": "what happenend to FastStringMap.class after gwt version 2.5",
+      "Tags": [
+        "gwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715656/what-happenend-to-faststringmap-class-after-gwt-version-2-5"
+    }
+  ]
+}

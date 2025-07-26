@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-26T13:11:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T12:39:39Z",
+      "Title": "Why does reassigning a function argument reference cause a lifetime error in Rust?",
+      "Tags": [
+        "rust",
+        "lifetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715671/why-does-reassigning-a-function-argument-reference-cause-a-lifetime-error-in-rus"
+    },
+    {
+      "Created": "2025-07-26T12:45:54Z",
+      "Title": "How to bind outputs to ng-template in Angular 20?",
+      "Tags": [
+        "angular",
+        "ng-template",
+        "angular-signals",
+        "ng-component-outlet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715679/how-to-bind-outputs-to-ng-template-in-angular-20"
+    },
+    {
+      "Created": "2025-07-26T12:46:32Z",
+      "Title": "Flickering for objects when rendered at large world",
+      "Tags": [
+        "c#",
+        "wpf",
+        "sharpdx",
+        "helix-3d-toolkit",
+        "helix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715681/flickering-for-objects-when-rendered-at-large-world"
+    },
+    {
+      "Created": "2025-07-26T12:58:13Z",
+      "Title": "Long path name in folders cannot renaming file",
+      "Tags": [
+        "vb.net",
+        "winforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715684/long-path-name-in-folders-cannot-renaming-file"
+    },
+    {
+      "Created": "2025-07-26T12:58:14Z",
+      "Title": "3D Model Compression for Website Integration",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "web",
+        "blender"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715685/3d-model-compression-for-website-integration"
+    },
+    {
+      "Created": "2025-07-26T13:07:40Z",
+      "Title": "How to get optimized images in Astro without altering their primary URLs to Astro-specific locations?",
+      "Tags": [
+        "astrojs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715689/how-to-get-optimized-images-in-astro-without-altering-their-primary-urls-to-astr"
+    },
+    {
+      "Created": "2025-07-26T13:07:43Z",
+      "Title": "R: meta::metacont() is ignoring weights",
+      "Tags": [
+        "r",
+        "weighted",
+        "meta-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715690/r-metametacont-is-ignoring-weights"
+    },
+    {
+      "Created": "2025-07-26T13:11:17Z",
+      "Title": "SSL not available",
+      "Tags": [
+        "python",
+        "ssl",
+        "websocket",
+        "openssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715694/ssl-not-available"
+    }
+  ]
+}

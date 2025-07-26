@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-26T08:04:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T07:47:21Z",
+      "Title": "Unity - Mouse/Touch click doesnt work while On-Screen Button is active",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715505/unity-mouse-touch-click-doesnt-work-while-on-screen-button-is-active"
+    },
+    {
+      "Created": "2025-07-26T08:04:38Z",
+      "Title": "TypeCasting Math.pow(2,31) to int is not wrapping around as expected?",
+      "Tags": [
+        "java",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715510/typecasting-math-pow2-31-to-int-is-not-wrapping-around-as-expected"
+    }
+  ]
+}

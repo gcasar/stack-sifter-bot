@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-26T03:59:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T03:57:19Z",
+      "Title": "Skeleton loading with dynamic search results from API response",
+      "Tags": [
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715396/skeleton-loading-with-dynamic-search-results-from-api-response"
+    },
+    {
+      "Created": "2025-07-26T03:59:35Z",
+      "Title": "Forge 1.12.2: ContainerATM class mysteriously duplicates to thousands of lines during build \u2014 what causes this and how do I stop it?",
+      "Tags": [
+        "java",
+        "minecraft-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715397/forge-1-12-2-containeratm-class-mysteriously-duplicates-to-thousands-of-lines-d"
+    }
+  ]
+}

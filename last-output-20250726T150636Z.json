@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-26T15:03:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T14:25:16Z",
+      "Title": "Why doesn\u0027t the Windows C compiler reuse incoming shadow space in noreturn functions?",
+      "Tags": [
+        "c",
+        "windows",
+        "assembly",
+        "x86-64",
+        "compiler-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715742/why-doesnt-the-windows-c-compiler-reuse-incoming-shadow-space-in-noreturn-funct"
+    },
+    {
+      "Created": "2025-07-26T14:56:52Z",
+      "Title": "How to trigger an event or a callback every time GlobalKTable receives data",
+      "Tags": [
+        "spring-boot",
+        "spring-kafka",
+        "apache-kafka-streams",
+        "apache-kafka-connect",
+        "spring-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715766/how-to-trigger-an-event-or-a-callback-every-time-globalktable-receives-data"
+    },
+    {
+      "Created": "2025-07-26T14:57:02Z",
+      "Title": "Tesseract unable to recognise the letter O in plain image",
+      "Tags": [
+        "python",
+        "ocr",
+        "tesseract",
+        "python-tesseract"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715767/tesseract-unable-to-recognise-the-letter-o-in-plain-image"
+    },
+    {
+      "Created": "2025-07-26T15:03:31Z",
+      "Title": "Using multiple programming languages in one project",
+      "Tags": [
+        "javascript",
+        "python",
+        "c\u002B\u002B",
+        "integration",
+        "multilingual"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715774/using-multiple-programming-languages-in-one-project"
+    }
+  ]
+}

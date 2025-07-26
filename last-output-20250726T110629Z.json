@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-26T10:49:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T10:29:03Z",
+      "Title": "When using scipy.optimize.curve_fit what is the optimal formulation of the function being fitted?",
+      "Tags": [
+        "python",
+        "scipy",
+        "curve-fitting",
+        "scipy-optimize"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715602/when-using-scipy-optimize-curve-fit-what-is-the-optimal-formulation-of-the-funct"
+    },
+    {
+      "Created": "2025-07-26T10:49:02Z",
+      "Title": "In React ES6, why does the input field lose focus after typing a character unless I add autofocus, but still the whole page reloads?",
+      "Tags": [
+        "javascript",
+        "html",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715607/in-react-es6-why-does-the-input-field-lose-focus-after-typing-a-character-unles"
+    }
+  ]
+}

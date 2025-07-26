@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-26T20:05:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T19:32:58Z",
+      "Title": "\u0022Expo Router shows \u0027Welcome to Expo\u0027 screen despite correct configuration\u0022",
+      "Tags": [
+        "react-native",
+        "expo",
+        "expo-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715952/expo-router-shows-welcome-to-expo-screen-despite-correct-configuration"
+    },
+    {
+      "Created": "2025-07-26T19:37:04Z",
+      "Title": "Laravel Cashier - How to manage subscription phases",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-cashier"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715955/laravel-cashier-how-to-manage-subscription-phases"
+    },
+    {
+      "Created": "2025-07-26T19:58:07Z",
+      "Title": "\u201CCryptographicException: Chain instance is empty.\u201D error when connecting a Unity server in a Docker container to a MySQL server on a Linux VM",
+      "Tags": [
+        "mysql",
+        "docker",
+        "unity-game-engine",
+        "ssl-certificate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715963/cryptographicexception-chain-instance-is-empty-error-when-connecting-a-unity"
+    },
+    {
+      "Created": "2025-07-26T20:00:13Z",
+      "Title": "awk printf long number padding output incorrect",
+      "Tags": [
+        "awk",
+        "printf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715967/awk-printf-long-number-padding-output-incorrect"
+    },
+    {
+      "Created": "2025-07-26T20:05:50Z",
+      "Title": "Why is Excel VBA adding @ symbols to my formulas after copying sheets?",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715968/why-is-excel-vba-adding-symbols-to-my-formulas-after-copying-sheets"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-26T06:00:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T05:46:08Z",
+      "Title": "Gemini API: Grounding with Google Search",
+      "Tags": [
+        "artificial-intelligence",
+        "google-search",
+        "google-gemini",
+        "gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715445/gemini-api-grounding-with-google-search"
+    },
+    {
+      "Created": "2025-07-26T06:00:48Z",
+      "Title": "When would you need to define your own custom MCP client?",
+      "Tags": [
+        "python",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715450/when-would-you-need-to-define-your-own-custom-mcp-client"
+    }
+  ]
+}

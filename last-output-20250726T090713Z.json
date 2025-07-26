@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-26T08:26:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T08:19:23Z",
+      "Title": "Angular \u002B Nx: Cannot resolve module aliases like @frontend/* even with correct tsconfig.paths",
+      "Tags": [
+        "angular",
+        "typescript",
+        "monorepo",
+        "tsconfig",
+        "tsconfig-paths"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715522/angular-nx-cannot-resolve-module-aliases-like-frontend-even-with-correct-t"
+    },
+    {
+      "Created": "2025-07-26T08:26:43Z",
+      "Title": "Minimum cost of an array [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "vector",
+        "arraylist",
+        "syntax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715525/minimum-cost-of-an-array"
+    }
+  ]
+}

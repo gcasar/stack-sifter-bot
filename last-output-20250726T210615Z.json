@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-26T20:41:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T20:28:51Z",
+      "Title": "\u0027Nephew\u0027 node null in \u0027Uncle\u0027 node\u0027s export variable despite being assigned in inspector",
+      "Tags": [
+        "godot",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715976/nephew-node-null-in-uncle-nodes-export-variable-despite-being-assigned-in-i"
+    },
+    {
+      "Created": "2025-07-26T20:41:43Z",
+      "Title": "Pi-hole host cannot resolve any host but its clients can [closed]",
+      "Tags": [
+        "debian-based",
+        "unbound",
+        "pihole"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715986/pi-hole-host-cannot-resolve-any-host-but-its-clients-can"
+    }
+  ]
+}

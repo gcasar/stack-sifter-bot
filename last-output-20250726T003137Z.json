@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-26T00:11:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-25T23:20:47Z",
+      "Title": "Are there any abstract interpreters for ES6/TS?",
+      "Tags": [
+        "javascript",
+        "babeljs",
+        "type-inference",
+        "control-flow-graph",
+        "abstract-interpretation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715308/are-there-any-abstract-interpreters-for-es6-ts"
+    },
+    {
+      "Created": "2025-07-25T23:55:50Z",
+      "Title": "Tasmota html status",
+      "Tags": [
+        "html",
+        "json",
+        "cors",
+        "tasmota"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715322/tasmota-html-status"
+    },
+    {
+      "Created": "2025-07-26T00:11:09Z",
+      "Title": "Stop slippery user scrolling in Javascript",
+      "Tags": [
+        "javascript",
+        "scroll"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715331/stop-slippery-user-scrolling-in-javascript"
+    }
+  ]
+}

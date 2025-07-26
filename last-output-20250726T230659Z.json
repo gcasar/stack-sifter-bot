@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-26T22:31:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T22:24:16Z",
+      "Title": "Borrowing of mutable references and lifetimes in Rust",
+      "Tags": [
+        "rust",
+        "lifetime",
+        "borrow-checker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716039/borrowing-of-mutable-references-and-lifetimes-in-rust"
+    },
+    {
+      "Created": "2025-07-26T22:24:16Z",
+      "Title": "Caching rendered templates in Spring Boot",
+      "Tags": [
+        "spring-boot",
+        "spring-cache",
+        "jte"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716038/caching-rendered-templates-in-spring-boot"
+    },
+    {
+      "Created": "2025-07-26T22:31:29Z",
+      "Title": "Run HTTP Toolkit proxy and rewrite requests locally on rooted Android",
+      "Tags": [
+        "http-toolkit",
+        "mockttp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716041/run-http-toolkit-proxy-and-rewrite-requests-locally-on-rooted-android"
+    }
+  ]
+}

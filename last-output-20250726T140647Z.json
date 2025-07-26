@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-26T14:04:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T13:32:49Z",
+      "Title": "Extended-Event Source fails to receive event after reconnection",
+      "Tags": [
+        "vite",
+        "server-sent-events",
+        "eventsourcepolyfill"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715704/extended-event-source-fails-to-receive-event-after-reconnection"
+    },
+    {
+      "Created": "2025-07-26T13:53:10Z",
+      "Title": "Astro render component in pages/[...path].ts",
+      "Tags": [
+        "astrojs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715713/astro-render-component-in-pages-path-ts"
+    },
+    {
+      "Created": "2025-07-26T14:01:11Z",
+      "Title": "OpenXML - CellFormat class and properties like ApplyFont, ApplyFill etc",
+      "Tags": [
+        "c#",
+        "excel",
+        "openxml-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715719/openxml-cellformat-class-and-properties-like-applyfont-applyfill-etc"
+    },
+    {
+      "Created": "2025-07-26T14:04:04Z",
+      "Title": "python - it looks like the if statement is been ignored",
+      "Tags": [
+        "python",
+        "file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715721/python-it-looks-like-the-if-statement-is-been-ignored"
+    },
+    {
+      "Created": "2025-07-26T14:04:54Z",
+      "Title": "Convince System.Text.Json to ignore a property with the \u0060required\u0060 modifier",
+      "Tags": [
+        "c#",
+        "system.text.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715723/convince-system-text-json-to-ignore-a-property-with-the-required-modifier"
+    }
+  ]
+}

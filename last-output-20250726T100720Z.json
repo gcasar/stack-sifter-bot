@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-26T10:05:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T09:48:24Z",
+      "Title": "On Delete set null not behaving as expected with sqlite",
+      "Tags": [
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715574/on-delete-set-null-not-behaving-as-expected-with-sqlite"
+    },
+    {
+      "Created": "2025-07-26T09:48:37Z",
+      "Title": "How to parse environment variables using GitHub Actions secrets with Spring Boot (Maven)?",
+      "Tags": [
+        "spring",
+        "postgresql",
+        "maven",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715575/how-to-parse-environment-variables-using-github-actions-secrets-with-spring-boot"
+    },
+    {
+      "Created": "2025-07-26T09:49:13Z",
+      "Title": "Simple XOR loop in NASM",
+      "Tags": [
+        "c",
+        "windows",
+        "assembly",
+        "nasm",
+        "executable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715576/simple-xor-loop-in-nasm"
+    },
+    {
+      "Created": "2025-07-26T09:50:34Z",
+      "Title": "Visual Signature is not appearing after digitally signed it using node.js",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "certificate",
+        "pdf-generation",
+        "digital-signature"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715578/visual-signature-is-not-appearing-after-digitally-signed-it-using-node-js"
+    },
+    {
+      "Created": "2025-07-26T09:55:39Z",
+      "Title": "Display and update short text next to system tray icon",
+      "Tags": [
+        "python",
+        "pyside6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715582/display-and-update-short-text-next-to-system-tray-icon"
+    },
+    {
+      "Created": "2025-07-26T09:58:03Z",
+      "Title": "IBM MQ 2059 (MQRC_Q_MGR_NOT_AVAILABLE) error in .NET using XMS with certificate-based SSL setup",
+      "Tags": [
+        "c#",
+        "ssl",
+        "ibm-mq",
+        "xms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715583/ibm-mq-2059-mqrc-q-mgr-not-available-error-in-net-using-xms-with-certificate"
+    },
+    {
+      "Created": "2025-07-26T09:59:58Z",
+      "Title": "Can\u0027t access headers.origin in NextJS middleware (App router)",
+      "Tags": [
+        "next.js",
+        "middleware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715585/cant-access-headers-origin-in-nextjs-middleware-app-router"
+    },
+    {
+      "Created": "2025-07-26T10:02:07Z",
+      "Title": "Using CTaskDialog with hyperlinks is messing up multiline command buttons",
+      "Tags": [
+        "visual-c\u002B\u002B",
+        "mfc",
+        "taskdialog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715587/using-ctaskdialog-with-hyperlinks-is-messing-up-multiline-command-buttons"
+    },
+    {
+      "Created": "2025-07-26T10:05:49Z",
+      "Title": "Adding a list of variables to a spreadsheet",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715590/adding-a-list-of-variables-to-a-spreadsheet"
+    }
+  ]
+}

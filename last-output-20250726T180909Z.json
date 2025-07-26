@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-26T17:56:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T17:26:29Z",
+      "Title": "Specializing std::hash for std::pair\u003Cint, int\u003E",
+      "Tags": [
+        "c\u002B\u002B",
+        "hash",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715869/specializing-stdhash-for-stdpairint-int"
+    },
+    {
+      "Created": "2025-07-26T17:36:26Z",
+      "Title": "Flash doesn\u0027t show up on app_default",
+      "Tags": [
+        "symfony",
+        "twig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715873/flash-doesnt-show-up-on-app-default"
+    },
+    {
+      "Created": "2025-07-26T17:47:17Z",
+      "Title": "How do I wite unit tests for a visual c\u002B\u002B project which builds a .dll without a .lib - the suggested methods of writing unit tests require a .lib",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "unit-testing",
+        "dll"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715878/how-do-i-wite-unit-tests-for-a-visual-c-project-which-builds-a-dll-without-a"
+    },
+    {
+      "Created": "2025-07-26T17:56:39Z",
+      "Title": "Exclusive group of arguments with optional values",
+      "Tags": [
+        "python",
+        "argparse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715882/exclusive-group-of-arguments-with-optional-values"
+    }
+  ]
+}

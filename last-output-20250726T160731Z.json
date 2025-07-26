@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-26T16:06:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T15:10:17Z",
+      "Title": "Why does conditional formatting break when AND contains OFFSET?",
+      "Tags": [
+        "excel",
+        "excel-formula",
+        "conditional-formatting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715781/why-does-conditional-formatting-break-when-and-contains-offset"
+    },
+    {
+      "Created": "2025-07-26T16:01:09Z",
+      "Title": "Altair fails to render chart out of pandas dataframe",
+      "Tags": [
+        "python",
+        "pandas",
+        "streamlit",
+        "altair"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715814/altair-fails-to-render-chart-out-of-pandas-dataframe"
+    },
+    {
+      "Created": "2025-07-26T16:06:05Z",
+      "Title": "How to customize Header and Footer in Firefox Print Menu?",
+      "Tags": [
+        "ubuntu",
+        "firefox",
+        "printing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79715815/how-to-customize-header-and-footer-in-firefox-print-menu"
+    }
+  ]
+}

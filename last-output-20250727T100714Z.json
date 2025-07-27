@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-27T10:04:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T09:15:34Z",
+      "Title": "Efficient extraction of first/only key in a dictionary",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716280/efficient-extraction-of-first-only-key-in-a-dictionary"
+    },
+    {
+      "Created": "2025-07-27T09:30:47Z",
+      "Title": "Get time since midnight in milliseconds in python [duplicate]",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "python-2.7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716291/get-time-since-midnight-in-milliseconds-in-python"
+    },
+    {
+      "Created": "2025-07-27T09:33:20Z",
+      "Title": "How to identify packages installed in docker by Alpine-linux OS using PKGINFO? [closed]",
+      "Tags": [
+        "alpine-linux",
+        "alpine-package-keeper",
+        "package-info"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716293/how-to-identify-packages-installed-in-docker-by-alpine-linux-os-using-pkginfo"
+    },
+    {
+      "Created": "2025-07-27T09:35:28Z",
+      "Title": "GLTF model loses interactivity in Three.js after adding materials in Blender",
+      "Tags": [
+        "three.js",
+        "rendering",
+        "blender",
+        "gltf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716295/gltf-model-loses-interactivity-in-three-js-after-adding-materials-in-blender"
+    },
+    {
+      "Created": "2025-07-27T09:55:05Z",
+      "Title": "Unclear execution order of Kotlin coroutines",
+      "Tags": [
+        "kotlin",
+        "kotlin-coroutines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716307/unclear-execution-order-of-kotlin-coroutines"
+    },
+    {
+      "Created": "2025-07-27T10:04:20Z",
+      "Title": "How can I change the shape of the dataframe to have two headers when I have duplicated values?",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716309/how-can-i-change-the-shape-of-the-dataframe-to-have-two-headers-when-i-have-dupl"
+    }
+  ]
+}

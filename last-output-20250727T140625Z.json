@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-27T14:01:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T13:33:34Z",
+      "Title": "How to send ethereum from metamask account to a smart contract",
+      "Tags": [
+        "solidity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716436/how-to-send-ethereum-from-metamask-account-to-a-smart-contract"
+    },
+    {
+      "Created": "2025-07-27T13:37:59Z",
+      "Title": "Container Queries not working with Tailwind v4 and Next.js 15",
+      "Tags": [
+        "tailwind-css",
+        "tailwind-css-4",
+        "nextjs-15",
+        "container-queries"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716438/container-queries-not-working-with-tailwind-v4-and-next-js-15"
+    },
+    {
+      "Created": "2025-07-27T13:38:06Z",
+      "Title": "Need clarification on the CVE in spring boot",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716439/need-clarification-on-the-cve-in-spring-boot"
+    },
+    {
+      "Created": "2025-07-27T13:39:37Z",
+      "Title": "How to format brace for array element into new line?",
+      "Tags": [
+        "c\u002B\u002B",
+        "formatting",
+        "clang-format"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716440/how-to-format-brace-for-array-element-into-new-line"
+    },
+    {
+      "Created": "2025-07-27T13:42:37Z",
+      "Title": "looking for specific api call using titanium web proxy in my c# app doesn\u0027t work but when i use fiddler classic it works",
+      "Tags": [
+        "c#",
+        "proxy",
+        "fiddler",
+        "fiddlercore",
+        "titanium-web-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716442/looking-for-specific-api-call-using-titanium-web-proxy-in-my-c-sharp-app-doesnt"
+    },
+    {
+      "Created": "2025-07-27T13:45:45Z",
+      "Title": "FreeBSD Jail Run .NET Application on Startup",
+      "Tags": [
+        ".net",
+        "startup",
+        "freebsd",
+        "jail"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716443/freebsd-jail-run-net-application-on-startup"
+    },
+    {
+      "Created": "2025-07-27T13:50:55Z",
+      "Title": "Animating angular form",
+      "Tags": [
+        "angular",
+        "angular-material",
+        "angular-forms",
+        "angular-animations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716446/animating-angular-form"
+    },
+    {
+      "Created": "2025-07-27T13:51:31Z",
+      "Title": "Ensure a value is in a specific register both in GCC and MSVC on windows x64",
+      "Tags": [
+        "c\u002B\u002B",
+        "assembly",
+        "gcc",
+        "visual-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716447/ensure-a-value-is-in-a-specific-register-both-in-gcc-and-msvc-on-windows-x64"
+    },
+    {
+      "Created": "2025-07-27T14:01:15Z",
+      "Title": "For CMake custom commands, should the command\u0027s executable be a dependency?",
+      "Tags": [
+        "cmake",
+        "dependency-management",
+        "cmake-custom-command"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716454/for-cmake-custom-commands-should-the-commands-executable-be-a-dependency"
+    }
+  ]
+}

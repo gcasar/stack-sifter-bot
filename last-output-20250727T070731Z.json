@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-27T06:51:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T06:32:43Z",
+      "Title": "Codeigniter 4.6 Connect model in controller",
+      "Tags": [
+        "database",
+        "model",
+        "controller",
+        "codeigniter-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716196/codeigniter-4-6-connect-model-in-controller"
+    },
+    {
+      "Created": "2025-07-27T06:44:23Z",
+      "Title": "Using object type in function definitions as the top most unknown type",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716199/using-object-type-in-function-definitions-as-the-top-most-unknown-type"
+    },
+    {
+      "Created": "2025-07-27T06:51:01Z",
+      "Title": "String to data-conversion: Why is it necessary to specify the character encoding?",
+      "Tags": [
+        "swift",
+        "utf-8",
+        "character-encoding",
+        "character"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716203/string-to-data-conversion-why-is-it-necessary-to-specify-the-character-encoding"
+    },
+    {
+      "Created": "2025-07-27T06:51:52Z",
+      "Title": "htmx web socket extension not rendering server messages",
+      "Tags": [
+        "python",
+        "django",
+        "websocket",
+        "django-channels",
+        "htmx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716207/htmx-web-socket-extension-not-rendering-server-messages"
+    }
+  ]
+}

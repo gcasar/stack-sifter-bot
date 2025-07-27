@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-27T14:46:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T14:39:19Z",
+      "Title": "should I ignore node_modules folder in packagerConfig in forge.config.js file?",
+      "Tags": [
+        "node.js",
+        "electron",
+        "windows-11",
+        "electron-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716473/should-i-ignore-node-modules-folder-in-packagerconfig-in-forge-config-js-file"
+    },
+    {
+      "Created": "2025-07-27T14:45:21Z",
+      "Title": "SPIR-V extension suddenly needed to use discard, why?",
+      "Tags": [
+        "glsl",
+        "vulkan",
+        "validation-layers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716476/spir-v-extension-suddenly-needed-to-use-discard-why"
+    },
+    {
+      "Created": "2025-07-27T14:46:30Z",
+      "Title": "Performance issue with Python, Mongo, Redis and pingpong threshold?",
+      "Tags": [
+        "python",
+        "linux",
+        "mongodb",
+        "redis",
+        "linux-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716478/performance-issue-with-python-mongo-redis-and-pingpong-threshold"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-27T20:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T19:19:14Z",
+      "Title": "FreeRadius fails to start [closed]",
+      "Tags": [
+        "authentication",
+        "ubuntu",
+        "freeradius"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716631/freeradius-fails-to-start"
+    },
+    {
+      "Created": "2025-07-27T19:41:55Z",
+      "Title": "Why does ISymbol.ContainingNamespace always return System for nullable structs?",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "roslyn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716649/why-does-isymbol-containingnamespace-always-return-system-for-nullable-structs"
+    },
+    {
+      "Created": "2025-07-27T19:54:06Z",
+      "Title": "How to change sprite image in Unity?",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716654/how-to-change-sprite-image-in-unity"
+    },
+    {
+      "Created": "2025-07-27T20:01:20Z",
+      "Title": "Model Summary not picking up from the model",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "large-language-model",
+        "bert-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716660/model-summary-not-picking-up-from-the-model"
+    },
+    {
+      "Created": "2025-07-27T20:04:10Z",
+      "Title": "Uncaught ReferenceError: __dirname is not defined",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "windows-11",
+        "uncaught-reference-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716662/uncaught-referenceerror-dirname-is-not-defined"
+    }
+  ]
+}

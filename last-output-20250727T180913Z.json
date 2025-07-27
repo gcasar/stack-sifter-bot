@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-27T17:55:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T17:30:29Z",
+      "Title": "Groovy Unit Test Fails with null value for an attribute when mocking that in java class",
+      "Tags": [
+        "java",
+        "unit-testing",
+        "groovy",
+        "junit",
+        "spock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716578/groovy-unit-test-fails-with-null-value-for-an-attribute-when-mocking-that-in-jav"
+    },
+    {
+      "Created": "2025-07-27T17:38:41Z",
+      "Title": "MudBlazor MudTable Sortby idictionary gives strange sorting icons which are not clickable",
+      "Tags": [
+        "c#",
+        "mudblazor",
+        "idictionary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716583/mudblazor-mudtable-sortby-idictionary-gives-strange-sorting-icons-which-are-not"
+    },
+    {
+      "Created": "2025-07-27T17:43:29Z",
+      "Title": "Rails Turbo \u0022content missing\u0022 when using button_to to refresh it",
+      "Tags": [
+        "ruby-on-rails",
+        "turbo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716586/rails-turbo-content-missing-when-using-button-to-to-refresh-it"
+    },
+    {
+      "Created": "2025-07-27T17:55:10Z",
+      "Title": "PARI/GP code that uses nfroots to compute roots of polynomial in terms of power basis",
+      "Tags": [
+        "math",
+        "number-theory",
+        "pari"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716590/pari-gp-code-that-uses-nfroots-to-compute-roots-of-polynomial-in-terms-of-power"
+    }
+  ]
+}

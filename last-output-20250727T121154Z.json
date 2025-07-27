@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-27T12:00:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T11:37:38Z",
+      "Title": "Get telegram\u0027s chat\u0027s history",
+      "Tags": [
+        "python",
+        "telegram",
+        "python-telegram-bot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716375/get-telegrams-chats-history"
+    },
+    {
+      "Created": "2025-07-27T11:55:35Z",
+      "Title": "How to use Enums in Predicates with @Query and SwiftData",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716380/how-to-use-enums-in-predicates-with-query-and-swiftdata"
+    },
+    {
+      "Created": "2025-07-27T12:00:19Z",
+      "Title": "Should I split useWatch into individual calls to avoid unnecessary useEffect triggers in React Hook Form?",
+      "Tags": [
+        "reactjs",
+        "react-hook-form"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716383/should-i-split-usewatch-into-individual-calls-to-avoid-unnecessary-useeffect-tri"
+    }
+  ]
+}

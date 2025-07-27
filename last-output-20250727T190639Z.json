@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-27T19:02:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T18:28:00Z",
+      "Title": "How to use BuildContext in async method",
+      "Tags": [
+        "flutter",
+        "asynchronous"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716607/how-to-use-buildcontext-in-async-method"
+    },
+    {
+      "Created": "2025-07-27T18:30:51Z",
+      "Title": "Why does my list of swapped permutations not produce the expected output? [duplicate]",
+      "Tags": [
+        "python",
+        "list",
+        "reference",
+        "append",
+        "swap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716608/why-does-my-list-of-swapped-permutations-not-produce-the-expected-output"
+    },
+    {
+      "Created": "2025-07-27T18:37:46Z",
+      "Title": "How can I bind the results from a paginated ASP.NET Web API endpoint to a jQuery DataTables table in my ASP.NET MVC view?",
+      "Tags": [
+        "asp.net",
+        "datatable",
+        "pagination"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716611/how-can-i-bind-the-results-from-a-paginated-asp-net-web-api-endpoint-to-a-jquery"
+    },
+    {
+      "Created": "2025-07-27T18:39:06Z",
+      "Title": "Can\u0027t success print ParallelSSHClient exception string returned",
+      "Tags": [
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716612/cant-success-print-parallelsshclient-exception-string-returned"
+    },
+    {
+      "Created": "2025-07-27T18:52:37Z",
+      "Title": "WPF - How to bind List item inside DataTemplate",
+      "Tags": [
+        "c#",
+        "wpf",
+        "data-binding",
+        "user-controls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716619/wpf-how-to-bind-list-item-inside-datatemplate"
+    },
+    {
+      "Created": "2025-07-27T19:02:13Z",
+      "Title": "How can I handle deflation or inflation of curves",
+      "Tags": [
+        "flutter",
+        "matrix",
+        "canvas",
+        "graphics",
+        "core-graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716624/how-can-i-handle-deflation-or-inflation-of-curves"
+    }
+  ]
+}

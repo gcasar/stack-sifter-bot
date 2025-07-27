@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-27T04:00:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T03:58:12Z",
+      "Title": "Why do \u0060std::views::adjacent\u0060 iterators increment all underlying iterators instead of using a more performant shift?",
+      "Tags": [
+        "c\u002B\u002B",
+        "iterator",
+        "range",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716126/why-do-stdviewsadjacent-iterators-increment-all-underlying-iterators-inste"
+    },
+    {
+      "Created": "2025-07-27T04:00:33Z",
+      "Title": "What\u0027s wrong with this thread-safe circular buffer?",
+      "Tags": [
+        "c",
+        "multithreading",
+        "semaphore",
+        "producer-consumer",
+        "circular-buffer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716128/whats-wrong-with-this-thread-safe-circular-buffer"
+    }
+  ]
+}

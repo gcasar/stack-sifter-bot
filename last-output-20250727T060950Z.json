@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-27T06:00:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T05:27:20Z",
+      "Title": "Is there a way to make the names of variables a string and put them in a list?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716163/is-there-a-way-to-make-the-names-of-variables-a-string-and-put-them-in-a-list"
+    },
+    {
+      "Created": "2025-07-27T05:54:15Z",
+      "Title": "Apache RewriteRule causes unexpected 301 redirect and EUC-KR encoding \u2014 project files are UTF-8",
+      "Tags": [
+        "php",
+        "apache",
+        ".htaccess",
+        "http-redirect",
+        "urlencode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716177/apache-rewriterule-causes-unexpected-301-redirect-and-euc-kr-encoding-project"
+    },
+    {
+      "Created": "2025-07-27T06:00:55Z",
+      "Title": "tauri clipboard-manager.write_text not allowed",
+      "Tags": [
+        "reactjs",
+        "rust",
+        "clipboard",
+        "tauri",
+        "tauri-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716182/tauri-clipboard-manager-write-text-not-allowed"
+    }
+  ]
+}

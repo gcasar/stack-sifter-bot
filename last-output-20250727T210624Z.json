@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-27T20:41:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T20:25:21Z",
+      "Title": "python -playwright mouse pointer UI enable",
+      "Tags": [
+        "javascript",
+        "python",
+        "browser-automation",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716676/python-playwright-mouse-pointer-ui-enable"
+    },
+    {
+      "Created": "2025-07-27T20:41:57Z",
+      "Title": "Is SignalRTrigger supported in .NET 8 Isolated Azure Functions in Serverless mode?",
+      "Tags": [
+        "azure-signalr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716684/is-signalrtrigger-supported-in-net-8-isolated-azure-functions-in-serverless-mod"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-27T22:04:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T21:24:50Z",
+      "Title": "Deleting a file scope function in a header file",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "one-definition-rule",
+        "deleted-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716707/deleting-a-file-scope-function-in-a-header-file"
+    },
+    {
+      "Created": "2025-07-27T21:24:53Z",
+      "Title": "Cannot downgrade XIAOMI AX3000T from 1.0.90 to 1.0.47 [closed]",
+      "Tags": [
+        "wifi",
+        "router",
+        "openwrt",
+        "xiaomi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716708/cannot-downgrade-xiaomi-ax3000t-from-1-0-90-to-1-0-47"
+    },
+    {
+      "Created": "2025-07-27T21:28:18Z",
+      "Title": "Syncfusion Blazor SfSchedule Timeline Month: Multi-row per resource with drag-and-drop support",
+      "Tags": [
+        "blazor",
+        "drag-and-drop",
+        "syncfusion",
+        "timeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716709/syncfusion-blazor-sfschedule-timeline-month-multi-row-per-resource-with-drag-an"
+    },
+    {
+      "Created": "2025-07-27T22:02:36Z",
+      "Title": "setInterval within useEffect is not working as expected",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "setinterval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716724/setinterval-within-useeffect-is-not-working-as-expected"
+    },
+    {
+      "Created": "2025-07-27T22:04:23Z",
+      "Title": "how to re-create git history from scratch",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716726/how-to-re-create-git-history-from-scratch"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-27T16:00:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T15:49:50Z",
+      "Title": "TinyMCE keeps adding characters I do not want when viewing the source code",
+      "Tags": [
+        "html",
+        "tinymce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716513/tinymce-keeps-adding-characters-i-do-not-want-when-viewing-the-source-code"
+    },
+    {
+      "Created": "2025-07-27T16:00:09Z",
+      "Title": "Why doesn\u2019t onChange(of: @Query results) fire when a SwiftData model\u2019s property changes?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716522/why-doesn-t-onchangeof-query-results-fire-when-a-swiftdata-model-s-property"
+    }
+  ]
+}

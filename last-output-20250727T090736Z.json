@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-27T09:04:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T08:43:55Z",
+      "Title": "How to solve large-scale MILP models in OPL CPLEX",
+      "Tags": [
+        "optimization",
+        "cplex",
+        "opl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716257/how-to-solve-large-scale-milp-models-in-opl-cplex"
+    },
+    {
+      "Created": "2025-07-27T08:55:21Z",
+      "Title": "ETL process via Script or staging table, challenge or resolving foreign keys to tables with surrogate keys",
+      "Tags": [
+        "postgresql",
+        "django-models",
+        "foreign-keys",
+        "etl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716263/etl-process-via-script-or-staging-table-challenge-or-resolving-foreign-keys-to"
+    },
+    {
+      "Created": "2025-07-27T08:59:31Z",
+      "Title": "Bottom Sheet gets pushed down by other elements in the same ZStack",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "swiftui-zstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716266/bottom-sheet-gets-pushed-down-by-other-elements-in-the-same-zstack"
+    },
+    {
+      "Created": "2025-07-27T09:04:36Z",
+      "Title": "Passing sections of tensor to function (can I avoid looping)?",
+      "Tags": [
+        "pytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716269/passing-sections-of-tensor-to-function-can-i-avoid-looping"
+    }
+  ]
+}

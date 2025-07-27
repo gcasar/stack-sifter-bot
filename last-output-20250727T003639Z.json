@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-27T00:28:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-26T23:51:58Z",
+      "Title": "Firebase Functions v2 onCall() returns 401 Unauthorized\u2014even though request.auth is valid and proper IAM role assigned",
+      "Tags": [
+        "firebase",
+        "google-cloud-platform",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716058/firebase-functions-v2-oncall-returns-401-unauthorized-even-though-request-auth"
+    },
+    {
+      "Created": "2025-07-26T23:53:34Z",
+      "Title": "Getting most common colors in an image using Pillow Image.get_colors() gives wrong result",
+      "Tags": [
+        "python",
+        "python-imaging-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716059/getting-most-common-colors-in-an-image-using-pillow-image-get-colors-gives-wro"
+    },
+    {
+      "Created": "2025-07-26T23:59:23Z",
+      "Title": "JTable custom CellRenderer: Display Cell in color depending on another property of current item",
+      "Tags": [
+        "java",
+        "swing",
+        "jtable",
+        "tablecellrenderer",
+        "tablemodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716060/jtable-custom-cellrenderer-display-cell-in-color-depending-on-another-property"
+    },
+    {
+      "Created": "2025-07-27T00:06:01Z",
+      "Title": "Extracting point values from a raster and the objects are not quite overlapping",
+      "Tags": [
+        "r",
+        "geospatial",
+        "feature-extraction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716061/extracting-point-values-from-a-raster-and-the-objects-are-not-quite-overlapping"
+    },
+    {
+      "Created": "2025-07-27T00:16:30Z",
+      "Title": "PHP vs C\u002B\u002B: How do I declare class constants which are used in method calls in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "methods",
+        "constants"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716066/php-vs-c-how-do-i-declare-class-constants-which-are-used-in-method-calls-in-c"
+    },
+    {
+      "Created": "2025-07-27T00:28:23Z",
+      "Title": "Why can\u0027t the compiler deduce the element type of \u0060std::vector\u0060?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716068/why-cant-the-compiler-deduce-the-element-type-of-stdvector"
+    },
+    {
+      "Created": "2025-07-27T00:28:48Z",
+      "Title": "How to resolve the type error in pomegranate?",
+      "Tags": [
+        "python",
+        "reinforcement-learning",
+        "pomegranate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716069/how-to-resolve-the-type-error-in-pomegranate"
+    }
+  ]
+}

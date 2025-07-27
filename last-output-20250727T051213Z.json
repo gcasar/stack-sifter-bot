@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-27T04:58:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T04:27:22Z",
+      "Title": "iOS Crash on UICommand performWithSender:target: When Using Context Menu in InAppWebView (Flutter)",
+      "Tags": [
+        "ios",
+        "flutter",
+        "mobile-application",
+        "flutter-inappwebview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716135/ios-crash-on-uicommand-performwithsendertarget-when-using-context-menu-in-inap"
+    },
+    {
+      "Created": "2025-07-27T04:33:13Z",
+      "Title": "Why does the C compiler saves registers on the noreturn function",
+      "Tags": [
+        "c",
+        "assembly",
+        "x86-64",
+        "compiler-optimization",
+        "cpu-registers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716139/why-does-the-c-compiler-saves-registers-on-the-noreturn-function"
+    },
+    {
+      "Created": "2025-07-27T04:48:50Z",
+      "Title": "How do I create a \u0022frequency table\u0022 from scratch in R",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "frequency-table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716143/how-do-i-create-a-frequency-table-from-scratch-in-r"
+    },
+    {
+      "Created": "2025-07-27T04:58:37Z",
+      "Title": "Treesitter-based Python code folding not applied when initially loading file in Neovim",
+      "Tags": [
+        "python",
+        "lua",
+        "editor",
+        "neovim",
+        "code-folding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716150/treesitter-based-python-code-folding-not-applied-when-initially-loading-file-in"
+    }
+  ]
+}

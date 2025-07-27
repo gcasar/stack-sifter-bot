@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-27T23:00:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T22:07:05Z",
+      "Title": "Are there plans to allow \u0060requires\u0060 clauses to \u0060using\u0060 declarations in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B-concepts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716728/are-there-plans-to-allow-requires-clauses-to-using-declarations-in-c"
+    },
+    {
+      "Created": "2025-07-27T22:09:26Z",
+      "Title": "ERROR with numpy \u0022 with shapes (100,153) (100,) \u0022",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716731/error-with-numpy-with-shapes-100-153-100"
+    },
+    {
+      "Created": "2025-07-27T22:18:18Z",
+      "Title": "Does cURL have a parameter to explicitly deny redirection?",
+      "Tags": [
+        "curl",
+        "http-redirect",
+        "http-headers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716733/does-curl-have-a-parameter-to-explicitly-deny-redirection"
+    },
+    {
+      "Created": "2025-07-27T22:27:53Z",
+      "Title": "Webrtc using default internal mic instead of bluetooth mic in react native iOS",
+      "Tags": [
+        "ios",
+        "react-native",
+        "bluetooth",
+        "react-native-webrtc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716736/webrtc-using-default-internal-mic-instead-of-bluetooth-mic-in-react-native-ios"
+    },
+    {
+      "Created": "2025-07-27T22:45:55Z",
+      "Title": "Register-ScheduledTask : parameter in incorrect",
+      "Tags": [
+        "powershell",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716744/register-scheduledtask-parameter-in-incorrect"
+    },
+    {
+      "Created": "2025-07-27T23:00:48Z",
+      "Title": "Is Windows Explorer\u0027s handling of IDataObjects on the clipboard buggy?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "winapi",
+        "com",
+        "windows-shell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716748/is-windows-explorers-handling-of-idataobjects-on-the-clipboard-buggy"
+    }
+  ]
+}

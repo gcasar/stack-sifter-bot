@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-27T07:39:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T07:33:26Z",
+      "Title": "Update values of specific columns of df2 in df1 using Pandas",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716225/update-values-of-specific-columns-of-df2-in-df1-using-pandas"
+    },
+    {
+      "Created": "2025-07-27T07:39:16Z",
+      "Title": "Cannot print tree object information",
+      "Tags": [
+        "r",
+        "tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716228/cannot-print-tree-object-information"
+    }
+  ]
+}

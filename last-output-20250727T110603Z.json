@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-27T10:57:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T10:29:33Z",
+      "Title": "Hikvision ISAPI /picture endpoint returns \u0022Invalid XML Content\u0022 for digital channels",
+      "Tags": [
+        "ip-camera",
+        "hikvision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716323/hikvision-isapi-picture-endpoint-returns-invalid-xml-content-for-digital-chan"
+    },
+    {
+      "Created": "2025-07-27T10:41:00Z",
+      "Title": "Python script hangs on requests.get inside a loop",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716329/python-script-hangs-on-requests-get-inside-a-loop"
+    },
+    {
+      "Created": "2025-07-27T10:47:15Z",
+      "Title": "some issue in prisma logic for list filtering",
+      "Tags": [
+        "nestjs",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716334/some-issue-in-prisma-logic-for-list-filtering"
+    },
+    {
+      "Created": "2025-07-27T10:49:10Z",
+      "Title": "Can I run .NET Minimal API and Azure Functions in the same project locally?",
+      "Tags": [
+        ".net",
+        "azure-functions",
+        "minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716336/can-i-run-net-minimal-api-and-azure-functions-in-the-same-project-locally"
+    },
+    {
+      "Created": "2025-07-27T10:51:45Z",
+      "Title": "Cannot SSH into Hetzner VPS with public key authentication (Permission denied)",
+      "Tags": [
+        "ssh",
+        "vps",
+        "ssh-keys",
+        "hetzner-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716341/cannot-ssh-into-hetzner-vps-with-public-key-authentication-permission-denied"
+    },
+    {
+      "Created": "2025-07-27T10:57:22Z",
+      "Title": "How to add custom color for theming in Nuxt UI?",
+      "Tags": [
+        "tailwind-css-4",
+        "nuxtui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716345/how-to-add-custom-color-for-theming-in-nuxt-ui"
+    }
+  ]
+}

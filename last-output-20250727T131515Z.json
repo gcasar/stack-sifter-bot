@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-27T13:12:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-27T12:20:00Z",
+      "Title": "Waf cannot find the Boost libraries on MSYS2?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "msys2",
+        "waf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716388/waf-cannot-find-the-boost-libraries-on-msys2"
+    },
+    {
+      "Created": "2025-07-27T13:12:18Z",
+      "Title": "Merge date with error - If using all scalar values, you must pass an index",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716427/merge-date-with-error-if-using-all-scalar-values-you-must-pass-an-index"
+    }
+  ]
+}

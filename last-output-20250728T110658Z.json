@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-28T10:55:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T10:16:09Z",
+      "Title": "VS Code cannot automatically activate and switch to the selected virtual Python environment in the integrated terminal",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "conda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717169/vs-code-cannot-automatically-activate-and-switch-to-the-selected-virtual-python"
+    },
+    {
+      "Created": "2025-07-28T10:36:19Z",
+      "Title": "LegacyIAccessiblePattern does not exist in the current context",
+      "Tags": [
+        ".net",
+        "ui-automation",
+        "microsoft-ui-automation",
+        "winappdriver",
+        "msaa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717198/legacyiaccessiblepattern-does-not-exist-in-the-current-context"
+    },
+    {
+      "Created": "2025-07-28T10:53:29Z",
+      "Title": "\u0022import\u0022 and \u0022from import\u0022 for same module",
+      "Tags": [
+        "python",
+        "python-import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717221/import-and-from-import-for-same-module"
+    },
+    {
+      "Created": "2025-07-28T10:55:04Z",
+      "Title": "How do you interpret the different lines on a Very Simple Structure plot? And extract the values to feed into a ggplot?",
+      "Tags": [
+        "visual-sourcesafe",
+        "model-fitting",
+        "psych",
+        "factor-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717223/how-do-you-interpret-the-different-lines-on-a-very-simple-structure-plot-and-ex"
+    }
+  ]
+}

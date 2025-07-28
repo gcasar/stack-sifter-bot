@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-28T10:02:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T09:15:39Z",
+      "Title": "pdb.set_trace() fails inside test with monkeypatched open",
+      "Tags": [
+        "python",
+        "debugging",
+        "pytest",
+        "monkeypatching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717106/pdb-set-trace-fails-inside-test-with-monkeypatched-open"
+    },
+    {
+      "Created": "2025-07-28T09:43:00Z",
+      "Title": "Index time field extraction problem with space",
+      "Tags": [
+        "regex",
+        "splunk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717130/index-time-field-extraction-problem-with-space"
+    },
+    {
+      "Created": "2025-07-28T09:51:33Z",
+      "Title": "Use swipe of SwipeDelegate and additional MouseArea together",
+      "Tags": [
+        "qt",
+        "qml",
+        "qtquick2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717141/use-swipe-of-swipedelegate-and-additional-mousearea-together"
+    },
+    {
+      "Created": "2025-07-28T09:53:40Z",
+      "Title": "CUDA C - Strange behaviour of atomicCAS when used as a mutex",
+      "Tags": [
+        "c",
+        "cuda",
+        "mutex",
+        "atomic",
+        "compare-and-swap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717143/cuda-c-strange-behaviour-of-atomiccas-when-used-as-a-mutex"
+    },
+    {
+      "Created": "2025-07-28T09:56:02Z",
+      "Title": "undefined reference to namespace::function?",
+      "Tags": [
+        "cmake",
+        "clion",
+        "conan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717148/undefined-reference-to-namespacefunction"
+    },
+    {
+      "Created": "2025-07-28T10:02:12Z",
+      "Title": "How can I make a Bootstrap-based horizontal scroll grid start on the 2nd container column but bleed to the screen edges?",
+      "Tags": [
+        "html",
+        "css",
+        "bootstrap-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717156/how-can-i-make-a-bootstrap-based-horizontal-scroll-grid-start-on-the-2nd-contain"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-28T19:57:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T19:28:33Z",
+      "Title": "Unquote list in aggregate() in for loop [duplicate]",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717799/unquote-list-in-aggregate-in-for-loop"
+    },
+    {
+      "Created": "2025-07-28T19:29:09Z",
+      "Title": "cryptic conflicting dependencies errors from mamba while install from environment yml",
+      "Tags": [
+        "mamba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717800/cryptic-conflicting-dependencies-errors-from-mamba-while-install-from-environmen"
+    },
+    {
+      "Created": "2025-07-28T19:39:24Z",
+      "Title": "How can I add elements to an existing Set in GAMSPy?",
+      "Tags": [
+        "python",
+        "set",
+        "gams-math"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717810/how-can-i-add-elements-to-an-existing-set-in-gamspy"
+    },
+    {
+      "Created": "2025-07-28T19:51:36Z",
+      "Title": "Receiving BytesMessage from Smallrye JMS Connector turns all bytes to 0",
+      "Tags": [
+        "java",
+        "jms",
+        "quarkus",
+        "ibm-mq",
+        "messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717820/receiving-bytesmessage-from-smallrye-jms-connector-turns-all-bytes-to-0"
+    },
+    {
+      "Created": "2025-07-28T19:52:23Z",
+      "Title": "PIL getcolors returning None for some particular images",
+      "Tags": [
+        "python",
+        "python-imaging-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717821/pil-getcolors-returning-none-for-some-particular-images"
+    },
+    {
+      "Created": "2025-07-28T19:53:14Z",
+      "Title": "GET 3Ds Max Current Task Render Progress",
+      "Tags": [
+        "c#",
+        "autodesk",
+        "3dsmax",
+        "maxscript",
+        "3ds"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717823/get-3ds-max-current-task-render-progress"
+    },
+    {
+      "Created": "2025-07-28T19:57:46Z",
+      "Title": "How come my unity player randomly move backwards?",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717825/how-come-my-unity-player-randomly-move-backwards"
+    }
+  ]
+}

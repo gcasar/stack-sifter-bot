@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-28T18:06:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T17:48:09Z",
+      "Title": "pdf is formatted in two columns but pdftools reads it in as a single column",
+      "Tags": [
+        "r",
+        "pdf-scraping",
+        "pdftools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717707/pdf-is-formatted-in-two-columns-but-pdftools-reads-it-in-as-a-single-column"
+    },
+    {
+      "Created": "2025-07-28T17:51:10Z",
+      "Title": "Python: pip not able to install \u0027Pandas\u0027, due to problem confirming the ssl certificate: HTTPSConnectionPool",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "pip",
+        "ssl-certificate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717710/python-pip-not-able-to-install-pandas-due-to-problem-confirming-the-ssl-cert"
+    },
+    {
+      "Created": "2025-07-28T17:51:12Z",
+      "Title": "Reasons Printing Via a Socket Connection Would Fail",
+      "Tags": [
+        "python",
+        "sockets",
+        "printing",
+        "ip",
+        "pjl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717711/reasons-printing-via-a-socket-connection-would-fail"
+    },
+    {
+      "Created": "2025-07-28T17:53:49Z",
+      "Title": "SVG \u003Canimate\u003E rewind works in Firefox, not in Chrome",
+      "Tags": [
+        "javascript",
+        "animation",
+        "svg",
+        "specifications",
+        "smil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717713/svg-animate-rewind-works-in-firefox-not-in-chrome"
+    },
+    {
+      "Created": "2025-07-28T17:54:43Z",
+      "Title": "isImpersonation from a view causing AuthenticationHelper could not be found",
+      "Tags": [
+        "php",
+        "cakephp",
+        "cakephp-4.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717714/isimpersonation-from-a-view-causing-authenticationhelper-could-not-be-found"
+    },
+    {
+      "Created": "2025-07-28T18:00:25Z",
+      "Title": "How do you send FormData with Axios?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "axios",
+        "multipartform-data",
+        "form-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717721/how-do-you-send-formdata-with-axios"
+    },
+    {
+      "Created": "2025-07-28T18:06:12Z",
+      "Title": "Creating \u0060go.mod\u0060 in subdirectory makes the package/module not importable to surrounding module",
+      "Tags": [
+        "go",
+        "go-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717726/creating-go-mod-in-subdirectory-makes-the-package-module-not-importable-to-sur"
+    }
+  ]
+}

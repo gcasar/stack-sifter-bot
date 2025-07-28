@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-28T20:57:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T20:34:11Z",
+      "Title": "How to pass string into function from within mutate (tidyverse)",
+      "Tags": [
+        "r",
+        "dplyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717852/how-to-pass-string-into-function-from-within-mutate-tidyverse"
+    },
+    {
+      "Created": "2025-07-28T20:41:55Z",
+      "Title": "How Do Sets and Set Comparisons Work in Python?",
+      "Tags": [
+        "python",
+        "set",
+        "comparison"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717859/how-do-sets-and-set-comparisons-work-in-python"
+    },
+    {
+      "Created": "2025-07-28T20:57:41Z",
+      "Title": "GIT: Integrating original repo with forked repo when both repos have changes (including path structure)",
+      "Tags": [
+        "git",
+        "git-merge",
+        "git-merge-conflict",
+        "git-cherry-pick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717874/git-integrating-original-repo-with-forked-repo-when-both-repos-have-changes-in"
+    }
+  ]
+}

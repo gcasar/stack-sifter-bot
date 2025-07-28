@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-28T00:56:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T00:42:21Z",
+      "Title": "Error when using dialoguer: no \u0060FuzzySelect\u0060 in the root",
+      "Tags": [
+        "rust",
+        "rust-cargo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716788/error-when-using-dialoguer-no-fuzzyselect-in-the-root"
+    },
+    {
+      "Created": "2025-07-28T00:45:11Z",
+      "Title": "Oracle DB to Python3 Performance improvement",
+      "Tags": [
+        "python",
+        "pandas",
+        "cx-oracle",
+        "python-3.10",
+        "python-oracledb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716791/oracle-db-to-python3-performance-improvement"
+    },
+    {
+      "Created": "2025-07-28T00:54:43Z",
+      "Title": "Why is in_array not working when both the needle and haystack are very definitely exactly the same?",
+      "Tags": [
+        "php",
+        "arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716794/why-is-in-array-not-working-when-both-the-needle-and-haystack-are-very-definitel"
+    },
+    {
+      "Created": "2025-07-28T00:56:46Z",
+      "Title": "Is it possible to get Wayland serial for a \u0060enter-notify\u0060 event with GTK 3?",
+      "Tags": [
+        "gtk3",
+        "wayland"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716795/is-it-possible-to-get-wayland-serial-for-a-enter-notify-event-with-gtk-3"
+    }
+  ]
+}

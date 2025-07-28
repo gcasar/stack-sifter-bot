@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-28T22:52:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T22:19:58Z",
+      "Title": "netsh int ip reset Errors during Reset of Network adapters",
+      "Tags": [
+        "typescript",
+        "windows",
+        "network-programming",
+        "terminal",
+        "netsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717934/netsh-int-ip-reset-errors-during-reset-of-network-adapters"
+    },
+    {
+      "Created": "2025-07-28T22:22:14Z",
+      "Title": "Are virtual Functions allowed for scalar types - used as non-type template argument",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "language-lawyer",
+        "c\u002B\u002B20",
+        "generic-type-argument"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717935/are-virtual-functions-allowed-for-scalar-types-used-as-non-type-template-argum"
+    },
+    {
+      "Created": "2025-07-28T22:51:17Z",
+      "Title": "CS9230 Cannot perform a dynamic invocation on an expression with type \u0027DefaultInterpolatedStringHandler\u0027",
+      "Tags": [
+        "c#",
+        ".net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717956/cs9230-cannot-perform-a-dynamic-invocation-on-an-expression-with-type-defaultin"
+    },
+    {
+      "Created": "2025-07-28T22:52:13Z",
+      "Title": "Flutter app doesn\u2019t update theme on scheduled system dark mode change (Xiaomi MIUI)",
+      "Tags": [
+        "flutter",
+        "dart",
+        "brightness",
+        "xiaomi",
+        "miui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717958/flutter-app-doesn-t-update-theme-on-scheduled-system-dark-mode-change-xiaomi-mi"
+    }
+  ]
+}

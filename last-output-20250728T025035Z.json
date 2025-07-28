@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-28T02:29:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T02:04:51Z",
+      "Title": "html attribute does not exist for Python requests-html response object as stated in documentation",
+      "Tags": [
+        "javascript",
+        "python",
+        "web-scraping",
+        "python-requests-html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716820/html-attribute-does-not-exist-for-python-requests-html-response-object-as-stated"
+    },
+    {
+      "Created": "2025-07-28T02:09:05Z",
+      "Title": "Cypress fails to launch the browser in CI",
+      "Tags": [
+        "cypress",
+        "e2e-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716823/cypress-fails-to-launch-the-browser-in-ci"
+    },
+    {
+      "Created": "2025-07-28T02:12:10Z",
+      "Title": "How to perform pairwise weighted least squares regression on multiple columns in DolphinDB?",
+      "Tags": [
+        "time-series",
+        "linear-regression",
+        "least-squares",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716824/how-to-perform-pairwise-weighted-least-squares-regression-on-multiple-columns-in"
+    },
+    {
+      "Created": "2025-07-28T02:14:32Z",
+      "Title": "Looping within 4 columns to find an exact match of my array",
+      "Tags": [
+        "excel",
+        "vba",
+        "loops",
+        "exact-match"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716825/looping-within-4-columns-to-find-an-exact-match-of-my-array"
+    },
+    {
+      "Created": "2025-07-28T02:18:04Z",
+      "Title": "value setter for a custom select element with lazy loading",
+      "Tags": [
+        "javascript",
+        "asynchronous",
+        "custom-element"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716826/value-setter-for-a-custom-select-element-with-lazy-loading"
+    },
+    {
+      "Created": "2025-07-28T02:29:41Z",
+      "Title": "Roblox studio, Tool equipped",
+      "Tags": [
+        "lua",
+        "roblox",
+        "roblox-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716829/roblox-studio-tool-equipped"
+    }
+  ]
+}

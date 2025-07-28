@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-28T04:57:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T04:57:47Z",
+      "Title": "Why does my binary search return -1 even if the element exists?",
+      "Tags": [
+        "java",
+        "arrays",
+        "algorithm",
+        "binary-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716902/why-does-my-binary-search-return-1-even-if-the-element-exists"
+    }
+  ]
+}

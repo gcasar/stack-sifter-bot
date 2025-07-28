@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-28T08:10:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T07:53:48Z",
+      "Title": "What is the difference between these two methods of returning new instance value?",
+      "Tags": [
+        "c#",
+        ".net",
+        "dependency-injection",
+        "service-provider",
+        "dependency-inversion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717016/what-is-the-difference-between-these-two-methods-of-returning-new-instance-value"
+    },
+    {
+      "Created": "2025-07-28T07:56:59Z",
+      "Title": "Marker not rendering on first map tap \u2014 only appears after second tap, zoom, or any interaction (Expo SDK 53, RN 0.79.5, react-native-maps 1.20.1)",
+      "Tags": [
+        "javascript",
+        "ios",
+        "react-native",
+        "react-native-maps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717018/marker-not-rendering-on-first-map-tap-only-appears-after-second-tap-zoom-or"
+    },
+    {
+      "Created": "2025-07-28T08:00:29Z",
+      "Title": "Cannot connect to signalR -",
+      "Tags": [
+        ".net-core",
+        "signalr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717019/cannot-connect-to-signalr"
+    },
+    {
+      "Created": "2025-07-28T08:02:12Z",
+      "Title": "Firebase notification ignores some colors set from AndroidManifest",
+      "Tags": [
+        "android",
+        "firebase",
+        "colors",
+        "firebase-cloud-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717020/firebase-notification-ignores-some-colors-set-from-androidmanifest"
+    },
+    {
+      "Created": "2025-07-28T08:02:15Z",
+      "Title": "Debug U-Boot using config LOGLEVEL?",
+      "Tags": [
+        "raspberry-pi",
+        "embedded-linux",
+        "u-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717021/debug-u-boot-using-config-loglevel"
+    },
+    {
+      "Created": "2025-07-28T08:10:23Z",
+      "Title": "importing files twice from multiple files",
+      "Tags": [
+        "python",
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717030/importing-files-twice-from-multiple-files"
+    }
+  ]
+}

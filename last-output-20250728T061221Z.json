@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-28T06:06:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T05:41:05Z",
+      "Title": "Can I Manage User session using a backend Spring project and send this session to another frontend Vaadin23 project?",
+      "Tags": [
+        "java",
+        "spring",
+        "session",
+        "spring-session",
+        "vaadin23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716926/can-i-manage-user-session-using-a-backend-spring-project-and-send-this-session-t"
+    },
+    {
+      "Created": "2025-07-28T05:42:38Z",
+      "Title": "How to Get Single Row Output in Mysql Query Result?",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716927/how-to-get-single-row-output-in-mysql-query-result"
+    },
+    {
+      "Created": "2025-07-28T06:05:23Z",
+      "Title": "Why does changing minSdkVersion in Expo affect the API level shown on Play Store?",
+      "Tags": [
+        "android",
+        "react-native",
+        "expo",
+        "google-play"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716939/why-does-changing-minsdkversion-in-expo-affect-the-api-level-shown-on-play-store"
+    },
+    {
+      "Created": "2025-07-28T06:06:26Z",
+      "Title": "Logged User gets recorded in Database when instead I intend to record a financial donor in laravel and laragon",
+      "Tags": [
+        "php",
+        "laravel",
+        "database",
+        "laragon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716940/logged-user-gets-recorded-in-database-when-instead-i-intend-to-record-a-financia"
+    }
+  ]
+}

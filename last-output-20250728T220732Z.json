@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-28T22:06:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T21:39:26Z",
+      "Title": "Boost.Asio: any_completion_handler and associated executor",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost-asio",
+        "c\u002B\u002B-coroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717907/boost-asio-any-completion-handler-and-associated-executor"
+    },
+    {
+      "Created": "2025-07-28T21:57:08Z",
+      "Title": "Not seeing webview within webkitgtk-6.0 when embedded with gtk box?",
+      "Tags": [
+        "c",
+        "gtk4",
+        "webkitgtk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717922/not-seeing-webview-within-webkitgtk-6-0-when-embedded-with-gtk-box"
+    },
+    {
+      "Created": "2025-07-28T21:59:49Z",
+      "Title": "How do I prevent duplicate messages in context window, when using rag and memory?",
+      "Tags": [
+        "java",
+        "rag",
+        "langchain4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717924/how-do-i-prevent-duplicate-messages-in-context-window-when-using-rag-and-memory"
+    },
+    {
+      "Created": "2025-07-28T22:06:01Z",
+      "Title": "Is there a way to wrap input or textarea text around a floated element without using contenteditable?",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717927/is-there-a-way-to-wrap-input-or-textarea-text-around-a-floated-element-without-u"
+    }
+  ]
+}

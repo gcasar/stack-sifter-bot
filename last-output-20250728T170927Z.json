@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-28T16:59:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T16:27:01Z",
+      "Title": "How to sort a grouping with multiple conditions and using anonymous type [duplicate]",
+      "Tags": [
+        "c#",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717629/how-to-sort-a-grouping-with-multiple-conditions-and-using-anonymous-type"
+    },
+    {
+      "Created": "2025-07-28T16:49:15Z",
+      "Title": "How can I debug, inside vscode, typescript that is transpiled to js (using tsup) and then referenced via \u003Cscript\u003E tag inside a webpage?",
+      "Tags": [
+        "typescript",
+        "debugging",
+        "vscode-debugger",
+        "chrome-remote-debugging",
+        "tsup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717655/how-can-i-debug-inside-vscode-typescript-that-is-transpiled-to-js-using-tsup"
+    },
+    {
+      "Created": "2025-07-28T16:54:20Z",
+      "Title": "How do I migrate from UIApplicationDelegate to UISceneDelegate in app with regular Views and SKViews?",
+      "Tags": [
+        "ios",
+        "objective-c",
+        "xcode",
+        "uiviewcontroller",
+        "skview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717658/how-do-i-migrate-from-uiapplicationdelegate-to-uiscenedelegate-in-app-with-regul"
+    },
+    {
+      "Created": "2025-07-28T16:56:04Z",
+      "Title": "Is the proxy class returned by AiServices.builder thread safe?",
+      "Tags": [
+        "java",
+        "langchain4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717660/is-the-proxy-class-returned-by-aiservices-builder-thread-safe"
+    },
+    {
+      "Created": "2025-07-28T16:58:58Z",
+      "Title": "Getting unweighted proportions in srvyr",
+      "Tags": [
+        "r",
+        "srvyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717662/getting-unweighted-proportions-in-srvyr"
+    },
+    {
+      "Created": "2025-07-28T16:59:12Z",
+      "Title": "Trying to find the right combination of ebpf probes, functions, and helpers for file deletes/unlinks",
+      "Tags": [
+        "rust",
+        "linux-kernel",
+        "ebpf",
+        "bpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717663/trying-to-find-the-right-combination-of-ebpf-probes-functions-and-helpers-for"
+    }
+  ]
+}

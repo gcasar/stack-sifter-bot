@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-28T03:30:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T02:58:19Z",
+      "Title": "addEventListener vs onclick - which one overwrites the other?",
+      "Tags": [
+        "javascript",
+        "dom",
+        "events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716840/addeventlistener-vs-onclick-which-one-overwrites-the-other"
+    },
+    {
+      "Created": "2025-07-28T03:00:51Z",
+      "Title": "How to make predictions from gam with te() smooth and random effect",
+      "Tags": [
+        "r",
+        "gam",
+        "mgcv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716842/how-to-make-predictions-from-gam-with-te-smooth-and-random-effect"
+    },
+    {
+      "Created": "2025-07-28T03:30:59Z",
+      "Title": "Vertex AI Search: layoutBasedChunkingConfig ignores chunkSize and creates unexpectedly large chunks",
+      "Tags": [
+        "google-cloud-platform",
+        "vertex-ai-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79716860/vertex-ai-search-layoutbasedchunkingconfig-ignores-chunksize-and-creates-unexpe"
+    }
+  ]
+}

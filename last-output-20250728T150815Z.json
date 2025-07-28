@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-28T15:05:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T14:12:23Z",
+      "Title": "How can I add an unchecked checkbox to sorted data in a Google Sheet?",
+      "Tags": [
+        "google-sheets",
+        "checkbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717455/how-can-i-add-an-unchecked-checkbox-to-sorted-data-in-a-google-sheet"
+    },
+    {
+      "Created": "2025-07-28T14:24:58Z",
+      "Title": "Type erasure on a pointer-to-member for a data type",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717466/type-erasure-on-a-pointer-to-member-for-a-data-type"
+    },
+    {
+      "Created": "2025-07-28T14:41:19Z",
+      "Title": "I cannot get Apache2 on Debian 12 to serve HTTPS pages, HTTP is fine (getting ERR_SSL_PROTOCOL_ERROR)",
+      "Tags": [
+        "apache",
+        "ssl",
+        "ssl-certificate",
+        "debian"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717490/i-cannot-get-apache2-on-debian-12-to-serve-https-pages-http-is-fine-getting-er"
+    },
+    {
+      "Created": "2025-07-28T15:03:42Z",
+      "Title": "When a new broker is added, how does kafka moves partitions for rebalancing?",
+      "Tags": [
+        "apache-kafka",
+        "partition",
+        "data-transfer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717529/when-a-new-broker-is-added-how-does-kafka-moves-partitions-for-rebalancing"
+    },
+    {
+      "Created": "2025-07-28T15:05:12Z",
+      "Title": "Jacoco produces truncated xml and csv file",
+      "Tags": [
+        "maven",
+        "quarkus",
+        "jacoco",
+        "jacoco-maven-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717532/jacoco-produces-truncated-xml-and-csv-file"
+    }
+  ]
+}

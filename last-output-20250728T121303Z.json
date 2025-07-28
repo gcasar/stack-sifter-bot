@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-28T11:44:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T11:09:39Z",
+      "Title": "AWS require MFA to delete KMS key",
+      "Tags": [
+        "terraform",
+        "terraform-provider-aws",
+        "amazon-kms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717235/aws-require-mfa-to-delete-kms-key"
+    },
+    {
+      "Created": "2025-07-28T11:18:06Z",
+      "Title": "How can I prevent VS Code inherit environment from a previous instance?",
+      "Tags": [
+        "visual-studio-code",
+        "environment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717248/how-can-i-prevent-vs-code-inherit-environment-from-a-previous-instance"
+    },
+    {
+      "Created": "2025-07-28T11:38:37Z",
+      "Title": "MyEval creates a circular reference, how is this possible?",
+      "Tags": [
+        "user-defined-functions",
+        "libreoffice-calc",
+        "libreoffice-basic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717266/myeval-creates-a-circular-reference-how-is-this-possible"
+    },
+    {
+      "Created": "2025-07-28T11:44:34Z",
+      "Title": "Chart Title is in middle/between my bar graph [openpyxl] [python]",
+      "Tags": [
+        "python",
+        "excel",
+        "bar-chart",
+        "openpyxl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717274/chart-title-is-in-middle-between-my-bar-graph-openpyxl-python"
+    }
+  ]
+}

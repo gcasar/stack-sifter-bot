@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-28T09:05:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T08:19:25Z",
+      "Title": "Input path errors while running FFMPEG and keeping subdirectory structure",
+      "Tags": [
+        "linux",
+        "bash",
+        "ffmpeg",
+        "dirname",
+        "basename"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717038/input-path-errors-while-running-ffmpeg-and-keeping-subdirectory-structure"
+    },
+    {
+      "Created": "2025-07-28T08:53:24Z",
+      "Title": "\u0022Failed to uninstall the old application, please try running the installer again.:2\u0022",
+      "Tags": [
+        "electron",
+        "window",
+        "nsis",
+        "electron-builder",
+        "auto-update"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717077/failed-to-uninstall-the-old-application-please-try-running-the-installer-again"
+    },
+    {
+      "Created": "2025-07-28T09:02:58Z",
+      "Title": "Woocommerce API: Assign attribute terms to products using the term id",
+      "Tags": [
+        "rest",
+        "woocommerce",
+        "attributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717089/woocommerce-api-assign-attribute-terms-to-products-using-the-term-id"
+    },
+    {
+      "Created": "2025-07-28T09:04:59Z",
+      "Title": "Android Complex UI : Initial Creation Takes ~100ms \u2014 Is This Expected or Can It Be Optimized?",
+      "Tags": [
+        "android",
+        "performance",
+        "optimization",
+        "android-recyclerview",
+        "native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717092/android-complex-ui-initial-creation-takes-100ms-is-this-expected-or-can-it"
+    },
+    {
+      "Created": "2025-07-28T09:05:21Z",
+      "Title": "Incorrect line splitting with using FOR /F \u002B DELIMS (cmd shell)",
+      "Tags": [
+        "windows",
+        "shell",
+        "for-loop",
+        "cmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717093/incorrect-line-splitting-with-using-for-f-delims-cmd-shell"
+    }
+  ]
+}

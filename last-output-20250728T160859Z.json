@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-28T16:02:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T15:12:23Z",
+      "Title": "Return TRUE in IF in ARRAYFORMULA in Google Sheets",
+      "Tags": [
+        "google-sheets",
+        "google-sheets-formula",
+        "array-formulas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717537/return-true-in-if-in-arrayformula-in-google-sheets"
+    },
+    {
+      "Created": "2025-07-28T15:40:25Z",
+      "Title": "Finding local users on linux servers using ansible",
+      "Tags": [
+        "linux",
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717573/finding-local-users-on-linux-servers-using-ansible"
+    },
+    {
+      "Created": "2025-07-28T15:48:44Z",
+      "Title": "What is the difference between @Target(ElementType.TYPE_USE) and @Target(ElementType.METHOD) in this method return type context?",
+      "Tags": [
+        "java",
+        "annotations",
+        "java-annotations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717586/what-is-the-difference-between-targetelementtype-type-use-and-targetelement"
+    },
+    {
+      "Created": "2025-07-28T15:58:58Z",
+      "Title": "Map multiple variable on bit/byte (Codesys)",
+      "Tags": [
+        "plc",
+        "codesys"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717597/map-multiple-variable-on-bit-byte-codesys"
+    },
+    {
+      "Created": "2025-07-28T15:59:28Z",
+      "Title": "Angular - bootstrap carousel - How to bind active item",
+      "Tags": [
+        "angular",
+        "binding",
+        "bootstrap-5",
+        "carousel",
+        "ngfor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717598/angular-bootstrap-carousel-how-to-bind-active-item"
+    },
+    {
+      "Created": "2025-07-28T15:59:47Z",
+      "Title": "How to automatically respond to question from ssh-copy-id in bash",
+      "Tags": [
+        "linux",
+        "bash",
+        "ssh",
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717599/how-to-automatically-respond-to-question-from-ssh-copy-id-in-bash"
+    },
+    {
+      "Created": "2025-07-28T16:02:21Z",
+      "Title": "Tersest way to set time to 00:00:00 of DateTime value",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717604/tersest-way-to-set-time-to-000000-of-datetime-value"
+    }
+  ]
+}

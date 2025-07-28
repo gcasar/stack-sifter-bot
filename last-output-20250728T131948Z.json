@@ -1,0 +1,94 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-28T13:16:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T13:01:04Z",
+      "Title": "Why doesn\u0027t \u0022werfault\u0022 create a dump of my application?",
+      "Tags": [
+        "windows",
+        "debugging",
+        "command-line",
+        "dump"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717370/why-doesnt-werfault-create-a-dump-of-my-application"
+    },
+    {
+      "Created": "2025-07-28T13:06:37Z",
+      "Title": "Using \u0027sys.contentType.sys.id[in]\u0027 along with \u0027order\u0027 does not work in Contentful API",
+      "Tags": [
+        "node.js",
+        "contentful",
+        "contentful-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717381/using-sys-contenttype-sys-idin-along-with-order-does-not-work-in-contentfu"
+    },
+    {
+      "Created": "2025-07-28T13:08:24Z",
+      "Title": "Which methods to use to bind SyntaxNodes to Symbols and which SyntaxNode types can be bound?",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "roslyn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717382/which-methods-to-use-to-bind-syntaxnodes-to-symbols-and-which-syntaxnode-types-c"
+    },
+    {
+      "Created": "2025-07-28T13:09:13Z",
+      "Title": "Cannot view live site cache items in the debug module",
+      "Tags": [
+        "kentico",
+        "kentico-13"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717383/cannot-view-live-site-cache-items-in-the-debug-module"
+    },
+    {
+      "Created": "2025-07-28T13:11:04Z",
+      "Title": "Jenkins Git Plugin. Pass global variable as branch name",
+      "Tags": [
+        "git",
+        "jenkins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717387/jenkins-git-plugin-pass-global-variable-as-branch-name"
+    },
+    {
+      "Created": "2025-07-28T13:12:26Z",
+      "Title": "Parsing data from .DAT file into csv laravel",
+      "Tags": [
+        "regex",
+        "laravel",
+        "dat-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717390/parsing-data-from-dat-file-into-csv-laravel"
+    },
+    {
+      "Created": "2025-07-28T13:12:40Z",
+      "Title": "How is LCD_RW defined in sdcc",
+      "Tags": [
+        "c",
+        "clion",
+        "platformio",
+        "sdcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717391/how-is-lcd-rw-defined-in-sdcc"
+    },
+    {
+      "Created": "2025-07-28T13:12:46Z",
+      "Title": "How to select particular queue for sending IO from Userspace in linux nvme driver",
+      "Tags": [
+        "linux",
+        "linux-device-driver",
+        "nvme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717392/how-to-select-particular-queue-for-sending-io-from-userspace-in-linux-nvme-drive"
+    },
+    {
+      "Created": "2025-07-28T13:16:52Z",
+      "Title": "What does the FastAPI community think about using Class-Based Views with permission classes?",
+      "Tags": [
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717396/what-does-the-fastapi-community-think-about-using-class-based-views-with-permiss"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-28T18:59:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T18:38:50Z",
+      "Title": "On appel devices when playing a sound while on zoom call the bilateral sound is gone (bad sound quality) [closed]",
+      "Tags": [
+        "javascript",
+        "android",
+        "html",
+        "ios",
+        "web"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717762/on-appel-devices-when-playing-a-sound-while-on-zoom-call-the-bilateral-sound-is"
+    },
+    {
+      "Created": "2025-07-28T18:42:14Z",
+      "Title": "Why a PDF reader doesn\u0027t read brotli-compressed PDF?",
+      "Tags": [
+        "c",
+        "pdf",
+        "mupdf",
+        "brotli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717766/why-a-pdf-reader-doesnt-read-brotli-compressed-pdf"
+    },
+    {
+      "Created": "2025-07-28T18:42:36Z",
+      "Title": "Joining table to get all individual stocks in the SP500 on a given date for later aggregation",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717767/joining-table-to-get-all-individual-stocks-in-the-sp500-on-a-given-date-for-late"
+    },
+    {
+      "Created": "2025-07-28T18:44:06Z",
+      "Title": "Is it possible to somehow contain an extern \u0022C\u0022 function within a header file?",
+      "Tags": [
+        "c\u002B\u002B",
+        "variadic-templates",
+        "variadic-functions",
+        "extern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717768/is-it-possible-to-somehow-contain-an-extern-c-function-within-a-header-file"
+    },
+    {
+      "Created": "2025-07-28T18:54:19Z",
+      "Title": "How to add specific line to a gt table",
+      "Tags": [
+        "r",
+        "gtsummary",
+        "gt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717774/how-to-add-specific-line-to-a-gt-table"
+    },
+    {
+      "Created": "2025-07-28T18:59:10Z",
+      "Title": "Define a Regex Expression in C# to parse TCL syntax, allowing multiple strings in the token stream including \u0022\u0022, \u0022\\\u0022\u0022, and \u0022\\{\u0022. TCL is very string",
+      "Tags": [
+        "c#",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717775/define-a-regex-expression-in-c-sharp-to-parse-tcl-syntax-allowing-multiple-stri"
+    }
+  ]
+}

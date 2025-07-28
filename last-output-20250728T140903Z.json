@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-28T14:06:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T13:44:54Z",
+      "Title": "PowerShell Start-Process wrapper always fails and doesn\u2019t capture child exit code",
+      "Tags": [
+        "windows",
+        "powershell",
+        "exit-code",
+        "start-process"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717420/powershell-start-process-wrapper-always-fails-and-doesn-t-capture-child-exit-cod"
+    },
+    {
+      "Created": "2025-07-28T13:55:10Z",
+      "Title": "How to properly use Shiny modules to manage repeated UI/server logic across multiple scenarios?",
+      "Tags": [
+        "r",
+        "shiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717430/how-to-properly-use-shiny-modules-to-manage-repeated-ui-server-logic-across-mult"
+    },
+    {
+      "Created": "2025-07-28T13:56:15Z",
+      "Title": "Auth0 Gets stuck on 403 on Username-Password-Authentication",
+      "Tags": [
+        "authentication",
+        "auth0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717431/auth0-gets-stuck-on-403-on-username-password-authentication"
+    },
+    {
+      "Created": "2025-07-28T14:06:19Z",
+      "Title": "Discover GATT characteristics of HID keyboard on nrf52840dk with Zephyr RTOS",
+      "Tags": [
+        "c",
+        "embedded",
+        "zephyr-rtos",
+        "nrf52840"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717443/discover-gatt-characteristics-of-hid-keyboard-on-nrf52840dk-with-zephyr-rtos"
+    },
+    {
+      "Created": "2025-07-28T14:06:21Z",
+      "Title": "How to check if trap is ignored?",
+      "Tags": [
+        "bash",
+        "trap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717444/how-to-check-if-trap-is-ignored"
+    }
+  ]
+}

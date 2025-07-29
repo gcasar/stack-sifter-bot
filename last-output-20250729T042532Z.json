@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-29T04:19:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T03:54:56Z",
+      "Title": "Pandas dt accessor or groupby function returning decimal numbers instead of integers in index labels where some series values NA",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "group-by"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718085/pandas-dt-accessor-or-groupby-function-returning-decimal-numbers-instead-of-inte"
+    },
+    {
+      "Created": "2025-07-29T04:09:24Z",
+      "Title": "Autosorting 2 columns function with negative number to be shown at the top",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718095/autosorting-2-columns-function-with-negative-number-to-be-shown-at-the-top"
+    },
+    {
+      "Created": "2025-07-29T04:12:49Z",
+      "Title": "Why do C compilers still prefer push over mov for saving registers, even when mov appears faster in llvm-mca?",
+      "Tags": [
+        "c",
+        "assembly",
+        "x86-64",
+        "compiler-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718097/why-do-c-compilers-still-prefer-push-over-mov-for-saving-registers-even-when-mo"
+    },
+    {
+      "Created": "2025-07-29T04:19:56Z",
+      "Title": "Nginx location with alias redirect to root",
+      "Tags": [
+        "php",
+        "nginx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718099/nginx-location-with-alias-redirect-to-root"
+    }
+  ]
+}

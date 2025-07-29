@@ -1,0 +1,112 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-07-29T09:09:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T08:22:52Z",
+      "Title": "ReactTs Typeahead losing focus after fetching options",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "react-bootstrap-typeahead"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718304/reactts-typeahead-losing-focus-after-fetching-options"
+    },
+    {
+      "Created": "2025-07-29T08:40:52Z",
+      "Title": "How to generate CockroachDB-like unique_rowid() in PostgreSQL?",
+      "Tags": [
+        "postgresql",
+        "primary-key",
+        "cockroachdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718323/how-to-generate-cockroachdb-like-unique-rowid-in-postgresql"
+    },
+    {
+      "Created": "2025-07-29T08:44:17Z",
+      "Title": "How can I prevent the entire React app from crashing when an invalid component is rendered?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718328/how-can-i-prevent-the-entire-react-app-from-crashing-when-an-invalid-component-i"
+    },
+    {
+      "Created": "2025-07-29T08:53:01Z",
+      "Title": "Export to CSV issue only return the last data",
+      "Tags": [
+        "python",
+        "json",
+        "csv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718341/export-to-csv-issue-only-return-the-last-data"
+    },
+    {
+      "Created": "2025-07-29T08:53:48Z",
+      "Title": "Dash App Only Accessible on 127.0.0.1, Not on 0.0.0.0 or Local Network IP",
+      "Tags": [
+        "python",
+        "plotly",
+        "plotly-dash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718343/dash-app-only-accessible-on-127-0-0-1-not-on-0-0-0-0-or-local-network-ip"
+    },
+    {
+      "Created": "2025-07-29T08:55:44Z",
+      "Title": "Why does gmtime produce a year with 100 added?",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718346/why-does-gmtime-produce-a-year-with-100-added"
+    },
+    {
+      "Created": "2025-07-29T08:56:23Z",
+      "Title": "How to add a \u0022Class-Path\u0022 entry to a Jar manifest in Gradle compatible with the configuration cache?",
+      "Tags": [
+        "java",
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718348/how-to-add-a-class-path-entry-to-a-jar-manifest-in-gradle-compatible-with-the"
+    },
+    {
+      "Created": "2025-07-29T09:03:23Z",
+      "Title": "Fullscreen click mobile",
+      "Tags": [
+        "html",
+        "deployment",
+        "timer",
+        "fullscreen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718355/fullscreen-click-mobile"
+    },
+    {
+      "Created": "2025-07-29T09:03:32Z",
+      "Title": "How to control/record the order FileReader uploads files in?",
+      "Tags": [
+        "javascript",
+        "filereader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718356/how-to-control-record-the-order-filereader-uploads-files-in"
+    },
+    {
+      "Created": "2025-07-29T09:07:58Z",
+      "Title": "How to achieve Python-like tuple unpacking in DolphinDB SQL to dynamically select columns?",
+      "Tags": [
+        "sql",
+        "iterable-unpacking",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718362/how-to-achieve-python-like-tuple-unpacking-in-dolphindb-sql-to-dynamically-selec"
+    },
+    {
+      "Created": "2025-07-29T09:09:46Z",
+      "Title": "Apache PDFBox: Find out which colorspace is used while going through the Operator Stream",
+      "Tags": [
+        "pdfbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718364/apache-pdfbox-find-out-which-colorspace-is-used-while-going-through-the-operato"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-29T15:07:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T14:36:51Z",
+      "Title": "Can I download all files from a selected directory using only drive.file permission?",
+      "Tags": [
+        "javascript",
+        "google-drive-api",
+        "google-workspace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718793/can-i-download-all-files-from-a-selected-directory-using-only-drive-file-permiss"
+    },
+    {
+      "Created": "2025-07-29T14:38:04Z",
+      "Title": "Host becomes empty after first navigation",
+      "Tags": [
+        "shopify-app",
+        "shopify-app-bridge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718797/host-becomes-empty-after-first-navigation"
+    },
+    {
+      "Created": "2025-07-29T14:49:31Z",
+      "Title": "Why strpos works for one value and doesn\u0027t for another? [duplicate]",
+      "Tags": [
+        "php",
+        "strpos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718809/why-strpos-works-for-one-value-and-doesnt-for-another"
+    },
+    {
+      "Created": "2025-07-29T15:01:26Z",
+      "Title": "Is there a better / more efficient way for me to take results of a query in a tabular model, and use that to query two additional models",
+      "Tags": [
+        "powerbi",
+        "dax",
+        "powerquery",
+        "ssas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718822/is-there-a-better-more-efficient-way-for-me-to-take-results-of-a-query-in-a-ta"
+    },
+    {
+      "Created": "2025-07-29T15:03:44Z",
+      "Title": "PAC validation erros when using libreoffice command line tools to export html as PDF/UA",
+      "Tags": [
+        "libreoffice",
+        "headless",
+        "export-to-pdf",
+        "writer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718827/pac-validation-erros-when-using-libreoffice-command-line-tools-to-export-html-as"
+    },
+    {
+      "Created": "2025-07-29T15:07:32Z",
+      "Title": "Jasper Reports Studio - prompt for parameter",
+      "Tags": [
+        "jasper-reports",
+        "jaspersoft-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718834/jasper-reports-studio-prompt-for-parameter"
+    }
+  ]
+}

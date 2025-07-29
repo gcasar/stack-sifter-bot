@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-29T18:05:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T17:51:00Z",
+      "Title": "How to use a Python regular expression which depends on pre-initialised back-references?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719041/how-to-use-a-python-regular-expression-which-depends-on-pre-initialised-back-ref"
+    },
+    {
+      "Created": "2025-07-29T17:56:53Z",
+      "Title": "How to Automate Sending an Excel File Through Outlook when the File Name Changes Everyday",
+      "Tags": [
+        "excel",
+        "vba",
+        "automation",
+        "outlook",
+        "vbscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719047/how-to-automate-sending-an-excel-file-through-outlook-when-the-file-name-changes"
+    },
+    {
+      "Created": "2025-07-29T18:05:55Z",
+      "Title": "Fortran OpenMP offloading painfully slow on NVIDIA architectures",
+      "Tags": [
+        "fortran",
+        "gpu",
+        "openmp",
+        "offloading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719053/fortran-openmp-offloading-painfully-slow-on-nvidia-architectures"
+    }
+  ]
+}

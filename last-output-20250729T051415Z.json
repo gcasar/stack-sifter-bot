@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-29T04:54:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T04:38:28Z",
+      "Title": "Sendbird Issue Connecting Without Access Token Despite \u201CRead \u0026 Write\u201D Permission Enabled using javascript SDK",
+      "Tags": [
+        "angular",
+        "sendbird"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718112/sendbird-issue-connecting-without-access-token-despite-read-write-permission"
+    },
+    {
+      "Created": "2025-07-29T04:54:44Z",
+      "Title": "JdbcClient StatementSpec bind multiple placeholders with a single parameter",
+      "Tags": [
+        "java",
+        "sql",
+        "spring",
+        "jdbc",
+        "jdbctemplate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718123/jdbcclient-statementspec-bind-multiple-placeholders-with-a-single-parameter"
+    }
+  ]
+}

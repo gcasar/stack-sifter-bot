@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-29T19:03:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T18:19:56Z",
+      "Title": "Trying to build a Discord starboard system using SQLAlchemy",
+      "Tags": [
+        "python",
+        "sqlalchemy",
+        "discord.py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719071/trying-to-build-a-discord-starboard-system-using-sqlalchemy"
+    },
+    {
+      "Created": "2025-07-29T18:36:11Z",
+      "Title": "questions about callback function in javascript",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719085/questions-about-callback-function-in-javascript"
+    },
+    {
+      "Created": "2025-07-29T18:46:54Z",
+      "Title": "Auto-detect the language for single words or short phrases",
+      "Tags": [
+        "python",
+        "googletrans"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719098/auto-detect-the-language-for-single-words-or-short-phrases"
+    },
+    {
+      "Created": "2025-07-29T18:48:28Z",
+      "Title": "How to get return value from a function when the output is assigned to a local variable?",
+      "Tags": [
+        "bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719099/how-to-get-return-value-from-a-function-when-the-output-is-assigned-to-a-local-v"
+    },
+    {
+      "Created": "2025-07-29T18:52:04Z",
+      "Title": "Error \u0022x must be numeric\u0022 on numeric variables when using histBy()",
+      "Tags": [
+        "r",
+        "histogram",
+        "psych"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719105/error-x-must-be-numeric-on-numeric-variables-when-using-histby"
+    },
+    {
+      "Created": "2025-07-29T18:53:51Z",
+      "Title": "How to use if condition in Bicep variables?",
+      "Tags": [
+        "azure-bicep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719107/how-to-use-if-condition-in-bicep-variables"
+    },
+    {
+      "Created": "2025-07-29T19:03:51Z",
+      "Title": "How to assign a specific storage to an Agent based on a Custom Variable Anylogic",
+      "Tags": [
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719115/how-to-assign-a-specific-storage-to-an-agent-based-on-a-custom-variable-anylogic"
+    }
+  ]
+}

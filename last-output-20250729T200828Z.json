@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-29T19:44:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T19:25:45Z",
+      "Title": "Shibboleth 5 IDP issue with static attributes in SAML assertion",
+      "Tags": [
+        "shibboleth",
+        "idp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719130/shibboleth-5-idp-issue-with-static-attributes-in-saml-assertion"
+    },
+    {
+      "Created": "2025-07-29T19:44:19Z",
+      "Title": "Why am I getting a return of false instead of true on the ts_query for this string",
+      "Tags": [
+        "postgresql",
+        "full-text-search",
+        "tsvector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719154/why-am-i-getting-a-return-of-false-instead-of-true-on-the-ts-query-for-this-stri"
+    }
+  ]
+}

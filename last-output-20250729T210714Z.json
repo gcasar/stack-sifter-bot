@@ -1,0 +1,99 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-29T21:04:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T20:17:01Z",
+      "Title": "UnionToIntersection but union common keys",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719175/uniontointersection-but-union-common-keys"
+    },
+    {
+      "Created": "2025-07-29T20:32:04Z",
+      "Title": "Vim syntax highlighting region is not correctly highlighted",
+      "Tags": [
+        "vim",
+        "syntax-highlighting",
+        "vim-syntax-highlighting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719185/vim-syntax-highlighting-region-is-not-correctly-highlighted"
+    },
+    {
+      "Created": "2025-07-29T20:33:59Z",
+      "Title": "AS86 assembler and gdtr register",
+      "Tags": [
+        "assembly",
+        "x86",
+        "cpu-registers",
+        "gdt",
+        "as86"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719186/as86-assembler-and-gdtr-register"
+    },
+    {
+      "Created": "2025-07-29T20:43:45Z",
+      "Title": "FastAPI becomes unresponsive while running partition_pdf from unstructured in a background process",
+      "Tags": [
+        "python",
+        "fastapi",
+        "pdf-parsing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719189/fastapi-becomes-unresponsive-while-running-partition-pdf-from-unstructured-in-a"
+    },
+    {
+      "Created": "2025-07-29T20:43:46Z",
+      "Title": "How can I perform an Oracle 2-dimensional for-clause pivot in Snowflake?",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "pivot-table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719190/how-can-i-perform-an-oracle-2-dimensional-for-clause-pivot-in-snowflake"
+    },
+    {
+      "Created": "2025-07-29T20:55:31Z",
+      "Title": "Finding the first timestamp where sum of ceiling functions exceeds a threshold",
+      "Tags": [
+        "javascript",
+        "algorithm",
+        "optimization",
+        "nonlinear-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719198/finding-the-first-timestamp-where-sum-of-ceiling-functions-exceeds-a-threshold"
+    },
+    {
+      "Created": "2025-07-29T20:55:47Z",
+      "Title": "CORS issues when interacting with AWS Serverless API via browser deployed with SAM",
+      "Tags": [
+        "amazon-web-services",
+        "cors",
+        "aws-sam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719200/cors-issues-when-interacting-with-aws-serverless-api-via-browser-deployed-with-s"
+    },
+    {
+      "Created": "2025-07-29T21:00:10Z",
+      "Title": "How I properly paginate a Wikidata SPARQL query?",
+      "Tags": [
+        "performance",
+        "sparql",
+        "wikidata",
+        "wikidata-query-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719206/how-i-properly-paginate-a-wikidata-sparql-query"
+    },
+    {
+      "Created": "2025-07-29T21:04:23Z",
+      "Title": "Cannot index const object by known property in TypeScript",
+      "Tags": [
+        "typescript",
+        "object",
+        "indexing",
+        "constants",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719209/cannot-index-const-object-by-known-property-in-typescript"
+    }
+  ]
+}

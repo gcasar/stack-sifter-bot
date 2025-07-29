@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-29T22:52:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T22:22:58Z",
+      "Title": "integer exact computation with logs",
+      "Tags": [
+        "floating-point",
+        "precision",
+        "numerical-methods",
+        "floating-accuracy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719276/integer-exact-computation-with-logs"
+    },
+    {
+      "Created": "2025-07-29T22:26:15Z",
+      "Title": "NextJs hydration error when using MUI library",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "next.js",
+        "material-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719279/nextjs-hydration-error-when-using-mui-library"
+    },
+    {
+      "Created": "2025-07-29T22:30:57Z",
+      "Title": "How do I update my get_history() function to use langchain_postgres.PostgresChatMessageHistory instead of langchain_community?",
+      "Tags": [
+        "python",
+        "langchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719282/how-do-i-update-my-get-history-function-to-use-langchain-postgres-postgreschat"
+    },
+    {
+      "Created": "2025-07-29T22:33:15Z",
+      "Title": "Can you specify different filter modes in a jackrabbit filter for children of a single root?",
+      "Tags": [
+        "jcr",
+        "jackrabbit",
+        "jackrabbit-oak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719284/can-you-specify-different-filter-modes-in-a-jackrabbit-filter-for-children-of-a"
+    },
+    {
+      "Created": "2025-07-29T22:41:26Z",
+      "Title": "Creating a custom speech-to-text model, SFSpeechLanguageModel.Configuration, seems to have issues/",
+      "Tags": [
+        "swift",
+        "sfspeechrecognizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719289/creating-a-custom-speech-to-text-model-sfspeechlanguagemodel-configuration-see"
+    },
+    {
+      "Created": "2025-07-29T22:42:45Z",
+      "Title": "Is it possible to write to a .gpg file independently of gpg software?",
+      "Tags": [
+        "encryption",
+        "data-structures",
+        "cryptography",
+        "gnupg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719290/is-it-possible-to-write-to-a-gpg-file-independently-of-gpg-software"
+    },
+    {
+      "Created": "2025-07-29T22:52:08Z",
+      "Title": "Using input signals directly vs. making computed signals",
+      "Tags": [
+        "angular",
+        "angular-signals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719295/using-input-signals-directly-vs-making-computed-signals"
+    }
+  ]
+}

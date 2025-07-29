@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-29T10:05:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T09:12:12Z",
+      "Title": "NSSavePanel ignores setDirectoryURL: on macOS Sequoia (15), always opens at last-used location",
+      "Tags": [
+        "objective-c",
+        "cocoa",
+        "appkit",
+        "nspanel",
+        "macos-sequoia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718367/nssavepanel-ignores-setdirectoryurl-on-macos-sequoia-15-always-opens-at-last"
+    },
+    {
+      "Created": "2025-07-29T09:13:52Z",
+      "Title": "Generic output type depending on input parameter type",
+      "Tags": [
+        "c#",
+        "generics",
+        "delegates",
+        "func"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718369/generic-output-type-depending-on-input-parameter-type"
+    },
+    {
+      "Created": "2025-07-29T09:58:49Z",
+      "Title": "Using QBXML in a windows service",
+      "Tags": [
+        "qbxml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718419/using-qbxml-in-a-windows-service"
+    },
+    {
+      "Created": "2025-07-29T09:59:54Z",
+      "Title": "is it possible to generate typing for the update function of apollo client mutation?",
+      "Tags": [
+        "typescript",
+        "apollo-client",
+        "graphql-codegen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718421/is-it-possible-to-generate-typing-for-the-update-function-of-apollo-client-mutat"
+    },
+    {
+      "Created": "2025-07-29T10:00:44Z",
+      "Title": "Issue in creating Multi Day Booking in Microsoft Bookings app with independent start/end times",
+      "Tags": [
+        "microsoft365"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718422/issue-in-creating-multi-day-booking-in-microsoft-bookings-app-with-independent-s"
+    },
+    {
+      "Created": "2025-07-29T10:04:47Z",
+      "Title": "GraphQL: from object diff to input type",
+      "Tags": [
+        "graphql",
+        "client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718429/graphql-from-object-diff-to-input-type"
+    },
+    {
+      "Created": "2025-07-29T10:05:10Z",
+      "Title": "How do I configure which Identity Providers are displayed on the login page based on the application or Client ID?",
+      "Tags": [
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718430/how-do-i-configure-which-identity-providers-are-displayed-on-the-login-page-base"
+    }
+  ]
+}

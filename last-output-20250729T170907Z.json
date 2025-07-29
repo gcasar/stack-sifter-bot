@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-29T17:05:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T16:42:13Z",
+      "Title": "ASP.NET Core and multiple cookies",
+      "Tags": [
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718966/asp-net-core-and-multiple-cookies"
+    },
+    {
+      "Created": "2025-07-29T16:50:18Z",
+      "Title": "How can I prevent my script from timing out when writing formulas to a large file?",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718977/how-can-i-prevent-my-script-from-timing-out-when-writing-formulas-to-a-large-fil"
+    },
+    {
+      "Created": "2025-07-29T16:52:18Z",
+      "Title": "optimize computation of real part of complex product",
+      "Tags": [
+        "c\u002B\u002B",
+        "compiler-optimization",
+        "complex-numbers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718980/optimize-computation-of-real-part-of-complex-product"
+    },
+    {
+      "Created": "2025-07-29T16:58:22Z",
+      "Title": "integer linear programming, objective function with conditional term",
+      "Tags": [
+        "modeling",
+        "integer-programming",
+        "objective-function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718981/integer-linear-programming-objective-function-with-conditional-term"
+    },
+    {
+      "Created": "2025-07-29T16:58:29Z",
+      "Title": "if i wrote\u0022npm run build\u0022 command in package.json, what should i write in build command in project setting of vercel\u0027s framework setting?",
+      "Tags": [
+        "typescript",
+        "express",
+        "deployment",
+        "build",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718982/if-i-wrotenpm-run-build-command-in-package-json-what-should-i-write-in-build"
+    },
+    {
+      "Created": "2025-07-29T17:04:29Z",
+      "Title": "How to get gradient with respect to matrix in JAX?",
+      "Tags": [
+        "python",
+        "gradient-descent",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718988/how-to-get-gradient-with-respect-to-matrix-in-jax"
+    },
+    {
+      "Created": "2025-07-29T17:05:52Z",
+      "Title": "Why does an SQL SUM query return correctly direct from the database but return NULL via a Laravel 12 DB::SELECT?",
+      "Tags": [
+        "php",
+        "mysql",
+        "laravel",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718990/why-does-an-sql-sum-query-return-correctly-direct-from-the-database-but-return-n"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-29T00:33:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-28T23:16:47Z",
+      "Title": "Python asyncio: execute an asyncronous function while the main thread is blocked",
+      "Tags": [
+        "python",
+        "multithreading",
+        "asynchronous",
+        "pyside6",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717971/python-asyncio-execute-an-asyncronous-function-while-the-main-thread-is-blocked"
+    },
+    {
+      "Created": "2025-07-28T23:47:32Z",
+      "Title": "Conditional logistic regression with robust standard errors for data matched with replacement",
+      "Tags": [
+        "cluster-analysis",
+        "logistic-regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717987/conditional-logistic-regression-with-robust-standard-errors-for-data-matched-wit"
+    },
+    {
+      "Created": "2025-07-28T23:48:19Z",
+      "Title": "How can migrate Prisma without importing all my models to one schema file?",
+      "Tags": [
+        "express",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717988/how-can-migrate-prisma-without-importing-all-my-models-to-one-schema-file"
+    },
+    {
+      "Created": "2025-07-28T23:48:32Z",
+      "Title": "How can a parent class access a queried array in child class?",
+      "Tags": [
+        "swiftui",
+        "cloudkit",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717989/how-can-a-parent-class-access-a-queried-array-in-child-class"
+    },
+    {
+      "Created": "2025-07-29T00:08:42Z",
+      "Title": "Automate Geotiff Image Export",
+      "Tags": [
+        "qgis",
+        "geotiff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717996/automate-geotiff-image-export"
+    },
+    {
+      "Created": "2025-07-29T00:09:39Z",
+      "Title": "opentelemetry-cpp : library mismatch causes link error?",
+      "Tags": [
+        "c\u002B\u002B",
+        "open-telemetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79717998/opentelemetry-cpp-library-mismatch-causes-link-error"
+    },
+    {
+      "Created": "2025-07-29T00:13:30Z",
+      "Title": "In Serilog, how can I filter to match either of 2 EventIds?",
+      "Tags": [
+        "serilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718000/in-serilog-how-can-i-filter-to-match-either-of-2-eventids"
+    },
+    {
+      "Created": "2025-07-29T00:13:42Z",
+      "Title": "Searching for list of tables and delete through oracle as a procedure",
+      "Tags": [
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718001/searching-for-list-of-tables-and-delete-through-oracle-as-a-procedure"
+    },
+    {
+      "Created": "2025-07-29T00:33:00Z",
+      "Title": "Need to enumerate all combinations of n items being assigned one of two values",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718005/need-to-enumerate-all-combinations-of-n-items-being-assigned-one-of-two-values"
+    }
+  ]
+}

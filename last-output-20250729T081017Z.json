@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-29T08:04:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T07:18:54Z",
+      "Title": "Replacing int 21h vector in DOS",
+      "Tags": [
+        "assembly",
+        "interrupt",
+        "x86-16",
+        "dos",
+        "retro-computing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718245/replacing-int-21h-vector-in-dos"
+    },
+    {
+      "Created": "2025-07-29T07:25:32Z",
+      "Title": "std::variant in constexpr context",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718252/stdvariant-in-constexpr-context"
+    },
+    {
+      "Created": "2025-07-29T07:46:36Z",
+      "Title": "Uploading a file (PutObject) using aws-sdk with an InputStream received from a Mutlipart request",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "amazon-s3",
+        "aws-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718269/uploading-a-file-putobject-using-aws-sdk-with-an-inputstream-received-from-a-m"
+    },
+    {
+      "Created": "2025-07-29T07:51:25Z",
+      "Title": "How to put source information in the debug symbols without embedding the full sources on Linux?",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang\u002B\u002B",
+        "lldb",
+        "dwarf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718276/how-to-put-source-information-in-the-debug-symbols-without-embedding-the-full-so"
+    },
+    {
+      "Created": "2025-07-29T08:03:22Z",
+      "Title": "Why does Rust complain \u0022borrowed value does not live long enough\u0022 when returning an async future from a method?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718285/why-does-rust-complain-borrowed-value-does-not-live-long-enough-when-returning"
+    },
+    {
+      "Created": "2025-07-29T08:04:45Z",
+      "Title": "crypto/fips/fips.c:154: OpenSSL internal error: FATAL FIPS SELFTEST FAILURE While K8S container startup",
+      "Tags": [
+        "python",
+        "linux",
+        "openssl",
+        "pyinstaller",
+        "fips"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718287/crypto-fips-fips-c154-openssl-internal-error-fatal-fips-selftest-failure-whil"
+    }
+  ]
+}

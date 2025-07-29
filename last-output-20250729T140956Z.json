@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-29T14:03:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T13:26:06Z",
+      "Title": "How to pass type parameter explicity to Collector.of method",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718686/how-to-pass-type-parameter-explicity-to-collector-of-method"
+    },
+    {
+      "Created": "2025-07-29T13:29:45Z",
+      "Title": "How to get previous step in pg_query to get previuos value of the field? [duplicate]",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718692/how-to-get-previous-step-in-pg-query-to-get-previuos-value-of-the-field"
+    },
+    {
+      "Created": "2025-07-29T13:57:27Z",
+      "Title": "Assistance with Data Processing Insurance Premiums",
+      "Tags": [
+        "data-preprocessing",
+        "skew"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718735/assistance-with-data-processing-insurance-premiums"
+    },
+    {
+      "Created": "2025-07-29T13:59:10Z",
+      "Title": "How to return the geo distance when NOT sorting with _geo_distance in c# NEST code",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "elasticsearch",
+        "nest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718737/how-to-return-the-geo-distance-when-not-sorting-with-geo-distance-in-c-sharp-ne"
+    },
+    {
+      "Created": "2025-07-29T14:00:25Z",
+      "Title": "How to reliably listen to notifications in Android (without NotificationListenerService issues on MIUI devices)?",
+      "Tags": [
+        "android-studio",
+        "firebase-cloud-messaging",
+        "foreground-service",
+        "redmi-device",
+        "notificationlistenerservice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718740/how-to-reliably-listen-to-notifications-in-android-without-notificationlistener"
+    },
+    {
+      "Created": "2025-07-29T14:00:47Z",
+      "Title": "SharedPreference.edit().commit() on IO Dispatcher not being received by listeners",
+      "Tags": [
+        "kotlin",
+        "sharedpreferences"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718741/sharedpreference-edit-commit-on-io-dispatcher-not-being-received-by-listener"
+    },
+    {
+      "Created": "2025-07-29T14:03:06Z",
+      "Title": "Parallelising CCITT-CRC16 over via CUDA",
+      "Tags": [
+        "algorithm",
+        "cuda",
+        "crc",
+        "crc16"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718745/parallelising-ccitt-crc16-over-via-cuda"
+    },
+    {
+      "Created": "2025-07-29T14:03:51Z",
+      "Title": "How to disable sequence",
+      "Tags": [
+        "postgresql",
+        "sequence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718748/how-to-disable-sequence"
+    }
+  ]
+}

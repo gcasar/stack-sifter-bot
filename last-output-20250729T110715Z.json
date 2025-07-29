@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-29T10:58:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T10:20:18Z",
+      "Title": "Bootstrap carousel with vertical thumbnails on the left",
+      "Tags": [
+        "html",
+        "css",
+        "twitter-bootstrap",
+        "bootstrap-5",
+        "carousel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718453/bootstrap-carousel-with-vertical-thumbnails-on-the-left"
+    },
+    {
+      "Created": "2025-07-29T10:56:45Z",
+      "Title": "Angular *ngIf not removing element even when condition becomes false DOM keeps adding duplicate elements",
+      "Tags": [
+        "javascript",
+        "html",
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718487/angular-ngif-not-removing-element-even-when-condition-becomes-false-dom-keeps-a"
+    },
+    {
+      "Created": "2025-07-29T10:58:32Z",
+      "Title": "Fetch from multiple tables at once - Hibernate",
+      "Tags": [
+        "java",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718489/fetch-from-multiple-tables-at-once-hibernate"
+    }
+  ]
+}

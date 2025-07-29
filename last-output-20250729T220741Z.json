@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-29T21:43:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T21:35:51Z",
+      "Title": "Enum class with function values ends up with empty members list [duplicate]",
+      "Tags": [
+        "python",
+        "enums"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719239/enum-class-with-function-values-ends-up-with-empty-members-list"
+    },
+    {
+      "Created": "2025-07-29T21:40:30Z",
+      "Title": "Wrapped stream Unpin behaves unintuitively",
+      "Tags": [
+        "rust",
+        "types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719242/wrapped-stream-unpin-behaves-unintuitively"
+    },
+    {
+      "Created": "2025-07-29T21:43:34Z",
+      "Title": "Adding custom properties to App Insights logging",
+      "Tags": [
+        ".net-core",
+        "azure-application-insights"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719246/adding-custom-properties-to-app-insights-logging"
+    }
+  ]
+}

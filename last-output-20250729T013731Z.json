@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-29T01:21:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T01:04:29Z",
+      "Title": "Is it possible to get the Line number in a function call in AutoIT?",
+      "Tags": [
+        "autoit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718011/is-it-possible-to-get-the-line-number-in-a-function-call-in-autoit"
+    },
+    {
+      "Created": "2025-07-29T01:12:40Z",
+      "Title": "Title: My OS prints \u0022O\u0022 (OK) but hangs when I add keyboard files (even unused)",
+      "Tags": [
+        "c",
+        "operating-system",
+        "nasm",
+        "gdt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718013/title-my-os-prints-o-ok-but-hangs-when-i-add-keyboard-files-even-unused"
+    },
+    {
+      "Created": "2025-07-29T01:21:58Z",
+      "Title": "BullMQ Worker.on(\u0027ready\u0027) runs in a loop and blocks Express.js API from starting (AWS deployment)",
+      "Tags": [
+        "express",
+        "redis",
+        "bullmq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718019/bullmq-worker-onready-runs-in-a-loop-and-blocks-express-js-api-from-starting"
+    }
+  ]
+}

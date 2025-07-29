@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-29T12:09:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T11:35:56Z",
+      "Title": "Using pytest to test a while loop in module level",
+      "Tags": [
+        "python",
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718529/using-pytest-to-test-a-while-loop-in-module-level"
+    },
+    {
+      "Created": "2025-07-29T11:36:49Z",
+      "Title": "Three plots in a 2x2 format with share legend in the blank space",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "plot",
+        "legend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718531/three-plots-in-a-2x2-format-with-share-legend-in-the-blank-space"
+    },
+    {
+      "Created": "2025-07-29T11:42:18Z",
+      "Title": "How can I change the x axis of an plt.imshow to a linspace instead of integers?",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "imshow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718540/how-can-i-change-the-x-axis-of-an-plt-imshow-to-a-linspace-instead-of-integers"
+    },
+    {
+      "Created": "2025-07-29T11:42:43Z",
+      "Title": "Hide/Unhide hotfixes in control panel",
+      "Tags": [
+        "hotfix",
+        "wix5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718541/hide-unhide-hotfixes-in-control-panel"
+    },
+    {
+      "Created": "2025-07-29T11:57:11Z",
+      "Title": "OpenSCAD polyhedron \u0022ERROR: The given mesh is not closed! Unable to convert to CGAL_Nef_Polyhedron.\u0022",
+      "Tags": [
+        "mesh",
+        "openscad",
+        "polyhedra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718565/openscad-polyhedron-error-the-given-mesh-is-not-closed-unable-to-convert-to-c"
+    },
+    {
+      "Created": "2025-07-29T12:02:22Z",
+      "Title": "Expo React Native: No Text Selection on react-native-markdown-display Component",
+      "Tags": [
+        "react-native",
+        "expo",
+        "markdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718572/expo-react-native-no-text-selection-on-react-native-markdown-display-component"
+    },
+    {
+      "Created": "2025-07-29T12:05:50Z",
+      "Title": "Can\u0027t create any .jar on IntelliJ Fabric Minecraft modding",
+      "Tags": [
+        "kotlin",
+        "jar",
+        "minecraft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718575/cant-create-any-jar-on-intellij-fabric-minecraft-modding"
+    },
+    {
+      "Created": "2025-07-29T12:07:15Z",
+      "Title": "How to query the base currency of an interactive-brokers account with the TWS API",
+      "Tags": [
+        "interactive-brokers",
+        "tws"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718577/how-to-query-the-base-currency-of-an-interactive-brokers-account-with-the-tws-ap"
+    },
+    {
+      "Created": "2025-07-29T12:09:54Z",
+      "Title": "PrimeReact Editor adds unnecessary space while change the content",
+      "Tags": [
+        "ckeditor",
+        "quill",
+        "spfx",
+        "primereact",
+        "primeflex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718583/primereact-editor-adds-unnecessary-space-while-change-the-content"
+    }
+  ]
+}

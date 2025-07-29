@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-29T02:50:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T02:27:28Z",
+      "Title": "How should I call two endpoints when one depends on the other one?",
+      "Tags": [
+        "node.js",
+        "endpoint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718039/how-should-i-call-two-endpoints-when-one-depends-on-the-other-one"
+    },
+    {
+      "Created": "2025-07-29T02:27:58Z",
+      "Title": "Should I cache product lists and call revalidateTag on every mutation, or just use cache: \u0027no-store\u0027?",
+      "Tags": [
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718040/should-i-cache-product-lists-and-call-revalidatetag-on-every-mutation-or-just-u"
+    },
+    {
+      "Created": "2025-07-29T02:50:05Z",
+      "Title": "ARM64 add instruction preferred assembly",
+      "Tags": [
+        "assembly",
+        "arm64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718052/arm64-add-instruction-preferred-assembly"
+    }
+  ]
+}

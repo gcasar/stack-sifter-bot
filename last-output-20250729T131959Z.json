@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-29T13:10:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T12:57:42Z",
+      "Title": "How to remove a nested property from an object in Firestore",
+      "Tags": [
+        "javascript",
+        "google-cloud-firestore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718645/how-to-remove-a-nested-property-from-an-object-in-firestore"
+    },
+    {
+      "Created": "2025-07-29T13:02:00Z",
+      "Title": "Workflow steps are skipped despite valid conditions",
+      "Tags": [
+        "github",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718652/workflow-steps-are-skipped-despite-valid-conditions"
+    },
+    {
+      "Created": "2025-07-29T13:05:25Z",
+      "Title": "Nuxt4 Pinia is not displaying on devtools when redirecting from pages/index.vue to pages/[market]/index.vue",
+      "Tags": [
+        "nuxt.js",
+        "pinia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718659/nuxt4-pinia-is-not-displaying-on-devtools-when-redirecting-from-pages-index-vue"
+    },
+    {
+      "Created": "2025-07-29T13:07:36Z",
+      "Title": "Azure Cosmos DB session consistency: ordering outside of a session and consistent prefix guarantees",
+      "Tags": [
+        "azure",
+        "azure-cosmosdb",
+        "consistency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718665/azure-cosmos-db-session-consistency-ordering-outside-of-a-session-and-consisten"
+    },
+    {
+      "Created": "2025-07-29T13:10:43Z",
+      "Title": "Couchbase delete query to return metrics",
+      "Tags": [
+        "couchbase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718670/couchbase-delete-query-to-return-metrics"
+    }
+  ]
+}

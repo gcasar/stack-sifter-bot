@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-29T03:18:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-29T02:55:55Z",
+      "Title": "C\u002B\u002B: Is it possible to extend a member function?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718056/c-is-it-possible-to-extend-a-member-function"
+    },
+    {
+      "Created": "2025-07-29T02:59:07Z",
+      "Title": "Why does Verilog module instantiation not connect two ports?",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718058/why-does-verilog-module-instantiation-not-connect-two-ports"
+    },
+    {
+      "Created": "2025-07-29T03:06:58Z",
+      "Title": "Json response not rendering to html table, only shows raw json data",
+      "Tags": [
+        "php",
+        "json",
+        "laravel",
+        "laravel-10",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718062/json-response-not-rendering-to-html-table-only-shows-raw-json-data"
+    },
+    {
+      "Created": "2025-07-29T03:14:41Z",
+      "Title": "GCP Workflows: 2MB HTTP response limit vs 512KB variable limit - can I store large API responses?",
+      "Tags": [
+        "google-cloud-platform",
+        "workflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718065/gcp-workflows-2mb-http-response-limit-vs-512kb-variable-limit-can-i-store-lar"
+    },
+    {
+      "Created": "2025-07-29T03:18:24Z",
+      "Title": "In Ada 2022, what is the unit for string length?",
+      "Tags": [
+        "string",
+        "ada"
+      ],
+      "Url": "https://stackoverflow.com/questions/79718067/in-ada-2022-what-is-the-unit-for-string-length"
+    }
+  ]
+}

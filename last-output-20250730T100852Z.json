@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-30T09:55:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T09:22:39Z",
+      "Title": "associatedtype requires any Protocol \u2013 is this a performance concern?",
+      "Tags": [
+        "swift",
+        "generics",
+        "swift-protocols"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719701/associatedtype-requires-any-protocol-is-this-a-performance-concern"
+    },
+    {
+      "Created": "2025-07-30T09:42:35Z",
+      "Title": "\u0022(\u0022 was not closed but it was? [closed]",
+      "Tags": [
+        "python",
+        "discord.py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719724/was-not-closed-but-it-was"
+    },
+    {
+      "Created": "2025-07-30T09:48:12Z",
+      "Title": "Showing dynamic or different menus on wordpress not working in my theme",
+      "Tags": [
+        "php",
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719736/showing-dynamic-or-different-menus-on-wordpress-not-working-in-my-theme"
+    },
+    {
+      "Created": "2025-07-30T09:53:45Z",
+      "Title": "What is \u0027_tob\u0027 that is used in alias command?",
+      "Tags": [
+        "cygwin",
+        "mobaxterm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719749/what-is-tob-that-is-used-in-alias-command"
+    },
+    {
+      "Created": "2025-07-30T09:55:25Z",
+      "Title": "Autodesk Forge Viewer Doesn\u0027t Resize on Horizontal Browser Window Resize (Also in ACC Viewer and Samples Demos)",
+      "Tags": [
+        "autodesk-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719750/autodesk-forge-viewer-doesnt-resize-on-horizontal-browser-window-resize-also-i"
+    }
+  ]
+}

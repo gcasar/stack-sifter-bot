@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-30T06:05:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T05:53:28Z",
+      "Title": "How to control the mouse and keyboard on the Windows lock screen\uFF1F",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "driver",
+        "mouse",
+        "desktop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719493/how-to-control-the-mouse-and-keyboard-on-the-windows-lock-screen"
+    },
+    {
+      "Created": "2025-07-30T05:55:33Z",
+      "Title": "Postman Exchange Data Between Platform (Bitrix-Jotform)",
+      "Tags": [
+        "javascript",
+        "rest",
+        "postman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719498/postman-exchange-data-between-platform-bitrix-jotform"
+    },
+    {
+      "Created": "2025-07-30T06:01:28Z",
+      "Title": "Ideal way to write an ObservableCollection\u003Ccustomtype\u003E to a text file?",
+      "Tags": [
+        "c#",
+        "file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719506/ideal-way-to-write-an-observablecollectioncustomtype-to-a-text-file"
+    },
+    {
+      "Created": "2025-07-30T06:02:34Z",
+      "Title": "Hiding rows of data under the same value in Column G if it has an asterisk in Column A",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719508/hiding-rows-of-data-under-the-same-value-in-column-g-if-it-has-an-asterisk-in-co"
+    },
+    {
+      "Created": "2025-07-30T06:04:47Z",
+      "Title": "YouTubeExplode: \u0022Video \u0027{VideoId}\u0027 is not available\u0022 when calling GetManifestAsync in .NET 8",
+      "Tags": [
+        "c#",
+        "exception",
+        "async-await",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719510/youtubeexplode-video-videoid-is-not-available-when-calling-getmanifestasy"
+    },
+    {
+      "Created": "2025-07-30T06:05:53Z",
+      "Title": "How to properly display form data using shortcode in a custom WordPress plugin?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "plugins",
+        "shortcode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719511/how-to-properly-display-form-data-using-shortcode-in-a-custom-wordpress-plugin"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-30T16:05:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T15:58:22Z",
+      "Title": "Nested variables in FLUIDTEMPLATE",
+      "Tags": [
+        "typo3",
+        "typoscript",
+        "fluid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720233/nested-variables-in-fluidtemplate"
+    },
+    {
+      "Created": "2025-07-30T15:59:13Z",
+      "Title": "If a Python app uses uv.lock for dependencies, should pyproject.toml include version constraints at all?",
+      "Tags": [
+        "python",
+        "dependency-management",
+        "pyproject.toml",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720236/if-a-python-app-uses-uv-lock-for-dependencies-should-pyproject-toml-include-ver"
+    },
+    {
+      "Created": "2025-07-30T16:03:05Z",
+      "Title": "Force Resharper spell-checker not to accept a word",
+      "Tags": [
+        "visual-studio",
+        "resharper",
+        "spell-checking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720247/force-resharper-spell-checker-not-to-accept-a-word"
+    },
+    {
+      "Created": "2025-07-30T16:03:29Z",
+      "Title": "Context-sensitive rules in lark LARL parser",
+      "Tags": [
+        "lark-parser",
+        "lark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720248/context-sensitive-rules-in-lark-larl-parser"
+    },
+    {
+      "Created": "2025-07-30T16:05:15Z",
+      "Title": "Polars schema_override for Datetimes as string",
+      "Tags": [
+        "python",
+        "datetime",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720251/polars-schema-override-for-datetimes-as-string"
+    }
+  ]
+}

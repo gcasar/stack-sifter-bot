@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-30T18:06:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T17:34:20Z",
+      "Title": "How do you define a TypeScript interface key with a dynamic variable?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720339/how-do-you-define-a-typescript-interface-key-with-a-dynamic-variable"
+    },
+    {
+      "Created": "2025-07-30T17:37:12Z",
+      "Title": "VS Code seems to ignore lintr configuration saved in .lintr.R file",
+      "Tags": [
+        "r",
+        "visual-studio-code",
+        "lintr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720343/vs-code-seems-to-ignore-lintr-configuration-saved-in-lintr-r-file"
+    },
+    {
+      "Created": "2025-07-30T17:44:47Z",
+      "Title": "How do I convert an enum value to camel case on serializing in Micronaut with Jackson?",
+      "Tags": [
+        "kotlin",
+        "jackson",
+        "micronaut-serde"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720351/how-do-i-convert-an-enum-value-to-camel-case-on-serializing-in-micronaut-with-ja"
+    },
+    {
+      "Created": "2025-07-30T17:49:12Z",
+      "Title": "Using Android CA Store And openssl 3.1.1",
+      "Tags": [
+        "android",
+        "c",
+        "openssl",
+        "ssl-certificate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720354/using-android-ca-store-and-openssl-3-1-1"
+    },
+    {
+      "Created": "2025-07-30T18:00:45Z",
+      "Title": "How to read exported symbol from a running process in macOS using C code?",
+      "Tags": [
+        "c",
+        "macos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720360/how-to-read-exported-symbol-from-a-running-process-in-macos-using-c-code"
+    },
+    {
+      "Created": "2025-07-30T18:06:37Z",
+      "Title": "Different behaviour of Visual Studio when two users link the same code",
+      "Tags": [
+        "visual-studio",
+        "cmake",
+        "visual-studio-2022",
+        "linker-errors",
+        "googletest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720363/different-behaviour-of-visual-studio-when-two-users-link-the-same-code"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-30T17:03:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T16:24:29Z",
+      "Title": "Custom HTML list with brackets",
+      "Tags": [
+        "html",
+        "css",
+        "html-lists"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720272/custom-html-list-with-brackets"
+    },
+    {
+      "Created": "2025-07-30T16:58:09Z",
+      "Title": "ASP.NET / C# - error trying to get totals on a gridview",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "gridview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720310/asp-net-c-sharp-error-trying-to-get-totals-on-a-gridview"
+    },
+    {
+      "Created": "2025-07-30T17:03:41Z",
+      "Title": "Horizontal scroll on shift in PyQt",
+      "Tags": [
+        "python",
+        "mousewheel",
+        "pyqt6",
+        "eventfilter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720317/horizontal-scroll-on-shift-in-pyqt"
+    }
+  ]
+}

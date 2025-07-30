@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-30T02:39:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T02:07:00Z",
+      "Title": "GeoJSON displayed when checkbox is checked in flutter_map",
+      "Tags": [
+        "flutter",
+        "fluttermap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719368/geojson-displayed-when-checkbox-is-checked-in-flutter-map"
+    },
+    {
+      "Created": "2025-07-30T02:20:25Z",
+      "Title": "react-native-text-ticker doesn\u0027t show animation after upgrading React Native Version to 0.80\u003E",
+      "Tags": [
+        "ios",
+        "reactjs",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719376/react-native-text-ticker-doesnt-show-animation-after-upgrading-react-native-ver"
+    },
+    {
+      "Created": "2025-07-30T02:39:42Z",
+      "Title": "opengl depth testing results in flash, the black window",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "glfw",
+        "glew"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719383/opengl-depth-testing-results-in-flash-the-black-window"
+    }
+  ]
+}

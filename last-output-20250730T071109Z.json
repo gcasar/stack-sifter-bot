@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-30T07:08:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T06:32:51Z",
+      "Title": "Use results of one log group query to query another log group",
+      "Tags": [
+        "amazon-cloudwatch",
+        "amazon-cloudwatchlogs",
+        "aws-cloudwatch-log-insights"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719537/use-results-of-one-log-group-query-to-query-another-log-group"
+    },
+    {
+      "Created": "2025-07-30T06:57:30Z",
+      "Title": "Unexpected Memory Leak in Python\u0027s asyncio When Using contextvars with Nested TaskGroups",
+      "Tags": [
+        "python",
+        "memory-leaks",
+        "python-asyncio",
+        "python-contextvars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719555/unexpected-memory-leak-in-pythons-asyncio-when-using-contextvars-with-nested-ta"
+    },
+    {
+      "Created": "2025-07-30T07:08:59Z",
+      "Title": "iOS 26 web page with script is terminated on custom scheme WKURLSchemeHandler",
+      "Tags": [
+        "ios",
+        "webkit",
+        "wkwebview",
+        "ios26",
+        "wkurlschemehandler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719571/ios-26-web-page-with-script-is-terminated-on-custom-scheme-wkurlschemehandler"
+    }
+  ]
+}

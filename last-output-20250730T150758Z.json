@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-30T14:54:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T14:14:58Z",
+      "Title": "How to Write Command For Sending Outlook Email Through VBS and Task Scheduler",
+      "Tags": [
+        "excel",
+        "automation",
+        "outlook",
+        "vbscript",
+        "taskscheduler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720105/how-to-write-command-for-sending-outlook-email-through-vbs-and-task-scheduler"
+    },
+    {
+      "Created": "2025-07-30T14:44:47Z",
+      "Title": "Static variable in the header file (C, not C\u002B\u002B)",
+      "Tags": [
+        "c",
+        "static"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720136/static-variable-in-the-header-file-c-not-c"
+    },
+    {
+      "Created": "2025-07-30T14:51:53Z",
+      "Title": "SqlQuery result : Microsoft.Data.SqlClient.SqlException: \u0027Invalid column name\u00A0: \u0027Value\u0027.\u0027",
+      "Tags": [
+        "sql-server",
+        "entity-framework-core",
+        "collation",
+        "sqlexception",
+        "sqlquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720143/sqlquery-result-microsoft-data-sqlclient-sqlexception-invalid-column-name"
+    },
+    {
+      "Created": "2025-07-30T14:52:30Z",
+      "Title": "call ssl::stream::async_shutdown after read operation cancelled",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio",
+        "boost-beast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720145/call-sslstreamasync-shutdown-after-read-operation-cancelled"
+    },
+    {
+      "Created": "2025-07-30T14:54:14Z",
+      "Title": "Right config to produce big batches into a kafka broker",
+      "Tags": [
+        "apache-kafka",
+        "quarkus",
+        "kafka-producer-api",
+        "smallrye-reactive-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720148/right-config-to-produce-big-batches-into-a-kafka-broker"
+    }
+  ]
+}

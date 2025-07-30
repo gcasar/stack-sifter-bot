@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-07-30T21:06:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T20:06:21Z",
+      "Title": "Can one mix binary and encrypted data in a common java.io.Input/OutputStream?",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720471/can-one-mix-binary-and-encrypted-data-in-a-common-java-io-input-outputstream"
+    },
+    {
+      "Created": "2025-07-30T20:49:19Z",
+      "Title": "What could cause a Django webpage rendering on main domain but not subdomain and localhost?",
+      "Tags": [
+        "python",
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720520/what-could-cause-a-django-webpage-rendering-on-main-domain-but-not-subdomain-and"
+    },
+    {
+      "Created": "2025-07-30T20:50:21Z",
+      "Title": "How to handle application recreation after user revoked permissions through settings",
+      "Tags": [
+        "android",
+        "android-fragments",
+        "android-permissions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720521/how-to-handle-application-recreation-after-user-revoked-permissions-through-sett"
+    },
+    {
+      "Created": "2025-07-30T20:53:26Z",
+      "Title": "Is it safe to save the password_hash in a class?",
+      "Tags": [
+        "python",
+        "flask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720524/is-it-safe-to-save-the-password-hash-in-a-class"
+    },
+    {
+      "Created": "2025-07-30T20:53:37Z",
+      "Title": "Column named read as tuple instead of string in pandas",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720525/column-named-read-as-tuple-instead-of-string-in-pandas"
+    },
+    {
+      "Created": "2025-07-30T20:57:15Z",
+      "Title": "AppServices \u0060AppUnavailable\u0060 when packaging as MSIX",
+      "Tags": [
+        "c#",
+        ".net",
+        "uwp",
+        "ipc",
+        "winui-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720528/appservices-appunavailable-when-packaging-as-msix"
+    },
+    {
+      "Created": "2025-07-30T20:59:00Z",
+      "Title": "Identify small streets connected to the main road in postgis",
+      "Tags": [
+        "postgresql",
+        "line",
+        "postgis",
+        "multilinestring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720530/identify-small-streets-connected-to-the-main-road-in-postgis"
+    },
+    {
+      "Created": "2025-07-30T21:06:10Z",
+      "Title": "Google Sheets App Script v8: How to retrieve triggers?",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script",
+        "v8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720532/google-sheets-app-script-v8-how-to-retrieve-triggers"
+    }
+  ]
+}

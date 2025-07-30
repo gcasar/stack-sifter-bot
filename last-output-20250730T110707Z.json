@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-30T10:55:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T10:18:32Z",
+      "Title": "ObjC compiler cannot find method in protocol",
+      "Tags": [
+        "objective-c",
+        "objective-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719790/objc-compiler-cannot-find-method-in-protocol"
+    },
+    {
+      "Created": "2025-07-30T10:41:53Z",
+      "Title": "Storing production information and new settings in non-volatile memory in embedded systems",
+      "Tags": [
+        "database",
+        "embedded",
+        "microcontroller",
+        "flash-memory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719818/storing-production-information-and-new-settings-in-non-volatile-memory-in-embedd"
+    },
+    {
+      "Created": "2025-07-30T10:49:26Z",
+      "Title": "define squares margins color in ggplot::geom_tile",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719827/define-squares-margins-color-in-ggplotgeom-tile"
+    },
+    {
+      "Created": "2025-07-30T10:50:32Z",
+      "Title": "Playing AVAsset and capturing its CMSampleBuffers during playback for video track",
+      "Tags": [
+        "avfoundation",
+        "avplayer",
+        "avplayeritem",
+        "avvideocomposition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719828/playing-avasset-and-capturing-its-cmsamplebuffers-during-playback-for-video-trac"
+    },
+    {
+      "Created": "2025-07-30T10:55:29Z",
+      "Title": "Flexbox and rotation",
+      "Tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719832/flexbox-and-rotation"
+    }
+  ]
+}

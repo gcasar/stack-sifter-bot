@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-30T01:24:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T01:20:30Z",
+      "Title": "How to map nested GLLineItems from different parent items",
+      "Tags": [
+        "pyqt",
+        "pyside6",
+        "pyqtgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719350/how-to-map-nested-gllineitems-from-different-parent-items"
+    },
+    {
+      "Created": "2025-07-30T01:24:48Z",
+      "Title": "CSRF Vulnerability in nodejs",
+      "Tags": [
+        "security",
+        "csrf",
+        "csrf-token",
+        "codeql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719352/csrf-vulnerability-in-nodejs"
+    }
+  ]
+}

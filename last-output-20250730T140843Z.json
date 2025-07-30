@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-30T13:59:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T13:39:33Z",
+      "Title": "Entity Framework - Combining multiple unknown queries using Union",
+      "Tags": [
+        "c#",
+        ".net",
+        "entity-framework",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720046/entity-framework-combining-multiple-unknown-queries-using-union"
+    },
+    {
+      "Created": "2025-07-30T13:51:05Z",
+      "Title": "Can a transformed widget in Flutter size itself dynamically based on its child\u0027s post-transform size?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-animation",
+        "mobile-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720065/can-a-transformed-widget-in-flutter-size-itself-dynamically-based-on-its-childs"
+    },
+    {
+      "Created": "2025-07-30T13:55:40Z",
+      "Title": "Is it possible to have lock files (or similar) for VS Code extensions?",
+      "Tags": [
+        "vscode-devcontainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720074/is-it-possible-to-have-lock-files-or-similar-for-vs-code-extensions"
+    },
+    {
+      "Created": "2025-07-30T13:57:28Z",
+      "Title": "Is \u0060-300\u003C5000\u0060 true in VerilogHDL?",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720078/is-3005000-true-in-veriloghdl"
+    },
+    {
+      "Created": "2025-07-30T13:58:51Z",
+      "Title": "Constructor is ambiguous however there is only one candidate",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720080/constructor-is-ambiguous-however-there-is-only-one-candidate"
+    },
+    {
+      "Created": "2025-07-30T13:59:09Z",
+      "Title": "Flashlight Turn OFF",
+      "Tags": [
+        "godot",
+        "gdscript",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720081/flashlight-turn-off"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-30T19:03:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T18:19:35Z",
+      "Title": "What does the macro condition \u0022#ifdef __augmented\u0022 check in C?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720373/what-does-the-macro-condition-ifdef-augmented-check-in-c"
+    },
+    {
+      "Created": "2025-07-30T18:37:49Z",
+      "Title": "How to get Record IDs from OnRequest",
+      "Tags": [
+        "netsuite",
+        "suitescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720394/how-to-get-record-ids-from-onrequest"
+    },
+    {
+      "Created": "2025-07-30T18:48:38Z",
+      "Title": "How to store and manage duplicate timestamps in Apache IoTDB while preserving data with larger ID values?",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720407/how-to-store-and-manage-duplicate-timestamps-in-apache-iotdb-while-preserving-da"
+    },
+    {
+      "Created": "2025-07-30T19:00:41Z",
+      "Title": "Unable to connect to EMR cluster from SageMaker Unified Studio using runtime role \u2013 credentials are null",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-iam",
+        "amazon-emr",
+        "amazon-sagemaker",
+        "amazon-sagemaker-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720412/unable-to-connect-to-emr-cluster-from-sagemaker-unified-studio-using-runtime-rol"
+    },
+    {
+      "Created": "2025-07-30T19:03:06Z",
+      "Title": "Rolling quantile with lots of groups",
+      "Tags": [
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720414/rolling-quantile-with-lots-of-groups"
+    }
+  ]
+}

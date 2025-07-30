@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-30T22:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T22:00:17Z",
+      "Title": "How to capture the location event (enter/exit) that launched the app from terminated state?",
+      "Tags": [
+        "ios",
+        "swift",
+        "core-location",
+        "geofencing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720580/how-to-capture-the-location-event-enter-exit-that-launched-the-app-from-termin"
+    },
+    {
+      "Created": "2025-07-30T22:04:10Z",
+      "Title": "Ktor client 3.2.0\u002B causes first authenticated call to return 400 Bad Request",
+      "Tags": [
+        "android",
+        "http",
+        "ktor",
+        "ktor-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720584/ktor-client-3-2-0-causes-first-authenticated-call-to-return-400-bad-request"
+    }
+  ]
+}

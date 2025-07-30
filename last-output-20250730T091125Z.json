@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-30T08:54:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T08:42:39Z",
+      "Title": "cdn.datatables.net connection refused, datatable won\u0027t load",
+      "Tags": [
+        "javascript",
+        "jquery",
+        "datatables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719666/cdn-datatables-net-connection-refused-datatable-wont-load"
+    },
+    {
+      "Created": "2025-07-30T08:45:43Z",
+      "Title": "Dont close Dialog onAccepted",
+      "Tags": [
+        "qt",
+        "qml",
+        "qtquick2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719669/dont-close-dialog-onaccepted"
+    },
+    {
+      "Created": "2025-07-30T08:47:37Z",
+      "Title": "Problem refreshing excel data from Pyhton Script [closed]",
+      "Tags": [
+        "python",
+        "excel",
+        "windows",
+        "time",
+        "refresh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719672/problem-refreshing-excel-data-from-pyhton-script"
+    },
+    {
+      "Created": "2025-07-30T08:54:24Z",
+      "Title": "Problem when using \u0060/^([^\\n]*?)(\\n)(.*)$/m\u0060 to match multi-line string",
+      "Tags": [
+        "regex",
+        "perl",
+        "regex-group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719680/problem-when-using-n-n-m-to-match-multi-line-string"
+    }
+  ]
+}

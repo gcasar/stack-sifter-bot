@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-30T12:09:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T11:17:06Z",
+      "Title": "How to parse a RFC7517 JWK Set with JJWT?",
+      "Tags": [
+        "java",
+        "jwt",
+        "jwk",
+        "jjwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719863/how-to-parse-a-rfc7517-jwk-set-with-jjwt"
+    },
+    {
+      "Created": "2025-07-30T11:35:40Z",
+      "Title": "How to Convert Number Strings with Thousand and Decimal Separators to Float in PL/SQL?",
+      "Tags": [
+        "sql",
+        "plsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719885/how-to-convert-number-strings-with-thousand-and-decimal-separators-to-float-in-p"
+    },
+    {
+      "Created": "2025-07-30T11:43:30Z",
+      "Title": "Closure problem with loop and anonymous function",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "closures",
+        "anonymous-function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719892/closure-problem-with-loop-and-anonymous-function"
+    },
+    {
+      "Created": "2025-07-30T11:57:48Z",
+      "Title": "How to correctly launch my app from NSIS installer script",
+      "Tags": [
+        "c\u002B\u002B",
+        "nsis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719916/how-to-correctly-launch-my-app-from-nsis-installer-script"
+    },
+    {
+      "Created": "2025-07-30T11:57:51Z",
+      "Title": "UDP server in Go doesn\u0027t receive calls from Lua client",
+      "Tags": [
+        "go",
+        "server",
+        "lua",
+        "udp",
+        "client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719917/udp-server-in-go-doesnt-receive-calls-from-lua-client"
+    },
+    {
+      "Created": "2025-07-30T12:09:10Z",
+      "Title": "Uniqueness of multiple unnamed namespaces within translation unit",
+      "Tags": [
+        "c\u002B\u002B",
+        "unnamed-namespace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719928/uniqueness-of-multiple-unnamed-namespaces-within-translation-unit"
+    }
+  ]
+}

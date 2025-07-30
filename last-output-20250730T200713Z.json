@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-30T20:04:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T19:35:18Z",
+      "Title": "Problem with Pygame window not spawning at the top left of the screen [duplicate]",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720448/problem-with-pygame-window-not-spawning-at-the-top-left-of-the-screen"
+    },
+    {
+      "Created": "2025-07-30T19:50:26Z",
+      "Title": "Calculating percentage from relationships in a multi-node path in Neo4j",
+      "Tags": [
+        "neo4j",
+        "cypher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720461/calculating-percentage-from-relationships-in-a-multi-node-path-in-neo4j"
+    },
+    {
+      "Created": "2025-07-30T19:56:25Z",
+      "Title": "How can I trigger automatic actions when a model field (e.g. date) reaches a specific time like 5 days, weekly, or yearly?",
+      "Tags": [
+        "python",
+        "django",
+        "django-signals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720465/how-can-i-trigger-automatic-actions-when-a-model-field-e-g-date-reaches-a-spe"
+    },
+    {
+      "Created": "2025-07-30T20:04:14Z",
+      "Title": "Quote being escaped in Jinja2",
+      "Tags": [
+        "ansible",
+        "jinja2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720470/quote-being-escaped-in-jinja2"
+    }
+  ]
+}

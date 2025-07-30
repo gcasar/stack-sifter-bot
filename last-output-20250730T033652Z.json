@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-30T03:35:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T02:56:23Z",
+      "Title": "Problem with MIME type error when redirecting to angular (with i18n) route via azure front-door rule",
+      "Tags": [
+        "angular",
+        "azure",
+        "mime-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719393/problem-with-mime-type-error-when-redirecting-to-angular-with-i18n-route-via-a"
+    },
+    {
+      "Created": "2025-07-30T03:09:36Z",
+      "Title": "A generic wrapper for C\u002B\u002B vector of structs operations: removal, find_if, etc",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719400/a-generic-wrapper-for-c-vector-of-structs-operations-removal-find-if-etc"
+    },
+    {
+      "Created": "2025-07-30T03:25:53Z",
+      "Title": "Using Espressif IDF in Vscode, how do I compress a bin file for OTA updates",
+      "Tags": [
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719407/using-espressif-idf-in-vscode-how-do-i-compress-a-bin-file-for-ota-updates"
+    },
+    {
+      "Created": "2025-07-30T03:35:01Z",
+      "Title": "\u0027Processing Error\u0027 from M365 Agents Toolkit Declarative Agent when connecting to Azure Logic Apps through HTTP request",
+      "Tags": [
+        "openapi",
+        "azure-logic-apps",
+        "teams-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719413/processing-error-from-m365-agents-toolkit-declarative-agent-when-connecting-to"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-07-30T13:17:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T12:09:11Z",
+      "Title": "How do i fix menu popover breaking the new glassEffect function?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "ios26",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719929/how-do-i-fix-menu-popover-breaking-the-new-glasseffect-function"
+    },
+    {
+      "Created": "2025-07-30T12:32:49Z",
+      "Title": "Azure Cloud - Grant MS Graph Access Via AZ CLI",
+      "Tags": [
+        "azure-managed-identity",
+        "azure-mysql-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719965/azure-cloud-grant-ms-graph-access-via-az-cli"
+    },
+    {
+      "Created": "2025-07-30T12:34:38Z",
+      "Title": "I need another way to fill a shape other than begin_fill() and end_fill()",
+      "Tags": [
+        "python",
+        "python-turtle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719969/i-need-another-way-to-fill-a-shape-other-than-begin-fill-and-end-fill"
+    },
+    {
+      "Created": "2025-07-30T12:39:39Z",
+      "Title": "dotenv with Angular 19",
+      "Tags": [
+        "angular",
+        "dotenv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719977/dotenv-with-angular-19"
+    },
+    {
+      "Created": "2025-07-30T13:03:01Z",
+      "Title": "How to reconstruct the result set structure when using new ALIGN BY DEVICE syntax in Apache IoTDB 1.2?",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720005/how-to-reconstruct-the-result-set-structure-when-using-new-align-by-device-synta"
+    },
+    {
+      "Created": "2025-07-30T13:03:28Z",
+      "Title": "Bot Framework - using TeamsSSOTokenExchangeMiddleware prevents OnTeamsSigninVerifyStateAsync from being called",
+      "Tags": [
+        "c#",
+        "azure",
+        "oauth",
+        "botframework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720007/bot-framework-using-teamsssotokenexchangemiddleware-prevents-onteamssigninveri"
+    },
+    {
+      "Created": "2025-07-30T13:05:43Z",
+      "Title": "Avoid counting waiting time before the first departure in DFS-based pathfinding graph",
+      "Tags": [
+        "graph",
+        "nodes",
+        "depth-first-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720011/avoid-counting-waiting-time-before-the-first-departure-in-dfs-based-pathfinding"
+    },
+    {
+      "Created": "2025-07-30T13:08:06Z",
+      "Title": "NMEAParser handler not called when GPGGA contains coordinates (Portenta H7, simpleRTK3B)",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "nmea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720012/nmeaparser-handler-not-called-when-gpgga-contains-coordinates-portenta-h7-simp"
+    },
+    {
+      "Created": "2025-07-30T13:09:32Z",
+      "Title": "Can\u0027t Upload to FTPS using Python\u0027s Ftplib",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "ftps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720013/cant-upload-to-ftps-using-pythons-ftplib"
+    },
+    {
+      "Created": "2025-07-30T13:11:02Z",
+      "Title": "TestFlight - app crashes immediately on launch",
+      "Tags": [
+        "ios",
+        "maui",
+        "app-store-connect",
+        "testflight"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720014/testflight-app-crashes-immediately-on-launch"
+    },
+    {
+      "Created": "2025-07-30T13:17:31Z",
+      "Title": "What are the actual benefits of returning a constant value from a function/method?",
+      "Tags": [
+        "c\u002B\u002B",
+        "constants"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720020/what-are-the-actual-benefits-of-returning-a-constant-value-from-a-function-metho"
+    }
+  ]
+}

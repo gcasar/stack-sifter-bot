@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-30T07:58:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T07:43:28Z",
+      "Title": "I want to be able to change the value in a userform textbox based on criteria",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719613/i-want-to-be-able-to-change-the-value-in-a-userform-textbox-based-on-criteria"
+    },
+    {
+      "Created": "2025-07-30T07:51:58Z",
+      "Title": "Openlayers Pmtiles Vector Styling",
+      "Tags": [
+        "angular",
+        "typescript",
+        "openlayers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719623/openlayers-pmtiles-vector-styling"
+    },
+    {
+      "Created": "2025-07-30T07:58:23Z",
+      "Title": "Does $dbh-\u003Eprepare() provide any benefits for MySQL access?",
+      "Tags": [
+        "mysql",
+        "perl",
+        "prepared-statement",
+        "dbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79719632/does-dbh-prepare-provide-any-benefits-for-mysql-access"
+    }
+  ]
+}

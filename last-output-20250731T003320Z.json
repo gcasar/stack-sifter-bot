@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-31T00:10:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-30T23:59:13Z",
+      "Title": "Accessing either a \u0027.xlsb\u0027 or a \u0027.xslx\u0027 files for a macro procedure",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720641/accessing-either-a-xlsb-or-a-xslx-files-for-a-macro-procedure"
+    },
+    {
+      "Created": "2025-07-31T00:07:11Z",
+      "Title": "WebSocket interface binding not working with Boost.Beast - socket still uses default interface",
+      "Tags": [
+        "boost",
+        "boost-asio",
+        "nic",
+        "boost-beast-websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720645/websocket-interface-binding-not-working-with-boost-beast-socket-still-uses-def"
+    },
+    {
+      "Created": "2025-07-31T00:10:37Z",
+      "Title": "String format specifier works but prevents reading of others",
+      "Tags": [
+        "c",
+        "file",
+        "scanf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720646/string-format-specifier-works-but-prevents-reading-of-others"
+    },
+    {
+      "Created": "2025-07-31T00:10:44Z",
+      "Title": "Replacing repeated arbitary characters with reg expression",
+      "Tags": [
+        "regex",
+        "shell",
+        "perl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720647/replacing-repeated-arbitary-characters-with-reg-expression"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-31T18:08:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T17:44:47Z",
+      "Title": "Calling functions from a dict, but with different params",
+      "Tags": [
+        "python",
+        "function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721659/calling-functions-from-a-dict-but-with-different-params"
+    },
+    {
+      "Created": "2025-07-31T17:47:44Z",
+      "Title": "How to test if a specific event with specific args was one of many events raised?",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "xunit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721668/how-to-test-if-a-specific-event-with-specific-args-was-one-of-many-events-raised"
+    },
+    {
+      "Created": "2025-07-31T17:50:09Z",
+      "Title": "Is it possible to use EF Migrations at the command line?",
+      "Tags": [
+        "entity-framework",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721671/is-it-possible-to-use-ef-migrations-at-the-command-line"
+    },
+    {
+      "Created": "2025-07-31T17:55:34Z",
+      "Title": "Weird gettimeofday behaviour (weird time jumps)",
+      "Tags": [
+        "c",
+        "time.h",
+        "timeval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721675/weird-gettimeofday-behaviour-weird-time-jumps"
+    },
+    {
+      "Created": "2025-07-31T18:00:26Z",
+      "Title": "Terraform: Produce an output from a module that using \u0027this\u0027 keyword",
+      "Tags": [
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721677/terraform-produce-an-output-from-a-module-that-using-this-keyword"
+    },
+    {
+      "Created": "2025-07-31T18:08:03Z",
+      "Title": "How to type class method arguments based on function arguments passed to class constructor",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "function",
+        "generics",
+        "methods"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721686/how-to-type-class-method-arguments-based-on-function-arguments-passed-to-class-c"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-31T09:55:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T09:13:04Z",
+      "Title": "Parse JSON response with zod inside a TypeScript function that uses Generics",
+      "Tags": [
+        "typescript",
+        "typescript-generics",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721055/parse-json-response-with-zod-inside-a-typescript-function-that-uses-generics"
+    },
+    {
+      "Created": "2025-07-31T09:55:57Z",
+      "Title": "Can\u0027t compile nghttp2 static with qt c\u002B\u002B project with msvc",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721108/cant-compile-nghttp2-static-with-qt-c-project-with-msvc"
+    }
+  ]
+}

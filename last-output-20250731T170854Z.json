@@ -1,0 +1,104 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-07-31T17:05:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T16:42:05Z",
+      "Title": "ChaCha20-Poly1305: Not streamable?",
+      "Tags": [
+        "java",
+        "encryption",
+        "stream-cipher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721596/chacha20-poly1305-not-streamable"
+    },
+    {
+      "Created": "2025-07-31T16:45:28Z",
+      "Title": "Writing simple functions that take data.table column name(s) as arguments",
+      "Tags": [
+        "r",
+        "data.table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721602/writing-simple-functions-that-take-data-table-column-names-as-arguments"
+    },
+    {
+      "Created": "2025-07-31T16:47:14Z",
+      "Title": "Select Range of Columns by Dates, Fill with values from another column",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721603/select-range-of-columns-by-dates-fill-with-values-from-another-column"
+    },
+    {
+      "Created": "2025-07-31T16:51:08Z",
+      "Title": "Copilot Studio - OOTB Thumbs up down feature",
+      "Tags": [
+        "microsoft-copilot-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721605/copilot-studio-ootb-thumbs-up-down-feature"
+    },
+    {
+      "Created": "2025-07-31T17:01:11Z",
+      "Title": "Center Flutter \u0060ListTile\u0060 title",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721613/center-flutter-listtile-title"
+    },
+    {
+      "Created": "2025-07-31T17:02:17Z",
+      "Title": "How to bind Enum values from observablecollection of items to Datagridcombobox",
+      "Tags": [
+        "c#",
+        "wpf",
+        "datagrid",
+        "observablecollection",
+        "datagridcomboboxcolumn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721615/how-to-bind-enum-values-from-observablecollection-of-items-to-datagridcombobox"
+    },
+    {
+      "Created": "2025-07-31T17:02:22Z",
+      "Title": "i want that my scrips in playwright python should get more better cuz they get banned the browser profiles",
+      "Tags": [
+        "javascript",
+        "python",
+        "playwright",
+        "browser-automation",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721616/i-want-that-my-scrips-in-playwright-python-should-get-more-better-cuz-they-get-b"
+    },
+    {
+      "Created": "2025-07-31T17:03:24Z",
+      "Title": "AsyncSSH Basic SFTP Server permission error - connection fails",
+      "Tags": [
+        "python",
+        "python-asyncio",
+        "sftp",
+        "asyncssh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721617/asyncssh-basic-sftp-server-permission-error-connection-fails"
+    },
+    {
+      "Created": "2025-07-31T17:05:15Z",
+      "Title": "http2 load balancing implementation",
+      "Tags": [
+        "load-balancing",
+        "http2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721619/http2-load-balancing-implementation"
+    },
+    {
+      "Created": "2025-07-31T17:05:35Z",
+      "Title": "Word Tables Don\u0027t Merge When Deleting Data Between Them",
+      "Tags": [
+        "vba",
+        "ms-word"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721620/word-tables-dont-merge-when-deleting-data-between-them"
+    }
+  ]
+}

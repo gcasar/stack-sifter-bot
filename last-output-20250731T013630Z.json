@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-31T01:29:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T01:07:10Z",
+      "Title": "In a Parent and Child Parallel.ForEachAsync Loops Does Each Instance of the Parents variables Belong Only to It\u0027s Children",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "thread-safety"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720667/in-a-parent-and-child-parallel-foreachasync-loops-does-each-instance-of-the-pare"
+    },
+    {
+      "Created": "2025-07-31T01:14:56Z",
+      "Title": "how to import a group of functions with a common prefix",
+      "Tags": [
+        "python-3.x",
+        "import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720670/how-to-import-a-group-of-functions-with-a-common-prefix"
+    },
+    {
+      "Created": "2025-07-31T01:20:18Z",
+      "Title": "Getting always 0 in agent evaluation with Agent Goal accuracy In RAGAS AI Framework",
+      "Tags": [
+        "openai-api",
+        "large-language-model",
+        "agent",
+        "evaluation",
+        "ragas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720672/getting-always-0-in-agent-evaluation-with-agent-goal-accuracy-in-ragas-ai-framew"
+    },
+    {
+      "Created": "2025-07-31T01:28:46Z",
+      "Title": "Does critical section protected by semaphore, mutex, etc, implicitly volatile?",
+      "Tags": [
+        "c",
+        "compiler-optimization",
+        "volatile",
+        "critical-section"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720673/does-critical-section-protected-by-semaphore-mutex-etc-implicitly-volatile"
+    },
+    {
+      "Created": "2025-07-31T01:29:46Z",
+      "Title": "Andriod Lock Task Mode",
+      "Tags": [
+        "android",
+        "flutter",
+        "kiosk-mode",
+        "device-owner",
+        "android-device-owner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720674/andriod-lock-task-mode"
+    }
+  ]
+}

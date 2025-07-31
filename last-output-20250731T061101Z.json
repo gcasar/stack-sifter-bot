@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-31T05:51:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T05:29:19Z",
+      "Title": "How to detect mouse over canvas",
+      "Tags": [
+        "javascript",
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720819/how-to-detect-mouse-over-canvas"
+    },
+    {
+      "Created": "2025-07-31T05:34:13Z",
+      "Title": "Kubernetes startup probe fails with EOF Error in init container, but endpoint is reachable from ephemeral container",
+      "Tags": [
+        "docker",
+        "kubernetes",
+        "kind"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720823/kubernetes-startup-probe-fails-with-eof-error-in-init-container-but-endpoint-is"
+    },
+    {
+      "Created": "2025-07-31T05:34:24Z",
+      "Title": "Why does extracting the only key from a dictionary inside a lambda used in map() behave inconsistently across Python versions?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "dictionary",
+        "multiprocessing",
+        "iterator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720824/why-does-extracting-the-only-key-from-a-dictionary-inside-a-lambda-used-in-map"
+    },
+    {
+      "Created": "2025-07-31T05:51:52Z",
+      "Title": "Conditional sidecars in devcontainer?",
+      "Tags": [
+        "docker",
+        "docker-compose",
+        "vscode-devcontainer",
+        "devcontainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720835/conditional-sidecars-in-devcontainer"
+    }
+  ]
+}

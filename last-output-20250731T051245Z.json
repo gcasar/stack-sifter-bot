@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-31T05:07:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T04:36:41Z",
+      "Title": "is it possible to use json property to receive parameters from get parameters in java spring boot",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720787/is-it-possible-to-use-json-property-to-receive-parameters-from-get-parameters-in"
+    },
+    {
+      "Created": "2025-07-31T04:49:02Z",
+      "Title": "Convert Alpine.js on-click to Datastar data-on*",
+      "Tags": [
+        "javascript",
+        "html",
+        "alpine.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720797/convert-alpine-js-on-click-to-datastar-data-on"
+    },
+    {
+      "Created": "2025-07-31T05:06:05Z",
+      "Title": "Pthon UnpicklingError: invalid load key, \u0027\\xef\u0027",
+      "Tags": [
+        "python",
+        "deserialization",
+        "upickle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720805/pthon-unpicklingerror-invalid-load-key-xef"
+    },
+    {
+      "Created": "2025-07-31T05:07:57Z",
+      "Title": "Android Wear OS: How do I open my activity or make a pop up notification, from my foreground service, when the screen is blacked out",
+      "Tags": [
+        "android",
+        "android-notifications",
+        "wear-os",
+        "foreground-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720806/android-wear-os-how-do-i-open-my-activity-or-make-a-pop-up-notification-from-m"
+    }
+  ]
+}

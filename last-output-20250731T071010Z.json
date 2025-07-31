@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-31T07:00:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T06:21:42Z",
+      "Title": "Why does CloudFlare R2 calculate a different SignatureV4 when using awssdk\u0027s S3AsyncClient",
+      "Tags": [
+        "java",
+        "amazon-s3",
+        "aws-sdk",
+        "aws-sdk-java-2.0",
+        "cloudflare-r2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720855/why-does-cloudflare-r2-calculate-a-different-signaturev4-when-using-awssdks-s3a"
+    },
+    {
+      "Created": "2025-07-31T06:50:31Z",
+      "Title": "pgAdmin 4 v9.6: \u0022Save the application state\u0022 is turned off but tabs remain open when Windows app is closed",
+      "Tags": [
+        "pgadmin",
+        "pgadmin-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720893/pgadmin-4-v9-6-save-the-application-state-is-turned-off-but-tabs-remain-open"
+    },
+    {
+      "Created": "2025-07-31T07:00:03Z",
+      "Title": "Flutter Firebase notification does not trigger onMessageOpenedApp",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "android-studio",
+        "push-notification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720900/flutter-firebase-notification-does-not-trigger-onmessageopenedapp"
+    }
+  ]
+}

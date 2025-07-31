@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-31T12:06:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T11:35:13Z",
+      "Title": "Stimulus controllers in subfolder without prefix",
+      "Tags": [
+        "ruby-on-rails",
+        "stimulusjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721232/stimulus-controllers-in-subfolder-without-prefix"
+    },
+    {
+      "Created": "2025-07-31T11:53:50Z",
+      "Title": "Learnable parameter only updating non-zero values and identically during training (Pytorch)",
+      "Tags": [
+        "python",
+        "pytorch",
+        "tensor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721249/learnable-parameter-only-updating-non-zero-values-and-identically-during-trainin"
+    },
+    {
+      "Created": "2025-07-31T12:01:01Z",
+      "Title": "Injected \u0060JsonWebToken\u0060 Is Null When Using Both OIDC and JWT Authentication Mechanisms in Quarkus",
+      "Tags": [
+        "authentication",
+        "jwt",
+        "openid-connect",
+        "quarkus",
+        "smallrye"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721254/injected-jsonwebtoken-is-null-when-using-both-oidc-and-jwt-authentication-mech"
+    },
+    {
+      "Created": "2025-07-31T12:06:14Z",
+      "Title": "I am making a blog website in next js sending content through api, but i was unable to show it in a professional format",
+      "Tags": [
+        "node.js",
+        "next.js",
+        "markdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721259/i-am-making-a-blog-website-in-next-js-sending-content-through-api-but-i-was-una"
+    },
+    {
+      "Created": "2025-07-31T12:06:24Z",
+      "Title": "Can\u0027t convert BigInt to number",
+      "Tags": [
+        "angular",
+        "solidity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721260/cant-convert-bigint-to-number"
+    }
+  ]
+}

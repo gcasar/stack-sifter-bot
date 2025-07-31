@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-31T09:03:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T08:20:03Z",
+      "Title": "Does GLib\u0027s \u0022GTest\u0022 testing framework have any filesystem mocking functionality?",
+      "Tags": [
+        "unit-testing",
+        "testing",
+        "mocking",
+        "glib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720998/does-glibs-gtest-testing-framework-have-any-filesystem-mocking-functionality"
+    },
+    {
+      "Created": "2025-07-31T08:42:56Z",
+      "Title": "Render PlantUML diagram in Markdown",
+      "Tags": [
+        "reactjs",
+        "markdown",
+        "plantuml",
+        "react-markdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721020/render-plantuml-diagram-in-markdown"
+    },
+    {
+      "Created": "2025-07-31T08:48:40Z",
+      "Title": "Boost.Asio coroutine hangs after \u0060concurrent_channel\u0060 usage and \u0060async_wait\u0060",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost-asio",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721028/boost-asio-coroutine-hangs-after-concurrent-channel-usage-and-async-wait"
+    },
+    {
+      "Created": "2025-07-31T08:50:05Z",
+      "Title": "Love2d flickering edge on player movement",
+      "Tags": [
+        "lua",
+        "game-development",
+        "love2d",
+        "tiled"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721030/love2d-flickering-edge-on-player-movement"
+    },
+    {
+      "Created": "2025-07-31T08:54:18Z",
+      "Title": "Exchangelib wrong credentials/request backoff after migration",
+      "Tags": [
+        "python",
+        "outlook",
+        "exchangewebservices",
+        "exchangelib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721036/exchangelib-wrong-credentials-request-backoff-after-migration"
+    },
+    {
+      "Created": "2025-07-31T09:03:13Z",
+      "Title": "Azure App Registration cannot get token from another app",
+      "Tags": [
+        "azure",
+        "azure-active-directory",
+        "microsoft-graph-api",
+        "azure-app-registration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721043/azure-app-registration-cannot-get-token-from-another-app"
+    },
+    {
+      "Created": "2025-07-31T09:03:50Z",
+      "Title": "How to stop/cancel click activation of Windows notification?",
+      "Tags": [
+        "c#",
+        ".net",
+        "windows",
+        "notifications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721045/how-to-stop-cancel-click-activation-of-windows-notification"
+    }
+  ]
+}

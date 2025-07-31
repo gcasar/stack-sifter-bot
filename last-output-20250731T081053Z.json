@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-31T08:08:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T07:18:14Z",
+      "Title": "Install4J v8 PKCS#11 Code Signing with Google Cloud KMS (libkmsp11.so) - Certificate Not Found",
+      "Tags": [
+        "google-cloud-platform",
+        "code-signing",
+        "install4j",
+        "pkcs#11",
+        "hardware-security-module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720915/install4j-v8-pkcs11-code-signing-with-google-cloud-kms-libkmsp11-so-certifi"
+    },
+    {
+      "Created": "2025-07-31T07:43:24Z",
+      "Title": "How to convert sql formula to python or pandas code",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720941/how-to-convert-sql-formula-to-python-or-pandas-code"
+    },
+    {
+      "Created": "2025-07-31T07:45:28Z",
+      "Title": "Proper way to locate the position of a single newly inserted row based on order by clause immediately after insertion?",
+      "Tags": [
+        "sql",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720945/proper-way-to-locate-the-position-of-a-single-newly-inserted-row-based-on-order"
+    },
+    {
+      "Created": "2025-07-31T07:55:32Z",
+      "Title": "VISA Sandbox environment for Click to Pay",
+      "Tags": [
+        "credit-card",
+        "banking",
+        "visa-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720962/visa-sandbox-environment-for-click-to-pay"
+    },
+    {
+      "Created": "2025-07-31T07:55:56Z",
+      "Title": "vite.config.js cannot be found when running docker compose up, but works when I run npm run dev",
+      "Tags": [
+        "docker",
+        "docker-compose",
+        "tailwind-css",
+        "svelte",
+        "svelte-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720963/vite-config-js-cannot-be-found-when-running-docker-compose-up-but-works-when-i"
+    },
+    {
+      "Created": "2025-07-31T07:59:06Z",
+      "Title": "How to bulk geocode 1M\u002B Swiss addresses using GeoAdmin and fallback to Google API (Express \u002B PostgreSQL \u002B Sequelize)?",
+      "Tags": [
+        "postgresql",
+        "express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720966/how-to-bulk-geocode-1m-swiss-addresses-using-geoadmin-and-fallback-to-google-ap"
+    },
+    {
+      "Created": "2025-07-31T08:05:43Z",
+      "Title": ".Net Core MVC: How to make simple page with IEnumerable\u003CXML\u003E",
+      "Tags": [
+        "xml",
+        "asp.net-core",
+        "razor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720977/net-core-mvc-how-to-make-simple-page-with-ienumerablexml"
+    },
+    {
+      "Created": "2025-07-31T08:05:59Z",
+      "Title": "Inserting the contents of a chosen HTML document into a container using jQuery",
+      "Tags": [
+        "html",
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720978/inserting-the-contents-of-a-chosen-html-document-into-a-container-using-jquery"
+    },
+    {
+      "Created": "2025-07-31T08:08:49Z",
+      "Title": "Jquery dialog/confirm box inside each/for loop",
+      "Tags": [
+        "jquery",
+        "for-loop",
+        "dialog",
+        "box"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720981/jquery-dialog-confirm-box-inside-each-for-loop"
+    }
+  ]
+}

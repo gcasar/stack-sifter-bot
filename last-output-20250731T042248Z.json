@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-07-31T04:19:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T04:19:03Z",
+      "Title": "resizeToAvoidBottomInset: true not working when using InteractiveViewer",
+      "Tags": [
+        "flutter",
+        "keyboard",
+        "resize"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720777/resizetoavoidbottominset-true-not-working-when-using-interactiveviewer"
+    }
+  ]
+}

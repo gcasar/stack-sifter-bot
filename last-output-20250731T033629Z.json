@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-07-31T03:33:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T02:50:23Z",
+      "Title": "If I fork someone else\u0027s private repo on GitHub, and then remove the author as collaborator, can the author still see this fork at all?",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720715/if-i-fork-someone-elses-private-repo-on-github-and-then-remove-the-author-as-c"
+    },
+    {
+      "Created": "2025-07-31T03:00:58Z",
+      "Title": "InvalidDataAccessResourceUsageException: could not execute statement [ERROR: column \u0022\u0022 is of type jsonb but expression is of type character varying",
+      "Tags": [
+        "spring-boot",
+        "java-8",
+        "cron",
+        "quartz-scheduler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720721/invaliddataaccessresourceusageexception-could-not-execute-statement-error-col"
+    },
+    {
+      "Created": "2025-07-31T03:03:11Z",
+      "Title": "Aerospike Batch Write In Single IOPS",
+      "Tags": [
+        "java",
+        "aerospike"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720723/aerospike-batch-write-in-single-iops"
+    },
+    {
+      "Created": "2025-07-31T03:21:58Z",
+      "Title": "How to use RediSearch to find all items with 2 matching properties on object in array property",
+      "Tags": [
+        "redis",
+        "redisearch",
+        "redisjson"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720737/how-to-use-redisearch-to-find-all-items-with-2-matching-properties-on-object-in"
+    },
+    {
+      "Created": "2025-07-31T03:21:58Z",
+      "Title": "GoogleApp script getting failed : Service invoked too many times for one day:",
+      "Tags": [
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720736/googleapp-script-getting-failed-service-invoked-too-many-times-for-one-day"
+    },
+    {
+      "Created": "2025-07-31T03:24:11Z",
+      "Title": "How to execute a command sent to the IPython terminal in VSCode?",
+      "Tags": [
+        "visual-studio-code",
+        "ipython",
+        "keyboard-shortcuts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720738/how-to-execute-a-command-sent-to-the-ipython-terminal-in-vscode"
+    },
+    {
+      "Created": "2025-07-31T03:25:19Z",
+      "Title": "How to merge two CSV files based on matching values in different columns and keep unmatched rows with placeholders?",
+      "Tags": [
+        "python",
+        "pandas",
+        "csv",
+        "awk",
+        "data-cleaning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720739/how-to-merge-two-csv-files-based-on-matching-values-in-different-columns-and-kee"
+    },
+    {
+      "Created": "2025-07-31T03:30:46Z",
+      "Title": "MPAndroidChart real-time plot glitch when updating entries with static viewport and live cursor",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "mpandroidchart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720743/mpandroidchart-real-time-plot-glitch-when-updating-entries-with-static-viewport"
+    },
+    {
+      "Created": "2025-07-31T03:33:12Z",
+      "Title": "White flash when switching tabs in Expo Router \u2014 even without animations",
+      "Tags": [
+        "react-native",
+        "animation",
+        "expo",
+        "react-navigation",
+        "expo-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720744/white-flash-when-switching-tabs-in-expo-router-even-without-animations"
+    }
+  ]
+}

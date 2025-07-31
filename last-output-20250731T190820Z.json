@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-07-31T18:59:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T18:55:51Z",
+      "Title": "Show specific frames of SVG \u003Canimate\u003E",
+      "Tags": [
+        "javascript",
+        "animation",
+        "svg",
+        "svg-animate",
+        "smil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721729/show-specific-frames-of-svg-animate"
+    },
+    {
+      "Created": "2025-07-31T18:59:56Z",
+      "Title": "how to disable IntelliJ formatting a section of a markdown file",
+      "Tags": [
+        "intellij-idea",
+        "markdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721732/how-to-disable-intellij-formatting-a-section-of-a-markdown-file"
+    }
+  ]
+}

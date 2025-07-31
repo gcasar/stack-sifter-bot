@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-07-31T11:05:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T10:42:24Z",
+      "Title": "Is it guaranteed to cancel socket operations under Windows 10\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "winapi",
+        "boost",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721158/is-it-guaranteed-to-cancel-socket-operations-under-windows-10"
+    },
+    {
+      "Created": "2025-07-31T10:45:25Z",
+      "Title": "WooCommerce coupon rounding up",
+      "Tags": [
+        "php",
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721160/woocommerce-coupon-rounding-up"
+    },
+    {
+      "Created": "2025-07-31T10:53:01Z",
+      "Title": "Got stuck while compiling with cmake using msvc 14.3",
+      "Tags": [
+        "powershell",
+        "cmake",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721166/got-stuck-while-compiling-with-cmake-using-msvc-14-3"
+    },
+    {
+      "Created": "2025-07-31T11:00:39Z",
+      "Title": "When using what-if for bicep deployment with \u0027existing\u0027 references, it shows that it is modifying everything. is it really changing everything?",
+      "Tags": [
+        "azure-bicep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721175/when-using-what-if-for-bicep-deployment-with-existing-references-it-shows-tha"
+    },
+    {
+      "Created": "2025-07-31T11:00:52Z",
+      "Title": "How to add the date to a table name",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721176/how-to-add-the-date-to-a-table-name"
+    },
+    {
+      "Created": "2025-07-31T11:04:28Z",
+      "Title": "Debug third party library code in QtCreator in a CMake project",
+      "Tags": [
+        "opencv",
+        "cmake",
+        "qt-creator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721179/debug-third-party-library-code-in-qtcreator-in-a-cmake-project"
+    },
+    {
+      "Created": "2025-07-31T11:05:20Z",
+      "Title": "How to use Boundaries with multiple parts in multipartform data using Swift and URLSession",
+      "Tags": [
+        "swift",
+        "http-post",
+        "multipartform-data",
+        "urlsession",
+        "boundary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721181/how-to-use-boundaries-with-multiple-parts-in-multipartform-data-using-swift-and"
+    }
+  ]
+}

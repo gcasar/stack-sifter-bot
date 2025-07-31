@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-31T22:52:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T22:22:46Z",
+      "Title": "Include duplicate rows with postgresql \u0027WHERE IN\u0027 clause with lists containing duplicate id\u0027s",
+      "Tags": [
+        "database",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721893/include-duplicate-rows-with-postgresql-where-in-clause-with-lists-containing-d"
+    },
+    {
+      "Created": "2025-07-31T22:41:41Z",
+      "Title": "Python MoviePy Can\u0027t Speed Up Video",
+      "Tags": [
+        "python",
+        "video",
+        "moviepy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721902/python-moviepy-cant-speed-up-video"
+    },
+    {
+      "Created": "2025-07-31T22:46:43Z",
+      "Title": "Google maps place id refresh",
+      "Tags": [
+        "google-maps",
+        "google-places-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721905/google-maps-place-id-refresh"
+    },
+    {
+      "Created": "2025-07-31T22:47:59Z",
+      "Title": "Unable to make certain node:fs methods work in Context Isolated Electron app",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "electron",
+        "electron-packager",
+        "electron-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721906/unable-to-make-certain-nodefs-methods-work-in-context-isolated-electron-app"
+    },
+    {
+      "Created": "2025-07-31T22:51:55Z",
+      "Title": "Rails Hotwire frame content is being served to the front-end but not replacing the target",
+      "Tags": [
+        "ruby-on-rails",
+        "hotwire-rails",
+        "turbo",
+        "turbo-frames"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721908/rails-hotwire-frame-content-is-being-served-to-the-front-end-but-not-replacing-t"
+    },
+    {
+      "Created": "2025-07-31T22:52:54Z",
+      "Title": "How to compile Nim code as a Python extension module using Nimpy?",
+      "Tags": [
+        "python",
+        "package",
+        "nim-lang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721909/how-to-compile-nim-code-as-a-python-extension-module-using-nimpy"
+    }
+  ]
+}

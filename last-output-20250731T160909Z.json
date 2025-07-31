@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-07-31T16:05:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T15:48:31Z",
+      "Title": "Why does custom decorators on flask not work without @wraps",
+      "Tags": [
+        "python",
+        "flask",
+        "functools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721544/why-does-custom-decorators-on-flask-not-work-without-wraps"
+    },
+    {
+      "Created": "2025-07-31T15:53:36Z",
+      "Title": "Cloning android Views by copying all properties",
+      "Tags": [
+        "java",
+        "android",
+        "kotlin",
+        "view"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721549/cloning-android-views-by-copying-all-properties"
+    },
+    {
+      "Created": "2025-07-31T15:55:42Z",
+      "Title": "Importing some symbol from a Python script into its test script",
+      "Tags": [
+        "python",
+        "pytest",
+        "python-import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721552/importing-some-symbol-from-a-python-script-into-its-test-script"
+    },
+    {
+      "Created": "2025-07-31T16:03:49Z",
+      "Title": "Microsoft Teams App with Calling Support DOES NOT show the \u0022Call\u0022 button on mobile clients (iOS and Android), works with desktop client",
+      "Tags": [
+        "botframework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721560/microsoft-teams-app-with-calling-support-does-not-show-the-call-button-on-mobi"
+    },
+    {
+      "Created": "2025-07-31T16:05:22Z",
+      "Title": "How to use PyMC, PyMC-Marketing, and NumPyro together when they require conflicting JAX versions?",
+      "Tags": [
+        "python",
+        "jax",
+        "pymc",
+        "numpyro"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721564/how-to-use-pymc-pymc-marketing-and-numpyro-together-when-they-require-conflict"
+    }
+  ]
+}

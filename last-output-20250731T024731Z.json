@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-31T02:43:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T01:54:54Z",
+      "Title": "The \u0022Sheet\u0022 function in Uno FunctionAccess always returns \u00222\u0022",
+      "Tags": [
+        "user-defined-functions",
+        "libreoffice-calc",
+        "libreoffice-basic",
+        "uno"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720687/the-sheet-function-in-uno-functionaccess-always-returns-2"
+    },
+    {
+      "Created": "2025-07-31T02:12:58Z",
+      "Title": "Linux inotify and opendir",
+      "Tags": [
+        "c",
+        "inotify",
+        "opendir"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720698/linux-inotify-and-opendir"
+    },
+    {
+      "Created": "2025-07-31T02:27:28Z",
+      "Title": "Wordpress - Duplicate FAQ schema in one page",
+      "Tags": [
+        "wordpress",
+        "seo",
+        "yoast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720704/wordpress-duplicate-faq-schema-in-one-page"
+    },
+    {
+      "Created": "2025-07-31T02:31:43Z",
+      "Title": "Why is Perl interpolating variable in single-quoted string?",
+      "Tags": [
+        "perl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720709/why-is-perl-interpolating-variable-in-single-quoted-string"
+    },
+    {
+      "Created": "2025-07-31T02:34:58Z",
+      "Title": "Adding Email Config to Parse-Server prevents parse from running",
+      "Tags": [
+        "node.js",
+        "json",
+        "amazon-ses",
+        "parse-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720711/adding-email-config-to-parse-server-prevents-parse-from-running"
+    },
+    {
+      "Created": "2025-07-31T02:43:42Z",
+      "Title": "rsync --copy-unsafe-links -- an unsafe synlink to dir can produce broken links",
+      "Tags": [
+        "rsync",
+        "symlink-traversal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79720714/rsync-copy-unsafe-links-an-unsafe-synlink-to-dir-can-produce-broken-links"
+    }
+  ]
+}

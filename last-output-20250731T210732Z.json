@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-07-31T20:54:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T20:06:29Z",
+      "Title": "Need hep with simple TIdTCPClient/TIdTCPServer applications",
+      "Tags": [
+        "delphi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721795/need-hep-with-simple-tidtcpclient-tidtcpserver-applications"
+    },
+    {
+      "Created": "2025-07-31T20:50:23Z",
+      "Title": "how custom the distance between Vstack and a Section in the same SwiftUI List View?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui-list",
+        "vstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721829/how-custom-the-distance-between-vstack-and-a-section-in-the-same-swiftui-list-vi"
+    },
+    {
+      "Created": "2025-07-31T20:52:07Z",
+      "Title": "How can I plot a chart like this without using facet_wrap?",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721830/how-can-i-plot-a-chart-like-this-without-using-facet-wrap"
+    },
+    {
+      "Created": "2025-07-31T20:54:58Z",
+      "Title": "Trying to seamlessly run a test site and its unit tests at the same time",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "nunit",
+        "playwright",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721832/trying-to-seamlessly-run-a-test-site-and-its-unit-tests-at-the-same-time"
+    }
+  ]
+}

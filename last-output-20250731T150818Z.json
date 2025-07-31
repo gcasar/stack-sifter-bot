@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-31T15:04:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T14:56:51Z",
+      "Title": "Creating a list of local users using ansible",
+      "Tags": [
+        "linux",
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721478/creating-a-list-of-local-users-using-ansible"
+    },
+    {
+      "Created": "2025-07-31T14:56:53Z",
+      "Title": "How can I block HTTP Range requests with more than 5 ranges in IIS (not in code)?",
+      "Tags": [
+        "asp.net",
+        "security",
+        "iis",
+        "http-headers",
+        "web-config"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721480/how-can-i-block-http-range-requests-with-more-than-5-ranges-in-iis-not-in-code"
+    },
+    {
+      "Created": "2025-07-31T14:57:54Z",
+      "Title": "ExecuteUpdateAsync seems not to be sent to database",
+      "Tags": [
+        "c#",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721483/executeupdateasync-seems-not-to-be-sent-to-database"
+    },
+    {
+      "Created": "2025-07-31T15:00:32Z",
+      "Title": "Python multiple inheretance with property",
+      "Tags": [
+        "python",
+        "properties",
+        "multiple-inheritance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721489/python-multiple-inheretance-with-property"
+    },
+    {
+      "Created": "2025-07-31T15:04:15Z",
+      "Title": "[RHEL 8]: Error while creating IPIP tunnel with *.nmconnection file and nmcli using NetworkManager",
+      "Tags": [
+        "rhel",
+        "rhel8",
+        "networkmanager",
+        "rhel9",
+        "nmcli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721493/rhel-8-error-while-creating-ipip-tunnel-with-nmconnection-file-and-nmcli-us"
+    },
+    {
+      "Created": "2025-07-31T15:04:54Z",
+      "Title": "Filter values from a table - the code is stuck",
+      "Tags": [
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721496/filter-values-from-a-table-the-code-is-stuck"
+    }
+  ]
+}

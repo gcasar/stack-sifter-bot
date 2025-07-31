@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-07-31T22:06:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T22:02:18Z",
+      "Title": "How to include leaflet map in Quarto closeread document",
+      "Tags": [
+        "r",
+        "leaflet",
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721882/how-to-include-leaflet-map-in-quarto-closeread-document"
+    },
+    {
+      "Created": "2025-07-31T22:04:42Z",
+      "Title": "Why is the latest value of my SwiftUI state variable not passed to a presented modal view?",
+      "Tags": [
+        "swiftui",
+        "swiftui-state",
+        "swiftui-texteditor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721883/why-is-the-latest-value-of-my-swiftui-state-variable-not-passed-to-a-presented-m"
+    },
+    {
+      "Created": "2025-07-31T22:06:37Z",
+      "Title": "Convert (Animated)VectorDrawables to svg or other desktop/web-friendly formats",
+      "Tags": [
+        "android",
+        "svg",
+        "type-conversion",
+        "android-vectordrawable",
+        "animatedvectordrawable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721884/convert-animatedvectordrawables-to-svg-or-other-desktop-web-friendly-formats"
+    }
+  ]
+}

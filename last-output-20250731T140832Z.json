@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-07-31T14:01:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T13:41:58Z",
+      "Title": "Why is pandas not formatting dates with date_format?",
+      "Tags": [
+        "python",
+        "pandas",
+        "csv",
+        "date"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721365/why-is-pandas-not-formatting-dates-with-date-format"
+    },
+    {
+      "Created": "2025-07-31T13:51:40Z",
+      "Title": "How to connect local source copy to the orginal github project",
+      "Tags": [
+        "git",
+        "android-studio",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721385/how-to-connect-local-source-copy-to-the-orginal-github-project"
+    },
+    {
+      "Created": "2025-07-31T13:54:12Z",
+      "Title": "If i only include a specific property in a bicep param template, will it ignore everything else when updating or will it overwrite the default values?",
+      "Tags": [
+        "azure",
+        "azure-devops",
+        "azure-resource-manager",
+        "azure-bicep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721391/if-i-only-include-a-specific-property-in-a-bicep-param-template-will-it-ignore"
+    },
+    {
+      "Created": "2025-07-31T13:55:01Z",
+      "Title": "How to plot x-axis in scientific notation but only mutiples of 3?",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "scientific-notation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721392/how-to-plot-x-axis-in-scientific-notation-but-only-mutiples-of-3"
+    },
+    {
+      "Created": "2025-07-31T13:56:32Z",
+      "Title": "Cannot read password from powershell and give it to openssl",
+      "Tags": [
+        "string",
+        "powershell",
+        "openssl",
+        "environment-variables",
+        "passwords"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721393/cannot-read-password-from-powershell-and-give-it-to-openssl"
+    },
+    {
+      "Created": "2025-07-31T14:01:01Z",
+      "Title": "reveal_type in python as of python 3.10 in runtime",
+      "Tags": [
+        "python",
+        "mypy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721399/reveal-type-in-python-as-of-python-3-10-in-runtime"
+    }
+  ]
+}

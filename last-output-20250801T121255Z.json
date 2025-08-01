@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-01T12:07:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T11:13:57Z",
+      "Title": "Multinomial regression with statsmodels.formula.api is not working for me",
+      "Tags": [
+        "python",
+        "logistic-regression",
+        "statsmodels",
+        "multinomial"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722422/multinomial-regression-with-statsmodels-formula-api-is-not-working-for-me"
+    },
+    {
+      "Created": "2025-08-01T12:07:20Z",
+      "Title": "MPAndroid Chart: How to set up a scrollable horizontal barchart",
+      "Tags": [
+        "java",
+        "android",
+        "mpandroidchart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722490/mpandroid-chart-how-to-set-up-a-scrollable-horizontal-barchart"
+    }
+  ]
+}

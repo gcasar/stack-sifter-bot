@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-01T03:51:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T03:51:20Z",
+      "Title": "Share Spring Session between Spring MVC and WebFlux apps via Redis",
+      "Tags": [
+        "spring-mvc",
+        "spring-security",
+        "spring-webflux",
+        "spring-session"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722045/share-spring-session-between-spring-mvc-and-webflux-apps-via-redis"
+    }
+  ]
+}

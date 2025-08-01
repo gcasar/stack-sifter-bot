@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-01T02:40:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T02:01:40Z",
+      "Title": "There is no XCFramework found at... when installing onesignal in flutter project",
+      "Tags": [
+        "flutter",
+        "push-notification",
+        "notifications",
+        "onesignal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721988/there-is-no-xcframework-found-at-when-installing-onesignal-in-flutter-project"
+    },
+    {
+      "Created": "2025-08-01T02:16:39Z",
+      "Title": "How to use custom framework with third-party framwork in my test ios project?",
+      "Tags": [
+        "ios",
+        "frameworks",
+        "cocoapods",
+        "alamofire",
+        "xcframework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721996/how-to-use-custom-framework-with-third-party-framwork-in-my-test-ios-project"
+    },
+    {
+      "Created": "2025-08-01T02:29:21Z",
+      "Title": "link problem when build c\u002B\u002B code with SEAL lib",
+      "Tags": [
+        "c\u002B\u002B",
+        "g\u002B\u002B",
+        "seal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722001/link-problem-when-build-c-code-with-seal-lib"
+    },
+    {
+      "Created": "2025-08-01T02:40:43Z",
+      "Title": "Does UDP receive messages in a queue like format?",
+      "Tags": [
+        "c#",
+        ".net",
+        "sockets",
+        "udp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722005/does-udp-receive-messages-in-a-queue-like-format"
+    }
+  ]
+}

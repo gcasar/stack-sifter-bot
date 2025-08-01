@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-01T23:01:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T22:24:49Z",
+      "Title": "How to deal with Intel ECore and PCore when using SIMD instructions?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "intel",
+        "simd",
+        "avx512"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723007/how-to-deal-with-intel-ecore-and-pcore-when-using-simd-instructions"
+    },
+    {
+      "Created": "2025-08-01T22:41:54Z",
+      "Title": "makefile calls a shell script but it doesn\u0027t recognize the first argument passed",
+      "Tags": [
+        "bash",
+        "makefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723013/makefile-calls-a-shell-script-but-it-doesnt-recognize-the-first-argument-passed"
+    },
+    {
+      "Created": "2025-08-01T22:54:47Z",
+      "Title": "How to load model data directly into an OpenGL buffer?",
+      "Tags": [
+        "clojure",
+        "lwjgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723015/how-to-load-model-data-directly-into-an-opengl-buffer"
+    },
+    {
+      "Created": "2025-08-01T22:55:04Z",
+      "Title": "Stunnel and the Android CAStore (Openssl 3.3.1)",
+      "Tags": [
+        "android",
+        "c\u002B\u002B",
+        "c",
+        "stunnel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723017/stunnel-and-the-android-castore-openssl-3-3-1"
+    },
+    {
+      "Created": "2025-08-01T23:01:27Z",
+      "Title": "Updating values in JSON array using jq",
+      "Tags": [
+        "json",
+        "sh",
+        "jq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723019/updating-values-in-json-array-using-jq"
+    }
+  ]
+}

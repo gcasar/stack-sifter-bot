@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-01T14:05:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T13:20:46Z",
+      "Title": "Android Adapter not always updating data",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-recyclerview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722561/android-adapter-not-always-updating-data"
+    },
+    {
+      "Created": "2025-08-01T13:27:20Z",
+      "Title": "Preventing race condition between history navigation and route replacement",
+      "Tags": [
+        "reactjs",
+        "react-router",
+        "race-condition",
+        "browser-history"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722571/preventing-race-condition-between-history-navigation-and-route-replacement"
+    },
+    {
+      "Created": "2025-08-01T13:44:37Z",
+      "Title": "Memory leak in Poco::Net::POP3ClientSession when server is unreachable",
+      "Tags": [
+        "c\u002B\u002B",
+        "poco-libraries"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722593/memory-leak-in-poconetpop3clientsession-when-server-is-unreachable"
+    },
+    {
+      "Created": "2025-08-01T13:45:37Z",
+      "Title": "QML ListView flicking with fixed header",
+      "Tags": [
+        "qt",
+        "listview",
+        "qml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722594/qml-listview-flicking-with-fixed-header"
+    },
+    {
+      "Created": "2025-08-01T13:48:07Z",
+      "Title": "SuiteScript Error -Missing ; Before Statement",
+      "Tags": [
+        "javascript",
+        "pdf",
+        "netsuite",
+        "suitescript",
+        "suitescript2.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722596/suitescript-error-missing-before-statement"
+    },
+    {
+      "Created": "2025-08-01T13:56:23Z",
+      "Title": "Use Swift open source library with SPM",
+      "Tags": [
+        "ios",
+        "swift",
+        "react-native",
+        "cocoapods",
+        "swift-package-manager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722603/use-swift-open-source-library-with-spm"
+    },
+    {
+      "Created": "2025-08-01T13:59:19Z",
+      "Title": "I\u0027m struggling to get an output from a Python function in Snowflake SQL",
+      "Tags": [
+        "python",
+        "sql",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722606/im-struggling-to-get-an-output-from-a-python-function-in-snowflake-sql"
+    },
+    {
+      "Created": "2025-08-01T14:00:19Z",
+      "Title": "Assigning a pivot style and grouping the pivot table",
+      "Tags": [
+        "office-scripts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722607/assigning-a-pivot-style-and-grouping-the-pivot-table"
+    },
+    {
+      "Created": "2025-08-01T14:05:38Z",
+      "Title": "ESEF - Extension Taxonomy \u002B linkbases from xhtml",
+      "Tags": [
+        "xml",
+        "xsd",
+        "xhtml",
+        "reporting",
+        "taxonomy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722613/esef-extension-taxonomy-linkbases-from-xhtml"
+    }
+  ]
+}

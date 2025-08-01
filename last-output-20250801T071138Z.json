@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-01T06:46:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T06:20:16Z",
+      "Title": "Using QDBusServer under Windows",
+      "Tags": [
+        "qt",
+        "dbus",
+        "qdbus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722130/using-qdbusserver-under-windows"
+    },
+    {
+      "Created": "2025-08-01T06:27:57Z",
+      "Title": "How to copy a resultset into an existing column",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722140/how-to-copy-a-resultset-into-an-existing-column"
+    },
+    {
+      "Created": "2025-08-01T06:42:36Z",
+      "Title": "Cloudflare Turnstile Challenge Looping on AWS Lambda (Puppeteer \u002B 2Captcha Integration)",
+      "Tags": [
+        "javascript",
+        "aws-lambda",
+        "puppeteer",
+        "cloudflare",
+        "captcha"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722153/cloudflare-turnstile-challenge-looping-on-aws-lambda-puppeteer-2captcha-integ"
+    },
+    {
+      "Created": "2025-08-01T06:45:12Z",
+      "Title": "How to maintain separate state per browser tab in a Flask web app when using sessions?",
+      "Tags": [
+        "flask",
+        "session-state",
+        "state-management",
+        "htmx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722156/how-to-maintain-separate-state-per-browser-tab-in-a-flask-web-app-when-using-ses"
+    },
+    {
+      "Created": "2025-08-01T06:46:48Z",
+      "Title": "Duplicate JTabbedPane tab",
+      "Tags": [
+        "java",
+        "swing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722159/duplicate-jtabbedpane-tab"
+    }
+  ]
+}

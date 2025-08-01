@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-01T20:56:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T20:21:19Z",
+      "Title": "Extract value from nested Box\u003CT\u003E [duplicate]",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722926/extract-value-from-nested-boxt"
+    },
+    {
+      "Created": "2025-08-01T20:40:26Z",
+      "Title": "How to resolve a mismatch in binding an object in a ListView in MAUI",
+      "Tags": [
+        "c#",
+        "maui",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722938/how-to-resolve-a-mismatch-in-binding-an-object-in-a-listview-in-maui"
+    },
+    {
+      "Created": "2025-08-01T20:40:46Z",
+      "Title": "Access Google Cloud Storage Bucket Generation 2 Run Cloud Function Firebase App",
+      "Tags": [
+        "firebase",
+        "google-cloud-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722939/access-google-cloud-storage-bucket-generation-2-run-cloud-function-firebase-app"
+    },
+    {
+      "Created": "2025-08-01T20:44:20Z",
+      "Title": "Blazor server call keeps returning log in page even after user is authenticated",
+      "Tags": [
+        "blazor",
+        "blazor-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722941/blazor-server-call-keeps-returning-log-in-page-even-after-user-is-authenticated"
+    },
+    {
+      "Created": "2025-08-01T20:48:05Z",
+      "Title": "A question about Inner join and primary keys in an SQLite Db",
+      "Tags": [
+        "ios",
+        "swift",
+        "uikit",
+        "grdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722944/a-question-about-inner-join-and-primary-keys-in-an-sqlite-db"
+    },
+    {
+      "Created": "2025-08-01T20:49:18Z",
+      "Title": "How do I change the indent of a YAML sequence in goccy/go-yaml?",
+      "Tags": [
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722945/how-do-i-change-the-indent-of-a-yaml-sequence-in-goccy-go-yaml"
+    },
+    {
+      "Created": "2025-08-01T20:56:45Z",
+      "Title": "Shrink a matrix (i.e. remove borders lines with 0)",
+      "Tags": [
+        "python-3.x",
+        "numpy-ndarray",
+        "numpy-slicing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722947/shrink-a-matrix-i-e-remove-borders-lines-with-0"
+    }
+  ]
+}

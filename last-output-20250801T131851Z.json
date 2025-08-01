@@ -1,0 +1,102 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-01T13:14:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T12:17:48Z",
+      "Title": "POJO class retains old values during multiple test execution",
+      "Tags": [
+        "java",
+        "multithreading",
+        "selenium-webdriver",
+        "static",
+        "synchronized"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722503/pojo-class-retains-old-values-during-multiple-test-execution"
+    },
+    {
+      "Created": "2025-08-01T12:57:25Z",
+      "Title": "Nginx: How to return 503 during maintenance without breaking CORS",
+      "Tags": [
+        "nginx",
+        "cors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722537/nginx-how-to-return-503-during-maintenance-without-breaking-cors"
+    },
+    {
+      "Created": "2025-08-01T13:00:35Z",
+      "Title": "How to monitor Claude Code usage and limits under Anthropic Pro subscription?",
+      "Tags": [
+        "anthropic",
+        "claude-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722540/how-to-monitor-claude-code-usage-and-limits-under-anthropic-pro-subscription"
+    },
+    {
+      "Created": "2025-08-01T13:02:01Z",
+      "Title": "Popup return with CommunityToolkit.Maui 12.1.x issue",
+      "Tags": [
+        "c#",
+        "maui",
+        "maui-community-toolkit",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722542/popup-return-with-communitytoolkit-maui-12-1-x-issue"
+    },
+    {
+      "Created": "2025-08-01T13:03:02Z",
+      "Title": "How to handle EINTR in connect()?",
+      "Tags": [
+        "c",
+        "sockets",
+        "java-native-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722543/how-to-handle-eintr-in-connect"
+    },
+    {
+      "Created": "2025-08-01T13:04:57Z",
+      "Title": "Best way to implement Generic protocol in Swift?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "viper-architecture",
+        "viper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722544/best-way-to-implement-generic-protocol-in-swift"
+    },
+    {
+      "Created": "2025-08-01T13:10:03Z",
+      "Title": "Event not being registered with Umami and Angular",
+      "Tags": [
+        "javascript",
+        "angular",
+        "event-tracking",
+        "umami"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722554/event-not-being-registered-with-umami-and-angular"
+    },
+    {
+      "Created": "2025-08-01T13:13:38Z",
+      "Title": "How to reliably download 1969 \u201CGazzetta Ufficiale\u201D PDFs (Italian Official Gazette) with Python?",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping",
+        "pdf",
+        "beautifulsoup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722555/how-to-reliably-download-1969-gazzetta-ufficiale-pdfs-italian-official-gazett"
+    },
+    {
+      "Created": "2025-08-01T13:14:15Z",
+      "Title": "Plotly chart not working correcly with HTMX call",
+      "Tags": [
+        "django",
+        "plotly",
+        "htmx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722556/plotly-chart-not-working-correcly-with-htmx-call"
+    }
+  ]
+}

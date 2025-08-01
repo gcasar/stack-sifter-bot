@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-01T00:28:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-07-31T23:23:41Z",
+      "Title": "Best algorithm for generating primes without upper limit",
+      "Tags": [
+        "algorithm",
+        "primes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721921/best-algorithm-for-generating-primes-without-upper-limit"
+    },
+    {
+      "Created": "2025-07-31T23:53:35Z",
+      "Title": "FLASK \u0026 JINJA2 WITHOUT JS: How can I use jinja2 to create a dynamic dropdown, and then pass a selection BACK TO FLASK AS A VARIABLE?",
+      "Tags": [
+        "python",
+        "html",
+        "flask",
+        "jinja2",
+        "dropdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721932/flask-jinja2-without-js-how-can-i-use-jinja2-to-create-a-dynamic-dropdown-an"
+    },
+    {
+      "Created": "2025-08-01T00:11:12Z",
+      "Title": "Numpy - how to shuffle inner dimensions /axis of an array without disturbing the internal structure/data?",
+      "Tags": [
+        "numpy",
+        "axis",
+        "shuffle",
+        "dimension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721938/numpy-how-to-shuffle-inner-dimensions-axis-of-an-array-without-disturbing-the"
+    },
+    {
+      "Created": "2025-08-01T00:28:54Z",
+      "Title": "L1-dcache-stores, LLC-stores, cache-references and uncore memory counter don\u0027t add up in Linux perf?",
+      "Tags": [
+        "linux",
+        "x86",
+        "intel",
+        "perf",
+        "intel-pmu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721945/l1-dcache-stores-llc-stores-cache-references-and-uncore-memory-counter-dont-a"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-01T16:49:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T16:31:37Z",
+      "Title": "Harmless SQL clutter on startup with no tables",
+      "Tags": [
+        "sql",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722762/harmless-sql-clutter-on-startup-with-no-tables"
+    },
+    {
+      "Created": "2025-08-01T16:34:31Z",
+      "Title": "Polars bug using windowed aggregate functions on Decimal type columns",
+      "Tags": [
+        "python",
+        "window-functions",
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722764/polars-bug-using-windowed-aggregate-functions-on-decimal-type-columns"
+    },
+    {
+      "Created": "2025-08-01T16:41:17Z",
+      "Title": "Why does TS infer return type differently between \u0060reduce\u0060 and \u0060map\u0060 for \u0060unknown[]\u0060?",
+      "Tags": [
+        "typescript",
+        "generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722772/why-does-ts-infer-return-type-differently-between-reduce-and-map-for-unknow"
+    },
+    {
+      "Created": "2025-08-01T16:49:27Z",
+      "Title": "Handling concurrent state updates on a distributed system",
+      "Tags": [
+        "mongodb",
+        "rabbitmq",
+        "microservices",
+        "distributed-system",
+        "optimistic-concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722776/handling-concurrent-state-updates-on-a-distributed-system"
+    }
+  ]
+}

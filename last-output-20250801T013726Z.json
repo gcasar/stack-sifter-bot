@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-01T01:30:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T01:01:05Z",
+      "Title": "Access type variable from another module in Python",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "mypy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721960/access-type-variable-from-another-module-in-python"
+    },
+    {
+      "Created": "2025-08-01T01:30:16Z",
+      "Title": "How to implement Google AdMob Banner Ads in a scrollview feed in swift",
+      "Tags": [
+        "swift",
+        "xcode",
+        "admob",
+        "banner-ads"
+      ],
+      "Url": "https://stackoverflow.com/questions/79721975/how-to-implement-google-admob-banner-ads-in-a-scrollview-feed-in-swift"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-01T08:03:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T07:34:59Z",
+      "Title": "GitHub vars/secrets are defined but not found in workflows",
+      "Tags": [
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722193/github-vars-secrets-are-defined-but-not-found-in-workflows"
+    },
+    {
+      "Created": "2025-08-01T07:42:21Z",
+      "Title": "Narrow a generic array",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722197/narrow-a-generic-array"
+    },
+    {
+      "Created": "2025-08-01T07:47:50Z",
+      "Title": "Efficient Dictionary Merging in DolphinDB for Nested Structures",
+      "Tags": [
+        "dictionary",
+        "nested",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722202/efficient-dictionary-merging-in-dolphindb-for-nested-structures"
+    },
+    {
+      "Created": "2025-08-01T07:48:45Z",
+      "Title": "Error Building TensorFlow Lite Runtime with CMake: release_version.h:48:25: error: expected \u2018)\u2019 on ARM architecture",
+      "Tags": [
+        "tensorflow",
+        "installation",
+        "build",
+        "tensorflow-lite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722203/error-building-tensorflow-lite-runtime-with-cmake-release-version-h4825-erro"
+    },
+    {
+      "Created": "2025-08-01T07:49:19Z",
+      "Title": "Date Range Filter Returns Incorrect Results in MongoDB Query",
+      "Tags": [
+        "node.js",
+        "mongodb",
+        "mongoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722205/date-range-filter-returns-incorrect-results-in-mongodb-query"
+    },
+    {
+      "Created": "2025-08-01T07:59:44Z",
+      "Title": "Is there a limit on while statements?",
+      "Tags": [
+        "netlogo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722212/is-there-a-limit-on-while-statements"
+    },
+    {
+      "Created": "2025-08-01T08:00:59Z",
+      "Title": "How can I fix this so my function can be used as an Axum handler?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722214/how-can-i-fix-this-so-my-function-can-be-used-as-an-axum-handler"
+    },
+    {
+      "Created": "2025-08-01T08:03:28Z",
+      "Title": "Is it possible to set SO_REUSEADDR and SO_REUSEPORT in libfabric (verbs provider) to allow multiple server instances on the same port?",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "rdma",
+        "infiniband",
+        "libfabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722216/is-it-possible-to-set-so-reuseaddr-and-so-reuseport-in-libfabric-verbs-provider"
+    }
+  ]
+}

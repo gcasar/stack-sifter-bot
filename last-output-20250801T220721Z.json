@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-01T21:58:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T21:44:31Z",
+      "Title": "Google Drive API: gapi.client.drive.files.copy returns 404 for existing file (Slides template)",
+      "Tags": [
+        "oauth-2.0",
+        "google-api",
+        "google-drive-api",
+        "google-api-js-client",
+        "google-slides-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722982/google-drive-api-gapi-client-drive-files-copy-returns-404-for-existing-file-sl"
+    },
+    {
+      "Created": "2025-08-01T21:55:27Z",
+      "Title": "Intercept API 35\u002B system undo and redo",
+      "Tags": [
+        "android",
+        "android-edittext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722988/intercept-api-35-system-undo-and-redo"
+    },
+    {
+      "Created": "2025-08-01T21:56:11Z",
+      "Title": "How to set HTTP header after writing of response body but before submitting it?",
+      "Tags": [
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722990/how-to-set-http-header-after-writing-of-response-body-but-before-submitting-it"
+    },
+    {
+      "Created": "2025-08-01T21:58:10Z",
+      "Title": "How does control flow work in nested loops? Understanding execution order conceptually in C [closed]",
+      "Tags": [
+        "c",
+        "loops",
+        "nested-loops",
+        "control-flow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722993/how-does-control-flow-work-in-nested-loops-understanding-execution-order-concep"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-01T15:57:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T15:42:35Z",
+      "Title": "CefSharp Upgrade-Context Menu Disappeared",
+      "Tags": [
+        "wpf",
+        "cefsharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722727/cefsharp-upgrade-context-menu-disappeared"
+    },
+    {
+      "Created": "2025-08-01T15:49:31Z",
+      "Title": "Login failed for \u0027\u003Ctoken-identified principal\u003E\u0027 using sqlcmd (Go) on Azure SQL Database from Ubuntu VM in Azure DevOps pipeline",
+      "Tags": [
+        "azure",
+        "ubuntu",
+        "azure-pipelines",
+        "azure-sql-database",
+        "sqlcmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722730/login-failed-for-token-identified-principal-using-sqlcmd-go-on-azure-sql-d"
+    },
+    {
+      "Created": "2025-08-01T15:53:02Z",
+      "Title": "EF Core 8 JSON column mapping \u2013 navigation property throws NullReferenceException",
+      "Tags": [
+        "c#",
+        "json",
+        "asp.net-core",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722731/ef-core-8-json-column-mapping-navigation-property-throws-nullreferenceexceptio"
+    },
+    {
+      "Created": "2025-08-01T15:53:57Z",
+      "Title": "Programmatically join Slack channel via API",
+      "Tags": [
+        "slack",
+        "slack-api",
+        "slack-commands"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722733/programmatically-join-slack-channel-via-api"
+    },
+    {
+      "Created": "2025-08-01T15:57:26Z",
+      "Title": "Why does mypy error on returning list[str, int] \u002B list[int]?",
+      "Tags": [
+        "python",
+        "python-typing",
+        "mypy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722736/why-does-mypy-error-on-returning-liststr-int-listint"
+    }
+  ]
+}

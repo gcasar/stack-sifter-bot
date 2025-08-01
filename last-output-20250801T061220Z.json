@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-01T06:07:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T05:38:06Z",
+      "Title": "Regex Expression to avoid space and other character",
+      "Tags": [
+        "regex",
+        "pyspark",
+        "apache-spark-sql",
+        "databricks",
+        "azure-databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722097/regex-expression-to-avoid-space-and-other-character"
+    },
+    {
+      "Created": "2025-08-01T05:38:31Z",
+      "Title": "How do I align the nodes in a Sankey Diagram in Python?",
+      "Tags": [
+        "python",
+        "sankey-diagram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722098/how-do-i-align-the-nodes-in-a-sankey-diagram-in-python"
+    },
+    {
+      "Created": "2025-08-01T05:57:28Z",
+      "Title": "How to bind the target entity for a custom action animation in RealityKit",
+      "Tags": [
+        "ios",
+        "realitykit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722106/how-to-bind-the-target-entity-for-a-custom-action-animation-in-realitykit"
+    },
+    {
+      "Created": "2025-08-01T06:03:07Z",
+      "Title": "What are OpenAI credits and tokens, and how do they work?",
+      "Tags": [
+        "openai-api",
+        "chatgpt-api",
+        "gpt-3",
+        "gpt-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722112/what-are-openai-credits-and-tokens-and-how-do-they-work"
+    },
+    {
+      "Created": "2025-08-01T06:07:35Z",
+      "Title": "How can I optimize repeated recipe queries for HomepageSections?",
+      "Tags": [
+        "laravel",
+        "eloquent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722113/how-can-i-optimize-repeated-recipe-queries-for-homepagesections"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-01T03:32:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T02:49:40Z",
+      "Title": "Is CPP TrivialCopyable class effectively a C struct?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "struct",
+        "atomic",
+        "trivially-copyable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722009/is-cpp-trivialcopyable-class-effectively-a-c-struct"
+    },
+    {
+      "Created": "2025-08-01T03:24:28Z",
+      "Title": "Remote host login without password prompt via Shell Scripting",
+      "Tags": [
+        "linux",
+        "shell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722025/remote-host-login-without-password-prompt-via-shell-scripting"
+    },
+    {
+      "Created": "2025-08-01T03:31:36Z",
+      "Title": "RevalidatePath doesn\u0027t Reset The useTransition\u0027s pending state Next.js",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "caching",
+        "app-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722030/revalidatepath-doesnt-reset-the-usetransitions-pending-state-next-js"
+    },
+    {
+      "Created": "2025-08-01T03:32:07Z",
+      "Title": "Is there a way to Exit Sub if no data is left on the worksheet after filtering?",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722031/is-there-a-way-to-exit-sub-if-no-data-is-left-on-the-worksheet-after-filtering"
+    }
+  ]
+}

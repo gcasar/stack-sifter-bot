@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-01T15:00:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T14:18:59Z",
+      "Title": "iOS BGTaskScheduler not running",
+      "Tags": [
+        "ios",
+        "swift",
+        "bgtaskscheduler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722627/ios-bgtaskscheduler-not-running"
+    },
+    {
+      "Created": "2025-08-01T14:47:31Z",
+      "Title": "Wait until conditions true SpinWait.SpinUntil vs Task.Wait",
+      "Tags": [
+        "c#",
+        "blazor",
+        "spinwait"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722659/wait-until-conditions-true-spinwait-spinuntil-vs-task-wait"
+    },
+    {
+      "Created": "2025-08-01T14:50:41Z",
+      "Title": "Is it possible to retry a task that fails due to an exception?",
+      "Tags": [
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722662/is-it-possible-to-retry-a-task-that-fails-due-to-an-exception"
+    },
+    {
+      "Created": "2025-08-01T14:52:21Z",
+      "Title": "Correct firebase rules for deleting a document with subcollections via web",
+      "Tags": [
+        "google-cloud-firestore",
+        "firebase-security",
+        "delete-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722663/correct-firebase-rules-for-deleting-a-document-with-subcollections-via-web"
+    },
+    {
+      "Created": "2025-08-01T14:59:35Z",
+      "Title": "How to convert Windows %PATH% to cygwin $PATH in .cshrc/.bashrc?",
+      "Tags": [
+        "path",
+        "cygwin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722675/how-to-convert-windows-path-to-cygwin-path-in-cshrc-bashrc"
+    },
+    {
+      "Created": "2025-08-01T14:59:38Z",
+      "Title": "Why is TI ARM Clang demoting my entry point to an undefined symbol?",
+      "Tags": [
+        "clang",
+        "armv7",
+        "linker-scripts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722676/why-is-ti-arm-clang-demoting-my-entry-point-to-an-undefined-symbol"
+    },
+    {
+      "Created": "2025-08-01T15:00:48Z",
+      "Title": "Strtok retains old data",
+      "Tags": [
+        "c",
+        "tokenize"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722678/strtok-retains-old-data"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-01T05:02:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T05:02:09Z",
+      "Title": "Error after importing auto_arima from pmdarima in Google Colab w/ time series analysis",
+      "Tags": [
+        "python",
+        "time-series",
+        "google-colaboratory",
+        "pmdarima"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722075/error-after-importing-auto-arima-from-pmdarima-in-google-colab-w-time-series-an"
+    }
+  ]
+}

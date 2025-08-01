@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-01T11:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T10:49:43Z",
+      "Title": "How do I sum the duration of behaviours and account for overlap in time of certain behaviours?",
+      "Tags": [
+        "r",
+        "time",
+        "overlap",
+        "behavior",
+        "group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722388/how-do-i-sum-the-duration-of-behaviours-and-account-for-overlap-in-time-of-certa"
+    },
+    {
+      "Created": "2025-08-01T10:52:38Z",
+      "Title": "React Native FlatList: How to vertically center content below a fixed header in renderItem?",
+      "Tags": [
+        "css",
+        "react-native",
+        "flexbox",
+        "react-native-flatlist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722392/react-native-flatlist-how-to-vertically-center-content-below-a-fixed-header-in"
+    },
+    {
+      "Created": "2025-08-01T10:54:01Z",
+      "Title": "What is the difference for \u0060git diff\u0060 when selecting changes between revisions like \u0060a b\u0060, \u0060a..b\u0060, and \u0060a...b\u0060?",
+      "Tags": [
+        "git-rebase",
+        "git-diff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722396/what-is-the-difference-for-git-diff-when-selecting-changes-between-revisions-l"
+    },
+    {
+      "Created": "2025-08-01T10:55:58Z",
+      "Title": "How do I set up automatic class generation from a contract using protobuf-net?",
+      "Tags": [
+        "c#",
+        "protocol-buffers",
+        "grpc",
+        "protobuf-net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722400/how-do-i-set-up-automatic-class-generation-from-a-contract-using-protobuf-net"
+    },
+    {
+      "Created": "2025-08-01T11:02:28Z",
+      "Title": "gunicorn ssl_context TLSv1_3",
+      "Tags": [
+        "gunicorn",
+        "tls1.3",
+        "sslcontext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722407/gunicorn-ssl-context-tlsv1-3"
+    }
+  ]
+}

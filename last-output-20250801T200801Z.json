@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-01T20:04:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T19:31:37Z",
+      "Title": "Cannot link to just libglfw.so (Have to include libglfw.so.3 as well)",
+      "Tags": [
+        "c",
+        "linker",
+        "shared-libraries",
+        "linker-errors",
+        "glfw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722901/cannot-link-to-just-libglfw-so-have-to-include-libglfw-so-3-as-well"
+    },
+    {
+      "Created": "2025-08-01T19:38:46Z",
+      "Title": "Why can a trivially relocatable type not be an implicit lifetime type?",
+      "Tags": [
+        "c\u002B\u002B",
+        "standards",
+        "lifetime",
+        "type-traits",
+        "c\u002B\u002B26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722904/why-can-a-trivially-relocatable-type-not-be-an-implicit-lifetime-type"
+    },
+    {
+      "Created": "2025-08-01T19:41:40Z",
+      "Title": "Why does this LibraryImport fail to compile in dotnet?",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722905/why-does-this-libraryimport-fail-to-compile-in-dotnet"
+    },
+    {
+      "Created": "2025-08-01T19:54:46Z",
+      "Title": "MySQL select data from multiple tables with table names as reference",
+      "Tags": [
+        "php",
+        "mysql",
+        "multi-table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722911/mysql-select-data-from-multiple-tables-with-table-names-as-reference"
+    },
+    {
+      "Created": "2025-08-01T19:55:45Z",
+      "Title": "How to filter on missing field in jsonpath (Jayway)",
+      "Tags": [
+        "jsonpath",
+        "jayway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722912/how-to-filter-on-missing-field-in-jsonpath-jayway"
+    },
+    {
+      "Created": "2025-08-01T20:03:50Z",
+      "Title": "Apache Flink: kafkaSource with idle works bad when connecting a broadcastStream",
+      "Tags": [
+        "java",
+        "apache-flink",
+        "watermark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722917/apache-flink-kafkasource-with-idle-works-bad-when-connecting-a-broadcaststream"
+    },
+    {
+      "Created": "2025-08-01T20:04:18Z",
+      "Title": "Python Selenium: How can I specify a \u0022no timeout\u0022 WebDriverWait?",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "webdriverwait"
+      ],
+      "Url": "https://stackoverflow.com/questions/79722918/python-selenium-how-can-i-specify-a-no-timeout-webdriverwait"
+    }
+  ]
+}

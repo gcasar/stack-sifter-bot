@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T16:59:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T16:32:03Z",
+      "Title": "Tailwind CSS v4 @apply not working properly with theme variables",
+      "Tags": [
+        "html",
+        "css",
+        "reactjs",
+        "tailwind-css",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723504/tailwind-css-v4-apply-not-working-properly-with-theme-variables"
+    },
+    {
+      "Created": "2025-08-02T16:50:52Z",
+      "Title": "Refresh Events Manually in FullCalendar React",
+      "Tags": [
+        "reactjs",
+        "fullcalendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723511/refresh-events-manually-in-fullcalendar-react"
+    },
+    {
+      "Created": "2025-08-02T16:54:41Z",
+      "Title": "button/link content isn\u0027t updated on click",
+      "Tags": [
+        "html",
+        "jquery",
+        "bootstrap-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723515/button-link-content-isnt-updated-on-click"
+    },
+    {
+      "Created": "2025-08-02T16:59:55Z",
+      "Title": "Calling python function from C",
+      "Tags": [
+        "python",
+        "c",
+        "python-3.x",
+        "cython"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723518/calling-python-function-from-c"
+    }
+  ]
+}

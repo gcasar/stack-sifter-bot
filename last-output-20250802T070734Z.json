@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-02T06:16:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T06:16:15Z",
+      "Title": "Public swagger endpoints giving UNAUTHORIZED error in Spring Security",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "spring-security",
+        "swagger-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723164/public-swagger-endpoints-giving-unauthorized-error-in-spring-security"
+    }
+  ]
+}

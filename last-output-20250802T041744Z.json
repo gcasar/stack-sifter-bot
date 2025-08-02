@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-02T03:51:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T03:34:34Z",
+      "Title": "How to create page margins in a ggsave() pdf file",
+      "Tags": [
+        "r",
+        "pdf",
+        "margins",
+        "gridextra",
+        "ggsave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723101/how-to-create-page-margins-in-a-ggsave-pdf-file"
+    },
+    {
+      "Created": "2025-08-02T03:44:13Z",
+      "Title": "Truncation on Notion rollups",
+      "Tags": [
+        "python",
+        "notion-api",
+        "notion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723103/truncation-on-notion-rollups"
+    },
+    {
+      "Created": "2025-08-02T03:51:04Z",
+      "Title": "What is the correct way to iterate through a JSONL reader with jsonv2",
+      "Tags": [
+        "json",
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723107/what-is-the-correct-way-to-iterate-through-a-jsonl-reader-with-jsonv2"
+    }
+  ]
+}

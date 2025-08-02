@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T11:00:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T10:39:44Z",
+      "Title": "Is there a way to synchronize love.system.setClipboardText() with browser\u0027s clipboard",
+      "Tags": [
+        "lua",
+        "love2d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723292/is-there-a-way-to-synchronize-love-system-setclipboardtext-with-browsers-clip"
+    },
+    {
+      "Created": "2025-08-02T10:50:13Z",
+      "Title": "nltk.FreqDist.plot fails to display plot",
+      "Tags": [
+        "matplotlib",
+        "nltk",
+        "python-3.12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723300/nltk-freqdist-plot-fails-to-display-plot"
+    },
+    {
+      "Created": "2025-08-02T10:50:42Z",
+      "Title": "Will moving ssl::context cause UB?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723302/will-moving-sslcontext-cause-ub"
+    },
+    {
+      "Created": "2025-08-02T11:00:40Z",
+      "Title": "Complex Type Assignation",
+      "Tags": [
+        "typescript",
+        "typescript-generics",
+        "typescript-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723311/complex-type-assignation"
+    }
+  ]
+}

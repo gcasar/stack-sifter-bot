@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T22:47:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T22:08:37Z",
+      "Title": "Tappable URL at AttributedString for iOS 18",
+      "Tags": [
+        "ios",
+        "url",
+        "swiftui",
+        "attributedstring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723679/tappable-url-at-attributedstring-for-ios-18"
+    },
+    {
+      "Created": "2025-08-02T22:19:58Z",
+      "Title": "Supabase: Getting \u0022role \u0027user\u0027 does not exist\u0022 error only when authenticated user queries product/category tables",
+      "Tags": [
+        "javascript",
+        "postgresql",
+        "jwt",
+        "supabase",
+        "row-level-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723686/supabase-getting-role-user-does-not-exist-error-only-when-authenticated-use"
+    },
+    {
+      "Created": "2025-08-02T22:22:28Z",
+      "Title": "Message Not Received?",
+      "Tags": [
+        "javascript",
+        "google-chrome-extension",
+        "messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723687/message-not-received"
+    },
+    {
+      "Created": "2025-08-02T22:47:24Z",
+      "Title": "How to programmatically map Akeneo attributes to Magento 2 custom attributes from a webhook payload?",
+      "Tags": [
+        "dynamic",
+        "e-commerce",
+        "magento2",
+        "inventory-management",
+        "akeneo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723699/how-to-programmatically-map-akeneo-attributes-to-magento-2-custom-attributes-fro"
+    }
+  ]
+}

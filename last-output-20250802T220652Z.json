@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T21:44:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T21:11:13Z",
+      "Title": "Using ASW Javascript SDK for S3 in the browser without Node.js",
+      "Tags": [
+        "javascript",
+        "amazon-web-services",
+        "amazon-s3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723658/using-asw-javascript-sdk-for-s3-in-the-browser-without-node-js"
+    },
+    {
+      "Created": "2025-08-02T21:17:20Z",
+      "Title": "Why does SIMD[DType.bool, 4](True, False, True) give unexpected reduce_bit_count() results in Mojo?",
+      "Tags": [
+        "undefined-behavior",
+        "mojolang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723661/why-does-simddtype-bool-4true-false-true-give-unexpected-reduce-bit-count"
+    },
+    {
+      "Created": "2025-08-02T21:37:36Z",
+      "Title": "how to solve the error of \u0027Table\u0027 object has no attribute \u0027userId\u0027",
+      "Tags": [
+        "python",
+        "flask",
+        "flask-sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723667/how-to-solve-the-error-of-table-object-has-no-attribute-userid"
+    },
+    {
+      "Created": "2025-08-02T21:44:18Z",
+      "Title": "Zoom webhook validation in PHP failing but not details provided in their UI",
+      "Tags": [
+        "php",
+        "validation",
+        "zoom-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723671/zoom-webhook-validation-in-php-failing-but-not-details-provided-in-their-ui"
+    }
+  ]
+}

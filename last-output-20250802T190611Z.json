@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T19:02:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T18:17:09Z",
+      "Title": "How to enable DevServices only for tests",
+      "Tags": [
+        "quarkus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723567/how-to-enable-devservices-only-for-tests"
+    },
+    {
+      "Created": "2025-08-02T18:41:26Z",
+      "Title": "How can I set CloudFront Signed Cookies for restricted S3 access without a reverse-proxy?",
+      "Tags": [
+        "security",
+        "amazon-s3",
+        "cookies",
+        "amazon-cloudfront",
+        "pre-signed-url"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723584/how-can-i-set-cloudfront-signed-cookies-for-restricted-s3-access-without-a-rever"
+    },
+    {
+      "Created": "2025-08-02T18:45:22Z",
+      "Title": "C# GDI\u002B questionable font rendering on Win 7",
+      "Tags": [
+        "c#",
+        "fonts",
+        "windows-7",
+        "gdi\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723586/c-sharp-gdi-questionable-font-rendering-on-win-7"
+    },
+    {
+      "Created": "2025-08-02T19:02:26Z",
+      "Title": "Why does the lock-free queue use triple counting instead of double counting used in lock-free stack?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "atomic",
+        "lock-free",
+        "stdatomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723596/why-does-the-lock-free-queue-use-triple-counting-instead-of-double-counting-used"
+    }
+  ]
+}

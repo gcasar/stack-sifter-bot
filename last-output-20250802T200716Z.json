@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T19:50:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T19:26:00Z",
+      "Title": "Using multi-char literals as enum values",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723607/using-multi-char-literals-as-enum-values"
+    },
+    {
+      "Created": "2025-08-02T19:37:09Z",
+      "Title": "Riscv 64 ALU Control Unit I-Type vs R-Type",
+      "Tags": [
+        "verilog",
+        "system-verilog",
+        "riscv",
+        "hdl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723613/riscv-64-alu-control-unit-i-type-vs-r-type"
+    },
+    {
+      "Created": "2025-08-02T19:44:24Z",
+      "Title": "Configes in OpenVPN panel are not working whether I choose TCP or UDP",
+      "Tags": [
+        "tcp",
+        "udp",
+        "vpn",
+        "openvpn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723620/configes-in-openvpn-panel-are-not-working-whether-i-choose-tcp-or-udp"
+    },
+    {
+      "Created": "2025-08-02T19:50:58Z",
+      "Title": "Why am I getting \u0022nan\u0022 when I try to overload the modulo operator in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "overloading",
+        "nan",
+        "operator-keyword",
+        "modulo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723625/why-am-i-getting-nan-when-i-try-to-overload-the-modulo-operator-in-c"
+    }
+  ]
+}

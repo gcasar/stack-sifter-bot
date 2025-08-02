@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T18:03:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T17:35:43Z",
+      "Title": "Best practice for global data handling using a singleton?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "listview",
+        "qml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723544/best-practice-for-global-data-handling-using-a-singleton"
+    },
+    {
+      "Created": "2025-08-02T17:50:35Z",
+      "Title": "How to use index to find position of JSON record",
+      "Tags": [
+        "python",
+        "json",
+        "beautifulsoup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723552/how-to-use-index-to-find-position-of-json-record"
+    },
+    {
+      "Created": "2025-08-02T17:54:05Z",
+      "Title": "getSubscriptionId() Cannot resolve method error (Android Studio)",
+      "Tags": [
+        "java",
+        "android-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723554/getsubscriptionid-cannot-resolve-method-error-android-studio"
+    },
+    {
+      "Created": "2025-08-02T18:03:55Z",
+      "Title": "Shadowing functions/properties using generics works outside the object but not inside it?",
+      "Tags": [
+        "ios",
+        "swift",
+        "generics",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723560/shadowing-functions-properties-using-generics-works-outside-the-object-but-not-i"
+    }
+  ]
+}

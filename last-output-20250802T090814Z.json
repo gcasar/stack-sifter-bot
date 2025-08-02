@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T09:04:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T08:48:30Z",
+      "Title": "How to Mark Cells in Excel to Become Editable Fields or Checkboxes When Saved as HTML? [closed]",
+      "Tags": [
+        "excel",
+        "ms-office"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723225/how-to-mark-cells-in-excel-to-become-editable-fields-or-checkboxes-when-saved-as"
+    },
+    {
+      "Created": "2025-08-02T08:54:11Z",
+      "Title": "Tailwind theme variables",
+      "Tags": [
+        "next.js",
+        "tailwind-css",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723229/tailwind-theme-variables"
+    },
+    {
+      "Created": "2025-08-02T09:00:06Z",
+      "Title": "Express.json() works on local but not on AWS Lambda",
+      "Tags": [
+        "node.js",
+        "express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723232/express-json-works-on-local-but-not-on-aws-lambda"
+    },
+    {
+      "Created": "2025-08-02T09:04:53Z",
+      "Title": "D365 Custom button in Open in Microsoft Office menu",
+      "Tags": [
+        "axapta",
+        "dynamics-365"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723234/d365-custom-button-in-open-in-microsoft-office-menu"
+    }
+  ]
+}

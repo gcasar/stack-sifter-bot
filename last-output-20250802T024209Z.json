@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-02T02:29:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T01:48:10Z",
+      "Title": "Vaadin 23 Flow session not expiring when Spring Session JDBC session expires",
+      "Tags": [
+        "java",
+        "spring-session",
+        "vaadin23",
+        "vaadin-session"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723065/vaadin-23-flow-session-not-expiring-when-spring-session-jdbc-session-expires"
+    },
+    {
+      "Created": "2025-08-02T02:29:07Z",
+      "Title": "Polars read function still blocks the process even if PyQt6 Threading/Runnable is used",
+      "Tags": [
+        "python",
+        "python-polars",
+        "pyqt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723077/polars-read-function-still-blocks-the-process-even-if-pyqt6-threading-runnable-i"
+    }
+  ]
+}

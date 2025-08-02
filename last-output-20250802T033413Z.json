@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-02T03:03:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T02:58:31Z",
+      "Title": "How to store authentication and redirect with React",
+      "Tags": [
+        "reactjs",
+        "tanstackreact-query",
+        "tanstack-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723087/how-to-store-authentication-and-redirect-with-react"
+    },
+    {
+      "Created": "2025-08-02T03:03:46Z",
+      "Title": "Is sizeof(pointer) the same as processor\u0027s native word size?",
+      "Tags": [
+        "c",
+        "sizeof",
+        "processor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723088/is-sizeofpointer-the-same-as-processors-native-word-size"
+    }
+  ]
+}

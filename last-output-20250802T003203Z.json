@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T00:14:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-01T23:49:27Z",
+      "Title": "What is this design pattern?",
+      "Tags": [
+        "typescript",
+        "design-patterns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723033/what-is-this-design-pattern"
+    },
+    {
+      "Created": "2025-08-01T23:56:43Z",
+      "Title": "Why am I getting a ModuleNotFoundError when trying to quickstart the Google Docs API in Python?",
+      "Tags": [
+        "python",
+        "google-docs",
+        "google-docs-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723038/why-am-i-getting-a-modulenotfounderror-when-trying-to-quickstart-the-google-docs"
+    },
+    {
+      "Created": "2025-08-02T00:04:05Z",
+      "Title": "Change value of a single prop in a Zod object in JS",
+      "Tags": [
+        "javascript",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723042/change-value-of-a-single-prop-in-a-zod-object-in-js"
+    },
+    {
+      "Created": "2025-08-02T00:14:07Z",
+      "Title": "Can not add tmcd stream using libavcodec to replicate behavior of ffmpeg -timecode option",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "video",
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723044/can-not-add-tmcd-stream-using-libavcodec-to-replicate-behavior-of-ffmpeg-timeco"
+    }
+  ]
+}

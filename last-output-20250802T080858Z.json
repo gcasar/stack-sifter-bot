@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-02T08:06:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T07:40:23Z",
+      "Title": "How can I prevent console errors when embedding Calendly in Next.js app (inline, popup, or link)?",
+      "Tags": [
+        "next.js",
+        "calendly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723192/how-can-i-prevent-console-errors-when-embedding-calendly-in-next-js-app-inline"
+    },
+    {
+      "Created": "2025-08-02T07:50:30Z",
+      "Title": "Prevent Parent View from Dragging Slightly During Child View Resize in SwiftUI with simultaneousGesture",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723196/prevent-parent-view-from-dragging-slightly-during-child-view-resize-in-swiftui-w"
+    },
+    {
+      "Created": "2025-08-02T07:59:38Z",
+      "Title": "Running GitLab pipeline when there is no commit tag",
+      "Tags": [
+        "gitlab-ci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723199/running-gitlab-pipeline-when-there-is-no-commit-tag"
+    },
+    {
+      "Created": "2025-08-02T08:06:39Z",
+      "Title": "How to Use Alembic with Asyncpg SQL to Create My Tables in a Specific Schema?",
+      "Tags": [
+        "database",
+        "postgresql",
+        "sqlalchemy",
+        "orm",
+        "alembic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723203/how-to-use-alembic-with-asyncpg-sql-to-create-my-tables-in-a-specific-schema"
+    }
+  ]
+}

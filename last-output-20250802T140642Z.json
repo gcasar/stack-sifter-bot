@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-02T14:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T13:28:28Z",
+      "Title": "How to downcast any List or any Option in rust",
+      "Tags": [
+        "rust",
+        "vector",
+        "option-type",
+        "downcast",
+        "vec"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723390/how-to-downcast-any-list-or-any-option-in-rust"
+    },
+    {
+      "Created": "2025-08-02T13:30:54Z",
+      "Title": "Flutter ListView prevent auto-scroll with \u0060reverse: true\u0060, and fix inconsistent scroll behavior with \u0060maxScrollExtent\u0060",
+      "Tags": [
+        "flutter",
+        "listview",
+        "chat",
+        "undefined-behavior",
+        "scrollcontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723392/flutter-listview-prevent-auto-scroll-with-reverse-true-and-fix-inconsistent"
+    },
+    {
+      "Created": "2025-08-02T13:59:43Z",
+      "Title": "How to Remove Shipping and Payment Steps from Checkout and Directly Enable \u201Cplace the order\u201D Button in BAGISTO?",
+      "Tags": [
+        "php",
+        "laravel",
+        "vue.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723405/how-to-remove-shipping-and-payment-steps-from-checkout-and-directly-enable-plac"
+    },
+    {
+      "Created": "2025-08-02T14:03:33Z",
+      "Title": "Universal Remote How can a custom remote launch another remote / or replace the current layout with another one",
+      "Tags": [
+        "universal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723406/universal-remote-how-can-a-custom-remote-launch-another-remote-or-replace-the"
+    },
+    {
+      "Created": "2025-08-02T14:04:10Z",
+      "Title": "NotImplementedError using chess.engine.SimpleEngine.popen_uci in Jupyter Notebook",
+      "Tags": [
+        "python-3.x",
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723408/notimplementederror-using-chess-engine-simpleengine-popen-uci-in-jupyter-noteboo"
+    }
+  ]
+}

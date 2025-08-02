@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-02T15:59:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T15:17:32Z",
+      "Title": "Is this Sumtracker API request correct?",
+      "Tags": [
+        "python",
+        "rest",
+        "python-requests"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723457/is-this-sumtracker-api-request-correct"
+    },
+    {
+      "Created": "2025-08-02T15:31:58Z",
+      "Title": "Selenium Headless vrs Non Headless. I can\u0027t get Selenium to set a field while using headless mode",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "headless-browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723468/selenium-headless-vrs-non-headless-i-cant-get-selenium-to-set-a-field-while-us"
+    },
+    {
+      "Created": "2025-08-02T15:33:28Z",
+      "Title": "Rselenium won\u0027t switch to another tab",
+      "Tags": [
+        "javascript",
+        "r",
+        "rselenium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723469/rselenium-wont-switch-to-another-tab"
+    },
+    {
+      "Created": "2025-08-02T15:33:43Z",
+      "Title": "How to print multiple ggplots per page with pdf device",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "pdf",
+        "par"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723471/how-to-print-multiple-ggplots-per-page-with-pdf-device"
+    },
+    {
+      "Created": "2025-08-02T15:54:15Z",
+      "Title": "How to fix the gestureRecognizer over PDFKit breaking the paging in the new ios26 version?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "pdfkit",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723482/how-to-fix-the-gesturerecognizer-over-pdfkit-breaking-the-paging-in-the-new-ios2"
+    },
+    {
+      "Created": "2025-08-02T15:56:58Z",
+      "Title": "Is vector reallocation bad? (Arena tree implementation)",
+      "Tags": [
+        "rust",
+        "allocation",
+        "memory-reallocation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723483/is-vector-reallocation-bad-arena-tree-implementation"
+    },
+    {
+      "Created": "2025-08-02T15:59:03Z",
+      "Title": "Cannot see \u0022Add App\u0022 button in App Store Connect \u2013 Role is Developer",
+      "Tags": [
+        "ios",
+        "app-store-connect",
+        "apple-developer",
+        "apple-id"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723488/cannot-see-add-app-button-in-app-store-connect-role-is-developer"
+    }
+  ]
+}

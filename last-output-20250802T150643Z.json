@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-02T15:01:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T14:16:50Z",
+      "Title": "Using sizeof(pointer) with strncpy",
+      "Tags": [
+        "c",
+        "http",
+        "httpserver",
+        "strncpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723418/using-sizeofpointer-with-strncpy"
+    },
+    {
+      "Created": "2025-08-02T14:30:24Z",
+      "Title": "ImGui Image() function doesnt work, opengl",
+      "Tags": [
+        "opengl",
+        "glfw",
+        "imgui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723422/imgui-image-function-doesnt-work-opengl"
+    },
+    {
+      "Created": "2025-08-02T14:36:08Z",
+      "Title": "Flutter app crash using camera with ImagePicker",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-image-picker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723428/flutter-app-crash-using-camera-with-imagepicker"
+    },
+    {
+      "Created": "2025-08-02T14:40:04Z",
+      "Title": "Visual Studio C\u002B\u002B, WinForms, Add external class to project",
+      "Tags": [
+        "visual-studio",
+        "winforms",
+        "visual-c\u002B\u002B",
+        "c\u002B\u002B-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723430/visual-studio-c-winforms-add-external-class-to-project"
+    },
+    {
+      "Created": "2025-08-02T14:40:54Z",
+      "Title": "React Native (Expo) KeyboardAvoidingView creates permanent space at the bottom after keyboard hides (Android)",
+      "Tags": [
+        "android",
+        "react-native",
+        "layout",
+        "expo",
+        "keyboardavoidingview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723431/react-native-expo-keyboardavoidingview-creates-permanent-space-at-the-bottom-a"
+    },
+    {
+      "Created": "2025-08-02T15:01:42Z",
+      "Title": "How to generate an access token for Cognito user without having the user\u0027s credentials",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-cognito"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723444/how-to-generate-an-access-token-for-cognito-user-without-having-the-users-crede"
+    }
+  ]
+}

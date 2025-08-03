@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-03T10:49:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T10:27:21Z",
+      "Title": "Why does setjmp/longjmp cause 0xC0000028 in LLVM IR?",
+      "Tags": [
+        "c",
+        "linker",
+        "llvm",
+        "llvm-ir",
+        "setjmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723951/why-does-setjmp-longjmp-cause-0xc0000028-in-llvm-ir"
+    },
+    {
+      "Created": "2025-08-03T10:28:14Z",
+      "Title": "PHP-class \u0022GuzzleHttp\\Client\u0022 not found although it is installed with composer",
+      "Tags": [
+        "php",
+        "composer-php",
+        "guzzle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723953/php-class-guzzlehttp-client-not-found-although-it-is-installed-with-composer"
+    },
+    {
+      "Created": "2025-08-03T10:34:44Z",
+      "Title": "Script works in a macro but not in a sub routine",
+      "Tags": [
+        "excel",
+        "vba",
+        "macros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723956/script-works-in-a-macro-but-not-in-a-sub-routine"
+    },
+    {
+      "Created": "2025-08-03T10:49:36Z",
+      "Title": "Typeorm where case condition",
+      "Tags": [
+        "javascript",
+        "sql",
+        "typeorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723966/typeorm-where-case-condition"
+    }
+  ]
+}

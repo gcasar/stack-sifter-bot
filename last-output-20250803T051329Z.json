@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-03T05:08:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T04:22:26Z",
+      "Title": "How to run Mamba SSM on Kaggle?",
+      "Tags": [
+        "pytorch",
+        "kaggle",
+        "mamba-ssm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723770/how-to-run-mamba-ssm-on-kaggle"
+    },
+    {
+      "Created": "2025-08-03T04:49:06Z",
+      "Title": "How can I create a scheduled task under a Microsoft account without a local password on a personal PC?",
+      "Tags": [
+        "windows-task-scheduler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723780/how-can-i-create-a-scheduled-task-under-a-microsoft-account-without-a-local-pass"
+    },
+    {
+      "Created": "2025-08-03T04:50:56Z",
+      "Title": "Expo React Native Firebase App iOS crashes when opening navigating to auth screens",
+      "Tags": [
+        "firebase",
+        "react-native",
+        "expo",
+        "react-native-firebase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723781/expo-react-native-firebase-app-ios-crashes-when-opening-navigating-to-auth-scree"
+    },
+    {
+      "Created": "2025-08-03T05:08:47Z",
+      "Title": "dependencies between assets in airflow",
+      "Tags": [
+        "airflow",
+        "assets",
+        "airflow-xcom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723784/dependencies-between-assets-in-airflow"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-03T10:02:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T09:34:40Z",
+      "Title": "The parameter LinuxFxVersion has an invalid value when creating App service with terraform azapi_resource provider",
+      "Tags": [
+        "azure",
+        "azure-devops",
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723918/the-parameter-linuxfxversion-has-an-invalid-value-when-creating-app-service-with"
+    },
+    {
+      "Created": "2025-08-03T09:54:43Z",
+      "Title": "Issue with Handling Union Types in Generic Class Properties",
+      "Tags": [
+        "python",
+        "generics",
+        "type-hinting",
+        "union-types",
+        "pylance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723930/issue-with-handling-union-types-in-generic-class-properties"
+    },
+    {
+      "Created": "2025-08-03T09:56:15Z",
+      "Title": "GLPK sensitivty result parsing with PULP",
+      "Tags": [
+        "python",
+        "parsing",
+        "pulp",
+        "glpk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723933/glpk-sensitivty-result-parsing-with-pulp"
+    },
+    {
+      "Created": "2025-08-03T10:01:18Z",
+      "Title": "Password in .env.local file next.js",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "passwords",
+        ".env"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723937/password-in-env-local-file-next-js"
+    },
+    {
+      "Created": "2025-08-03T10:02:02Z",
+      "Title": "Adding a custom field to add images to the special page I created in the panel",
+      "Tags": [
+        "wordpress",
+        "custom-fields",
+        "meta-boxes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723938/adding-a-custom-field-to-add-images-to-the-special-page-i-created-in-the-panel"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-03T16:54:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T16:54:04Z",
+      "Title": "Custom Domain Verification Id in an Azure Front Door ARM template?",
+      "Tags": [
+        "dns",
+        "azure-front-door",
+        "azure-custom-domain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724192/custom-domain-verification-id-in-an-azure-front-door-arm-template"
+    },
+    {
+      "Created": "2025-08-03T16:54:11Z",
+      "Title": "Get bounding box of all the articles in a newspaper PDF file",
+      "Tags": [
+        "python",
+        "pdf",
+        "bounding-box",
+        "pdfplumber"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724193/get-bounding-box-of-all-the-articles-in-a-newspaper-pdf-file"
+    }
+  ]
+}

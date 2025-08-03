@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-03T16:00:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T15:44:19Z",
+      "Title": "Ranged subtype \u0060Default\u0060 intrinsic is outside subtype\u0027s declared range",
+      "Tags": [
+        "generics",
+        "types",
+        "freepascal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724140/ranged-subtype-default-intrinsic-is-outside-subtypes-declared-range"
+    },
+    {
+      "Created": "2025-08-03T15:44:23Z",
+      "Title": "Implement same task for two different user interfaces in Kotlin",
+      "Tags": [
+        "kotlin",
+        "user-interface",
+        "events",
+        "kotlin-coroutines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724141/implement-same-task-for-two-different-user-interfaces-in-kotlin"
+    },
+    {
+      "Created": "2025-08-03T15:48:58Z",
+      "Title": "MCP inspector tool do not have option to add input in Streamable HTTP mode",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "zod",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724144/mcp-inspector-tool-do-not-have-option-to-add-input-in-streamable-http-mode"
+    },
+    {
+      "Created": "2025-08-03T15:50:36Z",
+      "Title": "Why does it show SettingWithCopyWarning?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724145/why-does-it-show-settingwithcopywarning"
+    },
+    {
+      "Created": "2025-08-03T15:57:24Z",
+      "Title": "RISC-V GCC Force Linker Relaxation with GP Register to Address Static Data",
+      "Tags": [
+        "gcc",
+        "linker",
+        "riscv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724151/risc-v-gcc-force-linker-relaxation-with-gp-register-to-address-static-data"
+    },
+    {
+      "Created": "2025-08-03T16:00:53Z",
+      "Title": "Why do WinHTTP and TNetHTTPClient timeout (error 12002) on one Wi-Fi network but succeed on others?",
+      "Tags": [
+        "delphi",
+        "cloudflare",
+        "indy",
+        "winhttp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724154/why-do-winhttp-and-tnethttpclient-timeout-error-12002-on-one-wi-fi-network-but"
+    }
+  ]
+}

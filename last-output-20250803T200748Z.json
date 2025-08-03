@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-03T19:55:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T19:14:06Z",
+      "Title": "Use flattened pom for filtering resources",
+      "Tags": [
+        "java",
+        "maven",
+        "flatten-maven-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724271/use-flattened-pom-for-filtering-resources"
+    },
+    {
+      "Created": "2025-08-03T19:49:35Z",
+      "Title": "Even if it works as HQL, NHibernate linq joining a subquery with grouping and using grouping subquery projections in join key and result causes errors",
+      "Tags": [
+        "c#",
+        "nhibernate",
+        "linq-to-nhibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724283/even-if-it-works-as-hql-nhibernate-linq-joining-a-subquery-with-grouping-and-us"
+    },
+    {
+      "Created": "2025-08-03T19:49:43Z",
+      "Title": "Return types can be cv-qualified only if it is a class type?",
+      "Tags": [
+        "c\u002B\u002B",
+        "type-conversion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724284/return-types-can-be-cv-qualified-only-if-it-is-a-class-type"
+    },
+    {
+      "Created": "2025-08-03T19:55:04Z",
+      "Title": "Vulnerability in file processing",
+      "Tags": [
+        "security",
+        "ffmpeg",
+        "file-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724290/vulnerability-in-file-processing"
+    },
+    {
+      "Created": "2025-08-03T19:55:20Z",
+      "Title": "Best practices for serving encrypted images in Laravel",
+      "Tags": [
+        "php",
+        "laravel",
+        "encryption",
+        "architecture",
+        "bunnycdn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724292/best-practices-for-serving-encrypted-images-in-laravel"
+    }
+  ]
+}

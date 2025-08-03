@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-03T13:01:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T12:35:53Z",
+      "Title": "TypeScript error when linking to nested route with parentheses \u0022Type \u0027/(auth)/register\u0027 is not assignable to type \u0027RelativePathString\u0027\u0022",
+      "Tags": [
+        "react-native",
+        "syntax",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724025/typescript-error-when-linking-to-nested-route-with-parentheses-type-auth-re"
+    },
+    {
+      "Created": "2025-08-03T12:40:54Z",
+      "Title": "Variable interpolation",
+      "Tags": [
+        "variables",
+        "ansible",
+        "interpolation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724028/variable-interpolation"
+    },
+    {
+      "Created": "2025-08-03T12:42:36Z",
+      "Title": "How to keep track of logged in user with google_sign_in v7.x?",
+      "Tags": [
+        "flutter",
+        "google-signin",
+        "googlesigninaccount"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724031/how-to-keep-track-of-logged-in-user-with-google-sign-in-v7-x"
+    },
+    {
+      "Created": "2025-08-03T12:51:25Z",
+      "Title": "admin panel data grid filter and sort on multiple tables",
+      "Tags": [
+        "php",
+        "mysql",
+        "laravel",
+        "sql-view"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724036/admin-panel-data-grid-filter-and-sort-on-multiple-tables"
+    },
+    {
+      "Created": "2025-08-03T12:57:54Z",
+      "Title": "How to Pass parameters in XSL pipeline running in Saxon HE 12",
+      "Tags": [
+        "xslt",
+        "saxon",
+        "xslt-3.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724040/how-to-pass-parameters-in-xsl-pipeline-running-in-saxon-he-12"
+    },
+    {
+      "Created": "2025-08-03T12:58:53Z",
+      "Title": "Where to find proper address to use AggregatorV3Interface?",
+      "Tags": [
+        "solidity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724041/where-to-find-proper-address-to-use-aggregatorv3interface"
+    },
+    {
+      "Created": "2025-08-03T13:01:53Z",
+      "Title": "Calculating gas fees from wei, gwei, units to USD [closed]",
+      "Tags": [
+        "algorithm",
+        "math",
+        "blockchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724044/calculating-gas-fees-from-wei-gwei-units-to-usd"
+    }
+  ]
+}

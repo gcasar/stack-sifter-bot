@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-03T02:44:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T01:49:20Z",
+      "Title": "Qt tray icon in Gnome",
+      "Tags": [
+        "qt",
+        "gnome",
+        "trayicon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723735/qt-tray-icon-in-gnome"
+    },
+    {
+      "Created": "2025-08-03T02:02:45Z",
+      "Title": "The packaging plugin for project javafx-base did not assign a file to the build artifact",
+      "Tags": [
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723737/the-packaging-plugin-for-project-javafx-base-did-not-assign-a-file-to-the-build"
+    },
+    {
+      "Created": "2025-08-03T02:14:26Z",
+      "Title": "Error while trying to create JWT token in register API using TypeScript",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "typescript",
+        "express",
+        "jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723741/error-while-trying-to-create-jwt-token-in-register-api-using-typescript"
+    },
+    {
+      "Created": "2025-08-03T02:22:14Z",
+      "Title": "Re-opening a file from handle in a cross platform way",
+      "Tags": [
+        "cross-platform",
+        "file-handling",
+        "file-descriptor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723742/re-opening-a-file-from-handle-in-a-cross-platform-way"
+    },
+    {
+      "Created": "2025-08-03T02:39:27Z",
+      "Title": "Combining pointer to implementation (pImpl) idiom and variadic template arguments",
+      "Tags": [
+        "c\u002B\u002B",
+        "variadic-templates",
+        "pimpl-idiom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723747/combining-pointer-to-implementation-pimpl-idiom-and-variadic-template-argument"
+    },
+    {
+      "Created": "2025-08-03T02:44:43Z",
+      "Title": "R tryCatch function - How do I avoid the error \u0022no function to return from\u0022",
+      "Tags": [
+        "r",
+        "try-catch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723750/r-trycatch-function-how-do-i-avoid-the-error-no-function-to-return-from"
+    }
+  ]
+}

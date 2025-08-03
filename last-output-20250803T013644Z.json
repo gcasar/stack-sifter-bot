@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-03T01:08:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T00:43:01Z",
+      "Title": "Can\u0027t run C# programs - \u0022The term \u0027dotnet\u0027 is not recognized\u0022 after installing.NET SDK",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723721/cant-run-c-sharp-programs-the-term-dotnet-is-not-recognized-after-install"
+    },
+    {
+      "Created": "2025-08-03T01:00:05Z",
+      "Title": "Apache Flink sinkfunction python code throws exception",
+      "Tags": [
+        "python",
+        "apache-flink",
+        "pyflink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723724/apache-flink-sinkfunction-python-code-throws-exception"
+    },
+    {
+      "Created": "2025-08-03T01:04:30Z",
+      "Title": "Why is my find command saving errors to a file while discarding output, despite using 2\u003E\u00261?",
+      "Tags": [
+        "linux",
+        "bash",
+        "ubuntu",
+        "find",
+        "command"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723726/why-is-my-find-command-saving-errors-to-a-file-while-discarding-output-despite"
+    },
+    {
+      "Created": "2025-08-03T01:08:31Z",
+      "Title": "How can I make TypeScript narrow the value of an indexed type based on the key type?",
+      "Tags": [
+        "typescript",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723727/how-can-i-make-typescript-narrow-the-value-of-an-indexed-type-based-on-the-key-t"
+    }
+  ]
+}

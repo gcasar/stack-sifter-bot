@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-03T18:46:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T18:24:53Z",
+      "Title": "How to hide the icon in a pickerInput()?",
+      "Tags": [
+        "r",
+        "shiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724243/how-to-hide-the-icon-in-a-pickerinput"
+    },
+    {
+      "Created": "2025-08-03T18:37:32Z",
+      "Title": "\u0027process\u0027 is not defined",
+      "Tags": [
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724249/process-is-not-defined"
+    },
+    {
+      "Created": "2025-08-03T18:44:49Z",
+      "Title": "Unable to get check box to show on data table in Angular",
+      "Tags": [
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724252/unable-to-get-check-box-to-show-on-data-table-in-angular"
+    },
+    {
+      "Created": "2025-08-03T18:46:29Z",
+      "Title": "How can I keep distincts data points with similar X value?",
+      "Tags": [
+        "python",
+        "altair"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724253/how-can-i-keep-distincts-data-points-with-similar-x-value"
+    }
+  ]
+}

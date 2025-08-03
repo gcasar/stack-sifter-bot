@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-03T09:03:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T08:34:02Z",
+      "Title": "View not updated when a SwiftData object gets a new one-to-many relationship",
+      "Tags": [
+        "swiftui",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723885/view-not-updated-when-a-swiftdata-object-gets-a-new-one-to-many-relationship"
+    },
+    {
+      "Created": "2025-08-03T08:36:41Z",
+      "Title": "How the firestore support custom class and also custom class supoort FieldValue with typescript?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "google-cloud-firestore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723886/how-the-firestore-support-custom-class-and-also-custom-class-supoort-fieldvalue"
+    },
+    {
+      "Created": "2025-08-03T08:36:54Z",
+      "Title": "True Non threaded Asynchronous File IO in c\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "asynchronous",
+        "file-io",
+        "boost-asio",
+        "overlapped-io"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723888/true-non-threaded-asynchronous-file-io-in-c"
+    },
+    {
+      "Created": "2025-08-03T09:03:45Z",
+      "Title": "Accessing sqlite fts5 from a Windows client, in particular for backup purposes",
+      "Tags": [
+        "sqlite",
+        "backup",
+        "fts5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723902/accessing-sqlite-fts5-from-a-windows-client-in-particular-for-backup-purposes"
+    }
+  ]
+}

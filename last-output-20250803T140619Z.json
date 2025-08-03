@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-03T13:51:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T13:38:35Z",
+      "Title": "Robocopy algorithm for /FFT and /DST options",
+      "Tags": [
+        "python",
+        "timestamp",
+        "timezone",
+        "dst",
+        "robocopy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724059/robocopy-algorithm-for-fft-and-dst-options"
+    },
+    {
+      "Created": "2025-08-03T13:49:08Z",
+      "Title": "How to wait for TanStack Query to finish loading before executing a function in React?",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "react-hooks",
+        "react-query",
+        "tanstackreact-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724068/how-to-wait-for-tanstack-query-to-finish-loading-before-executing-a-function-in"
+    },
+    {
+      "Created": "2025-08-03T13:51:07Z",
+      "Title": "How to fix \u0022Alternate page with proper canonical tag\u0022 issue in Google Search Console for a dynamic Laravel route?",
+      "Tags": [
+        "laravel",
+        "seo",
+        "google-search-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724069/how-to-fix-alternate-page-with-proper-canonical-tag-issue-in-google-search-con"
+    }
+  ]
+}

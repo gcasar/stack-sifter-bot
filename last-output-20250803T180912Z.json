@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-03T17:49:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T17:36:19Z",
+      "Title": "How do i fix Uncaught TypeError: display is not a function",
+      "Tags": [
+        "typescript",
+        "webpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724214/how-do-i-fix-uncaught-typeerror-display-is-not-a-function"
+    },
+    {
+      "Created": "2025-08-03T17:49:24Z",
+      "Title": "Filamentphp adding demo mode middleware",
+      "Tags": [
+        "php",
+        "laravel",
+        "filamentphp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724218/filamentphp-adding-demo-mode-middleware"
+    }
+  ]
+}

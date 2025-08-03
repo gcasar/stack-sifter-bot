@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-03T22:57:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T22:20:35Z",
+      "Title": "Sync issue between Howler.js and Wavesurfer.js on drag/seek in React",
+      "Tags": [
+        "reactjs",
+        "electron",
+        "web-audio-api",
+        "howler.js",
+        "wavesurfer.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724348/sync-issue-between-howler-js-and-wavesurfer-js-on-drag-seek-in-react"
+    },
+    {
+      "Created": "2025-08-03T22:29:10Z",
+      "Title": "sample points along a line shapefile at fixed distance using terra in R",
+      "Tags": [
+        "r",
+        "terra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724351/sample-points-along-a-line-shapefile-at-fixed-distance-using-terra-in-r"
+    },
+    {
+      "Created": "2025-08-03T22:55:58Z",
+      "Title": "How to properly run seeds in Prisma 6\u002B using modern configuration with prisma.config.ts?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "next.js",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724358/how-to-properly-run-seeds-in-prisma-6-using-modern-configuration-with-prisma-co"
+    },
+    {
+      "Created": "2025-08-03T22:57:06Z",
+      "Title": "Case insensitive string search independently of number of spaces inside",
+      "Tags": [
+        "c\u002B\u002B",
+        "regex",
+        "perl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724359/case-insensitive-string-search-independently-of-number-of-spaces-inside"
+    }
+  ]
+}

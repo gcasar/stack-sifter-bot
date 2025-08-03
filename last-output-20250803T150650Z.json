@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-03T15:04:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T14:19:32Z",
+      "Title": "Text to speech while highlighting current word",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724080/text-to-speech-while-highlighting-current-word"
+    },
+    {
+      "Created": "2025-08-03T14:37:01Z",
+      "Title": "Can I set VkCmdDispatchIndirect\u0027s workgroup size to 0 to achieve a no-op? (Vulkan)",
+      "Tags": [
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724092/can-i-set-vkcmddispatchindirects-workgroup-size-to-0-to-achieve-a-no-op-vulka"
+    },
+    {
+      "Created": "2025-08-03T14:53:29Z",
+      "Title": "Calling PEM_read_PrivateKey causes program to crash in OpenSSL 3.x",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "openssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724105/calling-pem-read-privatekey-causes-program-to-crash-in-openssl-3-x"
+    },
+    {
+      "Created": "2025-08-03T15:01:48Z",
+      "Title": "How to resolve linker error for Armadillo?",
+      "Tags": [
+        "c\u002B\u002B",
+        "linker-errors",
+        "armadillo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724110/how-to-resolve-linker-error-for-armadillo"
+    },
+    {
+      "Created": "2025-08-03T15:04:11Z",
+      "Title": "Harmonic function does not work in Pari/GP",
+      "Tags": [
+        "math",
+        "pari"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724113/harmonic-function-does-not-work-in-pari-gp"
+    }
+  ]
+}

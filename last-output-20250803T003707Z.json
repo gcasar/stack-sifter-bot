@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-02T23:40:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-02T23:20:24Z",
+      "Title": "How to use Windowing TVF with Flink Table API?",
+      "Tags": [
+        "apache-flink",
+        "flink-streaming",
+        "flink-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723707/how-to-use-windowing-tvf-with-flink-table-api"
+    },
+    {
+      "Created": "2025-08-02T23:40:40Z",
+      "Title": "Vertex AI \u0060gcloud ai models list\u0060 returns \u0022Listed 0 items\u0022 on a fully activated project",
+      "Tags": [
+        "google-cloud-platform",
+        "gcloud",
+        "google-cloud-vertex-ai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723710/vertex-ai-gcloud-ai-models-list-returns-listed-0-items-on-a-fully-activated"
+    }
+  ]
+}

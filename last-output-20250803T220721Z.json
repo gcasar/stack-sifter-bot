@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-03T22:06:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T21:22:46Z",
+      "Title": "Tab Groups inside a Modal with Parallel \u0026 Intercepting Rotues",
+      "Tags": [
+        "next.js",
+        "modal-dialog",
+        "next.js15",
+        "parallel-route",
+        "intercepting-route"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724323/tab-groups-inside-a-modal-with-parallel-intercepting-rotues"
+    },
+    {
+      "Created": "2025-08-03T21:31:42Z",
+      "Title": "How do I correctly nest Pydantic models in a FastAPI response?",
+      "Tags": [
+        "python",
+        "fastapi",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724327/how-do-i-correctly-nest-pydantic-models-in-a-fastapi-response"
+    },
+    {
+      "Created": "2025-08-03T21:32:22Z",
+      "Title": "Not equal operator not working with WMIC command in for loop of batch file",
+      "Tags": [
+        "batch-file",
+        "cmd",
+        "wmic",
+        "wmi-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724328/not-equal-operator-not-working-with-wmic-command-in-for-loop-of-batch-file"
+    },
+    {
+      "Created": "2025-08-03T21:38:03Z",
+      "Title": "How do you set a boolean value of when the player is in the air until the player hits the ground",
+      "Tags": [
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724329/how-do-you-set-a-boolean-value-of-when-the-player-is-in-the-air-until-the-player"
+    },
+    {
+      "Created": "2025-08-03T21:40:27Z",
+      "Title": "VBA to do a HLookup across multiple cells like an autofill",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724330/vba-to-do-a-hlookup-across-multiple-cells-like-an-autofill"
+    },
+    {
+      "Created": "2025-08-03T21:45:36Z",
+      "Title": "Go http.FileServer returns 301 for existing file in tests, but works in browser",
+      "Tags": [
+        "go",
+        "go-http"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724334/go-http-fileserver-returns-301-for-existing-file-in-tests-but-works-in-browser"
+    },
+    {
+      "Created": "2025-08-03T22:06:43Z",
+      "Title": "Trying to pass UserID to API through form. The ID is retrieved, but doesn\u0027t seem to be passed",
+      "Tags": [
+        "reactjs",
+        "mongodb",
+        "mongoose",
+        "next.js",
+        "better-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724343/trying-to-pass-userid-to-api-through-form-the-id-is-retrieved-but-doesnt-seem"
+    }
+  ]
+}

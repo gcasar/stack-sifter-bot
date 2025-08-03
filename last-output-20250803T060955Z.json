@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-03T05:57:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T05:22:12Z",
+      "Title": "QNetworkRequest is converting header names to lowercase for case sensitive service",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "http-headers",
+        "qt6",
+        "qtnetwork"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723789/qnetworkrequest-is-converting-header-names-to-lowercase-for-case-sensitive-servi"
+    },
+    {
+      "Created": "2025-08-03T05:29:42Z",
+      "Title": "How to add profile picture (not sending an image or file) to emails in PHPMailer",
+      "Tags": [
+        "php",
+        "email",
+        "phpmailer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723791/how-to-add-profile-picture-not-sending-an-image-or-file-to-emails-in-phpmailer"
+    },
+    {
+      "Created": "2025-08-03T05:53:20Z",
+      "Title": "Can\u0027t access WhatsApp Status folder using SAF or MediaStore without MANAGE_EXTERNAL_STORAGE (Flutter)",
+      "Tags": [
+        "flutter",
+        "file-permissions",
+        "status"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723799/cant-access-whatsapp-status-folder-using-saf-or-mediastore-without-manage-exter"
+    },
+    {
+      "Created": "2025-08-03T05:54:33Z",
+      "Title": "How to use C\u002B\u002B coroutine with Qt?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "coroutine",
+        "c\u002B\u002B-coroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723800/how-to-use-c-coroutine-with-qt"
+    },
+    {
+      "Created": "2025-08-03T05:57:15Z",
+      "Title": "Programme works but says \u0022warning: integer constant is so large that it is unsigned\u0022, solution?",
+      "Tags": [
+        "c",
+        "bit-manipulation",
+        "bitwise-operators",
+        "bit-shift",
+        "bitmask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723801/programme-works-but-says-warning-integer-constant-is-so-large-that-it-is-unsig"
+    }
+  ]
+}

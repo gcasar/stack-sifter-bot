@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-03T11:53:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-03T11:13:10Z",
+      "Title": "ATtiny85 software latch with button hold for running / sleeping state change",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "avr-gcc",
+        "sleep-mode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723985/attiny85-software-latch-with-button-hold-for-running-sleeping-state-change"
+    },
+    {
+      "Created": "2025-08-03T11:34:35Z",
+      "Title": "How to feed gets to avoid manual input during test execution?",
+      "Tags": [
+        "ruby",
+        "input",
+        "rspec"
+      ],
+      "Url": "https://stackoverflow.com/questions/79723999/how-to-feed-gets-to-avoid-manual-input-during-test-execution"
+    },
+    {
+      "Created": "2025-08-03T11:53:11Z",
+      "Title": "How to show date numbers in css grid calendar",
+      "Tags": [
+        "angular",
+        "css-grid",
+        "ngfor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724009/how-to-show-date-numbers-in-css-grid-calendar"
+    },
+    {
+      "Created": "2025-08-03T11:53:56Z",
+      "Title": "in an asp.net core web app in a training controller using Crud list add delete for details for mp4 training videos and upload",
+      "Tags": [
+        "asp.net",
+        "mp4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724011/in-an-asp-net-core-web-app-in-a-training-controller-using-crud-list-add-delete-f"
+    }
+  ]
+}

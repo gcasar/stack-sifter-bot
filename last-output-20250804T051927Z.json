@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-04T05:17:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T04:27:46Z",
+      "Title": "VB.NET Cookie Mystery",
+      "Tags": [
+        "vb.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724478/vb-net-cookie-mystery"
+    },
+    {
+      "Created": "2025-08-04T04:56:38Z",
+      "Title": "how to use newMessagesCallback in Qiscus SDK Javascript?",
+      "Tags": [
+        "javascript",
+        "nuxt.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724492/how-to-use-newmessagescallback-in-qiscus-sdk-javascript"
+    },
+    {
+      "Created": "2025-08-04T04:57:24Z",
+      "Title": "What is \u0027tex2svg is not a function\u0027?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "quartz",
+        "obsidian"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724493/what-is-tex2svg-is-not-a-function"
+    },
+    {
+      "Created": "2025-08-04T05:17:23Z",
+      "Title": "How do I make ng-container work inside a html table?",
+      "Tags": [
+        "javascript",
+        "angular",
+        "angularjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724505/how-do-i-make-ng-container-work-inside-a-html-table"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-04T01:07:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T01:01:29Z",
+      "Title": "How to close TopLevel from root window",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "tkinter",
+        "global"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724392/how-to-close-toplevel-from-root-window"
+    },
+    {
+      "Created": "2025-08-04T01:06:34Z",
+      "Title": "Can I make Robocopy copy files that are in use just like xcopy?",
+      "Tags": [
+        "robocopy",
+        "xcopy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724394/can-i-make-robocopy-copy-files-that-are-in-use-just-like-xcopy"
+    },
+    {
+      "Created": "2025-08-04T01:07:56Z",
+      "Title": "Is there a way to retreive a compileinfo file from when the core dump was created",
+      "Tags": [
+        "plc",
+        "twincat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724395/is-there-a-way-to-retreive-a-compileinfo-file-from-when-the-core-dump-was-create"
+    }
+  ]
+}

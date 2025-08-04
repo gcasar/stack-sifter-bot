@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-04T20:05:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T19:17:58Z",
+      "Title": "pg8000 conn.run argument error/ SQL syntax issues inserting data with AWS Lambda",
+      "Tags": [
+        "sql",
+        "amazon-web-services",
+        "aws-lambda",
+        "amazon-rds",
+        "pg8000"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725304/pg8000-conn-run-argument-error-sql-syntax-issues-inserting-data-with-aws-lambda"
+    },
+    {
+      "Created": "2025-08-04T19:51:26Z",
+      "Title": "NSEvent.mouseEvent coordinates affected by display scaling - how to click consistently?",
+      "Tags": [
+        "ios",
+        "swift",
+        "macos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725332/nsevent-mouseevent-coordinates-affected-by-display-scaling-how-to-click-consis"
+    },
+    {
+      "Created": "2025-08-04T19:52:25Z",
+      "Title": "Update JSON Schema in Power Automate Flow",
+      "Tags": [
+        "json",
+        "powershell",
+        "power-automate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725335/update-json-schema-in-power-automate-flow"
+    },
+    {
+      "Created": "2025-08-04T19:53:12Z",
+      "Title": "Is it possible to normalize code semantics using a neural network while preserving full program behavior?",
+      "Tags": [
+        "algorithm",
+        "neural-network",
+        "compiler-optimization",
+        "semantics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725336/is-it-possible-to-normalize-code-semantics-using-a-neural-network-while-preservi"
+    },
+    {
+      "Created": "2025-08-04T19:55:30Z",
+      "Title": "How to load firebase service worker with different configurations (test/prod)",
+      "Tags": [
+        "firebase",
+        "service-worker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725337/how-to-load-firebase-service-worker-with-different-configurations-test-prod"
+    },
+    {
+      "Created": "2025-08-04T19:55:32Z",
+      "Title": "What am I missing to create a loop that works?",
+      "Tags": [
+        "python",
+        "dataframe",
+        "loops",
+        "for-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725338/what-am-i-missing-to-create-a-loop-that-works"
+    },
+    {
+      "Created": "2025-08-04T19:59:50Z",
+      "Title": "Order of columns in a plotnine bar plot using a polars dataframe",
+      "Tags": [
+        "python",
+        "dataframe",
+        "python-polars",
+        "plotnine",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725340/order-of-columns-in-a-plotnine-bar-plot-using-a-polars-dataframe"
+    },
+    {
+      "Created": "2025-08-04T20:05:14Z",
+      "Title": "Unable to start using Imgur API",
+      "Tags": [
+        "imgur"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725345/unable-to-start-using-imgur-api"
+    }
+  ]
+}

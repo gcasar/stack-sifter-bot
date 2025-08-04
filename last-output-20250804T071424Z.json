@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-04T07:01:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T06:49:21Z",
+      "Title": "How do I collect a list of links on page then iterate through and test each one?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "cypress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724566/how-do-i-collect-a-list-of-links-on-page-then-iterate-through-and-test-each-one"
+    },
+    {
+      "Created": "2025-08-04T06:53:11Z",
+      "Title": "How to import c lib and kill process?",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724569/how-to-import-c-lib-and-kill-process"
+    },
+    {
+      "Created": "2025-08-04T07:01:03Z",
+      "Title": "How do I save the file using Cmd\u002BS in VSCode Diff View on MacOS?",
+      "Tags": [
+        "visual-studio-code",
+        "gemini-code-assist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724577/how-do-i-save-the-file-using-cmds-in-vscode-diff-view-on-macos"
+    }
+  ]
+}

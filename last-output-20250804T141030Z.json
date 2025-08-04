@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-04T14:05:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T13:37:38Z",
+      "Title": "Why does my assembly written delay function hangs?",
+      "Tags": [
+        "assembly",
+        "cortex-m",
+        "keil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724970/why-does-my-assembly-written-delay-function-hangs"
+    },
+    {
+      "Created": "2025-08-04T13:53:07Z",
+      "Title": "How to include WebRTC VAD in my C project",
+      "Tags": [
+        "c",
+        "include",
+        "webrtc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724995/how-to-include-webrtc-vad-in-my-c-project"
+    },
+    {
+      "Created": "2025-08-04T14:00:28Z",
+      "Title": "Is there any way to show full import or symbol source location in VSCode hover popups?",
+      "Tags": [
+        "typescript",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725007/is-there-any-way-to-show-full-import-or-symbol-source-location-in-vscode-hover-p"
+    },
+    {
+      "Created": "2025-08-04T14:01:12Z",
+      "Title": "Jetpack Compose nested graphs nagivation and TopAppBar Up button behavior",
+      "Tags": [
+        "android",
+        "navigation",
+        "compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725009/jetpack-compose-nested-graphs-nagivation-and-topappbar-up-button-behavior"
+    },
+    {
+      "Created": "2025-08-04T14:01:51Z",
+      "Title": "Disable MSBuild auto-upgrade from \u003CReference\u003E to a \u003CProjectReference\u003E",
+      "Tags": [
+        "msbuild",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725010/disable-msbuild-auto-upgrade-from-reference-to-a-projectreference"
+    },
+    {
+      "Created": "2025-08-04T14:05:15Z",
+      "Title": "ttk.Combobox selected text vanishes when focus is lost (clam theme, readonly)",
+      "Tags": [
+        "python",
+        "tkinter",
+        "tk-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725017/ttk-combobox-selected-text-vanishes-when-focus-is-lost-clam-theme-readonly"
+    }
+  ]
+}

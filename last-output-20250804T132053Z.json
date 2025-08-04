@@ -1,0 +1,103 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-04T13:16:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T12:29:59Z",
+      "Title": "Activating conda venv in wsl via Windows .bat file",
+      "Tags": [
+        "windows",
+        "ubuntu",
+        "conda",
+        "windows-subsystem-for-linux",
+        "venv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724907/activating-conda-venv-in-wsl-via-windows-bat-file"
+    },
+    {
+      "Created": "2025-08-04T12:33:36Z",
+      "Title": "Use Powershell to list mapped drives via the info found in HKCU",
+      "Tags": [
+        "powershell",
+        "registry",
+        "mapped-drive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724914/use-powershell-to-list-mapped-drives-via-the-info-found-in-hkcu"
+    },
+    {
+      "Created": "2025-08-04T12:58:35Z",
+      "Title": "Successing adding an IDENTITY Column via ALTER TABLE on a Populated Table without intermediate table copy",
+      "Tags": [
+        "sql-server",
+        "sql-server-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724934/successing-adding-an-identity-column-via-alter-table-on-a-populated-table-withou"
+    },
+    {
+      "Created": "2025-08-04T12:58:43Z",
+      "Title": "How can a long double be that big in C\u002B\u002B? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "floating-point"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724935/how-can-a-long-double-be-that-big-in-c"
+    },
+    {
+      "Created": "2025-08-04T13:05:38Z",
+      "Title": "Raw data break down",
+      "Tags": [
+        "python",
+        "sql",
+        "mysql",
+        "excel",
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724940/raw-data-break-down"
+    },
+    {
+      "Created": "2025-08-04T13:05:54Z",
+      "Title": "Sum of integer data and numeric data is unexpected numeric value, R",
+      "Tags": [
+        "r",
+        "sum",
+        "integer",
+        "numeric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724941/sum-of-integer-data-and-numeric-data-is-unexpected-numeric-value-r"
+    },
+    {
+      "Created": "2025-08-04T13:08:26Z",
+      "Title": "Looking for simple garbage collector load test",
+      "Tags": [
+        "garbage-collection",
+        "benchmarking",
+        "load-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724945/looking-for-simple-garbage-collector-load-test"
+    },
+    {
+      "Created": "2025-08-04T13:11:56Z",
+      "Title": "How to securely connect Flutter to a Node.js server with TLS or RSA encryption?",
+      "Tags": [
+        "node.js",
+        "flutter",
+        "ssl",
+        "encryption",
+        "rsa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724948/how-to-securely-connect-flutter-to-a-node-js-server-with-tls-or-rsa-encryption"
+    },
+    {
+      "Created": "2025-08-04T13:16:20Z",
+      "Title": "How to solve undo_retention error while migration data via Debezium from table without primary key?",
+      "Tags": [
+        "oracle-database",
+        "confluent-platform",
+        "data-migration",
+        "debezium",
+        "undo-redo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724953/how-to-solve-undo-retention-error-while-migration-data-via-debezium-from-table-w"
+    }
+  ]
+}

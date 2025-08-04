@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-04T23:05:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T22:26:06Z",
+      "Title": "Python turtle package not autocompleting in Pycharm for one project, but works fine for another. Both have the same settings",
+      "Tags": [
+        "python",
+        "python-turtle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725439/python-turtle-package-not-autocompleting-in-pycharm-for-one-project-but-works-f"
+    },
+    {
+      "Created": "2025-08-04T22:36:27Z",
+      "Title": "How to create a numpy dtype object array from a python list without copying data?",
+      "Tags": [
+        "python",
+        "arrays",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725444/how-to-create-a-numpy-dtype-object-array-from-a-python-list-without-copying-data"
+    },
+    {
+      "Created": "2025-08-04T22:38:16Z",
+      "Title": "View modifier that displays content as a popover can display any view except for the content",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725445/view-modifier-that-displays-content-as-a-popover-can-display-any-view-except-for"
+    },
+    {
+      "Created": "2025-08-04T22:48:43Z",
+      "Title": "Adding pre-made logarithmic equation to a plot",
+      "Tags": [
+        "r",
+        "plot",
+        "logarithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725451/adding-pre-made-logarithmic-equation-to-a-plot"
+    },
+    {
+      "Created": "2025-08-04T22:56:27Z",
+      "Title": "How to Email an Opened Excel File as the Attachment Using VBA",
+      "Tags": [
+        "excel",
+        "vba",
+        "automation",
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725456/how-to-email-an-opened-excel-file-as-the-attachment-using-vba"
+    },
+    {
+      "Created": "2025-08-04T23:05:08Z",
+      "Title": "Vibrancy effect flicking during withAnimation text update",
+      "Tags": [
+        "swift",
+        "macos",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725459/vibrancy-effect-flicking-during-withanimation-text-update"
+    }
+  ]
+}

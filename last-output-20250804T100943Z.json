@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-04T09:59:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T09:52:58Z",
+      "Title": "Does Upgrading CPLEX Improve Solver Speed and Scalability",
+      "Tags": [
+        "cplex",
+        "opl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724735/does-upgrading-cplex-improve-solver-speed-and-scalability"
+    },
+    {
+      "Created": "2025-08-04T09:52:58Z",
+      "Title": "neutralino proper way to connect to socket via extension?",
+      "Tags": [
+        "c\u002B\u002B",
+        "neutralinojs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724734/neutralino-proper-way-to-connect-to-socket-via-extension"
+    },
+    {
+      "Created": "2025-08-04T09:55:15Z",
+      "Title": "How to make MUI DatePicker to get focused on submitting if the field is empty or giving errors (MUI \u002B react hook form)",
+      "Tags": [
+        "reactjs",
+        "material-ui",
+        "react-hook-form",
+        "mui-x-date-picker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724737/how-to-make-mui-datepicker-to-get-focused-on-submitting-if-the-field-is-empty-or"
+    },
+    {
+      "Created": "2025-08-04T09:56:42Z",
+      "Title": "EF6 Function Import with Parameterized Stored Procedure Returns No Columns / Wrong Type \u2014 How to Fix?",
+      "Tags": [
+        "sql-server",
+        "vb.net",
+        "entity-framework",
+        "stored-procedures",
+        "entity-framework-6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724739/ef6-function-import-with-parameterized-stored-procedure-returns-no-columns-wro"
+    },
+    {
+      "Created": "2025-08-04T09:59:11Z",
+      "Title": "How to Portably Use std::atomic Inside a Union Across Platforms (MSVC/Clang on Windows/macOS/Linux)?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "clang",
+        "atomic",
+        "stdatomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724741/how-to-portably-use-stdatomic-inside-a-union-across-platforms-msvc-clang-on-w"
+    }
+  ]
+}

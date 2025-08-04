@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-04T00:22:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T00:22:40Z",
+      "Title": "Intellij modules not finding generated protobuf classes in a multimodule maven project (but works fine via maven cli)",
+      "Tags": [
+        "java",
+        "maven",
+        "intellij-idea",
+        "protocol-buffers",
+        "generated-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724380/intellij-modules-not-finding-generated-protobuf-classes-in-a-multimodule-maven-p"
+    }
+  ]
+}

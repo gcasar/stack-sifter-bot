@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-04T22:02:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T21:12:17Z",
+      "Title": "How to count time on active tab in Safari web extension?",
+      "Tags": [
+        "safari-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725397/how-to-count-time-on-active-tab-in-safari-web-extension"
+    },
+    {
+      "Created": "2025-08-04T21:15:36Z",
+      "Title": "Is it possible to override APISIX default response using a custom plugin?",
+      "Tags": [
+        "nginx",
+        "lua",
+        "apache-apisix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725401/is-it-possible-to-override-apisix-default-response-using-a-custom-plugin"
+    },
+    {
+      "Created": "2025-08-04T21:41:38Z",
+      "Title": "Get a YouTube artist image using Angular YouTube package",
+      "Tags": [
+        "angular-material",
+        "youtube-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725416/get-a-youtube-artist-image-using-angular-youtube-package"
+    },
+    {
+      "Created": "2025-08-04T21:53:56Z",
+      "Title": "Generic Function Returning Null",
+      "Tags": [
+        "angular",
+        "typescript",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725422/generic-function-returning-null"
+    },
+    {
+      "Created": "2025-08-04T22:02:44Z",
+      "Title": "Shell script to execute gradle build and move to .m2",
+      "Tags": [
+        "linux",
+        "shell",
+        "sh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725427/shell-script-to-execute-gradle-build-and-move-to-m2"
+    }
+  ]
+}

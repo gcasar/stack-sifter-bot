@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-04T06:07:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T05:52:02Z",
+      "Title": "\u0022Unsupported environment variable format\u0022 when running serverless",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "amazon-web-services",
+        "serverless"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724524/unsupported-environment-variable-format-when-running-serverless"
+    },
+    {
+      "Created": "2025-08-04T05:58:48Z",
+      "Title": "Tampermonkey: What is the method to load and execute an external script used by a website?",
+      "Tags": [
+        "javascript",
+        "tampermonkey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724529/tampermonkey-what-is-the-method-to-load-and-execute-an-external-script-used-by"
+    },
+    {
+      "Created": "2025-08-04T06:00:27Z",
+      "Title": "Do I need to worry about the security of the pc I use to create installation media on my USB when I install win 11?",
+      "Tags": [
+        "security",
+        "virus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724531/do-i-need-to-worry-about-the-security-of-the-pc-i-use-to-create-installation-med"
+    },
+    {
+      "Created": "2025-08-04T06:03:36Z",
+      "Title": "The result obtained from the OpenCV-Python cv.add() function differs from the official documentation",
+      "Tags": [
+        "python",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724535/the-result-obtained-from-the-opencv-python-cv-add-function-differs-from-the-of"
+    },
+    {
+      "Created": "2025-08-04T06:05:47Z",
+      "Title": "How can I write to a BLE UUID then receive data sent back on another UUID using C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "bluetooth-lowenergy",
+        "sdbus-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724537/how-can-i-write-to-a-ble-uuid-then-receive-data-sent-back-on-another-uuid-using"
+    },
+    {
+      "Created": "2025-08-04T06:07:30Z",
+      "Title": "How to fill a specific area (sock) with pink color in turtle graphics?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724538/how-to-fill-a-specific-area-sock-with-pink-color-in-turtle-graphics"
+    }
+  ]
+}

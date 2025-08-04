@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-04T16:06:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T15:11:42Z",
+      "Title": "Memoized component with \u0060use-context-selector\u0060 still rerenders",
+      "Tags": [
+        "reactjs",
+        "react-context",
+        "memo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725097/memoized-component-with-use-context-selector-still-rerenders"
+    },
+    {
+      "Created": "2025-08-04T15:49:17Z",
+      "Title": "Build the multipage taipy application with login page",
+      "Tags": [
+        "python",
+        "flask",
+        "taipy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725131/build-the-multipage-taipy-application-with-login-page"
+    },
+    {
+      "Created": "2025-08-04T15:55:35Z",
+      "Title": "Airflow \u002B Keycloak SSO: User with \u0022Admin\u0022 role gets \u0022Viewer\u0022 role after login",
+      "Tags": [
+        "python",
+        "airflow",
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725142/airflow-keycloak-sso-user-with-admin-role-gets-viewer-role-after-login"
+    },
+    {
+      "Created": "2025-08-04T15:55:55Z",
+      "Title": "How can I make my Window resizable when the .plain style is used in MacOS 15\u002B?",
+      "Tags": [
+        "macos",
+        "swiftui",
+        "window"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725143/how-can-i-make-my-window-resizable-when-the-plain-style-is-used-in-macos-15"
+    },
+    {
+      "Created": "2025-08-04T15:56:25Z",
+      "Title": "The conditional edge in LangGraph causes the reduce function to be invoked twice",
+      "Tags": [
+        "python",
+        "langgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725144/the-conditional-edge-in-langgraph-causes-the-reduce-function-to-be-invoked-twice"
+    },
+    {
+      "Created": "2025-08-04T15:57:11Z",
+      "Title": "Can I have 2 \u0060.navigationTransition\u0060s on a single view?",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725145/can-i-have-2-navigationtransitions-on-a-single-view"
+    },
+    {
+      "Created": "2025-08-04T15:59:38Z",
+      "Title": "CORS issue when syncing PouchDB with Capella",
+      "Tags": [
+        "couchbase",
+        "pouchdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725146/cors-issue-when-syncing-pouchdb-with-capella"
+    },
+    {
+      "Created": "2025-08-04T16:06:13Z",
+      "Title": "Implement a custom runtime memory manager with Emscripten \u0026 Wasmtime?",
+      "Tags": [
+        "c",
+        "memory-management",
+        "emscripten",
+        "wasmtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725153/implement-a-custom-runtime-memory-manager-with-emscripten-wasmtime"
+    }
+  ]
+}

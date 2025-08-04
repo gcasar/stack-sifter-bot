@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-04T20:54:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T20:26:07Z",
+      "Title": "Not using side effects, immediately emit State based on condition, then debounce the user input and make a server request for new State",
+      "Tags": [
+        "kotlin",
+        "rx-java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725360/not-using-side-effects-immediately-emit-state-based-on-condition-then-debounce"
+    },
+    {
+      "Created": "2025-08-04T20:47:00Z",
+      "Title": "BLIP Fine-Tuning: Special Token Always Biased to One Class in Generated Caption",
+      "Tags": [
+        "huggingface-transformers",
+        "huggingface",
+        "huggingface-trainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725374/blip-fine-tuning-special-token-always-biased-to-one-class-in-generated-caption"
+    },
+    {
+      "Created": "2025-08-04T20:47:19Z",
+      "Title": "Unable to get show and hide columns button to work for angular material table",
+      "Tags": [
+        "angular",
+        "typescript",
+        "angular-material"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725375/unable-to-get-show-and-hide-columns-button-to-work-for-angular-material-table"
+    },
+    {
+      "Created": "2025-08-04T20:54:03Z",
+      "Title": "Enabling autocomplete in PyCharm Terminal",
+      "Tags": [
+        "terminal",
+        "autocomplete",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725383/enabling-autocomplete-in-pycharm-terminal"
+    }
+  ]
+}

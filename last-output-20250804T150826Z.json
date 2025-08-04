@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-04T15:02:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T14:46:12Z",
+      "Title": "Enable microprofile TomEE Plume 10.0.1 using tomee.xml",
+      "Tags": [
+        "apache-tomee",
+        "microprofile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725071/enable-microprofile-tomee-plume-10-0-1-using-tomee-xml"
+    },
+    {
+      "Created": "2025-08-04T14:50:23Z",
+      "Title": "BIOS int 0x13 sector read works, but jump to loaded second stage code at 0x0800:0x0000 does not transfer control",
+      "Tags": [
+        "assembly",
+        "operating-system",
+        "nasm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725074/bios-int-0x13-sector-read-works-but-jump-to-loaded-second-stage-code-at-0x0800"
+    },
+    {
+      "Created": "2025-08-04T14:56:04Z",
+      "Title": "How to generate a file without timeout for the client",
+      "Tags": [
+        "spring-boot",
+        "rest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725079/how-to-generate-a-file-without-timeout-for-the-client"
+    },
+    {
+      "Created": "2025-08-04T15:00:23Z",
+      "Title": "Error 5 on Pivot Table Second Time Running ChangePivotCache",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725082/error-5-on-pivot-table-second-time-running-changepivotcache"
+    },
+    {
+      "Created": "2025-08-04T15:00:54Z",
+      "Title": "EF Core query hint for SQL",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725083/ef-core-query-hint-for-sql"
+    },
+    {
+      "Created": "2025-08-04T15:02:58Z",
+      "Title": "What does 0 mean in this case?",
+      "Tags": [
+        "java",
+        "list",
+        "methods",
+        "zero"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725087/what-does-0-mean-in-this-case"
+    }
+  ]
+}

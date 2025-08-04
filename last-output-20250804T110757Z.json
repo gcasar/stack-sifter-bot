@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-04T11:05:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T10:39:23Z",
+      "Title": "PHP calling model function",
+      "Tags": [
+        "php",
+        "constructor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724793/php-calling-model-function"
+    },
+    {
+      "Created": "2025-08-04T10:49:44Z",
+      "Title": "How to use the \u0022is_in\u0022 function correctly in Polars v0.50.0?",
+      "Tags": [
+        "rust",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724809/how-to-use-the-is-in-function-correctly-in-polars-v0-50-0"
+    },
+    {
+      "Created": "2025-08-04T10:52:00Z",
+      "Title": "Remove \u0060firstName\u0060 and \u0060lastName\u0060 fields from Keycloak user profile using Terraform",
+      "Tags": [
+        "terraform",
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724814/remove-firstname-and-lastname-fields-from-keycloak-user-profile-using-terraf"
+    },
+    {
+      "Created": "2025-08-04T10:52:50Z",
+      "Title": "Angular template conditional rendering and signal inputs",
+      "Tags": [
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724816/angular-template-conditional-rendering-and-signal-inputs"
+    },
+    {
+      "Created": "2025-08-04T10:54:06Z",
+      "Title": "Rendering Video Frames on a Custom Surface Instead of SurfaceViewRenderer",
+      "Tags": [
+        "android",
+        "webrtc",
+        "egl",
+        "webrtc-android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724817/rendering-video-frames-on-a-custom-surface-instead-of-surfaceviewrenderer"
+    },
+    {
+      "Created": "2025-08-04T10:57:06Z",
+      "Title": "Django does not automatically create test database",
+      "Tags": [
+        "python",
+        "django",
+        "pytest",
+        "postgis",
+        "pytest-django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724820/django-does-not-automatically-create-test-database"
+    },
+    {
+      "Created": "2025-08-04T11:01:45Z",
+      "Title": "\u0022Timeout was reached\u0022, \u0022Operation too slow\u0022 with \u0060httr2\u0060 even after setting high \u0060httr2::req_timeout()\u0060",
+      "Tags": [
+        "r",
+        "connection-timeout",
+        "rcurl",
+        "httr2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724824/timeout-was-reached-operation-too-slow-with-httr2-even-after-setting-high"
+    },
+    {
+      "Created": "2025-08-04T11:03:54Z",
+      "Title": "How can I dynamically forward custom tracking IDs (GA4, Meta, TikTok) per event organizer using GTM Server Container?",
+      "Tags": [
+        "next.js",
+        "google-tag-manager",
+        "google-analytics-4",
+        "facebook-pixel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724826/how-can-i-dynamically-forward-custom-tracking-ids-ga4-meta-tiktok-per-event"
+    },
+    {
+      "Created": "2025-08-04T11:05:06Z",
+      "Title": "React Toast Notification not closing on \u0022\u2715\u0022 button click",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "toast",
+        "ref"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724827/react-toast-notification-not-closing-on-button-click"
+    }
+  ]
+}

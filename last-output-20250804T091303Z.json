@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-04T09:10:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T08:24:41Z",
+      "Title": "CManagerApi not recognized in C# project using MetaTrader 5 Manager API",
+      "Tags": [
+        "c#",
+        ".net",
+        "metatrader5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724632/cmanagerapi-not-recognized-in-c-sharp-project-using-metatrader-5-manager-api"
+    },
+    {
+      "Created": "2025-08-04T08:37:43Z",
+      "Title": "How to use javascript onmouseover event from multiple divs of same class?",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724642/how-to-use-javascript-onmouseover-event-from-multiple-divs-of-same-class"
+    },
+    {
+      "Created": "2025-08-04T09:03:24Z",
+      "Title": "Generate Python wheels with conan",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "windows",
+        "cmake",
+        "conan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724676/generate-python-wheels-with-conan"
+    },
+    {
+      "Created": "2025-08-04T09:07:19Z",
+      "Title": "Net Income year-over-year",
+      "Tags": [
+        "pine-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724681/net-income-year-over-year"
+    },
+    {
+      "Created": "2025-08-04T09:10:54Z",
+      "Title": "No such file or directory @ rb_sysopen - CodeDeploy Gives Error Even The Path Exists",
+      "Tags": [
+        "windows",
+        "msbuild",
+        "cicd",
+        "aws-code-deploy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724684/no-such-file-or-directory-rb-sysopen-codedeploy-gives-error-even-the-path-ex"
+    }
+  ]
+}

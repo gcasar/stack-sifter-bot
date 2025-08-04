@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-04T19:03:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T18:24:30Z",
+      "Title": "How to fsync a directory?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "node.js-fs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725268/how-to-fsync-a-directory"
+    },
+    {
+      "Created": "2025-08-04T18:49:48Z",
+      "Title": "Horizontal cum sum \u002B unnest bug in polars",
+      "Tags": [
+        "python",
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725287/horizontal-cum-sum-unnest-bug-in-polars"
+    },
+    {
+      "Created": "2025-08-04T19:01:15Z",
+      "Title": "Instancing in Godot",
+      "Tags": [
+        "c#",
+        "godot",
+        "gdscript",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725294/instancing-in-godot"
+    },
+    {
+      "Created": "2025-08-04T19:03:44Z",
+      "Title": "Vaadin 24 compile issue with CustomField",
+      "Tags": [
+        "java",
+        "generics",
+        "vaadin",
+        "vaadin-flow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725296/vaadin-24-compile-issue-with-customfield"
+    }
+  ]
+}

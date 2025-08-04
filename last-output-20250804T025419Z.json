@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-04T02:36:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T02:11:55Z",
+      "Title": "Multiple flutter BLoCs communication",
+      "Tags": [
+        "flutter",
+        "bloc",
+        "chaining"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724422/multiple-flutter-blocs-communication"
+    },
+    {
+      "Created": "2025-08-04T02:26:26Z",
+      "Title": "How to programmatically generate plotly (or ggplotly) charts inside Quarto using loops or functions?",
+      "Tags": [
+        "r",
+        "quarto",
+        "ggplotly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724433/how-to-programmatically-generate-plotly-or-ggplotly-charts-inside-quarto-using"
+    },
+    {
+      "Created": "2025-08-04T02:36:00Z",
+      "Title": "Microsoft Azure Sample for Custom Avatar: How to add region \u0026 API Key for it?",
+      "Tags": [
+        "azure",
+        "text-to-speech",
+        "speech-to-text",
+        "avatar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724438/microsoft-azure-sample-for-custom-avatar-how-to-add-region-api-key-for-it"
+    }
+  ]
+}

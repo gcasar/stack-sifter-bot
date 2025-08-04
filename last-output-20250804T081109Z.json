@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-04T07:51:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T07:27:31Z",
+      "Title": "Different UIBarButtonItem Appearance in iOS 26 Beta 4 Compared to iOS 18 Version \u2013 How to Retain iOS 18 Style?",
+      "Tags": [
+        "ios",
+        "swift",
+        "uikit",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724594/different-uibarbuttonitem-appearance-in-ios-26-beta-4-compared-to-ios-18-version"
+    },
+    {
+      "Created": "2025-08-04T07:32:15Z",
+      "Title": "How can I refactor a widely-used C# class to support constructor dependency injection without breaking existing usages?",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        ".net-core",
+        "dependency-injection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724599/how-can-i-refactor-a-widely-used-c-sharp-class-to-support-constructor-dependency"
+    },
+    {
+      "Created": "2025-08-04T07:51:10Z",
+      "Title": "Flask app with horizontal and vertical navigation bars",
+      "Tags": [
+        "flask",
+        "navigationbar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724611/flask-app-with-horizontal-and-vertical-navigation-bars"
+    }
+  ]
+}

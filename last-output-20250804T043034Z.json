@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-04T04:10:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T03:45:19Z",
+      "Title": "Autodesk Viewer does not use snapping with PDF files",
+      "Tags": [
+        "pdf",
+        "autodesk-forge",
+        "autodesk-viewer",
+        "viewer",
+        "snapping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724461/autodesk-viewer-does-not-use-snapping-with-pdf-files"
+    },
+    {
+      "Created": "2025-08-04T04:03:50Z",
+      "Title": "Pytorch compute graph don\u0027t release as expected",
+      "Tags": [
+        "python",
+        "pytorch",
+        "gradient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724468/pytorch-compute-graph-dont-release-as-expected"
+    },
+    {
+      "Created": "2025-08-04T04:05:29Z",
+      "Title": "Reinterpret_cast array of bits as byte",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724469/reinterpret-cast-array-of-bits-as-byte"
+    },
+    {
+      "Created": "2025-08-04T04:10:56Z",
+      "Title": "Xlsxwriter custom data labels with custom data label positions",
+      "Tags": [
+        "python",
+        "excel",
+        "xlsxwriter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724473/xlsxwriter-custom-data-labels-with-custom-data-label-positions"
+    }
+  ]
+}

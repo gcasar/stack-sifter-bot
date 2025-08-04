@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-04T12:07:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T11:51:19Z",
+      "Title": "polars implementation for creating objects selecting specific attributes",
+      "Tags": [
+        "stanford-nlp",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724877/polars-implementation-for-creating-objects-selecting-specific-attributes"
+    },
+    {
+      "Created": "2025-08-04T11:57:21Z",
+      "Title": "CSP is set but I still get Content Security Policy directive violation",
+      "Tags": [
+        "vite",
+        "content-security-policy",
+        "matomo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724882/csp-is-set-but-i-still-get-content-security-policy-directive-violation"
+    },
+    {
+      "Created": "2025-08-04T11:58:54Z",
+      "Title": "Combine std module with concurrent/ppl",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B-modules",
+        "ppl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724883/combine-std-module-with-concurrent-ppl"
+    },
+    {
+      "Created": "2025-08-04T12:07:54Z",
+      "Title": "Drupal checkbox and form field rendering nested labels",
+      "Tags": [
+        "drupal",
+        "drupal-10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724893/drupal-checkbox-and-form-field-rendering-nested-labels"
+    }
+  ]
+}

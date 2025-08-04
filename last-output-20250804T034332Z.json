@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-04T03:33:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T03:14:35Z",
+      "Title": "Value to use for smoothing for RBFInterpolator from scipy.interpolate",
+      "Tags": [
+        "python",
+        "scipy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724451/value-to-use-for-smoothing-for-rbfinterpolator-from-scipy-interpolate"
+    },
+    {
+      "Created": "2025-08-04T03:20:41Z",
+      "Title": "NCU having trouble exiting a Python program",
+      "Tags": [
+        "debugging",
+        "pytorch",
+        "cuda",
+        "nsight-compute",
+        "vllm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724454/ncu-having-trouble-exiting-a-python-program"
+    },
+    {
+      "Created": "2025-08-04T03:33:39Z",
+      "Title": "How to use a postcode as parameter in Google Maps API?",
+      "Tags": [
+        "google-maps",
+        "google-maps-api-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79724458/how-to-use-a-postcode-as-parameter-in-google-maps-api"
+    }
+  ]
+}

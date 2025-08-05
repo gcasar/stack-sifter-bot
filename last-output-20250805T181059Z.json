@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-05T18:07:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T17:12:51Z",
+      "Title": "\u0022ReturnType Error\u0022 in Pylance with covariance and type parameter constraints",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726439/returntype-error-in-pylance-with-covariance-and-type-parameter-constraints"
+    },
+    {
+      "Created": "2025-08-05T17:20:27Z",
+      "Title": "Do special characters in LDAP Search escaped by \\XX have to be sent in binary form in the wire format?",
+      "Tags": [
+        "oracle-database",
+        "plsql",
+        "ldap",
+        "ldap-query",
+        "rfc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726446/do-special-characters-in-ldap-search-escaped-by-xx-have-to-be-sent-in-binary-fo"
+    },
+    {
+      "Created": "2025-08-05T17:51:09Z",
+      "Title": "Is it possible to create a buffer a program can read/write to without actually allocating memory on Linux?",
+      "Tags": [
+        "c",
+        "linux",
+        "memory-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726478/is-it-possible-to-create-a-buffer-a-program-can-read-write-to-without-actually-a"
+    },
+    {
+      "Created": "2025-08-05T17:54:57Z",
+      "Title": "Alternative to sizeToFit to space items on toolbar assigned to keyboard inputAccessoryView in Objective-C/Swift",
+      "Tags": [
+        "swift",
+        "objective-c",
+        "toolbar",
+        "inputaccessoryview",
+        "sizetofit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726482/alternative-to-sizetofit-to-space-items-on-toolbar-assigned-to-keyboard-inputacc"
+    },
+    {
+      "Created": "2025-08-05T17:59:37Z",
+      "Title": "enforcing nullability on json schema",
+      "Tags": [
+        "pyspark",
+        "databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726486/enforcing-nullability-on-json-schema"
+    },
+    {
+      "Created": "2025-08-05T17:59:43Z",
+      "Title": "Is there DAG dependecy page or analog in Airflow 3.0",
+      "Tags": [
+        "python",
+        "airflow",
+        "airflow-2.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726487/is-there-dag-dependecy-page-or-analog-in-airflow-3-0"
+    },
+    {
+      "Created": "2025-08-05T18:05:27Z",
+      "Title": "MAUI MVVM partial method being called twice",
+      "Tags": [
+        "c#",
+        ".net",
+        "mvvm",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726492/maui-mvvm-partial-method-being-called-twice"
+    },
+    {
+      "Created": "2025-08-05T18:07:02Z",
+      "Title": "Ant Design Tree keeps scrolling with the mouse pointer even after releasing the mouse (during DnD), and also when the pointer is outside the tree",
+      "Tags": [
+        "reactjs",
+        "tree",
+        "antd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726494/ant-design-tree-keeps-scrolling-with-the-mouse-pointer-even-after-releasing-the"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T20:59:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T20:36:46Z",
+      "Title": "Clojure implementation about five times slower than Java implementation",
+      "Tags": [
+        "clojure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726605/clojure-implementation-about-five-times-slower-than-java-implementation"
+    },
+    {
+      "Created": "2025-08-05T20:50:33Z",
+      "Title": "Power BI: How to keep double quotes in strings?",
+      "Tags": [
+        "powerbi",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726608/power-bi-how-to-keep-double-quotes-in-strings"
+    },
+    {
+      "Created": "2025-08-05T20:52:56Z",
+      "Title": "Flutter: GeoJSON polygon filtering example based on attribute",
+      "Tags": [
+        "flutter",
+        "geojson",
+        "fluttermap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726610/flutter-geojson-polygon-filtering-example-based-on-attribute"
+    },
+    {
+      "Created": "2025-08-05T20:59:43Z",
+      "Title": "How do I dynamically render an image from Azure Blob Storage in Azure IoT Central?",
+      "Tags": [
+        "cloud",
+        "azure-blob-storage",
+        "azure-iot-hub",
+        "azure-iot-central"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726613/how-do-i-dynamically-render-an-image-from-azure-blob-storage-in-azure-iot-centra"
+    }
+  ]
+}

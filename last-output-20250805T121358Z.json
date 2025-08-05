@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T11:57:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T11:34:20Z",
+      "Title": "Why is my code only assigning a certain variable sometimes, rather than everytime the program runs? [closed]",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "random"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726046/why-is-my-code-only-assigning-a-certain-variable-sometimes-rather-than-everytim"
+    },
+    {
+      "Created": "2025-08-05T11:46:46Z",
+      "Title": "pydantic model validator raise ValueError to field",
+      "Tags": [
+        "python",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726058/pydantic-model-validator-raise-valueerror-to-field"
+    },
+    {
+      "Created": "2025-08-05T11:51:40Z",
+      "Title": "Convert an integer to IBM PIC S9(09) COMP. type in python",
+      "Tags": [
+        "python",
+        "db2",
+        "endianness",
+        "cobol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726067/convert-an-integer-to-ibm-pic-s909-comp-type-in-python"
+    },
+    {
+      "Created": "2025-08-05T11:57:29Z",
+      "Title": "Example for setting up Docusaurus for multiple projects? [closed]",
+      "Tags": [
+        "architecture",
+        "documentation",
+        "docusaurus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726071/example-for-setting-up-docusaurus-for-multiple-projects"
+    }
+  ]
+}

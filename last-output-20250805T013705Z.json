@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-05T01:15:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T00:40:10Z",
+      "Title": "NullReferenceException when assigning a value to an index of an array inside a class [duplicate]",
+      "Tags": [
+        "c#",
+        ".net",
+        "nullreferenceexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725501/nullreferenceexception-when-assigning-a-value-to-an-index-of-an-array-inside-a-c"
+    },
+    {
+      "Created": "2025-08-05T00:43:09Z",
+      "Title": "error NU1102: Unable to find package Microsoft.NETCore.App.Runtime.win-x64 with version (= 8.0.19)",
+      "Tags": [
+        ".net",
+        "build",
+        "continuous-integration",
+        "nuget",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725502/error-nu1102-unable-to-find-package-microsoft-netcore-app-runtime-win-x64-with"
+    },
+    {
+      "Created": "2025-08-05T00:54:49Z",
+      "Title": "How to save leaflet to html with same dimensions as mainPanel",
+      "Tags": [
+        "r",
+        "shiny",
+        "leaflet",
+        "htmlwidgets",
+        "mapview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725507/how-to-save-leaflet-to-html-with-same-dimensions-as-mainpanel"
+    },
+    {
+      "Created": "2025-08-05T01:05:09Z",
+      "Title": "Blackbox Exporter dns prob fails with probe_dns_query_succeeded =0",
+      "Tags": [
+        "prometheus-blackbox-exporter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725511/blackbox-exporter-dns-prob-fails-with-probe-dns-query-succeeded-0"
+    },
+    {
+      "Created": "2025-08-05T01:15:25Z",
+      "Title": "\u0027Error Code-11\u0027 in Faro SDK,When load a last fls file",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725514/error-code-11-in-faro-sdk-when-load-a-last-fls-file"
+    }
+  ]
+}

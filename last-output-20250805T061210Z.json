@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T06:05:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T05:26:07Z",
+      "Title": "dbutils.notebook.run() Masks Specific Errors with General WorkflowException Logs",
+      "Tags": [
+        "databricks",
+        "databricks-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725636/dbutils-notebook-run-masks-specific-errors-with-general-workflowexception-logs"
+    },
+    {
+      "Created": "2025-08-05T05:57:40Z",
+      "Title": "Custom Smart Home skill with my own https backend",
+      "Tags": [
+        "alexa-smart-home-skill"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725657/custom-smart-home-skill-with-my-own-https-backend"
+    },
+    {
+      "Created": "2025-08-05T06:02:17Z",
+      "Title": "Why does DCMTK fail to decode DICOM Icon Image Sequence with PALETTE COLOR LUT (even with correct palette)?",
+      "Tags": [
+        "c\u002B\u002B",
+        "dicom",
+        "dcmtk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725664/why-does-dcmtk-fail-to-decode-dicom-icon-image-sequence-with-palette-color-lut"
+    },
+    {
+      "Created": "2025-08-05T06:05:25Z",
+      "Title": "How to safely (re)start a pthread during runtime in a long-running main loop on embedded Linux?",
+      "Tags": [
+        "c",
+        "pthreads",
+        "modbus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725666/how-to-safely-restart-a-pthread-during-runtime-in-a-long-running-main-loop-on"
+    }
+  ]
+}

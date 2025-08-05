@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-05T10:05:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T09:59:25Z",
+      "Title": "Enforce commit message with JIRA ticket before commit into GitLab",
+      "Tags": [
+        "git",
+        "gitlab",
+        "jira",
+        "git-commit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725931/enforce-commit-message-with-jira-ticket-before-commit-into-gitlab"
+    },
+    {
+      "Created": "2025-08-05T09:59:50Z",
+      "Title": "ItexSharp C# Combine multiples PDF with AcroFields specified",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "pdf",
+        "itext",
+        "pdf-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725932/itexsharp-c-sharp-combine-multiples-pdf-with-acrofields-specified"
+    },
+    {
+      "Created": "2025-08-05T10:00:16Z",
+      "Title": "How to verify button click in Selenium with proper exception handling using TestNG?",
+      "Tags": [
+        "selenium-webdriver",
+        "testng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725934/how-to-verify-button-click-in-selenium-with-proper-exception-handling-using-test"
+    },
+    {
+      "Created": "2025-08-05T10:04:05Z",
+      "Title": "SageMaker PyTorch MME ignores entry_point and falls back to default handler, causing ModelLoadError",
+      "Tags": [
+        "pytorch",
+        "amazon-sagemaker",
+        "torchserve"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725939/sagemaker-pytorch-mme-ignores-entry-point-and-falls-back-to-default-handler-cau"
+    },
+    {
+      "Created": "2025-08-05T10:05:41Z",
+      "Title": "Azure DevOps language metrics endpoint not working",
+      "Tags": [
+        "azure-devops",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725943/azure-devops-language-metrics-endpoint-not-working"
+    }
+  ]
+}

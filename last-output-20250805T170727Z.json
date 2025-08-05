@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-05T17:04:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T16:33:15Z",
+      "Title": "GCC offers a _Float16 type, but - what about the functions to work with it?",
+      "Tags": [
+        "c",
+        "gcc",
+        "floating-point",
+        "half-precision-float",
+        "math-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726397/gcc-offers-a-float16-type-but-what-about-the-functions-to-work-with-it"
+    },
+    {
+      "Created": "2025-08-05T16:45:37Z",
+      "Title": "expo-video not rendering DAM-hosted video on iOS device (works on Android and Safari)",
+      "Tags": [
+        "ios",
+        "react-native",
+        "expo",
+        "video-streaming",
+        "mp4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726411/expo-video-not-rendering-dam-hosted-video-on-ios-device-works-on-android-and-sa"
+    },
+    {
+      "Created": "2025-08-05T16:47:56Z",
+      "Title": "Using a template class in the template parameter of a template function",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726416/using-a-template-class-in-the-template-parameter-of-a-template-function"
+    },
+    {
+      "Created": "2025-08-05T16:51:58Z",
+      "Title": "java FileOutputStream not behaving like a ByteArrayOutputStream",
+      "Tags": [
+        "java",
+        "inputstream",
+        "outputstream",
+        "disk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726420/java-fileoutputstream-not-behaving-like-a-bytearrayoutputstream"
+    },
+    {
+      "Created": "2025-08-05T16:58:56Z",
+      "Title": "Why does \u0060$display\u0060 wrong \u0060assign\u0060 result through instantiation?",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726426/why-does-display-wrong-assign-result-through-instantiation"
+    },
+    {
+      "Created": "2025-08-05T17:04:39Z",
+      "Title": "ClientAuthenfication implementation issue Spring Cloud Vault token",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "token",
+        "hashicorp-vault",
+        "spring-cloud-vault-config"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726430/clientauthenfication-implementation-issue-spring-cloud-vault-token"
+    }
+  ]
+}

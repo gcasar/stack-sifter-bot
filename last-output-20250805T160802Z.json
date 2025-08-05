@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-05T16:05:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T15:49:06Z",
+      "Title": "When adding existing files from server using local, hidden field values are set as image URL instead of signed_id",
+      "Tags": [
+        "ruby-on-rails",
+        "rails-activestorage",
+        "filepond"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726351/when-adding-existing-files-from-server-using-local-hidden-field-values-are-set"
+    },
+    {
+      "Created": "2025-08-05T15:56:35Z",
+      "Title": "Do I need both Jedis and Lettuce connection factories in Spring Boot with Redis OM?",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "redis",
+        "redis-om-spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726356/do-i-need-both-jedis-and-lettuce-connection-factories-in-spring-boot-with-redis"
+    },
+    {
+      "Created": "2025-08-05T16:04:18Z",
+      "Title": "pd.merge_asof and returning *all* values where there is a match",
+      "Tags": [
+        "python",
+        "pandas",
+        "join",
+        "merge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726367/pd-merge-asof-and-returning-all-values-where-there-is-a-match"
+    },
+    {
+      "Created": "2025-08-05T16:04:30Z",
+      "Title": "Can a 1:N and an M:N relationship coexist between two entities?",
+      "Tags": [
+        "database",
+        "database-design",
+        "erd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726368/can-a-1n-and-an-mn-relationship-coexist-between-two-entities"
+    },
+    {
+      "Created": "2025-08-05T16:05:57Z",
+      "Title": "Is this the correct way to use Reactive Redis in Spring Boot with Kotlin?",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "kotlin",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726371/is-this-the-correct-way-to-use-reactive-redis-in-spring-boot-with-kotlin"
+    }
+  ]
+}

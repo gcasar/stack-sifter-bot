@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-05T03:57:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T03:43:01Z",
+      "Title": "Advice on how to handle KeyError occurring when using map Lambda and slicing for dictionary lookup",
+      "Tags": [
+        "python",
+        "dictionary",
+        "keyerror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725576/advice-on-how-to-handle-keyerror-occurring-when-using-map-lambda-and-slicing-for"
+    },
+    {
+      "Created": "2025-08-05T03:49:18Z",
+      "Title": "Why does require become require2 at runtime inside Vite\u0027s internal worker function?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "typescript",
+        "gulp",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725581/why-does-require-become-require2-at-runtime-inside-vites-internal-worker-functi"
+    },
+    {
+      "Created": "2025-08-05T03:50:54Z",
+      "Title": "GPS satellite position calculation from RINEX navigation file produces unexpected ECI/ECEF plots",
+      "Tags": [
+        "python",
+        "gps",
+        "positioning",
+        "geodesic-sphere",
+        "satellite-navigation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725584/gps-satellite-position-calculation-from-rinex-navigation-file-produces-unexpecte"
+    },
+    {
+      "Created": "2025-08-05T03:53:30Z",
+      "Title": "How to get pasted content in the Monaco Editor?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "monaco-editor",
+        "react-monaco-editor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725585/how-to-get-pasted-content-in-the-monaco-editor"
+    },
+    {
+      "Created": "2025-08-05T03:57:39Z",
+      "Title": "TS7009: \u0027new\u0027 expression, whose target lacks a construct signature when using keycloak-js in React \u002B TypeScript (Keycloak JS)",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "authentication",
+        "keycloak",
+        "keycloak-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725588/ts7009-new-expression-whose-target-lacks-a-construct-signature-when-using-ke"
+    }
+  ]
+}

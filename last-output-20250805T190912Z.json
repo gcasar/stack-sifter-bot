@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-05T19:06:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T19:06:15Z",
+      "Title": "How to Override OIDCClientRegistrationProvider in Keycloak 26 with Custom Fields in the Request Body",
+      "Tags": [
+        "keycloak",
+        "keycloak-services",
+        "keycloak-spi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726542/how-to-override-oidcclientregistrationprovider-in-keycloak-26-with-custom-fields"
+    }
+  ]
+}

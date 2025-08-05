@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T13:16:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T12:21:28Z",
+      "Title": "Can\u0027t make https post requests with ESP32 using EthernetENC and SSLClient libraries",
+      "Tags": [
+        "https",
+        "arduino",
+        "esp32",
+        "platformio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726098/cant-make-https-post-requests-with-esp32-using-ethernetenc-and-sslclient-librar"
+    },
+    {
+      "Created": "2025-08-05T13:10:17Z",
+      "Title": "How to compare XMLs and their nested content?",
+      "Tags": [
+        "xml",
+        "diff",
+        "xmlunit",
+        "xmlunit-2",
+        "xmldiff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726153/how-to-compare-xmls-and-their-nested-content"
+    },
+    {
+      "Created": "2025-08-05T13:13:09Z",
+      "Title": "Azure SDK for CPP Bearer token authentication",
+      "Tags": [
+        "azure-sdk",
+        "azure-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726160/azure-sdk-for-cpp-bearer-token-authentication"
+    },
+    {
+      "Created": "2025-08-05T13:16:16Z",
+      "Title": "How can I make selection slot work in Vue 3",
+      "Tags": [
+        "vuejs3",
+        "vuejs-slots"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726163/how-can-i-make-selection-slot-work-in-vue-3"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T07:07:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T06:12:32Z",
+      "Title": "how do I get multiple functions to work with onEdit trigger in a single sheet (Google Sheets)",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725679/how-do-i-get-multiple-functions-to-work-with-onedit-trigger-in-a-single-sheet-g"
+    },
+    {
+      "Created": "2025-08-05T06:52:55Z",
+      "Title": "Which jQuery migration plugin version for jQuery 1.9.1?",
+      "Tags": [
+        "jquery",
+        "jquery-plugins",
+        "upgrade"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725706/which-jquery-migration-plugin-version-for-jquery-1-9-1"
+    },
+    {
+      "Created": "2025-08-05T07:00:54Z",
+      "Title": "Why does not sympy simplify \u0022Abs(cos(inc))/sqrt(cos(inc)**2)\u0022 as 1?",
+      "Tags": [
+        "python",
+        "sympy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725715/why-does-not-sympy-simplify-abscosinc-sqrtcosinc2-as-1"
+    },
+    {
+      "Created": "2025-08-05T07:07:54Z",
+      "Title": "Input audio from microphone not collected when audio is reproduced",
+      "Tags": [
+        "python",
+        "audio",
+        "python-asyncio",
+        "real-time",
+        "python-sounddevice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725721/input-audio-from-microphone-not-collected-when-audio-is-reproduced"
+    }
+  ]
+}

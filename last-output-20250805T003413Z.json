@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T00:22:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-04T23:34:20Z",
+      "Title": "Android Version Catalog and Gradle File Syntax",
+      "Tags": [
+        "android",
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725473/android-version-catalog-and-gradle-file-syntax"
+    },
+    {
+      "Created": "2025-08-04T23:51:41Z",
+      "Title": "Using page width in Hugo template",
+      "Tags": [
+        "hugo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725479/using-page-width-in-hugo-template"
+    },
+    {
+      "Created": "2025-08-04T23:55:53Z",
+      "Title": "Redis Cloud and AWS EC2 in the same region \u2014 will I face latency or AWS data transfer fees?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-ec2",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725482/redis-cloud-and-aws-ec2-in-the-same-region-will-i-face-latency-or-aws-data-tra"
+    },
+    {
+      "Created": "2025-08-05T00:22:32Z",
+      "Title": "Update status field of a cost payment",
+      "Tags": [
+        "autodesk-forge",
+        "autodesk-construction-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725490/update-status-field-of-a-cost-payment"
+    }
+  ]
+}

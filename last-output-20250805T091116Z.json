@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-05T09:06:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T08:31:21Z",
+      "Title": "Required attribute is not working for the body request at the method of API endpoint",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "asp.net-core",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725814/required-attribute-is-not-working-for-the-body-request-at-the-method-of-api-endp"
+    },
+    {
+      "Created": "2025-08-05T08:40:10Z",
+      "Title": "Reconnect to CORBA server",
+      "Tags": [
+        "c\u002B\u002B",
+        "corba",
+        "tao"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725823/reconnect-to-corba-server"
+    },
+    {
+      "Created": "2025-08-05T08:59:26Z",
+      "Title": "Does L[a:b]=L[c:d] in Python create a new list? [duplicate]",
+      "Tags": [
+        "python",
+        "python-internals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725843/does-lab-lcd-in-python-create-a-new-list"
+    },
+    {
+      "Created": "2025-08-05T09:01:22Z",
+      "Title": "Simple Regex failing in Notepad\u002B\u002B",
+      "Tags": [
+        "regex",
+        "notepad\u002B\u002B",
+        "pcre"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725846/simple-regex-failing-in-notepad"
+    },
+    {
+      "Created": "2025-08-05T09:03:13Z",
+      "Title": "arm-none-eabi-gcc stack frame usage issue",
+      "Tags": [
+        "assembly",
+        "gcc",
+        "optimization",
+        "arm",
+        "stack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725849/arm-none-eabi-gcc-stack-frame-usage-issue"
+    },
+    {
+      "Created": "2025-08-05T09:06:51Z",
+      "Title": "Object literal may only specify known properties, potential caching/prisma issue",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "postgresql",
+        "gulp",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725854/object-literal-may-only-specify-known-properties-potential-caching-prisma-issue"
+    }
+  ]
+}

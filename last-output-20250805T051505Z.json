@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T05:12:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T04:35:08Z",
+      "Title": "On Windows Terminal, in Visual C\u002B\u002B, how can I overwrite previous lines?",
+      "Tags": [
+        "visual-c\u002B\u002B",
+        "console",
+        "display",
+        "overwrite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725603/on-windows-terminal-in-visual-c-how-can-i-overwrite-previous-lines"
+    },
+    {
+      "Created": "2025-08-05T04:57:54Z",
+      "Title": "Firebase Realtime Database onValue listener triggers repeatedly on iOS without data changes in Flutter",
+      "Tags": [
+        "ios",
+        "flutter",
+        "firebase",
+        "firebase-realtime-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725615/firebase-realtime-database-onvalue-listener-triggers-repeatedly-on-ios-without-d"
+    },
+    {
+      "Created": "2025-08-05T05:05:27Z",
+      "Title": "How to Configure Garnet Server to Use Installed Certificates for TLS Instead of PFX Files?",
+      "Tags": [
+        "ssl",
+        "pfx",
+        "distributed-cache",
+        "microsoft-garnet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725621/how-to-configure-garnet-server-to-use-installed-certificates-for-tls-instead-of"
+    },
+    {
+      "Created": "2025-08-05T05:12:07Z",
+      "Title": "Does sqlparse.token.keyword recognize Top as a keyword?",
+      "Tags": [
+        "parsing",
+        "pyspark",
+        "databricks",
+        "keyword"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725626/does-sqlparse-token-keyword-recognize-top-as-a-keyword"
+    }
+  ]
+}

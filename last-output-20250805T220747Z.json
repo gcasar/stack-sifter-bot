@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-05T22:02:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T21:55:04Z",
+      "Title": "Why is clang object code substantially different when changing optimization level in a small part of the code?",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang",
+        "compiler-optimization",
+        "disassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726634/why-is-clang-object-code-substantially-different-when-changing-optimization-leve"
+    },
+    {
+      "Created": "2025-08-05T21:57:48Z",
+      "Title": "How to make vcpkg build a specific library version of opentelemetry-cpp?",
+      "Tags": [
+        "c\u002B\u002B",
+        "open-telemetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726635/how-to-make-vcpkg-build-a-specific-library-version-of-opentelemetry-cpp"
+    },
+    {
+      "Created": "2025-08-05T22:02:49Z",
+      "Title": "Model Binding fails silently when using Razor pages (HTTP 400)",
+      "Tags": [
+        "c#",
+        "reactjs",
+        "asp.net",
+        "razor-pages",
+        "model-binding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726638/model-binding-fails-silently-when-using-razor-pages-http-400"
+    }
+  ]
+}

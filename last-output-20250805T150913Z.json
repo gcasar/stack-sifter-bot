@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-05T14:58:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T14:10:15Z",
+      "Title": "python gmsh: build 3D mesh from solid-split stl surface for openFOAM",
+      "Tags": [
+        "python",
+        "stl",
+        "gmsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726242/python-gmsh-build-3d-mesh-from-solid-split-stl-surface-for-openfoam"
+    },
+    {
+      "Created": "2025-08-05T14:33:06Z",
+      "Title": "Why querySelectorAll will match element with :nth-of-type(2) when the elements doesn\u0027t have any siblings?",
+      "Tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726278/why-queryselectorall-will-match-element-with-nth-of-type2-when-the-elements-d"
+    },
+    {
+      "Created": "2025-08-05T14:58:28Z",
+      "Title": "How to correctly configure eslint-plugin-import in Next.js 15 with TypeScript and path aliases?",
+      "Tags": [
+        "typescript",
+        "eslint",
+        "next.js15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726307/how-to-correctly-configure-eslint-plugin-import-in-next-js-15-with-typescript-an"
+    }
+  ]
+}

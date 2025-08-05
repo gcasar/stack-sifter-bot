@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-05T11:03:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T10:16:25Z",
+      "Title": "How can I render a custom legend?",
+      "Tags": [
+        "react-chartjs-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725952/how-can-i-render-a-custom-legend"
+    },
+    {
+      "Created": "2025-08-05T10:55:38Z",
+      "Title": "Spin inside ros2 lifecycle node as a separate thread",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "c\u002B\u002B17",
+        "ros2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726007/spin-inside-ros2-lifecycle-node-as-a-separate-thread"
+    },
+    {
+      "Created": "2025-08-05T10:55:47Z",
+      "Title": "Combining Windows\u0027 GetMessage Event Loop with a UI Animation Loop for Low CPU Usage",
+      "Tags": [
+        "winapi",
+        "events",
+        "design-patterns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726008/combining-windows-getmessage-event-loop-with-a-ui-animation-loop-for-low-cpu-us"
+    },
+    {
+      "Created": "2025-08-05T10:57:04Z",
+      "Title": "Hazelcast Mancenter: Console not connecting to Cluster",
+      "Tags": [
+        "hazelcast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726012/hazelcast-mancenter-console-not-connecting-to-cluster"
+    },
+    {
+      "Created": "2025-08-05T10:58:04Z",
+      "Title": "Will targetSDK 35 and compileSDK34 meet new Google Play requirements?",
+      "Tags": [
+        "android",
+        "flutter",
+        "google-play",
+        "target-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726014/will-targetsdk-35-and-compilesdk34-meet-new-google-play-requirements"
+    },
+    {
+      "Created": "2025-08-05T11:01:52Z",
+      "Title": "React Testing Library : TypeError: Cannot read properties of undefined (reading \u0027enhanceEndpoints\u0027)",
+      "Tags": [
+        "reactjs",
+        "redux",
+        "react-testing-library",
+        "redux-toolkit",
+        "react-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726020/react-testing-library-typeerror-cannot-read-properties-of-undefined-reading"
+    },
+    {
+      "Created": "2025-08-05T11:03:00Z",
+      "Title": "Prefab not aligning with grid quads when rotated in grid-based building system",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726021/prefab-not-aligning-with-grid-quads-when-rotated-in-grid-based-building-system"
+    }
+  ]
+}

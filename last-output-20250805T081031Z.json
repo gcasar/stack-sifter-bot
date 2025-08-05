@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T08:06:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T07:33:50Z",
+      "Title": "Placeholder Text Color Not Persisting When Focus Changes on UITextField",
+      "Tags": [
+        "ios",
+        "xcode",
+        "placeholder",
+        "tvos",
+        "onfocus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725747/placeholder-text-color-not-persisting-when-focus-changes-on-uitextfield"
+    },
+    {
+      "Created": "2025-08-05T07:55:20Z",
+      "Title": "Flex Gateway-MULE: Replace Authorization Header After OAuth Authentication for Backend Compatibility",
+      "Tags": [
+        "authorization",
+        "mulesoft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725777/flex-gateway-mule-replace-authorization-header-after-oauth-authentication-for-b"
+    },
+    {
+      "Created": "2025-08-05T08:00:21Z",
+      "Title": "Restrict results by a sublinked table that it\u0027s parent has multiple results on EF Core",
+      "Tags": [
+        "c#",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725785/restrict-results-by-a-sublinked-table-that-its-parent-has-multiple-results-on-e"
+    },
+    {
+      "Created": "2025-08-05T08:06:15Z",
+      "Title": "JavaFX ListView layout incorrect until scroll or click",
+      "Tags": [
+        "java",
+        "listview",
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725789/javafx-listview-layout-incorrect-until-scroll-or-click"
+    }
+  ]
+}

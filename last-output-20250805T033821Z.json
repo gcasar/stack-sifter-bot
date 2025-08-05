@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-05T03:15:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T02:48:07Z",
+      "Title": "Chess move making gives incorrect Zobrist hashing but not FEN",
+      "Tags": [
+        "c\u002B\u002B",
+        "hash",
+        "chess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725555/chess-move-making-gives-incorrect-zobrist-hashing-but-not-fen"
+    },
+    {
+      "Created": "2025-08-05T02:48:14Z",
+      "Title": "What is wrong with this Python variable NameError: name \u0027thetas\u0027 is not defined",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725556/what-is-wrong-with-this-python-variable-nameerror-name-thetas-is-not-defined"
+    },
+    {
+      "Created": "2025-08-05T03:12:10Z",
+      "Title": "How to know a security provider supports a specific keysize without trying to init?",
+      "Tags": [
+        "java",
+        "cryptography",
+        "jce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725565/how-to-know-a-security-provider-supports-a-specific-keysize-without-trying-to-in"
+    },
+    {
+      "Created": "2025-08-05T03:15:22Z",
+      "Title": "How to find path by given a filename input in CLI",
+      "Tags": [
+        "go",
+        "path",
+        "command-line-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79725568/how-to-find-path-by-given-a-filename-input-in-cli"
+    }
+  ]
+}

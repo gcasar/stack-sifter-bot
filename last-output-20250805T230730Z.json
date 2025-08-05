@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-05T22:52:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T22:11:02Z",
+      "Title": "RapidJSON parsing no longer works after switching to Zig compilation",
+      "Tags": [
+        "c\u002B\u002B",
+        "zig",
+        "rapidjson"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726640/rapidjson-parsing-no-longer-works-after-switching-to-zig-compilation"
+    },
+    {
+      "Created": "2025-08-05T22:34:59Z",
+      "Title": "Linker errors when inheriting from templated base class",
+      "Tags": [
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726648/linker-errors-when-inheriting-from-templated-base-class"
+    },
+    {
+      "Created": "2025-08-05T22:44:17Z",
+      "Title": "Shopify Remix App: GraphQL Client Unauthorized (401) when using App Proxy route despite valid session",
+      "Tags": [
+        "graphql",
+        "shopify",
+        "shopify-app",
+        "shopify-api",
+        "remix.run"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726654/shopify-remix-app-graphql-client-unauthorized-401-when-using-app-proxy-route"
+    },
+    {
+      "Created": "2025-08-05T22:50:34Z",
+      "Title": "Can I use Angular Universal prerender with ionic framework?",
+      "Tags": [
+        "angular",
+        "ionic-framework",
+        "server-side-rendering",
+        "prerender"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726656/can-i-use-angular-universal-prerender-with-ionic-framework"
+    },
+    {
+      "Created": "2025-08-05T22:52:23Z",
+      "Title": "Preventing Multiple Calls to loadProducts Function",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726657/preventing-multiple-calls-to-loadproducts-function"
+    }
+  ]
+}

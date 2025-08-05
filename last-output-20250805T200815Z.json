@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-05T20:03:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T19:11:24Z",
+      "Title": "Open Service Mesh share osm-nginx-client-certificate Across Multiple Namespaces To make It Accessable Across K8s Deployments",
+      "Tags": [
+        "kubernetes",
+        "nginx",
+        "certificate",
+        "ingress-nginx",
+        "servicemesh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726546/open-service-mesh-share-osm-nginx-client-certificate-across-multiple-namespaces"
+    },
+    {
+      "Created": "2025-08-05T19:59:34Z",
+      "Title": "RestAssured throws HttpResponseException on 422 Unprocessable Entity instead of allowing assertions",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "automated-tests",
+        "cucumber",
+        "rest-assured"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726570/restassured-throws-httpresponseexception-on-422-unprocessable-entity-instead-of"
+    },
+    {
+      "Created": "2025-08-05T20:03:09Z",
+      "Title": "Is it possible to use dask distributed to pandas with apply working with multiprocessing?",
+      "Tags": [
+        "dask",
+        "dask-distributed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726576/is-it-possible-to-use-dask-distributed-to-pandas-with-apply-working-with-multipr"
+    }
+  ]
+}

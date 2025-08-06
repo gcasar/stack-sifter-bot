@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-06T04:20:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T03:54:22Z",
+      "Title": "Trouble Plotting Data",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726802/trouble-plotting-data"
+    },
+    {
+      "Created": "2025-08-06T04:20:20Z",
+      "Title": "using fread function to get the list of students from file",
+      "Tags": [
+        "c",
+        "file",
+        "fread"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726817/using-fread-function-to-get-the-list-of-students-from-file"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-06T12:11:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T11:07:39Z",
+      "Title": "adjust plotnine legend and geom_stap",
+      "Tags": [
+        "python",
+        "ggplot2",
+        "python-polars",
+        "plotnine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727190/adjust-plotnine-legend-and-geom-stap"
+    },
+    {
+      "Created": "2025-08-06T12:01:50Z",
+      "Title": ".gitattribute file not working as expected",
+      "Tags": [
+        "git",
+        "gitattributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727244/gitattribute-file-not-working-as-expected"
+    },
+    {
+      "Created": "2025-08-06T12:03:51Z",
+      "Title": "SVG connection lines not appearing when exporting Drawflow editor as image using dom-to-image-more or html-to-image",
+      "Tags": [
+        "javascript",
+        "svg",
+        "dom-to-image",
+        "html-to-image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727248/svg-connection-lines-not-appearing-when-exporting-drawflow-editor-as-image-using"
+    },
+    {
+      "Created": "2025-08-06T12:04:52Z",
+      "Title": "Authenticated in web.php but not in api.php",
+      "Tags": [
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727249/authenticated-in-web-php-but-not-in-api-php"
+    },
+    {
+      "Created": "2025-08-06T12:11:25Z",
+      "Title": "confirmation dialog not firing",
+      "Tags": [
+        "ruby-on-rails",
+        "turbo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727254/confirmation-dialog-not-firing"
+    }
+  ]
+}

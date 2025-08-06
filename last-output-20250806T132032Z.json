@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-06T13:17:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T12:13:06Z",
+      "Title": "Visual Studio Pro NuGet upgrade",
+      "Tags": [
+        "visual-studio-2017",
+        "nuget"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727257/visual-studio-pro-nuget-upgrade"
+    },
+    {
+      "Created": "2025-08-06T12:34:56Z",
+      "Title": "Restrict date selection from calendar to specific dates",
+      "Tags": [
+        "python",
+        "tkinter",
+        "tkcalendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727284/restrict-date-selection-from-calendar-to-specific-dates"
+    },
+    {
+      "Created": "2025-08-06T12:39:59Z",
+      "Title": "What appoaches exist to process transactional outbox table?",
+      "Tags": [
+        "spring-boot",
+        "kotlin",
+        "microservices",
+        "2phase-commit",
+        "transactional-outbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727297/what-appoaches-exist-to-process-transactional-outbox-table"
+    },
+    {
+      "Created": "2025-08-06T12:53:34Z",
+      "Title": "htmlpurifier remove the elements which include display:none in style",
+      "Tags": [
+        "php",
+        "htmlpurifier"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727311/htmlpurifier-remove-the-elements-which-include-displaynone-in-style"
+    },
+    {
+      "Created": "2025-08-06T12:54:02Z",
+      "Title": "Why does kubectl logs --follow show duplicate output when used in a loop to watch Kubernetes Job logs?",
+      "Tags": [
+        "bash",
+        "kubernetes",
+        "jenkins",
+        "logging",
+        "kubectl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727312/why-does-kubectl-logs-follow-show-duplicate-output-when-used-in-a-loop-to-watc"
+    },
+    {
+      "Created": "2025-08-06T13:14:48Z",
+      "Title": "What data does dotnet-trace with cpu-sampling collect, and how do I use it to diagnose high CPU?",
+      "Tags": [
+        ".net-core",
+        "system.diagnostics",
+        "dotnet-cli",
+        ".net-traceprocessing",
+        ".net-trace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727329/what-data-does-dotnet-trace-with-cpu-sampling-collect-and-how-do-i-use-it-to-di"
+    },
+    {
+      "Created": "2025-08-06T13:16:28Z",
+      "Title": "AWS SNS FilterPolicy not working with SQS subscription",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-cloudwatch",
+        "amazon-sns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727332/aws-sns-filterpolicy-not-working-with-sqs-subscription"
+    },
+    {
+      "Created": "2025-08-06T13:17:15Z",
+      "Title": "Open-MP Parallel for (three-dimensional array)",
+      "Tags": [
+        "c",
+        "for-loop",
+        "parallel-processing",
+        "openmp",
+        "pragma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727334/open-mp-parallel-for-three-dimensional-array"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-08-06T01:35:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T01:02:29Z",
+      "Title": "Why do some randomly chosen options for bestdoor make unreachable rooms?",
+      "Tags": [
+        "javascript",
+        "graph",
+        "tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726713/why-do-some-randomly-chosen-options-for-bestdoor-make-unreachable-rooms"
+    },
+    {
+      "Created": "2025-08-06T01:18:41Z",
+      "Title": "How to isolate code coverage to specific interactions, excluding Spring Boot startup, in IntelliJ Ultimate?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "intellij-idea",
+        "code-coverage",
+        "jacoco"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726717/how-to-isolate-code-coverage-to-specific-interactions-excluding-spring-boot-sta"
+    },
+    {
+      "Created": "2025-08-06T01:20:31Z",
+      "Title": "Firebase Hosting (Next.js App Router) Deployment 404 Error (Also in Local)",
+      "Tags": [
+        "firebase",
+        "next.js",
+        "google-cloud-run",
+        "firebase-hosting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726721/firebase-hosting-next-js-app-router-deployment-404-error-also-in-local"
+    },
+    {
+      "Created": "2025-08-06T01:21:35Z",
+      "Title": "Why does vscode.authentication.getSession() behave differently in different OSes?",
+      "Tags": [
+        "visual-studio-code",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726722/why-does-vscode-authentication-getsession-behave-differently-in-different-oses"
+    },
+    {
+      "Created": "2025-08-06T01:24:08Z",
+      "Title": "LoRa LA66 RSSI measurement issue \u2013 TX sends but RX doesn\u2019t receive (Arduino Uno R3)",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "rssi",
+        "lora",
+        "lorawan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726724/lora-la66-rssi-measurement-issue-tx-sends-but-rx-doesn-t-receive-arduino-uno"
+    },
+    {
+      "Created": "2025-08-06T01:30:26Z",
+      "Title": "Custom Raylib Shader Problem, Unable To See My Textures",
+      "Tags": [
+        "c",
+        "glsl",
+        "raylib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726729/custom-raylib-shader-problem-unable-to-see-my-textures"
+    },
+    {
+      "Created": "2025-08-06T01:30:52Z",
+      "Title": "I want to simulate linear MPC control of a FOPTD model using GEKKO",
+      "Tags": [
+        "gekko"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726730/i-want-to-simulate-linear-mpc-control-of-a-foptd-model-using-gekko"
+    },
+    {
+      "Created": "2025-08-06T01:33:00Z",
+      "Title": "How can the number of values in a tuple type hint be parameterized?",
+      "Tags": [
+        "python",
+        "type-hinting",
+        "python-3.10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726731/how-can-the-number-of-values-in-a-tuple-type-hint-be-parameterized"
+    },
+    {
+      "Created": "2025-08-06T01:33:57Z",
+      "Title": "How to make my block (extending to BaseEntityBlock) face to the player when placed?",
+      "Tags": [
+        "minecraft",
+        "minecraft-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726732/how-to-make-my-block-extending-to-baseentityblock-face-to-the-player-when-plac"
+    },
+    {
+      "Created": "2025-08-06T01:35:44Z",
+      "Title": "Cannot capture navigator.runAdAuction() parameters from seller td.doubleclick.net, but works for other sellers",
+      "Tags": [
+        "google-chrome",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726733/cannot-capture-navigator-runadauction-parameters-from-seller-td-doubleclick-ne"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-06T08:09:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T07:25:56Z",
+      "Title": "Are swaps allowed to self-check?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "swap",
+        "move-semantics",
+        "copy-and-swap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726956/are-swaps-allowed-to-self-check"
+    },
+    {
+      "Created": "2025-08-06T07:26:50Z",
+      "Title": "Git diff when swapping statements",
+      "Tags": [
+        "git",
+        "git-diff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726958/git-diff-when-swapping-statements"
+    },
+    {
+      "Created": "2025-08-06T07:46:31Z",
+      "Title": "Trailing \u0027/\u0027 when react fetching potree resources from node server",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "potree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726979/trailing-when-react-fetching-potree-resources-from-node-server"
+    },
+    {
+      "Created": "2025-08-06T08:05:27Z",
+      "Title": "FastAPI endpoint stream LLM output word for word",
+      "Tags": [
+        "python",
+        "fastapi",
+        "huggingface-transformers",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726988/fastapi-endpoint-stream-llm-output-word-for-word"
+    },
+    {
+      "Created": "2025-08-06T08:08:54Z",
+      "Title": "Prevent PR Author from Approving Their Own Pull Request (Bitbucket Cloud)",
+      "Tags": [
+        "bitbucket",
+        "bitbucket-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726991/prevent-pr-author-from-approving-their-own-pull-request-bitbucket-cloud"
+    },
+    {
+      "Created": "2025-08-06T08:09:10Z",
+      "Title": "How do get the NodeId from a ElementHandle, which is inside a iframe in playwright?",
+      "Tags": [
+        "playwright",
+        "chrome-devtools-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726992/how-do-get-the-nodeid-from-a-elementhandle-which-is-inside-a-iframe-in-playwrig"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-06T06:04:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T05:42:51Z",
+      "Title": "How to build a Yocto Project image for a x86 that uses BIOS firmware",
+      "Tags": [
+        "embedded-linux",
+        "yocto",
+        "bootloader",
+        "bios",
+        "yocto-wic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726868/how-to-build-a-yocto-project-image-for-a-x86-that-uses-bios-firmware"
+    },
+    {
+      "Created": "2025-08-06T06:04:29Z",
+      "Title": "How to enable BDS-only mode on SIM868 GNSS module? $PMTKSPF,2*59 shows success, but no BDS fix or output",
+      "Tags": [
+        "gps",
+        "simcom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726885/how-to-enable-bds-only-mode-on-sim868-gnss-module-pmtkspf-259-shows-success"
+    }
+  ]
+}

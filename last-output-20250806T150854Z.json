@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-06T15:07:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T14:54:33Z",
+      "Title": "How to determine whether the ClientHello message was received fully or not",
+      "Tags": [
+        "c\u002B\u002B",
+        "ssl",
+        "boost",
+        "boost-asio",
+        "tls1.2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727455/how-to-determine-whether-the-clienthello-message-was-received-fully-or-not"
+    },
+    {
+      "Created": "2025-08-06T14:56:19Z",
+      "Title": "Apply Material v20 themes to components",
+      "Tags": [
+        "angular-material"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727462/apply-material-v20-themes-to-components"
+    },
+    {
+      "Created": "2025-08-06T14:56:24Z",
+      "Title": "React Router V7, styles not being applied to page using spa mode in build",
+      "Tags": [
+        "reactjs",
+        "sass",
+        "react-router",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727463/react-router-v7-styles-not-being-applied-to-page-using-spa-mode-in-build"
+    },
+    {
+      "Created": "2025-08-06T14:59:17Z",
+      "Title": "Is it ok to use GNU tools on LLVM binaries?",
+      "Tags": [
+        "llvm",
+        "gnu",
+        "objcopy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727472/is-it-ok-to-use-gnu-tools-on-llvm-binaries"
+    },
+    {
+      "Created": "2025-08-06T15:00:22Z",
+      "Title": "How to build muparser as a static library in CMake?",
+      "Tags": [
+        "visual-c\u002B\u002B",
+        "cmake",
+        "linker",
+        "static-libraries",
+        "muparser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727474/how-to-build-muparser-as-a-static-library-in-cmake"
+    },
+    {
+      "Created": "2025-08-06T15:02:16Z",
+      "Title": "Dynamic route (e.g., $bid.jsx) not working in Remix with manual route configuration (Vite \u002B folder structure)",
+      "Tags": [
+        "reactjs",
+        "vite",
+        "remix.run"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727480/dynamic-route-e-g-bid-jsx-not-working-in-remix-with-manual-route-configurat"
+    },
+    {
+      "Created": "2025-08-06T15:04:44Z",
+      "Title": "How to obtain familysearch.com token without entering login and password",
+      "Tags": [
+        "python",
+        "oauth-2.0",
+        "familysearch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727484/how-to-obtain-familysearch-com-token-without-entering-login-and-password"
+    },
+    {
+      "Created": "2025-08-06T15:07:08Z",
+      "Title": "Facebook authentication of a Blazor Server app hosted on Linux",
+      "Tags": [
+        "linux",
+        "blazor",
+        "facebook-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727488/facebook-authentication-of-a-blazor-server-app-hosted-on-linux"
+    }
+  ]
+}

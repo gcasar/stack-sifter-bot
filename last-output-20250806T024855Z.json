@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-06T02:20:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T01:41:24Z",
+      "Title": "Pusher Beams Flutter Notifications Work on Emulator but Not on Real Devices",
+      "Tags": [
+        "flutter",
+        "push-notification",
+        "notifications",
+        "emulation",
+        "pusher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726738/pusher-beams-flutter-notifications-work-on-emulator-but-not-on-real-devices"
+    },
+    {
+      "Created": "2025-08-06T01:52:06Z",
+      "Title": "WinForms UserControl: Collection property not updating UI in Designer after editing",
+      "Tags": [
+        "winforms",
+        "user-controls",
+        "collectioneditor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726745/winforms-usercontrol-collection-property-not-updating-ui-in-designer-after-edit"
+    },
+    {
+      "Created": "2025-08-06T01:52:54Z",
+      "Title": "Websocket on Nodejs / Cloud Run closes some connections with 1006 with no reason but the message is delivered correctly",
+      "Tags": [
+        "node.js",
+        "google-cloud-platform",
+        "websocket",
+        "google-cloud-run"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726746/websocket-on-nodejs-cloud-run-closes-some-connections-with-1006-with-no-reason"
+    },
+    {
+      "Created": "2025-08-06T02:13:21Z",
+      "Title": "How to map additional aliased columns from a native query to a JPA entity when the column does not physically exist?",
+      "Tags": [
+        "java",
+        "spring",
+        "jpa",
+        "spring-data-jpa",
+        "nativequery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726753/how-to-map-additional-aliased-columns-from-a-native-query-to-a-jpa-entity-when-t"
+    },
+    {
+      "Created": "2025-08-06T02:20:44Z",
+      "Title": "Earliest a client-side import can be executed in SvelteKit application?",
+      "Tags": [
+        "svelte",
+        "sveltekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726756/earliest-a-client-side-import-can-be-executed-in-sveltekit-application"
+    }
+  ]
+}

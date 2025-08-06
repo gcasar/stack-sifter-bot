@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-06T20:51:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T20:25:08Z",
+      "Title": "python\u002Basyncpg\u002BPostgreSQL returns jsonb column as a string instead of an object",
+      "Tags": [
+        "python",
+        "postgresql",
+        "jsonb",
+        "asyncpg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727814/pythonasyncpgpostgresql-returns-jsonb-column-as-a-string-instead-of-an-object"
+    },
+    {
+      "Created": "2025-08-06T20:25:59Z",
+      "Title": "grafana-agent in Docker: \u0022found sample referencing non-existing series\u0022 \u2014 possibly due to WAL corruption from overlapping containers?",
+      "Tags": [
+        "docker",
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727816/grafana-agent-in-docker-found-sample-referencing-non-existing-series-possib"
+    },
+    {
+      "Created": "2025-08-06T20:40:44Z",
+      "Title": "Accessibility Issues Loading mfe-base Page in Shell Application",
+      "Tags": [
+        "angular",
+        "accessibility",
+        "focus",
+        "micro-frontend",
+        "angular17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727833/accessibility-issues-loading-mfe-base-page-in-shell-application"
+    },
+    {
+      "Created": "2025-08-06T20:44:28Z",
+      "Title": "Why signing in the user not working after registration in Blazor Web App?",
+      "Tags": [
+        ".net",
+        "authentication",
+        "cookies",
+        "blazor",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727839/why-signing-in-the-user-not-working-after-registration-in-blazor-web-app"
+    },
+    {
+      "Created": "2025-08-06T20:51:40Z",
+      "Title": "If show template with disabling a form at the same time - then a form not disabling",
+      "Tags": [
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727843/if-show-template-with-disabling-a-form-at-the-same-time-then-a-form-not-disabl"
+    }
+  ]
+}

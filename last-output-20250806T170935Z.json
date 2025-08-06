@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-06T17:05:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T16:52:17Z",
+      "Title": "Azure Function - Python Runtime - Flex Consumption - unable to get env var",
+      "Tags": [
+        "azure",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727602/azure-function-python-runtime-flex-consumption-unable-to-get-env-var"
+    },
+    {
+      "Created": "2025-08-06T16:52:56Z",
+      "Title": "Why is copy-and-swap preferred to self-assignment check?",
+      "Tags": [
+        "c\u002B\u002B",
+        "copy-assignment",
+        "move-assignment-operator",
+        "copy-and-swap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727603/why-is-copy-and-swap-preferred-to-self-assignment-check"
+    },
+    {
+      "Created": "2025-08-06T16:54:53Z",
+      "Title": "Equality between objects in Applescript and JXA (trying to find the current slide in Keynote)",
+      "Tags": [
+        "applescript",
+        "javascript-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727608/equality-between-objects-in-applescript-and-jxa-trying-to-find-the-current-slid"
+    },
+    {
+      "Created": "2025-08-06T16:54:55Z",
+      "Title": "Flutter doctor error on Linux: clang\u002B\u002B is required for Linux development",
+      "Tags": [
+        "flutter",
+        "ubuntu",
+        "flutter-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727609/flutter-doctor-error-on-linux-clang-is-required-for-linux-development"
+    },
+    {
+      "Created": "2025-08-06T16:57:37Z",
+      "Title": "Setting os.environ[\u0022TMP\u0022] works in the code but not in pytest tests",
+      "Tags": [
+        "python",
+        "pytest",
+        "temporary-files"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727612/setting-os-environtmp-works-in-the-code-but-not-in-pytest-tests"
+    },
+    {
+      "Created": "2025-08-06T16:58:23Z",
+      "Title": "How to fix Wordpress theme installation sending FTP command List -a results in 550 Unknown error by Filezilla ftp server?",
+      "Tags": [
+        "wordpress",
+        "wordpress-theming",
+        "filezilla"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727615/how-to-fix-wordpress-theme-installation-sending-ftp-command-list-a-results-in-5"
+    },
+    {
+      "Created": "2025-08-06T16:59:49Z",
+      "Title": "How to render remote video in React Native (Expo) on iOS?",
+      "Tags": [
+        "ios",
+        "react-native",
+        "video",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727617/how-to-render-remote-video-in-react-native-expo-on-ios"
+    },
+    {
+      "Created": "2025-08-06T17:05:57Z",
+      "Title": "TensorFlow/Keras model accumulates system and GPU RAM during training",
+      "Tags": [
+        "numpy",
+        "tensorflow",
+        "keras",
+        "neural-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727623/tensorflow-keras-model-accumulates-system-and-gpu-ram-during-training"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-06T16:00:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T15:24:41Z",
+      "Title": "Google Pay API - How to prevent payments on address errors",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727506/google-pay-api-how-to-prevent-payments-on-address-errors"
+    },
+    {
+      "Created": "2025-08-06T15:44:40Z",
+      "Title": "Confidence intervals from model-averaged objects - error with MuMIn",
+      "Tags": [
+        "r",
+        "confidence-interval",
+        "mumin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727532/confidence-intervals-from-model-averaged-objects-error-with-mumin"
+    },
+    {
+      "Created": "2025-08-06T15:59:03Z",
+      "Title": "Kernel module fails to compile with \u0027undefined symbol: fib_get_table\u0027 despite function being present",
+      "Tags": [
+        "network-programming",
+        "linux-kernel",
+        "driver",
+        "kernel-module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727548/kernel-module-fails-to-compile-with-undefined-symbol-fib-get-table-despite-fu"
+    },
+    {
+      "Created": "2025-08-06T16:00:19Z",
+      "Title": "C# Object Lifetime when initialized in a function",
+      "Tags": [
+        "c#",
+        "dependency-injection",
+        "garbage-collection",
+        "lifecycle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727550/c-sharp-object-lifetime-when-initialized-in-a-function"
+    },
+    {
+      "Created": "2025-08-06T16:00:34Z",
+      "Title": "Why is Yii ORM findAll returns the last element from the set?",
+      "Tags": [
+        "php",
+        "mysql",
+        "orm",
+        "yii1.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727551/why-is-yii-orm-findall-returns-the-last-element-from-the-set"
+    },
+    {
+      "Created": "2025-08-06T16:00:46Z",
+      "Title": "Calculation not allowed in the THEN / ELSE part of a CASE statement?",
+      "Tags": [
+        "oracle-database",
+        "case"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727552/calculation-not-allowed-in-the-then-else-part-of-a-case-statement"
+    },
+    {
+      "Created": "2025-08-06T16:00:53Z",
+      "Title": "What\u0027s the best way to handle valueless attributes in Django templates?",
+      "Tags": [
+        "html",
+        "django",
+        "django-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727553/whats-the-best-way-to-handle-valueless-attributes-in-django-templates"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-06T14:07:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T13:56:32Z",
+      "Title": "Firebase AppCheck Replay protection on custom BE without Admin SDK",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "jwt",
+        "firebase-app-check",
+        "replay-protection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727388/firebase-appcheck-replay-protection-on-custom-be-without-admin-sdk"
+    },
+    {
+      "Created": "2025-08-06T14:05:59Z",
+      "Title": "C# list of object search multiple time dynamically",
+      "Tags": [
+        "c#",
+        "list",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727395/c-sharp-list-of-object-search-multiple-time-dynamically"
+    },
+    {
+      "Created": "2025-08-06T14:06:12Z",
+      "Title": "Which is the default Fallback Font Used in WinUI 3 When FontFamily Is Invalid",
+      "Tags": [
+        "uwp",
+        "uwp-xaml",
+        "winui-3",
+        "winui",
+        "winui-xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727396/which-is-the-default-fallback-font-used-in-winui-3-when-fontfamily-is-invalid"
+    },
+    {
+      "Created": "2025-08-06T14:07:26Z",
+      "Title": "Force inline C\u002B\u002B function implemented in source file?",
+      "Tags": [
+        "c\u002B\u002B",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727399/force-inline-c-function-implemented-in-source-file"
+    }
+  ]
+}

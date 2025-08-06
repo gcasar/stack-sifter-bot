@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-06T09:00:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T08:59:42Z",
+      "Title": "Difference between artifactSet and extraArtifacts",
+      "Tags": [
+        "java",
+        "maven",
+        "maven-shade-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727039/difference-between-artifactset-and-extraartifacts"
+    },
+    {
+      "Created": "2025-08-06T08:59:59Z",
+      "Title": "Extract data and sibling node from sub-array",
+      "Tags": [
+        "amazon-web-services",
+        "shell",
+        "jq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727040/extract-data-and-sibling-node-from-sub-array"
+    },
+    {
+      "Created": "2025-08-06T09:00:40Z",
+      "Title": "How can I automatically make flextable::save_as_rtf() use the entire available page width?",
+      "Tags": [
+        "r",
+        "rtf",
+        "flextable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727042/how-can-i-automatically-make-flextablesave-as-rtf-use-the-entire-available-p"
+    }
+  ]
+}

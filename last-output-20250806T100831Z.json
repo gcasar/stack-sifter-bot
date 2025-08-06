@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-06T10:07:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T09:24:33Z",
+      "Title": "NASM - empty macro with 2 parameters? What register is represented by parameter_m?",
+      "Tags": [
+        "assembly",
+        "macros",
+        "nasm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727087/nasm-empty-macro-with-2-parameters-what-register-is-represented-by-parameter"
+    },
+    {
+      "Created": "2025-08-06T09:55:55Z",
+      "Title": "How to make Jooq Codegen generated Enums work with Deserialization Libraries (like Jackson)",
+      "Tags": [
+        "java",
+        "jackson",
+        "jooq",
+        "jooq-codegen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727122/how-to-make-jooq-codegen-generated-enums-work-with-deserialization-libraries-li"
+    },
+    {
+      "Created": "2025-08-06T09:57:38Z",
+      "Title": "FluentDataGrid with Virtualize=\u0022true\u0022 not rendering data even though ItemsProvider is returning results",
+      "Tags": [
+        "blazor-server-side",
+        "fluent-ui",
+        ".net-9.0",
+        "ui-virtualization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727124/fluentdatagrid-with-virtualize-true-not-rendering-data-even-though-itemsprovid"
+    },
+    {
+      "Created": "2025-08-06T09:57:51Z",
+      "Title": "Extract the contents of a specific file when using an HDFS folder / file path",
+      "Tags": [
+        "linux",
+        "hadoop",
+        "hdfs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727125/extract-the-contents-of-a-specific-file-when-using-an-hdfs-folder-file-path"
+    },
+    {
+      "Created": "2025-08-06T09:58:19Z",
+      "Title": "MPAndroidChart CombinedChart load more candle data: chart jumps and zooms out when loadmore candle",
+      "Tags": [
+        "android",
+        "mpandroidchart",
+        "candlestick-chart",
+        "combinedchart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727126/mpandroidchart-combinedchart-load-more-candle-data-chart-jumps-and-zooms-out-wh"
+    },
+    {
+      "Created": "2025-08-06T09:58:23Z",
+      "Title": "Multiple screens | python custom Tkinter",
+      "Tags": [
+        "python-3.x",
+        "customtkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727127/multiple-screens-python-custom-tkinter"
+    },
+    {
+      "Created": "2025-08-06T10:01:06Z",
+      "Title": "How to structure google map so that it can be used in whole app android?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "google-maps",
+        "android-fragments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727130/how-to-structure-google-map-so-that-it-can-be-used-in-whole-app-android"
+    },
+    {
+      "Created": "2025-08-06T10:07:06Z",
+      "Title": "Saving modelsummary resulting flextable as .docx lose horizontal line that separates estimates from goodness of fit measure",
+      "Tags": [
+        "r",
+        "officer",
+        "flextable",
+        "modelsummary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727136/saving-modelsummary-resulting-flextable-as-docx-lose-horizontal-line-that-separ"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-06T00:29:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-05T23:59:58Z",
+      "Title": "How to bind JSON request to a map[string]interface{} in Gin (Golang)?",
+      "Tags": [
+        "json",
+        "go",
+        "handler",
+        "go-gin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726686/how-to-bind-json-request-to-a-mapstringinterface-in-gin-golang"
+    },
+    {
+      "Created": "2025-08-06T00:16:12Z",
+      "Title": "Soft lockup when posting skb to IP stack from multiple kernel threads",
+      "Tags": [
+        "multithreading",
+        "linux-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726692/soft-lockup-when-posting-skb-to-ip-stack-from-multiple-kernel-threads"
+    },
+    {
+      "Created": "2025-08-06T00:23:58Z",
+      "Title": "Expand All/Collapse All column in Angular Material",
+      "Tags": [
+        "angular",
+        "typescript",
+        "angular-material"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726695/expand-all-collapse-all-column-in-angular-material"
+    },
+    {
+      "Created": "2025-08-06T00:29:01Z",
+      "Title": "Extract XDF Form Fields from pdf",
+      "Tags": [
+        "python",
+        "pdf",
+        "pymupdf",
+        "pikepdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726698/extract-xdf-form-fields-from-pdf"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-06T19:04:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T18:46:04Z",
+      "Title": "Invalid identifier when using aggregate count(*)",
+      "Tags": [
+        "oracle-database",
+        "count"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727724/invalid-identifier-when-using-aggregate-count"
+    },
+    {
+      "Created": "2025-08-06T18:57:55Z",
+      "Title": "Can a consteval function in a static library be called from outside the library when using LTO?",
+      "Tags": [
+        "c\u002B\u002B",
+        "lto",
+        "consteval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727735/can-a-consteval-function-in-a-static-library-be-called-from-outside-the-library"
+    },
+    {
+      "Created": "2025-08-06T19:02:39Z",
+      "Title": "WARNING:root:ASI SDK library not found in python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727744/warningrootasi-sdk-library-not-found-in-python"
+    },
+    {
+      "Created": "2025-08-06T19:04:56Z",
+      "Title": "what is difference between tls12.api.sendgrid endpoint and normal api.sendgrid endpoint for sending email in 2025",
+      "Tags": [
+        "ssl",
+        "twilio",
+        "sendgrid",
+        "tls1.2",
+        "sendgrid-api-v3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727746/what-is-difference-between-tls12-api-sendgrid-endpoint-and-normal-api-sendgrid-e"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-06T11:03:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T10:38:22Z",
+      "Title": "Maximum length with ending boundary [closed]",
+      "Tags": [
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727157/maximum-length-with-ending-boundary"
+    },
+    {
+      "Created": "2025-08-06T10:59:07Z",
+      "Title": "Not receiving any response with HttpClient, despite one being sent",
+      "Tags": [
+        "asp.net-mvc-4",
+        "dotnet-httpclient",
+        ".net-framework-version"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727178/not-receiving-any-response-with-httpclient-despite-one-being-sent"
+    },
+    {
+      "Created": "2025-08-06T11:03:09Z",
+      "Title": "Setting certificate information after creating an IIS website with https binding via Microsoft.Web.Administration.ServerManager",
+      "Tags": [
+        "powershell",
+        "iis",
+        "https",
+        "ssl-certificate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727184/setting-certificate-information-after-creating-an-iis-website-with-https-binding"
+    }
+  ]
+}

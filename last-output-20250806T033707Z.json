@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-06T03:31:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T03:05:52Z",
+      "Title": "how to dump waveform in Vitis HW emulation flow",
+      "Tags": [
+        "vitis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726777/how-to-dump-waveform-in-vitis-hw-emulation-flow"
+    },
+    {
+      "Created": "2025-08-06T03:31:14Z",
+      "Title": "Changing slider color in Shiny for Python",
+      "Tags": [
+        "css",
+        "py-shiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726783/changing-slider-color-in-shiny-for-python"
+    }
+  ]
+}

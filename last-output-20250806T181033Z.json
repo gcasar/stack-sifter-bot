@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-06T18:01:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T17:49:54Z",
+      "Title": "How can be the \u0022iw dev wlan1 scan flush\u0022 faster with same adapter same driver on one system than other? How can I make it scan as the faster system?",
+      "Tags": [
+        "linux",
+        "network-programming",
+        "linux-kernel",
+        "wifi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727673/how-can-be-the-iw-dev-wlan1-scan-flush-faster-with-same-adapter-same-driver-on"
+    },
+    {
+      "Created": "2025-08-06T18:01:45Z",
+      "Title": "Why the cpp process could not exit when I click the \u0022Stop\u0022 button in debug mode?",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "debugging",
+        "clion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727685/why-the-cpp-process-could-not-exit-when-i-click-the-stop-button-in-debug-mode"
+    }
+  ]
+}

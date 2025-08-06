@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-06T20:07:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T19:33:14Z",
+      "Title": "How to use CSS to change color of RadzenDataGrid row on hover",
+      "Tags": [
+        "blazor",
+        "radzen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727776/how-to-use-css-to-change-color-of-radzendatagrid-row-on-hover"
+    },
+    {
+      "Created": "2025-08-06T19:48:46Z",
+      "Title": "Neutralinojs Packaging for MacOS",
+      "Tags": [
+        "node.js",
+        "neutralinojs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727782/neutralinojs-packaging-for-macos"
+    },
+    {
+      "Created": "2025-08-06T19:51:52Z",
+      "Title": "Control-flow obfuscation without increasing code size?",
+      "Tags": [
+        "assembly",
+        "reverse-engineering",
+        "stub",
+        "portable-executable",
+        "packer-builder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727787/control-flow-obfuscation-without-increasing-code-size"
+    },
+    {
+      "Created": "2025-08-06T20:00:20Z",
+      "Title": "Is there a way/tool to detect regex patterns?",
+      "Tags": [
+        "regex",
+        "automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727792/is-there-a-way-tool-to-detect-regex-patterns"
+    },
+    {
+      "Created": "2025-08-06T20:07:08Z",
+      "Title": "Why does VS Code use the MCP config from Cursor instead of its own, and how can I fix this?",
+      "Tags": [
+        "visual-studio-code",
+        "cursor",
+        "github-copilot",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727796/why-does-vs-code-use-the-mcp-config-from-cursor-instead-of-its-own-and-how-can"
+    }
+  ]
+}

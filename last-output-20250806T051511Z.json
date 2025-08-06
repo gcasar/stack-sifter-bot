@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-06T05:03:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T04:35:57Z",
+      "Title": "Get the latest record for each user_id based on a timestamp column",
+      "Tags": [
+        "sql",
+        "group-by"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726827/get-the-latest-record-for-each-user-id-based-on-a-timestamp-column"
+    },
+    {
+      "Created": "2025-08-06T04:44:39Z",
+      "Title": "Best project structure for the Python module with C\u002B\u002B extension and enabling IntelliSense",
+      "Tags": [
+        "python",
+        "directory-structure",
+        "python-c-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726836/best-project-structure-for-the-python-module-with-c-extension-and-enabling-int"
+    },
+    {
+      "Created": "2025-08-06T04:48:40Z",
+      "Title": "BadRequest is not returned when null is sent",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "asp.net-core",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726837/badrequest-is-not-returned-when-null-is-sent"
+    },
+    {
+      "Created": "2025-08-06T05:03:29Z",
+      "Title": "How do I auto approve a Private Endpoint from ADF to SQL MI?",
+      "Tags": [
+        "azure",
+        "azure-data-factory",
+        "azure-powershell",
+        "azure-sql-managed-instance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79726842/how-do-i-auto-approve-a-private-endpoint-from-adf-to-sql-mi"
+    }
+  ]
+}

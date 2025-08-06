@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-06T22:48:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T22:31:45Z",
+      "Title": "Couldn\u0027t get the navigation state. Is your component inside a navigator? \u0022@react-navigation/native\u0022: \u0022^7.1.6\u0022",
+      "Tags": [
+        "react-native",
+        "expo",
+        "react-navigation",
+        "react-navigation-native-stack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727916/couldnt-get-the-navigation-state-is-your-component-inside-a-navigator-react"
+    },
+    {
+      "Created": "2025-08-06T22:35:44Z",
+      "Title": "Selenium python code to close this pop-up video?",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "video",
+        "popup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727918/selenium-python-code-to-close-this-pop-up-video"
+    },
+    {
+      "Created": "2025-08-06T22:41:00Z",
+      "Title": "Using flutter_rotation_sensor package",
+      "Tags": [
+        "flutter",
+        "dart",
+        "dart-packages"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727922/using-flutter-rotation-sensor-package"
+    },
+    {
+      "Created": "2025-08-06T22:41:46Z",
+      "Title": "Upgrade strapi v4 to v5 database",
+      "Tags": [
+        "upgrade",
+        "database-migration",
+        "strapi",
+        "data-migration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727924/upgrade-strapi-v4-to-v5-database"
+    },
+    {
+      "Created": "2025-08-06T22:48:18Z",
+      "Title": "How to compare the numerical precision of two different tensors",
+      "Tags": [
+        "pytorch",
+        "precision",
+        "numeric",
+        "torch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727929/how-to-compare-the-numerical-precision-of-two-different-tensors"
+    }
+  ]
+}

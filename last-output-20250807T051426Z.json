@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-07T04:52:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T04:29:00Z",
+      "Title": "How to decode and parse JEOL microscope metadata embedded in TIFF tags (binary format)?",
+      "Tags": [
+        "utf-8",
+        "binary",
+        "base64",
+        "decode",
+        "tiff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728068/how-to-decode-and-parse-jeol-microscope-metadata-embedded-in-tiff-tags-binary-f"
+    },
+    {
+      "Created": "2025-08-07T04:33:45Z",
+      "Title": "How to user custom functions on LINQ statement",
+      "Tags": [
+        "c#",
+        "linq",
+        "extension-methods"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728070/how-to-user-custom-functions-on-linq-statement"
+    },
+    {
+      "Created": "2025-08-07T04:48:49Z",
+      "Title": "Angular Material Dialog sizes",
+      "Tags": [
+        "angular",
+        "angular-material"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728079/angular-material-dialog-sizes"
+    },
+    {
+      "Created": "2025-08-07T04:50:09Z",
+      "Title": "Sending results from a CSV to a slack user",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728080/sending-results-from-a-csv-to-a-slack-user"
+    },
+    {
+      "Created": "2025-08-07T04:52:23Z",
+      "Title": "How to access the internal \u0060byte[]\u0060 of \u0060java.lang.String\u0060 on modern Android/ART when reflection on the \u0027value\u0027 field fails?",
+      "Tags": [
+        "java",
+        "android",
+        "reflection",
+        "android-ndk",
+        "android-runtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728084/how-to-access-the-internal-byte-of-java-lang-string-on-modern-android-art"
+    }
+  ]
+}

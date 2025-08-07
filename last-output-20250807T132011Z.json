@@ -1,0 +1,101 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-07T13:17:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T12:14:10Z",
+      "Title": "Is there a way to replace bullets and sub-bullets in a rich text field with asterisk\u0027s and hyphens?",
+      "Tags": [
+        "power-automate",
+        "powerapps",
+        "power-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728549/is-there-a-way-to-replace-bullets-and-sub-bullets-in-a-rich-text-field-with-aste"
+    },
+    {
+      "Created": "2025-08-07T13:04:02Z",
+      "Title": "Validation with @IsNotEmpty() and @IsEmail() not triggering in DTO",
+      "Tags": [
+        "typescript",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728612/validation-with-isnotempty-and-isemail-not-triggering-in-dto"
+    },
+    {
+      "Created": "2025-08-07T13:06:38Z",
+      "Title": "Extracting more information from images",
+      "Tags": [
+        "ruby",
+        "image",
+        "image-processing",
+        "vips",
+        "libvips"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728615/extracting-more-information-from-images"
+    },
+    {
+      "Created": "2025-08-07T13:08:23Z",
+      "Title": "Expo native module is not found after the EAS build: ERROR Error: Cannot find native module \u0027ExpoLocalization\u0027, js engine: hermes",
+      "Tags": [
+        "ios",
+        "react-native",
+        "mobile",
+        "expo",
+        "eas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728617/expo-native-module-is-not-found-after-the-eas-build-error-error-cannot-find-na"
+    },
+    {
+      "Created": "2025-08-07T13:09:29Z",
+      "Title": "upgraded postgresql 14-\u003E17, my roles/databases didn\u0027t migrate, should unversioned directory be there",
+      "Tags": [
+        "postgresql",
+        "homebrew"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728619/upgraded-postgresql-14-17-my-roles-databases-didnt-migrate-should-unversione"
+    },
+    {
+      "Created": "2025-08-07T13:11:32Z",
+      "Title": "backdrop-blur not working in chrome with nested elements",
+      "Tags": [
+        "reactjs",
+        "tailwind-css",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728621/backdrop-blur-not-working-in-chrome-with-nested-elements"
+    },
+    {
+      "Created": "2025-08-07T13:16:04Z",
+      "Title": "How to make Custom TabBar with curved selected tab that stays?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "uibezierpath",
+        "tabbar",
+        "swiftui-tabview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728625/how-to-make-custom-tabbar-with-curved-selected-tab-that-stays"
+    },
+    {
+      "Created": "2025-08-07T13:17:07Z",
+      "Title": "Is there a Rust way to \u0060continue\u0060 a loop inside a \u0060map\u0060 closure?",
+      "Tags": [
+        "loops",
+        "rust",
+        "iterator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728628/is-there-a-rust-way-to-continue-a-loop-inside-a-map-closure"
+    },
+    {
+      "Created": "2025-08-07T13:17:12Z",
+      "Title": "Impossible to create events with \u0022react-native-calendars\u0022",
+      "Tags": [
+        "reactjs",
+        "react-native",
+        "events",
+        "react-native-calendars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728629/impossible-to-create-events-with-react-native-calendars"
+    }
+  ]
+}

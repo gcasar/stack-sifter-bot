@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-07T01:49:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T01:25:48Z",
+      "Title": "Strange IME behaviour in Jetpack Compose for landscape mode",
+      "Tags": [
+        "android",
+        "keyboard",
+        "android-alertdialog",
+        "landscape",
+        "compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727980/strange-ime-behaviour-in-jetpack-compose-for-landscape-mode"
+    },
+    {
+      "Created": "2025-08-07T01:27:20Z",
+      "Title": "Python - cartesian product for BOTH keys and values of a dictionary? [MWE provided]",
+      "Tags": [
+        "python",
+        "for-loop",
+        "python-itertools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727981/python-cartesian-product-for-both-keys-and-values-of-a-dictionary-mwe-provid"
+    },
+    {
+      "Created": "2025-08-07T01:28:03Z",
+      "Title": "Is there a tool like cparen (shows operator precedence) for python?",
+      "Tags": [
+        "python",
+        "operator-precedence",
+        "utilities"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727983/is-there-a-tool-like-cparen-shows-operator-precedence-for-python"
+    },
+    {
+      "Created": "2025-08-07T01:32:09Z",
+      "Title": "Regex to match two consecutive dots but not three",
+      "Tags": [
+        "regex",
+        "perl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727985/regex-to-match-two-consecutive-dots-but-not-three"
+    },
+    {
+      "Created": "2025-08-07T01:49:27Z",
+      "Title": "tbl_summary report the z statistic for the Wilcoxon two-sample test",
+      "Tags": [
+        "r",
+        "gtsummary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727990/tbl-summary-report-the-z-statistic-for-the-wilcoxon-two-sample-test"
+    }
+  ]
+}

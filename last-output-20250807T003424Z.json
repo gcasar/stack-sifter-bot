@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-07T00:24:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-06T23:45:05Z",
+      "Title": "Grouping full list of points using simplified points, inclusive?",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727952/grouping-full-list-of-points-using-simplified-points-inclusive"
+    },
+    {
+      "Created": "2025-08-06T23:49:36Z",
+      "Title": "Upsert only columns that have a value that is not undefined or null using @supabase/ssr",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "postgresql",
+        "express",
+        "supabase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727955/upsert-only-columns-that-have-a-value-that-is-not-undefined-or-null-using-supab"
+    },
+    {
+      "Created": "2025-08-06T23:56:31Z",
+      "Title": "Blazor Server Side Windows impersonation to update Active Directory fails",
+      "Tags": [
+        "c#",
+        "active-directory",
+        "blazor-server-side",
+        ".net-8.0",
+        "impersonation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727957/blazor-server-side-windows-impersonation-to-update-active-directory-fails"
+    },
+    {
+      "Created": "2025-08-07T00:23:01Z",
+      "Title": "How to display a progress bar while uploading a file to Telegram using Pyrogram?",
+      "Tags": [
+        "python",
+        "bots",
+        "telegram",
+        "telegram-bot",
+        "pyrogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727965/how-to-display-a-progress-bar-while-uploading-a-file-to-telegram-using-pyrogram"
+    },
+    {
+      "Created": "2025-08-07T00:24:39Z",
+      "Title": "React Native Three - 3d player movement with camera movement simultaneously",
+      "Tags": [
+        "react-native",
+        "three.js",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79727967/react-native-three-3d-player-movement-with-camera-movement-simultaneously"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-07T20:02:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T19:22:35Z",
+      "Title": "Syntax error creating function in Snowflake",
+      "Tags": [
+        "sql",
+        "function",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729059/syntax-error-creating-function-in-snowflake"
+    },
+    {
+      "Created": "2025-08-07T19:47:24Z",
+      "Title": "WIFI profile not found?",
+      "Tags": [
+        "batch-file",
+        "wifi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729077/wifi-profile-not-found"
+    },
+    {
+      "Created": "2025-08-07T19:49:21Z",
+      "Title": "How to correctly pass float4 vector to kernel using PyCUDA?",
+      "Tags": [
+        "python",
+        "cuda",
+        "gpu",
+        "nvidia",
+        "pycuda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729078/how-to-correctly-pass-float4-vector-to-kernel-using-pycuda"
+    },
+    {
+      "Created": "2025-08-07T19:49:24Z",
+      "Title": "Enforcing specific join order",
+      "Tags": [
+        "sql",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729079/enforcing-specific-join-order"
+    },
+    {
+      "Created": "2025-08-07T19:50:25Z",
+      "Title": "Youtube video is not playable from a created playlist",
+      "Tags": [
+        "python",
+        "youtube-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729081/youtube-video-is-not-playable-from-a-created-playlist"
+    },
+    {
+      "Created": "2025-08-07T19:57:02Z",
+      "Title": "Unable to install our Poetry plugin: pip says there is no matching distribution found",
+      "Tags": [
+        "python",
+        "pip",
+        "python-poetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729083/unable-to-install-our-poetry-plugin-pip-says-there-is-no-matching-distribution"
+    },
+    {
+      "Created": "2025-08-07T20:02:29Z",
+      "Title": "A generated protobuf python file is unable to locate another protobuf module it generated",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "protocol-buffers",
+        "protobuf-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729089/a-generated-protobuf-python-file-is-unable-to-locate-another-protobuf-module-it"
+    }
+  ]
+}

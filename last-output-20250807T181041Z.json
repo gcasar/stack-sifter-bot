@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-07T18:07:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T17:38:45Z",
+      "Title": "Why doesn\u0027t divsion by zero return an error (using pcall) in Lua?",
+      "Tags": [
+        "lua",
+        "divide-by-zero"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728945/why-doesnt-divsion-by-zero-return-an-error-using-pcall-in-lua"
+    },
+    {
+      "Created": "2025-08-07T17:55:33Z",
+      "Title": "Can opening a 2007 word document using word automation in server cause security issue",
+      "Tags": [
+        "word-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728966/can-opening-a-2007-word-document-using-word-automation-in-server-cause-security"
+    },
+    {
+      "Created": "2025-08-07T17:59:45Z",
+      "Title": "Argument of type \u003Cstring, context: \u003E is not assignable to parameter of type TemplateStringsArray",
+      "Tags": [
+        "typescript",
+        "internationalization",
+        "i18next",
+        "react-i18next"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728973/argument-of-type-string-context-is-not-assignable-to-parameter-of-type-temp"
+    },
+    {
+      "Created": "2025-08-07T18:07:46Z",
+      "Title": "Can someone tell me what is wrong right there",
+      "Tags": [
+        "machine-learning",
+        "ml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728982/can-someone-tell-me-what-is-wrong-right-there"
+    }
+  ]
+}

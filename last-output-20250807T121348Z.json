@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-07T12:11:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T12:01:04Z",
+      "Title": "High-Accuracy Intent Classification with Small Models for AWS Lambda Deployment",
+      "Tags": [
+        "python",
+        "aws-lambda",
+        "nlp",
+        "ml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728531/high-accuracy-intent-classification-with-small-models-for-aws-lambda-deployment"
+    },
+    {
+      "Created": "2025-08-07T12:02:37Z",
+      "Title": "Parsing of date string is failing if I use strict date resolver style with DateTimeFormatter [duplicate]",
+      "Tags": [
+        "java",
+        "date"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728533/parsing-of-date-string-is-failing-if-i-use-strict-date-resolver-style-with-datet"
+    },
+    {
+      "Created": "2025-08-07T12:04:09Z",
+      "Title": "Google Sheets App Script Page to Print is blank, but the URL is correct - When running the app script",
+      "Tags": [
+        "html",
+        "google-sheets",
+        "google-apps-script",
+        "printing",
+        "setwd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728535/google-sheets-app-script-page-to-print-is-blank-but-the-url-is-correct-when-r"
+    },
+    {
+      "Created": "2025-08-07T12:06:28Z",
+      "Title": "Changing Worksheet CodeName in VBA",
+      "Tags": [
+        "excel",
+        "vba",
+        "vbe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728537/changing-worksheet-codename-in-vba"
+    },
+    {
+      "Created": "2025-08-07T12:09:25Z",
+      "Title": "Eleventy image output location",
+      "Tags": [
+        "eleventy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728541/eleventy-image-output-location"
+    },
+    {
+      "Created": "2025-08-07T12:09:42Z",
+      "Title": "Reducing duplication in GitLab CI with tags per multiple environments",
+      "Tags": [
+        "gitlab",
+        "gitlab-ci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728542/reducing-duplication-in-gitlab-ci-with-tags-per-multiple-environments"
+    },
+    {
+      "Created": "2025-08-07T12:11:09Z",
+      "Title": "Check if document exists (to set a document or update it)",
+      "Tags": [
+        "reactjs",
+        "firebase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728544/check-if-document-exists-to-set-a-document-or-update-it"
+    },
+    {
+      "Created": "2025-08-07T12:11:48Z",
+      "Title": "Angular change detection not working (child input)",
+      "Tags": [
+        "javascript",
+        "angular",
+        "angular-material",
+        "angular2-changedetection",
+        "zone.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728545/angular-change-detection-not-working-child-input"
+    }
+  ]
+}

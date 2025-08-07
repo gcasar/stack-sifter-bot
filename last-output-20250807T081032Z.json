@@ -1,0 +1,95 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-07T08:06:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T07:20:00Z",
+      "Title": "Unique constraint on partitioned table must include all partitioning columns",
+      "Tags": [
+        "postgresql",
+        "table-partitioning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728189/unique-constraint-on-partitioned-table-must-include-all-partitioning-columns"
+    },
+    {
+      "Created": "2025-08-07T07:46:26Z",
+      "Title": "Unable to create POST request via HTMX for WebSocket",
+      "Tags": [
+        "django",
+        "websocket",
+        "htmx",
+        "daphne"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728225/unable-to-create-post-request-via-htmx-for-websocket"
+    },
+    {
+      "Created": "2025-08-07T07:54:06Z",
+      "Title": "How to disable virtual threads in Keycloak 26.1.2\u002B when running on JDK 21?",
+      "Tags": [
+        "java",
+        "keycloak",
+        "keycloak-services",
+        "virtual-threads"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728237/how-to-disable-virtual-threads-in-keycloak-26-1-2-when-running-on-jdk-21"
+    },
+    {
+      "Created": "2025-08-07T07:55:45Z",
+      "Title": "How to enable custom intellisense in XAML (WPF) like \u0022Brush\u0022 to fill property?",
+      "Tags": [
+        ".net",
+        "wpf",
+        "xaml",
+        "localization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728240/how-to-enable-custom-intellisense-in-xaml-wpf-like-brush-to-fill-property"
+    },
+    {
+      "Created": "2025-08-07T07:56:57Z",
+      "Title": "Do I need elevated rights in windows to access PerformanceCounter",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728242/do-i-need-elevated-rights-in-windows-to-access-performancecounter"
+    },
+    {
+      "Created": "2025-08-07T07:57:57Z",
+      "Title": "Edge browser not sending custom header after initial request, while Chrome works fine",
+      "Tags": [
+        "angular",
+        ".net-core",
+        "microsoft-edge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728244/edge-browser-not-sending-custom-header-after-initial-request-while-chrome-works"
+    },
+    {
+      "Created": "2025-08-07T07:58:38Z",
+      "Title": "openAi vector store always empty! and files are not linked?",
+      "Tags": [
+        "openai-api",
+        "chatgpt-api",
+        "vectorstore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728245/openai-vector-store-always-empty-and-files-are-not-linked"
+    },
+    {
+      "Created": "2025-08-07T08:02:41Z",
+      "Title": "Why is my Terraform variable using the default value instead of the value from locals?",
+      "Tags": [
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728251/why-is-my-terraform-variable-using-the-default-value-instead-of-the-value-from-l"
+    },
+    {
+      "Created": "2025-08-07T08:06:28Z",
+      "Title": "How does the kubelet know which CPUs have been assigned to a pod, when it schedules another pod?",
+      "Tags": [
+        "kubernetes",
+        "containers",
+        "kubelet",
+        "containerd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728253/how-does-the-kubelet-know-which-cpus-have-been-assigned-to-a-pod-when-it-schedu"
+    }
+  ]
+}

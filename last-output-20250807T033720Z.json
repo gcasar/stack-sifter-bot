@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-07T03:27:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T03:05:50Z",
+      "Title": "How to create filled and stacked x y scatter plot with data from multiple rows and columns of data in dataframe",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728019/how-to-create-filled-and-stacked-x-y-scatter-plot-with-data-from-multiple-rows-a"
+    },
+    {
+      "Created": "2025-08-07T03:18:12Z",
+      "Title": "spring boot sqsListener - what happens to the sqs message if the handler raises an exception",
+      "Tags": [
+        "sqslistener"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728028/spring-boot-sqslistener-what-happens-to-the-sqs-message-if-the-handler-raises"
+    },
+    {
+      "Created": "2025-08-07T03:20:47Z",
+      "Title": "RC-522 not interrupting and not detecting rfid tag",
+      "Tags": [
+        "c",
+        "embedded",
+        "esp32",
+        "rfid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728029/rc-522-not-interrupting-and-not-detecting-rfid-tag"
+    },
+    {
+      "Created": "2025-08-07T03:21:50Z",
+      "Title": "Column-wise aggregation of array vectors :calculating mean per \u201Clevel\u201D for bid/ask data",
+      "Tags": [
+        "arrays",
+        "aggregation",
+        "finance",
+        "dolphindb",
+        "column-aggregation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728030/column-wise-aggregation-of-array-vectors-calculating-mean-per-level-for-bid-a"
+    },
+    {
+      "Created": "2025-08-07T03:27:04Z",
+      "Title": "GCC Optimization Within Same Architecture",
+      "Tags": [
+        "gcc",
+        "optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728035/gcc-optimization-within-same-architecture"
+    },
+    {
+      "Created": "2025-08-07T03:27:06Z",
+      "Title": "MKLocalSearchCompleter never returns suggestions in SwiftUI TextField",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "mapkit",
+        "mklocalsearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728036/mklocalsearchcompleter-never-returns-suggestions-in-swiftui-textfield"
+    },
+    {
+      "Created": "2025-08-07T03:27:56Z",
+      "Title": "Len of SQL result dependent on order of selected cols? Python",
+      "Tags": [
+        "python",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728037/len-of-sql-result-dependent-on-order-of-selected-cols-python"
+    }
+  ]
+}

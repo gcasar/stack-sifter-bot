@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-07T18:51:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T18:20:31Z",
+      "Title": "p-fieldset generates a Broken ARIA reference",
+      "Tags": [
+        "html",
+        "angular",
+        "primeng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728995/p-fieldset-generates-a-broken-aria-reference"
+    },
+    {
+      "Created": "2025-08-07T18:44:16Z",
+      "Title": "How can I obtain a copyable value type from a transform_view\u003Cenumerate_view\u003C...\u003E\u003E?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "c\u002B\u002B23",
+        "std-ranges",
+        "range-v3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729024/how-can-i-obtain-a-copyable-value-type-from-a-transform-viewenumerate-view"
+    },
+    {
+      "Created": "2025-08-07T18:49:23Z",
+      "Title": "The multi-attachment file upload in Power Apps is not working on iPad, but it is working correctly on Android devices",
+      "Tags": [
+        "sharepoint",
+        "powerapps",
+        "powerapps-canvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729029/the-multi-attachment-file-upload-in-power-apps-is-not-working-on-ipad-but-it-is"
+    },
+    {
+      "Created": "2025-08-07T18:51:43Z",
+      "Title": "std::ranges::transform(R\u0026\u0026 r, O result, F op, Proj proj = {}) can I use parameter op for projection?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "std-ranges"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729032/stdrangestransformr-r-o-result-f-op-proj-proj-can-i-use-paramete"
+    }
+  ]
+}

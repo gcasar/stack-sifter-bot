@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-07T15:05:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T14:53:37Z",
+      "Title": "Create contour map from CSV file",
+      "Tags": [
+        "r",
+        "plotly",
+        "contour"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728761/create-contour-map-from-csv-file"
+    },
+    {
+      "Created": "2025-08-07T14:56:02Z",
+      "Title": "number of referencing and referenced columns for foreign key disagree in Postgresql constraint",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "foreign-keys",
+        "constraints"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728766/number-of-referencing-and-referenced-columns-for-foreign-key-disagree-in-postgre"
+    },
+    {
+      "Created": "2025-08-07T14:56:05Z",
+      "Title": "How to deploy app service with private endpoint and custom domain in a self hosting devops agent",
+      "Tags": [
+        "azure",
+        "azure-web-app-service",
+        "azure-cli",
+        "azure-virtual-network",
+        "azure-private-dns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728767/how-to-deploy-app-service-with-private-endpoint-and-custom-domain-in-a-self-host"
+    },
+    {
+      "Created": "2025-08-07T15:04:03Z",
+      "Title": "drake bouncing of ball simulation",
+      "Tags": [
+        "drake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728775/drake-bouncing-of-ball-simulation"
+    },
+    {
+      "Created": "2025-08-07T15:05:47Z",
+      "Title": "Can contract violations result in std::terminate on noexcept functions?",
+      "Tags": [
+        "c\u002B\u002B",
+        "noexcept",
+        "c\u002B\u002B26",
+        "c\u002B\u002B-contracts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728776/can-contract-violations-result-in-stdterminate-on-noexcept-functions"
+    }
+  ]
+}

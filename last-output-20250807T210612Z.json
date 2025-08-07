@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-07T21:04:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T20:13:59Z",
+      "Title": "How do you figure out how large an integer you will need for an operation in embedded systems?",
+      "Tags": [
+        "c",
+        "assembly",
+        "integer",
+        "embedded",
+        "integer-overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729099/how-do-you-figure-out-how-large-an-integer-you-will-need-for-an-operation-in-emb"
+    },
+    {
+      "Created": "2025-08-07T20:44:31Z",
+      "Title": "Issues setting up GA4 with Godaddy sites?",
+      "Tags": [
+        "google-analytics",
+        "analytics",
+        "google-analytics-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729118/issues-setting-up-ga4-with-godaddy-sites"
+    },
+    {
+      "Created": "2025-08-07T20:48:05Z",
+      "Title": "1.21.8 rendering MOTD / Text on DirectConnectScreen",
+      "Tags": [
+        "minecraft",
+        "minecraft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729120/1-21-8-rendering-motd-text-on-directconnectscreen"
+    },
+    {
+      "Created": "2025-08-07T20:56:27Z",
+      "Title": "dragAndDropSource stops my detectTapGestures from firing. How can I support both tap and long-press-to-drag on the same Composable?",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "drag-and-drop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729128/draganddropsource-stops-my-detecttapgestures-from-firing-how-can-i-support-both"
+    },
+    {
+      "Created": "2025-08-07T21:01:40Z",
+      "Title": "Pihole/unbound: DNSMASQ_WARN dnsmasq warning: ignoring query from non-local network",
+      "Tags": [
+        "docker",
+        "docker-compose",
+        "unbound",
+        "pihole"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729135/pihole-unbound-dnsmasq-warn-dnsmasq-warning-ignoring-query-from-non-local-netw"
+    },
+    {
+      "Created": "2025-08-07T21:04:20Z",
+      "Title": "How to read all files in a folder using Flutterfire?",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "firebase-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729141/how-to-read-all-files-in-a-folder-using-flutterfire"
+    }
+  ]
+}

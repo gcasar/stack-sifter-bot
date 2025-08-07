@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-07T14:03:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T13:29:56Z",
+      "Title": "Automate SVG translation to use lower-left origin",
+      "Tags": [
+        "css",
+        "svg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728646/automate-svg-translation-to-use-lower-left-origin"
+    },
+    {
+      "Created": "2025-08-07T13:43:30Z",
+      "Title": "How to securely identify the user linking their account via OAuth state parameter?",
+      "Tags": [
+        "authentication",
+        "oauth-2.0",
+        "oauth",
+        "jwt",
+        "openid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728670/how-to-securely-identify-the-user-linking-their-account-via-oauth-state-paramete"
+    },
+    {
+      "Created": "2025-08-07T13:58:00Z",
+      "Title": "How is the execution of Jax and non-Jax parts interleaved in a Python program and when does an abstract value become concrete?",
+      "Tags": [
+        "python",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728690/how-is-the-execution-of-jax-and-non-jax-parts-interleaved-in-a-python-program-an"
+    },
+    {
+      "Created": "2025-08-07T13:59:06Z",
+      "Title": "How to fix EAS Build failure to resolve local shared TypeScript package in monorepo setup?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "expo",
+        "eas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728692/how-to-fix-eas-build-failure-to-resolve-local-shared-typescript-package-in-monor"
+    },
+    {
+      "Created": "2025-08-07T14:00:20Z",
+      "Title": "How to create a google_arcevent_trigger for files uploaded to GCS in a specific path?",
+      "Tags": [
+        "google-cloud-platform",
+        "terraform",
+        "google-cloud-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728696/how-to-create-a-google-arcevent-trigger-for-files-uploaded-to-gcs-in-a-specific"
+    },
+    {
+      "Created": "2025-08-07T14:02:28Z",
+      "Title": "How to delete an outliner panel child to a PySide2 window in Maya?",
+      "Tags": [
+        "python",
+        "qt",
+        "maya",
+        "pyside2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728698/how-to-delete-an-outliner-panel-child-to-a-pyside2-window-in-maya"
+    },
+    {
+      "Created": "2025-08-07T14:03:37Z",
+      "Title": "How can I use GitHub Actions for Stream?",
+      "Tags": [
+        "github",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728700/how-can-i-use-github-actions-for-stream"
+    }
+  ]
+}

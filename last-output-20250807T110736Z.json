@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-07T10:50:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T10:18:44Z",
+      "Title": "Are empty structs constant expressions?",
+      "Tags": [
+        "c\u002B\u002B",
+        "constants",
+        "constexpr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728402/are-empty-structs-constant-expressions"
+    },
+    {
+      "Created": "2025-08-07T10:43:54Z",
+      "Title": "Konva.js group.getChildren() visibly shows node in devtools, but .length is too short and .find skips visible child",
+      "Tags": [
+        "konvajs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728434/konva-js-group-getchildren-visibly-shows-node-in-devtools-but-length-is-too"
+    },
+    {
+      "Created": "2025-08-07T10:45:09Z",
+      "Title": "Avoid uri=\u0027UNKNOWN\u0027 for OAuth endpoints in Spring Authorization Server",
+      "Tags": [
+        "spring-authorization-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728436/avoid-uri-unknown-for-oauth-endpoints-in-spring-authorization-server"
+    },
+    {
+      "Created": "2025-08-07T10:50:53Z",
+      "Title": "How to route traffic from Docker to host\u0027s SMTP server",
+      "Tags": [
+        "docker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728445/how-to-route-traffic-from-docker-to-hosts-smtp-server"
+    }
+  ]
+}

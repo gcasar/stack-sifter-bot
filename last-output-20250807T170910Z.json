@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-07T17:00:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T16:51:20Z",
+      "Title": "Data is writing in Redis using the format table:key (e.g., users:1001, users:1002), where each key is a separate hash in Spark",
+      "Tags": [
+        "json",
+        "dataframe",
+        "scala",
+        "apache-spark",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728897/data-is-writing-in-redis-using-the-format-tablekey-e-g-users1001-users100"
+    },
+    {
+      "Created": "2025-08-07T16:54:42Z",
+      "Title": "${parameter:?} to return instead of exit?",
+      "Tags": [
+        "bash",
+        "parameter-expansion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728901/parameter-to-return-instead-of-exit"
+    },
+    {
+      "Created": "2025-08-07T16:57:24Z",
+      "Title": "VSCode not recognizing Magento paths in PHP file",
+      "Tags": [
+        "php",
+        "visual-studio-code",
+        "magento2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728904/vscode-not-recognizing-magento-paths-in-php-file"
+    },
+    {
+      "Created": "2025-08-07T16:58:59Z",
+      "Title": "Cannot install llama-cpp-python due to CMake: No CMAKE_C_COMPILER found (on Windows 11 with MSVC 2022)",
+      "Tags": [
+        "python",
+        "windows",
+        "visual-studio",
+        "cmake",
+        "llama-cpp-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728907/cannot-install-llama-cpp-python-due-to-cmake-no-cmake-c-compiler-found-on-wind"
+    },
+    {
+      "Created": "2025-08-07T17:00:32Z",
+      "Title": "Automatic installation of openSUSE 15.* on a VM using autoinst.xml",
+      "Tags": [
+        "kvm",
+        "opensuse",
+        "libvirt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728909/automatic-installation-of-opensuse-15-on-a-vm-using-autoinst-xml"
+    }
+  ]
+}

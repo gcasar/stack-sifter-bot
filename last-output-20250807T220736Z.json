@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-07T21:46:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T21:05:03Z",
+      "Title": "Google API ignoring If-None-Match header",
+      "Tags": [
+        "google-apps-script",
+        "google-workspace",
+        "etag",
+        "google-directory-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729144/google-api-ignoring-if-none-match-header"
+    },
+    {
+      "Created": "2025-08-07T21:42:20Z",
+      "Title": "Custom field MfgDate for INItemLotSerial with PXDefault of current date throws error only on Disassembly",
+      "Tags": [
+        "acumatica",
+        "acumatica-kb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729158/custom-field-mfgdate-for-initemlotserial-with-pxdefault-of-current-date-throws-e"
+    },
+    {
+      "Created": "2025-08-07T21:46:18Z",
+      "Title": "Flutter - How can a widget be dynamically hidden if it overlaps others?",
+      "Tags": [
+        "flutter",
+        "flutter-dependencies",
+        "flutter-animation",
+        "fluttermap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729161/flutter-how-can-a-widget-be-dynamically-hidden-if-it-overlaps-others"
+    }
+  ]
+}

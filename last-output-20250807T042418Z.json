@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-07T04:09:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T04:09:48Z",
+      "Title": "How to configure an AWS service with public APIs, like CloudFront, to auto shutdown after a certain usage threshold?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "aws-lambda",
+        "amazon-cloudfront",
+        "ddos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728055/how-to-configure-an-aws-service-with-public-apis-like-cloudfront-to-auto-shutd"
+    }
+  ]
+}

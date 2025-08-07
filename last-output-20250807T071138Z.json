@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-07T07:02:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-07T06:51:05Z",
+      "Title": "MySQL subquery Sends null value",
+      "Tags": [
+        "mysql",
+        "laravel",
+        "frontend",
+        "subquery",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728156/mysql-subquery-sends-null-value"
+    },
+    {
+      "Created": "2025-08-07T06:54:16Z",
+      "Title": "ESLint rule for classes only that disallows methods and allows only properties",
+      "Tags": [
+        "eslint",
+        "typescript-eslint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728158/eslint-rule-for-classes-only-that-disallows-methods-and-allows-only-properties"
+    },
+    {
+      "Created": "2025-08-07T07:01:30Z",
+      "Title": "Cannot declare variable because already declared in a previous if block [duplicate]",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728168/cannot-declare-variable-because-already-declared-in-a-previous-if-block"
+    },
+    {
+      "Created": "2025-08-07T07:02:37Z",
+      "Title": "Tailwind CSS v4 custom classes in plugin not showing IntelliSense in VS Code when building UI library",
+      "Tags": [
+        "tailwind-css",
+        "intellisense",
+        "tailwind-css-4",
+        "tailwind-css-intellisense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79728169/tailwind-css-v4-custom-classes-in-plugin-not-showing-intellisense-in-vs-code-whe"
+    }
+  ]
+}

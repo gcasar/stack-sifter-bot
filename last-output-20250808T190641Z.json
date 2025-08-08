@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-08T18:54:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T18:35:32Z",
+      "Title": "In Android, what can I do to get the correct direction/angles from a virtual, on-screen, joystick?",
+      "Tags": [
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730132/in-android-what-can-i-do-to-get-the-correct-direction-angles-from-a-virtual-on"
+    },
+    {
+      "Created": "2025-08-08T18:36:20Z",
+      "Title": "npm run start is throwing error, what could be wrong?",
+      "Tags": [
+        "node.js",
+        "express",
+        "mern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730135/npm-run-start-is-throwing-error-what-could-be-wrong"
+    },
+    {
+      "Created": "2025-08-08T18:40:29Z",
+      "Title": "Integration limits when integrating to infinity using quad and vectorize",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "scipy",
+        "physics",
+        "numerical-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730141/integration-limits-when-integrating-to-infinity-using-quad-and-vectorize"
+    },
+    {
+      "Created": "2025-08-08T18:54:35Z",
+      "Title": "Write text in Excel WorkbookRange using Microsoft Graph SDK",
+      "Tags": [
+        "excel",
+        "graph",
+        "graphserviceclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730147/write-text-in-excel-workbookrange-using-microsoft-graph-sdk"
+    }
+  ]
+}

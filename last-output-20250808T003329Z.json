@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-08T00:27:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T00:09:45Z",
+      "Title": "Workaround for OpenScad customizer no longer supporting arrays",
+      "Tags": [
+        "openscad",
+        "customizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729215/workaround-for-openscad-customizer-no-longer-supporting-arrays"
+    },
+    {
+      "Created": "2025-08-08T00:10:46Z",
+      "Title": "Is it safe to use atomic variables in duel core esp32 interrupt functions",
+      "Tags": [
+        "c\u002B\u002B",
+        "embedded",
+        "esp32",
+        "arduino-esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729217/is-it-safe-to-use-atomic-variables-in-duel-core-esp32-interrupt-functions"
+    },
+    {
+      "Created": "2025-08-08T00:22:41Z",
+      "Title": "ASLR behavior differs between the VSCode Run button and the command line",
+      "Tags": [
+        "c",
+        "linux",
+        "visual-studio-code",
+        "aslr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729223/aslr-behavior-differs-between-the-vscode-run-button-and-the-command-line"
+    },
+    {
+      "Created": "2025-08-08T00:26:05Z",
+      "Title": "INSERT statements freeze while executing through PHP",
+      "Tags": [
+        "php",
+        "mysqli",
+        "innodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729225/insert-statements-freeze-while-executing-through-php"
+    },
+    {
+      "Created": "2025-08-08T00:27:18Z",
+      "Title": "How to release memory of intermediate Python-Polars DataFrames in a large dependency graph?",
+      "Tags": [
+        "python-3.x",
+        "garbage-collection",
+        "out-of-memory",
+        "python-polars",
+        "memory-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729226/how-to-release-memory-of-intermediate-python-polars-dataframes-in-a-large-depend"
+    }
+  ]
+}

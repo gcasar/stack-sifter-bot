@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-08T17:05:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T16:34:39Z",
+      "Title": "boost.asio : how to cancel a synchronous task",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "c\u002B\u002B20",
+        "boost-asio",
+        "coroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730025/boost-asio-how-to-cancel-a-synchronous-task"
+    },
+    {
+      "Created": "2025-08-08T16:52:40Z",
+      "Title": "Does having many Go packages impact runtime performance?",
+      "Tags": [
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730039/does-having-many-go-packages-impact-runtime-performance"
+    },
+    {
+      "Created": "2025-08-08T16:58:42Z",
+      "Title": "How should a Function App (Container) authenticate to GitHub via the GH CLI?",
+      "Tags": [
+        "azure",
+        "function",
+        "authentication",
+        "containers",
+        "command-line-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730044/how-should-a-function-app-container-authenticate-to-github-via-the-gh-cli"
+    },
+    {
+      "Created": "2025-08-08T17:03:33Z",
+      "Title": "Efficient creation of Hasse diagrams with networkx",
+      "Tags": [
+        "python",
+        "networkx",
+        "graph-theory",
+        "partial-ordering",
+        "poset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730050/efficient-creation-of-hasse-diagrams-with-networkx"
+    },
+    {
+      "Created": "2025-08-08T17:05:18Z",
+      "Title": "Can I send a Firebase Cloud Messaging topic notification to unlimited users from the Firebase Console?",
+      "Tags": [
+        "firebase",
+        "firebase-cloud-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730051/can-i-send-a-firebase-cloud-messaging-topic-notification-to-unlimited-users-from"
+    }
+  ]
+}

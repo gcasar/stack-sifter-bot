@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-08T23:06:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T22:27:48Z",
+      "Title": "Disable automatic type conversion when loading with readYaml in Jenkins pipeline",
+      "Tags": [
+        "jenkins",
+        "yaml",
+        "snakeyaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730275/disable-automatic-type-conversion-when-loading-with-readyaml-in-jenkins-pipeline"
+    },
+    {
+      "Created": "2025-08-08T22:53:27Z",
+      "Title": "Composable Function With State Parameter Error",
+      "Tags": [
+        "java",
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730293/composable-function-with-state-parameter-error"
+    },
+    {
+      "Created": "2025-08-08T23:01:23Z",
+      "Title": "Can classes owned by a package have package visibility?",
+      "Tags": [
+        "package",
+        "language-lawyer",
+        "uml",
+        "visibility",
+        "package-diagram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730295/can-classes-owned-by-a-package-have-package-visibility"
+    },
+    {
+      "Created": "2025-08-08T23:06:45Z",
+      "Title": "My textfsm template is not parsing the MPLS Interface for a SR 7x50 correctly",
+      "Tags": [
+        "command-line-interface",
+        "python-textfsm",
+        "mpls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730300/my-textfsm-template-is-not-parsing-the-mpls-interface-for-a-sr-7x50-correctly"
+    }
+  ]
+}

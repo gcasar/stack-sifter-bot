@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-08T04:13:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T03:50:49Z",
+      "Title": "conda activate venv is not working on vscode",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "conda",
+        "python-venv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729297/conda-activate-venv-is-not-working-on-vscode"
+    },
+    {
+      "Created": "2025-08-08T03:58:34Z",
+      "Title": "Building tcllib from source: when to build critcl to get tcllibc correct?",
+      "Tags": [
+        "compilation",
+        "tcl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729302/building-tcllib-from-source-when-to-build-critcl-to-get-tcllibc-correct"
+    },
+    {
+      "Created": "2025-08-08T04:13:44Z",
+      "Title": "Why is my Clang not checking the format string?",
+      "Tags": [
+        "clang",
+        "printf",
+        "compiler-warnings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729306/why-is-my-clang-not-checking-the-format-string"
+    }
+  ]
+}

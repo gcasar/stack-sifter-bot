@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-08T02:45:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T01:38:56Z",
+      "Title": "LLVM\u0027s Libunwind Registers_mips_o32.jumpto returns to the wrong place",
+      "Tags": [
+        "c\u002B\u002B",
+        "llvm",
+        "mips",
+        "mips32",
+        "libunwind"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729259/llvms-libunwind-registers-mips-o32-jumpto-returns-to-the-wrong-place"
+    },
+    {
+      "Created": "2025-08-08T02:43:26Z",
+      "Title": "HDInsights spark cluster error with User Managed Identity",
+      "Tags": [
+        "azure",
+        "azure-hdinsight"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729277/hdinsights-spark-cluster-error-with-user-managed-identity"
+    },
+    {
+      "Created": "2025-08-08T02:45:15Z",
+      "Title": "Trying to exploit the stack content with a format string, but I can\u0027t understand where it takes the output from",
+      "Tags": [
+        "c",
+        "stack",
+        "printf",
+        "exploit",
+        "cdecl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729278/trying-to-exploit-the-stack-content-with-a-format-string-but-i-cant-understand"
+    }
+  ]
+}

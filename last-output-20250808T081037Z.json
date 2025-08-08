@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-08T08:05:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T07:40:32Z",
+      "Title": "Change Data Capture from SQL Server to a Postgres database",
+      "Tags": [
+        "sql-server",
+        "postgresql",
+        "docker",
+        "debezium",
+        "cdc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729462/change-data-capture-from-sql-server-to-a-postgres-database"
+    },
+    {
+      "Created": "2025-08-08T08:05:06Z",
+      "Title": "Shorthand for converting ruby procs to duck type / functional interface",
+      "Tags": [
+        "ruby"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729483/shorthand-for-converting-ruby-procs-to-duck-type-functional-interface"
+    }
+  ]
+}

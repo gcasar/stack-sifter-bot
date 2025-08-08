@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-08T19:54:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T19:31:12Z",
+      "Title": "How to get accurate timing with PyQT",
+      "Tags": [
+        "python",
+        "time",
+        "pyqt6",
+        "qdatetime",
+        "qtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730171/how-to-get-accurate-timing-with-pyqt"
+    },
+    {
+      "Created": "2025-08-08T19:49:29Z",
+      "Title": "Why does adding a CONVERT in the ORDER BY statement prevent concatenating a column from a table to a variable?",
+      "Tags": [
+        "t-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730183/why-does-adding-a-convert-in-the-order-by-statement-prevent-concatenating-a-colu"
+    },
+    {
+      "Created": "2025-08-08T19:54:42Z",
+      "Title": "jupyterhub autoreload is not always working",
+      "Tags": [
+        "python",
+        "jupyter-notebook",
+        "ipython"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730185/jupyterhub-autoreload-is-not-always-working"
+    }
+  ]
+}

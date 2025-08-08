@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-08T13:13:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T12:48:02Z",
+      "Title": "Spring does not recognize @PreAuthorize inside custom annotation",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-security",
+        "spring-annotations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729773/spring-does-not-recognize-preauthorize-inside-custom-annotation"
+    },
+    {
+      "Created": "2025-08-08T13:09:08Z",
+      "Title": "How to use fileCopyOperation in jenkins groovy to copy 3 files with the same name from 3 different directories, to 1 directory with 3 different names",
+      "Tags": [
+        "jenkins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729793/how-to-use-filecopyoperation-in-jenkins-groovy-to-copy-3-files-with-the-same-nam"
+    },
+    {
+      "Created": "2025-08-08T13:13:05Z",
+      "Title": "How should I store GPS routes in MySQL?",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729798/how-should-i-store-gps-routes-in-mysql"
+    },
+    {
+      "Created": "2025-08-08T13:13:39Z",
+      "Title": "How to write a Synapse Spark dataframe to an Azure Event Hub using managed identity to connect",
+      "Tags": [
+        "pyspark",
+        "azure-managed-identity",
+        "azure-synapse-analytics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729799/how-to-write-a-synapse-spark-dataframe-to-an-azure-event-hub-using-managed-ident"
+    }
+  ]
+}

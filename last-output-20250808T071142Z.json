@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-08T07:09:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T06:52:40Z",
+      "Title": "How to filter values from struct by field in pyspark?",
+      "Tags": [
+        "python",
+        "pyspark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729416/how-to-filter-values-from-struct-by-field-in-pyspark"
+    },
+    {
+      "Created": "2025-08-08T06:54:38Z",
+      "Title": "\u0022404 page not found\u0022 on docker push to local K3s Registry on ARM64 VM (UTM/QEMU) - I/O Bottleneck?",
+      "Tags": [
+        "traefik",
+        "docker-registry",
+        "k3s"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729419/404-page-not-found-on-docker-push-to-local-k3s-registry-on-arm64-vm-utm-qemu"
+    },
+    {
+      "Created": "2025-08-08T07:01:43Z",
+      "Title": "Accuracy of a dynamic programming solution",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "dynamic-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729424/accuracy-of-a-dynamic-programming-solution"
+    },
+    {
+      "Created": "2025-08-08T07:07:33Z",
+      "Title": "How to compare datetime.now() with sunrise/sunset times from Sunrise-Sunset API in Python?",
+      "Tags": [
+        "python",
+        "json",
+        "datetime",
+        "datetime-comparison"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729431/how-to-compare-datetime-now-with-sunrise-sunset-times-from-sunrise-sunset-api"
+    },
+    {
+      "Created": "2025-08-08T07:09:34Z",
+      "Title": "Python openapi_core validate_request method. How to get schema key object that failed the validation?",
+      "Tags": [
+        "python",
+        "openapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729433/python-openapi-core-validate-request-method-how-to-get-schema-key-object-that-f"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-08T18:04:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T17:36:35Z",
+      "Title": "Change displayed format in worksheet for path and filename in VBA",
+      "Tags": [
+        "excel",
+        "vba",
+        "date"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730084/change-displayed-format-in-worksheet-for-path-and-filename-in-vba"
+    },
+    {
+      "Created": "2025-08-08T17:42:07Z",
+      "Title": "Custom Format footer with Office Script",
+      "Tags": [
+        "excel",
+        "typescript",
+        "office-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730087/custom-format-footer-with-office-script"
+    },
+    {
+      "Created": "2025-08-08T17:59:17Z",
+      "Title": "What is the correct way to get the remaining tokens for a chat session in FoundationModels?",
+      "Tags": [
+        "swift",
+        "token",
+        "foundation-models"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730099/what-is-the-correct-way-to-get-the-remaining-tokens-for-a-chat-session-in-founda"
+    },
+    {
+      "Created": "2025-08-08T18:04:48Z",
+      "Title": "Cannot connect springboot application to docker database",
+      "Tags": [
+        "java",
+        "postgresql",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730103/cannot-connect-springboot-application-to-docker-database"
+    }
+  ]
+}

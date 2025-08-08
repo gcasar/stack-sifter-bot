@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-08T20:19:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T20:19:39Z",
+      "Title": "How to reference a second Pandas dataframe to the first one without creating any copy of the first one?",
+      "Tags": [
+        "pandas",
+        "reference",
+        "large-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730202/how-to-reference-a-second-pandas-dataframe-to-the-first-one-without-creating-any"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-08T10:00:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T09:46:17Z",
+      "Title": "SSRS Grey out / Hide Parameter based on result from other Parameter",
+      "Tags": [
+        "sql-server",
+        "reporting-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729604/ssrs-grey-out-hide-parameter-based-on-result-from-other-parameter"
+    },
+    {
+      "Created": "2025-08-08T09:49:52Z",
+      "Title": "How to add a date query parameter for a resource not based on entity?",
+      "Tags": [
+        "symfony",
+        "api-platform.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729610/how-to-add-a-date-query-parameter-for-a-resource-not-based-on-entity"
+    },
+    {
+      "Created": "2025-08-08T09:53:44Z",
+      "Title": "Yocto image for Raspberry pi 3B\u002B fails to drive some displays of the same type",
+      "Tags": [
+        "raspberry-pi3",
+        "yocto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729613/yocto-image-for-raspberry-pi-3b-fails-to-drive-some-displays-of-the-same-type"
+    },
+    {
+      "Created": "2025-08-08T10:00:14Z",
+      "Title": "Drag and drop files from web app to software",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "next.js",
+        "drag-and-drop",
+        "drag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729617/drag-and-drop-files-from-web-app-to-software"
+    }
+  ]
+}

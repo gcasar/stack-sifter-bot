@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-08T05:05:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T04:31:15Z",
+      "Title": "Unknown error: Error [ERR_REQUIRE_ESM]: require() of ES Module",
+      "Tags": [
+        "angular",
+        "npm",
+        "npx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729312/unknown-error-error-err-require-esm-require-of-es-module"
+    },
+    {
+      "Created": "2025-08-08T05:01:16Z",
+      "Title": "Is it possible to get a mean NDVI timeseries from from cluster?",
+      "Tags": [
+        "javascript",
+        "time-series",
+        "gis",
+        "google-earth-engine",
+        "unsupervised-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729332/is-it-possible-to-get-a-mean-ndvi-timeseries-from-from-cluster"
+    },
+    {
+      "Created": "2025-08-08T05:01:18Z",
+      "Title": "Does the Arduino library load its internal interrupts in IRAM on the ESP32",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "embedded",
+        "esp32",
+        "arduino-esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729333/does-the-arduino-library-load-its-internal-interrupts-in-iram-on-the-esp32"
+    },
+    {
+      "Created": "2025-08-08T05:05:34Z",
+      "Title": "Why does dependency analysis work for script that outputs folder that is copied as bundle resource but not if that script is in an aggregate target?",
+      "Tags": [
+        "ios",
+        "xcode",
+        "build"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729337/why-does-dependency-analysis-work-for-script-that-outputs-folder-that-is-copied"
+    }
+  ]
+}

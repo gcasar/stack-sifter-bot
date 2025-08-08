@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-08T14:04:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T13:20:58Z",
+      "Title": "2 date attributes stored as text strings need to be compared with earliest date selected",
+      "Tags": [
+        "sql-server",
+        "date"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729807/2-date-attributes-stored-as-text-strings-need-to-be-compared-with-earliest-date"
+    },
+    {
+      "Created": "2025-08-08T13:45:59Z",
+      "Title": "Error using AfricasTalking gateway to send message: The request was aborted: Could not create SSL/TLS secure channel",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729838/error-using-africastalking-gateway-to-send-message-the-request-was-aborted-cou"
+    },
+    {
+      "Created": "2025-08-08T13:51:39Z",
+      "Title": "How to switch between different BYTE Arrays after user input?",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "byte"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729842/how-to-switch-between-different-byte-arrays-after-user-input"
+    },
+    {
+      "Created": "2025-08-08T13:53:58Z",
+      "Title": "Is my Flutter UI and Business Logic folder structure correct, or can it cause issues?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "directory-structure",
+        "separation-of-concerns",
+        "code-structure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729846/is-my-flutter-ui-and-business-logic-folder-structure-correct-or-can-it-cause-is"
+    },
+    {
+      "Created": "2025-08-08T14:00:07Z",
+      "Title": "Using git tags for dynamic versioning while never merging from main to dev",
+      "Tags": [
+        "git",
+        "tags",
+        "python-poetry",
+        "git-tag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729851/using-git-tags-for-dynamic-versioning-while-never-merging-from-main-to-dev"
+    },
+    {
+      "Created": "2025-08-08T14:04:22Z",
+      "Title": "Python - ConfigParser and pathlib Path WindowsPath",
+      "Tags": [
+        "python",
+        "configparser",
+        "pathlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729855/python-configparser-and-pathlib-path-windowspath"
+    },
+    {
+      "Created": "2025-08-08T14:04:37Z",
+      "Title": "Golang Migration using Goose failed to normalize MySQL connection string",
+      "Tags": [
+        "go",
+        "sh",
+        "database-migration",
+        "goose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729856/golang-migration-using-goose-failed-to-normalize-mysql-connection-string"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-08T09:09:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T08:44:24Z",
+      "Title": "Two API with same structure but when calling from postman one is working without sessionid and credential and another is not working",
+      "Tags": [
+        "java",
+        "spring",
+        "rest",
+        "spring-mvc",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729531/two-api-with-same-structure-but-when-calling-from-postman-one-is-working-without"
+    },
+    {
+      "Created": "2025-08-08T08:50:32Z",
+      "Title": "How to properly handle onBlur with MUI \u003CDatePicker /\u003E in Formik without triggering prematurely?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "material-ui",
+        "formik",
+        "mui-x-date-picker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729538/how-to-properly-handle-onblur-with-mui-datepicker-in-formik-without-triggeri"
+    },
+    {
+      "Created": "2025-08-08T08:51:21Z",
+      "Title": "Why does MyPy fail to narrow types when comparing Enum members in this way?",
+      "Tags": [
+        "python",
+        "enums",
+        "ipython",
+        "mypy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729541/why-does-mypy-fail-to-narrow-types-when-comparing-enum-members-in-this-way"
+    },
+    {
+      "Created": "2025-08-08T08:54:21Z",
+      "Title": "other solutions to work with large data when coding with python",
+      "Tags": [
+        "python",
+        "scientific-computing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729543/other-solutions-to-work-with-large-data-when-coding-with-python"
+    },
+    {
+      "Created": "2025-08-08T08:54:25Z",
+      "Title": "Is it correct to reset the connection in websocket::stream_base::decorator callback?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio",
+        "boost-beast",
+        "boost-beast-websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729544/is-it-correct-to-reset-the-connection-in-websocketstream-basedecorator-callb"
+    },
+    {
+      "Created": "2025-08-08T09:04:57Z",
+      "Title": "Startup is very slow (in minutes) for a Spring based application when properties are loaded from NAS",
+      "Tags": [
+        "spring",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729554/startup-is-very-slow-in-minutes-for-a-spring-based-application-when-properties"
+    },
+    {
+      "Created": "2025-08-08T09:08:35Z",
+      "Title": "poor parameter recovery in brms from simulated vigniette experiment",
+      "Tags": [
+        "r",
+        "simulation",
+        "brms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729557/poor-parameter-recovery-in-brms-from-simulated-vigniette-experiment"
+    },
+    {
+      "Created": "2025-08-08T09:09:24Z",
+      "Title": "Oauth2 in-memory cache is not cleared when restarting spring boot application",
+      "Tags": [
+        "spring-boot",
+        "spring-security",
+        "oauth-2.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729558/oauth2-in-memory-cache-is-not-cleared-when-restarting-spring-boot-application"
+    }
+  ]
+}

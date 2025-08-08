@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-08T21:48:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T21:46:21Z",
+      "Title": "Set timestamp from exif for png files",
+      "Tags": [
+        "timestamp",
+        "png",
+        "jpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730250/set-timestamp-from-exif-for-png-files"
+    },
+    {
+      "Created": "2025-08-08T21:48:10Z",
+      "Title": "Speeding up integer division with doubles",
+      "Tags": [
+        "c\u002B\u002B",
+        "floating-point",
+        "double",
+        "division",
+        "integer-division"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730251/speeding-up-integer-division-with-doubles"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-08T01:07:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T00:45:16Z",
+      "Title": "Set searchableAttributes without API/cURL \u2013 via code?",
+      "Tags": [
+        "strapi",
+        "meilisearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729235/set-searchableattributes-without-api-curl-via-code"
+    },
+    {
+      "Created": "2025-08-08T00:49:51Z",
+      "Title": "Why does passing a Map.entries() iterator as children to a Collaspsible from shadcn render nothing unless I wrap it with Array.from()?",
+      "Tags": [
+        "javascript",
+        "shadcnui",
+        "radix-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729240/why-does-passing-a-map-entries-iterator-as-children-to-a-collaspsible-from-sha"
+    },
+    {
+      "Created": "2025-08-08T01:07:58Z",
+      "Title": "\u0060do script\u0060 causing syntax error in AppleScript",
+      "Tags": [
+        "applescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729245/do-script-causing-syntax-error-in-applescript"
+    }
+  ]
+}

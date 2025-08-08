@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-08T15:02:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T14:22:16Z",
+      "Title": "Photos loaded from users photo library without PhotosPicker appearing blurry",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729883/photos-loaded-from-users-photo-library-without-photospicker-appearing-blurry"
+    },
+    {
+      "Created": "2025-08-08T14:26:58Z",
+      "Title": "What could cause requests sent from C# to trigger a firewall 403 response from Azure Application Gateway/v2 WAF",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-application-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729888/what-could-cause-requests-sent-from-c-sharp-to-trigger-a-firewall-403-response-f"
+    },
+    {
+      "Created": "2025-08-08T14:58:54Z",
+      "Title": "Error with parsing a .toml - expected operator is the same as what is already written",
+      "Tags": [
+        "github",
+        "sphinx",
+        "read-the-docs",
+        "pyproject.toml",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729927/error-with-parsing-a-toml-expected-operator-is-the-same-as-what-is-already-wr"
+    },
+    {
+      "Created": "2025-08-08T14:59:15Z",
+      "Title": "Building with MsBuild, using vcpkg in Docker",
+      "Tags": [
+        "docker",
+        "visual-studio",
+        "vcpkg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729928/building-with-msbuild-using-vcpkg-in-docker"
+    },
+    {
+      "Created": "2025-08-08T14:59:52Z",
+      "Title": "A message consumed from AMQ even when Camel route fails",
+      "Tags": [
+        "spring",
+        "apache-camel",
+        "amq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729929/a-message-consumed-from-amq-even-when-camel-route-fails"
+    },
+    {
+      "Created": "2025-08-08T15:02:46Z",
+      "Title": "MLFlow hangs on pytorch log_model for large model file - any help to solve this?",
+      "Tags": [
+        "python",
+        "pytorch",
+        "mlflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79729933/mlflow-hangs-on-pytorch-log-model-for-large-model-file-any-help-to-solve-this"
+    }
+  ]
+}

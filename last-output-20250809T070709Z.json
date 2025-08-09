@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-09T06:48:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T06:42:14Z",
+      "Title": "Gets AggregateException on LINQ extension method using LINQKIT",
+      "Tags": [
+        "c#",
+        "linq",
+        "entity-framework-core",
+        "extension-methods",
+        "linqkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730453/gets-aggregateexception-on-linq-extension-method-using-linqkit"
+    },
+    {
+      "Created": "2025-08-09T06:45:30Z",
+      "Title": "How can I get the index of a google maps polyline path which is clicked",
+      "Tags": [
+        "google-maps-api-3",
+        "google-polyline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730455/how-can-i-get-the-index-of-a-google-maps-polyline-path-which-is-clicked"
+    },
+    {
+      "Created": "2025-08-09T06:48:09Z",
+      "Title": "flutter_typeahead (flutter_typeahead: ^5.2.0) suggestions list wider than textfield?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-dependencies",
+        "flutter-typeahead"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730457/flutter-typeahead-flutter-typeahead-5-2-0-suggestions-list-wider-than-textfi"
+    }
+  ]
+}

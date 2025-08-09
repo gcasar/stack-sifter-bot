@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-09T00:08:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-08T23:40:41Z",
+      "Title": "How can I sum the values in a table column located in another sheet, using the name of a table referenced in another cell?",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730320/how-can-i-sum-the-values-in-a-table-column-located-in-another-sheet-using-the-n"
+    },
+    {
+      "Created": "2025-08-08T23:56:22Z",
+      "Title": "Stripe Subscription: latest_invoice.payment_intent raises AttributeError: payment_intent",
+      "Tags": [
+        "python",
+        "django",
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730326/stripe-subscription-latest-invoice-payment-intent-raises-attributeerror-paymen"
+    },
+    {
+      "Created": "2025-08-09T00:01:31Z",
+      "Title": "calling constructor with different types of parameters in template function",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "cuda",
+        "c\u002B\u002B-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730328/calling-constructor-with-different-types-of-parameters-in-template-function"
+    },
+    {
+      "Created": "2025-08-09T00:02:07Z",
+      "Title": "please explain variable scope when System.IO.FileSystemWatcher event is triggered",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730329/please-explain-variable-scope-when-system-io-filesystemwatcher-event-is-triggere"
+    },
+    {
+      "Created": "2025-08-09T00:05:20Z",
+      "Title": "How to change the time to set intervals of 15 minutes",
+      "Tags": [
+        "acumatica",
+        "acumatica-kb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730331/how-to-change-the-time-to-set-intervals-of-15-minutes"
+    },
+    {
+      "Created": "2025-08-09T00:08:46Z",
+      "Title": "Zlib crc function is inconsistent when reading files in larger blocks",
+      "Tags": [
+        "c\u002B\u002B",
+        "zlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730333/zlib-crc-function-is-inconsistent-when-reading-files-in-larger-blocks"
+    }
+  ]
+}

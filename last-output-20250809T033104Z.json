@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-09T03:09:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T02:43:11Z",
+      "Title": "How is the imaginary part of scipy fft normalized?",
+      "Tags": [
+        "python",
+        "scipy",
+        "fft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730378/how-is-the-imaginary-part-of-scipy-fft-normalized"
+    },
+    {
+      "Created": "2025-08-09T02:51:32Z",
+      "Title": "Global variables failed to update globally [duplicate]",
+      "Tags": [
+        "python",
+        "global-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730379/global-variables-failed-to-update-globally"
+    },
+    {
+      "Created": "2025-08-09T02:58:15Z",
+      "Title": "AKS ingress controller not routing traffic for ingress with a path other than \u0022/\u0022",
+      "Tags": [
+        "kubernetes",
+        "azure-aks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730383/aks-ingress-controller-not-routing-traffic-for-ingress-with-a-path-other-than"
+    },
+    {
+      "Created": "2025-08-09T03:09:35Z",
+      "Title": "How to make a mock for time.Now() in Go unit test",
+      "Tags": [
+        "unit-testing",
+        "go",
+        "time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730387/how-to-make-a-mock-for-time-now-in-go-unit-test"
+    }
+  ]
+}

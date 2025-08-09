@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-09T17:04:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T16:25:53Z",
+      "Title": "How can I correctly allow the Cloud Run domain in Astro\u2019s astro preview so it works with Vite\u2019s host restriction?",
+      "Tags": [
+        "docker",
+        "google-cloud-platform",
+        "astrojs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730738/how-can-i-correctly-allow-the-cloud-run-domain-in-astro-s-astro-preview-so-it-wo"
+    },
+    {
+      "Created": "2025-08-09T16:41:06Z",
+      "Title": "Can a wildcard route be used for the :show action in a rails resource?",
+      "Tags": [
+        "ruby-on-rails",
+        "rails-routing",
+        "ruby-on-rails-8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730746/can-a-wildcard-route-be-used-for-the-show-action-in-a-rails-resource"
+    },
+    {
+      "Created": "2025-08-09T17:00:42Z",
+      "Title": "How to install openssl 3.3.3 on rhel ubi9 container",
+      "Tags": [
+        "docker",
+        "security",
+        "openssl",
+        "rhel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730755/how-to-install-openssl-3-3-3-on-rhel-ubi9-container"
+    },
+    {
+      "Created": "2025-08-09T17:04:40Z",
+      "Title": "rast() vs raster()... the results are different for nws_precip_1day_yyyymmdd_conus.tif Why?",
+      "Tags": [
+        "r",
+        "raster",
+        "terra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730759/rast-vs-raster-the-results-are-different-for-nws-precip-1day-yyyymmdd-con"
+    }
+  ]
+}

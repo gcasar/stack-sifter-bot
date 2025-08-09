@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-09T04:25:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T04:16:04Z",
+      "Title": "How to read data from MongoDB collection using SparkSession into a Spark DataFrameReader?",
+      "Tags": [
+        "mongodb",
+        "apache-spark",
+        "apache-spark-sql",
+        "aws-documentdb-mongoapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730415/how-to-read-data-from-mongodb-collection-using-sparksession-into-a-spark-datafra"
+    },
+    {
+      "Created": "2025-08-09T04:25:39Z",
+      "Title": "CustomActionData value is correct in runtime log, but null when evaluated in ExeCommand",
+      "Tags": [
+        "wix",
+        "windows-installer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730421/customactiondata-value-is-correct-in-runtime-log-but-null-when-evaluated-in-exe"
+    }
+  ]
+}

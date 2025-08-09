@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-09T18:47:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T18:16:14Z",
+      "Title": "Can a Linux raw socket modify the bytes being sent?",
+      "Tags": [
+        "c",
+        "linux",
+        "network-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730799/can-a-linux-raw-socket-modify-the-bytes-being-sent"
+    },
+    {
+      "Created": "2025-08-09T18:26:26Z",
+      "Title": "Why is chart.js adding a diagonal shaded area to my chart with time scale and min/max values?",
+      "Tags": [
+        "chart.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730805/why-is-chart-js-adding-a-diagonal-shaded-area-to-my-chart-with-time-scale-and-mi"
+    },
+    {
+      "Created": "2025-08-09T18:33:02Z",
+      "Title": "Table name as Variable in Snowflake",
+      "Tags": [
+        "snowflake-schema"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730808/table-name-as-variable-in-snowflake"
+    },
+    {
+      "Created": "2025-08-09T18:47:28Z",
+      "Title": "\u0027unset\u0027 json post form data so it does not appear at the top of the next page after a form submission",
+      "Tags": [
+        "php",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730812/unset-json-post-form-data-so-it-does-not-appear-at-the-top-of-the-next-page-af"
+    }
+  ]
+}

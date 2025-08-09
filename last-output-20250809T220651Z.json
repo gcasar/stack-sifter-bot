@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-09T21:09:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T20:16:43Z",
+      "Title": "How to add custom Svelte component with mdsvex",
+      "Tags": [
+        "markdown",
+        "svelte"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730863/how-to-add-custom-svelte-component-with-mdsvex"
+    },
+    {
+      "Created": "2025-08-09T20:47:58Z",
+      "Title": "Define a new figure option for name of source file",
+      "Tags": [
+        "knitr",
+        "quarto",
+        "chunks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730877/define-a-new-figure-option-for-name-of-source-file"
+    },
+    {
+      "Created": "2025-08-09T20:49:38Z",
+      "Title": "Mock constructor of FileWriter",
+      "Tags": [
+        "junit",
+        "mockito"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730879/mock-constructor-of-filewriter"
+    },
+    {
+      "Created": "2025-08-09T21:05:33Z",
+      "Title": "How to create a Google Apps Script prompt to retrieve multiple lines of text from a user response?",
+      "Tags": [
+        "google-apps-script",
+        "prompt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730881/how-to-create-a-google-apps-script-prompt-to-retrieve-multiple-lines-of-text-fro"
+    },
+    {
+      "Created": "2025-08-09T21:09:02Z",
+      "Title": "Databricks ConcurrentAppendException on partitioned table with WriteSerializable but not Serializable",
+      "Tags": [
+        "pyspark",
+        "databricks",
+        "delta-lake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730883/databricks-concurrentappendexception-on-partitioned-table-with-writeserializable"
+    }
+  ]
+}

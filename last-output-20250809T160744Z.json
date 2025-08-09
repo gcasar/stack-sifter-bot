@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-09T15:54:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T15:54:28Z",
+      "Title": "std::launder reachability precondition with data (void) pointers",
+      "Tags": [
+        "c\u002B\u002B",
+        "pointers",
+        "language-lawyer",
+        "stdlaunder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730720/stdlaunder-reachability-precondition-with-data-void-pointers"
+    }
+  ]
+}

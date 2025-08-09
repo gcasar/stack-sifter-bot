@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-09T06:06:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T05:08:49Z",
+      "Title": "Apps built with /QSpectre-load and /CETCOMPAT crashes with EXCEPTION_STACK_OVERFLOW",
+      "Tags": [
+        "c\u002B\u002B",
+        "assembly",
+        "visual-studio-2019",
+        "visual-studio-2022",
+        "spectre"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730428/apps-built-with-qspectre-load-and-cetcompat-crashes-with-exception-stack-overf"
+    },
+    {
+      "Created": "2025-08-09T06:06:11Z",
+      "Title": "DataGrip: Create Trigger within IDE",
+      "Tags": [
+        "sql",
+        "firebase",
+        "ide",
+        "datagrip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730445/datagrip-create-trigger-within-ide"
+    }
+  ]
+}

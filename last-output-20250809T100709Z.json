@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-09T09:49:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T09:45:41Z",
+      "Title": "Good practice to check pointers",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730532/good-practice-to-check-pointers"
+    },
+    {
+      "Created": "2025-08-09T09:49:56Z",
+      "Title": "\u0022Error Binding Parameter 1: built-in function or method is not supported\u0022 when saving text to sqlite3 to database in password manager project",
+      "Tags": [
+        "python",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730535/error-binding-parameter-1-built-in-function-or-method-is-not-supported-when-s"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-09T10:51:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T10:29:24Z",
+      "Title": "In WinDBG, issuing .excr command shows \u201CUnable to get exception context, HRESULT 0x8000FFFF\u201D instead of the expected registers information",
+      "Tags": [
+        "windows",
+        "debugging",
+        "windbg",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730554/in-windbg-issuing-excr-command-shows-unable-to-get-exception-context-hresult"
+    },
+    {
+      "Created": "2025-08-09T10:51:37Z",
+      "Title": "Maintaining Accurate Extrinsic Calibration Across Different Distances for a Fisheye Camera (and Opti-track 3D points) using target based method",
+      "Tags": [
+        "camera",
+        "camera-calibration",
+        "fisheye",
+        "extrinsic-parameters"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730570/maintaining-accurate-extrinsic-calibration-across-different-distances-for-a-fish"
+    }
+  ]
+}

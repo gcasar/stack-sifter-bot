@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-09T12:08:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T11:15:28Z",
+      "Title": "How to write a constructor in F# of a class derived from an abstract class?",
+      "Tags": [
+        "oop",
+        "f#",
+        "instantiation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730581/how-to-write-a-constructor-in-f-of-a-class-derived-from-an-abstract-class"
+    },
+    {
+      "Created": "2025-08-09T11:33:48Z",
+      "Title": "sympy unable to take simple integral",
+      "Tags": [
+        "python",
+        "sympy",
+        "symbolic-math",
+        "integral"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730585/sympy-unable-to-take-simple-integral"
+    },
+    {
+      "Created": "2025-08-09T11:43:59Z",
+      "Title": "Raku regex to match two consecutive dots but not three",
+      "Tags": [
+        "regex",
+        "raku"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730592/raku-regex-to-match-two-consecutive-dots-but-not-three"
+    },
+    {
+      "Created": "2025-08-09T12:01:36Z",
+      "Title": "How do I label an address in gdb?",
+      "Tags": [
+        "gdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730602/how-do-i-label-an-address-in-gdb"
+    },
+    {
+      "Created": "2025-08-09T12:08:51Z",
+      "Title": "How to extract only company names and money amounts from receipts using OCR in Flutter?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "ocr",
+        "google-mlkit",
+        "named-entity-extraction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730608/how-to-extract-only-company-names-and-money-amounts-from-receipts-using-ocr-in-f"
+    }
+  ]
+}

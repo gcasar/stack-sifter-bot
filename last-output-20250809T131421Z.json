@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-09T13:10:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T12:20:20Z",
+      "Title": "How to correctly calculate distance and similarity for each step in hierarchical clustering (Ward.D2)?",
+      "Tags": [
+        "r",
+        "distance",
+        "similarity",
+        "hierarchical-clustering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730619/how-to-correctly-calculate-distance-and-similarity-for-each-step-in-hierarchical"
+    },
+    {
+      "Created": "2025-08-09T12:36:36Z",
+      "Title": "Autodesk Viewer: Bounding box calculation for 2D elements always returns null \u2014 dbId not found in dbId2fragId",
+      "Tags": [
+        "typescript",
+        "autodesk-forge",
+        "autodesk-viewer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730627/autodesk-viewer-bounding-box-calculation-for-2d-elements-always-returns-null"
+    },
+    {
+      "Created": "2025-08-09T13:10:47Z",
+      "Title": "How to synchronize zoom \u0026 pan between multiple Jetpack Compose elements (e.g., rulers and main canvas)?",
+      "Tags": [
+        "kotlin",
+        "android-jetpack-compose",
+        "zooming",
+        "gesture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730642/how-to-synchronize-zoom-pan-between-multiple-jetpack-compose-elements-e-g-r"
+    }
+  ]
+}

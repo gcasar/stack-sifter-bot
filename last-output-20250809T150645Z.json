@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-09T15:00:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T14:09:00Z",
+      "Title": "Using Google Apps Scripts to process online form",
+      "Tags": [
+        "javascript",
+        "html",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730666/using-google-apps-scripts-to-process-online-form"
+    },
+    {
+      "Created": "2025-08-09T14:28:40Z",
+      "Title": "MFT RECODR without $DATA",
+      "Tags": [
+        "c\u002B\u002B",
+        "ntfs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730676/mft-recodr-without-data"
+    },
+    {
+      "Created": "2025-08-09T14:31:08Z",
+      "Title": "R fitdistrplus gamma user defined function",
+      "Tags": [
+        "r",
+        "distribution",
+        "gamma",
+        "fitdistrplus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730678/r-fitdistrplus-gamma-user-defined-function"
+    },
+    {
+      "Created": "2025-08-09T14:50:28Z",
+      "Title": "Understanding \u0060confint()\u0060 output",
+      "Tags": [
+        "r",
+        "statistics",
+        "lm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730687/understanding-confint-output"
+    },
+    {
+      "Created": "2025-08-09T14:52:57Z",
+      "Title": "Using Python, how to continue opening new URLs in a specific Edge window even if another Edge window is in the foreground?",
+      "Tags": [
+        "python",
+        "tabs",
+        "microsoft-edge",
+        "windows-11",
+        "python-webbrowser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730688/using-python-how-to-continue-opening-new-urls-in-a-specific-edge-window-even-if"
+    },
+    {
+      "Created": "2025-08-09T15:00:48Z",
+      "Title": "Spring Boot Mongo - @DocumentReference ID serahc for referenced Document",
+      "Tags": [
+        "java",
+        "mongodb",
+        "spring-boot",
+        "mongodb-query",
+        "mongotemplate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730691/spring-boot-mongo-documentreference-id-serahc-for-referenced-document"
+    }
+  ]
+}

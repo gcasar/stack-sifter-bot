@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-09T22:33:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T22:24:02Z",
+      "Title": "Safest way to resolve push conflicts and messy commit history after rebasing local branch with updated main?",
+      "Tags": [
+        "git",
+        "github",
+        "version-control",
+        "git-merge",
+        "git-rebase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730897/safest-way-to-resolve-push-conflicts-and-messy-commit-history-after-rebasing-loc"
+    },
+    {
+      "Created": "2025-08-09T22:30:32Z",
+      "Title": "mailto: links with multiple \u0022To\u0022 recipients unclickable in Teams (generated via n8n)",
+      "Tags": [
+        "microsoft-teams",
+        "mailto",
+        "n8n"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730899/mailto-links-with-multiple-to-recipients-unclickable-in-teams-generated-via"
+    },
+    {
+      "Created": "2025-08-09T22:33:25Z",
+      "Title": "Mac arm64 assembler (as) is not recognizing the lsls command",
+      "Tags": [
+        "macos",
+        "assembly",
+        "arm64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730901/mac-arm64-assembler-as-is-not-recognizing-the-lsls-command"
+    }
+  ]
+}

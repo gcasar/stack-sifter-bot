@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-09T08:03:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T07:21:54Z",
+      "Title": "Is There a Way to Get a List of Installed Android Apps with Kotlin \u0026 Jetpack Compose?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "android-package-managers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730468/is-there-a-way-to-get-a-list-of-installed-android-apps-with-kotlin-jetpack-com"
+    },
+    {
+      "Created": "2025-08-09T07:31:03Z",
+      "Title": "Facing ERR_PARSE_ARGS_INVALID_OPTION_VALUE while starting spring boot based MCP server with MCP inspector",
+      "Tags": [
+        "java",
+        "model-context-protocol",
+        "spring-ai",
+        "model-context-protocol-inspector",
+        "mcp-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730471/facing-err-parse-args-invalid-option-value-while-starting-spring-boot-based-mcp"
+    },
+    {
+      "Created": "2025-08-09T07:40:01Z",
+      "Title": "Flutter scheduled (time-based) notifications don\u2019t fire on Android \u2014 immediate notifications work",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730476/flutter-scheduled-time-based-notifications-don-t-fire-on-android-immediate-n"
+    },
+    {
+      "Created": "2025-08-09T07:58:12Z",
+      "Title": "hsqldb create function not finding the implementation",
+      "Tags": [
+        "hsqldb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730485/hsqldb-create-function-not-finding-the-implementation"
+    },
+    {
+      "Created": "2025-08-09T07:58:59Z",
+      "Title": "How do I add custom IChatClient middleware to chat client registered with a Semantic Kernel?",
+      "Tags": [
+        "c#",
+        ".net",
+        "amazon-bedrock",
+        "semantic-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730486/how-do-i-add-custom-ichatclient-middleware-to-chat-client-registered-with-a-sema"
+    },
+    {
+      "Created": "2025-08-09T08:03:07Z",
+      "Title": "Select keys with highest values in dictionary",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730488/select-keys-with-highest-values-in-dictionary"
+    }
+  ]
+}

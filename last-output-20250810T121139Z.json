@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-10T12:09:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T10:57:59Z",
+      "Title": "How to add infinite scroll into posts in home page (Blogger theme) [closed]",
+      "Tags": [
+        "html",
+        "jquery",
+        "css",
+        "blogger",
+        "infinite-scroll"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731170/how-to-add-infinite-scroll-into-posts-in-home-page-blogger-theme"
+    },
+    {
+      "Created": "2025-08-10T11:11:47Z",
+      "Title": "Combination generator written in C : works for big n but for small n when n=0 or n=k crashes saying \u0022segmentation fault\u0022",
+      "Tags": [
+        "c",
+        "string",
+        "set",
+        "combinations",
+        "combinatorics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731176/combination-generator-written-in-c-works-for-big-n-but-for-small-n-when-n-0-or"
+    },
+    {
+      "Created": "2025-08-10T11:50:18Z",
+      "Title": "TypeORM: Importing Entities via Directory Path Fails with Multiple DB Connections",
+      "Tags": [
+        "node.js",
+        "postgresql",
+        "express",
+        "nestjs",
+        "typeorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731194/typeorm-importing-entities-via-directory-path-fails-with-multiple-db-connection"
+    },
+    {
+      "Created": "2025-08-10T11:54:47Z",
+      "Title": "generate xml file using ElementTree API",
+      "Tags": [
+        "python",
+        "xml",
+        "elementtree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731196/generate-xml-file-using-elementtree-api"
+    },
+    {
+      "Created": "2025-08-10T12:01:02Z",
+      "Title": "How to return a vector of strings (or chars) when input data is an object with chars (not concatenated chars)",
+      "Tags": [
+        "matlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731197/how-to-return-a-vector-of-strings-or-chars-when-input-data-is-an-object-with-c"
+    },
+    {
+      "Created": "2025-08-10T12:01:51Z",
+      "Title": "How do I compile release CEF with sandbox support?",
+      "Tags": [
+        "chromium",
+        "sandbox",
+        "chromium-embedded"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731199/how-do-i-compile-release-cef-with-sandbox-support"
+    },
+    {
+      "Created": "2025-08-10T12:09:09Z",
+      "Title": "How to find Lyndon words among necklaces? (Or how to find the periodic necklaces?)",
+      "Tags": [
+        "python",
+        "necklaces"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731201/how-to-find-lyndon-words-among-necklaces-or-how-to-find-the-periodic-necklaces"
+    },
+    {
+      "Created": "2025-08-10T12:09:31Z",
+      "Title": "Missing file when installing a github repo with pip",
+      "Tags": [
+        "python",
+        "git",
+        "pip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731202/missing-file-when-installing-a-github-repo-with-pip"
+    }
+  ]
+}

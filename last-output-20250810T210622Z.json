@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-10T20:47:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T20:32:15Z",
+      "Title": "Semantics of POSIX path traversal",
+      "Tags": [
+        "linux",
+        "path",
+        "posix",
+        "symlink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731486/semantics-of-posix-path-traversal"
+    },
+    {
+      "Created": "2025-08-10T20:32:24Z",
+      "Title": "Issue adding default ruleset to Azure WAF Policy for Azure Front Door Premium",
+      "Tags": [
+        "azure-cli",
+        "azure-front-door",
+        "azure-waf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731487/issue-adding-default-ruleset-to-azure-waf-policy-for-azure-front-door-premium"
+    },
+    {
+      "Created": "2025-08-10T20:47:01Z",
+      "Title": "MS Graph 403 Error: \u0022not allowed access through RSC permission evaluation\u0022 on Teams Transcript with OnlineMeetingTranscript.Read.All",
+      "Tags": [
+        "azure",
+        "graph",
+        "microsoft-graph-api",
+        "azure-app-registration",
+        "transcription"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731493/ms-graph-403-error-not-allowed-access-through-rsc-permission-evaluation-on-te"
+    }
+  ]
+}

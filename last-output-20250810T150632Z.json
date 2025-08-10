@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-10T14:57:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T14:55:39Z",
+      "Title": "Semantic Kernel ignores provided arguments for template",
+      "Tags": [
+        "c#",
+        "openai-api",
+        "prompt",
+        "large-language-model",
+        "semantic-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731302/semantic-kernel-ignores-provided-arguments-for-template"
+    },
+    {
+      "Created": "2025-08-10T14:57:24Z",
+      "Title": "Segmentation fault while transforming float data to unsigned",
+      "Tags": [
+        "c",
+        "floating-point",
+        "segmentation-fault",
+        "ansi",
+        "unsigned-long-long-int"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731303/segmentation-fault-while-transforming-float-data-to-unsigned"
+    }
+  ]
+}

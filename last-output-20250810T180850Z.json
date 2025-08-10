@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-10T17:51:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T17:41:36Z",
+      "Title": "Simplest way to prevent \u0022RuntimeError: Event loop is closed\u0022 when using Flask",
+      "Tags": [
+        "python",
+        "flask",
+        "python-asyncio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731401/simplest-way-to-prevent-runtimeerror-event-loop-is-closed-when-using-flask"
+    },
+    {
+      "Created": "2025-08-10T17:51:17Z",
+      "Title": "a Glue Job Spark with tsfresh library to extract features",
+      "Tags": [
+        "pyspark",
+        "aws-glue",
+        "tsfresh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731408/a-glue-job-spark-with-tsfresh-library-to-extract-features"
+    }
+  ]
+}

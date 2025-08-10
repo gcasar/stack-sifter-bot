@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-10T05:59:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T05:43:11Z",
+      "Title": "Export PEM private key to DER with Delphi and OpenSSL",
+      "Tags": [
+        "delphi",
+        "encryption",
+        "openssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731018/export-pem-private-key-to-der-with-delphi-and-openssl"
+    },
+    {
+      "Created": "2025-08-10T05:59:48Z",
+      "Title": "Enccountering AADB2C90018 error when Azure B2C app registration created with terraform",
+      "Tags": [
+        "azure",
+        "terraform",
+        "azure-ad-b2c",
+        "azure-ad-graph-api",
+        "azure-app-registration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731022/enccountering-aadb2c90018-error-when-azure-b2c-app-registration-created-with-ter"
+    }
+  ]
+}

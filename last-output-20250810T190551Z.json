@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-10T19:03:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T18:32:56Z",
+      "Title": "Qt6 for android build error: undefined symbol: AudioCapture::unregisterBandsNumber(int)",
+      "Tags": [
+        "android",
+        "c\u002B\u002B",
+        "qt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731427/qt6-for-android-build-error-undefined-symbol-audiocaptureunregisterbandsnumb"
+    },
+    {
+      "Created": "2025-08-10T18:33:42Z",
+      "Title": "How can I show a picture (.png) in an email created in ms-access vba?",
+      "Tags": [
+        "vba",
+        "email",
+        "ms-access",
+        "outlook",
+        "signature"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731428/how-can-i-show-a-picture-png-in-an-email-created-in-ms-access-vba"
+    },
+    {
+      "Created": "2025-08-10T18:34:55Z",
+      "Title": "Threading is not improving performance",
+      "Tags": [
+        "c",
+        "multithreading",
+        "performance",
+        "optimization",
+        "openmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731431/threading-is-not-improving-performance"
+    },
+    {
+      "Created": "2025-08-10T18:39:12Z",
+      "Title": "What is explanation/fix for compiler\u0027s error when sorting types of tuple using decltype, lambdas and std::array?",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "language-lawyer",
+        "template-meta-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731435/what-is-explanation-fix-for-compilers-error-when-sorting-types-of-tuple-using-d"
+    },
+    {
+      "Created": "2025-08-10T18:58:02Z",
+      "Title": "Pi-Hole not working with Huawei router after configuring it and setting a propper DNS IP",
+      "Tags": [
+        "linux",
+        "ubuntu-server",
+        "pihole"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731440/pi-hole-not-working-with-huawei-router-after-configuring-it-and-setting-a-proppe"
+    },
+    {
+      "Created": "2025-08-10T19:03:55Z",
+      "Title": "Issue with displaying .jsp file on the web browser",
+      "Tags": [
+        "spring",
+        "spring-mvc",
+        "jsp",
+        "intellij-idea",
+        "tomcat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731444/issue-with-displaying-jsp-file-on-the-web-browser"
+    }
+  ]
+}

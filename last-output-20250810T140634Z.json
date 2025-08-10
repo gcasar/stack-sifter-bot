@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-10T14:00:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T13:21:38Z",
+      "Title": "Facing issues with Structs and malloc in an assignment question",
+      "Tags": [
+        "c",
+        "memory",
+        "struct",
+        "malloc",
+        "dynamic-memory-allocation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731243/facing-issues-with-structs-and-malloc-in-an-assignment-question"
+    },
+    {
+      "Created": "2025-08-10T13:34:12Z",
+      "Title": "Returning a variable only after a successful test in a list comprehension",
+      "Tags": [
+        "haskell",
+        "list-comprehension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731253/returning-a-variable-only-after-a-successful-test-in-a-list-comprehension"
+    },
+    {
+      "Created": "2025-08-10T13:44:16Z",
+      "Title": "How to send a communication notification locally, without Push server?",
+      "Tags": [
+        "ios",
+        "swift",
+        "unnotificationrequest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731258/how-to-send-a-communication-notification-locally-without-push-server"
+    },
+    {
+      "Created": "2025-08-10T13:49:18Z",
+      "Title": "Balanced parens -- O(n^2), but passing on hacker rank and leetcode",
+      "Tags": [
+        "algorithm",
+        "stack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731261/balanced-parens-on2-but-passing-on-hacker-rank-and-leetcode"
+    },
+    {
+      "Created": "2025-08-10T13:53:07Z",
+      "Title": "Can\u0027t display texture of 3d object in three - expo react native",
+      "Tags": [
+        "react-native",
+        "three.js",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731268/cant-display-texture-of-3d-object-in-three-expo-react-native"
+    },
+    {
+      "Created": "2025-08-10T13:54:54Z",
+      "Title": "Can\u0027t see cursor on steamdeck joystick",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "steam",
+        "steamos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731269/cant-see-cursor-on-steamdeck-joystick"
+    },
+    {
+      "Created": "2025-08-10T13:55:48Z",
+      "Title": "How to detect full focus loss in a custom multi-field editor in QStyledItemDelegate?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731270/how-to-detect-full-focus-loss-in-a-custom-multi-field-editor-in-qstyleditemdeleg"
+    },
+    {
+      "Created": "2025-08-10T14:00:12Z",
+      "Title": "How to close a Python TLS 1.3 socket cleanly (send close_notify) without unwrap()?",
+      "Tags": [
+        "openssl",
+        "tls1.3",
+        "python-3.13"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731271/how-to-close-a-python-tls-1-3-socket-cleanly-send-close-notify-without-unwrap"
+    }
+  ]
+}

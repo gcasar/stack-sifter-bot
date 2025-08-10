@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-10T00:29:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-09T23:12:38Z",
+      "Title": "Why is function not updating the object",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730912/why-is-function-not-updating-the-object"
+    },
+    {
+      "Created": "2025-08-09T23:38:56Z",
+      "Title": "certs in ddev/traefik/certs/ trigger \u0022good samaritan\u0022 unsolicited email from GitGuardian \u0022Generic Private Key\u0022",
+      "Tags": [
+        "github",
+        "key",
+        "traefik",
+        "private-key",
+        "ddev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730918/certs-in-ddev-traefik-certs-trigger-good-samaritan-unsolicited-email-from-git"
+    },
+    {
+      "Created": "2025-08-09T23:48:52Z",
+      "Title": "glmmTMB: resume where we left off",
+      "Tags": [
+        "r",
+        "mixed-models",
+        "glmmtmb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730920/glmmtmb-resume-where-we-left-off"
+    },
+    {
+      "Created": "2025-08-10T00:04:15Z",
+      "Title": "Issues with reading data from electric meter using esp32",
+      "Tags": [
+        "python",
+        "esp32",
+        "micropython",
+        "rs485",
+        "dlms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730926/issues-with-reading-data-from-electric-meter-using-esp32"
+    },
+    {
+      "Created": "2025-08-10T00:10:04Z",
+      "Title": "How to simulate faster human-like typing with Python (like pyautogui) without being detected as artificial input?",
+      "Tags": [
+        "javascript",
+        "python",
+        "anti-cheat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730930/how-to-simulate-faster-human-like-typing-with-python-like-pyautogui-without-be"
+    },
+    {
+      "Created": "2025-08-10T00:24:13Z",
+      "Title": "Plotting a parametric surface where the domain is non-rectangular",
+      "Tags": [
+        "matlab",
+        "matlab-figure",
+        "surface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730933/plotting-a-parametric-surface-where-the-domain-is-non-rectangular"
+    },
+    {
+      "Created": "2025-08-10T00:29:03Z",
+      "Title": "How to setup chroot and run static binary in c\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "linux",
+        "chroot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730936/how-to-setup-chroot-and-run-static-binary-in-c"
+    }
+  ]
+}

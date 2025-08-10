@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-10T01:29:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T01:27:33Z",
+      "Title": "Assertion and this keyword, nullptr",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730945/assertion-and-this-keyword-nullptr"
+    },
+    {
+      "Created": "2025-08-10T01:29:08Z",
+      "Title": "Issues with showing pop up for location permission in iOS",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter",
+        "dart",
+        "permissions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730946/issues-with-showing-pop-up-for-location-permission-in-ios"
+    }
+  ]
+}

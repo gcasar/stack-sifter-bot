@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-10T22:44:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T21:12:30Z",
+      "Title": "Designing a html-table with display:grid",
+      "Tags": [
+        "html",
+        "css",
+        "html-table",
+        "css-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731504/designing-a-html-table-with-displaygrid"
+    },
+    {
+      "Created": "2025-08-10T22:10:46Z",
+      "Title": "CS50 Speller Valgrind error: Jump or move depends on uninitialized value(s)",
+      "Tags": [
+        "c",
+        "valgrind",
+        "cs50"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731528/cs50-speller-valgrind-error-jump-or-move-depends-on-uninitialized-values"
+    },
+    {
+      "Created": "2025-08-10T22:26:44Z",
+      "Title": "Cannot use \u0060-fsanitize=address\u0060 with \u0060clang-22\u0060",
+      "Tags": [
+        "clang",
+        "linker-errors",
+        "address-sanitizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731543/cannot-use-fsanitize-address-with-clang-22"
+    },
+    {
+      "Created": "2025-08-10T22:41:05Z",
+      "Title": "Regular Expressions Negative Lookahead not working as expected",
+      "Tags": [
+        "regex",
+        "regex-look-ahead"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731549/regular-expressions-negative-lookahead-not-working-as-expected"
+    },
+    {
+      "Created": "2025-08-10T22:44:43Z",
+      "Title": "Can an rvalue be automatically cast to an lvalue of itself?",
+      "Tags": [
+        "c\u002B\u002B",
+        "casting",
+        "reference",
+        "rvalue",
+        "lvalue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731552/can-an-rvalue-be-automatically-cast-to-an-lvalue-of-itself"
+    }
+  ]
+}

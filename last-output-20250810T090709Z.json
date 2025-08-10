@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-10T09:03:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T08:41:53Z",
+      "Title": "What should I check If wireguard-install.sh is not working?",
+      "Tags": [
+        "wireguard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731094/what-should-i-check-if-wireguard-install-sh-is-not-working"
+    },
+    {
+      "Created": "2025-08-10T09:03:39Z",
+      "Title": "Pick best option from list based on score",
+      "Tags": [
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731108/pick-best-option-from-list-based-on-score"
+    },
+    {
+      "Created": "2025-08-10T09:03:39Z",
+      "Title": "Is there a better way to replace placeholders in DataTable (Reqnroll) with [StepArgumentTransformation]?",
+      "Tags": [
+        "c#",
+        "cucumber",
+        "reqnroll"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731107/is-there-a-better-way-to-replace-placeholders-in-datatable-reqnroll-with-step"
+    }
+  ]
+}

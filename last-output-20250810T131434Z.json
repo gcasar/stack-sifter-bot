@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-10T13:02:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T12:49:18Z",
+      "Title": "C# WPF strict MVVM: Basic TreeView SelectedItem ViewModel Problem",
+      "Tags": [
+        "c#",
+        "wpf",
+        "mvvm",
+        "treeview",
+        "viewmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731222/c-sharp-wpf-strict-mvvm-basic-treeview-selecteditem-viewmodel-problem"
+    },
+    {
+      "Created": "2025-08-10T12:57:55Z",
+      "Title": "Why is sorting a large array with single-threaded qsort faster than sorting two halves in parallel with it?",
+      "Tags": [
+        "c",
+        "sorting",
+        "parallel-processing",
+        "openmp",
+        "qsort"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731228/why-is-sorting-a-large-array-with-single-threaded-qsort-faster-than-sorting-two"
+    },
+    {
+      "Created": "2025-08-10T13:00:07Z",
+      "Title": "How to remove duplicate values that are NOT within a range from a MySQL table?",
+      "Tags": [
+        "mysql",
+        "duplicates",
+        "sql-delete"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731231/how-to-remove-duplicate-values-that-are-not-within-a-range-from-a-mysql-table"
+    },
+    {
+      "Created": "2025-08-10T13:02:53Z",
+      "Title": "STM32G0 \u002B PN532 (I2C) fails to wake from STOP mode via IRQ after multiple reads",
+      "Tags": [
+        "stm32",
+        "i2c",
+        "pn532"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731232/stm32g0-pn532-i2c-fails-to-wake-from-stop-mode-via-irq-after-multiple-reads"
+    }
+  ]
+}

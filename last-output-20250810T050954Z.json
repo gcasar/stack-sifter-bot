@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-10T05:01:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T04:57:01Z",
+      "Title": "what to do when changing redmine config/environments/xxx.rb",
+      "Tags": [
+        "configuration",
+        "redmine",
+        "passenger-apache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731000/what-to-do-when-changing-redmine-config-environments-xxx-rb"
+    },
+    {
+      "Created": "2025-08-10T05:01:10Z",
+      "Title": "ldd shows old linkage after patchelf",
+      "Tags": [
+        "ldd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731001/ldd-shows-old-linkage-after-patchelf"
+    }
+  ]
+}

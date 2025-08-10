@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-10T16:02:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T15:41:42Z",
+      "Title": "Read/write speed of large (128 MiB) slice depends on how this slice was allocated - why?",
+      "Tags": [
+        "go",
+        "memory",
+        "memory-management",
+        "allocation",
+        "memory-access"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731332/read-write-speed-of-large-128-mib-slice-depends-on-how-this-slice-was-allocate"
+    },
+    {
+      "Created": "2025-08-10T15:42:07Z",
+      "Title": "Self-hosted Sentry: Traces page is empty, but Discover shows transactions (Relay auth errors persist)",
+      "Tags": [
+        "docker",
+        "sentry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731333/self-hosted-sentry-traces-page-is-empty-but-discover-shows-transactions-relay"
+    },
+    {
+      "Created": "2025-08-10T15:42:43Z",
+      "Title": "Problem with nested loop logic and indentation in python",
+      "Tags": [
+        "python",
+        "for-loop",
+        "while-loop",
+        "nested-loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731334/problem-with-nested-loop-logic-and-indentation-in-python"
+    },
+    {
+      "Created": "2025-08-10T15:44:38Z",
+      "Title": "How to refresh items on a page without page refresh in Flask",
+      "Tags": [
+        "python",
+        "html",
+        "sqlite",
+        "flask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731335/how-to-refresh-items-on-a-page-without-page-refresh-in-flask"
+    },
+    {
+      "Created": "2025-08-10T15:52:55Z",
+      "Title": "Are initialized empty arrays allowed? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731339/are-initialized-empty-arrays-allowed"
+    },
+    {
+      "Created": "2025-08-10T16:02:25Z",
+      "Title": "go_router shows blank screen on first launch after fresh install, works fine afterwards error Multiple widgets used the same GlobalKey",
+      "Tags": [
+        "flutter",
+        "flutter-go-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731344/go-router-shows-blank-screen-on-first-launch-after-fresh-install-works-fine-aft"
+    }
+  ]
+}

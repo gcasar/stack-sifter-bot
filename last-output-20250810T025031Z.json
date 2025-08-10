@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-10T02:21:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T01:46:35Z",
+      "Title": "How to show timestamp only on Zsh prompt immediately after running a command, not before?",
+      "Tags": [
+        "shell",
+        "terminal",
+        "zsh",
+        "customization",
+        "prompt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730949/how-to-show-timestamp-only-on-zsh-prompt-immediately-after-running-a-command-no"
+    },
+    {
+      "Created": "2025-08-10T02:01:48Z",
+      "Title": "iOS swift BLE updateValue() without PeripheralManagerIsReady?",
+      "Tags": [
+        "ios",
+        "swift",
+        "bluetooth-lowenergy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730955/ios-swift-ble-updatevalue-without-peripheralmanagerisready"
+    },
+    {
+      "Created": "2025-08-10T02:04:34Z",
+      "Title": "Trying to figure out why df.replace() is not working in a Pandas DF",
+      "Tags": [
+        "python",
+        "pandas",
+        "replace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730956/trying-to-figure-out-why-df-replace-is-not-working-in-a-pandas-df"
+    },
+    {
+      "Created": "2025-08-10T02:10:49Z",
+      "Title": "why is this while loop on my password hash not returning sequential hash values?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730959/why-is-this-while-loop-on-my-password-hash-not-returning-sequential-hash-values"
+    },
+    {
+      "Created": "2025-08-10T02:21:55Z",
+      "Title": "With CsvHelper v33 I\u0027m a bit unsure how to quickly use it and capture any problems with the input CSV",
+      "Tags": [
+        ".net",
+        "csvhelper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730961/with-csvhelper-v33-im-a-bit-unsure-how-to-quickly-use-it-and-capture-any-proble"
+    }
+  ]
+}

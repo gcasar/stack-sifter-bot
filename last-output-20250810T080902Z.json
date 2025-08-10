@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-10T08:05:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T07:25:39Z",
+      "Title": "EF SqlQuery method with \u0022In\u0022 Clause Does Not Work with More Than One Parameters",
+      "Tags": [
+        "sql",
+        "oracle-database",
+        "entity-framework-core",
+        ".net-8.0",
+        "oracle19c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731052/ef-sqlquery-method-with-in-clause-does-not-work-with-more-than-one-parameters"
+    },
+    {
+      "Created": "2025-08-10T07:28:35Z",
+      "Title": "SAPUI5 ui.table checkbox in a column template problem",
+      "Tags": [
+        "javascript",
+        "xml",
+        "sapui5",
+        "sap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731055/sapui5-ui-table-checkbox-in-a-column-template-problem"
+    },
+    {
+      "Created": "2025-08-10T07:35:57Z",
+      "Title": "Cannot debug my website on macOs with Php Storm",
+      "Tags": [
+        "php",
+        "phpstorm",
+        "xdebug"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731059/cannot-debug-my-website-on-macos-with-php-storm"
+    },
+    {
+      "Created": "2025-08-10T07:48:13Z",
+      "Title": "Asciidoctor: How to center preface title",
+      "Tags": [
+        "asciidoc",
+        "asciidoctor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731062/asciidoctor-how-to-center-preface-title"
+    },
+    {
+      "Created": "2025-08-10T08:05:55Z",
+      "Title": "How to control folder and file arrangement in Visual Studio Code?",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731071/how-to-control-folder-and-file-arrangement-in-visual-studio-code"
+    }
+  ]
+}

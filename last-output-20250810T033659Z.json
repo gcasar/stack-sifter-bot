@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-10T03:20:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T02:55:16Z",
+      "Title": "How do you use just one folder from a repository as a submodule?",
+      "Tags": [
+        "git",
+        "github",
+        "git-submodules",
+        "python-packaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730975/how-do-you-use-just-one-folder-from-a-repository-as-a-submodule"
+    },
+    {
+      "Created": "2025-08-10T03:20:34Z",
+      "Title": "ironPDF TextHeaderFooter Center two lines",
+      "Tags": [
+        "c#",
+        "ironpdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79730980/ironpdf-textheaderfooter-center-two-lines"
+    }
+  ]
+}

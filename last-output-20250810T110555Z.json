@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-10T10:39:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T10:39:31Z",
+      "Title": "How to Implement a Type-Safe Theme-Aware Lottie Animation Toggle in React Native with Material UI? [closed]",
+      "Tags": [
+        "typescript",
+        "react-native",
+        "material-ui",
+        "lottie",
+        "theming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731160/how-to-implement-a-type-safe-theme-aware-lottie-animation-toggle-in-react-native"
+    }
+  ]
+}

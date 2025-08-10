@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-10T10:01:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T09:05:20Z",
+      "Title": "Can atomic operations of different sizes be mixed?",
+      "Tags": [
+        "c",
+        "cpu-architecture",
+        "atomic",
+        "hardware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731110/can-atomic-operations-of-different-sizes-be-mixed"
+    },
+    {
+      "Created": "2025-08-10T09:15:55Z",
+      "Title": "How to replace first 3 digits, then set a Point and then set a point all second digit?",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731116/how-to-replace-first-3-digits-then-set-a-point-and-then-set-a-point-all-second"
+    },
+    {
+      "Created": "2025-08-10T09:27:45Z",
+      "Title": "Vertical padding in Google Sheets tables",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script",
+        "google-sheets-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731119/vertical-padding-in-google-sheets-tables"
+    },
+    {
+      "Created": "2025-08-10T09:45:20Z",
+      "Title": "DaisyUI theme not applying, always shows default theme in Laravel \u002B Vite \u002B TailwindCSS",
+      "Tags": [
+        "javascript",
+        "laravel",
+        "tailwind-css",
+        "tailwind-css-4",
+        "daisyui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731128/daisyui-theme-not-applying-always-shows-default-theme-in-laravel-vite-tailw"
+    },
+    {
+      "Created": "2025-08-10T09:46:44Z",
+      "Title": "Problems with raising wireguard on different vps",
+      "Tags": [
+        "linux",
+        "debian",
+        "vps",
+        "wireguard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731133/problems-with-raising-wireguard-on-different-vps"
+    },
+    {
+      "Created": "2025-08-10T10:01:13Z",
+      "Title": "Does GCC 9.3.0 optimize the code incorrectly?",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "compiler-optimization",
+        "compiler-bug",
+        "int128"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731138/does-gcc-9-3-0-optimize-the-code-incorrectly"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-11T01:27:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T23:41:48Z",
+      "Title": "How to create a head-following anchor and place a sticky button at selected location in RealityKit (like JigSpace app)?",
+      "Tags": [
+        "swiftui",
+        "arkit",
+        "visionos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731570/how-to-create-a-head-following-anchor-and-place-a-sticky-button-at-selected-loca"
+    },
+    {
+      "Created": "2025-08-11T00:47:33Z",
+      "Title": "Framework bundle files displayed in red color in XCode, should I be worried?",
+      "Tags": [
+        "ios",
+        "swift",
+        "xcode",
+        "frameworks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731585/framework-bundle-files-displayed-in-red-color-in-xcode-should-i-be-worried"
+    },
+    {
+      "Created": "2025-08-11T00:48:25Z",
+      "Title": "Double fault when i enable interrupts (via sti)",
+      "Tags": [
+        "kernel",
+        "interrupt",
+        "osdev",
+        "zig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731586/double-fault-when-i-enable-interrupts-via-sti"
+    },
+    {
+      "Created": "2025-08-11T01:27:34Z",
+      "Title": "Why does my Django models.Manager return all objects on a relationship?",
+      "Tags": [
+        "python",
+        "django",
+        "foreign-keys"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731600/why-does-my-django-models-manager-return-all-objects-on-a-relationship"
+    }
+  ]
+}

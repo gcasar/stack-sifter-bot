@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-11T19:02:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T18:46:08Z",
+      "Title": "How to indicate that the selected DropdownMenuEntry is disabled",
+      "Tags": [
+        "flutter",
+        "drop-down-menu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732392/how-to-indicate-that-the-selected-dropdownmenuentry-is-disabled"
+    },
+    {
+      "Created": "2025-08-11T18:49:40Z",
+      "Title": "Clickhouse ENGINE = Kafka(), kafka_format = \u0027Parquet\u0027",
+      "Tags": [
+        "apache-kafka",
+        "parquet",
+        "clickhouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732395/clickhouse-engine-kafka-kafka-format-parquet"
+    },
+    {
+      "Created": "2025-08-11T18:51:14Z",
+      "Title": "My Website Gets Blocked Only When \u0022Family Plan\u0022 Is Enabled on FTTH Network \u2013 Why? [closed]",
+      "Tags": [
+        "flutter",
+        "network-programming",
+        "https",
+        "ip",
+        "hostinger"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732397/my-website-gets-blocked-only-when-family-plan-is-enabled-on-ftth-network-why"
+    },
+    {
+      "Created": "2025-08-11T18:58:10Z",
+      "Title": "3CX API Integration with node server",
+      "Tags": [
+        "node.js",
+        "web-applications",
+        "crm",
+        "3cx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732406/3cx-api-integration-with-node-server"
+    },
+    {
+      "Created": "2025-08-11T19:02:30Z",
+      "Title": "Visual Studio C\u002B\u002B/CLI, WinForms, Create a button that breaks a running function",
+      "Tags": [
+        "visual-studio",
+        "winforms",
+        "visual-c\u002B\u002B",
+        "c\u002B\u002B-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732409/visual-studio-c-cli-winforms-create-a-button-that-breaks-a-running-function"
+    }
+  ]
+}

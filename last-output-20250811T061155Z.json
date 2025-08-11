@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-11T06:07:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T05:33:28Z",
+      "Title": "Type \u0027{ children: Element; }\u0027 has no properties in common with type \u0027IntrinsicAttributes\u0027 On App.tsx",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731681/type-children-element-has-no-properties-in-common-with-type-intrinsicat"
+    },
+    {
+      "Created": "2025-08-11T05:43:58Z",
+      "Title": "Unsure how to create relationships between classes within python",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "class",
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731685/unsure-how-to-create-relationships-between-classes-within-python"
+    },
+    {
+      "Created": "2025-08-11T05:44:16Z",
+      "Title": "how to show ios like DatePicker in flutter like the one shown in journal app of apple",
+      "Tags": [
+        "ios",
+        "flutter",
+        "widget"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731686/how-to-show-ios-like-datepicker-in-flutter-like-the-one-shown-in-journal-app-of"
+    },
+    {
+      "Created": "2025-08-11T05:52:43Z",
+      "Title": "Custom fields in v-table in no longer work in Vuetify 3",
+      "Tags": [
+        "vuejs3",
+        "vuetifyjs3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731692/custom-fields-in-v-table-in-no-longer-work-in-vuetify-3"
+    },
+    {
+      "Created": "2025-08-11T06:07:11Z",
+      "Title": "Fix MQTT clientID on Kubernetes pod?",
+      "Tags": [
+        "kubernetes",
+        "mqtt",
+        "mosquitto",
+        "paho"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731698/fix-mqtt-clientid-on-kubernetes-pod"
+    }
+  ]
+}

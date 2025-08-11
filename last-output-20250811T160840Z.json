@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-11T15:56:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T15:49:20Z",
+      "Title": "Credential Manager fails to sign user with Google 2 times when launching app for first time",
+      "Tags": [
+        "android",
+        "google-identity",
+        "android-credential-manager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732238/credential-manager-fails-to-sign-user-with-google-2-times-when-launching-app-for"
+    },
+    {
+      "Created": "2025-08-11T15:55:12Z",
+      "Title": "How to avoid missing records when using Kafka Connect JDBC Source Connector in incrementing mode?",
+      "Tags": [
+        "mysql",
+        "apache-kafka",
+        "apache-kafka-connect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732245/how-to-avoid-missing-records-when-using-kafka-connect-jdbc-source-connector-in-i"
+    },
+    {
+      "Created": "2025-08-11T15:56:59Z",
+      "Title": "Working on snowflake badge 3 training for streamlit, getting snowflake connection error: No module named \u0027snowflake\u0027",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732246/working-on-snowflake-badge-3-training-for-streamlit-getting-snowflake-connectio"
+    }
+  ]
+}

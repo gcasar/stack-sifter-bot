@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-11T11:54:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T11:22:08Z",
+      "Title": "Duplicate issue when retrieving from multiple OUs in the report",
+      "Tags": [
+        "powershell",
+        "active-directory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731993/duplicate-issue-when-retrieving-from-multiple-ous-in-the-report"
+    },
+    {
+      "Created": "2025-08-11T11:42:53Z",
+      "Title": "Convert XML to JSON using xmltodict package",
+      "Tags": [
+        "python",
+        "xmltodict",
+        "xml-to-json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732011/convert-xml-to-json-using-xmltodict-package"
+    },
+    {
+      "Created": "2025-08-11T11:54:35Z",
+      "Title": "How do I connect to my own C server from another machine on same network?",
+      "Tags": [
+        "c",
+        "sockets",
+        "network-programming",
+        "unix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732016/how-do-i-connect-to-my-own-c-server-from-another-machine-on-same-network"
+    }
+  ]
+}

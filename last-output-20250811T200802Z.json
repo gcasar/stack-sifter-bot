@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-11T20:07:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T19:18:26Z",
+      "Title": "Making a nested list from a list of strings",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732418/making-a-nested-list-from-a-list-of-strings"
+    },
+    {
+      "Created": "2025-08-11T19:48:17Z",
+      "Title": "Answering Subarray H-index Queries Efficiently",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732449/answering-subarray-h-index-queries-efficiently"
+    },
+    {
+      "Created": "2025-08-11T19:52:56Z",
+      "Title": "Airflow in AWS: Executing hundreds of jobs from metastore based on their dependency throwing error while status update",
+      "Tags": [
+        "airflow",
+        "mwaa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732455/airflow-in-aws-executing-hundreds-of-jobs-from-metastore-based-on-their-depende"
+    },
+    {
+      "Created": "2025-08-11T19:53:33Z",
+      "Title": "How to get Redis keys by pattern using cache-manager and cache-manager-redis-store in NestJS?",
+      "Tags": [
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732457/how-to-get-redis-keys-by-pattern-using-cache-manager-and-cache-manager-redis-sto"
+    },
+    {
+      "Created": "2025-08-11T19:55:42Z",
+      "Title": "How to accurately calculate SSD health score using multiple SMART attributes? [closed]",
+      "Tags": [
+        "storage",
+        "health-monitoring",
+        "solid-state-drive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732461/how-to-accurately-calculate-ssd-health-score-using-multiple-smart-attributes"
+    },
+    {
+      "Created": "2025-08-11T20:07:16Z",
+      "Title": "How to create custom snippets using luasnip",
+      "Tags": [
+        "vim",
+        "lua",
+        "neovim",
+        "code-snippets",
+        "lazyvim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732472/how-to-create-custom-snippets-using-luasnip"
+    }
+  ]
+}

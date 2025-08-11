@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-11T21:50:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T21:13:21Z",
+      "Title": "Msmtp in cron script",
+      "Tags": [
+        "bash",
+        "email",
+        "cron",
+        "msmtp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732508/msmtp-in-cron-script"
+    },
+    {
+      "Created": "2025-08-11T21:20:40Z",
+      "Title": "Why void() redefines a function in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732512/why-void-redefines-a-function-in-c"
+    },
+    {
+      "Created": "2025-08-11T21:34:45Z",
+      "Title": "APS Design Automation result upload",
+      "Tags": [
+        "autodesk-forge",
+        "autodesk",
+        "autodesk-designautomation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732520/aps-design-automation-result-upload"
+    },
+    {
+      "Created": "2025-08-11T21:40:20Z",
+      "Title": "How to tell which C/C\u002B\u002B file is including a header that\u0027s causing compiler errors",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "header"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732523/how-to-tell-which-c-c-file-is-including-a-header-thats-causing-compiler-error"
+    },
+    {
+      "Created": "2025-08-11T21:49:06Z",
+      "Title": "std::basic_string_view with one template argument",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732529/stdbasic-string-view-with-one-template-argument"
+    },
+    {
+      "Created": "2025-08-11T21:50:01Z",
+      "Title": "WSL \u002B Docker - memory exhausted in PHP 8.3 container - hardware issue?",
+      "Tags": [
+        "windows",
+        "docker",
+        "symfony",
+        "windows-subsystem-for-linux",
+        "php-8.3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732530/wsl-docker-memory-exhausted-in-php-8-3-container-hardware-issue"
+    }
+  ]
+}

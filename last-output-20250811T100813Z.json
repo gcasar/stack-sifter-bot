@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-11T10:06:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T09:50:45Z",
+      "Title": "Run GitLab pipeline on protected branch only",
+      "Tags": [
+        "gitlab",
+        "gitlab-ci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731906/run-gitlab-pipeline-on-protected-branch-only"
+    },
+    {
+      "Created": "2025-08-11T09:53:24Z",
+      "Title": "Type hinting using class attributes",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731908/type-hinting-using-class-attributes"
+    },
+    {
+      "Created": "2025-08-11T10:06:18Z",
+      "Title": "Typescript: variable and composited key return type",
+      "Tags": [
+        "typescript",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731925/typescript-variable-and-composited-key-return-type"
+    }
+  ]
+}

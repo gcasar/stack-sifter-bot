@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-11T08:06:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T07:46:14Z",
+      "Title": "No buttons (or other interactive elements) work when I use a data-bound object",
+      "Tags": [
+        "asp.net",
+        "blazor",
+        "asp.net-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731787/no-buttons-or-other-interactive-elements-work-when-i-use-a-data-bound-object"
+    },
+    {
+      "Created": "2025-08-11T07:47:52Z",
+      "Title": "How can we get the type of an object?",
+      "Tags": [
+        "mql5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731789/how-can-we-get-the-type-of-an-object"
+    },
+    {
+      "Created": "2025-08-11T07:52:26Z",
+      "Title": "How to correctly route a final ACK to a backend server with OpenSIPS load_balancer and rtpproxy?",
+      "Tags": [
+        "proxy",
+        "sip",
+        "sip-server",
+        "opensips"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731790/how-to-correctly-route-a-final-ack-to-a-backend-server-with-opensips-load-balanc"
+    },
+    {
+      "Created": "2025-08-11T08:05:19Z",
+      "Title": "html/colors: how found color for inverted multiply",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "rgba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731800/html-colors-how-found-color-for-inverted-multiply"
+    },
+    {
+      "Created": "2025-08-11T08:06:35Z",
+      "Title": "SDL Fragment Uniform Data Seemingly not Transfering",
+      "Tags": [
+        "gpu",
+        "sdl",
+        "hlsl",
+        "fragment-shader",
+        "sdl-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731802/sdl-fragment-uniform-data-seemingly-not-transfering"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-10T23:04:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-10T23:04:30Z",
+      "Title": "Why does NumPy\u2019s linspace include the endpoint by default, and how does it affect FFT frequency bins?",
+      "Tags": [
+        "arrays",
+        "numpy",
+        "fft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731561/why-does-numpy-s-linspace-include-the-endpoint-by-default-and-how-does-it-affec"
+    }
+  ]
+}

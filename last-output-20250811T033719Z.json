@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-11T03:33:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T03:09:08Z",
+      "Title": "How to pass a string as a pointer to byte array from a managed code to an unmanaged function",
+      "Tags": [
+        "vb.net",
+        "winapi",
+        "marshalling",
+        "com-interop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731629/how-to-pass-a-string-as-a-pointer-to-byte-array-from-a-managed-code-to-an-unmana"
+    },
+    {
+      "Created": "2025-08-11T03:09:50Z",
+      "Title": "Slurm: salloc gets allocated then fails immediately with ExitCode=1:0 (Start=End same second), while equivalent sbatch works",
+      "Tags": [
+        "slurm",
+        "hpc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731630/slurm-salloc-gets-allocated-then-fails-immediately-with-exitcode-10-start-end"
+    },
+    {
+      "Created": "2025-08-11T03:32:35Z",
+      "Title": "Windows 11 How do I read data from a USB device\u003E",
+      "Tags": [
+        "python",
+        "windows",
+        "usb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731636/windows-11-how-do-i-read-data-from-a-usb-device"
+    },
+    {
+      "Created": "2025-08-11T03:33:23Z",
+      "Title": "C Shallow copy of struct with char pointer",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731637/c-shallow-copy-of-struct-with-char-pointer"
+    }
+  ]
+}

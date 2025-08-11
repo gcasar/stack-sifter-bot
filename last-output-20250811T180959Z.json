@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-11T17:59:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T17:53:59Z",
+      "Title": "subtract values from following rows, and calculate percent change",
+      "Tags": [
+        "r",
+        "dplyr",
+        "percentage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732348/subtract-values-from-following-rows-and-calculate-percent-change"
+    },
+    {
+      "Created": "2025-08-11T17:59:29Z",
+      "Title": "How can I add a filter section to the Release Production Orders?",
+      "Tags": [
+        "acumatica",
+        "acumatica-kb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732352/how-can-i-add-a-filter-section-to-the-release-production-orders"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-11T23:06:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T22:22:29Z",
+      "Title": "\u0022SyntaxError: Unexpected token \u0027export\u0027\u0022 when running ts-node",
+      "Tags": [
+        "typescript",
+        "npm",
+        "homebrew",
+        "ts-node"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732545/syntaxerror-unexpected-token-export-when-running-ts-node"
+    },
+    {
+      "Created": "2025-08-11T22:39:52Z",
+      "Title": "Searching for documents in elasticsearch where one field is duplicated while another is not?",
+      "Tags": [
+        "elasticsearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732552/searching-for-documents-in-elasticsearch-where-one-field-is-duplicated-while-ano"
+    },
+    {
+      "Created": "2025-08-11T22:47:54Z",
+      "Title": "Dockview \u002B React: \u0022Cannot read properties of null (reading \u0027update\u0027)\u0022 when closing all panels with leftHeader/rightHeader",
+      "Tags": [
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732554/dockview-react-cannot-read-properties-of-null-reading-update-when-closi"
+    },
+    {
+      "Created": "2025-08-11T22:54:27Z",
+      "Title": "Can\u0027t Build OMPL for MinGW on Windows (Boost, Eigen Installed)",
+      "Tags": [
+        "windows",
+        "mingw",
+        "ompl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732560/cant-build-ompl-for-mingw-on-windows-boost-eigen-installed"
+    },
+    {
+      "Created": "2025-08-11T22:55:34Z",
+      "Title": "How do I Prevent a PrimeNG CascadeSelect from Overflowing the Side of the Screen?",
+      "Tags": [
+        "html",
+        "css",
+        "typescript",
+        "primeng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732561/how-do-i-prevent-a-primeng-cascadeselect-from-overflowing-the-side-of-the-screen"
+    },
+    {
+      "Created": "2025-08-11T23:01:19Z",
+      "Title": "Copy pasting Excel range to Outlook email - GetInspector Error",
+      "Tags": [
+        "python",
+        "pywin32",
+        "win32com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732562/copy-pasting-excel-range-to-outlook-email-getinspector-error"
+    },
+    {
+      "Created": "2025-08-11T23:04:40Z",
+      "Title": "Android Auto app not appearing in DHU despite correct manifest and automotive_app_desc setup",
+      "Tags": [
+        "java",
+        "android",
+        "android-auto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732564/android-auto-app-not-appearing-in-dhu-despite-correct-manifest-and-automotive-ap"
+    },
+    {
+      "Created": "2025-08-11T23:05:44Z",
+      "Title": "Find only XPath-entries without any prefix by regular expression",
+      "Tags": [
+        "regex",
+        "xpath",
+        "prefix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732565/find-only-xpath-entries-without-any-prefix-by-regular-expression"
+    },
+    {
+      "Created": "2025-08-11T23:06:47Z",
+      "Title": "Unexpected message about \u0022decreasing argument of fix\u0022",
+      "Tags": [
+        "rocq-prover"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732567/unexpected-message-about-decreasing-argument-of-fix"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-11T10:59:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T10:43:35Z",
+      "Title": "How to get full React error messages instead of minified errors when using Turbo build system?",
+      "Tags": [
+        "reactjs",
+        "vite",
+        "jupyter-lab",
+        "monorepo",
+        "turbo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731952/how-to-get-full-react-error-messages-instead-of-minified-errors-when-using-turbo"
+    },
+    {
+      "Created": "2025-08-11T10:52:33Z",
+      "Title": "Python logging MemoryHandler leaks memory?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "logging",
+        "memory",
+        "memory-leaks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731961/python-logging-memoryhandler-leaks-memory"
+    },
+    {
+      "Created": "2025-08-11T10:54:49Z",
+      "Title": "Spring Boot WebClient: Refeshing Access Token when 401 error is thrown. Security Context in the External call is Null",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "spring-webclient",
+        "spring-retry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731967/spring-boot-webclient-refeshing-access-token-when-401-error-is-thrown-security"
+    },
+    {
+      "Created": "2025-08-11T10:59:06Z",
+      "Title": "UICollectionView deleteItems(at:) called multiple times causes crash: Invalid Batch Updates",
+      "Tags": [
+        "ios",
+        "swift",
+        "uicollectionview",
+        "uicollectionviewcell",
+        "uicollectionviewlayout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731970/uicollectionview-deleteitemsat-called-multiple-times-causes-crash-invalid-ba"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-11T04:20:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T04:07:24Z",
+      "Title": "Repeated/Missing data in I2C transmission from MSP430FR5972 (slave) to Arduino Uno (master)",
+      "Tags": [
+        "c",
+        "arduino-uno",
+        "i2c",
+        "msp430"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731648/repeated-missing-data-in-i2c-transmission-from-msp430fr5972-slave-to-arduino-u"
+    },
+    {
+      "Created": "2025-08-11T04:10:55Z",
+      "Title": "Most simple spring java annotation program - method getBean(String) in the type BeanFactory is not applicable for the arguments",
+      "Tags": [
+        "spring",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731652/most-simple-spring-java-annotation-program-method-getbeanstring-in-the-type"
+    },
+    {
+      "Created": "2025-08-11T04:20:43Z",
+      "Title": "React Native RefreshControl renders behind ScrollView content on ios",
+      "Tags": [
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731655/react-native-refreshcontrol-renders-behind-scrollview-content-on-ios"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-11T15:03:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T14:31:03Z",
+      "Title": "Using strings as type-safe id keys",
+      "Tags": [
+        "arrays",
+        "typescript",
+        "enums",
+        "typeof"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732161/using-strings-as-type-safe-id-keys"
+    },
+    {
+      "Created": "2025-08-11T14:50:17Z",
+      "Title": "What is the appropriate terra-based method to summarize the difference between rasters with different spatial extents?",
+      "Tags": [
+        "r",
+        "raster",
+        "difference",
+        "terra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732181/what-is-the-appropriate-terra-based-method-to-summarize-the-difference-between-r"
+    },
+    {
+      "Created": "2025-08-11T14:50:40Z",
+      "Title": "Overlapping body with flexible header (like SliverAppBar) but scroll bounce/stretch not working",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732183/overlapping-body-with-flexible-header-like-sliverappbar-but-scroll-bounce-stre"
+    },
+    {
+      "Created": "2025-08-11T14:54:17Z",
+      "Title": "Best way to start debugging in a multi-project workspace with individual tasks and launch configs",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732184/best-way-to-start-debugging-in-a-multi-project-workspace-with-individual-tasks-a"
+    },
+    {
+      "Created": "2025-08-11T15:03:00Z",
+      "Title": "How to conbine between argo workflow and gitops",
+      "Tags": [
+        "github",
+        "github-actions",
+        "argo-workflows",
+        "gitops",
+        "argo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732189/how-to-conbine-between-argo-workflow-and-gitops"
+    }
+  ]
+}

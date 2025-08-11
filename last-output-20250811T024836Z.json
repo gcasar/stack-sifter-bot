@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-11T02:47:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T02:04:39Z",
+      "Title": "Basic langchain example throwing agent_scratchpad should be a list of base messages, got of type \u003Cclass \u0027str\u0027\u003E",
+      "Tags": [
+        "langchain",
+        "py-langchain",
+        "langchain-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731614/basic-langchain-example-throwing-agent-scratchpad-should-be-a-list-of-base-messa"
+    },
+    {
+      "Created": "2025-08-11T02:06:32Z",
+      "Title": "ElasticMq : Create queues on startup and persist data",
+      "Tags": [
+        "elastic-mq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731615/elasticmq-create-queues-on-startup-and-persist-data"
+    },
+    {
+      "Created": "2025-08-11T02:38:05Z",
+      "Title": "MUI DateTimePicker Color Styling",
+      "Tags": [
+        "reactjs",
+        "material-ui",
+        "mui-x-date-picker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731619/mui-datetimepicker-color-styling"
+    },
+    {
+      "Created": "2025-08-11T02:47:13Z",
+      "Title": "Is there a way to name the root crate/module name of libraries?",
+      "Tags": [
+        "rust",
+        "rust-cargo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731622/is-there-a-way-to-name-the-root-crate-module-name-of-libraries"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-11T13:17:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T13:13:21Z",
+      "Title": "Why does CURL return bad timing results when process is forked (in PHP)?",
+      "Tags": [
+        "php",
+        "fork",
+        "php-curl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732088/why-does-curl-return-bad-timing-results-when-process-is-forked-in-php"
+    },
+    {
+      "Created": "2025-08-11T13:16:48Z",
+      "Title": "Getting \u0022Permission denied (publickey)\u0022 error when connecting to GitHub via SSH on Windows",
+      "Tags": [
+        "git",
+        "github",
+        "ssh",
+        "agent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732089/getting-permission-denied-publickey-error-when-connecting-to-github-via-ssh"
+    },
+    {
+      "Created": "2025-08-11T13:17:47Z",
+      "Title": "What is Python greater than?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732090/what-is-python-greater-than"
+    }
+  ]
+}

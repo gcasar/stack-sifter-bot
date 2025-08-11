@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-11T17:05:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T16:25:54Z",
+      "Title": "Why do these boxes appear in the Eclipse Java editor?",
+      "Tags": [
+        "java",
+        "eclipse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732264/why-do-these-boxes-appear-in-the-eclipse-java-editor"
+    },
+    {
+      "Created": "2025-08-11T16:51:23Z",
+      "Title": "Can I decrease the numeric precision of scikit-learn\u0027s predict_proba() method?",
+      "Tags": [
+        "python",
+        "numpy",
+        "performance",
+        "scikit-learn",
+        "runtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732292/can-i-decrease-the-numeric-precision-of-scikit-learns-predict-proba-method"
+    },
+    {
+      "Created": "2025-08-11T16:55:00Z",
+      "Title": "What\u2019s the correct way to simulate a mouse click without affecting the physical mouse in Windows?",
+      "Tags": [
+        "c#",
+        "c",
+        "hid",
+        "windows-kernel",
+        "kmdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732295/what-s-the-correct-way-to-simulate-a-mouse-click-without-affecting-the-physical"
+    },
+    {
+      "Created": "2025-08-11T16:58:36Z",
+      "Title": "data class marked with ConfigurationProperties is not loaded in SpringBootTest",
+      "Tags": [
+        "spring-boot",
+        "kotlin",
+        "properties",
+        "spring-test",
+        "application.properties"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732298/data-class-marked-with-configurationproperties-is-not-loaded-in-springboottest"
+    },
+    {
+      "Created": "2025-08-11T16:58:41Z",
+      "Title": "How to check if a file/folder with a particular case-sensitive name exists in a particular directory",
+      "Tags": [
+        "flutter",
+        "dart",
+        "cross-platform",
+        "file-rename",
+        "batch-rename"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732299/how-to-check-if-a-file-folder-with-a-particular-case-sensitive-name-exists-in-a"
+    },
+    {
+      "Created": "2025-08-11T17:03:10Z",
+      "Title": "jQuery.trim() deprecated, but suggested replacement isn\u0027t the same?",
+      "Tags": [
+        "javascript",
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732301/jquery-trim-deprecated-but-suggested-replacement-isnt-the-same"
+    },
+    {
+      "Created": "2025-08-11T17:04:58Z",
+      "Title": "ELF32 Linux application crashes in CentOS but not Ubuntu?",
+      "Tags": [
+        "linux",
+        "glibc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732306/elf32-linux-application-crashes-in-centos-but-not-ubuntu"
+    },
+    {
+      "Created": "2025-08-11T17:05:43Z",
+      "Title": "Jetbrains PhpStorm - How to tell JetBrains to inspect required PHP files",
+      "Tags": [
+        "php",
+        "phpstorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732308/jetbrains-phpstorm-how-to-tell-jetbrains-to-inspect-required-php-files"
+    }
+  ]
+}

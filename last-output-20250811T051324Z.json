@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-11T04:42:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T04:25:50Z",
+      "Title": "AWS IoT Fleet Provisioning Template Issue: Missing PrincipalThingAttachment",
+      "Tags": [
+        "aws-iot",
+        "aws-iot-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731660/aws-iot-fleet-provisioning-template-issue-missing-principalthingattachment"
+    },
+    {
+      "Created": "2025-08-11T04:33:00Z",
+      "Title": "Autodesk Platform Services 3-legged OAuth Authorisation Code",
+      "Tags": [
+        "oauth",
+        "autodesk-forge",
+        "autodesk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731662/autodesk-platform-services-3-legged-oauth-authorisation-code"
+    },
+    {
+      "Created": "2025-08-11T04:42:57Z",
+      "Title": "Drools - KieServices.Factory.get() returns null when used in Azure containers or Linux?",
+      "Tags": [
+        "drools",
+        "kie"
+      ],
+      "Url": "https://stackoverflow.com/questions/79731663/drools-kieservices-factory-get-returns-null-when-used-in-azure-containers-or"
+    }
+  ]
+}

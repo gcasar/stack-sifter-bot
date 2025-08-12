@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-12T12:08:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T11:12:23Z",
+      "Title": "Validating admin form data of a ManyToManyField in Django",
+      "Tags": [
+        "python-3.x",
+        "django-models",
+        "django-validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733067/validating-admin-form-data-of-a-manytomanyfield-in-django"
+    },
+    {
+      "Created": "2025-08-12T11:25:34Z",
+      "Title": "Insert date and time into last record",
+      "Tags": [
+        "sql",
+        "vba",
+        "ms-access"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733084/insert-date-and-time-into-last-record"
+    },
+    {
+      "Created": "2025-08-12T11:41:32Z",
+      "Title": "Why Haskell Fails to Create a Builder Instance from Text",
+      "Tags": [
+        "haskell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733118/why-haskell-fails-to-create-a-builder-instance-from-text"
+    },
+    {
+      "Created": "2025-08-12T11:55:24Z",
+      "Title": "Cannot pickle weakref error in the multiprocessing in a class in Python",
+      "Tags": [
+        "python",
+        "multiprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733137/cannot-pickle-weakref-error-in-the-multiprocessing-in-a-class-in-python"
+    },
+    {
+      "Created": "2025-08-12T12:05:24Z",
+      "Title": "How to format x,y coords in plotnine",
+      "Tags": [
+        "python",
+        "plotnine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733150/how-to-format-x-y-coords-in-plotnine"
+    },
+    {
+      "Created": "2025-08-12T12:08:21Z",
+      "Title": "How to stop Spring Boot form login where not needed",
+      "Tags": [
+        "java",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733154/how-to-stop-spring-boot-form-login-where-not-needed"
+    }
+  ]
+}

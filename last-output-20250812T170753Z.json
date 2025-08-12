@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-12T16:56:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T16:47:15Z",
+      "Title": "How to specify an app_offline template when using IISWebAppDeploymentOnMachineGroup?",
+      "Tags": [
+        "iis",
+        "azure-pipelines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733453/how-to-specify-an-app-offline-template-when-using-iiswebappdeploymentonmachinegr"
+    },
+    {
+      "Created": "2025-08-12T16:56:14Z",
+      "Title": "Can\u0027t parse a valid ISO 8601 datetime string pulled from CSV",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "python-dateutil",
+        "isodate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733457/cant-parse-a-valid-iso-8601-datetime-string-pulled-from-csv"
+    }
+  ]
+}

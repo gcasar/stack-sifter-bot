@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-12T08:49:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T08:33:29Z",
+      "Title": "Why is there an increase in APK size after upgrading to AGP 8.8.1 and Kotlin 2.0, and why is the androidx.compose.** package not being obfuscated?",
+      "Tags": [
+        "java",
+        "android",
+        "kotlin",
+        "android-studio",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732885/why-is-there-an-increase-in-apk-size-after-upgrading-to-agp-8-8-1-and-kotlin-2-0"
+    },
+    {
+      "Created": "2025-08-12T08:37:44Z",
+      "Title": "Best way to modify Nagios object definitions files?",
+      "Tags": [
+        "ansible",
+        "nagios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732891/best-way-to-modify-nagios-object-definitions-files"
+    },
+    {
+      "Created": "2025-08-12T08:41:28Z",
+      "Title": "Couldn\u0027t solve this gravity simulation problem",
+      "Tags": [
+        "python",
+        "matrix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732897/couldnt-solve-this-gravity-simulation-problem"
+    },
+    {
+      "Created": "2025-08-12T08:49:38Z",
+      "Title": "Hot Chocolate GraphQL Subscription Provider RabbitMQ not connecting",
+      "Tags": [
+        "rabbitmq",
+        "publish-subscribe",
+        "subscription",
+        "hotchocolate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732905/hot-chocolate-graphql-subscription-provider-rabbitmq-not-connecting"
+    }
+  ]
+}

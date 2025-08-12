@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-12T02:14:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T02:02:52Z",
+      "Title": "Class parameters in variant type",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732637/class-parameters-in-variant-type"
+    },
+    {
+      "Created": "2025-08-12T02:14:39Z",
+      "Title": "Find first bit set within an AVX 512 register",
+      "Tags": [
+        "c\u002B\u002B",
+        "performance",
+        "optimization",
+        "x86"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732646/find-first-bit-set-within-an-avx-512-register"
+    }
+  ]
+}

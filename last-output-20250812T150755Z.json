@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-12T15:06:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T14:40:29Z",
+      "Title": "Access to local variable via a raw pointer",
+      "Tags": [
+        "rust",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733336/access-to-local-variable-via-a-raw-pointer"
+    },
+    {
+      "Created": "2025-08-12T14:44:25Z",
+      "Title": "MongoRepository bean not found when repository is in external JAR dependency",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "dependency-injection",
+        "microservices"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733339/mongorepository-bean-not-found-when-repository-is-in-external-jar-dependency"
+    },
+    {
+      "Created": "2025-08-12T14:55:18Z",
+      "Title": "What is the actual implementation of delphi helpers?",
+      "Tags": [
+        "class",
+        "delphi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733354/what-is-the-actual-implementation-of-delphi-helpers"
+    },
+    {
+      "Created": "2025-08-12T14:55:55Z",
+      "Title": "How can we extend our Repair class to include TireReplacement, TireRepair, RimReplacement, and RimRepair",
+      "Tags": [
+        "c#",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733356/how-can-we-extend-our-repair-class-to-include-tirereplacement-tirerepair-rimre"
+    },
+    {
+      "Created": "2025-08-12T15:06:41Z",
+      "Title": "rpy2 on Windows prints \u201CError importing in API mode \u2026 only ABI\u201D \u2014 how to force ABI mode and suppress the message across Flask and pytest?",
+      "Tags": [
+        "python",
+        "windows",
+        "flask",
+        "rpy2",
+        "cffi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733367/rpy2-on-windows-prints-error-importing-in-api-mode-only-abi-how-to-force-a"
+    }
+  ]
+}

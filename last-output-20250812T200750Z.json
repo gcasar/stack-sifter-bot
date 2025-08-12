@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-12T20:04:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T19:12:43Z",
+      "Title": "Entra External Id Access Tokens issued from the wrong endpoint",
+      "Tags": [
+        "microsoft-entra-id",
+        "microsoft-entra-external-id",
+        "azure-entra-id"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733585/entra-external-id-access-tokens-issued-from-the-wrong-endpoint"
+    },
+    {
+      "Created": "2025-08-12T19:39:18Z",
+      "Title": "Dynamically create .NET buttons, with button pressed return it\u0027s name, or other unique identifier",
+      "Tags": [
+        ".net",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733606/dynamically-create-net-buttons-with-button-pressed-return-its-name-or-other"
+    },
+    {
+      "Created": "2025-08-12T19:57:49Z",
+      "Title": "PDFSharp and Edge 137 - 138",
+      "Tags": [
+        "c#",
+        "pdfsharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733619/pdfsharp-and-edge-137-138"
+    },
+    {
+      "Created": "2025-08-12T20:04:53Z",
+      "Title": "How to avoid writing the same try catch in every method",
+      "Tags": [
+        "java",
+        "exception",
+        "design-patterns",
+        "fault-tolerance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733622/how-to-avoid-writing-the-same-try-catch-in-every-method"
+    }
+  ]
+}

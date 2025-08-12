@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-12T03:08:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T03:01:01Z",
+      "Title": "How to install NONMEM on Mac",
+      "Tags": [
+        "macos",
+        "gcc",
+        "gfortran"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732663/how-to-install-nonmem-on-mac"
+    },
+    {
+      "Created": "2025-08-12T03:08:55Z",
+      "Title": "CultureInfo.CurrentUICulture is always default language - how to detect browser language",
+      "Tags": [
+        "blazor",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732665/cultureinfo-currentuiculture-is-always-default-language-how-to-detect-browser"
+    }
+  ]
+}

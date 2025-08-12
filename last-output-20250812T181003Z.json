@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-12T18:02:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T17:35:28Z",
+      "Title": "Pods Not Being Evicted From AKS Cluster",
+      "Tags": [
+        "azure",
+        "kubernetes",
+        "azure-aks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733498/pods-not-being-evicted-from-aks-cluster"
+    },
+    {
+      "Created": "2025-08-12T17:50:14Z",
+      "Title": "How to Interface with SharePoint using Python when your login requires a certificate (CAC/PIV Card)",
+      "Tags": [
+        "python",
+        "sharepoint",
+        "smartcard",
+        "cac"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733511/how-to-interface-with-sharepoint-using-python-when-your-login-requires-a-certifi"
+    },
+    {
+      "Created": "2025-08-12T17:50:18Z",
+      "Title": "How to improve the visual appearance of an Android Auto screen for a simple app?",
+      "Tags": [
+        "java",
+        "android-auto",
+        "ui-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733512/how-to-improve-the-visual-appearance-of-an-android-auto-screen-for-a-simple-app"
+    },
+    {
+      "Created": "2025-08-12T18:01:26Z",
+      "Title": "DX11 GPU memory leak on OpenSharedResource",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi",
+        "directx",
+        "directx-11",
+        "dwm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733516/dx11-gpu-memory-leak-on-opensharedresource"
+    },
+    {
+      "Created": "2025-08-12T18:02:38Z",
+      "Title": "How do i properly invalidated and clear in caffeine cache",
+      "Tags": [
+        "java",
+        "caching",
+        "caffeine-cache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733518/how-do-i-properly-invalidated-and-clear-in-caffeine-cache"
+    }
+  ]
+}

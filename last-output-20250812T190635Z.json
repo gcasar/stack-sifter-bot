@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-12T19:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T18:54:54Z",
+      "Title": "Login works but profile icon does not update after redirect",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "deployment",
+        "session-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733565/login-works-but-profile-icon-does-not-update-after-redirect"
+    },
+    {
+      "Created": "2025-08-12T18:57:09Z",
+      "Title": "Casting int to enum, what happens if enum value does not exist",
+      "Tags": [
+        "twincat",
+        "codesys",
+        "structured-text"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733567/casting-int-to-enum-what-happens-if-enum-value-does-not-exist"
+    },
+    {
+      "Created": "2025-08-12T18:57:31Z",
+      "Title": "jq resursive search for array with matching value",
+      "Tags": [
+        "json",
+        "jq",
+        "i3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733568/jq-resursive-search-for-array-with-matching-value"
+    },
+    {
+      "Created": "2025-08-12T19:02:47Z",
+      "Title": "Firebase Hosting custom subdomain via .web.app CNAME works on most networks but fails on specific corporate Wi-Fi",
+      "Tags": [
+        "firebase",
+        "dns",
+        "firebase-hosting",
+        "cname",
+        "custom-domain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733572/firebase-hosting-custom-subdomain-via-web-app-cname-works-on-most-networks-but"
+    }
+  ]
+}

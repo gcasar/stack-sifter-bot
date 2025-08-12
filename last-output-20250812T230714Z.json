@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-12T23:04:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T22:55:03Z",
+      "Title": "How to handle customer.subscription.created if a organization(tenant) doesn\u2019t exist yet in Stripe webhook?",
+      "Tags": [
+        "python-3.x",
+        "django",
+        "django-rest-framework",
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733710/how-to-handle-customer-subscription-created-if-a-organizationtenant-doesn-t-ex"
+    },
+    {
+      "Created": "2025-08-12T23:04:41Z",
+      "Title": "DBT is failing to connect to redshift database despite proper credentials",
+      "Tags": [
+        "sql",
+        "amazon-redshift",
+        "dbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733719/dbt-is-failing-to-connect-to-redshift-database-despite-proper-credentials"
+    }
+  ]
+}

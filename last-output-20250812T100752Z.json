@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-12T10:03:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T09:36:51Z",
+      "Title": "Credit card validator program in python , loop",
+      "Tags": [
+        "python",
+        "loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732958/credit-card-validator-program-in-python-loop"
+    },
+    {
+      "Created": "2025-08-12T09:40:57Z",
+      "Title": "How to query a JSON column by a nested key?",
+      "Tags": [
+        "java",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732966/how-to-query-a-json-column-by-a-nested-key"
+    },
+    {
+      "Created": "2025-08-12T09:49:10Z",
+      "Title": "Using Stripe for Subscription Management but Collecting Payment via third party with backend as adapter",
+      "Tags": [
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732978/using-stripe-for-subscription-management-but-collecting-payment-via-third-party"
+    },
+    {
+      "Created": "2025-08-12T10:03:04Z",
+      "Title": "Why does the Linux kernel use initcalls instead of calling init functions directly?",
+      "Tags": [
+        "linux-kernel",
+        "boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732991/why-does-the-linux-kernel-use-initcalls-instead-of-calling-init-functions-direct"
+    },
+    {
+      "Created": "2025-08-12T10:03:45Z",
+      "Title": ".gif Compose Multiplatform (Android \u0026 iOS)",
+      "Tags": [
+        "kotlin",
+        "gif",
+        "jetbrains-ide",
+        "compose-multiplatform",
+        "compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732992/gif-compose-multiplatform-android-ios"
+    },
+    {
+      "Created": "2025-08-12T10:03:51Z",
+      "Title": "Is there a better way to simulate work in unit tests?",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "garbage-collection",
+        "nunit",
+        "simulation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732993/is-there-a-better-way-to-simulate-work-in-unit-tests"
+    }
+  ]
+}

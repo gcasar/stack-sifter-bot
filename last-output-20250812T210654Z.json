@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-12T20:58:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T20:39:53Z",
+      "Title": "Headers from SQL not showing up in text file from batch file creation",
+      "Tags": [
+        "sqlcmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733644/headers-from-sql-not-showing-up-in-text-file-from-batch-file-creation"
+    },
+    {
+      "Created": "2025-08-12T20:47:51Z",
+      "Title": "Compose Autofill Works Strange",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "autofill"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733652/compose-autofill-works-strange"
+    },
+    {
+      "Created": "2025-08-12T20:48:38Z",
+      "Title": "How to make the where statement in an SQL Union All Query Dynamic",
+      "Tags": [
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733654/how-to-make-the-where-statement-in-an-sql-union-all-query-dynamic"
+    },
+    {
+      "Created": "2025-08-12T20:58:27Z",
+      "Title": "micrometer tracing exporter autoconfiguration",
+      "Tags": [
+        "spring-boot",
+        "spring-boot-actuator",
+        "spring-micrometer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733659/micrometer-tracing-exporter-autoconfiguration"
+    }
+  ]
+}

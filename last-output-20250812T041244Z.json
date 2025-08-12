@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-12T04:02:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T03:34:01Z",
+      "Title": "How to use SnakeYAML to parse an array of maps?",
+      "Tags": [
+        "java",
+        "list",
+        "snakeyaml",
+        "linkedhashset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732673/how-to-use-snakeyaml-to-parse-an-array-of-maps"
+    },
+    {
+      "Created": "2025-08-12T03:42:52Z",
+      "Title": "vkCreateSampler crash without any validation info",
+      "Tags": [
+        "c\u002B\u002B",
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732676/vkcreatesampler-crash-without-any-validation-info"
+    },
+    {
+      "Created": "2025-08-12T04:02:07Z",
+      "Title": "Python Script Change",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732684/python-script-change"
+    }
+  ]
+}

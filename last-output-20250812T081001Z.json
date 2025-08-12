@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-12T08:00:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T07:49:58Z",
+      "Title": "How to reliably find out if an IEnumerable\u003CT\u003E is materialized?",
+      "Tags": [
+        "c#",
+        "linq",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732839/how-to-reliably-find-out-if-an-ienumerablet-is-materialized"
+    },
+    {
+      "Created": "2025-08-12T07:50:22Z",
+      "Title": "How to use WSS with Elytron",
+      "Tags": [
+        "security",
+        "soap",
+        "wildfly",
+        "elytron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732840/how-to-use-wss-with-elytron"
+    },
+    {
+      "Created": "2025-08-12T07:53:30Z",
+      "Title": "Deploy server to be accessible from another device",
+      "Tags": [
+        "docker",
+        "server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732843/deploy-server-to-be-accessible-from-another-device"
+    },
+    {
+      "Created": "2025-08-12T07:53:45Z",
+      "Title": "Flink DynamoDB Sink: \u0022The provided key element does not match the schema\u0022",
+      "Tags": [
+        "amazon-dynamodb",
+        "flink-streaming",
+        "flink-sql",
+        "pyflink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732844/flink-dynamodb-sink-the-provided-key-element-does-not-match-the-schema"
+    },
+    {
+      "Created": "2025-08-12T08:00:42Z",
+      "Title": "Error on Multiple Datas made in Worksheet",
+      "Tags": [
+        "logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732853/error-on-multiple-datas-made-in-worksheet"
+    }
+  ]
+}

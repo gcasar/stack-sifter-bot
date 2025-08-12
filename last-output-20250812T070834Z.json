@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-12T07:05:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T06:48:29Z",
+      "Title": "Application is crashed on startup after migration to Android 16",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-16"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732785/application-is-crashed-on-startup-after-migration-to-android-16"
+    },
+    {
+      "Created": "2025-08-12T06:54:03Z",
+      "Title": "Why data from CoreTempInfo is 0 with my C# service",
+      "Tags": [
+        "c#",
+        "service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732791/why-data-from-coretempinfo-is-0-with-my-c-sharp-service"
+    },
+    {
+      "Created": "2025-08-12T06:54:27Z",
+      "Title": "Is there any way to get an event or notification when a user scans the QR code during MFA setup using AWS Amplify Gen 2 API?",
+      "Tags": [
+        "javascript",
+        "angular",
+        "amazon-web-services",
+        "authentication",
+        "aws-amplify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732793/is-there-any-way-to-get-an-event-or-notification-when-a-user-scans-the-qr-code-d"
+    },
+    {
+      "Created": "2025-08-12T07:05:59Z",
+      "Title": "Vue watch triggers on route change",
+      "Tags": [
+        "javascript",
+        "frontend",
+        "vuejs3",
+        "nuxt3.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732802/vue-watch-triggers-on-route-change"
+    }
+  ]
+}

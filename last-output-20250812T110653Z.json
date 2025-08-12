@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-12T11:04:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T10:16:35Z",
+      "Title": "Is it standard conformant to define static storage objects with cyclic references?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733013/is-it-standard-conformant-to-define-static-storage-objects-with-cyclic-reference"
+    },
+    {
+      "Created": "2025-08-12T10:41:45Z",
+      "Title": "DI in Eclipse plugin",
+      "Tags": [
+        "eclipse",
+        "dependency-injection",
+        "eclipse-plugin",
+        "osgi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733032/di-in-eclipse-plugin"
+    },
+    {
+      "Created": "2025-08-12T10:43:25Z",
+      "Title": "How to consume COM events with C# dynamic without COM registration",
+      "Tags": [
+        "c#",
+        "events",
+        "com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733035/how-to-consume-com-events-with-c-sharp-dynamic-without-com-registration"
+    },
+    {
+      "Created": "2025-08-12T10:44:14Z",
+      "Title": "What content must Template:Reflist have to generate a lower-alpha liststyle?",
+      "Tags": [
+        "mediawiki"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733038/what-content-must-templatereflist-have-to-generate-a-lower-alpha-liststyle"
+    },
+    {
+      "Created": "2025-08-12T10:45:51Z",
+      "Title": "What is the relation between values for GRPC_ARG_KEEPALIVE_TIME_MS in a server and client",
+      "Tags": [
+        "grpc",
+        "grpc-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733040/what-is-the-relation-between-values-for-grpc-arg-keepalive-time-ms-in-a-server-a"
+    },
+    {
+      "Created": "2025-08-12T10:58:52Z",
+      "Title": "Cannot send emails from Cloudflare worker",
+      "Tags": [
+        "cloudflare-workers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733052/cannot-send-emails-from-cloudflare-worker"
+    },
+    {
+      "Created": "2025-08-12T10:59:09Z",
+      "Title": "I created a small test project using gtest 1.11.0, it\u0060s run ok. when I switched back to gtest 1.7.0, something error happend",
+      "Tags": [
+        "cmake",
+        "googletest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733053/i-created-a-small-test-project-using-gtest-1-11-0-its-run-ok-when-i-switched"
+    },
+    {
+      "Created": "2025-08-12T11:04:57Z",
+      "Title": "Why pytorch is getting killed during training on larger dataset on AWS EC2 instances",
+      "Tags": [
+        "amazon-ec2",
+        "pytorch",
+        "torch",
+        "training-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733058/why-pytorch-is-getting-killed-during-training-on-larger-dataset-on-aws-ec2-insta"
+    }
+  ]
+}

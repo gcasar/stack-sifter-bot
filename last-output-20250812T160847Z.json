@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-12T15:53:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T15:42:10Z",
+      "Title": "Why is Crystal reports giving \u0022Access denied\u0022 trying to open reports from VS2022 Web Form",
+      "Tags": [
+        "crystal-reports",
+        "visual-studio-2022",
+        ".net-4.8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733409/why-is-crystal-reports-giving-access-denied-trying-to-open-reports-from-vs2022"
+    },
+    {
+      "Created": "2025-08-12T15:48:04Z",
+      "Title": "Modify a mutable vector in chunks",
+      "Tags": [
+        "haskell",
+        "vector",
+        "mutable",
+        "st-monad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733414/modify-a-mutable-vector-in-chunks"
+    },
+    {
+      "Created": "2025-08-12T15:52:37Z",
+      "Title": "In my Blazor Server application, how can I setup a control property like angular\u0027s \u0022ng-if\u0022 that I can apply to any html tag?",
+      "Tags": [
+        "c#",
+        "angularjs",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733415/in-my-blazor-server-application-how-can-i-setup-a-control-property-like-angular"
+    },
+    {
+      "Created": "2025-08-12T15:53:08Z",
+      "Title": "Foreign Key errors in Spring Boot application",
+      "Tags": [
+        "java",
+        "postgresql",
+        "spring-boot",
+        "hibernate",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733416/foreign-key-errors-in-spring-boot-application"
+    },
+    {
+      "Created": "2025-08-12T15:53:25Z",
+      "Title": "Why the recorded thread id sequences have only zero values?",
+      "Tags": [
+        "loops",
+        "parallel-processing",
+        "openmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733417/why-the-recorded-thread-id-sequences-have-only-zero-values"
+    }
+  ]
+}

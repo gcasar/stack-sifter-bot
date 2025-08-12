@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-12T01:28:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T00:48:37Z",
+      "Title": "Is there a setting to omit \u0022by\u0022 column(s) from result of dataTable expression R?",
+      "Tags": [
+        "datatable",
+        "grouping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732610/is-there-a-setting-to-omit-by-columns-from-result-of-datatable-expression-r"
+    },
+    {
+      "Created": "2025-08-12T00:52:59Z",
+      "Title": "how to write rule for a nested json",
+      "Tags": [
+        "jsonpath",
+        "json-rules-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732611/how-to-write-rule-for-a-nested-json"
+    },
+    {
+      "Created": "2025-08-12T00:59:54Z",
+      "Title": "How to serialize entt::sparse_set?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cereal",
+        "entt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732617/how-to-serialize-enttsparse-set"
+    },
+    {
+      "Created": "2025-08-12T01:28:44Z",
+      "Title": "Multiple Hosts/Shell Applications With Nx Micro Frontends",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "nrwl-nx",
+        "nrwl",
+        "nx.dev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732628/multiple-hosts-shell-applications-with-nx-micro-frontends"
+    }
+  ]
+}

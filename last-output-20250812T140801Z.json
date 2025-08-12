@@ -1,0 +1,104 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-08-12T14:04:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T13:15:30Z",
+      "Title": "How to define onTapGesture with debounce in SwiftUI using PassThroughSubject simpler way than modifier, ViewModifier and Model inside?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733239/how-to-define-ontapgesture-with-debounce-in-swiftui-using-passthroughsubject-sim"
+    },
+    {
+      "Created": "2025-08-12T13:18:29Z",
+      "Title": "How can I change the browser used for Playwright codegen?",
+      "Tags": [
+        "reactjs",
+        "automated-tests",
+        "chromium",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733241/how-can-i-change-the-browser-used-for-playwright-codegen"
+    },
+    {
+      "Created": "2025-08-12T13:52:31Z",
+      "Title": "Inside Linux container, using macOS\u2019s new containerization feature, how can I access USB hardware?",
+      "Tags": [
+        "containers",
+        "kali-linux",
+        "macos-tahoe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733280/inside-linux-container-using-macos-s-new-containerization-feature-how-can-i-ac"
+    },
+    {
+      "Created": "2025-08-12T13:54:16Z",
+      "Title": "Extremely slow to connect to MySQL server on host Windows 11 from WSL2/Ubuntu 24.04 but not Ubuntu 22.04/20.04",
+      "Tags": [
+        "mariadb",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733283/extremely-slow-to-connect-to-mysql-server-on-host-windows-11-from-wsl2-ubuntu-24"
+    },
+    {
+      "Created": "2025-08-12T13:54:40Z",
+      "Title": "Can\u0027t run fftw with Fortran",
+      "Tags": [
+        "bash",
+        "fortran",
+        "gfortran",
+        "fftw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733284/cant-run-fftw-with-fortran"
+    },
+    {
+      "Created": "2025-08-12T14:01:31Z",
+      "Title": "SurveyJs in Angular - overriding the default layout of stock questions",
+      "Tags": [
+        "angular",
+        "surveyjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733290/surveyjs-in-angular-overriding-the-default-layout-of-stock-questions"
+    },
+    {
+      "Created": "2025-08-12T14:01:45Z",
+      "Title": "Legend grouping not working with fig.add_shape",
+      "Tags": [
+        "python",
+        "pandas",
+        "plotly",
+        "plotly.graph-objects"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733291/legend-grouping-not-working-with-fig-add-shape"
+    },
+    {
+      "Created": "2025-08-12T14:02:24Z",
+      "Title": "Parametrizing the title of a Quarto dashboard",
+      "Tags": [
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733294/parametrizing-the-title-of-a-quarto-dashboard"
+    },
+    {
+      "Created": "2025-08-12T14:03:14Z",
+      "Title": "Replacing my teams outdated and poor git solution. Need advice",
+      "Tags": [
+        "git",
+        "frontend",
+        "backend",
+        "release"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733297/replacing-my-teams-outdated-and-poor-git-solution-need-advice"
+    },
+    {
+      "Created": "2025-08-12T14:04:22Z",
+      "Title": "Grafana outlier detection",
+      "Tags": [
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733299/grafana-outlier-detection"
+    }
+  ]
+}

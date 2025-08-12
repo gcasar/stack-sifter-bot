@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-12T00:14:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-11T23:42:57Z",
+      "Title": "Office JS Partition Key - What is it partitioning by?",
+      "Tags": [
+        "office-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732584/office-js-partition-key-what-is-it-partitioning-by"
+    },
+    {
+      "Created": "2025-08-12T00:00:15Z",
+      "Title": "LazyColumn losing scroll position after navigating forward and popping back",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732590/lazycolumn-losing-scroll-position-after-navigating-forward-and-popping-back"
+    },
+    {
+      "Created": "2025-08-12T00:14:02Z",
+      "Title": "How to structure a feature-first Clean Architecture in Flutter when features need shared logic or data",
+      "Tags": [
+        "flutter",
+        "dart",
+        "clean-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732596/how-to-structure-a-feature-first-clean-architecture-in-flutter-when-features-nee"
+    }
+  ]
+}

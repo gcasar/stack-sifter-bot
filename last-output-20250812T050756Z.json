@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-12T05:01:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T04:30:39Z",
+      "Title": "How to analyze Flutter iOS app size and see which plugins/assets take the most space?",
+      "Tags": [
+        "ios",
+        "flutter",
+        "flutter-dependencies",
+        "flutter-build",
+        "flutter-ios-build"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732699/how-to-analyze-flutter-ios-app-size-and-see-which-plugins-assets-take-the-most-s"
+    },
+    {
+      "Created": "2025-08-12T04:43:42Z",
+      "Title": "Native Android app crashes only on Android 15 \u2014 could it be related to 16KB memory page size?",
+      "Tags": [
+        "android",
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732707/native-android-app-crashes-only-on-android-15-could-it-be-related-to-16kb-memo"
+    },
+    {
+      "Created": "2025-08-12T04:53:40Z",
+      "Title": "Threadpool hangs during destroy",
+      "Tags": [
+        "c",
+        "multithreading",
+        "pthreads",
+        "threadpool"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732712/threadpool-hangs-during-destroy"
+    },
+    {
+      "Created": "2025-08-12T04:56:16Z",
+      "Title": "How to access Docker Engine API via Unix domain socket using socat instead of curl?",
+      "Tags": [
+        "linux",
+        "docker",
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732715/how-to-access-docker-engine-api-via-unix-domain-socket-using-socat-instead-of-cu"
+    },
+    {
+      "Created": "2025-08-12T05:01:19Z",
+      "Title": "C# Custom Physics Engine Cloth Simulation Gives Inconsistent Bounce When Two Balls Land Simultaneously",
+      "Tags": [
+        "c#",
+        "c\u002B\u002B",
+        "kernel",
+        "physics",
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79732719/c-sharp-custom-physics-engine-cloth-simulation-gives-inconsistent-bounce-when-tw"
+    }
+  ]
+}

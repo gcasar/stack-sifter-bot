@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-13T08:03:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T07:54:16Z",
+      "Title": "Angular 13 Material \u003Cmat-select multiple\u003E with cdk-virtual-scroll-viewport loses selection state after scrolling",
+      "Tags": [
+        "angular",
+        "angular-material",
+        "multiple-select",
+        "mat-select",
+        "angular-cdk-virtual-scroll"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734028/angular-13-material-mat-select-multiple-with-cdk-virtual-scroll-viewport-loses"
+    },
+    {
+      "Created": "2025-08-13T07:59:25Z",
+      "Title": "how to take multiple arrays and turn them into vertical tables",
+      "Tags": [
+        "python",
+        "arrays",
+        "numpy",
+        "sorting",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734031/how-to-take-multiple-arrays-and-turn-them-into-vertical-tables"
+    },
+    {
+      "Created": "2025-08-13T08:03:23Z",
+      "Title": "Angular API data not loading on page refresh unless user triggers interaction",
+      "Tags": [
+        "angular",
+        "typescript",
+        "rxjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734035/angular-api-data-not-loading-on-page-refresh-unless-user-triggers-interaction"
+    }
+  ]
+}

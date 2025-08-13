@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-13T05:46:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T05:37:01Z",
+      "Title": "How to return an empty **peekable** iterator in Rust?",
+      "Tags": [
+        "rust",
+        "iterator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733911/how-to-return-an-empty-peekable-iterator-in-rust"
+    },
+    {
+      "Created": "2025-08-13T05:46:28Z",
+      "Title": "How do I use Excel interop library in Visual Studio Code?",
+      "Tags": [
+        "c#",
+        "excel",
+        "visual-studio-code",
+        "excel-interop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733916/how-do-i-use-excel-interop-library-in-visual-studio-code"
+    }
+  ]
+}

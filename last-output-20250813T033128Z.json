@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-13T03:02:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T02:55:49Z",
+      "Title": "How can I get a spy of autowired self type?",
+      "Tags": [
+        "java",
+        "autowired",
+        "spring-boot-test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733811/how-can-i-get-a-spy-of-autowired-self-type"
+    },
+    {
+      "Created": "2025-08-13T03:02:02Z",
+      "Title": "How to show levels with no data in boxplot?",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "axis-labels"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733814/how-to-show-levels-with-no-data-in-boxplot"
+    }
+  ]
+}

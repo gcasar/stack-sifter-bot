@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-13T04:04:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T03:31:43Z",
+      "Title": "How to run pg_dump on Docker with cron",
+      "Tags": [
+        "postgresql",
+        "docker",
+        "docker-compose",
+        "cron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733826/how-to-run-pg-dump-on-docker-with-cron"
+    },
+    {
+      "Created": "2025-08-13T04:04:32Z",
+      "Title": "How to replace flutter_adaptive_cards in Flutter with a maintained library for rendering Adaptive Cards?",
+      "Tags": [
+        "flutter",
+        "flutter-dependencies"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733837/how-to-replace-flutter-adaptive-cards-in-flutter-with-a-maintained-library-for-r"
+    }
+  ]
+}

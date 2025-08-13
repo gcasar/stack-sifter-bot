@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-13T20:42:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T20:30:19Z",
+      "Title": "Editing fields in LibreOffice Writer with Python marco using scriptforge library",
+      "Tags": [
+        "python",
+        "macros",
+        "libreoffice-writer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734721/editing-fields-in-libreoffice-writer-with-python-marco-using-scriptforge-library"
+    },
+    {
+      "Created": "2025-08-13T20:35:27Z",
+      "Title": "Cupy throwing a unhashable type: \u0027ndarray\u0027 when appending nested tuples to a set",
+      "Tags": [
+        "python",
+        "numpy",
+        "cupy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734724/cupy-throwing-a-unhashable-type-ndarray-when-appending-nested-tuples-to-a-set"
+    },
+    {
+      "Created": "2025-08-13T20:42:05Z",
+      "Title": "ggforce: how to customize date labels in facet_zoom",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "ggforce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734728/ggforce-how-to-customize-date-labels-in-facet-zoom"
+    }
+  ]
+}

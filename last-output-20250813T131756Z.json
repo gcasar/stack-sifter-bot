@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-13T13:15:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T12:51:48Z",
+      "Title": ".NET 9.0 No interactivity until the WASM switch on the Counter page with InteractiveAuto",
+      "Tags": [
+        "c#",
+        "blazor",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734296/net-9-0-no-interactivity-until-the-wasm-switch-on-the-counter-page-with-interac"
+    },
+    {
+      "Created": "2025-08-13T13:03:43Z",
+      "Title": "Problems with dependent type specialization. GCC vs Clang",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734308/problems-with-dependent-type-specialization-gcc-vs-clang"
+    },
+    {
+      "Created": "2025-08-13T13:06:21Z",
+      "Title": "How to display time in a given timezone (e.g., US/Eastern) and keep it fixed regardless of browser timezone changes using date-fnst?",
+      "Tags": [
+        "javascript",
+        "timezone",
+        "datetime-format",
+        "date-fns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734311/how-to-display-time-in-a-given-timezone-e-g-us-eastern-and-keep-it-fixed-reg"
+    },
+    {
+      "Created": "2025-08-13T13:06:58Z",
+      "Title": "Is it possible to register Konva Events during the Capture Phase?",
+      "Tags": [
+        "konvajs",
+        "konva"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734313/is-it-possible-to-register-konva-events-during-the-capture-phase"
+    },
+    {
+      "Created": "2025-08-13T13:11:16Z",
+      "Title": "Symfony Twig Extension \u2014 Best practices for fetching data from a repository in the header",
+      "Tags": [
+        "symfony",
+        "twig",
+        "twig-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734318/symfony-twig-extension-best-practices-for-fetching-data-from-a-repository-in-t"
+    },
+    {
+      "Created": "2025-08-13T13:11:24Z",
+      "Title": "Can \u0060Stream.allMatch()\u0060 call the predicate multiple times for the same element?",
+      "Tags": [
+        "java",
+        "parallel-processing",
+        "java-stream",
+        "short-circuiting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734319/can-stream-allmatch-call-the-predicate-multiple-times-for-the-same-element"
+    },
+    {
+      "Created": "2025-08-13T13:15:29Z",
+      "Title": "R identical function failure?",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734323/r-identical-function-failure"
+    }
+  ]
+}

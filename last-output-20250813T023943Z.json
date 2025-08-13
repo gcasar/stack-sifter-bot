@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-13T02:09:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T02:05:32Z",
+      "Title": "How to rename and keep the window name fixed without updating when refreshing webpage? (Like Name window function in Chrome and Edge Browser)",
+      "Tags": [
+        "python",
+        "window",
+        "rename",
+        "chromium",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733788/how-to-rename-and-keep-the-window-name-fixed-without-updating-when-refreshing-we"
+    },
+    {
+      "Created": "2025-08-13T02:09:12Z",
+      "Title": "How to store Gemini 2.5 Flash \u002B MCP multi-turn conversation data (including tool calls and responses)?",
+      "Tags": [
+        "python",
+        "json",
+        "large-language-model",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733790/how-to-store-gemini-2-5-flash-mcp-multi-turn-conversation-data-including-tool"
+    }
+  ]
+}

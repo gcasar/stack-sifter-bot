@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-13T14:59:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T14:17:15Z",
+      "Title": "How to use Autofac container for cleaning up on application shutdown?",
+      "Tags": [
+        "c#",
+        "owin",
+        "autofac",
+        "webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734393/how-to-use-autofac-container-for-cleaning-up-on-application-shutdown"
+    },
+    {
+      "Created": "2025-08-13T14:30:48Z",
+      "Title": "How can I separate filename extensions while preserving periods in data values?",
+      "Tags": [
+        "r",
+        "tidyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734409/how-can-i-separate-filename-extensions-while-preserving-periods-in-data-values"
+    },
+    {
+      "Created": "2025-08-13T14:35:29Z",
+      "Title": "Assigned a value but never used [duplicate]",
+      "Tags": [
+        "typescript",
+        "eslint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734413/assigned-a-value-but-never-used"
+    },
+    {
+      "Created": "2025-08-13T14:37:17Z",
+      "Title": "subprocess.run won\u0027t recognise a command [duplicate]",
+      "Tags": [
+        "python",
+        "linux",
+        "terminal",
+        "yt-dlp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734414/subprocess-run-wont-recognise-a-command"
+    },
+    {
+      "Created": "2025-08-13T14:48:29Z",
+      "Title": "Multiple Select Statements with Jinja and DBT",
+      "Tags": [
+        "jinja2",
+        "dbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734432/multiple-select-statements-with-jinja-and-dbt"
+    },
+    {
+      "Created": "2025-08-13T14:51:01Z",
+      "Title": "How to check if an optional struct field is set using \u0027x-kubernetes-validations\u0027 and CEL expressions?",
+      "Tags": [
+        "go",
+        "kubernetes",
+        "kubernetes-custom-resources",
+        "common-expression-language"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734436/how-to-check-if-an-optional-struct-field-is-set-using-x-kubernetes-validations"
+    },
+    {
+      "Created": "2025-08-13T14:52:32Z",
+      "Title": "Using ASP.NET Core OData: how can I enforce authentication for odata/$metadata endpoints?",
+      "Tags": [
+        ".net-core",
+        "asp.net-core-webapi",
+        "odata",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734439/using-asp-net-core-odata-how-can-i-enforce-authentication-for-odata-metadata-e"
+    },
+    {
+      "Created": "2025-08-13T14:59:21Z",
+      "Title": "Deference of a possible null reference inside a delegate - Avoid null forgiving operator",
+      "Tags": [
+        "c#",
+        "nullable",
+        "non-nullable",
+        "null-forgiving-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734445/deference-of-a-possible-null-reference-inside-a-delegate-avoid-null-forgiving"
+    }
+  ]
+}

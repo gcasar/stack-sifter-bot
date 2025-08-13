@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-13T07:06:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T06:42:50Z",
+      "Title": "Marker Interface",
+      "Tags": [
+        "java",
+        "serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733962/marker-interface"
+    },
+    {
+      "Created": "2025-08-13T06:43:34Z",
+      "Title": "Getting permission denied to rls policy in Redshift",
+      "Tags": [
+        "postgresql",
+        "amazon-web-services",
+        "amazon-redshift",
+        "permission-denied",
+        "rls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733964/getting-permission-denied-to-rls-policy-in-redshift"
+    },
+    {
+      "Created": "2025-08-13T06:52:53Z",
+      "Title": "Celery: How to aggregate results from parallel tasks and store only the final result (ignore intermediate outputs)?",
+      "Tags": [
+        "python",
+        "parallel-processing",
+        "celery",
+        "workflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733975/celery-how-to-aggregate-results-from-parallel-tasks-and-store-only-the-final-re"
+    },
+    {
+      "Created": "2025-08-13T07:06:14Z",
+      "Title": "Is there a way to overwrite an enum variable and get a reference to the associated data together?",
+      "Tags": [
+        "rust",
+        "enums"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733982/is-there-a-way-to-overwrite-an-enum-variable-and-get-a-reference-to-the-associat"
+    }
+  ]
+}

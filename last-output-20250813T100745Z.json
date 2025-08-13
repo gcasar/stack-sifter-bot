@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-13T10:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T09:34:48Z",
+      "Title": "How to send a button without text in Telegram?",
+      "Tags": [
+        "php",
+        "telegram-api",
+        "php-telegram-bot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734125/how-to-send-a-button-without-text-in-telegram"
+    },
+    {
+      "Created": "2025-08-13T09:49:53Z",
+      "Title": "which username/password must be provided while converting a .dmp file to SQL DDL script",
+      "Tags": [
+        "oracle-database",
+        "impdp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734143/which-username-password-must-be-provided-while-converting-a-dmp-file-to-sql-ddl"
+    },
+    {
+      "Created": "2025-08-13T09:52:41Z",
+      "Title": "Bypass PSScriptAnalyzer (self) suppression",
+      "Tags": [
+        "powershell",
+        "rules",
+        "suppression",
+        "psscriptanalyzer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734145/bypass-psscriptanalyzer-self-suppression"
+    },
+    {
+      "Created": "2025-08-13T10:02:47Z",
+      "Title": "Generate Code Coverage for Cargo / RUST using Cargo-llvm-cob",
+      "Tags": [
+        "code-coverage",
+        "rust-cargo",
+        "azure-pipelines-yaml",
+        "llvm-cov"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734156/generate-code-coverage-for-cargo-rust-using-cargo-llvm-cob"
+    }
+  ]
+}

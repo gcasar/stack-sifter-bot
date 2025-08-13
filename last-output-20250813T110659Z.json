@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-13T10:59:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T10:29:12Z",
+      "Title": "How can I iterate over struct fields at compile time in Zig to generate a serializer?",
+      "Tags": [
+        "serialization",
+        "reflection",
+        "code-generation",
+        "compile-time",
+        "zig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734179/how-can-i-iterate-over-struct-fields-at-compile-time-in-zig-to-generate-a-serial"
+    },
+    {
+      "Created": "2025-08-13T10:41:33Z",
+      "Title": "In this python script that checks for integer values, why is one entry not removed? It\u0027s the letter x. Works for every other line",
+      "Tags": [
+        "python",
+        "integer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734187/in-this-python-script-that-checks-for-integer-values-why-is-one-entry-not-remov"
+    },
+    {
+      "Created": "2025-08-13T10:44:51Z",
+      "Title": "How can a dataform operation determine if run is incremental or not?",
+      "Tags": [
+        "dataform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734190/how-can-a-dataform-operation-determine-if-run-is-incremental-or-not"
+    },
+    {
+      "Created": "2025-08-13T10:54:29Z",
+      "Title": "In Python, how to test the concrete method of an abstract class without manual subclassing?",
+      "Tags": [
+        "python",
+        "unit-testing",
+        "mocking",
+        "abstract-class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734200/in-python-how-to-test-the-concrete-method-of-an-abstract-class-without-manual-s"
+    },
+    {
+      "Created": "2025-08-13T10:59:46Z",
+      "Title": "toSignal() cannot be called from within a reactive context",
+      "Tags": [
+        "angular-signals",
+        "angular20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734203/tosignal-cannot-be-called-from-within-a-reactive-context"
+    }
+  ]
+}

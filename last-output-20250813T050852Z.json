@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-13T05:07:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T04:14:06Z",
+      "Title": "Best way to work with a large amount of if-else?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733841/best-way-to-work-with-a-large-amount-of-if-else"
+    },
+    {
+      "Created": "2025-08-13T04:33:49Z",
+      "Title": "Using structureitalicserif in tcolorbox, tcbox",
+      "Tags": [
+        "latex",
+        "beamer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733851/using-structureitalicserif-in-tcolorbox-tcbox"
+    },
+    {
+      "Created": "2025-08-13T04:40:04Z",
+      "Title": "Using Solidworks VBA code, how do I create a reference plane at a specified angle from the Top Plane?",
+      "Tags": [
+        "excel",
+        "vba",
+        "automation",
+        "solidworks",
+        "solidworksapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733853/using-solidworks-vba-code-how-do-i-create-a-reference-plane-at-a-specified-angl"
+    },
+    {
+      "Created": "2025-08-13T04:55:39Z",
+      "Title": "How to filter recent logs with kubectl logs for a specific pattern?",
+      "Tags": [
+        "linux",
+        "kubernetes",
+        "logging",
+        "kubectl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733868/how-to-filter-recent-logs-with-kubectl-logs-for-a-specific-pattern"
+    },
+    {
+      "Created": "2025-08-13T05:07:55Z",
+      "Title": "Why does my OnAfterRenderAsync get called 5 times when I call StateHasChanged 5 times",
+      "Tags": [
+        "blazor-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733873/why-does-my-onafterrenderasync-get-called-5-times-when-i-call-statehaschanged-5"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-13T21:50:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T21:40:42Z",
+      "Title": "Docker Bind Mount Empty on AlmaLinux",
+      "Tags": [
+        "linux",
+        "docker",
+        "mount",
+        "almalinux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734769/docker-bind-mount-empty-on-almalinux"
+    },
+    {
+      "Created": "2025-08-13T21:41:11Z",
+      "Title": "HTML Post array from single hidden input passes an array but PHP not processing it correctly",
+      "Tags": [
+        "php",
+        "arrays",
+        "forms",
+        "post"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734770/html-post-array-from-single-hidden-input-passes-an-array-but-php-not-processing"
+    },
+    {
+      "Created": "2025-08-13T21:50:49Z",
+      "Title": "CETAS in Azure Synapse fails with \u0022location already exists\u0022 even though it doesn\u0027t",
+      "Tags": [
+        "azure-synapse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734772/cetas-in-azure-synapse-fails-with-location-already-exists-even-though-it-doesn"
+    }
+  ]
+}

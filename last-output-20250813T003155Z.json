@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-13T00:27:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-12T23:54:07Z",
+      "Title": "c\u002B\u002B C1001 when a class is declared",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733734/c-c1001-when-a-class-is-declared"
+    },
+    {
+      "Created": "2025-08-12T23:57:32Z",
+      "Title": "SFML rectangles arranged in a 3x3 grid only appear at the bottom of the window \u2014 why won\u2019t they position higher?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733735/sfml-rectangles-arranged-in-a-3x3-grid-only-appear-at-the-bottom-of-the-window"
+    },
+    {
+      "Created": "2025-08-13T00:00:02Z",
+      "Title": "VSCode Jupyter authentication issues",
+      "Tags": [
+        "visual-studio-code",
+        "jupyter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733736/vscode-jupyter-authentication-issues"
+    },
+    {
+      "Created": "2025-08-13T00:10:57Z",
+      "Title": "awk does not print a variable\u0027s value [duplicate]",
+      "Tags": [
+        "awk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733740/awk-does-not-print-a-variables-value"
+    },
+    {
+      "Created": "2025-08-13T00:15:30Z",
+      "Title": "S3KeySensor to monitor files across multiple S3 buckets",
+      "Tags": [
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733742/s3keysensor-to-monitor-files-across-multiple-s3-buckets"
+    },
+    {
+      "Created": "2025-08-13T00:20:00Z",
+      "Title": "Discord voice WebSocket 4006 \u0022Session is no longer valid\u0022 error with Nextcord (classic prefix command)",
+      "Tags": [
+        "python",
+        "websocket",
+        "python-asyncio",
+        "nextcord"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733743/discord-voice-websocket-4006-session-is-no-longer-valid-error-with-nextcord-c"
+    },
+    {
+      "Created": "2025-08-13T00:27:05Z",
+      "Title": "How Do I Open A File in a Subclass of BufferedIOBase in Python",
+      "Tags": [
+        "python",
+        "io"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733745/how-do-i-open-a-file-in-a-subclass-of-bufferediobase-in-python"
+    }
+  ]
+}

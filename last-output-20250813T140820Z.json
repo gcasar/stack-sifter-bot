@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-13T13:58:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T13:20:17Z",
+      "Title": "Error \u0022ioctl SNDRV_PCM_IOCTL_WRITEI_FRAMES: Input/output error\u0022, when writing frames to \u0060/dev/snd/pcmC0D0p\u0060",
+      "Tags": [
+        "c",
+        "linux",
+        "qemu",
+        "alsa",
+        "ioctl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734328/error-ioctl-sndrv-pcm-ioctl-writei-frames-input-output-error-when-writing-fr"
+    },
+    {
+      "Created": "2025-08-13T13:38:51Z",
+      "Title": "Parse parameter string which contains ampersands in values",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734348/parse-parameter-string-which-contains-ampersands-in-values"
+    },
+    {
+      "Created": "2025-08-13T13:53:07Z",
+      "Title": "How can we have two different user roles in one app with Expo Router?",
+      "Tags": [
+        "react-native",
+        "expo",
+        "expo-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734368/how-can-we-have-two-different-user-roles-in-one-app-with-expo-router"
+    },
+    {
+      "Created": "2025-08-13T13:55:34Z",
+      "Title": "How can I remove all legends from a matplotlib axes with multiple legends?",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734370/how-can-i-remove-all-legends-from-a-matplotlib-axes-with-multiple-legends"
+    },
+    {
+      "Created": "2025-08-13T13:58:47Z",
+      "Title": "CMMotionManager--How to only obtain the rotation of the phone itself",
+      "Tags": [
+        "cmmotionmanager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734373/cmmotionmanager-how-to-only-obtain-the-rotation-of-the-phone-itself"
+    }
+  ]
+}

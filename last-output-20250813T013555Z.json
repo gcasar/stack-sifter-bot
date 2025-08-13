@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-13T01:25:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T00:50:44Z",
+      "Title": "MirrorMaker2 Offset Replication Issue",
+      "Tags": [
+        "apache-kafka",
+        "apache-kafka-mirrormaker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733759/mirrormaker2-offset-replication-issue"
+    },
+    {
+      "Created": "2025-08-13T00:53:09Z",
+      "Title": "How to check order of enum with fields?",
+      "Tags": [
+        "testing",
+        "rust",
+        "enums"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733761/how-to-check-order-of-enum-with-fields"
+    },
+    {
+      "Created": "2025-08-13T00:56:43Z",
+      "Title": "Testing that a function receives a string",
+      "Tags": [
+        "r",
+        "function",
+        "arguments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733763/testing-that-a-function-receives-a-string"
+    },
+    {
+      "Created": "2025-08-13T01:06:47Z",
+      "Title": "How to maintain GitHub README in multiple languages from a single source file?",
+      "Tags": [
+        "github",
+        "markdown",
+        "readme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733767/how-to-maintain-github-readme-in-multiple-languages-from-a-single-source-file"
+    },
+    {
+      "Created": "2025-08-13T01:11:17Z",
+      "Title": "how to configure instance count/type and size of the open search cluster?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-opensearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733772/how-to-configure-instance-count-type-and-size-of-the-open-search-cluster"
+    },
+    {
+      "Created": "2025-08-13T01:15:32Z",
+      "Title": "Resource file inside project changes path location during runtime",
+      "Tags": [
+        "java",
+        "jaxb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733773/resource-file-inside-project-changes-path-location-during-runtime"
+    },
+    {
+      "Created": "2025-08-13T01:25:30Z",
+      "Title": "Spelling Bee optimal word set search",
+      "Tags": [
+        "python",
+        "algorithm",
+        "search",
+        "a-star",
+        "discrete-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79733777/spelling-bee-optimal-word-set-search"
+    }
+  ]
+}

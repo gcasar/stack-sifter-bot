@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-13T17:55:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T17:37:11Z",
+      "Title": "Initial Storage for Storage Yards in Material Library",
+      "Tags": [
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734586/initial-storage-for-storage-yards-in-material-library"
+    },
+    {
+      "Created": "2025-08-13T17:37:37Z",
+      "Title": "Ranking dataset based upon two conditions",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734587/ranking-dataset-based-upon-two-conditions"
+    },
+    {
+      "Created": "2025-08-13T17:47:49Z",
+      "Title": "Is it possible to expect a field to be defined when creating a new Zod schema?",
+      "Tags": [
+        "typescript",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734598/is-it-possible-to-expect-a-field-to-be-defined-when-creating-a-new-zod-schema"
+    },
+    {
+      "Created": "2025-08-13T17:55:51Z",
+      "Title": "Android Version Catalog",
+      "Tags": [
+        "android",
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734605/android-version-catalog"
+    }
+  ]
+}

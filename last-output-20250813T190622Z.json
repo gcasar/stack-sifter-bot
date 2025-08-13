@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-13T19:01:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T18:50:20Z",
+      "Title": "Where do i place/create a dynamically created widget that controls elided text in Tkinter",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734644/where-do-i-place-create-a-dynamically-created-widget-that-controls-elided-text-i"
+    },
+    {
+      "Created": "2025-08-13T19:01:13Z",
+      "Title": "How to match multi-line error messages in Eclipse CDT ErrorParser and highlight them in the console?",
+      "Tags": [
+        "eclipse",
+        "eclipse-rcp",
+        "eclipse-cdt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734657/how-to-match-multi-line-error-messages-in-eclipse-cdt-errorparser-and-highlight"
+    }
+  ]
+}

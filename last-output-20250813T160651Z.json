@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-13T16:05:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T15:12:51Z",
+      "Title": "Prefer container::lower_bound to std::lower_bound?",
+      "Tags": [
+        "c\u002B\u002B",
+        "binary-search-tree",
+        "bisection",
+        "lower-bound"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734459/prefer-containerlower-bound-to-stdlower-bound"
+    },
+    {
+      "Created": "2025-08-13T15:13:44Z",
+      "Title": "Why does Gmail API override the Date header even with internalDateSource: \u0027dateHeader\u0027 and deleted: true in users.messages.insert?",
+      "Tags": [
+        "python",
+        "email",
+        "gmail-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734461/why-does-gmail-api-override-the-date-header-even-with-internaldatesource-dateh"
+    },
+    {
+      "Created": "2025-08-13T15:32:38Z",
+      "Title": "Creating data frame from list of lists",
+      "Tags": [
+        "r",
+        "list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734483/creating-data-frame-from-list-of-lists"
+    },
+    {
+      "Created": "2025-08-13T15:46:24Z",
+      "Title": "Handling CORs with AWS CloudFront with a Lambda Function Url Origin",
+      "Tags": [
+        "aws-lambda",
+        "cors",
+        "amazon-cloudfront"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734491/handling-cors-with-aws-cloudfront-with-a-lambda-function-url-origin"
+    },
+    {
+      "Created": "2025-08-13T15:58:10Z",
+      "Title": "Use SSL client certificate with Node.js native fetch",
+      "Tags": [
+        "node.js",
+        "fetch-api",
+        "undici"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734505/use-ssl-client-certificate-with-node-js-native-fetch"
+    },
+    {
+      "Created": "2025-08-13T16:04:16Z",
+      "Title": "How do I show a dynamic number in notification status bar in android?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-notifications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734512/how-do-i-show-a-dynamic-number-in-notification-status-bar-in-android"
+    },
+    {
+      "Created": "2025-08-13T16:05:03Z",
+      "Title": "Capacitor - Various plugins to avoid overlay with the system bar (edge to edge)",
+      "Tags": [
+        "reactjs",
+        "ionic-framework",
+        "capacitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734513/capacitor-various-plugins-to-avoid-overlay-with-the-system-bar-edge-to-edge"
+    }
+  ]
+}

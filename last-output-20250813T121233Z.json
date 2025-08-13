@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-13T11:58:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T11:11:46Z",
+      "Title": "Scatter chart with time-based y-axis not starting at 00:00 AM",
+      "Tags": [
+        "angular",
+        "chart.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734214/scatter-chart-with-time-based-y-axis-not-starting-at-0000-am"
+    },
+    {
+      "Created": "2025-08-13T11:42:43Z",
+      "Title": "CMake cannot find gtest",
+      "Tags": [
+        "cmake",
+        "googletest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734236/cmake-cannot-find-gtest"
+    },
+    {
+      "Created": "2025-08-13T11:53:49Z",
+      "Title": "Make first and last column sticky without knowing its name in reactable",
+      "Tags": [
+        "r",
+        "reactable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734248/make-first-and-last-column-sticky-without-knowing-its-name-in-reactable"
+    },
+    {
+      "Created": "2025-08-13T11:58:44Z",
+      "Title": "Return only laptop serial number in vbscript",
+      "Tags": [
+        "vbscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734256/return-only-laptop-serial-number-in-vbscript"
+    }
+  ]
+}

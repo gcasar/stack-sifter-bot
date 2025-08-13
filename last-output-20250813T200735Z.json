@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-13T20:02:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T19:50:39Z",
+      "Title": "Laravel using \u0022log\u0022 broadcast driver/connection despite setting it to Pusher",
+      "Tags": [
+        "laravel",
+        "environment-variables",
+        "echo",
+        "laravel-artisan",
+        "pusher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734689/laravel-using-log-broadcast-driver-connection-despite-setting-it-to-pusher"
+    },
+    {
+      "Created": "2025-08-13T20:02:26Z",
+      "Title": "OneNote COM Application Interface events with Python",
+      "Tags": [
+        "python",
+        "events",
+        "win32com",
+        "onenote"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734697/onenote-com-application-interface-events-with-python"
+    }
+  ]
+}

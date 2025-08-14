@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-14T08:06:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T07:56:46Z",
+      "Title": "Can\u0027t trigger redirects using edge functions on netlify",
+      "Tags": [
+        "typescript",
+        "netlify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735110/cant-trigger-redirects-using-edge-functions-on-netlify"
+    },
+    {
+      "Created": "2025-08-14T07:57:09Z",
+      "Title": "Ruamel.yaml adds id001 aliases?",
+      "Tags": [
+        "yaml",
+        "ruamel.yaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735112/ruamel-yaml-adds-id001-aliases"
+    },
+    {
+      "Created": "2025-08-14T07:59:12Z",
+      "Title": "Is there a MQTT Broker for MCU?",
+      "Tags": [
+        "embedded",
+        "mqtt",
+        "mosquitto",
+        "paho"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735114/is-there-a-mqtt-broker-for-mcu"
+    },
+    {
+      "Created": "2025-08-14T08:04:25Z",
+      "Title": "Pass props with conditional typings in VUE and TS",
+      "Tags": [
+        "typescript",
+        "vue.js",
+        "casting",
+        "vuejs3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735121/pass-props-with-conditional-typings-in-vue-and-ts"
+    },
+    {
+      "Created": "2025-08-14T08:06:31Z",
+      "Title": "XML validation in Python with XSD Schema 1.1 support and similar to xmllint output",
+      "Tags": [
+        "python",
+        "xml",
+        "xsd",
+        "xmllint",
+        "xsd-1.1"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735125/xml-validation-in-python-with-xsd-schema-1-1-support-and-similar-to-xmllint-outp"
+    }
+  ]
+}

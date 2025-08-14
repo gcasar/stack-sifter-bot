@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-14T09:00:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T08:55:11Z",
+      "Title": "STM32L010C6 TIM2 IRQ Priority, Over capture Vs edge detection, classic timer issue",
+      "Tags": [
+        "timer",
+        "stm32",
+        "frequency",
+        "hal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735167/stm32l010c6-tim2-irq-priority-over-capture-vs-edge-detection-classic-timer-iss"
+    },
+    {
+      "Created": "2025-08-14T08:55:29Z",
+      "Title": "MATLAB DAQ stops during AlazarWaitAsyncBufferComplete() call - how to maintain background operation?",
+      "Tags": [
+        "matlab",
+        "nidaqmx",
+        "daq-mx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735168/matlab-daq-stops-during-alazarwaitasyncbuffercomplete-call-how-to-maintain-b"
+    },
+    {
+      "Created": "2025-08-14T09:00:24Z",
+      "Title": "Would SQL Mesh integration with GitHub bot work in GitLab?",
+      "Tags": [
+        "deployment",
+        "gitlab",
+        "cicd",
+        "sqlmesh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735171/would-sql-mesh-integration-with-github-bot-work-in-gitlab"
+    }
+  ]
+}

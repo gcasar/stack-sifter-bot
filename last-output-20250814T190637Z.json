@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-14T19:00:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T18:12:39Z",
+      "Title": "Minimal API: PageResult\u003CT\u003E not returning OData-style JSON with @odata.count and value",
+      "Tags": [
+        "odata",
+        ".net-8.0",
+        "minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735766/minimal-api-pageresultt-not-returning-odata-style-json-with-odata-count-and"
+    },
+    {
+      "Created": "2025-08-14T18:36:30Z",
+      "Title": "How can I dissect a shell 1-liner workflow to understand what this git command does?",
+      "Tags": [
+        "awk",
+        "cicd",
+        "xargs",
+        "git-flow",
+        "gnu-coreutils"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735786/how-can-i-dissect-a-shell-1-liner-workflow-to-understand-what-this-git-command-d"
+    },
+    {
+      "Created": "2025-08-14T18:48:23Z",
+      "Title": "Browser bar is causing undesired window resize events on mobile",
+      "Tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735794/browser-bar-is-causing-undesired-window-resize-events-on-mobile"
+    },
+    {
+      "Created": "2025-08-14T18:51:09Z",
+      "Title": "asp.net core background service and queue processing behaves weird",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "queue",
+        "background-process",
+        "azure-queues"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735795/asp-net-core-background-service-and-queue-processing-behaves-weird"
+    },
+    {
+      "Created": "2025-08-14T19:00:25Z",
+      "Title": "Empty {} or undefined response when raycasting GLB 3d model for retrieving userData",
+      "Tags": [
+        "javascript",
+        "three.js",
+        "3d",
+        "mouseevent",
+        "raycasting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735810/empty-or-undefined-response-when-raycasting-glb-3d-model-for-retrieving-userd"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-14T13:57:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T12:52:44Z",
+      "Title": "ASOF join snowflake using \u0027nearest\u0027, similar to pandas.merge_asof",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "duckdb",
+        "cedardb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735431/asof-join-snowflake-using-nearest-similar-to-pandas-merge-asof"
+    },
+    {
+      "Created": "2025-08-14T13:11:52Z",
+      "Title": "Conversion to int with Unicode strings",
+      "Tags": [
+        "python",
+        "string",
+        "unicode",
+        "integer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735449/conversion-to-int-with-unicode-strings"
+    },
+    {
+      "Created": "2025-08-14T13:20:56Z",
+      "Title": "How to handle Grafana \u0022All\u0022 option with QuestDB without expanding all variable values?",
+      "Tags": [
+        "sql",
+        "grafana",
+        "questdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735462/how-to-handle-grafana-all-option-with-questdb-without-expanding-all-variable-v"
+    },
+    {
+      "Created": "2025-08-14T13:26:25Z",
+      "Title": "Updating ViewModel state doesn\u0027t update view",
+      "Tags": [
+        "swiftui",
+        "state"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735474/updating-viewmodel-state-doesnt-update-view"
+    },
+    {
+      "Created": "2025-08-14T13:57:12Z",
+      "Title": "Use authentication from OAuth on iOS in an internal webview",
+      "Tags": [
+        "ios",
+        "swift",
+        "oauth-2.0",
+        "appauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735504/use-authentication-from-oauth-on-ios-in-an-internal-webview"
+    }
+  ]
+}

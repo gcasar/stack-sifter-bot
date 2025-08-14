@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-14T06:03:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T05:29:51Z",
+      "Title": "Background app is opening a blank window on app launch",
+      "Tags": [
+        "macos",
+        "swiftui",
+        "appkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734976/background-app-is-opening-a-blank-window-on-app-launch"
+    },
+    {
+      "Created": "2025-08-14T05:44:52Z",
+      "Title": "which version of @capacitor-community/admob is compatible with capacitor 4.x?",
+      "Tags": [
+        "reactjs",
+        "admob",
+        "capacitor",
+        "react-dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734986/which-version-of-capacitor-community-admob-is-compatible-with-capacitor-4-x"
+    },
+    {
+      "Created": "2025-08-14T05:46:51Z",
+      "Title": "Packaging two scripts with system dependencies for NixOS deployment?",
+      "Tags": [
+        "perl",
+        "nix",
+        "nixos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734988/packaging-two-scripts-with-system-dependencies-for-nixos-deployment"
+    },
+    {
+      "Created": "2025-08-14T05:52:05Z",
+      "Title": "How to save full Codex CLI \u0060exec\u0060 session output as JSON?",
+      "Tags": [
+        "logging",
+        "artificial-intelligence",
+        "codex",
+        "agentic",
+        "openai-codex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734991/how-to-save-full-codex-cli-exec-session-output-as-json"
+    },
+    {
+      "Created": "2025-08-14T05:55:04Z",
+      "Title": "PDF report shows unusual text after upgrading commons-io, tika-core, and pdfbox versions",
+      "Tags": [
+        "java",
+        "maven",
+        "pom.xml",
+        "pdfbox",
+        "apache-tika"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734992/pdf-report-shows-unusual-text-after-upgrading-commons-io-tika-core-and-pdfbox"
+    },
+    {
+      "Created": "2025-08-14T06:03:42Z",
+      "Title": "Platform image not found, azure virtual machine",
+      "Tags": [
+        "azure",
+        "cloud",
+        "azure-virtual-machine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734997/platform-image-not-found-azure-virtual-machine"
+    }
+  ]
+}

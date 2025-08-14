@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-14T04:09:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T03:59:01Z",
+      "Title": "Google Drive Activity API returns knownUser with userId only. Can I resolve that to email/displayName without Workspace admin?",
+      "Tags": [
+        "google-api",
+        "google-drive-api",
+        "google-docs",
+        "google-workspace",
+        "google-drive-activity-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734927/google-drive-activity-api-returns-knownuser-with-userid-only-can-i-resolve-that"
+    },
+    {
+      "Created": "2025-08-14T03:59:03Z",
+      "Title": "How to get folders and their subfolders with their paths?",
+      "Tags": [
+        "php",
+        "mysql",
+        "tree",
+        "treeview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734928/how-to-get-folders-and-their-subfolders-with-their-paths"
+    },
+    {
+      "Created": "2025-08-14T04:09:45Z",
+      "Title": "When should I use Parallel to search an Array",
+      "Tags": [
+        "c#",
+        "arrays",
+        "search",
+        "task-parallel-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734932/when-should-i-use-parallel-to-search-an-array"
+    }
+  ]
+}

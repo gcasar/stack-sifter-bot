@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-14T20:02:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T19:35:28Z",
+      "Title": "How to add/subtract time in Python C API?",
+      "Tags": [
+        "python",
+        "c",
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735835/how-to-add-subtract-time-in-python-c-api"
+    },
+    {
+      "Created": "2025-08-14T19:41:14Z",
+      "Title": "OpenEdge Replication - Time to Replicate?",
+      "Tags": [
+        "openedge",
+        "progress-4gl",
+        "progress-db"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735840/openedge-replication-time-to-replicate"
+    },
+    {
+      "Created": "2025-08-14T19:45:01Z",
+      "Title": "\u0022Syntax error: identifier\u0022 with an argument class name in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735844/syntax-error-identifier-with-an-argument-class-name-in-c"
+    },
+    {
+      "Created": "2025-08-14T19:45:37Z",
+      "Title": "Error dynamically loading libatomic.so with musl",
+      "Tags": [
+        "linker",
+        "musl",
+        "musl-gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735846/error-dynamically-loading-libatomic-so-with-musl"
+    },
+    {
+      "Created": "2025-08-14T19:56:12Z",
+      "Title": "gluonfx for android how to log to logcat",
+      "Tags": [
+        "gluon",
+        "gluon-mobile",
+        "gluonfx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735852/gluonfx-for-android-how-to-log-to-logcat"
+    },
+    {
+      "Created": "2025-08-14T20:00:06Z",
+      "Title": "I need to transfer information and group some columns into one on google sheets",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735856/i-need-to-transfer-information-and-group-some-columns-into-one-on-google-sheets"
+    },
+    {
+      "Created": "2025-08-14T20:00:10Z",
+      "Title": "KeyError when loading GPT-OSS-20B locally with transformers on CPU",
+      "Tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "huggingface",
+        "google-publisher-tag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735857/keyerror-when-loading-gpt-oss-20b-locally-with-transformers-on-cpu"
+    },
+    {
+      "Created": "2025-08-14T20:02:00Z",
+      "Title": "How to move media between albums in Flutter using photo_manager without system pickers on Android 10\u002B?",
+      "Tags": [
+        "android",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735859/how-to-move-media-between-albums-in-flutter-using-photo-manager-without-system-p"
+    }
+  ]
+}

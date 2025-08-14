@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-14T21:02:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T20:15:07Z",
+      "Title": "Window jumps back to original position after drag",
+      "Tags": [
+        "c#",
+        "imgui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735863/window-jumps-back-to-original-position-after-drag"
+    },
+    {
+      "Created": "2025-08-14T20:40:56Z",
+      "Title": "How do I hide a chart item from the legend using DundasScript in Logi Symphony?",
+      "Tags": [
+        "dundas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735876/how-do-i-hide-a-chart-item-from-the-legend-using-dundasscript-in-logi-symphony"
+    },
+    {
+      "Created": "2025-08-14T20:43:05Z",
+      "Title": "Image.network in GridView opens multiple TCP connections for each image \u2014 how to reuse or cache network images?",
+      "Tags": [
+        "flutter",
+        "image",
+        "dart",
+        "gridview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735879/image-network-in-gridview-opens-multiple-tcp-connections-for-each-image-how-to"
+    },
+    {
+      "Created": "2025-08-14T20:44:14Z",
+      "Title": "How to include two named functions sequentially in one anonymous function",
+      "Tags": [
+        "matlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735883/how-to-include-two-named-functions-sequentially-in-one-anonymous-function"
+    },
+    {
+      "Created": "2025-08-14T21:01:36Z",
+      "Title": "R-Replace NA\u0027s with a value drawn from a normal distribution based on the minimum value of the same column",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735894/r-replace-nas-with-a-value-drawn-from-a-normal-distribution-based-on-the-minimu"
+    },
+    {
+      "Created": "2025-08-14T21:02:25Z",
+      "Title": "Im trying to use Alloy staging and errors out with \u0022Unexpected token at the end of the expression: tUnquotedIdentifier\u0022",
+      "Tags": [
+        "grafana",
+        "grafana-loki",
+        "grafana-alloy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735896/im-trying-to-use-alloy-staging-and-errors-out-with-unexpected-token-at-the-end"
+    }
+  ]
+}

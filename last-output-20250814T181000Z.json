@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-14T18:08:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T17:28:00Z",
+      "Title": "Can two Simulation experiments run in parallel (continuous \u002B optimization loop)?",
+      "Tags": [
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735728/can-two-simulation-experiments-run-in-parallel-continuous-optimization-loop"
+    },
+    {
+      "Created": "2025-08-14T17:28:37Z",
+      "Title": "LINQ query timing out",
+      "Tags": [
+        ".net",
+        "sql-server",
+        "linq",
+        "linq-to-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735730/linq-query-timing-out"
+    },
+    {
+      "Created": "2025-08-14T17:56:30Z",
+      "Title": "Published Entry Becomes Modified -- How to Force Published?",
+      "Tags": [
+        "strapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735750/published-entry-becomes-modified-how-to-force-published"
+    },
+    {
+      "Created": "2025-08-14T18:00:04Z",
+      "Title": "Failed to connect Oracle Autonomous Database Without a Wallet (TLS) using Java code",
+      "Tags": [
+        "java",
+        "oracle-database",
+        "jdbc",
+        "oracle-cloud-infrastructure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735753/failed-to-connect-oracle-autonomous-database-without-a-wallet-tls-using-java-c"
+    },
+    {
+      "Created": "2025-08-14T18:00:43Z",
+      "Title": "Disable Rubocop in html.slim",
+      "Tags": [
+        "ruby-on-rails",
+        "rubocop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735754/disable-rubocop-in-html-slim"
+    },
+    {
+      "Created": "2025-08-14T18:07:47Z",
+      "Title": "IIS Reverse Proxy between ASP.NET and React getting 502.2 Bad Gateway",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "iis",
+        "reverse-proxy",
+        "windows-server-2016"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735761/iis-reverse-proxy-between-asp-net-and-react-getting-502-2-bad-gateway"
+    },
+    {
+      "Created": "2025-08-14T18:08:24Z",
+      "Title": "Saving/accessing DefaultTestSet created from Test.@testset?",
+      "Tags": [
+        "julia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735762/saving-accessing-defaulttestset-created-from-test-testset"
+    }
+  ]
+}

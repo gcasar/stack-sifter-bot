@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-14T12:08:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T11:18:04Z",
+      "Title": "While comparing two DataFrames read from delta, I receive output they are different and I cannot pinpoint the cause [closed]",
+      "Tags": [
+        "python",
+        "excel",
+        "dataframe",
+        "pyspark",
+        "databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735323/while-comparing-two-dataframes-read-from-delta-i-receive-output-they-are-differ"
+    },
+    {
+      "Created": "2025-08-14T11:36:10Z",
+      "Title": "Making a type trait for rotating index_sequences more compiler friendly",
+      "Tags": [
+        "c\u002B\u002B",
+        "inheritance",
+        "metaprogramming",
+        "type-traits"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735346/making-a-type-trait-for-rotating-index-sequences-more-compiler-friendly"
+    },
+    {
+      "Created": "2025-08-14T11:58:07Z",
+      "Title": "Why are all flextable::border() borders visible in html but not in docx/rtf/pptx export?",
+      "Tags": [
+        "r",
+        "r-flextable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735364/why-are-all-flextableborder-borders-visible-in-html-but-not-in-docx-rtf-pptx"
+    },
+    {
+      "Created": "2025-08-14T12:08:20Z",
+      "Title": "Write text in Excel file with CoAuthoring using Microsoft Graph API",
+      "Tags": [
+        "excel",
+        "microsoft-graph-api",
+        "graphserviceclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735376/write-text-in-excel-file-with-coauthoring-using-microsoft-graph-api"
+    }
+  ]
+}

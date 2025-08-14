@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-14T04:48:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T04:39:29Z",
+      "Title": "Could not parse version constraint : Invalid version string \u0022\u0022 Symfony",
+      "Tags": [
+        "symfony",
+        "symfony7",
+        "symfonyux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734945/could-not-parse-version-constraint-invalid-version-string-symfony"
+    },
+    {
+      "Created": "2025-08-14T04:41:16Z",
+      "Title": "Having issues with passing an object to be displayed between two ViewModels in .net Maui using communtiy toolkit",
+      "Tags": [
+        "c#",
+        ".net",
+        "mvvm",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734947/having-issues-with-passing-an-object-to-be-displayed-between-two-viewmodels-in"
+    },
+    {
+      "Created": "2025-08-14T04:48:10Z",
+      "Title": "When does browser (e.g. Chrome) add \u0060Cache-Control: no-cache\u0060 to request header when user empty cache and hard reload?",
+      "Tags": [
+        "google-chrome",
+        "google-chrome-devtools",
+        "chromium",
+        "browser-cache",
+        "cache-control"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734953/when-does-browser-e-g-chrome-add-cache-control-no-cache-to-request-header"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-14T11:01:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T10:48:20Z",
+      "Title": "Redshift cannot parse response from python lambda",
+      "Tags": [
+        "python",
+        "amazon-web-services",
+        "aws-lambda",
+        "amazon-redshift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735290/redshift-cannot-parse-response-from-python-lambda"
+    },
+    {
+      "Created": "2025-08-14T10:53:52Z",
+      "Title": "CarouselSlider \u2013 Rounded corners on side images not just center",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735295/carouselslider-rounded-corners-on-side-images-not-just-center"
+    },
+    {
+      "Created": "2025-08-14T10:54:18Z",
+      "Title": "My inventory is malfunctioning (in Godot)",
+      "Tags": [
+        "for-loop",
+        "godot",
+        "godot4",
+        "inventory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735296/my-inventory-is-malfunctioning-in-godot"
+    },
+    {
+      "Created": "2025-08-14T10:56:48Z",
+      "Title": "How to add a user segment to a LaunchDarkly feature flag variation via API?",
+      "Tags": [
+        "rest",
+        "feature-flags",
+        "launchdarkly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735298/how-to-add-a-user-segment-to-a-launchdarkly-feature-flag-variation-via-api"
+    },
+    {
+      "Created": "2025-08-14T10:59:17Z",
+      "Title": "Using import aliases in Playwright files",
+      "Tags": [
+        "javascript",
+        "vite",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735302/using-import-aliases-in-playwright-files"
+    },
+    {
+      "Created": "2025-08-14T11:01:08Z",
+      "Title": "How can I translate product custom fields using the sync API?",
+      "Tags": [
+        "shopware6",
+        "shopware6-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735306/how-can-i-translate-product-custom-fields-using-the-sync-api"
+    }
+  ]
+}

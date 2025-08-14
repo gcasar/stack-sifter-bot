@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-14T00:26:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-13T23:48:27Z",
+      "Title": "Flutter Dio: Do not log error to Sentry on Cancel Token error",
+      "Tags": [
+        "flutter",
+        "sentry",
+        "dio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734833/flutter-dio-do-not-log-error-to-sentry-on-cancel-token-error"
+    },
+    {
+      "Created": "2025-08-14T00:20:49Z",
+      "Title": "how to inject a primitive using WELD",
+      "Tags": [
+        "java",
+        "cdi",
+        "jboss-weld"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734847/how-to-inject-a-primitive-using-weld"
+    },
+    {
+      "Created": "2025-08-14T00:26:58Z",
+      "Title": "Set an APEX Item upon page load depending on what Interactive Grid is displayed",
+      "Tags": [
+        "javascript",
+        "oracle-apex",
+        "oracle-apex-19.2",
+        "oracle-apex-20.1",
+        "oracle-apex-23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734850/set-an-apex-item-upon-page-load-depending-on-what-interactive-grid-is-displayed"
+    }
+  ]
+}

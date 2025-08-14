@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-14T10:05:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T09:40:24Z",
+      "Title": "applying com.apple.security.app-sandbox to hello world binary crashes with illegal hardware instruction",
+      "Tags": [
+        "macos",
+        "codesign",
+        "appstore-sandbox",
+        "entitlements"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735219/applying-com-apple-security-app-sandbox-to-hello-world-binary-crashes-with-illeg"
+    },
+    {
+      "Created": "2025-08-14T09:42:04Z",
+      "Title": "Pytube consistently fails with HTTP Error 400: Bad Request also on latest version",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "error-handling",
+        "youtube-api",
+        "pytube"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735220/pytube-consistently-fails-with-http-error-400-bad-request-also-on-latest-versio"
+    },
+    {
+      "Created": "2025-08-14T09:59:08Z",
+      "Title": "pypi caching in Artifactory",
+      "Tags": [
+        "python",
+        "pip",
+        "artifactory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735236/pypi-caching-in-artifactory"
+    },
+    {
+      "Created": "2025-08-14T10:03:32Z",
+      "Title": "How are fp6 and fp4 supported on NVIDIA Tensor Core on Blackwell?",
+      "Tags": [
+        "cuda",
+        "nvidia",
+        "tensor",
+        "ptx",
+        "cuda-wmma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735243/how-are-fp6-and-fp4-supported-on-nvidia-tensor-core-on-blackwell"
+    },
+    {
+      "Created": "2025-08-14T10:04:52Z",
+      "Title": "How to scrape a website that has \u003Cspan class=\u0022ellipsis\u0022\u003E\u2026\u003C/span\u003E in between number on a dynamic table with sellenium python",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping",
+        "automation",
+        "pagination"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735244/how-to-scrape-a-website-that-has-span-class-ellipsis-span-in-between-numb"
+    },
+    {
+      "Created": "2025-08-14T10:05:54Z",
+      "Title": "How to create MCP server using Official MCP Java SDK in an existing Tomcat based Java application?",
+      "Tags": [
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735247/how-to-create-mcp-server-using-official-mcp-java-sdk-in-an-existing-tomcat-based"
+    }
+  ]
+}

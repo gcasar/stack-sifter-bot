@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-14T17:05:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T16:47:18Z",
+      "Title": "Getting issues with org.eclipse.persistence \u00BB eclipselink \u00BB2.4.1M version with jdk 11",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "jpa",
+        "eclipselink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735692/getting-issues-with-org-eclipse-persistence-eclipselink-2-4-1m-version-with-j"
+    },
+    {
+      "Created": "2025-08-14T16:51:01Z",
+      "Title": "MQTT Downlink from ThingsBoard Repeats on Every Device Re-Subscription (Despite QoS=0 and retain=false)",
+      "Tags": [
+        "mqtt",
+        "iot",
+        "mosquitto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735693/mqtt-downlink-from-thingsboard-repeats-on-every-device-re-subscription-despite"
+    },
+    {
+      "Created": "2025-08-14T16:52:03Z",
+      "Title": "Google Sign-In Failed with \u0022Access blocked: Authorization error, Error: Invalid_scope\u0022 in Flutter",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter",
+        "google-oauth",
+        "google-signin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735694/google-sign-in-failed-with-access-blocked-authorization-error-error-invalid"
+    },
+    {
+      "Created": "2025-08-14T16:55:41Z",
+      "Title": "How can X11 be specified font names to enable printing any UTF-8 characters?",
+      "Tags": [
+        "linux",
+        "fonts",
+        "x11",
+        "nuklear"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735697/how-can-x11-be-specified-font-names-to-enable-printing-any-utf-8-characters"
+    },
+    {
+      "Created": "2025-08-14T17:05:16Z",
+      "Title": "Terraform and conditionals to choose between GovCloud and Commercial in AWS",
+      "Tags": [
+        "amazon-web-services",
+        "terraform",
+        "terraform-provider-aws"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735704/terraform-and-conditionals-to-choose-between-govcloud-and-commercial-in-aws"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-14T01:26:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T01:06:00Z",
+      "Title": "How can my Windows service application interact with a GUI application?",
+      "Tags": [
+        "c#",
+        "windows",
+        "server",
+        ".net-8.0",
+        "rdp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734866/how-can-my-windows-service-application-interact-with-a-gui-application"
+    },
+    {
+      "Created": "2025-08-14T01:17:11Z",
+      "Title": "Differences and best practices for using ViewModels in XML vs Jetpack Compose",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "viewmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734868/differences-and-best-practices-for-using-viewmodels-in-xml-vs-jetpack-compose"
+    },
+    {
+      "Created": "2025-08-14T01:26:21Z",
+      "Title": "FLink sql with mini batch seems to trigger only on checkpoint",
+      "Tags": [
+        "apache-flink",
+        "flink-streaming",
+        "flink-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734869/flink-sql-with-mini-batch-seems-to-trigger-only-on-checkpoint"
+    }
+  ]
+}

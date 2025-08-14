@@ -1,0 +1,138 @@
+{
+  "TotalProcessed": 13,
+  "LastCreated": "2025-08-14T22:53:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T21:11:57Z",
+      "Title": "What is the best principles to create UI in Jetpack Compose?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "navigation",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735899/what-is-the-best-principles-to-create-ui-in-jetpack-compose"
+    },
+    {
+      "Created": "2025-08-14T21:44:04Z",
+      "Title": "how to include the R version inside sprintf to show on log file",
+      "Tags": [
+        "r",
+        "cmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735924/how-to-include-the-r-version-inside-sprintf-to-show-on-log-file"
+    },
+    {
+      "Created": "2025-08-14T21:56:55Z",
+      "Title": "Google Script Conditional Cell Color",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735931/google-script-conditional-cell-color"
+    },
+    {
+      "Created": "2025-08-14T22:27:04Z",
+      "Title": "delphi clientdataset refreshrecord keeps giving error field cannot be modified",
+      "Tags": [
+        "delphi",
+        "tclientdataset",
+        "delphi-12-athens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735946/delphi-clientdataset-refreshrecord-keeps-giving-error-field-cannot-be-modified"
+    },
+    {
+      "Created": "2025-08-14T22:27:17Z",
+      "Title": "C# \u0022cannot convert\u0022 a generic class to its covariant interface [duplicate]",
+      "Tags": [
+        "c#",
+        "covariance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735947/c-sharp-cannot-convert-a-generic-class-to-its-covariant-interface"
+    },
+    {
+      "Created": "2025-08-14T22:29:32Z",
+      "Title": "Why is self not an address in Python?",
+      "Tags": [
+        "python",
+        "memory-address",
+        "self"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735949/why-is-self-not-an-address-in-python"
+    },
+    {
+      "Created": "2025-08-14T22:37:59Z",
+      "Title": "Godot 4.4 get_tree().change_scene_to_file(\u0022res://scene.tscn\u0022) Not Switching to the Intended Scene",
+      "Tags": [
+        "user-interface",
+        "game-development",
+        "gdscript",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735952/godot-4-4-get-tree-change-scene-to-fileres-scene-tscn-not-switching-to-t"
+    },
+    {
+      "Created": "2025-08-14T22:40:56Z",
+      "Title": "How to inject Context in a class constructor and in the 2nd constructor as well, using koin?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "koin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735956/how-to-inject-context-in-a-class-constructor-and-in-the-2nd-constructor-as-well"
+    },
+    {
+      "Created": "2025-08-14T22:43:19Z",
+      "Title": "How to make setup.py invoke C\u002B\u002B compiler instead of C?",
+      "Tags": [
+        "python",
+        "python-3.6",
+        "distutils"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735957/how-to-make-setup-py-invoke-c-compiler-instead-of-c"
+    },
+    {
+      "Created": "2025-08-14T22:51:00Z",
+      "Title": "SmallRye JWT: No enum constant \u0060KeyEncryptionAlgorithm.dir\u0060 when using \u0060KeyEncryptionAlgorithm.DIR\u0060",
+      "Tags": [
+        "java",
+        "jwt",
+        "quarkus",
+        "smallrye",
+        "jwe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735960/smallrye-jwt-no-enum-constant-keyencryptionalgorithm-dir-when-using-keyencry"
+    },
+    {
+      "Created": "2025-08-14T22:51:10Z",
+      "Title": "Why can my C\u002B\u002B class be implicitly converted in one case, but not another?",
+      "Tags": [
+        "c\u002B\u002B",
+        "constructor",
+        "implicit-conversion",
+        "aggregate-initialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735961/why-can-my-c-class-be-implicitly-converted-in-one-case-but-not-another"
+    },
+    {
+      "Created": "2025-08-14T22:52:50Z",
+      "Title": "qnap ts-264 can not install ssh-add / ssh-agent",
+      "Tags": [
+        "ssh",
+        "ssh-keygen",
+        "qnap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735962/qnap-ts-264-can-not-install-ssh-add-ssh-agent"
+    },
+    {
+      "Created": "2025-08-14T22:53:15Z",
+      "Title": "How do I match literal quotes in an AutoHotKey RegexReplace command?",
+      "Tags": [
+        "regex",
+        "autohotkey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735963/how-do-i-match-literal-quotes-in-an-autohotkey-regexreplace-command"
+    }
+  ]
+}

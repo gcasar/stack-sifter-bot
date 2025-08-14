@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-14T02:43:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T02:43:29Z",
+      "Title": "How does DolphinDB ORCA achieve heterogeneous multi - table replay to multiple sources?",
+      "Tags": [
+        "streaming",
+        "dolphindb",
+        "replay",
+        "data-handling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79734905/how-does-dolphindb-orca-achieve-heterogeneous-multi-table-replay-to-multiple-s"
+    }
+  ]
+}

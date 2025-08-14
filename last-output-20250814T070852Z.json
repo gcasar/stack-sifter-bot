@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-14T06:55:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T06:54:12Z",
+      "Title": "In android app how do I read data from and write data to a file",
+      "Tags": [
+        "c#",
+        "android",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735049/in-android-app-how-do-i-read-data-from-and-write-data-to-a-file"
+    },
+    {
+      "Created": "2025-08-14T06:55:06Z",
+      "Title": "InlineKeyboardButton with callback_data doesn\u0027t work",
+      "Tags": [
+        "telegram",
+        "telegram-bot",
+        "python-telegram-bot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735051/inlinekeyboardbutton-with-callback-data-doesnt-work"
+    }
+  ]
+}

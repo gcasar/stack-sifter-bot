@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-14T16:04:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T15:39:51Z",
+      "Title": "Can I create an *alias* member function in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "alias",
+        "member-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735636/can-i-create-an-alias-member-function-in-c"
+    },
+    {
+      "Created": "2025-08-14T15:58:03Z",
+      "Title": "How to save an Astropy QTable with a galactocentric skycoord to a FITS file?",
+      "Tags": [
+        "python",
+        "astropy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735659/how-to-save-an-astropy-qtable-with-a-galactocentric-skycoord-to-a-fits-file"
+    },
+    {
+      "Created": "2025-08-14T16:04:33Z",
+      "Title": "Why isn\u0027t dict[str, str] assignable to Mapping[str | int, str]?",
+      "Tags": [
+        "python",
+        "python-typing",
+        "mypy",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735667/why-isnt-dictstr-str-assignable-to-mappingstr-int-str"
+    }
+  ]
+}

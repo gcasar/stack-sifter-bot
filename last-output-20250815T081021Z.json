@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-15T08:08:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T07:45:03Z",
+      "Title": ".NET, change property of multiple objects in collection",
+      "Tags": [
+        "c#",
+        ".net",
+        "events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736195/net-change-property-of-multiple-objects-in-collection"
+    },
+    {
+      "Created": "2025-08-15T08:02:24Z",
+      "Title": "Creating virtual object in constructor initialization",
+      "Tags": [
+        "c\u002B\u002B",
+        "constructor",
+        "reference",
+        "virtual"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736208/creating-virtual-object-in-constructor-initialization"
+    },
+    {
+      "Created": "2025-08-15T08:03:39Z",
+      "Title": "Typescript issue with passing a component and props into List component",
+      "Tags": [
+        "reactjs",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736210/typescript-issue-with-passing-a-component-and-props-into-list-component"
+    },
+    {
+      "Created": "2025-08-15T08:07:18Z",
+      "Title": "FastAPI \u0026 FastHTML front-to-backend server requests",
+      "Tags": [
+        "fastapi",
+        "fasthtml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736216/fastapi-fasthtml-front-to-backend-server-requests"
+    },
+    {
+      "Created": "2025-08-15T08:08:54Z",
+      "Title": "Is asking the UserInfo endpoint for claims required to be standard compliant with OIDC?",
+      "Tags": [
+        "keycloak",
+        "openid-connect",
+        "shibboleth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736217/is-asking-the-userinfo-endpoint-for-claims-required-to-be-standard-compliant-wit"
+    }
+  ]
+}

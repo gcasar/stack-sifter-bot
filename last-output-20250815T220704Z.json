@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-15T21:49:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T21:06:03Z",
+      "Title": "When an atomic variable becomes visible to a thread other than the writing thread, is it also immediately globally visible?",
+      "Tags": [
+        "multithreading",
+        "cpu-architecture",
+        "atomic",
+        "memory-barriers",
+        "mesi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736838/when-an-atomic-variable-becomes-visible-to-a-thread-other-than-the-writing-threa"
+    },
+    {
+      "Created": "2025-08-15T21:11:34Z",
+      "Title": "Getting the doc from the firestore isnt working as expected",
+      "Tags": [
+        "javascript",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736844/getting-the-doc-from-the-firestore-isnt-working-as-expected"
+    },
+    {
+      "Created": "2025-08-15T21:40:08Z",
+      "Title": "Access object property from a string like \u0022obj_name.prop_name\u0022",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736853/access-object-property-from-a-string-like-obj-name-prop-name"
+    },
+    {
+      "Created": "2025-08-15T21:44:52Z",
+      "Title": "How to pass fps metadata to gemini_model.generate_content?",
+      "Tags": [
+        "python",
+        "google-cloud-vertex-ai",
+        "google-gemini",
+        "google-generativeai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736857/how-to-pass-fps-metadata-to-gemini-model-generate-content"
+    },
+    {
+      "Created": "2025-08-15T21:49:20Z",
+      "Title": "Unable to print barcode labels on my Dymo label writer 450 Twin Turbo using DYMO.Connect.SDK 1.4.4.21 using C#",
+      "Tags": [
+        "c#",
+        ".net",
+        "winforms",
+        "barcode-printing",
+        "dymo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736859/unable-to-print-barcode-labels-on-my-dymo-label-writer-450-twin-turbo-using-dymo"
+    }
+  ]
+}

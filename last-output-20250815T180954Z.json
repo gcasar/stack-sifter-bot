@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-15T18:06:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T17:13:17Z",
+      "Title": "Okio 3: \u201CUsing buffer(Sink) is an error. moved to extension function\u201D when writing Retrofit response to a File",
+      "Tags": [
+        "kotlin",
+        "retrofit",
+        "okio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736672/okio-3-using-buffersink-is-an-error-moved-to-extension-function-when-writi"
+    },
+    {
+      "Created": "2025-08-15T17:34:21Z",
+      "Title": "Is there a way to get a Python dataclass length?",
+      "Tags": [
+        "python",
+        "python-dataclasses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736689/is-there-a-way-to-get-a-python-dataclass-length"
+    },
+    {
+      "Created": "2025-08-15T17:34:58Z",
+      "Title": "How to apply .accessibilitySpeechAdjustedPitch to abutting words for VoiceOver",
+      "Tags": [
+        "swift",
+        "voiceover"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736691/how-to-apply-accessibilityspeechadjustedpitch-to-abutting-words-for-voiceover"
+    },
+    {
+      "Created": "2025-08-15T17:38:55Z",
+      "Title": "Better way to search for a node in binary tree",
+      "Tags": [
+        "c",
+        "algorithm",
+        "pointers",
+        "data-structures",
+        "binary-tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736696/better-way-to-search-for-a-node-in-binary-tree"
+    },
+    {
+      "Created": "2025-08-15T17:48:41Z",
+      "Title": "Can\u0027t Add Generated TypeScript Module File To Global Space",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736708/cant-add-generated-typescript-module-file-to-global-space"
+    },
+    {
+      "Created": "2025-08-15T17:51:58Z",
+      "Title": "When streaming a response using Vapor, how can I know when the request has been cancelled?",
+      "Tags": [
+        "swift",
+        "vapor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736709/when-streaming-a-response-using-vapor-how-can-i-know-when-the-request-has-been"
+    },
+    {
+      "Created": "2025-08-15T17:58:44Z",
+      "Title": "Adding modifiers to System.Text.Json serialization when using source generation",
+      "Tags": [
+        "c#",
+        "system.text.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736717/adding-modifiers-to-system-text-json-serialization-when-using-source-generation"
+    },
+    {
+      "Created": "2025-08-15T18:06:16Z",
+      "Title": "Manifest merger failed on application@allowBackup (app=false vs library=true). Best-practice fix?",
+      "Tags": [
+        "android",
+        "android-manifest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736721/manifest-merger-failed-on-applicationallowbackup-app-false-vs-library-true-b"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-15T10:54:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T10:36:59Z",
+      "Title": "c\u002B\u002B20 tuple compare with reference",
+      "Tags": [
+        "c\u002B\u002B",
+        "reference",
+        "c\u002B\u002B20",
+        "stdtuple"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736340/c20-tuple-compare-with-reference"
+    },
+    {
+      "Created": "2025-08-15T10:39:52Z",
+      "Title": "Rust aliasing: do references to the parent struct count as references to its fields?",
+      "Tags": [
+        "rust",
+        "unsafe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736341/rust-aliasing-do-references-to-the-parent-struct-count-as-references-to-its-fie"
+    },
+    {
+      "Created": "2025-08-15T10:48:35Z",
+      "Title": "Github workflow yml load env variables with secrets not working",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "docker",
+        "github",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736347/github-workflow-yml-load-env-variables-with-secrets-not-working"
+    },
+    {
+      "Created": "2025-08-15T10:48:41Z",
+      "Title": "In PHP PSR-12, Is it allowable to align equal signs in variable assignments?",
+      "Tags": [
+        "php",
+        "psr-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736348/in-php-psr-12-is-it-allowable-to-align-equal-signs-in-variable-assignments"
+    },
+    {
+      "Created": "2025-08-15T10:48:52Z",
+      "Title": "One to one generate join instead of left join",
+      "Tags": [
+        "java",
+        "hibernate",
+        "hql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736349/one-to-one-generate-join-instead-of-left-join"
+    },
+    {
+      "Created": "2025-08-15T10:51:08Z",
+      "Title": "BSD-Sed regex filtering to strip IP addresses on tcsh shell",
+      "Tags": [
+        "sed",
+        "tcsh",
+        "bsd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736353/bsd-sed-regex-filtering-to-strip-ip-addresses-on-tcsh-shell"
+    },
+    {
+      "Created": "2025-08-15T10:51:46Z",
+      "Title": "OpenAPI Generator 7.9.0 generates methods with _0 as suffix. How to work around that issue?",
+      "Tags": [
+        "java",
+        "openapi",
+        "spring-annotations",
+        "openapi-generator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736355/openapi-generator-7-9-0-generates-methods-with-0-as-suffix-how-to-work-around"
+    },
+    {
+      "Created": "2025-08-15T10:54:16Z",
+      "Title": "Snowflake Scripting. Using one declared NUMBER variable within the WHERE clause of an second declared NUMBER variable as SELECT statement",
+      "Tags": [
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736356/snowflake-scripting-using-one-declared-number-variable-within-the-where-clause"
+    }
+  ]
+}

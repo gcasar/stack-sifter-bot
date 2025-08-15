@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-15T19:44:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T19:24:54Z",
+      "Title": "JsonNode not reading correct Node value",
+      "Tags": [
+        "java",
+        "for-loop",
+        "jsonnode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736775/jsonnode-not-reading-correct-node-value"
+    },
+    {
+      "Created": "2025-08-15T19:39:20Z",
+      "Title": "How does IF statement short-circuiting interact with speculative execution?",
+      "Tags": [
+        "cpu-architecture",
+        "speculative-execution",
+        "short-circuit-evaluation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736784/how-does-if-statement-short-circuiting-interact-with-speculative-execution"
+    },
+    {
+      "Created": "2025-08-15T19:39:57Z",
+      "Title": "Why is my viewModelScope.launch cancelling the job due to screen rotation?",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "kotlin-coroutines",
+        "android-viewmodel",
+        "kotlin-flow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736786/why-is-my-viewmodelscope-launch-cancelling-the-job-due-to-screen-rotation"
+    },
+    {
+      "Created": "2025-08-15T19:44:26Z",
+      "Title": "How to make htm-core work for multidimensional input",
+      "Tags": [
+        "hierarchical-temporal-memory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736790/how-to-make-htm-core-work-for-multidimensional-input"
+    }
+  ]
+}

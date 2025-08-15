@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-15T13:57:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T13:48:51Z",
+      "Title": "Positron (or VS Code) snippet to insert dashes up to a number of characters",
+      "Tags": [
+        "visual-studio-code",
+        "vscode-snippets",
+        "positron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736483/positron-or-vs-code-snippet-to-insert-dashes-up-to-a-number-of-characters"
+    },
+    {
+      "Created": "2025-08-15T13:52:52Z",
+      "Title": "Creating a DOCX word file using FLEXTABLE \u0026 CLINIFY",
+      "Tags": [
+        "r",
+        "r-flextable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736487/creating-a-docx-word-file-using-flextable-clinify"
+    },
+    {
+      "Created": "2025-08-15T13:55:26Z",
+      "Title": "Regular expression patterns in JavaScript and PHP [duplicate]",
+      "Tags": [
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736490/regular-expression-patterns-in-javascript-and-php"
+    },
+    {
+      "Created": "2025-08-15T13:57:07Z",
+      "Title": "VSCode git.autoRepositoryDetection automatically resets to false after window reload",
+      "Tags": [
+        "git",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736491/vscode-git-autorepositorydetection-automatically-resets-to-false-after-window-re"
+    },
+    {
+      "Created": "2025-08-15T13:57:21Z",
+      "Title": "Sound when the app is in the background on iOS",
+      "Tags": [
+        "ios",
+        "android-studio",
+        "libgdx",
+        "robovm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736492/sound-when-the-app-is-in-the-background-on-ios"
+    },
+    {
+      "Created": "2025-08-15T13:57:24Z",
+      "Title": "Dynamic Form Field Generation React",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "code-reuse",
+        "npm-workspaces"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736493/dynamic-form-field-generation-react"
+    },
+    {
+      "Created": "2025-08-15T13:57:30Z",
+      "Title": "Python 3, save \u00E6\u00F8\u00E5 to json-file [duplicate]",
+      "Tags": [
+        "python",
+        "json",
+        "utf-8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736494/python-3-save-%c3%a6%c3%b8%c3%a5-to-json-file"
+    }
+  ]
+}

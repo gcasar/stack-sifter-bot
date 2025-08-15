@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-15T17:02:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T16:35:58Z",
+      "Title": "How to conditionally include AppIntents that for ios 17, while supporting ios 16",
+      "Tags": [
+        "ios",
+        "swift",
+        "ios16",
+        "ios17",
+        "appintents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736643/how-to-conditionally-include-appintents-that-for-ios-17-while-supporting-ios-16"
+    },
+    {
+      "Created": "2025-08-15T16:47:51Z",
+      "Title": "Google sheets script - identical script not functioning on two different sheets",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736649/google-sheets-script-identical-script-not-functioning-on-two-different-sheets"
+    },
+    {
+      "Created": "2025-08-15T16:50:13Z",
+      "Title": "Compilation fails when two static strings are present, but succeeds with just one",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "constexpr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736650/compilation-fails-when-two-static-strings-are-present-but-succeeds-with-just-on"
+    },
+    {
+      "Created": "2025-08-15T16:51:39Z",
+      "Title": "Blazor Routing Parameters not working from blazor tutorial",
+      "Tags": [
+        "c#",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736653/blazor-routing-parameters-not-working-from-blazor-tutorial"
+    },
+    {
+      "Created": "2025-08-15T16:55:46Z",
+      "Title": "Python Debugging Behavior Different From C# Implementation of Python",
+      "Tags": [
+        "python",
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736656/python-debugging-behavior-different-from-c-sharp-implementation-of-python"
+    },
+    {
+      "Created": "2025-08-15T17:01:59Z",
+      "Title": "ktor client to download gripped XML",
+      "Tags": [
+        "kotlin",
+        "ktor",
+        "ktor-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736660/ktor-client-to-download-gripped-xml"
+    },
+    {
+      "Created": "2025-08-15T17:02:45Z",
+      "Title": "Large table header doesn\u2019t repeat on all printed pages when using display: table-header-group",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736661/large-table-header-doesn-t-repeat-on-all-printed-pages-when-using-display-table"
+    }
+  ]
+}

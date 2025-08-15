@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-15T04:13:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T03:39:45Z",
+      "Title": "ASP.NET Core: Multiple [Authorize(Schemes = \u201CA\u201D)] [Authorize(Schemes = \u201CB\u201D)]Attributes vs [Authorize(Schemes = \u0022A,B\u0022)] - AND or OR Logic?",
+      "Tags": [
+        "c#",
+        "asp.net-core-webapi",
+        "authorize.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736062/asp-net-core-multiple-authorizeschemes-a-authorizeschemes-b-attr"
+    },
+    {
+      "Created": "2025-08-15T04:13:54Z",
+      "Title": "How do I open an std::fstream which internally uses char with a w_char filename cross platform in c\u002B\u002B 20?",
+      "Tags": [
+        "c\u002B\u002B",
+        "stl",
+        "std",
+        "cross-platform",
+        "fstream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736080/how-do-i-open-an-stdfstream-which-internally-uses-char-with-a-w-char-filename"
+    }
+  ]
+}

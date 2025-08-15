@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-15T20:54:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T20:45:02Z",
+      "Title": "Why is a simplified verison of Max(decimal) slower than Linq\u0027s implementation?",
+      "Tags": [
+        "c#",
+        "linq",
+        "benchmarkdotnet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736820/why-is-a-simplified-verison-of-maxdecimal-slower-than-linqs-implementation"
+    },
+    {
+      "Created": "2025-08-15T20:54:49Z",
+      "Title": "Can the hardware reorder an atomic load followed by an atomic store, if the store is conditional on the load?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "cpu-architecture",
+        "atomic",
+        "memory-barriers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736826/can-the-hardware-reorder-an-atomic-load-followed-by-an-atomic-store-if-the-stor"
+    }
+  ]
+}

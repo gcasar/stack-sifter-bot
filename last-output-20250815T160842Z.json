@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-15T16:05:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T16:04:23Z",
+      "Title": "Trouble with Crashlytics Debug Symbols \u002B Xcode Cloud",
+      "Tags": [
+        "ios",
+        "crashlytics",
+        "xcode-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736608/trouble-with-crashlytics-debug-symbols-xcode-cloud"
+    },
+    {
+      "Created": "2025-08-15T16:05:42Z",
+      "Title": "How to calculate percentage similarity between two comma-separated strings in Excel?",
+      "Tags": [
+        "excel",
+        "excel-formula",
+        "string-comparison"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736611/how-to-calculate-percentage-similarity-between-two-comma-separated-strings-in-ex"
+    }
+  ]
+}

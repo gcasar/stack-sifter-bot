@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-15T08:58:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T08:25:27Z",
+      "Title": "How do I format my a tensorflow dataset for a multi output model?",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "machine-learning",
+        "keras",
+        "deep-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736231/how-do-i-format-my-a-tensorflow-dataset-for-a-multi-output-model"
+    },
+    {
+      "Created": "2025-08-15T08:52:13Z",
+      "Title": "Clear output then lose control of IPython debugger in jupyterhub notebook",
+      "Tags": [
+        "python",
+        "jupyter-notebook",
+        "jupyterhub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736262/clear-output-then-lose-control-of-ipython-debugger-in-jupyterhub-notebook"
+    },
+    {
+      "Created": "2025-08-15T08:53:38Z",
+      "Title": "Why this.method still works transactionally in SpringBoot",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736263/why-this-method-still-works-transactionally-in-springboot"
+    },
+    {
+      "Created": "2025-08-15T08:58:18Z",
+      "Title": "MariaDB - How to insert if exists update on array insert and if primary or unique index is not possible",
+      "Tags": [
+        "sql",
+        "mariadb",
+        "insert",
+        "sql-update",
+        "on-duplicate-key"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736269/mariadb-how-to-insert-if-exists-update-on-array-insert-and-if-primary-or-uniqu"
+    }
+  ]
+}

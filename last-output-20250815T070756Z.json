@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-15T06:57:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T06:29:05Z",
+      "Title": "How to initialize NuGet package from MauiProgram.cs instead of platform-specific code in .NET MAUI?",
+      "Tags": [
+        ".net",
+        "xamarin",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736144/how-to-initialize-nuget-package-from-mauiprogram-cs-instead-of-platform-specific"
+    },
+    {
+      "Created": "2025-08-15T06:29:42Z",
+      "Title": "How to stream large MKV/MP4 files with fast seeking and iOS support without doubling storage?",
+      "Tags": [
+        "ios",
+        "video",
+        "video-streaming",
+        "http-live-streaming",
+        "plyr.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736146/how-to-stream-large-mkv-mp4-files-with-fast-seeking-and-ios-support-without-doub"
+    },
+    {
+      "Created": "2025-08-15T06:30:26Z",
+      "Title": "Why do the field variables not change?",
+      "Tags": [
+        "c#",
+        "variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736147/why-do-the-field-variables-not-change"
+    },
+    {
+      "Created": "2025-08-15T06:43:07Z",
+      "Title": "Running the Kastrel web server through a domain",
+      "Tags": [
+        "asp.net-core",
+        "nginx-reverse-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736156/running-the-kastrel-web-server-through-a-domain"
+    },
+    {
+      "Created": "2025-08-15T06:49:46Z",
+      "Title": "How to stretch the last column to fill the whole width?",
+      "Tags": [
+        "c#",
+        "html",
+        "css",
+        "bootstrap-4",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736159/how-to-stretch-the-last-column-to-fill-the-whole-width"
+    },
+    {
+      "Created": "2025-08-15T06:57:35Z",
+      "Title": "Type error: Cannot find module \u0027@apps/types\u0027 or its corresponding type declarations",
+      "Tags": [
+        "npm",
+        "next.js",
+        "types",
+        "build",
+        "tsconfig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736162/type-error-cannot-find-module-apps-types-or-its-corresponding-type-declarati"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-15T14:53:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T14:34:03Z",
+      "Title": "How to recursively pick common fields from a tree structure of different types?",
+      "Tags": [
+        "typescript",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736518/how-to-recursively-pick-common-fields-from-a-tree-structure-of-different-types"
+    },
+    {
+      "Created": "2025-08-15T14:34:06Z",
+      "Title": "Connecting C\u002B\u002B library to android project",
+      "Tags": [
+        "android",
+        "c\u002B\u002B",
+        "cmake",
+        "android-ndk",
+        "llamacpp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736519/connecting-c-library-to-android-project"
+    },
+    {
+      "Created": "2025-08-15T14:35:01Z",
+      "Title": "Replacing a character if it is preceded by double quote and several digits",
+      "Tags": [
+        "r",
+        "string",
+        "text",
+        "replace",
+        "stringr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736520/replacing-a-character-if-it-is-preceded-by-double-quote-and-several-digits"
+    },
+    {
+      "Created": "2025-08-15T14:43:34Z",
+      "Title": "Is it allowed to use unions to modify parts of an object?",
+      "Tags": [
+        "c",
+        "union",
+        "strict-aliasing",
+        "type-punning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736524/is-it-allowed-to-use-unions-to-modify-parts-of-an-object"
+    },
+    {
+      "Created": "2025-08-15T14:45:35Z",
+      "Title": "Why SpringCloudGateway produces FluxOnAssembly$OnAssemblyException with empty original stack trace in CompositeException when try to use 2 routes",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-webflux",
+        "spring-cloud",
+        "spring-cloud-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736528/why-springcloudgateway-produces-fluxonassemblyonassemblyexception-with-empty-or"
+    },
+    {
+      "Created": "2025-08-15T14:49:59Z",
+      "Title": "How to compare a reference combination to multiple cells and return the closest match header in Excel?",
+      "Tags": [
+        "excel",
+        "combinations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736535/how-to-compare-a-reference-combination-to-multiple-cells-and-return-the-closest"
+    },
+    {
+      "Created": "2025-08-15T14:51:22Z",
+      "Title": "customize UI in Mac OS pkg installer",
+      "Tags": [
+        "macos",
+        "installation",
+        "productbuild",
+        "pkg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736537/customize-ui-in-mac-os-pkg-installer"
+    },
+    {
+      "Created": "2025-08-15T14:53:01Z",
+      "Title": "Is Junie in Android Studio really \u201CNo Credit System\u201D as shown on JetBrains site?",
+      "Tags": [
+        "jetbrains-ide",
+        "jetbrains-toolbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736542/is-junie-in-android-studio-really-no-credit-system-as-shown-on-jetbrains-site"
+    }
+  ]
+}

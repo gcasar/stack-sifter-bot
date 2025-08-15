@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-15T01:09:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T00:49:52Z",
+      "Title": "How to apply the method of lines (MOL) with scipy odeint function with Danckwerts boundary conditions?",
+      "Tags": [
+        "python",
+        "scipy",
+        "ode",
+        "odeint",
+        "pde"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736008/how-to-apply-the-method-of-lines-mol-with-scipy-odeint-function-with-danckwert"
+    },
+    {
+      "Created": "2025-08-15T00:51:35Z",
+      "Title": "What\u0027s the best way to print a Unicode character to the terminal from C?",
+      "Tags": [
+        "c",
+        "unicode",
+        "encoding",
+        "utf-8",
+        "stdout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736010/whats-the-best-way-to-print-a-unicode-character-to-the-terminal-from-c"
+    },
+    {
+      "Created": "2025-08-15T01:09:50Z",
+      "Title": "Microsoft Solver Foundation giving wild result for a simple problem",
+      "Tags": [
+        "c#",
+        ".net",
+        "optimization",
+        "solver",
+        "nonlinear-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736014/microsoft-solver-foundation-giving-wild-result-for-a-simple-problem"
+    }
+  ]
+}

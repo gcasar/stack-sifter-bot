@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-15T06:01:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T05:52:23Z",
+      "Title": "How can I switch to root and then back to the original user in a Dockerfile?",
+      "Tags": [
+        "docker",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736118/how-can-i-switch-to-root-and-then-back-to-the-original-user-in-a-dockerfile"
+    },
+    {
+      "Created": "2025-08-15T05:54:48Z",
+      "Title": "How to set Tesseract PSM in Docling (Python)",
+      "Tags": [
+        "ocr",
+        "tesseract",
+        "python-tesseract"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736121/how-to-set-tesseract-psm-in-docling-python"
+    },
+    {
+      "Created": "2025-08-15T05:55:27Z",
+      "Title": "Enable Salesforce Community as IdP using JWT for SSO to access another web application using the community user credential",
+      "Tags": [
+        "salesforce",
+        "single-sign-on",
+        "idp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736122/enable-salesforce-community-as-idp-using-jwt-for-sso-to-access-another-web-appli"
+    },
+    {
+      "Created": "2025-08-15T06:01:27Z",
+      "Title": "Regex to match and replace unique values in the 7th \u003Ctd\u003E element of HTML table rows",
+      "Tags": [
+        "javascript",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736127/regex-to-match-and-replace-unique-values-in-the-7th-td-element-of-html-table-r"
+    }
+  ]
+}

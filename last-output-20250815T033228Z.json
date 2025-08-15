@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-15T03:29:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T02:58:19Z",
+      "Title": "Flutter - Highlighting GeoJSON polygon when it is clicked",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736043/flutter-highlighting-geojson-polygon-when-it-is-clicked"
+    },
+    {
+      "Created": "2025-08-15T02:59:48Z",
+      "Title": "Can I use \u0060DynamicProperty\u0060 to create a dynamic relationship for structs that are NOT \u0060@propertyWrapper\u0060\u0027s?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "property-wrapper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736044/can-i-use-dynamicproperty-to-create-a-dynamic-relationship-for-structs-that-ar"
+    },
+    {
+      "Created": "2025-08-15T03:15:52Z",
+      "Title": "SwiftData ModelActor operations block UI despite running on background thread",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736052/swiftdata-modelactor-operations-block-ui-despite-running-on-background-thread"
+    },
+    {
+      "Created": "2025-08-15T03:17:26Z",
+      "Title": "Cross compile x64_86 (-mx32) build on Linux 686 OS missing \u003Casm/ioctls.h\u003E",
+      "Tags": [
+        "linux",
+        "gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736053/cross-compile-x64-86-mx32-build-on-linux-686-os-missing-asm-ioctls-h"
+    },
+    {
+      "Created": "2025-08-15T03:29:26Z",
+      "Title": "Why does Swift Generic Type Inference fail in extensions?",
+      "Tags": [
+        "swift",
+        "generics",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736056/why-does-swift-generic-type-inference-fail-in-extensions"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-15T12:06:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T11:46:29Z",
+      "Title": "How does the Postgres daterange() function work?",
+      "Tags": [
+        "postgresql",
+        "range",
+        "date-range"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736389/how-does-the-postgres-daterange-function-work"
+    },
+    {
+      "Created": "2025-08-15T11:49:08Z",
+      "Title": "Listen to SMS messages while the Kotlin app is in the background",
+      "Tags": [
+        "android",
+        "kotlin",
+        "mobile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736393/listen-to-sms-messages-while-the-kotlin-app-is-in-the-background"
+    },
+    {
+      "Created": "2025-08-15T11:49:43Z",
+      "Title": "How to interpret cosine similarity using EmbeddingSimilarityEvaluator",
+      "Tags": [
+        "huggingface-transformers",
+        "large-language-model",
+        "huggingface",
+        "cosine-similarity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736395/how-to-interpret-cosine-similarity-using-embeddingsimilarityevaluator"
+    },
+    {
+      "Created": "2025-08-15T11:59:07Z",
+      "Title": "Installing Custom Python Wheel Packages in a Databricks Serverless Notebook",
+      "Tags": [
+        "python",
+        "databricks",
+        "python-wheel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736404/installing-custom-python-wheel-packages-in-a-databricks-serverless-notebook"
+    },
+    {
+      "Created": "2025-08-15T12:05:16Z",
+      "Title": "No Firebase App \u0027[DEFAULT]\u0027 has been created - call initializeApp() first",
+      "Tags": [
+        "firebase",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736406/no-firebase-app-default-has-been-created-call-initializeapp-first"
+    },
+    {
+      "Created": "2025-08-15T12:06:28Z",
+      "Title": "How to internationalize existing database entries in a Full Stack project using Vite \u002B i18n?",
+      "Tags": [
+        "internationalization",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736407/how-to-internationalize-existing-database-entries-in-a-full-stack-project-using"
+    }
+  ]
+}

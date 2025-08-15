@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-15T13:00:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T12:25:35Z",
+      "Title": "Accessing associated value of unknown enum in Swift",
+      "Tags": [
+        "swift",
+        "enums",
+        "associated-value"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736421/accessing-associated-value-of-unknown-enum-in-swift"
+    },
+    {
+      "Created": "2025-08-15T12:57:32Z",
+      "Title": "React suspense fallback rendering for a short time even though content is already downloaded",
+      "Tags": [
+        "reactjs",
+        "react-router",
+        "preload",
+        "react-suspense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736444/react-suspense-fallback-rendering-for-a-short-time-even-though-content-is-alread"
+    },
+    {
+      "Created": "2025-08-15T13:00:49Z",
+      "Title": "polars map_batches return_dtype argument for arrays",
+      "Tags": [
+        "python",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736447/polars-map-batches-return-dtype-argument-for-arrays"
+    },
+    {
+      "Created": "2025-08-15T13:00:57Z",
+      "Title": "Tailwind CSS not applying in Turborepo monorepo with shared tailwind-config package and UI component library and storybook",
+      "Tags": [
+        "next.js",
+        "tailwind-css",
+        "monorepo",
+        "postcss",
+        "turborepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736448/tailwind-css-not-applying-in-turborepo-monorepo-with-shared-tailwind-config-pack"
+    }
+  ]
+}

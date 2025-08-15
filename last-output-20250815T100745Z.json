@@ -1,0 +1,109 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-08-15T10:06:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-15T09:12:16Z",
+      "Title": "Importing a CSS stylesheet into a WebComponent with Shadow DOM in Firefox",
+      "Tags": [
+        "javascript",
+        "css",
+        "firefox",
+        "shadow-dom",
+        "native-web-component"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736280/importing-a-css-stylesheet-into-a-webcomponent-with-shadow-dom-in-firefox"
+    },
+    {
+      "Created": "2025-08-15T09:13:40Z",
+      "Title": "terra::vect changes dates when converted from data frame",
+      "Tags": [
+        "r",
+        "lubridate",
+        "terra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736281/terravect-changes-dates-when-converted-from-data-frame"
+    },
+    {
+      "Created": "2025-08-15T09:24:03Z",
+      "Title": "Found 2 AuthenticationProvider beans. Global Authentication Manager will not be configured with AuthenticationProviders",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736287/found-2-authenticationprovider-beans-global-authentication-manager-will-not-be"
+    },
+    {
+      "Created": "2025-08-15T09:38:16Z",
+      "Title": "How to extract common fields from different types?",
+      "Tags": [
+        "typescript",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736297/how-to-extract-common-fields-from-different-types"
+    },
+    {
+      "Created": "2025-08-15T09:43:48Z",
+      "Title": "Screen not routing to main page when state changed from different function",
+      "Tags": [
+        "reactjs",
+        "react-native",
+        "expo",
+        "react-navigation",
+        "expo-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736300/screen-not-routing-to-main-page-when-state-changed-from-different-function"
+    },
+    {
+      "Created": "2025-08-15T09:45:31Z",
+      "Title": "How to detect smart card insertion/removal in Java using javax.smartcardio without polling?",
+      "Tags": [
+        "java",
+        "smartcard",
+        "pcsc",
+        "smartcardio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736301/how-to-detect-smart-card-insertion-removal-in-java-using-javax-smartcardio-witho"
+    },
+    {
+      "Created": "2025-08-15T09:53:22Z",
+      "Title": "How to force saveAll() to commit when not in a transaction?",
+      "Tags": [
+        "jpa",
+        "transactions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736308/how-to-force-saveall-to-commit-when-not-in-a-transaction"
+    },
+    {
+      "Created": "2025-08-15T10:03:15Z",
+      "Title": "How do you block specific resources from being request from external URLs?",
+      "Tags": [
+        "javascript",
+        "google-maps-api-3",
+        "blazor",
+        "privacy-policy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736318/how-do-you-block-specific-resources-from-being-request-from-external-urls"
+    },
+    {
+      "Created": "2025-08-15T10:03:39Z",
+      "Title": "renaming columns within \u0060map\u0060 dynamically using the values from a certain row",
+      "Tags": [
+        "r",
+        "list",
+        "purrr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736319/renaming-columns-within-map-dynamically-using-the-values-from-a-certain-row"
+    },
+    {
+      "Created": "2025-08-15T10:06:16Z",
+      "Title": "Add random characters to the cursor for the Ghost Typer code",
+      "Tags": [
+        "ghost-blog",
+        "typer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736320/add-random-characters-to-the-cursor-for-the-ghost-typer-code"
+    }
+  ]
+}

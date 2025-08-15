@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-15T00:27:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-14T23:57:43Z",
+      "Title": "How to draw line number with NSRulerView?",
+      "Tags": [
+        "objective-c",
+        "cocoa",
+        "nstextview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735989/how-to-draw-line-number-with-nsrulerview"
+    },
+    {
+      "Created": "2025-08-14T23:59:14Z",
+      "Title": "Queuing diagram with server priority and a queue",
+      "Tags": [
+        "queue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735991/queuing-diagram-with-server-priority-and-a-queue"
+    },
+    {
+      "Created": "2025-08-15T00:11:23Z",
+      "Title": "@capacitor/admob banner ad is placed onto my app, rather than pushing up my content",
+      "Tags": [
+        "reactjs",
+        "mobile",
+        "admob",
+        "capacitor",
+        "capacitor-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79735996/capacitor-admob-banner-ad-is-placed-onto-my-app-rather-than-pushing-up-my-cont"
+    },
+    {
+      "Created": "2025-08-15T00:27:29Z",
+      "Title": "Verilog code error for 4 bit ripple carrry adder",
+      "Tags": [
+        "verilog",
+        "digital"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736000/verilog-code-error-for-4-bit-ripple-carrry-adder"
+    }
+  ]
+}

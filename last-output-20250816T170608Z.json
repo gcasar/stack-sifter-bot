@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-16T17:02:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T16:36:13Z",
+      "Title": "Is it possible to import members from a parent class while renaming them?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737329/is-it-possible-to-import-members-from-a-parent-class-while-renaming-them"
+    },
+    {
+      "Created": "2025-08-16T16:40:30Z",
+      "Title": "Rollback plan after SQL upgrade from 2016 Standard Edition to 2022 Enterprise Edition",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "upgrade",
+        "rollback"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737334/rollback-plan-after-sql-upgrade-from-2016-standard-edition-to-2022-enterprise-ed"
+    },
+    {
+      "Created": "2025-08-16T16:51:49Z",
+      "Title": "What is the major difference between using RedisTemplate.opsForGeo() and Spring Data Redis OM for storing \u0026 querying GEO locations?",
+      "Tags": [
+        "spring",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737341/what-is-the-major-difference-between-using-redistemplate-opsforgeo-and-spring"
+    },
+    {
+      "Created": "2025-08-16T16:53:48Z",
+      "Title": "What is the relationship between Intel Extension for PyTorch and PyTorch XPU versions?",
+      "Tags": [
+        "pytorch",
+        "artificial-intelligence",
+        "intel",
+        "xpu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737342/what-is-the-relationship-between-intel-extension-for-pytorch-and-pytorch-xpu-ver"
+    },
+    {
+      "Created": "2025-08-16T16:58:02Z",
+      "Title": "Weird floating-point numbers behaviour in C\u002B\u002B",
+      "Tags": [
+        "windows",
+        "double",
+        "c\u002B\u002B20",
+        "codeblocks",
+        "mingw-w64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737345/weird-floating-point-numbers-behaviour-in-c"
+    },
+    {
+      "Created": "2025-08-16T16:59:07Z",
+      "Title": "local pyspark\u0027s .show() fails with SparkException: Job aborted due to stage failure",
+      "Tags": [
+        "python",
+        "pyspark",
+        "jupyter",
+        "notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737346/local-pysparks-show-fails-with-sparkexception-job-aborted-due-to-stage-fail"
+    },
+    {
+      "Created": "2025-08-16T17:02:25Z",
+      "Title": "Is accessing 4-byte boundary around variable undefined behaviour? (needed for futex wait)",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "atomic",
+        "futex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737353/is-accessing-4-byte-boundary-around-variable-undefined-behaviour-needed-for-fu"
+    }
+  ]
+}

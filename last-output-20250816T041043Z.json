@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-16T04:06:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T03:18:05Z",
+      "Title": "Semantics and construction rules for iterator to iterator",
+      "Tags": [
+        "c\u002B\u002B",
+        "iterator",
+        "semantics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736939/semantics-and-construction-rules-for-iterator-to-iterator"
+    },
+    {
+      "Created": "2025-08-16T03:31:14Z",
+      "Title": "React Native WebView works in debug but not in release (error loading page, domain undefined, code -1)",
+      "Tags": [
+        "react-native",
+        "release",
+        "react-native-webview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736940/react-native-webview-works-in-debug-but-not-in-release-error-loading-page-doma"
+    },
+    {
+      "Created": "2025-08-16T03:50:56Z",
+      "Title": "Automate App Runner custom domain validation in Terraform when cert records from aws_apprunner_custom_domain_association are only known after apply?",
+      "Tags": [
+        "terraform",
+        "terraform-provider-aws"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736944/automate-app-runner-custom-domain-validation-in-terraform-when-cert-records-from"
+    },
+    {
+      "Created": "2025-08-16T04:06:14Z",
+      "Title": "Request to HttpListener times out",
+      "Tags": [
+        "c#",
+        "httplistener"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736950/request-to-httplistener-times-out"
+    }
+  ]
+}

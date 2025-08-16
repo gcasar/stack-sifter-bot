@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-16T12:57:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T12:21:00Z",
+      "Title": "How align paragraph children in grid layout?",
+      "Tags": [
+        "css",
+        "grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737182/how-align-paragraph-children-in-grid-layout"
+    },
+    {
+      "Created": "2025-08-16T12:23:09Z",
+      "Title": "Struggling to make histogram density curve in ggplot2",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "histogram",
+        "density-plot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737184/struggling-to-make-histogram-density-curve-in-ggplot2"
+    },
+    {
+      "Created": "2025-08-16T12:37:15Z",
+      "Title": "Is there a way to specify layout independent key sequence in pyside?",
+      "Tags": [
+        "pyside6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737188/is-there-a-way-to-specify-layout-independent-key-sequence-in-pyside"
+    },
+    {
+      "Created": "2025-08-16T12:41:08Z",
+      "Title": "How Do I Create A Python Installation Exactly Like The Installation From Python\u0027s Official Installer By Building From Source in Windows?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737189/how-do-i-create-a-python-installation-exactly-like-the-installation-from-python"
+    },
+    {
+      "Created": "2025-08-16T12:52:24Z",
+      "Title": "Getting Invalid signed properties hashing error for SignedProperties in ZATCA e-invoicing despite correct indentation",
+      "Tags": [
+        "php",
+        "xml",
+        "hash",
+        "zatca"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737195/getting-invalid-signed-properties-hashing-error-for-signedproperties-in-zatca-e"
+    },
+    {
+      "Created": "2025-08-16T12:57:33Z",
+      "Title": "Why does a Spring microservice instance with multiple networks register itself with ip address from a network not related to eureka?",
+      "Tags": [
+        "spring",
+        "docker-compose",
+        "service-discovery",
+        "spring-cloud-eureka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737198/why-does-a-spring-microservice-instance-with-multiple-networks-register-itself-w"
+    }
+  ]
+}

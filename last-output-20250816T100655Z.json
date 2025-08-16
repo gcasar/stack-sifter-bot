@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-16T09:40:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T09:23:28Z",
+      "Title": "How does one create a new timestamp for a new NSEvent on macOS?",
+      "Tags": [
+        "macos",
+        "rust",
+        "time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737068/how-does-one-create-a-new-timestamp-for-a-new-nsevent-on-macos"
+    },
+    {
+      "Created": "2025-08-16T09:35:42Z",
+      "Title": "How to set up TensorFlow GPU with RTX 4060, CUDA 12.5 and cuDNN 9.3 on Ubuntu?",
+      "Tags": [
+        "tensorflow",
+        "cuda",
+        "nvidia",
+        "ubuntu-22.04",
+        "cudnn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737076/how-to-set-up-tensorflow-gpu-with-rtx-4060-cuda-12-5-and-cudnn-9-3-on-ubuntu"
+    },
+    {
+      "Created": "2025-08-16T09:36:59Z",
+      "Title": "Errors in text-based game in python",
+      "Tags": [
+        "python",
+        "loops",
+        "error-handling",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737077/errors-in-text-based-game-in-python"
+    },
+    {
+      "Created": "2025-08-16T09:38:06Z",
+      "Title": "How to let an AI model chooser whether to make a prediction or not for each data in a set",
+      "Tags": [
+        "python",
+        "scikit-learn",
+        "sklearn-pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737078/how-to-let-an-ai-model-chooser-whether-to-make-a-prediction-or-not-for-each-data"
+    },
+    {
+      "Created": "2025-08-16T09:40:34Z",
+      "Title": "How to handle selection and update in MVVM?",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "mvvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737080/how-to-handle-selection-and-update-in-mvvm"
+    }
+  ]
+}

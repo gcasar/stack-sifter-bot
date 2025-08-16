@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-16T22:03:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T21:25:35Z",
+      "Title": "Why does comparing array.size() with a const return an Object, not a bool?",
+      "Tags": [
+        "godot",
+        "gdscript",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737500/why-does-comparing-array-size-with-a-const-return-an-object-not-a-bool"
+    },
+    {
+      "Created": "2025-08-16T21:34:26Z",
+      "Title": "Why are other objects that should not move moving in the Python/Ursina engine?",
+      "Tags": [
+        "python",
+        "ursina"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737503/why-are-other-objects-that-should-not-move-moving-in-the-python-ursina-engine"
+    },
+    {
+      "Created": "2025-08-16T21:52:09Z",
+      "Title": "VSCode PlatformIO ElegantOTA include errors",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio-code",
+        "platformio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737507/vscode-platformio-elegantota-include-errors"
+    },
+    {
+      "Created": "2025-08-16T21:55:47Z",
+      "Title": "WPF Command CanExecute is not called with the CommandParameter in DataTemplate",
+      "Tags": [
+        "c#",
+        "wpf",
+        "datatemplate",
+        "icommand"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737509/wpf-command-canexecute-is-not-called-with-the-commandparameter-in-datatemplate"
+    },
+    {
+      "Created": "2025-08-16T22:03:28Z",
+      "Title": "React Native Skia Pinch to Zoom Gesture",
+      "Tags": [
+        "javascript",
+        "react-native",
+        "pinchzoom",
+        "react-native-gesture-handler",
+        "react-native-skia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737514/react-native-skia-pinch-to-zoom-gesture"
+    }
+  ]
+}

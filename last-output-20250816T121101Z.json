@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-16T12:09:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T11:47:22Z",
+      "Title": "What is the most efficient way to keep a current count of data requests using a unique identifier [closed]",
+      "Tags": [
+        "c#",
+        "tracking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737161/what-is-the-most-efficient-way-to-keep-a-current-count-of-data-requests-using-a"
+    },
+    {
+      "Created": "2025-08-16T11:47:24Z",
+      "Title": "Next.js (App Router) \u2013 SSR with Axios \u0026 Cookies, CSR vs SSR API calls, and State Management Confusion",
+      "Tags": [
+        "next.js",
+        "axios",
+        "fetch",
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737162/next-js-app-router-ssr-with-axios-cookies-csr-vs-ssr-api-calls-and-state"
+    },
+    {
+      "Created": "2025-08-16T12:09:33Z",
+      "Title": "Go: why doesn\u0027t variable increment",
+      "Tags": [
+        "go",
+        "reference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737172/go-why-doesnt-variable-increment"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-16T15:45:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T15:29:32Z",
+      "Title": "Difference between contains and matches while using with java stream API Filter method",
+      "Tags": [
+        "java",
+        "string"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737283/difference-between-contains-and-matches-while-using-with-java-stream-api-filter"
+    },
+    {
+      "Created": "2025-08-16T15:45:23Z",
+      "Title": "How to authorize Zadarma API?",
+      "Tags": [
+        "rest",
+        "http",
+        "sip",
+        "voip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737292/how-to-authorize-zadarma-api"
+    },
+    {
+      "Created": "2025-08-16T15:45:56Z",
+      "Title": "AOE2 parser, tree square in Python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737294/aoe2-parser-tree-square-in-python"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-16T07:33:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T07:33:29Z",
+      "Title": "Netty direct memory metric in spirng cloud gateway",
+      "Tags": [
+        "spring-webflux",
+        "netty",
+        "project-reactor",
+        "spring-cloud-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737023/netty-direct-memory-metric-in-spirng-cloud-gateway"
+    }
+  ]
+}

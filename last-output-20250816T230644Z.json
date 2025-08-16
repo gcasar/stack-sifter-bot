@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-16T22:51:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T22:11:32Z",
+      "Title": "will calling window.location.reload() trigger the clean up function inside a useEffect?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737518/will-calling-window-location-reload-trigger-the-clean-up-function-inside-a-use"
+    },
+    {
+      "Created": "2025-08-16T22:30:05Z",
+      "Title": "Connection string to read and write database with different engines",
+      "Tags": [
+        "database",
+        "postgresql",
+        "driver",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737525/connection-string-to-read-and-write-database-with-different-engines"
+    },
+    {
+      "Created": "2025-08-16T22:35:21Z",
+      "Title": "PostgreSQL error: \u0022Can\u0027t reach database server at localhost:5432\u0022 after deploying on Vercel with Prisma",
+      "Tags": [
+        "postgresql",
+        "next.js",
+        "prisma",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737527/postgresql-error-cant-reach-database-server-at-localhost5432-after-deployin"
+    },
+    {
+      "Created": "2025-08-16T22:44:24Z",
+      "Title": "Visual Studio 2022 KMDF Driver Project \u0022Build Succeeded\u0022 but No .sys File is Generated",
+      "Tags": [
+        "c",
+        "windows",
+        "visual-studio-2022",
+        "wdk",
+        "windows-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737532/visual-studio-2022-kmdf-driver-project-build-succeeded-but-no-sys-file-is-gen"
+    },
+    {
+      "Created": "2025-08-16T22:51:40Z",
+      "Title": "Is it safe to remove \u0060storage/archives\u0060 from my firefox profile?",
+      "Tags": [
+        "firefox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737535/is-it-safe-to-remove-storage-archives-from-my-firefox-profile"
+    }
+  ]
+}

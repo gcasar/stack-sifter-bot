@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-16T07:02:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T06:31:54Z",
+      "Title": "Is there a way to generate superscripts from docstrings?",
+      "Tags": [
+        "github",
+        "github-actions",
+        "python-sphinx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736991/is-there-a-way-to-generate-superscripts-from-docstrings"
+    },
+    {
+      "Created": "2025-08-16T06:44:14Z",
+      "Title": "How to intercept and modify scroll wheel events on MacOS in JVM",
+      "Tags": [
+        "macos",
+        "kotlin",
+        "jvm",
+        "jna"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736995/how-to-intercept-and-modify-scroll-wheel-events-on-macos-in-jvm"
+    },
+    {
+      "Created": "2025-08-16T06:48:04Z",
+      "Title": "Compile time ternary expression",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736997/compile-time-ternary-expression"
+    },
+    {
+      "Created": "2025-08-16T06:57:39Z",
+      "Title": "Syncfusion Blazor SfGrid inline SfDataManager does not apply dynamic OData filter on tab click",
+      "Tags": [
+        "syncfusion",
+        "syncfusion-blazor",
+        "syncfusion-blazor-sfgrid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737004/syncfusion-blazor-sfgrid-inline-sfdatamanager-does-not-apply-dynamic-odata-filte"
+    },
+    {
+      "Created": "2025-08-16T07:01:47Z",
+      "Title": "PDF generation shows broken Gujarati text, but English works fine",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "pdf",
+        "jspdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737008/pdf-generation-shows-broken-gujarati-text-but-english-works-fine"
+    },
+    {
+      "Created": "2025-08-16T07:02:39Z",
+      "Title": "AWS F2 FPGA instance tutorial is broken; anyone know how to get their example to work?",
+      "Tags": [
+        "amazon-ec2",
+        "verilog",
+        "fpga",
+        "riscv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737009/aws-f2-fpga-instance-tutorial-is-broken-anyone-know-how-to-get-their-example-to"
+    }
+  ]
+}

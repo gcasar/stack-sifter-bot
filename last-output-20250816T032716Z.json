@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-16T02:36:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T02:36:58Z",
+      "Title": "turn server is not working when both peers have different network, only works if peers are connected with same network or wifi",
+      "Tags": [
+        "server",
+        "webrtc",
+        "coturn",
+        "rfc5766turnserver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736932/turn-server-is-not-working-when-both-peers-have-different-network-only-works-if"
+    }
+  ]
+}

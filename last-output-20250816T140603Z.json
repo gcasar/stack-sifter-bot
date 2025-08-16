@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-16T14:03:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T14:03:02Z",
+      "Title": "How to disable this zig compiler optimization?",
+      "Tags": [
+        "x86-64",
+        "calling-convention",
+        "zig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737238/how-to-disable-this-zig-compiler-optimization"
+    }
+  ]
+}

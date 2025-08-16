@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-16T21:01:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T20:40:49Z",
+      "Title": "HTML and Laravel regex to block repeated characters",
+      "Tags": [
+        "php",
+        "regex",
+        "laravel",
+        "regex-lookarounds",
+        "regex-negation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737477/html-and-laravel-regex-to-block-repeated-characters"
+    },
+    {
+      "Created": "2025-08-16T20:44:46Z",
+      "Title": "\u0022Search isn\u0027t available in development\u0022 error in Nextra, even when I run the suggested fix",
+      "Tags": [
+        "nextra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737480/search-isnt-available-in-development-error-in-nextra-even-when-i-run-the-sug"
+    },
+    {
+      "Created": "2025-08-16T20:45:35Z",
+      "Title": "What is the error \u0022No module named \u0027moviepy.editor\u0027\u0022 in this import statement [duplicate]",
+      "Tags": [
+        "python",
+        "python-import",
+        "moviepy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737481/what-is-the-error-no-module-named-moviepy-editor-in-this-import-statement"
+    },
+    {
+      "Created": "2025-08-16T21:01:22Z",
+      "Title": "Phoenix LiveView - make current user available to whole view stack",
+      "Tags": [
+        "elixir",
+        "phoenix-framework",
+        "phoenix-live-view"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737487/phoenix-liveview-make-current-user-available-to-whole-view-stack"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-16T05:59:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T05:59:44Z",
+      "Title": "In CMake, when should I link to an INTERFACE library with the PUBLIC keyword?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79736981/in-cmake-when-should-i-link-to-an-interface-library-with-the-public-keyword"
+    }
+  ]
+}

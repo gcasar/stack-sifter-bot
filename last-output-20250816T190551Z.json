@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-16T19:04:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T18:06:46Z",
+      "Title": "How to create an array of array of strings of varying lengths in C?",
+      "Tags": [
+        "c",
+        "matrix",
+        "set",
+        "combinations",
+        "powerset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737393/how-to-create-an-array-of-array-of-strings-of-varying-lengths-in-c"
+    },
+    {
+      "Created": "2025-08-16T18:26:45Z",
+      "Title": "Effective method to do a \u0022reverse\u0022 Weighted RNG?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737403/effective-method-to-do-a-reverse-weighted-rng"
+    },
+    {
+      "Created": "2025-08-16T18:56:13Z",
+      "Title": "iOS archiving for release strips away global symbols",
+      "Tags": [
+        "ios",
+        "linker",
+        "mach-o"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737422/ios-archiving-for-release-strips-away-global-symbols"
+    },
+    {
+      "Created": "2025-08-16T19:04:08Z",
+      "Title": "How to check if Meilisearch connection is successful in Go (meilisearch-go)?",
+      "Tags": [
+        "go",
+        "meilisearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737429/how-to-check-if-meilisearch-connection-is-successful-in-go-meilisearch-go"
+    }
+  ]
+}

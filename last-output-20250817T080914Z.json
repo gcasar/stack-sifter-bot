@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T08:07:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T07:40:42Z",
+      "Title": "Sleeping Barber problem: how to prevent the barber from cutting before the customer is ready?",
+      "Tags": [
+        "concurrency",
+        "operating-system",
+        "mutex",
+        "semaphore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737698/sleeping-barber-problem-how-to-prevent-the-barber-from-cutting-before-the-custo"
+    },
+    {
+      "Created": "2025-08-17T07:52:14Z",
+      "Title": "Is the @TableGenerator has a guaranteed ordering",
+      "Tags": [
+        "jpa",
+        "persistence",
+        "jakarta-ee-9"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737703/is-the-tablegenerator-has-a-guaranteed-ordering"
+    },
+    {
+      "Created": "2025-08-17T08:07:00Z",
+      "Title": "Frequently Asked Questions (FAQs) not responding (expanding) when clicked",
+      "Tags": [
+        "javascript",
+        "php",
+        "jquery",
+        "angularjs",
+        "bootstrap-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737707/frequently-asked-questions-faqs-not-responding-expanding-when-clicked"
+    }
+  ]
+}

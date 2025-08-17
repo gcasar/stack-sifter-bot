@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T00:28:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-16T23:54:54Z",
+      "Title": "How do relocations work for variables initialized to a value that requires relocation itself?",
+      "Tags": [
+        "c",
+        "linker",
+        "elf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737552/how-do-relocations-work-for-variables-initialized-to-a-value-that-requires-reloc"
+    },
+    {
+      "Created": "2025-08-16T23:57:37Z",
+      "Title": "Leetcode: 1193 Monthly Transaction - How does GROUP BY 1, 2 work in a SQL query",
+      "Tags": [
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737553/leetcode-1193-monthly-transaction-how-does-group-by-1-2-work-in-a-sql-query"
+    },
+    {
+      "Created": "2025-08-17T00:28:42Z",
+      "Title": "How can I optimize my depth-first-search algorithm for searching files in my disk drive?",
+      "Tags": [
+        "python",
+        "performance",
+        "optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737565/how-can-i-optimize-my-depth-first-search-algorithm-for-searching-files-in-my-dis"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-17T15:03:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T14:10:17Z",
+      "Title": "Do all elements of the first sequence of batch-training RNN have no hidden state to interit?",
+      "Tags": [
+        "recurrent-neural-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737877/do-all-elements-of-the-first-sequence-of-batch-training-rnn-have-no-hidden-state"
+    },
+    {
+      "Created": "2025-08-17T14:16:34Z",
+      "Title": "Why does Android SystemProperties use memory barriers like this?",
+      "Tags": [
+        "android",
+        "c\u002B\u002B",
+        "memory-barriers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737883/why-does-android-systemproperties-use-memory-barriers-like-this"
+    },
+    {
+      "Created": "2025-08-17T14:27:19Z",
+      "Title": "Minimum cost to convert all 1\u0027s to 0\u0027s using window of size k",
+      "Tags": [
+        "java",
+        "algorithm",
+        "time-complexity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737888/minimum-cost-to-convert-all-1s-to-0s-using-window-of-size-k"
+    },
+    {
+      "Created": "2025-08-17T14:40:48Z",
+      "Title": "(Laravel) prevent double submission on slow internet?",
+      "Tags": [
+        "php",
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737892/laravel-prevent-double-submission-on-slow-internet"
+    },
+    {
+      "Created": "2025-08-17T14:51:50Z",
+      "Title": "How to speed up large image uploads on mobile in a React \u002B Node.js app? (compression \u002B chunking)",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "performance",
+        "mobile",
+        "file-upload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737896/how-to-speed-up-large-image-uploads-on-mobile-in-a-react-node-js-app-compres"
+    },
+    {
+      "Created": "2025-08-17T14:57:50Z",
+      "Title": "Is it possible to make Bison utilize external token definitions?",
+      "Tags": [
+        "c",
+        "parsing",
+        "token",
+        "compiler-construction",
+        "bison"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737899/is-it-possible-to-make-bison-utilize-external-token-definitions"
+    },
+    {
+      "Created": "2025-08-17T15:03:32Z",
+      "Title": "Can i modifiy the priority when loading more than one linux module?",
+      "Tags": [
+        "linux",
+        "module",
+        "kernel",
+        "driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737903/can-i-modifiy-the-priority-when-loading-more-than-one-linux-module"
+    }
+  ]
+}

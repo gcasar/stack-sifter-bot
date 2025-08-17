@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T01:19:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T00:38:45Z",
+      "Title": "Text rasterisation using D2D/DWrite: bounding box calculation",
+      "Tags": [
+        "bounding-box",
+        "text-rendering",
+        "rasterizing",
+        "directwrite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737573/text-rasterisation-using-d2d-dwrite-bounding-box-calculation"
+    },
+    {
+      "Created": "2025-08-17T01:13:28Z",
+      "Title": "cross compiled app using ncursesw6 - some systems show no version information available and some of the colors are different",
+      "Tags": [
+        "linux",
+        "debian",
+        "fedora",
+        "ncurses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737581/cross-compiled-app-using-ncursesw6-some-systems-show-no-version-information-av"
+    },
+    {
+      "Created": "2025-08-17T01:19:02Z",
+      "Title": "Usingf SeleniumBase to wait for an image to become visible",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "selector",
+        "seleniumbase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737582/usingf-seleniumbase-to-wait-for-an-image-to-become-visible"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-17T02:06:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T01:49:55Z",
+      "Title": "Re-calculate GAM p-values to reflect uncertainty in the smoothing parameter",
+      "Tags": [
+        "r",
+        "confidence-interval",
+        "p-value",
+        "mgcv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737595/re-calculate-gam-p-values-to-reflect-uncertainty-in-the-smoothing-parameter"
+    },
+    {
+      "Created": "2025-08-17T02:06:25Z",
+      "Title": "Error loading data: \u0027Engine\u0027 object has no attribute \u0027cursor\u0027: chan=\u0022stdout\u0022: source=\u0022task\u0022",
+      "Tags": [
+        "apache",
+        "sqlalchemy",
+        "airflow",
+        "etl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737601/error-loading-data-engine-object-has-no-attribute-cursor-chan-stdout-so"
+    }
+  ]
+}

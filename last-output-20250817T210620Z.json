@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-17T20:42:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T20:14:25Z",
+      "Title": "SwiftUI ToolbarItemGroup .bottomBar placement not showing up in FileDocument",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738081/swiftui-toolbaritemgroup-bottombar-placement-not-showing-up-in-filedocument"
+    },
+    {
+      "Created": "2025-08-17T20:14:51Z",
+      "Title": "Is there a macro in CLion for defining full function definitions outside of the software?",
+      "Tags": [
+        "c",
+        "intellisense",
+        "clion",
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738082/is-there-a-macro-in-clion-for-defining-full-function-definitions-outside-of-the"
+    },
+    {
+      "Created": "2025-08-17T20:15:36Z",
+      "Title": "Flutter background execution stops after some time (timer \u0026 location monitoring not working)",
+      "Tags": [
+        "android",
+        "flutter",
+        "dart",
+        "flutter-background"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738083/flutter-background-execution-stops-after-some-time-timer-location-monitoring"
+    },
+    {
+      "Created": "2025-08-17T20:17:42Z",
+      "Title": "How to filter a curve to prevent overlap of segments during rendering",
+      "Tags": [
+        "algorithm",
+        "graphics",
+        "language-agnostic",
+        "rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738086/how-to-filter-a-curve-to-prevent-overlap-of-segments-during-rendering"
+    },
+    {
+      "Created": "2025-08-17T20:42:49Z",
+      "Title": "Network or scatter plot based on similarity between categories, Python",
+      "Tags": [
+        "python",
+        "numpy",
+        "matplotlib",
+        "visualization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738094/network-or-scatter-plot-based-on-similarity-between-categories-python"
+    }
+  ]
+}

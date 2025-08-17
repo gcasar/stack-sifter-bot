@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-17T19:51:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T19:12:12Z",
+      "Title": "Should role-to-page access mapping be hardcoded in my PHP file or be stored in the database?",
+      "Tags": [
+        "php",
+        "authentication",
+        "database-design",
+        "access-control",
+        "rbac"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738051/should-role-to-page-access-mapping-be-hardcoded-in-my-php-file-or-be-stored-in-t"
+    },
+    {
+      "Created": "2025-08-17T19:51:50Z",
+      "Title": "dbt Model to Standardized Silver Layer - Aliasing Data",
+      "Tags": [
+        "sql",
+        "dbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738076/dbt-model-to-standardized-silver-layer-aliasing-data"
+    }
+  ]
+}

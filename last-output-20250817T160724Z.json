@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T15:35:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T15:17:43Z",
+      "Title": "Why doesn\u2019t calling serialQueue.sync() result in a deadlock?",
+      "Tags": [
+        "ios",
+        "swift",
+        "uikit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737914/why-doesn-t-calling-serialqueue-sync-result-in-a-deadlock"
+    },
+    {
+      "Created": "2025-08-17T15:23:34Z",
+      "Title": "Svelte 5: make property passed into sub-component derived based on $state/$derived/$props",
+      "Tags": [
+        "svelte",
+        "svelte-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737915/svelte-5-make-property-passed-into-sub-component-derived-based-on-state-deriv"
+    },
+    {
+      "Created": "2025-08-17T15:35:25Z",
+      "Title": "Rust-HTSlib Script Only Outputs BAM Header, Records Are Missing",
+      "Tags": [
+        "rust",
+        "bioinformatics",
+        "bam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737920/rust-htslib-script-only-outputs-bam-header-records-are-missing"
+    }
+  ]
+}

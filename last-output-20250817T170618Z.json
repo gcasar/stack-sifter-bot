@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-17T17:03:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T16:40:49Z",
+      "Title": "Using querySelector to find if a div exists in a Javascript Callback for Google Custom Search",
+      "Tags": [
+        "javascript",
+        "google-custom-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737967/using-queryselector-to-find-if-a-div-exists-in-a-javascript-callback-for-google"
+    },
+    {
+      "Created": "2025-08-17T16:41:23Z",
+      "Title": "Microphone only records distortion on Linphone SIP calls (Android 7.1.1, Watch device)",
+      "Tags": [
+        "android",
+        "sip",
+        "voip",
+        "linphone",
+        "android-7.1-nougat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737968/microphone-only-records-distortion-on-linphone-sip-calls-android-7-1-1-watch-d"
+    },
+    {
+      "Created": "2025-08-17T16:46:23Z",
+      "Title": "What memory order to use on the atomic before a ring buffer queue write?",
+      "Tags": [
+        "c\u002B\u002B",
+        "atomic",
+        "memory-barriers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737974/what-memory-order-to-use-on-the-atomic-before-a-ring-buffer-queue-write"
+    },
+    {
+      "Created": "2025-08-17T16:47:13Z",
+      "Title": "Passing a custom data type as a void pointer to a function",
+      "Tags": [
+        "c",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737977/passing-a-custom-data-type-as-a-void-pointer-to-a-function"
+    },
+    {
+      "Created": "2025-08-17T16:50:27Z",
+      "Title": "ScrollIntoView Dynamic Content Smooth scroll Issue",
+      "Tags": [
+        "javascript",
+        "html",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737980/scrollintoview-dynamic-content-smooth-scroll-issue"
+    },
+    {
+      "Created": "2025-08-17T16:51:23Z",
+      "Title": "Is POI-TL a safe choice for generating Word/PowerPoint documents in Java, given its CVE history? [closed]",
+      "Tags": [
+        "java",
+        "apache-poi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737982/is-poi-tl-a-safe-choice-for-generating-word-powerpoint-documents-in-java-given"
+    },
+    {
+      "Created": "2025-08-17T17:01:02Z",
+      "Title": "ScrollView not scrolling in react native when using stack navigation",
+      "Tags": [
+        "react-native",
+        "navigation",
+        "scrollview",
+        "stack-navigator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737988/scrollview-not-scrolling-in-react-native-when-using-stack-navigation"
+    },
+    {
+      "Created": "2025-08-17T17:03:19Z",
+      "Title": "Linker errors trying to add Google test to basic CMake project",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737990/linker-errors-trying-to-add-google-test-to-basic-cmake-project"
+    }
+  ]
+}

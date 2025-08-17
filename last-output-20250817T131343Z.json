@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T13:09:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T12:42:24Z",
+      "Title": "What is the right column type to use for storing currency amounts?",
+      "Tags": [
+        "javascript",
+        "ruby",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737831/what-is-the-right-column-type-to-use-for-storing-currency-amounts"
+    },
+    {
+      "Created": "2025-08-17T12:46:47Z",
+      "Title": "How to merge all merge fileds in a word document using Aspose.Words and C#",
+      "Tags": [
+        "mailmerge",
+        "aspose.words",
+        "mergefield"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737836/how-to-merge-all-merge-fileds-in-a-word-document-using-aspose-words-and-c-sharp"
+    },
+    {
+      "Created": "2025-08-17T13:09:17Z",
+      "Title": "Google Navigation SDK (Android): setDestinations(..., CustomRoutesOptions(routeToken)) still takes fastest route instead of my chosen route",
+      "Tags": [
+        "android",
+        "google-maps",
+        "google-api",
+        "google-routes-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737848/google-navigation-sdk-android-setdestinations-customroutesoptionsroutet"
+    }
+  ]
+}

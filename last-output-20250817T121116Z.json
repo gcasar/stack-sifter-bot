@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T11:48:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T11:25:56Z",
+      "Title": "Cannot pass configuration when integration testing in ASP.NET Core, AddInMemoryCollection() not working",
+      "Tags": [
+        "c#",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737791/cannot-pass-configuration-when-integration-testing-in-asp-net-core-addinmemoryc"
+    },
+    {
+      "Created": "2025-08-17T11:26:50Z",
+      "Title": "UITableView inside UITableViewCell causes scroll jump when updating height dynamically",
+      "Tags": [
+        "swift",
+        "uitableview",
+        "uikit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737793/uitableview-inside-uitableviewcell-causes-scroll-jump-when-updating-height-dynam"
+    },
+    {
+      "Created": "2025-08-17T11:48:27Z",
+      "Title": "Mixed Latin and Arabic text in Pandoc converts properly to LaTeX, but fails when footnotes are present",
+      "Tags": [
+        "latex",
+        "pandoc",
+        "xelatex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737804/mixed-latin-and-arabic-text-in-pandoc-converts-properly-to-latex-but-fails-when"
+    }
+  ]
+}

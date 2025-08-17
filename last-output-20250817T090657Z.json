@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-17T09:04:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T08:40:40Z",
+      "Title": "Rotate an image with trasparent background",
+      "Tags": [
+        "r",
+        "graphics",
+        "rotation",
+        "imagemagick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737724/rotate-an-image-with-trasparent-background"
+    },
+    {
+      "Created": "2025-08-17T09:04:01Z",
+      "Title": "Upload a large file to Minio from Minio objects",
+      "Tags": [
+        "python",
+        "large-files",
+        "minio",
+        "large-file-upload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737733/upload-a-large-file-to-minio-from-minio-objects"
+    }
+  ]
+}

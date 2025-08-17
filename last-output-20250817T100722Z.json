@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T10:02:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T09:41:27Z",
+      "Title": "Static type for \u0022any SQLAlchemy ORM class with an integer field named \u0027id\u0027\u0022",
+      "Tags": [
+        "python",
+        "sqlalchemy",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737751/static-type-for-any-sqlalchemy-orm-class-with-an-integer-field-named-id"
+    },
+    {
+      "Created": "2025-08-17T09:59:59Z",
+      "Title": "Looker Studio: Is URL parameter-based automatic filtering technically impossible when using Google Sheets as a data source?",
+      "Tags": [
+        "google-sheets",
+        "filter",
+        "looker-studio",
+        "url-parameters",
+        "looker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737755/looker-studio-is-url-parameter-based-automatic-filtering-technically-impossible"
+    },
+    {
+      "Created": "2025-08-17T10:02:54Z",
+      "Title": "MassTransit scheduled redelivery with Kafka and Hangfire does not work",
+      "Tags": [
+        "c#",
+        "apache-kafka",
+        "message-queue",
+        "masstransit",
+        "hangfire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737756/masstransit-scheduled-redelivery-with-kafka-and-hangfire-does-not-work"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-17T23:03:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T22:08:06Z",
+      "Title": "How do I access specifically keys and values from CSV files?",
+      "Tags": [
+        "python",
+        "csv",
+        "dictionary",
+        "key",
+        "keyerror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738138/how-do-i-access-specifically-keys-and-values-from-csv-files"
+    },
+    {
+      "Created": "2025-08-17T22:18:33Z",
+      "Title": "System.Text.Json source generation calling GetTypeInfo excessively, slower than Newtonsoft.Json in Unity 6",
+      "Tags": [
+        "c#",
+        "json",
+        ".net",
+        "unity-game-engine",
+        "system.text.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738142/system-text-json-source-generation-calling-gettypeinfo-excessively-slower-than"
+    },
+    {
+      "Created": "2025-08-17T22:50:51Z",
+      "Title": "How does templated function argument deduction work",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738156/how-does-templated-function-argument-deduction-work"
+    },
+    {
+      "Created": "2025-08-17T22:52:24Z",
+      "Title": "Is There an Equivalent for a Unix Backtic in Windows 11?",
+      "Tags": [
+        "windows",
+        "unix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738157/is-there-an-equivalent-for-a-unix-backtic-in-windows-11"
+    },
+    {
+      "Created": "2025-08-17T23:01:29Z",
+      "Title": "Stan returns error when doing integration: Ill-typed arguments supplied to function \u0027integrate_1d\u0027",
+      "Tags": [
+        "r",
+        "stan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738160/stan-returns-error-when-doing-integration-ill-typed-arguments-supplied-to-funct"
+    },
+    {
+      "Created": "2025-08-17T23:03:21Z",
+      "Title": "how to detect what device a request is coming from?",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "express",
+        "capacitor",
+        "react-dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738161/how-to-detect-what-device-a-request-is-coming-from"
+    }
+  ]
+}

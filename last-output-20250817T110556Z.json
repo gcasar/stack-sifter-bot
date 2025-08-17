@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T10:53:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T10:10:39Z",
+      "Title": "Next.js 14- multiple root layouts with middleware",
+      "Tags": [
+        "next.js",
+        "middleware",
+        "app-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737761/next-js-14-multiple-root-layouts-with-middleware"
+    },
+    {
+      "Created": "2025-08-17T10:50:11Z",
+      "Title": "How to use plain RDTSC without using asm?",
+      "Tags": [
+        "assembly",
+        "rust",
+        "x86",
+        "benchmarking",
+        "rdtsc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737778/how-to-use-plain-rdtsc-without-using-asm"
+    },
+    {
+      "Created": "2025-08-17T10:53:20Z",
+      "Title": "Angular - Screen flickers before guard redirect to route",
+      "Tags": [
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737781/angular-screen-flickers-before-guard-redirect-to-route"
+    }
+  ]
+}

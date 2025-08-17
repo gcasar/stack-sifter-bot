@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-17T05:57:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T04:11:05Z",
+      "Title": "Silent installation - locale parameter error [closed]",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737624/silent-installation-locale-parameter-error"
+    },
+    {
+      "Created": "2025-08-17T05:06:26Z",
+      "Title": "How do I programmaitcally close the summary of HTML\u0027s Define and Summary code?",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737640/how-do-i-programmaitcally-close-the-summary-of-htmls-define-and-summary-code"
+    },
+    {
+      "Created": "2025-08-17T05:57:52Z",
+      "Title": "Is import std supposed to be working in the latest MSVC compiler?",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B",
+        "c\u002B\u002B-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737658/is-import-std-supposed-to-be-working-in-the-latest-msvc-compiler"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-17T13:33:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T13:33:13Z",
+      "Title": "Postgresql Stored Function Accessing : The column name was not found in this ResultSet Error on Repository Using Native Query Method",
+      "Tags": [
+        "postgresql",
+        "spring-boot",
+        "stored-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737861/postgresql-stored-function-accessing-the-column-name-was-not-found-in-this-res"
+    }
+  ]
+}

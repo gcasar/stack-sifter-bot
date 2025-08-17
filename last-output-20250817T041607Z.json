@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-17T03:53:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T03:53:26Z",
+      "Title": "Swift copy file to tmp fails when in sandbox",
+      "Tags": [
+        "swift",
+        "sandbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737622/swift-copy-file-to-tmp-fails-when-in-sandbox"
+    }
+  ]
+}

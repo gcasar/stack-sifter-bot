@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-17T18:01:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T17:37:36Z",
+      "Title": "problem with rotating and translation an object in pygame",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738005/problem-with-rotating-and-translation-an-object-in-pygame"
+    },
+    {
+      "Created": "2025-08-17T17:45:47Z",
+      "Title": "How to reduce cell height (vertical margins) when using UIListContentConfiguration",
+      "Tags": [
+        "ios",
+        "uicollectionview",
+        "uikit",
+        "uicollectionviewcell",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738008/how-to-reduce-cell-height-vertical-margins-when-using-uilistcontentconfigurati"
+    },
+    {
+      "Created": "2025-08-17T17:48:55Z",
+      "Title": "Why does Neo4j connect over TLS using bolt:// when tls_level=REQUIRED?",
+      "Tags": [
+        "python",
+        "neo4j",
+        "ubuntu-24.04"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738010/why-does-neo4j-connect-over-tls-using-bolt-when-tls-level-required"
+    },
+    {
+      "Created": "2025-08-17T18:01:41Z",
+      "Title": "How to partially specialize for a type nested in a template?",
+      "Tags": [
+        "c\u002B\u002B11",
+        "templates",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738015/how-to-partially-specialize-for-a-type-nested-in-a-template"
+    }
+  ]
+}

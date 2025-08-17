@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-17T18:59:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T18:33:48Z",
+      "Title": "Class \\\u0022Gloudemans\\\\Shoppingcart\\\\Facades\\\\Cart\\\u0022 not found in hardevine/shoppingcart",
+      "Tags": [
+        "laravel",
+        "shopping-cart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738033/class-gloudemans-shoppingcart-facades-cart-not-found-in-hardevine-shoppin"
+    },
+    {
+      "Created": "2025-08-17T18:39:59Z",
+      "Title": "Can the back() iterator of a vector be safely assumed to be the end() iterator after a pop_back()?",
+      "Tags": [
+        "c\u002B\u002B",
+        "vector",
+        "iterator",
+        "std",
+        "stdvector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738036/can-the-back-iterator-of-a-vector-be-safely-assumed-to-be-the-end-iterator-a"
+    },
+    {
+      "Created": "2025-08-17T18:48:18Z",
+      "Title": "Model returns mutiple tools to call even when \u0060parallel_tool_calls\u0060 is set to \u0060False\u0060",
+      "Tags": [
+        "python",
+        "sdk",
+        "openai-api",
+        "google-gemini",
+        "tool-calling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738038/model-returns-mutiple-tools-to-call-even-when-parallel-tool-calls-is-set-to-f"
+    },
+    {
+      "Created": "2025-08-17T18:59:15Z",
+      "Title": "How can I use an npm package\u0027s types without adding the package as a dependency?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "firebase",
+        "npm",
+        "tsup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738043/how-can-i-use-an-npm-packages-types-without-adding-the-package-as-a-dependency"
+    }
+  ]
+}

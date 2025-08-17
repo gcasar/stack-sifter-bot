@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-17T06:58:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T06:36:14Z",
+      "Title": "MAUI Android app custom build configuration issue",
+      "Tags": [
+        "android",
+        "maui",
+        ".net-maui-android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737668/maui-android-app-custom-build-configuration-issue"
+    },
+    {
+      "Created": "2025-08-17T06:41:41Z",
+      "Title": "Weird memory bug [closed]",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737670/weird-memory-bug"
+    },
+    {
+      "Created": "2025-08-17T06:54:47Z",
+      "Title": "Using ember-concurrency tasks in ember resources",
+      "Tags": [
+        "ember.js",
+        "ember-concurrency",
+        "ember-resources"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737677/using-ember-concurrency-tasks-in-ember-resources"
+    },
+    {
+      "Created": "2025-08-17T06:55:08Z",
+      "Title": "Calling new in a constexpr function",
+      "Tags": [
+        "constexpr",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737678/calling-new-in-a-constexpr-function"
+    },
+    {
+      "Created": "2025-08-17T06:58:11Z",
+      "Title": "Count relations in Typeorm and then use the result column",
+      "Tags": [
+        "postgresql",
+        "typeorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79737680/count-relations-in-typeorm-and-then-use-the-result-column"
+    }
+  ]
+}

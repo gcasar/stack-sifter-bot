@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-18T21:50:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T21:08:40Z",
+      "Title": "How can I simulate a simple elevator FSM where it can detect over weight?",
+      "Tags": [
+        "verilog",
+        "system-verilog",
+        "fsm",
+        "digital-logic",
+        "digital-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739242/how-can-i-simulate-a-simple-elevator-fsm-where-it-can-detect-over-weight"
+    },
+    {
+      "Created": "2025-08-18T21:11:07Z",
+      "Title": "Is it possible to use @rendermode=\u0022InteractiveAuto\u0022 in a .net 9 Blazor Web using a single .net project?",
+      "Tags": [
+        "asp.net",
+        ".net",
+        "blazor",
+        "blazor-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739248/is-it-possible-to-use-rendermode-interactiveauto-in-a-net-9-blazor-web-using"
+    },
+    {
+      "Created": "2025-08-18T21:11:40Z",
+      "Title": "NestJS gRPC server deployment issue on AWS ECS with NLB",
+      "Tags": [
+        "amazon-web-services",
+        "nestjs",
+        "grpc",
+        "amazon-ecs",
+        "grpc-node"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739250/nestjs-grpc-server-deployment-issue-on-aws-ecs-with-nlb"
+    },
+    {
+      "Created": "2025-08-18T21:50:43Z",
+      "Title": "How to safely add a header with $uri?",
+      "Tags": [
+        "nginx",
+        "reverse-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739280/how-to-safely-add-a-header-with-uri"
+    }
+  ]
+}

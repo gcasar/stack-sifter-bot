@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-18T07:05:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T06:19:32Z",
+      "Title": "How to script Cursor Pro AI assistant",
+      "Tags": [
+        "ui-automation",
+        "build-automation",
+        "cursor-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738342/how-to-script-cursor-pro-ai-assistant"
+    },
+    {
+      "Created": "2025-08-18T06:51:30Z",
+      "Title": "Retrieving element properties that are empty using scan and includeEmpty",
+      "Tags": [
+        "autodesk-tandem"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738355/retrieving-element-properties-that-are-empty-using-scan-and-includeempty"
+    },
+    {
+      "Created": "2025-08-18T06:54:31Z",
+      "Title": "pixi.js application in \u0022flex: 1\u0022 div grows vertically",
+      "Tags": [
+        "flexbox",
+        "responsive",
+        "pixi.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738357/pixi-js-application-in-flex-1-div-grows-vertically"
+    },
+    {
+      "Created": "2025-08-18T06:58:01Z",
+      "Title": "How can I run a long-running task in Tkinter without freezing the UI (while keeping real-time updates on a Canvas)?",
+      "Tags": [
+        "python",
+        "tkinter",
+        "tkinter-canvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738359/how-can-i-run-a-long-running-task-in-tkinter-without-freezing-the-ui-while-keep"
+    },
+    {
+      "Created": "2025-08-18T07:05:51Z",
+      "Title": "Explicit Typecast Error While calling PostgreSQL Stored Function From Springboot Repository",
+      "Tags": [
+        "postgresql",
+        "spring-boot",
+        "stored-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738369/explicit-typecast-error-while-calling-postgresql-stored-function-from-springboot"
+    }
+  ]
+}

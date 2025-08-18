@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-18T18:05:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T17:39:05Z",
+      "Title": "API route in react-router v7 SPA always throws an error",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "react-router",
+        "single-page-application",
+        "remix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739077/api-route-in-react-router-v7-spa-always-throws-an-error"
+    },
+    {
+      "Created": "2025-08-18T17:42:35Z",
+      "Title": "r ggplot gives different title in ggsave png as in RStudio plot pane",
+      "Tags": [
+        "r",
+        "loops",
+        "ggsave",
+        "ggtitle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739080/r-ggplot-gives-different-title-in-ggsave-png-as-in-rstudio-plot-pane"
+    },
+    {
+      "Created": "2025-08-18T17:46:12Z",
+      "Title": "Can I use the same Kotlin data class for Redis OM and Exposed SQL queries to avoid mapping?",
+      "Tags": [
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739083/can-i-use-the-same-kotlin-data-class-for-redis-om-and-exposed-sql-queries-to-avo"
+    },
+    {
+      "Created": "2025-08-18T17:49:02Z",
+      "Title": "FastAPI: custom pydantic model as response_model make the model inline",
+      "Tags": [
+        "fastapi",
+        "openapi",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739085/fastapi-custom-pydantic-model-as-response-model-make-the-model-inline"
+    },
+    {
+      "Created": "2025-08-18T17:51:06Z",
+      "Title": "Fabric Mixins: How to Access a Private Nested Record",
+      "Tags": [
+        "java",
+        "minecraft",
+        "mixins",
+        "minecraft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739086/fabric-mixins-how-to-access-a-private-nested-record"
+    },
+    {
+      "Created": "2025-08-18T17:56:29Z",
+      "Title": "Laravel Echo Server not receiving broadcast events even though WebSocket connection is successful",
+      "Tags": [
+        "laravel",
+        "redis",
+        "socket.io",
+        "laravel-echo",
+        "laravel-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739090/laravel-echo-server-not-receiving-broadcast-events-even-though-websocket-connect"
+    },
+    {
+      "Created": "2025-08-18T18:00:16Z",
+      "Title": "In Dart, Is it safe to initialize a class in its constructor",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739093/in-dart-is-it-safe-to-initialize-a-class-in-its-constructor"
+    },
+    {
+      "Created": "2025-08-18T18:05:31Z",
+      "Title": "Is there a better way to keep a vector in an ordered sequence in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739095/is-there-a-better-way-to-keep-a-vector-in-an-ordered-sequence-in-c"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-18T14:06:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T13:50:36Z",
+      "Title": "Retrieve previous record to current list for calculation [duplicate]",
+      "Tags": [
+        "c#",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738817/retrieve-previous-record-to-current-list-for-calculation"
+    },
+    {
+      "Created": "2025-08-18T14:01:04Z",
+      "Title": "How can I make PowerShell detect a line feed in my -match expression? [duplicate]",
+      "Tags": [
+        "regex",
+        "powershell",
+        "powershell-5.1"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738831/how-can-i-make-powershell-detect-a-line-feed-in-my-match-expression"
+    },
+    {
+      "Created": "2025-08-18T14:02:51Z",
+      "Title": "Retrieve previous record to current list for calculation",
+      "Tags": [
+        "c#",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738834/retrieve-previous-record-to-current-list-for-calculation"
+    },
+    {
+      "Created": "2025-08-18T14:04:22Z",
+      "Title": "Extracting event dates from noisy social worker case notes for temporal feature engineering",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "nlp",
+        "feature-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738838/extracting-event-dates-from-noisy-social-worker-case-notes-for-temporal-feature"
+    },
+    {
+      "Created": "2025-08-18T14:04:44Z",
+      "Title": "Authenticating a user with NextCloud using oauth2 in flask fails at getting access token",
+      "Tags": [
+        "python",
+        "flask",
+        "oauth-2.0",
+        "nextcloud",
+        "authlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738840/authenticating-a-user-with-nextcloud-using-oauth2-in-flask-fails-at-getting-acce"
+    },
+    {
+      "Created": "2025-08-18T14:06:35Z",
+      "Title": "Form not updated when Browser auto-fills saved email/password until user interaction",
+      "Tags": [
+        "angular",
+        "autocomplete",
+        "angular-reactive-forms",
+        "angular-forms",
+        "change-detector-ref"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738843/form-not-updated-when-browser-auto-fills-saved-email-password-until-user-interac"
+    }
+  ]
+}

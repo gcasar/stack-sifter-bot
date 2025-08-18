@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-18T16:03:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T15:32:08Z",
+      "Title": "Python Arcade 3.3.0 not using custom font loaded from TTF file",
+      "Tags": [
+        "python",
+        "truetype",
+        "arcade"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738969/python-arcade-3-3-0-not-using-custom-font-loaded-from-ttf-file"
+    },
+    {
+      "Created": "2025-08-18T15:56:05Z",
+      "Title": "Can a language be sound if it doesn\u0027t promise safety?",
+      "Tags": [
+        "c",
+        "programming-languages",
+        "type-safety",
+        "type-systems"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738987/can-a-language-be-sound-if-it-doesnt-promise-safety"
+    },
+    {
+      "Created": "2025-08-18T15:58:52Z",
+      "Title": "Google Filament and material recompilation and compatibility concern",
+      "Tags": [
+        "android",
+        "arcore",
+        "google-filament"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738989/google-filament-and-material-recompilation-and-compatibility-concern"
+    },
+    {
+      "Created": "2025-08-18T16:03:17Z",
+      "Title": "Imgui can not find SDL3/SDL.h file",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "sdl",
+        "imgui",
+        "sdl-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738991/imgui-can-not-find-sdl3-sdl-h-file"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-18T10:03:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T09:14:06Z",
+      "Title": "ST_Transform issue with MySQL",
+      "Tags": [
+        "mysql",
+        "geospatial",
+        "postgis",
+        "coordinate-systems",
+        "spatial-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738480/st-transform-issue-with-mysql"
+    },
+    {
+      "Created": "2025-08-18T09:30:14Z",
+      "Title": "How to call a COM function with a Variant * parameter using JNA\uFF1F",
+      "Tags": [
+        "java",
+        "kotlin",
+        "com",
+        "jna",
+        "comexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738509/how-to-call-a-com-function-with-a-variant-parameter-using-jna"
+    },
+    {
+      "Created": "2025-08-18T09:46:12Z",
+      "Title": "How to send SLA breached notification only to assignment group members with a specific role in servicenow",
+      "Tags": [
+        "servicenow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738542/how-to-send-sla-breached-notification-only-to-assignment-group-members-with-a-sp"
+    },
+    {
+      "Created": "2025-08-18T09:51:26Z",
+      "Title": "Maven \u002B Lombok @Slf4j on JDK 21: \u201Ccannot find symbol: variable log\u201D even though annotation processing is configured",
+      "Tags": [
+        "java",
+        "maven",
+        "lombok"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738546/maven-lombok-slf4j-on-jdk-21-cannot-find-symbol-variable-log-even-though"
+    },
+    {
+      "Created": "2025-08-18T09:53:52Z",
+      "Title": "How to use MATCH function to return same results? [duplicate]",
+      "Tags": [
+        "python",
+        "match",
+        "cs50"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738547/how-to-use-match-function-to-return-same-results"
+    },
+    {
+      "Created": "2025-08-18T09:55:33Z",
+      "Title": "How to create a function in Liquibase and invoke it create Table\u0027s column",
+      "Tags": [
+        "liquibase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738550/how-to-create-a-function-in-liquibase-and-invoke-it-create-tables-column"
+    },
+    {
+      "Created": "2025-08-18T10:03:31Z",
+      "Title": "Using .Net how would you set a CheckBox to true within an array?",
+      "Tags": [
+        "arrays",
+        ".net",
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738562/using-net-how-would-you-set-a-checkbox-to-true-within-an-array"
+    }
+  ]
+}

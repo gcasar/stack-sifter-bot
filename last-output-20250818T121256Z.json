@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-18T12:01:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T11:22:46Z",
+      "Title": "How to include external .cs files in DLL with incremental build support in MSBuild?",
+      "Tags": [
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738636/how-to-include-external-cs-files-in-dll-with-incremental-build-support-in-msbui"
+    },
+    {
+      "Created": "2025-08-18T11:41:34Z",
+      "Title": "Detecting if a function template specialization exists and returning a function pointer to a valid implementation",
+      "Tags": [
+        "c\u002B\u002B",
+        "template-specialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738653/detecting-if-a-function-template-specialization-exists-and-returning-a-function"
+    },
+    {
+      "Created": "2025-08-18T11:51:23Z",
+      "Title": "How do I optimize my C# method to replace exact matching data in a string?",
+      "Tags": [
+        "c#",
+        "regex",
+        "performance",
+        "replace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738665/how-do-i-optimize-my-c-sharp-method-to-replace-exact-matching-data-in-a-string"
+    },
+    {
+      "Created": "2025-08-18T11:53:56Z",
+      "Title": "Python package upgrade with uv behaves as in old version",
+      "Tags": [
+        "python",
+        "jsonschema",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738668/python-package-upgrade-with-uv-behaves-as-in-old-version"
+    },
+    {
+      "Created": "2025-08-18T11:57:31Z",
+      "Title": "How to make parallel within the parallel?",
+      "Tags": [
+        "python",
+        "multithreading",
+        "optimization",
+        "parallel-processing",
+        "julia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738671/how-to-make-parallel-within-the-parallel"
+    },
+    {
+      "Created": "2025-08-18T12:01:19Z",
+      "Title": "Scraping data with Python requests from an ASP.NET form on a webpage",
+      "Tags": [
+        "python",
+        "asp.net",
+        "web-scraping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738678/scraping-data-with-python-requests-from-an-asp-net-form-on-a-webpage"
+    }
+  ]
+}

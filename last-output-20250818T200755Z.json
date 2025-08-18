@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-18T20:03:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T19:48:32Z",
+      "Title": "Amazon.Extensions.NETCore.Setup Windows vs Android",
+      "Tags": [
+        "aws-sdk-net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739183/amazon-extensions-netcore-setup-windows-vs-android"
+    },
+    {
+      "Created": "2025-08-18T19:48:39Z",
+      "Title": "Perlin noise function",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11",
+        "perlin-noise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739184/perlin-noise-function"
+    },
+    {
+      "Created": "2025-08-18T19:51:42Z",
+      "Title": "Insert environtment username into SQL in a MS Access form",
+      "Tags": [
+        "sql",
+        "vba",
+        "forms",
+        "ms-access"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739186/insert-environtment-username-into-sql-in-a-ms-access-form"
+    },
+    {
+      "Created": "2025-08-18T20:03:26Z",
+      "Title": "How do I store a function pointer to a public member function of a derived class?",
+      "Tags": [
+        "c\u002B\u002B",
+        "function-pointers",
+        "unique-ptr",
+        "derived-class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739198/how-do-i-store-a-function-pointer-to-a-public-member-function-of-a-derived-class"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-18T02:38:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T01:23:21Z",
+      "Title": "RegEx failure to match",
+      "Tags": [
+        "regex",
+        "c\u002B\u002B11",
+        "stl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738209/regex-failure-to-match"
+    },
+    {
+      "Created": "2025-08-18T01:41:34Z",
+      "Title": "PID function equivalent from MATLAB to Python",
+      "Tags": [
+        "python",
+        "matlab",
+        "control-theory",
+        "system-identification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738221/pid-function-equivalent-from-matlab-to-python"
+    },
+    {
+      "Created": "2025-08-18T02:16:42Z",
+      "Title": "Debian 12 (bookworm) Docker build fails with \u201Capt-key: not found\u201D while adding Microsoft repo for \u0060msodbcsql18\u0060",
+      "Tags": [
+        "docker",
+        "debian",
+        "gnupg",
+        "apt",
+        "msodbcsql17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738231/debian-12-bookworm-docker-build-fails-with-apt-key-not-found-while-adding-m"
+    },
+    {
+      "Created": "2025-08-18T02:38:08Z",
+      "Title": "How do I populate a column in a PowerShell array from a Groups column in a CSV by searching for a matching Name of a corresponding user?",
+      "Tags": [
+        "powershell",
+        "csv",
+        "import-csv",
+        "export-csv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738238/how-do-i-populate-a-column-in-a-powershell-array-from-a-groups-column-in-a-csv-b"
+    }
+  ]
+}

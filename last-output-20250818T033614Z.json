@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-18T03:02:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T03:02:52Z",
+      "Title": "Can\u0027t change an *ngFor to a @for. Its @for(commune of communes) is rejected, telling that Commune[] needs an iterator. But Commune is an interface",
+      "Tags": [
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738242/cant-change-an-ngfor-to-a-for-its-forcommune-of-communes-is-rejected-tel"
+    }
+  ]
+}

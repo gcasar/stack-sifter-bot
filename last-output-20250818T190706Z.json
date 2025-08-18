@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-18T18:56:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T18:12:50Z",
+      "Title": "How to add custom pluralization of table names when using \u0022dotnet ef dbcontext scaffold\u0022 command",
+      "Tags": [
+        ".net",
+        "entity-framework",
+        "scaffolding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739101/how-to-add-custom-pluralization-of-table-names-when-using-dotnet-ef-dbcontext-s"
+    },
+    {
+      "Created": "2025-08-18T18:30:28Z",
+      "Title": "How to query Redis OM Spring repository by LocalDate(Kotlin) field?",
+      "Tags": [
+        "spring",
+        "redis",
+        "redisjson",
+        "redis-om-spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739113/how-to-query-redis-om-spring-repository-by-localdatekotlin-field"
+    },
+    {
+      "Created": "2025-08-18T18:34:08Z",
+      "Title": "Setting cookies not allowed in extension popup?",
+      "Tags": [
+        "javascript",
+        "cookies",
+        "safari-extension",
+        "web-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739120/setting-cookies-not-allowed-in-extension-popup"
+    },
+    {
+      "Created": "2025-08-18T18:42:25Z",
+      "Title": "W3Schools method for image magnifying glass doesn\u0027t work on mobile",
+      "Tags": [
+        "jquery",
+        "css",
+        "magnify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739125/w3schools-method-for-image-magnifying-glass-doesnt-work-on-mobile"
+    },
+    {
+      "Created": "2025-08-18T18:56:28Z",
+      "Title": "How to use gls with a large time series",
+      "Tags": [
+        "r",
+        "nlme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739141/how-to-use-gls-with-a-large-time-series"
+    }
+  ]
+}

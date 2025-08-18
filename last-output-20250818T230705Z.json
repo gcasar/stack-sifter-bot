@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-18T23:02:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T22:19:46Z",
+      "Title": "Is difference between two pointers pointing to the same deallocated array well-defined in C/C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "pointers",
+        "undefined-behavior"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739298/is-difference-between-two-pointers-pointing-to-the-same-deallocated-array-well-d"
+    },
+    {
+      "Created": "2025-08-18T22:30:34Z",
+      "Title": "Authentication in a Multi Tenant System without passing the Tenant Name or taking from url",
+      "Tags": [
+        "asp.net",
+        "asp.net-core",
+        "authentication",
+        "asp.net-web-api",
+        "jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739307/authentication-in-a-multi-tenant-system-without-passing-the-tenant-name-or-takin"
+    },
+    {
+      "Created": "2025-08-18T22:52:40Z",
+      "Title": "nasm errors on downloaded assembly source file:",
+      "Tags": [
+        "assembly",
+        "nasm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739316/nasm-errors-on-downloaded-assembly-source-file"
+    },
+    {
+      "Created": "2025-08-18T22:57:57Z",
+      "Title": "using extensions from CTAN in Quarto with Mathjax (html output)",
+      "Tags": [
+        "mathjax",
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739317/using-extensions-from-ctan-in-quarto-with-mathjax-html-output"
+    },
+    {
+      "Created": "2025-08-18T23:02:24Z",
+      "Title": "Using Cereal to deserialize a JSON http response",
+      "Tags": [
+        "c\u002B\u002B",
+        "json",
+        "cereal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739323/using-cereal-to-deserialize-a-json-http-response"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-18T01:06:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T00:34:05Z",
+      "Title": "Mypy error when indexing into array with ellipsis and unpacking",
+      "Tags": [
+        "python",
+        "numpy",
+        "mypy",
+        "jax",
+        "ellipsis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738194/mypy-error-when-indexing-into-array-with-ellipsis-and-unpacking"
+    },
+    {
+      "Created": "2025-08-18T01:00:10Z",
+      "Title": "removing multiples from a list of numbers [duplicate]",
+      "Tags": [
+        "python",
+        "list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738202/removing-multiples-from-a-list-of-numbers"
+    },
+    {
+      "Created": "2025-08-18T01:06:41Z",
+      "Title": "Is it possible to disable some print format specifiers? the embedded system i\u0027m working with does not support dynamic string output",
+      "Tags": [
+        "c",
+        "printf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738204/is-it-possible-to-disable-some-print-format-specifiers-the-embedded-system-im"
+    }
+  ]
+}

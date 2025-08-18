@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-18T11:02:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T11:02:43Z",
+      "Title": "Running an interactive command inside a container in a GitHub Actions workflow failed",
+      "Tags": [
+        "github-actions",
+        "interactive",
+        "interactive-shell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738616/running-an-interactive-command-inside-a-container-in-a-github-actions-workflow-f"
+    }
+  ]
+}

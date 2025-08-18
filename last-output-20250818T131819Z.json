@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-18T13:10:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T12:53:51Z",
+      "Title": "How to dynamically set the type of class property based on generic?",
+      "Tags": [
+        "typescript",
+        "typescript-generics",
+        "type-narrowing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738747/how-to-dynamically-set-the-type-of-class-property-based-on-generic"
+    },
+    {
+      "Created": "2025-08-18T12:54:21Z",
+      "Title": "Inter-thread synchronization with one amotic variant",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "c\u002B\u002B20",
+        "memory-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738748/inter-thread-synchronization-with-one-amotic-variant"
+    },
+    {
+      "Created": "2025-08-18T13:00:37Z",
+      "Title": "PostgreSQL stored procedure call from Spring Boot repository gives \u0022query has no destination for result data\u0022 error",
+      "Tags": [
+        "postgresql",
+        "spring-boot",
+        "stored-procedures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738755/postgresql-stored-procedure-call-from-spring-boot-repository-gives-query-has-no"
+    },
+    {
+      "Created": "2025-08-18T13:06:06Z",
+      "Title": "Adding Remote Options in CMakePresets.json",
+      "Tags": [
+        "cmake",
+        "remote-host",
+        "cmake-presets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738762/adding-remote-options-in-cmakepresets-json"
+    },
+    {
+      "Created": "2025-08-18T13:10:41Z",
+      "Title": "Circe - Case insensitive decoder of Enum",
+      "Tags": [
+        "json",
+        "scala",
+        "circe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738768/circe-case-insensitive-decoder-of-enum"
+    }
+  ]
+}

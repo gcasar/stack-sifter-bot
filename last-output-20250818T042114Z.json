@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-18T04:20:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T03:53:04Z",
+      "Title": "Lighthouse user-flow with Puppeteer always forces mobile emulation even when desktop config is set",
+      "Tags": [
+        "performance",
+        "puppeteer",
+        "performance-testing",
+        "lighthouse",
+        "lighthouse-ci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738254/lighthouse-user-flow-with-puppeteer-always-forces-mobile-emulation-even-when-des"
+    },
+    {
+      "Created": "2025-08-18T04:12:15Z",
+      "Title": "\u0060pthread_kill\u0060 randomly send signal to the wrong thread on MacOS",
+      "Tags": [
+        "multithreading",
+        "macos",
+        "unix",
+        "pthreads",
+        "signals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738262/pthread-kill-randomly-send-signal-to-the-wrong-thread-on-macos"
+    },
+    {
+      "Created": "2025-08-18T04:20:18Z",
+      "Title": "Best way to handle webhook ordering for susbcriptions events in Stripe",
+      "Tags": [
+        "spring",
+        "kotlin",
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738265/best-way-to-handle-webhook-ordering-for-susbcriptions-events-in-stripe"
+    }
+  ]
+}

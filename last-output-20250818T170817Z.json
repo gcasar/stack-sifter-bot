@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-18T16:53:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T16:32:35Z",
+      "Title": "Can I use a SQL query to set a value to null if it contains non-numeric characters?",
+      "Tags": [
+        "sql",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739025/can-i-use-a-sql-query-to-set-a-value-to-null-if-it-contains-non-numeric-characte"
+    },
+    {
+      "Created": "2025-08-18T16:39:26Z",
+      "Title": "How to rehydrate current span in Rust tracing/otel",
+      "Tags": [
+        "rust",
+        "trace",
+        "open-telemetry",
+        "rust-tracing",
+        "open-telemetry-rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739032/how-to-rehydrate-current-span-in-rust-tracing-otel"
+    },
+    {
+      "Created": "2025-08-18T16:41:08Z",
+      "Title": "How do you expire snapshot from Iceberg Glue Table",
+      "Tags": [
+        "aws-glue",
+        "amazon-emr",
+        "apache-iceberg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739033/how-do-you-expire-snapshot-from-iceberg-glue-table"
+    },
+    {
+      "Created": "2025-08-18T16:43:22Z",
+      "Title": "Is there an off the shelf object compare solution that can compare hierarchies of objects of different types? (C# .NET 9)",
+      "Tags": [
+        "c#",
+        ".net",
+        "compare",
+        "object-graph",
+        "deepequals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739035/is-there-an-off-the-shelf-object-compare-solution-that-can-compare-hierarchies-o"
+    },
+    {
+      "Created": "2025-08-18T16:51:59Z",
+      "Title": "Issue with Preferences API Creating .systemPrefs Directory When Triggered Frequently",
+      "Tags": [
+        "java",
+        "cron",
+        "preferences"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739042/issue-with-preferences-api-creating-systemprefs-directory-when-triggered-freque"
+    },
+    {
+      "Created": "2025-08-18T16:53:00Z",
+      "Title": "Why is my accumulated kWh value always 0 even though instantaneous power is non-zero?",
+      "Tags": [
+        "c",
+        "floating-point",
+        "embedded",
+        "stm32",
+        "mcu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739044/why-is-my-accumulated-kwh-value-always-0-even-though-instantaneous-power-is-non"
+    }
+  ]
+}

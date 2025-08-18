@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-18T06:05:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T05:54:04Z",
+      "Title": "Why do trading API wrappers often use dictionaries to map user-friendly inputs (.. BUY, CNC) to internal API constants?",
+      "Tags": [
+        "python",
+        "rest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738318/why-do-trading-api-wrappers-often-use-dictionaries-to-map-user-friendly-inputs"
+    },
+    {
+      "Created": "2025-08-18T05:55:38Z",
+      "Title": "Login Problem to ZTE ZXHN H298A with automation",
+      "Tags": [
+        "python-3.x",
+        "selenium-webdriver",
+        "ui-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738320/login-problem-to-zte-zxhn-h298a-with-automation"
+    },
+    {
+      "Created": "2025-08-18T05:58:10Z",
+      "Title": "GCC warning: \u0027memcpy\u0027 specified bound 18446744073709551614 exceeds maximum object size 9223372036854775807",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "gcc-warning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738323/gcc-warning-memcpy-specified-bound-18446744073709551614-exceeds-maximum-objec"
+    },
+    {
+      "Created": "2025-08-18T05:59:14Z",
+      "Title": "How to sample images for episodes in Few Shot Learning?",
+      "Tags": [
+        "pytorch",
+        "computer-vision",
+        "few-shot-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738324/how-to-sample-images-for-episodes-in-few-shot-learning"
+    },
+    {
+      "Created": "2025-08-18T06:03:28Z",
+      "Title": "Install pm2 via package json and npm install command in dockerfile",
+      "Tags": [
+        "node.js",
+        "docker",
+        "npm",
+        "pm2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738329/install-pm2-via-package-json-and-npm-install-command-in-dockerfile"
+    },
+    {
+      "Created": "2025-08-18T06:05:58Z",
+      "Title": "ZXing 3.1.0-beta2 Visual Studio 2022 Xamarin.Android cause app to go in background in Release Mode",
+      "Tags": [
+        "android",
+        "xamarin",
+        "zxing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738333/zxing-3-1-0-beta2-visual-studio-2022-xamarin-android-cause-app-to-go-in-backgrou"
+    }
+  ]
+}

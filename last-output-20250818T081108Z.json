@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-18T08:05:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T07:40:13Z",
+      "Title": "How to reduce horizontal padding in this matplotlib plot?",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738395/how-to-reduce-horizontal-padding-in-this-matplotlib-plot"
+    },
+    {
+      "Created": "2025-08-18T07:45:49Z",
+      "Title": "VAR=$(\u003C file) vs read VAR \u003C file",
+      "Tags": [
+        "bash",
+        "command-substitution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738403/var-file-vs-read-var-file"
+    },
+    {
+      "Created": "2025-08-18T07:53:06Z",
+      "Title": "Apache CXF framework does not correctly handle Provider invoke functions throwing WebServiceException",
+      "Tags": [
+        "apache",
+        "cxf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738406/apache-cxf-framework-does-not-correctly-handle-provider-invoke-functions-throwin"
+    },
+    {
+      "Created": "2025-08-18T08:05:02Z",
+      "Title": "What configuration does AWS AppFlow\u0027s createFlow function need to create a flow with S3 as its destination?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "amazon-appflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738418/what-configuration-does-aws-appflows-createflow-function-need-to-create-a-flow"
+    }
+  ]
+}

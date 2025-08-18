@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-18T05:05:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T05:03:01Z",
+      "Title": "Is there a way to change bazel vendored deps permissions automatically",
+      "Tags": [
+        "permissions",
+        "bazel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738283/is-there-a-way-to-change-bazel-vendored-deps-permissions-automatically"
+    },
+    {
+      "Created": "2025-08-18T05:03:17Z",
+      "Title": "Is it possible to have RPZ File to apply for specific IPs in POWERDNS RECURSOR via Lua Scripting?",
+      "Tags": [
+        "lua",
+        "dns",
+        "ip-address",
+        "powerdns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738285/is-it-possible-to-have-rpz-file-to-apply-for-specific-ips-in-powerdns-recursor-v"
+    },
+    {
+      "Created": "2025-08-18T05:03:27Z",
+      "Title": "Protected routes redirect correctly in local, but show 404 on server",
+      "Tags": [
+        "reactjs",
+        "express",
+        "react-router-dom",
+        "vite",
+        "windows-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738286/protected-routes-redirect-correctly-in-local-but-show-404-on-server"
+    },
+    {
+      "Created": "2025-08-18T05:05:23Z",
+      "Title": "ESLint doesn\u2019t recognize Vitest globals when using a separate tsconfig.test.json with types: [\u0022vitest/globals\u0022]",
+      "Tags": [
+        "typescript",
+        "vite",
+        "eslint",
+        "vitest",
+        "typescript-eslint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738289/eslint-doesn-t-recognize-vitest-globals-when-using-a-separate-tsconfig-test-json"
+    },
+    {
+      "Created": "2025-08-18T05:05:52Z",
+      "Title": "pybind11 shared_ptr to Python-implemented class calls pure virtual instead of override",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "pybind11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738290/pybind11-shared-ptr-to-python-implemented-class-calls-pure-virtual-instead-of-ov"
+    }
+  ]
+}

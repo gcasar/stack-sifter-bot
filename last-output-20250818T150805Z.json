@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-18T15:03:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T14:46:43Z",
+      "Title": "Is there a performance drawback when declaring 2D arrays using int** compared to int (*)[N] in C?",
+      "Tags": [
+        "arrays",
+        "c",
+        "pointers",
+        "multidimensional-array",
+        "contiguous"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738911/is-there-a-performance-drawback-when-declaring-2d-arrays-using-int-compared-to"
+    },
+    {
+      "Created": "2025-08-18T14:54:09Z",
+      "Title": "How to write an exception for a code formatter rule in powershell running in vscode",
+      "Tags": [
+        "powershell",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738921/how-to-write-an-exception-for-a-code-formatter-rule-in-powershell-running-in-vsc"
+    },
+    {
+      "Created": "2025-08-18T14:58:58Z",
+      "Title": "How to set up JIRA as a generic task server in IntelliJ IDEA?",
+      "Tags": [
+        "intellij-idea",
+        "jira",
+        "jql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738925/how-to-set-up-jira-as-a-generic-task-server-in-intellij-idea"
+    },
+    {
+      "Created": "2025-08-18T15:03:28Z",
+      "Title": "How to create a shortcut to run poetry anywhere?",
+      "Tags": [
+        "python",
+        "alias",
+        "python-poetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738931/how-to-create-a-shortcut-to-run-poetry-anywhere"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-18T08:59:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-18T08:28:33Z",
+      "Title": "Is there any way to get Swagger document of a project without running it?",
+      "Tags": [
+        "c#",
+        ".net",
+        "swagger",
+        "swashbuckle",
+        "dotnet-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738433/is-there-any-way-to-get-swagger-document-of-a-project-without-running-it"
+    },
+    {
+      "Created": "2025-08-18T08:38:29Z",
+      "Title": "Family Tree algorithm [closed]",
+      "Tags": [
+        "javascript",
+        "d3.js",
+        "family-tree",
+        "d3tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738442/family-tree-algorithm"
+    },
+    {
+      "Created": "2025-08-18T08:54:17Z",
+      "Title": "Create multi table index/composite key",
+      "Tags": [
+        "sql",
+        "mysql",
+        "performance",
+        "query-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738459/create-multi-table-index-composite-key"
+    },
+    {
+      "Created": "2025-08-18T08:58:42Z",
+      "Title": "flink ConfluentRegistryAvroSerializationSchema not respecting registryConfigs",
+      "Tags": [
+        "apache-flink",
+        "avro",
+        "confluent-schema-registry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738462/flink-confluentregistryavroserializationschema-not-respecting-registryconfigs"
+    },
+    {
+      "Created": "2025-08-18T08:59:29Z",
+      "Title": "restrict calls on based on original host",
+      "Tags": [
+        "azure-application-gateway",
+        "apim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738463/restrict-calls-on-based-on-original-host"
+    },
+    {
+      "Created": "2025-08-18T08:59:48Z",
+      "Title": "SwiftUI Text not wrapping when Spacer is present in VStack",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738465/swiftui-text-not-wrapping-when-spacer-is-present-in-vstack"
+    }
+  ]
+}

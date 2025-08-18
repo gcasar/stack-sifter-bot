@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-18T00:29:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-17T23:42:42Z",
+      "Title": "which interstitial ad event tracks when an impression is counted by admob?",
+      "Tags": [
+        "reactjs",
+        "frontend",
+        "admob",
+        "capacitor",
+        "capacitor-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738177/which-interstitial-ad-event-tracks-when-an-impression-is-counted-by-admob"
+    },
+    {
+      "Created": "2025-08-17T23:49:00Z",
+      "Title": "Huge training loss when fine-tuning DeBERTa-v3-small with HuggingFace Trainer \u002B LoRA",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "deep-learning",
+        "nlp",
+        "huggingface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738182/huge-training-loss-when-fine-tuning-deberta-v3-small-with-huggingface-trainer"
+    },
+    {
+      "Created": "2025-08-18T00:07:48Z",
+      "Title": "How would I resolve this redefinition error in HLSL, despite not redefining anything?",
+      "Tags": [
+        "unity-game-engine",
+        "shader",
+        "hlsl",
+        "terrain",
+        "procedural-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738187/how-would-i-resolve-this-redefinition-error-in-hlsl-despite-not-redefining-anyt"
+    },
+    {
+      "Created": "2025-08-18T00:15:29Z",
+      "Title": "Spire.XLS with pyinstaller",
+      "Tags": [
+        "python-3.x",
+        "pyinstaller",
+        "spire.xls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738189/spire-xls-with-pyinstaller"
+    },
+    {
+      "Created": "2025-08-18T00:22:42Z",
+      "Title": "fgetws loading string with \\0 after every character",
+      "Tags": [
+        "c",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738191/fgetws-loading-string-with-0-after-every-character"
+    },
+    {
+      "Created": "2025-08-18T00:29:48Z",
+      "Title": "Variables depending on target variable not re-evaluated",
+      "Tags": [
+        "makefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79738192/variables-depending-on-target-variable-not-re-evaluated"
+    }
+  ]
+}

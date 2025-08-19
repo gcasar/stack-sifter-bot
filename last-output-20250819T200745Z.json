@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-19T19:56:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T19:04:49Z",
+      "Title": "AppActivate/SendKeys works with Excel 2016 but not Excel 365",
+      "Tags": [
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740314/appactivate-sendkeys-works-with-excel-2016-but-not-excel-365"
+    },
+    {
+      "Created": "2025-08-19T19:16:47Z",
+      "Title": "How to disable selenium logs AND run the browser in headless mode",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740323/how-to-disable-selenium-logs-and-run-the-browser-in-headless-mode"
+    },
+    {
+      "Created": "2025-08-19T19:41:06Z",
+      "Title": "Including c\u002B\u002B standard headers from C not allowed, what should I use instead?",
+      "Tags": [
+        "c",
+        "std"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740338/including-c-standard-headers-from-c-not-allowed-what-should-i-use-instead"
+    },
+    {
+      "Created": "2025-08-19T19:46:17Z",
+      "Title": "How to set all \u003Cselect\u003E elements to a specific value using Playwright sync_api in Python?",
+      "Tags": [
+        "python",
+        "puppeteer",
+        "pyppeteer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740345/how-to-set-all-select-elements-to-a-specific-value-using-playwright-sync-api-i"
+    },
+    {
+      "Created": "2025-08-19T19:46:37Z",
+      "Title": "How to keep a border fixed only around carousel images (not captions) in a sliding track?",
+      "Tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740346/how-to-keep-a-border-fixed-only-around-carousel-images-not-captions-in-a-slidi"
+    },
+    {
+      "Created": "2025-08-19T19:56:23Z",
+      "Title": "\u0027Microsoft.Testing.Platform\u0027 allegedly missing when running project on Azure DevOps Agent",
+      "Tags": [
+        "c#",
+        "azure-devops",
+        "azure-pipelines",
+        "mstest",
+        "microsoft.testing.platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740353/microsoft-testing-platform-allegedly-missing-when-running-project-on-azure-dev"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-19T02:57:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T02:46:46Z",
+      "Title": "get_template_directory() returning child theme instead of parent theme when running phpunit",
+      "Tags": [
+        "wordpress",
+        "phpunit",
+        "wordpress-theming",
+        "wp-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739405/get-template-directory-returning-child-theme-instead-of-parent-theme-when-runn"
+    },
+    {
+      "Created": "2025-08-19T02:57:52Z",
+      "Title": "How to simplify a logic expresion in sympy?",
+      "Tags": [
+        "python",
+        "logic",
+        "sympy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739407/how-to-simplify-a-logic-expresion-in-sympy"
+    }
+  ]
+}

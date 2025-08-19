@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-19T09:58:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T09:42:05Z",
+      "Title": "How to link an executable to a shared library built by ExternalProject using CMake?",
+      "Tags": [
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739723/how-to-link-an-executable-to-a-shared-library-built-by-externalproject-using-cma"
+    },
+    {
+      "Created": "2025-08-19T09:42:36Z",
+      "Title": "OV7670 black and white image capture - contrast and brightness",
+      "Tags": [
+        "c\u002B\u002B",
+        "camera",
+        "nrf91"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739725/ov7670-black-and-white-image-capture-contrast-and-brightness"
+    },
+    {
+      "Created": "2025-08-19T09:44:46Z",
+      "Title": "Any shortcut to open the file from its diff view?",
+      "Tags": [
+        "intellij-idea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739729/any-shortcut-to-open-the-file-from-its-diff-view"
+    },
+    {
+      "Created": "2025-08-19T09:51:51Z",
+      "Title": "How to handle NextJS nested parallel route in intercepted routes?",
+      "Tags": [
+        "typescript",
+        "next.js",
+        "modal-dialog",
+        "intercepting-route"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739737/how-to-handle-nextjs-nested-parallel-route-in-intercepted-routes"
+    },
+    {
+      "Created": "2025-08-19T09:58:23Z",
+      "Title": "Youtube Captions API from API explorer returns 404 for a resource ID obtained from the list endpoint",
+      "Tags": [
+        "youtube-data-api",
+        "google-apis-explorer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739749/youtube-captions-api-from-api-explorer-returns-404-for-a-resource-id-obtained-fr"
+    },
+    {
+      "Created": "2025-08-19T09:58:38Z",
+      "Title": "Automatic data loading when creating a dbcontext instance",
+      "Tags": [
+        "c#",
+        "sqlite",
+        "entity-framework",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739750/automatic-data-loading-when-creating-a-dbcontext-instance"
+    }
+  ]
+}

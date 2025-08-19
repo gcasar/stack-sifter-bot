@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-19T14:59:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T14:29:05Z",
+      "Title": "PostgreSQL: JPA repo method with native query containing \u0027\u0026\u0026\u0027 not accepting Collection\u003CLong\u003E but Long[]",
+      "Tags": [
+        "java",
+        "postgresql",
+        "jpa",
+        "orm",
+        "nativequery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740056/postgresql-jpa-repo-method-with-native-query-containing-not-accepting-coll"
+    },
+    {
+      "Created": "2025-08-19T14:39:20Z",
+      "Title": "How to disable execution of js codes in file preview with pdfjs library to prevent xss attack",
+      "Tags": [
+        "javascript",
+        "pdf.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740071/how-to-disable-execution-of-js-codes-in-file-preview-with-pdfjs-library-to-preve"
+    },
+    {
+      "Created": "2025-08-19T14:57:56Z",
+      "Title": "AnyChart StockChart Legend Misalignment Issue - Fixed Only After Hover Interaction (only if series has data)",
+      "Tags": [
+        "typescript",
+        "vue.js",
+        "anychart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740100/anychart-stockchart-legend-misalignment-issue-fixed-only-after-hover-interacti"
+    },
+    {
+      "Created": "2025-08-19T14:59:17Z",
+      "Title": "Test a child component that calls an API within the parent component",
+      "Tags": [
+        "reactjs",
+        "react-testing-library",
+        "vitest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740101/test-a-child-component-that-calls-an-api-within-the-parent-component"
+    }
+  ]
+}

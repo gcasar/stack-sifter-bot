@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-19T19:03:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T18:17:08Z",
+      "Title": "Why the second letter is being ignored when using my Typewriter component?",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "algorithm",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740274/why-the-second-letter-is-being-ignored-when-using-my-typewriter-component"
+    },
+    {
+      "Created": "2025-08-19T18:33:29Z",
+      "Title": "Variable assignment inside an If statement - Can that be turned into a VS Warning?",
+      "Tags": [
+        "visual-studio",
+        "if-statement",
+        "warnings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740290/variable-assignment-inside-an-if-statement-can-that-be-turned-into-a-vs-warnin"
+    },
+    {
+      "Created": "2025-08-19T18:35:15Z",
+      "Title": "Stripe: \u0022No signatures found matching the expected signature for payload\u0022 using Django Rest Framework and request.body",
+      "Tags": [
+        "python-3.x",
+        "django",
+        "django-rest-framework",
+        "stripe-payments",
+        "webhooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740292/stripe-no-signatures-found-matching-the-expected-signature-for-payload-using"
+    },
+    {
+      "Created": "2025-08-19T18:37:10Z",
+      "Title": "VB6 Adding or removing a database password using DAO",
+      "Tags": [
+        "ms-access",
+        "vb6",
+        "dao"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740293/vb6-adding-or-removing-a-database-password-using-dao"
+    },
+    {
+      "Created": "2025-08-19T18:47:19Z",
+      "Title": "How to Fix \u0022Untranslated Messages\u0022 Warning When Running flutter gen-l10n?",
+      "Tags": [
+        "android",
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740298/how-to-fix-untranslated-messages-warning-when-running-flutter-gen-l10n"
+    },
+    {
+      "Created": "2025-08-19T18:54:51Z",
+      "Title": "Facebook Marketing API OAuth scopes not granted for app admin",
+      "Tags": [
+        "facebook-graph-api",
+        "metadata",
+        "facebook-login"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740303/facebook-marketing-api-oauth-scopes-not-granted-for-app-admin"
+    },
+    {
+      "Created": "2025-08-19T18:57:25Z",
+      "Title": "Highcharts arearange chart: Get plotLow and plotHigh in custom render function",
+      "Tags": [
+        "javascript",
+        "highcharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740306/highcharts-arearange-chart-get-plotlow-and-plothigh-in-custom-render-function"
+    },
+    {
+      "Created": "2025-08-19T19:03:52Z",
+      "Title": "zenoh implementation over minimal esp-idf example (idf.py)",
+      "Tags": [
+        "esp-idf",
+        "zenoh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740311/zenoh-implementation-over-minimal-esp-idf-example-idf-py"
+    }
+  ]
+}

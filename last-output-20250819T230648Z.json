@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-19T23:05:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T22:34:15Z",
+      "Title": "Is there a way to get all redirect locations from a given XML/HTML in Google Apps Script?",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script",
+        "http-redirect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740459/is-there-a-way-to-get-all-redirect-locations-from-a-given-xml-html-in-google-app"
+    },
+    {
+      "Created": "2025-08-19T22:35:30Z",
+      "Title": "trying to run selenium in linux cant find driver",
+      "Tags": [
+        "python",
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740460/trying-to-run-selenium-in-linux-cant-find-driver"
+    },
+    {
+      "Created": "2025-08-19T22:48:41Z",
+      "Title": "How to manage interaction in 2D and 3D within a RealityKit game",
+      "Tags": [
+        "xcode",
+        "sprite-kit",
+        "overlay",
+        "realitykit",
+        "hud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740470/how-to-manage-interaction-in-2d-and-3d-within-a-realitykit-game"
+    },
+    {
+      "Created": "2025-08-19T22:48:51Z",
+      "Title": "scrollPosition with center anchor gets wrong item",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740471/scrollposition-with-center-anchor-gets-wrong-item"
+    },
+    {
+      "Created": "2025-08-19T23:01:26Z",
+      "Title": "Net 9 equivalent for System.Runtime.Remoting.Lifetime",
+      "Tags": [
+        "c#",
+        ".net",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740475/net-9-equivalent-for-system-runtime-remoting-lifetime"
+    },
+    {
+      "Created": "2025-08-19T23:05:11Z",
+      "Title": "Spyder is hanging in debug mode",
+      "Tags": [
+        "python",
+        "spyder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740477/spyder-is-hanging-in-debug-mode"
+    }
+  ]
+}

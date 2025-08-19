@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-19T12:06:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T11:34:22Z",
+      "Title": "I there a way to turn off open3D logging when rendering in headless mode?",
+      "Tags": [
+        "python",
+        "open3d",
+        "o3d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739843/i-there-a-way-to-turn-off-open3d-logging-when-rendering-in-headless-mode"
+    },
+    {
+      "Created": "2025-08-19T11:48:38Z",
+      "Title": "Real-Time to Windows Data Transfer in Labview",
+      "Tags": [
+        "windows",
+        "real-time",
+        "labview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739859/real-time-to-windows-data-transfer-in-labview"
+    },
+    {
+      "Created": "2025-08-19T11:50:22Z",
+      "Title": "Mutliple ways for authentication in ASP.NET Core 9.0 Blazor",
+      "Tags": [
+        "authentication",
+        "oauth-2.0",
+        "blazor",
+        "asp.net-core-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739862/mutliple-ways-for-authentication-in-asp-net-core-9-0-blazor"
+    },
+    {
+      "Created": "2025-08-19T11:57:33Z",
+      "Title": "jenkins groovy update kind=\u0022secrets text\u0022 credentials store in jenkins",
+      "Tags": [
+        "jenkins",
+        "jenkins-groovy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739868/jenkins-groovy-update-kind-secrets-text-credentials-store-in-jenkins"
+    },
+    {
+      "Created": "2025-08-19T12:00:51Z",
+      "Title": ".NET MAUI class library with Autofac: services not injected into ViewModel (NullReferenceException in constructor)",
+      "Tags": [
+        "autofac"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739871/net-maui-class-library-with-autofac-services-not-injected-into-viewmodel-null"
+    },
+    {
+      "Created": "2025-08-19T12:06:03Z",
+      "Title": "Instances cannot be resolved LifetimeScope has already been disposed\u0022 when resolving controller",
+      "Tags": [
+        "asp.net",
+        "dependency-injection",
+        "autofac"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739874/instances-cannot-be-resolved-lifetimescope-has-already-been-disposed-when-resol"
+    },
+    {
+      "Created": "2025-08-19T12:06:06Z",
+      "Title": "Why does recvfrom() constantly output -1 in my code?",
+      "Tags": [
+        "c",
+        "sockets",
+        "network-programming",
+        "arp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739875/why-does-recvfrom-constantly-output-1-in-my-code"
+    }
+  ]
+}

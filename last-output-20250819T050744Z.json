@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-19T04:54:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T04:10:19Z",
+      "Title": "How do I resolve CSP block on lite-server and github-pages of angular app",
+      "Tags": [
+        "angular",
+        "typescript",
+        "content-security-policy",
+        "github-pages-deploy-action"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739436/how-do-i-resolve-csp-block-on-lite-server-and-github-pages-of-angular-app"
+    },
+    {
+      "Created": "2025-08-19T04:37:52Z",
+      "Title": "PDFTron: How to embed an external CMS (Bank-Verlag) signature into a signature field created in WebViewer?",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "digital-signature",
+        "pkcs#7",
+        "pdftron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739452/pdftron-how-to-embed-an-external-cms-bank-verlag-signature-into-a-signature-f"
+    },
+    {
+      "Created": "2025-08-19T04:40:18Z",
+      "Title": "Dynamic Excel Graph based on Filter Function breaking",
+      "Tags": [
+        "excel",
+        "filter",
+        "graph",
+        "charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739453/dynamic-excel-graph-based-on-filter-function-breaking"
+    },
+    {
+      "Created": "2025-08-19T04:47:38Z",
+      "Title": "How to hide version name in mariadb versions preceeding v10.2.1",
+      "Tags": [
+        "mariadb",
+        "version",
+        "mariadb-10.1"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739457/how-to-hide-version-name-in-mariadb-versions-preceeding-v10-2-1"
+    },
+    {
+      "Created": "2025-08-19T04:54:27Z",
+      "Title": "Google Smart Home onExecute delay when turning on smart fan (Node.js \u002B Firebase \u002B MQTT)",
+      "Tags": [
+        "firebase",
+        "google-cloud-platform",
+        "google-home"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739459/google-smart-home-onexecute-delay-when-turning-on-smart-fan-node-js-firebase"
+    }
+  ]
+}

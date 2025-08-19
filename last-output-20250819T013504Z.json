@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-19T01:32:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T01:15:12Z",
+      "Title": "docker - create an env var in entrypoint script and make it available for every process",
+      "Tags": [
+        "docker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739375/docker-create-an-env-var-in-entrypoint-script-and-make-it-available-for-every"
+    },
+    {
+      "Created": "2025-08-19T01:32:01Z",
+      "Title": "Is there a way to hide or delete stages that are skipped in a YAML Pipeline in AzDO",
+      "Tags": [
+        "azure-devops",
+        "yaml",
+        "continuous-integration",
+        "azure-pipelines-yaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739382/is-there-a-way-to-hide-or-delete-stages-that-are-skipped-in-a-yaml-pipeline-in-a"
+    }
+  ]
+}

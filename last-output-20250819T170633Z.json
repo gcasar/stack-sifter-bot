@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-19T17:04:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T16:22:23Z",
+      "Title": "Expo project reference sibling project",
+      "Tags": [
+        "react-native",
+        "npm",
+        "expo",
+        "metro-bundler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740175/expo-project-reference-sibling-project"
+    },
+    {
+      "Created": "2025-08-19T16:24:28Z",
+      "Title": "navigate() in ReactJS shows blank page after routing",
+      "Tags": [
+        "reactjs",
+        "react-router",
+        "react-router-dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740177/navigate-in-reactjs-shows-blank-page-after-routing"
+    },
+    {
+      "Created": "2025-08-19T16:45:26Z",
+      "Title": "Unable to update Library Variable Groups from Pipeline via REST call with \u0060System.AccessToken\u0060",
+      "Tags": [
+        "azure-devops",
+        "azure-pipelines",
+        "azure-pipelines-yaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740194/unable-to-update-library-variable-groups-from-pipeline-via-rest-call-with-syste"
+    },
+    {
+      "Created": "2025-08-19T16:53:30Z",
+      "Title": "Can an ansible collection query its own metadata?",
+      "Tags": [
+        "ansible"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740204/can-an-ansible-collection-query-its-own-metadata"
+    },
+    {
+      "Created": "2025-08-19T16:55:49Z",
+      "Title": "Call Oracle Stored Procedure that takes ODCIVARCHAR2LIST parameter from C# using Dapper and Oracle Managed Data Access Core",
+      "Tags": [
+        "c#",
+        ".net",
+        "oracle-database",
+        "plsql",
+        "dapper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740207/call-oracle-stored-procedure-that-takes-odcivarchar2list-parameter-from-c-sharp"
+    },
+    {
+      "Created": "2025-08-19T16:59:26Z",
+      "Title": "How to wait for element to disappear if you cannot rely on locators",
+      "Tags": [
+        "playwright",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740209/how-to-wait-for-element-to-disappear-if-you-cannot-rely-on-locators"
+    },
+    {
+      "Created": "2025-08-19T17:04:04Z",
+      "Title": "How can I index search a json file with different elements in pytho",
+      "Tags": [
+        "python",
+        "json",
+        "file",
+        "discord"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740211/how-can-i-index-search-a-json-file-with-different-elements-in-pytho"
+    }
+  ]
+}

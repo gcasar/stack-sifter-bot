@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-19T13:13:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T12:32:11Z",
+      "Title": "How to implement Paris\u2019 law crack growth simulation in Python?",
+      "Tags": [
+        "python",
+        "scipy",
+        "ode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739896/how-to-implement-paris-law-crack-growth-simulation-in-python"
+    },
+    {
+      "Created": "2025-08-19T12:57:05Z",
+      "Title": "How to override inject() dependency from abstract base class in Angular?",
+      "Tags": [
+        "angular",
+        "dependency-injection",
+        "abstract-class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739924/how-to-override-inject-dependency-from-abstract-base-class-in-angular"
+    },
+    {
+      "Created": "2025-08-19T12:58:23Z",
+      "Title": "Logging errors from DeadLetterPublishingRecoverer when it fails",
+      "Tags": [
+        "spring-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739927/logging-errors-from-deadletterpublishingrecoverer-when-it-fails"
+    },
+    {
+      "Created": "2025-08-19T13:06:02Z",
+      "Title": "How do Window Width and Window Center interact with a multiframe DicomImage?",
+      "Tags": [
+        "c\u002B\u002B",
+        "dicom",
+        "dcmtk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739936/how-do-window-width-and-window-center-interact-with-a-multiframe-dicomimage"
+    },
+    {
+      "Created": "2025-08-19T13:08:59Z",
+      "Title": "Call parent class\u0027s method instead of overriden one from outside",
+      "Tags": [
+        "php",
+        "oop",
+        "overriding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739939/call-parent-classs-method-instead-of-overriden-one-from-outside"
+    },
+    {
+      "Created": "2025-08-19T13:13:13Z",
+      "Title": "Configure EhCache with Spring (JSR 107) exclusively programmatically",
+      "Tags": [
+        "spring-boot",
+        "ehcache",
+        "spring-cache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739946/configure-ehcache-with-spring-jsr-107-exclusively-programmatically"
+    },
+    {
+      "Created": "2025-08-19T13:13:41Z",
+      "Title": "How to run Docker containers on a bonded interface (bond0) using a bridge network?",
+      "Tags": [
+        "linux",
+        "docker",
+        "docker-container",
+        "docker-network",
+        "nic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739948/how-to-run-docker-containers-on-a-bonded-interface-bond0-using-a-bridge-networ"
+    }
+  ]
+}

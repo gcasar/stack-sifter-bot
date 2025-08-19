@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-19T11:03:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T10:39:03Z",
+      "Title": "Get commit messages from last tag creation in GitHub Actions workflow",
+      "Tags": [
+        "github",
+        "github-actions",
+        "git-log"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739784/get-commit-messages-from-last-tag-creation-in-github-actions-workflow"
+    },
+    {
+      "Created": "2025-08-19T10:52:15Z",
+      "Title": "Is there an existing library or tool to convert FHIR JSON Bundles into OMOP CDM format?",
+      "Tags": [
+        "python",
+        "mysql",
+        "hl7-fhir",
+        "ohdsi-omop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739797/is-there-an-existing-library-or-tool-to-convert-fhir-json-bundles-into-omop-cdm"
+    },
+    {
+      "Created": "2025-08-19T10:52:16Z",
+      "Title": "How to exit around_save callback before executing yield block",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-5.2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739798/how-to-exit-around-save-callback-before-executing-yield-block"
+    },
+    {
+      "Created": "2025-08-19T11:01:09Z",
+      "Title": "How to configure Grafana Alloy to set Loki tenant dynamically from log labels?",
+      "Tags": [
+        "logging",
+        "grafana",
+        "grafana-loki",
+        "alloy",
+        "grafana-alloy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739808/how-to-configure-grafana-alloy-to-set-loki-tenant-dynamically-from-log-labels"
+    },
+    {
+      "Created": "2025-08-19T11:03:41Z",
+      "Title": "How to get user_location permission with Facebook Graph API for a Business App?",
+      "Tags": [
+        "facebook",
+        "facebook-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739811/how-to-get-user-location-permission-with-facebook-graph-api-for-a-business-app"
+    }
+  ]
+}

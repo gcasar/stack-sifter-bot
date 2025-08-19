@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-19T08:07:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T07:15:06Z",
+      "Title": "How to customize ag-grid advance filter [closed]",
+      "Tags": [
+        "ag-grid",
+        "advanced-filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739574/how-to-customize-ag-grid-advance-filter"
+    },
+    {
+      "Created": "2025-08-19T07:59:31Z",
+      "Title": "How to integrate Vault secrets into gitlab without listing variables?",
+      "Tags": [
+        "gitlab",
+        "environment-variables",
+        "gitlab-ci-runner",
+        "hashicorp-vault",
+        "vault"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739614/how-to-integrate-vault-secrets-into-gitlab-without-listing-variables"
+    },
+    {
+      "Created": "2025-08-19T08:06:28Z",
+      "Title": "Is there a way for a AWS RDS record insert to trigger a REST API call?",
+      "Tags": [
+        "sql-server",
+        "amazon-web-services",
+        "aws-lambda",
+        "amazon-rds"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739619/is-there-a-way-for-a-aws-rds-record-insert-to-trigger-a-rest-api-call"
+    },
+    {
+      "Created": "2025-08-19T08:07:05Z",
+      "Title": "How to play videos one after another smoothly in React without glitches when updating video URL from server?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "video",
+        "frontend",
+        "html5-video"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739620/how-to-play-videos-one-after-another-smoothly-in-react-without-glitches-when-upd"
+    }
+  ]
+}

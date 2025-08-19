@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-19T18:06:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T17:14:04Z",
+      "Title": "I need to rerun the document collection through TDE in MarkLogic",
+      "Tags": [
+        "marklogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740219/i-need-to-rerun-the-document-collection-through-tde-in-marklogic"
+    },
+    {
+      "Created": "2025-08-19T17:22:13Z",
+      "Title": "How to connect do Databricks SQL Warehouse",
+      "Tags": [
+        "databricks",
+        "databricks-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740223/how-to-connect-do-databricks-sql-warehouse"
+    },
+    {
+      "Created": "2025-08-19T17:49:49Z",
+      "Title": "What is the difference between the two versions of OpenTextFileReader() in Visual Basic?",
+      "Tags": [
+        "vb.net",
+        ".net-4.7.2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740243/what-is-the-difference-between-the-two-versions-of-opentextfilereader-in-visua"
+    },
+    {
+      "Created": "2025-08-19T17:52:53Z",
+      "Title": "Update multiple rows in a SQLite DB - add a number to the value in multiple rows",
+      "Tags": [
+        "sql",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740248/update-multiple-rows-in-a-sqlite-db-add-a-number-to-the-value-in-multiple-rows"
+    },
+    {
+      "Created": "2025-08-19T17:55:22Z",
+      "Title": "How can I get VSCode/Cursor to not ignore a problemMatcher in a task?",
+      "Tags": [
+        "visual-studio-code",
+        "cursor-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740251/how-can-i-get-vscode-cursor-to-not-ignore-a-problemmatcher-in-a-task"
+    },
+    {
+      "Created": "2025-08-19T18:06:00Z",
+      "Title": "Can\u0027t update Gradle Plugin to anything newer than 7.4.2 (using Android Studio Electric Eel to follow along in a Youtube video course)",
+      "Tags": [
+        "android-studio",
+        "gradle",
+        "plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740265/cant-update-gradle-plugin-to-anything-newer-than-7-4-2-using-android-studio-el"
+    }
+  ]
+}

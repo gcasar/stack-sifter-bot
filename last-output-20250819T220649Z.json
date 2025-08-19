@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-19T22:03:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T21:05:17Z",
+      "Title": "How to move tooltip box to a different position on the screen",
+      "Tags": [
+        "r",
+        "shiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740406/how-to-move-tooltip-box-to-a-different-position-on-the-screen"
+    },
+    {
+      "Created": "2025-08-19T21:15:51Z",
+      "Title": "if condition in forEach loop in vuejs methods",
+      "Tags": [
+        "vue.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740411/if-condition-in-foreach-loop-in-vuejs-methods"
+    },
+    {
+      "Created": "2025-08-19T21:43:55Z",
+      "Title": "Sorting sync and non-sync at runtime",
+      "Tags": [
+        "multithreading",
+        "rust",
+        "synchronization",
+        "runtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740425/sorting-sync-and-non-sync-at-runtime"
+    },
+    {
+      "Created": "2025-08-19T21:50:31Z",
+      "Title": "How can I preview what baked lighting will look like in Unity before baking?",
+      "Tags": [
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740429/how-can-i-preview-what-baked-lighting-will-look-like-in-unity-before-baking"
+    },
+    {
+      "Created": "2025-08-19T21:53:27Z",
+      "Title": "Is difference between two pointers pointing to the same deallocated array well-defined in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "pointers",
+        "language-lawyer",
+        "new-operator",
+        "undefined-behavior"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740430/is-difference-between-two-pointers-pointing-to-the-same-deallocated-array-well-d"
+    },
+    {
+      "Created": "2025-08-19T22:02:22Z",
+      "Title": "Deploying a python web app on Azure the page isnt displaying",
+      "Tags": [
+        "python",
+        "azure-web-app-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740439/deploying-a-python-web-app-on-azure-the-page-isnt-displaying"
+    },
+    {
+      "Created": "2025-08-19T22:02:40Z",
+      "Title": "Apache Airflow: Ignore implicit TaskGroup when creating a task",
+      "Tags": [
+        "python",
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740440/apache-airflow-ignore-implicit-taskgroup-when-creating-a-task"
+    },
+    {
+      "Created": "2025-08-19T22:03:41Z",
+      "Title": "Trying to solve a satellite equation, but I\u0027m getting an empty plot",
+      "Tags": [
+        "python",
+        "differential-equations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740441/trying-to-solve-a-satellite-equation-but-im-getting-an-empty-plot"
+    }
+  ]
+}

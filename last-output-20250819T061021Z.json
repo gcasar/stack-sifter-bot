@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-19T06:07:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T05:07:05Z",
+      "Title": "Deducting values across a data frame based on condition",
+      "Tags": [
+        "r",
+        "tidyverse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739469/deducting-values-across-a-data-frame-based-on-condition"
+    },
+    {
+      "Created": "2025-08-19T05:46:36Z",
+      "Title": "Can I draw in Desmos the figure bounded by 3 inequalities?",
+      "Tags": [
+        "figure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739490/can-i-draw-in-desmos-the-figure-bounded-by-3-inequalities"
+    },
+    {
+      "Created": "2025-08-19T05:47:53Z",
+      "Title": "Calling Oracle stored procedure from ESQL",
+      "Tags": [
+        "ibm-integration-bus",
+        "extended-sql",
+        "ibm-app-connect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739492/calling-oracle-stored-procedure-from-esql"
+    },
+    {
+      "Created": "2025-08-19T05:59:54Z",
+      "Title": "Nuxt 4 \u002B Tailwind custom color (bg-primary) not working",
+      "Tags": [
+        "nuxt.js",
+        "tailwind-css",
+        "vite",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739501/nuxt-4-tailwind-custom-color-bg-primary-not-working"
+    },
+    {
+      "Created": "2025-08-19T06:03:18Z",
+      "Title": "What is the gflags equivalent to python argparse\u0027s dest attribute?",
+      "Tags": [
+        "gflags"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739502/what-is-the-gflags-equivalent-to-python-argparses-dest-attribute"
+    },
+    {
+      "Created": "2025-08-19T06:07:27Z",
+      "Title": "In RealityKit, how to make a physics entity to move its parent instead of self",
+      "Tags": [
+        "ios",
+        "swift",
+        "realitykit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739506/in-realitykit-how-to-make-a-physics-entity-to-move-its-parent-instead-of-self"
+    }
+  ]
+}

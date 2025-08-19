@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-19T09:07:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T08:10:31Z",
+      "Title": "Collect value with select through a loop [closed]",
+      "Tags": [
+        "javascript",
+        "html",
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739622/collect-value-with-select-through-a-loop"
+    },
+    {
+      "Created": "2025-08-19T08:47:15Z",
+      "Title": "How to correctly type hint a mapping (dict) with Literal keys?",
+      "Tags": [
+        "python",
+        "python-typing",
+        "pytype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739660/how-to-correctly-type-hint-a-mapping-dict-with-literal-keys"
+    },
+    {
+      "Created": "2025-08-19T08:48:48Z",
+      "Title": "How to select the maximum value per group in SQL? [duplicate]",
+      "Tags": [
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739661/how-to-select-the-maximum-value-per-group-in-sql"
+    },
+    {
+      "Created": "2025-08-19T08:52:47Z",
+      "Title": "How to remove artifacts from the gnuplot canvas when using it with a dumb terminal?",
+      "Tags": [
+        "gnuplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739668/how-to-remove-artifacts-from-the-gnuplot-canvas-when-using-it-with-a-dumb-termin"
+    },
+    {
+      "Created": "2025-08-19T08:56:53Z",
+      "Title": "How to Check for an \u0022Almost Palindrome\u0022 with Exactly One Character Mismatch?",
+      "Tags": [
+        "javascript",
+        "string",
+        "algorithm",
+        "time-complexity",
+        "palindrome"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739671/how-to-check-for-an-almost-palindrome-with-exactly-one-character-mismatch"
+    },
+    {
+      "Created": "2025-08-19T09:06:15Z",
+      "Title": "Using SHA256 to secure url data vs HMAC_SHA256",
+      "Tags": [
+        "security",
+        "encryption",
+        "signature",
+        "sha256"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739680/using-sha256-to-secure-url-data-vs-hmac-sha256"
+    },
+    {
+      "Created": "2025-08-19T09:07:15Z",
+      "Title": "Continuous Android BLE scan with 3rd party Ionic app in background",
+      "Tags": [
+        "android",
+        "ionic-framework",
+        "background",
+        "bluetooth-lowenergy",
+        "capacitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79739681/continuous-android-ble-scan-with-3rd-party-ionic-app-in-background"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-19T21:02:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T20:19:19Z",
+      "Title": "Create Users using IAM Role in Redshift Serverless",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-redshift",
+        "amazon-redshift-serverless"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740371/create-users-using-iam-role-in-redshift-serverless"
+    },
+    {
+      "Created": "2025-08-19T20:36:20Z",
+      "Title": "Is it possible to read the value of the Office Theme option that\u0027s currently applied in the Microsoft Excel settings and use it in VBA?",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740384/is-it-possible-to-read-the-value-of-the-office-theme-option-thats-currently-app"
+    },
+    {
+      "Created": "2025-08-19T20:44:31Z",
+      "Title": "Description tag on each page of the topic",
+      "Tags": [
+        "invision-power-board"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740389/description-tag-on-each-page-of-the-topic"
+    },
+    {
+      "Created": "2025-08-19T20:44:53Z",
+      "Title": "R function to update vector elements based on string match",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740391/r-function-to-update-vector-elements-based-on-string-match"
+    },
+    {
+      "Created": "2025-08-19T20:51:26Z",
+      "Title": "Apache Camel OpenTelemetry creates duplicate log events in ELK Stack",
+      "Tags": [
+        "spring-boot",
+        "elasticsearch",
+        "apache-camel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740393/apache-camel-opentelemetry-creates-duplicate-log-events-in-elk-stack"
+    },
+    {
+      "Created": "2025-08-19T20:53:18Z",
+      "Title": "AppActivate/SendKeys runtime errors not trappable with On Error",
+      "Tags": [
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740395/appactivate-sendkeys-runtime-errors-not-trappable-with-on-error"
+    },
+    {
+      "Created": "2025-08-19T20:54:34Z",
+      "Title": "polars streaming: downsample \u0026 write parquet",
+      "Tags": [
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740398/polars-streaming-downsample-write-parquet"
+    },
+    {
+      "Created": "2025-08-19T20:58:56Z",
+      "Title": "How to remove duplicate rows in pandas DataFrame based on a column?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "duplicates",
+        "data-cleaning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740400/how-to-remove-duplicate-rows-in-pandas-dataframe-based-on-a-column"
+    },
+    {
+      "Created": "2025-08-19T21:02:12Z",
+      "Title": "how to import module with TYPE_CHECKING as true",
+      "Tags": [
+        "python",
+        "python-import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740403/how-to-import-module-with-type-checking-as-true"
+    }
+  ]
+}

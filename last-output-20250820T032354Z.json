@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-20T03:18:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T03:09:57Z",
+      "Title": "How to make \u0060cargo doc\u0060 docs output to \u0060/docs\u0060 directory (for GH pages)?",
+      "Tags": [
+        "github-pages",
+        "cargo",
+        "rustdoc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740581/how-to-make-cargo-doc-docs-output-to-docs-directory-for-gh-pages"
+    },
+    {
+      "Created": "2025-08-20T03:18:35Z",
+      "Title": "How can I efficiently use new queries that don\u0027t use existing partition key in CosmosDb?",
+      "Tags": [
+        "azure-cosmosdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740586/how-can-i-efficiently-use-new-queries-that-dont-use-existing-partition-key-in-c"
+    }
+  ]
+}

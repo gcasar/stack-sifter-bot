@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-20T07:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T06:43:55Z",
+      "Title": "Stolon PITR restore fails with \u0022invalid checkpoint record\u0022 and \u0022could not locate required checkpoint record\u0022 [closed]",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740712/stolon-pitr-restore-fails-with-invalid-checkpoint-record-and-could-not-locate"
+    },
+    {
+      "Created": "2025-08-20T06:58:20Z",
+      "Title": "Screen reader announces dialog accessible name twice when focusing trigger button after dialog closes",
+      "Tags": [
+        "javascript",
+        "html",
+        "dialog",
+        "accessibility"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740719/screen-reader-announces-dialog-accessible-name-twice-when-focusing-trigger-butto"
+    },
+    {
+      "Created": "2025-08-20T07:00:52Z",
+      "Title": "What is the best No-Code platform to build an \u201COtlob\u201D-like food delivery app with payments and maps? [closed]",
+      "Tags": [
+        "android",
+        "ios",
+        "flutterflow",
+        "google-appsheet",
+        "bubble.io"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740722/what-is-the-best-no-code-platform-to-build-an-otlob-like-food-delivery-app-wit"
+    },
+    {
+      "Created": "2025-08-20T07:02:47Z",
+      "Title": "Configuring osixia openldap docker container: err 49",
+      "Tags": [
+        "ldap",
+        "openldap",
+        "osixia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740726/configuring-osixia-openldap-docker-container-err-49"
+    }
+  ]
+}

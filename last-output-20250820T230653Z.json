@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-20T23:01:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T22:39:33Z",
+      "Title": "How to get Upwork Earnings overview through Upwork\u0027s GraphQL API?",
+      "Tags": [
+        "javascript",
+        "google-apps-script",
+        "graphql",
+        "urlfetch",
+        "upwork-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741654/how-to-get-upwork-earnings-overview-through-upworks-graphql-api"
+    },
+    {
+      "Created": "2025-08-20T22:50:13Z",
+      "Title": "Need to get dates difference between 2 dates in a subselect query (multiple dim tables and 1 fact table) in oracle",
+      "Tags": [
+        "subquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741663/need-to-get-dates-difference-between-2-dates-in-a-subselect-query-multiple-dim"
+    },
+    {
+      "Created": "2025-08-20T22:52:25Z",
+      "Title": "Woocommerce checkout order review section create product link",
+      "Tags": [
+        "php",
+        "wordpress",
+        "woocommerce",
+        "checkout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741665/woocommerce-checkout-order-review-section-create-product-link"
+    },
+    {
+      "Created": "2025-08-20T23:01:01Z",
+      "Title": "How to specify secret key algorithm in io.jsonwebtoken:jjwt:0.12?",
+      "Tags": [
+        "jjwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741671/how-to-specify-secret-key-algorithm-in-io-jsonwebtokenjjwt0-12"
+    }
+  ]
+}

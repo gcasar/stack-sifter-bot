@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-20T16:03:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T15:21:32Z",
+      "Title": "How can I get Shibboleth to run with Jetty",
+      "Tags": [
+        "java",
+        "linux",
+        "jetty",
+        "shibboleth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741278/how-can-i-get-shibboleth-to-run-with-jetty"
+    },
+    {
+      "Created": "2025-08-20T15:42:46Z",
+      "Title": "How can I add an ASCII art before this system information?",
+      "Tags": [
+        "go",
+        "ascii-art"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741308/how-can-i-add-an-ascii-art-before-this-system-information"
+    },
+    {
+      "Created": "2025-08-20T15:53:09Z",
+      "Title": "How restore letter r in file /etc/passwd by string user root?",
+      "Tags": [
+        "linux",
+        "centos",
+        "root",
+        "centos8",
+        "passwd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741316/how-restore-letter-r-in-file-etc-passwd-by-string-user-root"
+    },
+    {
+      "Created": "2025-08-20T15:55:34Z",
+      "Title": "Can\u0027t search substring in output of PowerShell command output",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741318/cant-search-substring-in-output-of-powershell-command-output"
+    },
+    {
+      "Created": "2025-08-20T16:01:28Z",
+      "Title": "Github Actions - using paths filter with shared tests run",
+      "Tags": [
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741322/github-actions-using-paths-filter-with-shared-tests-run"
+    },
+    {
+      "Created": "2025-08-20T16:03:35Z",
+      "Title": "The Semidefinite Programming solver code with arbitrary precision",
+      "Tags": [
+        "python",
+        "sdp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741325/the-semidefinite-programming-solver-code-with-arbitrary-precision"
+    }
+  ]
+}

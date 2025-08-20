@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-20T22:04:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T21:05:01Z",
+      "Title": "How to access class type property inside of generic method in C#",
+      "Tags": [
+        "c#",
+        "generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741586/how-to-access-class-type-property-inside-of-generic-method-in-c-sharp"
+    },
+    {
+      "Created": "2025-08-20T21:17:33Z",
+      "Title": "SpringBootTest context with mapstruct.Mapper bean",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-test",
+        "mapstruct"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741597/springboottest-context-with-mapstruct-mapper-bean"
+    },
+    {
+      "Created": "2025-08-20T21:20:59Z",
+      "Title": "FastAPI CORS error despite correctly configured CORSMiddleware",
+      "Tags": [
+        "fastapi",
+        "fastapi-middleware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741598/fastapi-cors-error-despite-correctly-configured-corsmiddleware"
+    },
+    {
+      "Created": "2025-08-20T21:39:26Z",
+      "Title": "Kafka AckMode COUNT_TIME Behavior",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-kafka",
+        "kafka-consumer-api",
+        "confluent-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741609/kafka-ackmode-count-time-behavior"
+    },
+    {
+      "Created": "2025-08-20T21:41:34Z",
+      "Title": "Seaborn objects stacked bar plot not respecting dodge",
+      "Tags": [
+        "seaborn",
+        "seaborn-objects"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741611/seaborn-objects-stacked-bar-plot-not-respecting-dodge"
+    },
+    {
+      "Created": "2025-08-20T21:48:37Z",
+      "Title": "How to detect a process termination on Android through NavigationDelegate.onWebResourceError in webview_flutter",
+      "Tags": [
+        "flutter",
+        "webview-flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741620/how-to-detect-a-process-termination-on-android-through-navigationdelegate-onwebr"
+    },
+    {
+      "Created": "2025-08-20T21:54:25Z",
+      "Title": "How do I use Microsoft\u0027s Pyton SDK for Graph API to download or list files from SharePoint?",
+      "Tags": [
+        "python",
+        "microsoft-graph-api",
+        "microsoft-graph-sdks",
+        "microsoft-graph-files"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741625/how-do-i-use-microsofts-pyton-sdk-for-graph-api-to-download-or-list-files-from"
+    },
+    {
+      "Created": "2025-08-20T22:00:39Z",
+      "Title": "SSRS Stored Procedure Dataset - \u0022No Permission\u0022 Error Despite Granting Execute to User",
+      "Tags": [
+        "sql",
+        "reporting-services",
+        "permissions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741633/ssrs-stored-procedure-dataset-no-permission-error-despite-granting-execute-t"
+    },
+    {
+      "Created": "2025-08-20T22:04:00Z",
+      "Title": "How to automatically insert parentheses () when autocompleting functions in Python using Positron IDE?",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "positron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741635/how-to-automatically-insert-parentheses-when-autocompleting-functions-in-pyth"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-20T13:56:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T13:32:48Z",
+      "Title": "PPP connection emulation",
+      "Tags": [
+        "unix",
+        "emulation",
+        "ppp",
+        "gns3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741129/ppp-connection-emulation"
+    },
+    {
+      "Created": "2025-08-20T13:48:53Z",
+      "Title": "I can\u0027t remove a title from a variable in a sales order in Odoo 14",
+      "Tags": [
+        "python",
+        "xml",
+        "odoo",
+        "odoo-14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741145/i-cant-remove-a-title-from-a-variable-in-a-sales-order-in-odoo-14"
+    },
+    {
+      "Created": "2025-08-20T13:50:31Z",
+      "Title": "Why is this regex vulnerable to ReDoS in JavaScript but not in PHP?",
+      "Tags": [
+        "javascript",
+        "php",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741150/why-is-this-regex-vulnerable-to-redos-in-javascript-but-not-in-php"
+    },
+    {
+      "Created": "2025-08-20T13:53:16Z",
+      "Title": "i want to create a custom query to accept parameters at runtime in jbpm version 7.74.1 but not working in kie-server",
+      "Tags": [
+        "parameters",
+        "jbpm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741159/i-want-to-create-a-custom-query-to-accept-parameters-at-runtime-in-jbpm-version"
+    },
+    {
+      "Created": "2025-08-20T13:55:29Z",
+      "Title": "How to read Boolean value from Stream as a TextReader asynchronously?",
+      "Tags": [
+        "c#",
+        "parsing",
+        "asynchronous",
+        "stream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741160/how-to-read-boolean-value-from-stream-as-a-textreader-asynchronously"
+    },
+    {
+      "Created": "2025-08-20T13:56:49Z",
+      "Title": "Are there two URL objects whose equality is false but whose toString is the same?",
+      "Tags": [
+        "java",
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741162/are-there-two-url-objects-whose-equality-is-false-but-whose-tostring-is-the-same"
+    }
+  ]
+}

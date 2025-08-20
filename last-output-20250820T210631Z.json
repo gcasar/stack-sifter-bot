@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-20T21:02:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T20:40:26Z",
+      "Title": "Pandas - return the -2 row",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741568/pandas-return-the-2-row"
+    },
+    {
+      "Created": "2025-08-20T20:46:04Z",
+      "Title": "SwiftUI, Image View not matching with selected enum case details",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741574/swiftui-image-view-not-matching-with-selected-enum-case-details"
+    },
+    {
+      "Created": "2025-08-20T20:51:04Z",
+      "Title": "Is there a way to set a point on a graph so that on command the pointer will return to that point after some intervening turtle steps?",
+      "Tags": [
+        "python",
+        "turtle-graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741578/is-there-a-way-to-set-a-point-on-a-graph-so-that-on-command-the-pointer-will-ret"
+    },
+    {
+      "Created": "2025-08-20T20:59:16Z",
+      "Title": "How to Force Dark Mode Maui App - Windows",
+      "Tags": [
+        "c#",
+        ".net",
+        "windows",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741581/how-to-force-dark-mode-maui-app-windows"
+    },
+    {
+      "Created": "2025-08-20T21:02:41Z",
+      "Title": "creating a table inside this big sql when running from BigQuery",
+      "Tags": [
+        "sql",
+        "google-bigquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741584/creating-a-table-inside-this-big-sql-when-running-from-bigquery"
+    }
+  ]
+}

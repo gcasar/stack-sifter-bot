@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-20T13:11:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T12:54:18Z",
+      "Title": "Get Music Cover from telegram by WTelegramClient",
+      "Tags": [
+        "c#",
+        "asp.net",
+        ".net",
+        "telegram",
+        "wtelegramclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741086/get-music-cover-from-telegram-by-wtelegramclient"
+    },
+    {
+      "Created": "2025-08-20T12:59:42Z",
+      "Title": "Hide the arrow of a select element, when there is only one option in it (CSS only)",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741092/hide-the-arrow-of-a-select-element-when-there-is-only-one-option-in-it-css-onl"
+    },
+    {
+      "Created": "2025-08-20T13:01:18Z",
+      "Title": "MySQL Full-Text Search with ngram parser not prioritizing exact word matches",
+      "Tags": [
+        "mysql",
+        "database",
+        "full-text-search",
+        "n-gram",
+        "fulltext-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741094/mysql-full-text-search-with-ngram-parser-not-prioritizing-exact-word-matches"
+    },
+    {
+      "Created": "2025-08-20T13:05:34Z",
+      "Title": "GitHub Copilot functionality on JetBrains IDEA (PyCharm) vs. VS Code",
+      "Tags": [
+        "visual-studio-code",
+        "jetbrains-ide",
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741097/github-copilot-functionality-on-jetbrains-idea-pycharm-vs-vs-code"
+    },
+    {
+      "Created": "2025-08-20T13:06:21Z",
+      "Title": "Cannot connect via SSH to GitHub on Ubuntu 24.04",
+      "Tags": [
+        "github",
+        "ssh",
+        "ubuntu-24.04"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741099/cannot-connect-via-ssh-to-github-on-ubuntu-24-04"
+    },
+    {
+      "Created": "2025-08-20T13:11:17Z",
+      "Title": "oh my god the titles fine just please let me get an answer",
+      "Tags": [
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741106/oh-my-god-the-titles-fine-just-please-let-me-get-an-answer"
+    }
+  ]
+}

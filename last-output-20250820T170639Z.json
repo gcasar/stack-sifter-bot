@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-20T17:02:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T16:46:13Z",
+      "Title": "JSON File Keeps Showing Up as Empty?",
+      "Tags": [
+        "python",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741358/json-file-keeps-showing-up-as-empty"
+    },
+    {
+      "Created": "2025-08-20T16:50:25Z",
+      "Title": "Why does (and how do I stop) ADDR() not return the correct address in a linker script?",
+      "Tags": [
+        "linker-scripts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741362/why-does-and-how-do-i-stop-addr-not-return-the-correct-address-in-a-linker-s"
+    },
+    {
+      "Created": "2025-08-20T16:55:01Z",
+      "Title": "How to Shutdown the server using poll() Gracefully",
+      "Tags": [
+        "c",
+        "sockets",
+        "network-programming",
+        "server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741365/how-to-shutdown-the-server-using-poll-gracefully"
+    },
+    {
+      "Created": "2025-08-20T17:02:49Z",
+      "Title": "Duplicate issue when exporting DNS zone",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741369/duplicate-issue-when-exporting-dns-zone"
+    }
+  ]
+}

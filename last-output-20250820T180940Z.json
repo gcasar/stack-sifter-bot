@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-20T18:09:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T17:12:49Z",
+      "Title": "Unable to use @for loop on array of custom objects. Receiving error",
+      "Tags": [
+        "angular",
+        "typescript",
+        "for-loop",
+        "angular-signals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741379/unable-to-use-for-loop-on-array-of-custom-objects-receiving-error"
+    },
+    {
+      "Created": "2025-08-20T17:49:56Z",
+      "Title": "Setting a specific Windows Version in TFM causes reference to Microsoft.Windows.SDK.NET.dll",
+      "Tags": [
+        "c#",
+        ".net-core",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741420/setting-a-specific-windows-version-in-tfm-causes-reference-to-microsoft-windows"
+    },
+    {
+      "Created": "2025-08-20T17:54:37Z",
+      "Title": "How to advertise manufacturer-specific data in Swift (CoreBluetooth) like Android\u0027s addManufacturerData?",
+      "Tags": [
+        "ios",
+        "swift",
+        "bluetooth-lowenergy",
+        "core-bluetooth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741422/how-to-advertise-manufacturer-specific-data-in-swift-corebluetooth-like-androi"
+    },
+    {
+      "Created": "2025-08-20T18:09:05Z",
+      "Title": "Submit combined form elements from parent and iframe",
+      "Tags": [
+        "javascript",
+        "jquery",
+        "forms",
+        "iframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741433/submit-combined-form-elements-from-parent-and-iframe"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-20T05:59:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T05:17:40Z",
+      "Title": "How to make number type cell editors accept cell expressions?",
+      "Tags": [
+        "ag-grid",
+        "ag-grid-react"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740640/how-to-make-number-type-cell-editors-accept-cell-expressions"
+    },
+    {
+      "Created": "2025-08-20T05:40:06Z",
+      "Title": "How to fix pyenv on windows 11?",
+      "Tags": [
+        "python",
+        "windows-11",
+        "pyenv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740656/how-to-fix-pyenv-on-windows-11"
+    },
+    {
+      "Created": "2025-08-20T05:54:34Z",
+      "Title": "Supporting asynchronous streaming using XMLSerializers in .NET Core",
+      "Tags": [
+        "asp.net",
+        ".net",
+        "iasyncenumerable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740668/supporting-asynchronous-streaming-using-xmlserializers-in-net-core"
+    },
+    {
+      "Created": "2025-08-20T05:59:49Z",
+      "Title": "Filter based on an array in react admin",
+      "Tags": [
+        "supabase",
+        "react-admin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740674/filter-based-on-an-array-in-react-admin"
+    }
+  ]
+}

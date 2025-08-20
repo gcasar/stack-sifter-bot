@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-20T12:05:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T11:11:26Z",
+      "Title": "Plotting time spans in python [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740990/plotting-time-spans-in-python"
+    },
+    {
+      "Created": "2025-08-20T11:16:21Z",
+      "Title": "List.Enumerator does not advance when MoveNext is called",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740994/list-enumerator-does-not-advance-when-movenext-is-called"
+    },
+    {
+      "Created": "2025-08-20T11:56:30Z",
+      "Title": "How to send read receipts and typing statuses to users on Twilio\u0027s API for Whatsapp?",
+      "Tags": [
+        "typescript",
+        "npm",
+        "twilio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741033/how-to-send-read-receipts-and-typing-statuses-to-users-on-twilios-api-for-whats"
+    },
+    {
+      "Created": "2025-08-20T11:58:54Z",
+      "Title": "What does system memory mean in the amd64 vol2 manual?",
+      "Tags": [
+        "x86-64",
+        "cpu",
+        "amd",
+        "manual"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741036/what-does-system-memory-mean-in-the-amd64-vol2-manual"
+    },
+    {
+      "Created": "2025-08-20T12:01:48Z",
+      "Title": "How to suppress the \u0022Deprecated member \u0027A\u0027 is still used\u0022 warning using a @SuppressWarning annotation in Java?",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741040/how-to-suppress-the-deprecated-member-a-is-still-used-warning-using-a-suppr"
+    },
+    {
+      "Created": "2025-08-20T12:05:41Z",
+      "Title": "Running scripts in Embed QTConsole from Qt buttons",
+      "Tags": [
+        "python-3.x",
+        "pyside6",
+        "qtconsole",
+        "jupyter-console",
+        "pyside6-gui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741045/running-scripts-in-embed-qtconsole-from-qt-buttons"
+    }
+  ]
+}

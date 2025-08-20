@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-20T08:06:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T07:30:14Z",
+      "Title": "How to handle properly the Click Event when we also need low level event data? (Android)",
+      "Tags": [
+        "android",
+        "event-handling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740754/how-to-handle-properly-the-click-event-when-we-also-need-low-level-event-data"
+    },
+    {
+      "Created": "2025-08-20T07:47:14Z",
+      "Title": "Building static version of Metakit C\u002B\u002B bindings on Debian",
+      "Tags": [
+        "c\u002B\u002B",
+        "makefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740772/building-static-version-of-metakit-c-bindings-on-debian"
+    },
+    {
+      "Created": "2025-08-20T07:47:27Z",
+      "Title": "How to tell Vite it is okay to externalize some modules?",
+      "Tags": [
+        "node.js",
+        "vite",
+        "monorepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740773/how-to-tell-vite-it-is-okay-to-externalize-some-modules"
+    },
+    {
+      "Created": "2025-08-20T08:06:08Z",
+      "Title": "Custom Connector in Power Apps for OAuth Token",
+      "Tags": [
+        "power-automate",
+        "powerapps",
+        "power-apps-custom-connector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740794/custom-connector-in-power-apps-for-oauth-token"
+    },
+    {
+      "Created": "2025-08-20T08:06:36Z",
+      "Title": "How do I model this structure with Bloc in my application?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "bloc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740796/how-do-i-model-this-structure-with-bloc-in-my-application"
+    }
+  ]
+}

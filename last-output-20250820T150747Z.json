@@ -1,0 +1,95 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-20T14:57:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T14:20:14Z",
+      "Title": "How to exclude a specific screen from WindowInsets applied on parent Composable",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "windowinsets",
+        "edge-to-edge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741186/how-to-exclude-a-specific-screen-from-windowinsets-applied-on-parent-composable"
+    },
+    {
+      "Created": "2025-08-20T14:24:11Z",
+      "Title": "Reduce x newlines into x-1 newlines using regex",
+      "Tags": [
+        "python",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741190/reduce-x-newlines-into-x-1-newlines-using-regex"
+    },
+    {
+      "Created": "2025-08-20T14:31:31Z",
+      "Title": "Cross database querying of large dataset within .Net Console Application",
+      "Tags": [
+        "sql-server",
+        "sqlcommand"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741205/cross-database-querying-of-large-dataset-within-net-console-application"
+    },
+    {
+      "Created": "2025-08-20T14:46:50Z",
+      "Title": "How can I use a string resource in data binding StringFormat property? [duplicate]",
+      "Tags": [
+        "wpf",
+        "xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741231/how-can-i-use-a-string-resource-in-data-binding-stringformat-property"
+    },
+    {
+      "Created": "2025-08-20T14:49:47Z",
+      "Title": "Add commit to an already-merged branch",
+      "Tags": [
+        "git",
+        "rebase",
+        "branching-and-merging",
+        "git-rewrite-history"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741234/add-commit-to-an-already-merged-branch"
+    },
+    {
+      "Created": "2025-08-20T14:50:58Z",
+      "Title": "Could not determine recommended JdbcType for Java type \u0027com.entity.ExpiryDate\u0027",
+      "Tags": [
+        "hibernate",
+        "spring-data-jpa",
+        "mybatis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741236/could-not-determine-recommended-jdbctype-for-java-type-com-entity-expirydate"
+    },
+    {
+      "Created": "2025-08-20T14:53:50Z",
+      "Title": "Forcats \u0026 Dplyr_ How to order the columns-specific levels of factors by alphabetical order in a fast and tidy way?",
+      "Tags": [
+        "r",
+        "sorting",
+        "r-factor",
+        "forcats"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741242/forcats-dplyr-how-to-order-the-columns-specific-levels-of-factors-by-alphabet"
+    },
+    {
+      "Created": "2025-08-20T14:55:33Z",
+      "Title": "Map a composite type attribute directly and use it in a JoinColumn in hibernate",
+      "Tags": [
+        "java",
+        "hibernate",
+        "composite-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741245/map-a-composite-type-attribute-directly-and-use-it-in-a-joincolumn-in-hibernate"
+    },
+    {
+      "Created": "2025-08-20T14:57:48Z",
+      "Title": "Elastic should not split few words by space during analysis",
+      "Tags": [
+        "elasticsearch",
+        "opensearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741247/elastic-should-not-split-few-words-by-space-during-analysis"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-20T01:24:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T01:24:11Z",
+      "Title": "making an absolute 64 bit jump in x64 assembler",
+      "Tags": [
+        "assembly",
+        "64-bit",
+        "nasm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740545/making-an-absolute-64-bit-jump-in-x64-assembler"
+    }
+  ]
+}

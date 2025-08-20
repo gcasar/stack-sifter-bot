@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-20T02:03:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T01:44:45Z",
+      "Title": "Automated Data Pipeline for Mitel Reports",
+      "Tags": [
+        "automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740549/automated-data-pipeline-for-mitel-reports"
+    },
+    {
+      "Created": "2025-08-20T01:49:52Z",
+      "Title": "How does google ad network determine whether an ad request come from an iOS or android device?",
+      "Tags": [
+        "android",
+        "ios",
+        "mobile",
+        "admob",
+        "google-ads-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740553/how-does-google-ad-network-determine-whether-an-ad-request-come-from-an-ios-or-a"
+    },
+    {
+      "Created": "2025-08-20T01:53:25Z",
+      "Title": "Conflict free bit-reversal permutation",
+      "Tags": [
+        "cuda",
+        "permutation",
+        "gpu-shared-memory",
+        "bank-conflict"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740554/conflict-free-bit-reversal-permutation"
+    },
+    {
+      "Created": "2025-08-20T01:58:14Z",
+      "Title": "Does appsync support resource based policy to allow users from other accounts query it?",
+      "Tags": [
+        "amazon-web-services",
+        "aws-appsync"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740556/does-appsync-support-resource-based-policy-to-allow-users-from-other-accounts-qu"
+    },
+    {
+      "Created": "2025-08-20T01:58:43Z",
+      "Title": "How to upload file with curl on windows?",
+      "Tags": [
+        "windows",
+        "curl",
+        "upload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740557/how-to-upload-file-with-curl-on-windows"
+    },
+    {
+      "Created": "2025-08-20T02:03:20Z",
+      "Title": "Using eval() to solve a python problem and would like some feedback",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740561/using-eval-to-solve-a-python-problem-and-would-like-some-feedback"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-20T00:03:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-19T23:18:50Z",
+      "Title": "Azure Static Web App (Vue.js in subfolder) is deploying the entire source code instead of the \u0027dist\u0027 folder",
+      "Tags": [
+        "azure",
+        "vuejs3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740486/azure-static-web-app-vue-js-in-subfolder-is-deploying-the-entire-source-code-i"
+    },
+    {
+      "Created": "2025-08-19T23:59:11Z",
+      "Title": "How to use gRPC in C\u002B\u002B without Protobuf, with custom JSON serialization?",
+      "Tags": [
+        "c\u002B\u002B",
+        "grpc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740511/how-to-use-grpc-in-c-without-protobuf-with-custom-json-serialization"
+    },
+    {
+      "Created": "2025-08-20T00:03:40Z",
+      "Title": "How to disable network access for Cargo tests?",
+      "Tags": [
+        "testing",
+        "rust",
+        "isolation",
+        "cargo",
+        "libp2p"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740512/how-to-disable-network-access-for-cargo-tests"
+    }
+  ]
+}

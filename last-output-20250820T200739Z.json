@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-20T20:02:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T19:39:09Z",
+      "Title": "pycryptodome decryption (aes-128 cbc) is yielding incorrect result",
+      "Tags": [
+        "python",
+        "cryptography",
+        "aes",
+        "pycryptodome"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741525/pycryptodome-decryption-aes-128-cbc-is-yielding-incorrect-result"
+    },
+    {
+      "Created": "2025-08-20T19:42:14Z",
+      "Title": "Why does declare reset the IFS in bash?",
+      "Tags": [
+        "bash",
+        "declare",
+        "ifs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741527/why-does-declare-reset-the-ifs-in-bash"
+    },
+    {
+      "Created": "2025-08-20T19:46:28Z",
+      "Title": "toString(), fromString() for any Java enum",
+      "Tags": [
+        "java",
+        "enums"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741529/tostring-fromstring-for-any-java-enum"
+    },
+    {
+      "Created": "2025-08-20T20:02:51Z",
+      "Title": "Need help pulling the table from website using IMPORTXML",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741539/need-help-pulling-the-table-from-website-using-importxml"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-20T10:48:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T10:46:50Z",
+      "Title": "Graphql issue when a add a resolver to my nestjs project",
+      "Tags": [
+        "graphql",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740969/graphql-issue-when-a-add-a-resolver-to-my-nestjs-project"
+    },
+    {
+      "Created": "2025-08-20T10:48:16Z",
+      "Title": "MSP430 GDB hangs while processing a for loop-based delay",
+      "Tags": [
+        "c",
+        "gcc",
+        "gdb",
+        "embedded",
+        "msp430"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740972/msp430-gdb-hangs-while-processing-a-for-loop-based-delay"
+    }
+  ]
+}

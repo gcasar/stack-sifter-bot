@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-20T04:55:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T04:00:04Z",
+      "Title": "Issues with testing SAP cloud application through Playwright python",
+      "Tags": [
+        "playwright",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740607/issues-with-testing-sap-cloud-application-through-playwright-python"
+    },
+    {
+      "Created": "2025-08-20T04:12:53Z",
+      "Title": "I want to draw border in Crystal Report with formula",
+      "Tags": [
+        "crystal-reports"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740613/i-want-to-draw-border-in-crystal-report-with-formula"
+    },
+    {
+      "Created": "2025-08-20T04:39:23Z",
+      "Title": "RabbitMQ error connection in Spring Application - getsockotp",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "spring-mvc",
+        "rabbitmq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740622/rabbitmq-error-connection-in-spring-application-getsockotp"
+    },
+    {
+      "Created": "2025-08-20T04:51:57Z",
+      "Title": "wagtail, same tags in different pages",
+      "Tags": [
+        "tags",
+        "wagtail"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740627/wagtail-same-tags-in-different-pages"
+    },
+    {
+      "Created": "2025-08-20T04:55:07Z",
+      "Title": "How does setting the cookies samesite attribute to strict affect a web application with the FE and BE on two different sub domains?",
+      "Tags": [
+        "cookies",
+        "microservices",
+        "backend",
+        "cross-domain",
+        "subdomain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79740629/how-does-setting-the-cookies-samesite-attribute-to-strict-affect-a-web-applicati"
+    }
+  ]
+}

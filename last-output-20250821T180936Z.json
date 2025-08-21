@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-21T18:04:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T17:18:15Z",
+      "Title": "How do I calculate @StartRow and @EndRow; for pagination?",
+      "Tags": [
+        "sql",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742613/how-do-i-calculate-startrow-and-endrow-for-pagination"
+    },
+    {
+      "Created": "2025-08-21T17:43:50Z",
+      "Title": "How can I find which package installed a given package? [duplicate]",
+      "Tags": [
+        "python",
+        "pip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742626/how-can-i-find-which-package-installed-a-given-package"
+    },
+    {
+      "Created": "2025-08-21T17:46:44Z",
+      "Title": "Convert dictionary rows to new dataframe",
+      "Tags": [
+        "python",
+        "json",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742629/convert-dictionary-rows-to-new-dataframe"
+    },
+    {
+      "Created": "2025-08-21T17:58:05Z",
+      "Title": "Git plugin for Intellij with side tool window support",
+      "Tags": [
+        "intellij-idea",
+        "plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742638/git-plugin-for-intellij-with-side-tool-window-support"
+    },
+    {
+      "Created": "2025-08-21T17:59:11Z",
+      "Title": "How to specify the random-intercepts for states and districts nested within the states in glmmTMB?",
+      "Tags": [
+        "r",
+        "regression",
+        "glmmtmb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742639/how-to-specify-the-random-intercepts-for-states-and-districts-nested-within-the"
+    },
+    {
+      "Created": "2025-08-21T18:03:24Z",
+      "Title": "I can\u0027t get the coverage graph for the Wald interval. It only shows the outlines of 99% CI but not the coverage that wald has",
+      "Tags": [
+        "r",
+        "statistics",
+        "confidence-interval",
+        "computation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742643/i-cant-get-the-coverage-graph-for-the-wald-interval-it-only-shows-the-outlines"
+    },
+    {
+      "Created": "2025-08-21T18:04:40Z",
+      "Title": "Playwright WebKit/Safari: Unable to interact with elements inside cross-origin iframe (works in Chromium/Firefox)",
+      "Tags": [
+        "iframe",
+        "automation",
+        "safari",
+        "webkit",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742645/playwright-webkit-safari-unable-to-interact-with-elements-inside-cross-origin-i"
+    }
+  ]
+}

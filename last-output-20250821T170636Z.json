@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-21T16:55:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T16:18:15Z",
+      "Title": "SpringBoot and Debezium embedded: Unable to find class io.debezium.connector.postgresql.PostgresSourceInfoStructMaker",
+      "Tags": [
+        "spring-boot",
+        "debezium-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742552/springboot-and-debezium-embedded-unable-to-find-class-io-debezium-connector-pos"
+    },
+    {
+      "Created": "2025-08-21T16:45:24Z",
+      "Title": "C# MessagePack serialization/deserialisation while maintaining object reference",
+      "Tags": [
+        "c#",
+        "serialization",
+        "deserialization",
+        "msgpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742586/c-sharp-messagepack-serialization-deserialisation-while-maintaining-object-refer"
+    },
+    {
+      "Created": "2025-08-21T16:46:38Z",
+      "Title": "Architectural Rationale Behind Sending Large, Non-Paginated Datasets for Map UIs",
+      "Tags": [
+        "pagination"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742588/architectural-rationale-behind-sending-large-non-paginated-datasets-for-map-uis"
+    },
+    {
+      "Created": "2025-08-21T16:48:34Z",
+      "Title": "Can\u0027t find new function in custom actions assembly",
+      "Tags": [
+        "windows-installer",
+        "advanced-installer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742592/cant-find-new-function-in-custom-actions-assembly"
+    },
+    {
+      "Created": "2025-08-21T16:53:09Z",
+      "Title": "State handling in domain driven design",
+      "Tags": [
+        "design-patterns",
+        "domain-driven-design",
+        "visitor-pattern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742595/state-handling-in-domain-driven-design"
+    },
+    {
+      "Created": "2025-08-21T16:55:18Z",
+      "Title": "How to correctly override Bulma CSS within a Table Cell",
+      "Tags": [
+        "bulma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742597/how-to-correctly-override-bulma-css-within-a-table-cell"
+    }
+  ]
+}

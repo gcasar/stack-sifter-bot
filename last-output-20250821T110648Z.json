@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-21T10:57:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T10:49:13Z",
+      "Title": "When using NVML, do we need to call nvmlShutdown before exiting the process?",
+      "Tags": [
+        "cuda",
+        "resource-cleanup",
+        "nvml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742179/when-using-nvml-do-we-need-to-call-nvmlshutdown-before-exiting-the-process"
+    },
+    {
+      "Created": "2025-08-21T10:54:14Z",
+      "Title": "Can only 1 table be used in a LAG function?",
+      "Tags": [
+        "ssrs-2012",
+        "lag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742184/can-only-1-table-be-used-in-a-lag-function"
+    },
+    {
+      "Created": "2025-08-21T10:55:14Z",
+      "Title": "Why does adding Nmap port scanning inside a Celery task slow down my FastAPI \u002B SQLAlchemy \u002B PostgreSQL app?",
+      "Tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "celery",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742185/why-does-adding-nmap-port-scanning-inside-a-celery-task-slow-down-my-fastapi-s"
+    },
+    {
+      "Created": "2025-08-21T10:57:16Z",
+      "Title": "Debian or Debian-rt kernel will crash on mapping Coherent DMA memory to usermode, original kernel with same version will work",
+      "Tags": [
+        "linux-kernel",
+        "debian",
+        "linux-kernel-headers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742187/debian-or-debian-rt-kernel-will-crash-on-mapping-coherent-dma-memory-to-usermode"
+    }
+  ]
+}

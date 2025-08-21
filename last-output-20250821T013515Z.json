@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-21T01:16:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T01:02:41Z",
+      "Title": "Eclipse AutoComplete Not Matching JDK Version",
+      "Tags": [
+        "java",
+        "eclipse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741728/eclipse-autocomplete-not-matching-jdk-version"
+    },
+    {
+      "Created": "2025-08-21T01:15:36Z",
+      "Title": "Aiogram: why does @router.message(F.successful_payment) not fire after Telegram test payment?",
+      "Tags": [
+        "python",
+        "bots",
+        "telegram",
+        "aiogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741736/aiogram-why-does-router-messagef-successful-payment-not-fire-after-telegram"
+    },
+    {
+      "Created": "2025-08-21T01:16:24Z",
+      "Title": "broken x axis and broken dual y-axes - draw replot across subplots",
+      "Tags": [
+        "pandas",
+        "seaborn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741738/broken-x-axis-and-broken-dual-y-axes-draw-replot-across-subplots"
+    }
+  ]
+}

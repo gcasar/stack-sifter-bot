@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-21T13:08:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T12:19:44Z",
+      "Title": "C\u002B\u002B class reference conversion into \u0026\u0026 parameter does not work",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742279/c-class-reference-conversion-into-parameter-does-not-work"
+    },
+    {
+      "Created": "2025-08-21T12:42:59Z",
+      "Title": "Ignore all warnings from system headers, even for inlined functions",
+      "Tags": [
+        "gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742311/ignore-all-warnings-from-system-headers-even-for-inlined-functions"
+    },
+    {
+      "Created": "2025-08-21T12:51:01Z",
+      "Title": "XML DTD - is it possible to dynamically fill part of !ENTITY path?",
+      "Tags": [
+        "xml",
+        "dtd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742323/xml-dtd-is-it-possible-to-dynamically-fill-part-of-entity-path"
+    },
+    {
+      "Created": "2025-08-21T12:56:22Z",
+      "Title": "Multiple Related Parameters and Variables",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742329/multiple-related-parameters-and-variables"
+    },
+    {
+      "Created": "2025-08-21T12:56:30Z",
+      "Title": "DuckDB bundle issue on my Parcel application",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "frontend",
+        "parceljs",
+        "duckdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742330/duckdb-bundle-issue-on-my-parcel-application"
+    },
+    {
+      "Created": "2025-08-21T12:57:16Z",
+      "Title": "Is there a way to use cronjob to print the current date to file",
+      "Tags": [
+        "linux",
+        "kubernetes",
+        "cron",
+        "cron-task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742332/is-there-a-way-to-use-cronjob-to-print-the-current-date-to-file"
+    },
+    {
+      "Created": "2025-08-21T12:58:41Z",
+      "Title": "ECharts Pinch Zoom Not Working on Windows Tablet (Works on Android)",
+      "Tags": [
+        "javascript",
+        "windows",
+        "google-chrome",
+        "touch",
+        "echarts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742334/echarts-pinch-zoom-not-working-on-windows-tablet-works-on-android"
+    },
+    {
+      "Created": "2025-08-21T13:01:22Z",
+      "Title": "Why am I getting \u0027type[Category] instead of Category?",
+      "Tags": [
+        "python",
+        "sqlalchemy",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742336/why-am-i-getting-typecategory-instead-of-category"
+    },
+    {
+      "Created": "2025-08-21T13:08:04Z",
+      "Title": "Cannot activate conda/mamba environment in Claude Code session",
+      "Tags": [
+        "python",
+        "conda",
+        "mamba",
+        "micromamba",
+        "claude-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742342/cannot-activate-conda-mamba-environment-in-claude-code-session"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-21T13:58:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T13:23:02Z",
+      "Title": "With text-align: center, ignore certain text [duplicate]",
+      "Tags": [
+        "css",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742359/with-text-align-center-ignore-certain-text"
+    },
+    {
+      "Created": "2025-08-21T13:58:53Z",
+      "Title": "Middleware function from Auth.js exceds Vercel 1 MB limit",
+      "Tags": [
+        "javascript",
+        "next.js",
+        "prisma",
+        "vercel",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742412/middleware-function-from-auth-js-exceds-vercel-1-mb-limit"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-21T01:36:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T01:36:43Z",
+      "Title": "Reference a pointer to a struct, existing within an object inside an array",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741746/reference-a-pointer-to-a-struct-existing-within-an-object-inside-an-array"
+    }
+  ]
+}

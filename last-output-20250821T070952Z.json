@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-21T07:03:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T06:11:03Z",
+      "Title": "WPF, ShutdownMode and multiple windows",
+      "Tags": [
+        ".net",
+        "wpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741892/wpf-shutdownmode-and-multiple-windows"
+    },
+    {
+      "Created": "2025-08-21T07:01:31Z",
+      "Title": "Pydantic agent - the agent tool/toolset decorator does not work on top of methods which have the runcontext",
+      "Tags": [
+        "python",
+        "pydantic",
+        "tool-calling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741947/pydantic-agent-the-agent-tool-toolset-decorator-does-not-work-on-top-of-method"
+    },
+    {
+      "Created": "2025-08-21T07:01:39Z",
+      "Title": "Can we separate connection pool for heavy background processing versus UI?",
+      "Tags": [
+        "spring",
+        "hibernate",
+        "connection-pooling",
+        "c3p0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741948/can-we-separate-connection-pool-for-heavy-background-processing-versus-ui"
+    },
+    {
+      "Created": "2025-08-21T07:02:11Z",
+      "Title": "MVC RedirectToAction with error id code to show a message box",
+      "Tags": [
+        "javascript",
+        "c#",
+        "asp.net-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741950/mvc-redirecttoaction-with-error-id-code-to-show-a-message-box"
+    },
+    {
+      "Created": "2025-08-21T07:02:43Z",
+      "Title": "Using msal token to authenticate towards Azure SQL database",
+      "Tags": [
+        "python",
+        "azure",
+        "azure-sql-database",
+        "pyodbc",
+        "azure-ad-msal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741951/using-msal-token-to-authenticate-towards-azure-sql-database"
+    },
+    {
+      "Created": "2025-08-21T07:03:01Z",
+      "Title": "How to test with the python api if gdb has been launch with \u0060-i dap\u0060?",
+      "Tags": [
+        "gdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741952/how-to-test-with-the-python-api-if-gdb-has-been-launch-with-i-dap"
+    }
+  ]
+}

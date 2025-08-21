@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-21T10:04:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T09:53:44Z",
+      "Title": "Convert entire property to null if all it\u0027s part are null, however not allow for nullable",
+      "Tags": [
+        "react-hook-form",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742120/convert-entire-property-to-null-if-all-its-part-are-null-however-not-allow-for"
+    },
+    {
+      "Created": "2025-08-21T09:54:32Z",
+      "Title": "Can not connect to network interface on linux",
+      "Tags": [
+        "linux",
+        "flask",
+        "network-programming",
+        "raspberry-pi",
+        "network-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742123/can-not-connect-to-network-interface-on-linux"
+    },
+    {
+      "Created": "2025-08-21T09:54:48Z",
+      "Title": "Recommended way to decouple a WebServer \u0026 MQTT on an ESP32",
+      "Tags": [
+        "esp32",
+        "arduino-ide",
+        "arduino-esp32",
+        "arduino-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742124/recommended-way-to-decouple-a-webserver-mqtt-on-an-esp32"
+    },
+    {
+      "Created": "2025-08-21T09:57:11Z",
+      "Title": "How to pass filenames and parameters from a CSV to a Nextflow process?",
+      "Tags": [
+        "nextflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742125/how-to-pass-filenames-and-parameters-from-a-csv-to-a-nextflow-process"
+    },
+    {
+      "Created": "2025-08-21T09:59:25Z",
+      "Title": "What to do when the pandas error position overflows?",
+      "Tags": [
+        "python",
+        "pandas",
+        "integer-overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742127/what-to-do-when-the-pandas-error-position-overflows"
+    },
+    {
+      "Created": "2025-08-21T10:04:15Z",
+      "Title": "How to read table names from a MySQL file containing PARTITION keyword using sqlglot?",
+      "Tags": [
+        "python",
+        "mysql",
+        "sqlglot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742136/how-to-read-table-names-from-a-mysql-file-containing-partition-keyword-using-sql"
+    }
+  ]
+}

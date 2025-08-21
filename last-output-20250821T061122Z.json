@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-21T05:58:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T05:06:15Z",
+      "Title": "Find max/min value in a column in a range of data (multiindex) and append to a different column",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741848/find-max-min-value-in-a-column-in-a-range-of-data-multiindex-and-append-to-a-d"
+    },
+    {
+      "Created": "2025-08-21T05:45:50Z",
+      "Title": "How to set \u0022Java Compare\u0022 as the default compare editor in Eclipse?",
+      "Tags": [
+        "eclipse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741873/how-to-set-java-compare-as-the-default-compare-editor-in-eclipse"
+    },
+    {
+      "Created": "2025-08-21T05:48:13Z",
+      "Title": "Unable to setup custom SMTP in Supabase",
+      "Tags": [
+        "smtp",
+        "supabase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741875/unable-to-setup-custom-smtp-in-supabase"
+    },
+    {
+      "Created": "2025-08-21T05:50:46Z",
+      "Title": "ExecuteSqlCommand with SqlParameter not creating the expected SQL [duplicate]",
+      "Tags": [
+        "c#",
+        "sql",
+        "sql-server",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741877/executesqlcommand-with-sqlparameter-not-creating-the-expected-sql"
+    },
+    {
+      "Created": "2025-08-21T05:55:47Z",
+      "Title": "Is it possible to secure OpenAI API key in ReactJS without backend?",
+      "Tags": [
+        "reactjs",
+        "security",
+        "frontend",
+        "openai-api",
+        "api-key"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741882/is-it-possible-to-secure-openai-api-key-in-reactjs-without-backend"
+    },
+    {
+      "Created": "2025-08-21T05:58:30Z",
+      "Title": "Azure Functions (Flex Consumption) \u2013 Storage Queue trigger not firing when message added",
+      "Tags": [
+        "typescript",
+        "triggers",
+        "azure-functions",
+        "message-queue",
+        "azure-storage-queues"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741884/azure-functions-flex-consumption-storage-queue-trigger-not-firing-when-messa"
+    }
+  ]
+}

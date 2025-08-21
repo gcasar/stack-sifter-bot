@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-21T00:08:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-20T23:09:01Z",
+      "Title": "How to save a generator output (dict with nested list) to the json format?",
+      "Tags": [
+        "python",
+        "json",
+        "generator",
+        "large-files"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741673/how-to-save-a-generator-output-dict-with-nested-list-to-the-json-format"
+    },
+    {
+      "Created": "2025-08-20T23:28:19Z",
+      "Title": "positional argument for a python function",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741687/positional-argument-for-a-python-function"
+    },
+    {
+      "Created": "2025-08-20T23:35:46Z",
+      "Title": "Should ModelActor be used to populate a view?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "swift-concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741692/should-modelactor-be-used-to-populate-a-view"
+    },
+    {
+      "Created": "2025-08-20T23:44:36Z",
+      "Title": "Claude code using up hundreds of GB or HDD/SSD space",
+      "Tags": [
+        "google-chrome",
+        "claude-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741697/claude-code-using-up-hundreds-of-gb-or-hdd-ssd-space"
+    },
+    {
+      "Created": "2025-08-20T23:56:47Z",
+      "Title": "Expected type \u0027BaseChatModel\u0027, got \u0027ChatGoogleGenerativeAI\u0027 instead In Agent AI",
+      "Tags": [
+        "artificial-intelligence",
+        "langchain",
+        "agent",
+        "google-generativeai",
+        "langchain-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741705/expected-type-basechatmodel-got-chatgooglegenerativeai-instead-in-agent-ai"
+    },
+    {
+      "Created": "2025-08-21T00:08:58Z",
+      "Title": "GTK Attempting To Catch Key Press in Eventbox, Lacking Understanding",
+      "Tags": [
+        "c\u002B\u002B",
+        "events",
+        "gtk",
+        "keypress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741710/gtk-attempting-to-catch-key-press-in-eventbox-lacking-understanding"
+    }
+  ]
+}

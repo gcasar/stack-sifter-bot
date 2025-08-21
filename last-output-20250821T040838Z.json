@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-21T03:59:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T03:35:53Z",
+      "Title": "Creating Visual Studio Extension Property Page",
+      "Tags": [
+        "visual-studio-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741791/creating-visual-studio-extension-property-page"
+    },
+    {
+      "Created": "2025-08-21T03:44:55Z",
+      "Title": "Compose: how to set Row\u0027s height as wrap_content",
+      "Tags": [
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741799/compose-how-to-set-rows-height-as-wrap-content"
+    },
+    {
+      "Created": "2025-08-21T03:59:19Z",
+      "Title": "In a component, services are available if declared as constructor parameters. But undefined if injected as member variables",
+      "Tags": [
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741803/in-a-component-services-are-available-if-declared-as-constructor-parameters-bu"
+    }
+  ]
+}

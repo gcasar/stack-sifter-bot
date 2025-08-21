@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-21T16:01:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T15:03:42Z",
+      "Title": "Why is the apache kafka internal consumer not reading my messages",
+      "Tags": [
+        "java",
+        "docker",
+        "apache-kafka",
+        "kafka-consumer-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742477/why-is-the-apache-kafka-internal-consumer-not-reading-my-messages"
+    },
+    {
+      "Created": "2025-08-21T15:41:40Z",
+      "Title": "Is \u0060fetch_add(1, std::memory_order_relaxed)\u0060 visible by another thread that only \u0060load\u0060?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742522/is-fetch-add1-stdmemory-order-relaxed-visible-by-another-thread-that-only"
+    },
+    {
+      "Created": "2025-08-21T15:50:46Z",
+      "Title": "Expo splash screen works on iOS but not on Android using the splash option in app.json",
+      "Tags": [
+        "android",
+        "expo",
+        "splash-screen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742529/expo-splash-screen-works-on-ios-but-not-on-android-using-the-splash-option-in-ap"
+    },
+    {
+      "Created": "2025-08-21T15:57:29Z",
+      "Title": "Spring Data Redis OM: How to fetch only IDs (flight numbers) when type is in a list?",
+      "Tags": [
+        "spring",
+        "redis",
+        "redis-om-spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742534/spring-data-redis-om-how-to-fetch-only-ids-flight-numbers-when-type-is-in-a-l"
+    },
+    {
+      "Created": "2025-08-21T16:00:03Z",
+      "Title": "IoTDB 1.3.1 standalone node keeps logging \u201CFail to connect to any ConfigNode\u201D for 10 hours and finally OOMs",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742539/iotdb-1-3-1-standalone-node-keeps-logging-fail-to-connect-to-any-confignode-fo"
+    },
+    {
+      "Created": "2025-08-21T16:00:51Z",
+      "Title": "SSRS Expression to Subtract within a Column Grouping",
+      "Tags": [
+        "expression",
+        "ssrs-tablix",
+        "group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742540/ssrs-expression-to-subtract-within-a-column-grouping"
+    },
+    {
+      "Created": "2025-08-21T16:01:12Z",
+      "Title": "Initializing std::array in template function with implicit conversion",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "c\u002B\u002B17",
+        "stdarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742541/initializing-stdarray-in-template-function-with-implicit-conversion"
+    }
+  ]
+}

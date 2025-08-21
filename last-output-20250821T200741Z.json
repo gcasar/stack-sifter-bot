@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-21T20:05:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T19:21:30Z",
+      "Title": "With Github Copilot Ask Question With Fresh Context",
+      "Tags": [
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742691/with-github-copilot-ask-question-with-fresh-context"
+    },
+    {
+      "Created": "2025-08-21T19:49:08Z",
+      "Title": "How is getActiveSheet() breaking with onEdit triggers?",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script",
+        "triggers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742712/how-is-getactivesheet-breaking-with-onedit-triggers"
+    },
+    {
+      "Created": "2025-08-21T19:53:15Z",
+      "Title": "Copilot studio - Language translation",
+      "Tags": [
+        "microsoft-copilot-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742715/copilot-studio-language-translation"
+    },
+    {
+      "Created": "2025-08-21T19:54:16Z",
+      "Title": "How to setup Kerberos SSO with Keycloak 25 running in Kubernetes",
+      "Tags": [
+        "keycloak",
+        "kerberos",
+        "spnego"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742717/how-to-setup-kerberos-sso-with-keycloak-25-running-in-kubernetes"
+    },
+    {
+      "Created": "2025-08-21T19:56:06Z",
+      "Title": "Using custom Apparmor profile prevents Docker container shutdown",
+      "Tags": [
+        "docker",
+        "docker-container",
+        "apparmor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742719/using-custom-apparmor-profile-prevents-docker-container-shutdown"
+    },
+    {
+      "Created": "2025-08-21T20:05:01Z",
+      "Title": "Why my environment variable does not get replaced on my Dockerfile CMD directive?",
+      "Tags": [
+        "docker",
+        "environment-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742725/why-my-environment-variable-does-not-get-replaced-on-my-dockerfile-cmd-directive"
+    }
+  ]
+}

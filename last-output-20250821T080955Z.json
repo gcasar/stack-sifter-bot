@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-21T08:07:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T07:41:50Z",
+      "Title": "Wix installer Custom dialog is not refreshing after Custom Action",
+      "Tags": [
+        "installation",
+        "wix",
+        "windows-installer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79741996/wix-installer-custom-dialog-is-not-refreshing-after-custom-action"
+    },
+    {
+      "Created": "2025-08-21T08:07:06Z",
+      "Title": "Cannot publish a document in sharepoint which has a minor verson of 511",
+      "Tags": [
+        "c#",
+        "sharepoint",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742018/cannot-publish-a-document-in-sharepoint-which-has-a-minor-verson-of-511"
+    }
+  ]
+}

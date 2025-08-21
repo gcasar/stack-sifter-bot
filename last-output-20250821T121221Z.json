@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-21T12:02:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T11:35:37Z",
+      "Title": "display session data passed from controller to view page",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-10",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742224/display-session-data-passed-from-controller-to-view-page"
+    },
+    {
+      "Created": "2025-08-21T11:54:19Z",
+      "Title": "How to add value from a list as new column value in dataframe, if existing column value starts with that value from list",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742243/how-to-add-value-from-a-list-as-new-column-value-in-dataframe-if-existing-colum"
+    },
+    {
+      "Created": "2025-08-21T11:58:41Z",
+      "Title": "How to override default styles (like shadow-sm) in a third-party component using only TailwindCSS?",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742254/how-to-override-default-styles-like-shadow-sm-in-a-third-party-component-using"
+    },
+    {
+      "Created": "2025-08-21T12:02:17Z",
+      "Title": "Gradle build failed: Could not resolve kotlin-stdlib-jdk8:1.3.72 in Flutter Android project",
+      "Tags": [
+        "flutter",
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742257/gradle-build-failed-could-not-resolve-kotlin-stdlib-jdk81-3-72-in-flutter-andr"
+    }
+  ]
+}

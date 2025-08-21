@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-21T23:04:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T22:27:59Z",
+      "Title": "When state is hoisted in Jetpack Compose, how is it updating the value in the Parent even though nothing is returned to it from the Child?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "android-jetpack-compose-material3",
+        "material3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742809/when-state-is-hoisted-in-jetpack-compose-how-is-it-updating-the-value-in-the-pa"
+    },
+    {
+      "Created": "2025-08-21T22:28:39Z",
+      "Title": "How to point custom domain name to Azure SQL Managed Instance",
+      "Tags": [
+        "azure",
+        "dns",
+        "azure-sql-managed-instance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742810/how-to-point-custom-domain-name-to-azure-sql-managed-instance"
+    },
+    {
+      "Created": "2025-08-21T22:31:43Z",
+      "Title": "MySQL connection issue over JS",
+      "Tags": [
+        "javascript",
+        "mysql",
+        "database-connection",
+        "ehostunreach"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742813/mysql-connection-issue-over-js"
+    },
+    {
+      "Created": "2025-08-21T22:40:04Z",
+      "Title": "Filtering on a class based target",
+      "Tags": [
+        "shacl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742818/filtering-on-a-class-based-target"
+    },
+    {
+      "Created": "2025-08-21T22:44:04Z",
+      "Title": "How to delete images for a listed Amazon offer using SP API\u0027s Listing API?",
+      "Tags": [
+        "amazon-selling-partner-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742819/how-to-delete-images-for-a-listed-amazon-offer-using-sp-apis-listing-api"
+    },
+    {
+      "Created": "2025-08-21T22:52:21Z",
+      "Title": "How can I fix a DataTable sorting problem in VB.NET?",
+      "Tags": [
+        "excel",
+        "vb.net",
+        "sorting",
+        "datatable",
+        "epplus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742823/how-can-i-fix-a-datatable-sorting-problem-in-vb-net"
+    },
+    {
+      "Created": "2025-08-21T22:54:13Z",
+      "Title": "Removing an element from a map of vectors",
+      "Tags": [
+        "c\u002B\u002B",
+        "stl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742825/removing-an-element-from-a-map-of-vectors"
+    },
+    {
+      "Created": "2025-08-21T23:04:45Z",
+      "Title": "How to get a complete mapping of version_id \u2192 crate_id for all crates on crates.io?",
+      "Tags": [
+        "rust",
+        "rust-crates",
+        "cratedb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742828/how-to-get-a-complete-mapping-of-version-id-%e2%86%92-crate-id-for-all-crates-on-crates"
+    }
+  ]
+}

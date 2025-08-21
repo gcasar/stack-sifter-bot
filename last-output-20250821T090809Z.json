@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-21T08:51:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T08:31:30Z",
+      "Title": "Airflow 3.0.0 : Rest API : Not authenticated",
+      "Tags": [
+        "airflow",
+        "airflow-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742043/airflow-3-0-0-rest-api-not-authenticated"
+    },
+    {
+      "Created": "2025-08-21T08:49:28Z",
+      "Title": "Are \u0060openpyxl\u0060 and \u0060pyodbc\u0060 mutually exclusive?",
+      "Tags": [
+        "openpyxl",
+        "pyodbc",
+        "python-3.12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742061/are-openpyxl-and-pyodbc-mutually-exclusive"
+    },
+    {
+      "Created": "2025-08-21T08:50:54Z",
+      "Title": "\u0022Could not read characteristic handle 90: Protocol Error 0x0F: Insufficient Encryption\u0022, while reading the raw data from UUID characteristics",
+      "Tags": [
+        "python",
+        "windows",
+        "bluetooth-lowenergy",
+        "python-bleak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742063/could-not-read-characteristic-handle-90-protocol-error-0x0f-insufficient-encr"
+    },
+    {
+      "Created": "2025-08-21T08:51:02Z",
+      "Title": "gcloud CLI \u002B flags-file: problems with repeated flags",
+      "Tags": [
+        "google-cloud-platform",
+        "command-line-interface",
+        "gcloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742064/gcloud-cli-flags-file-problems-with-repeated-flags"
+    },
+    {
+      "Created": "2025-08-21T08:51:52Z",
+      "Title": "Conn.Write not sending data until I terminate program",
+      "Tags": [
+        "go",
+        "console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742066/conn-write-not-sending-data-until-i-terminate-program"
+    }
+  ]
+}

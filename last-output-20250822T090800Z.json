@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-22T08:57:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T08:10:30Z",
+      "Title": "Add horizontal line to barplot in plotly R including legend",
+      "Tags": [
+        "r",
+        "plotly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743131/add-horizontal-line-to-barplot-in-plotly-r-including-legend"
+    },
+    {
+      "Created": "2025-08-22T08:25:16Z",
+      "Title": "Executing SELECT query in one thread and INSERT and UPDATE in another thread in SQLite3",
+      "Tags": [
+        "c\u002B\u002B",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743145/executing-select-query-in-one-thread-and-insert-and-update-in-another-thread-in"
+    },
+    {
+      "Created": "2025-08-22T08:46:13Z",
+      "Title": "Show a user input popup that waits for user input without rerunning entire app",
+      "Tags": [
+        "python",
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743175/show-a-user-input-popup-that-waits-for-user-input-without-rerunning-entire-app"
+    },
+    {
+      "Created": "2025-08-22T08:51:56Z",
+      "Title": "How to query a sum and its percentage in the same Elasticsearch ESQL query?",
+      "Tags": [
+        "elasticsearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743179/how-to-query-a-sum-and-its-percentage-in-the-same-elasticsearch-esql-query"
+    },
+    {
+      "Created": "2025-08-22T08:56:48Z",
+      "Title": "ILGPU and MemoryAccessViolations",
+      "Tags": [
+        "c#",
+        "cuda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743183/ilgpu-and-memoryaccessviolations"
+    },
+    {
+      "Created": "2025-08-22T08:57:52Z",
+      "Title": "whats best for memory \u0022const char *x\u0022 or const char[] x = \u0022myTag\u0022 for ESP_LOG?",
+      "Tags": [
+        "c",
+        "espressif-idf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743185/whats-best-for-memory-const-char-x-or-const-char-x-mytag-for-esp-log"
+    }
+  ]
+}

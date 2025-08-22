@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-22T18:54:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T18:34:47Z",
+      "Title": "OpenGL: Model uses multiple textures bit only loads one",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "textures",
+        "gltf",
+        "nlohmann-json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743744/opengl-model-uses-multiple-textures-bit-only-loads-one"
+    },
+    {
+      "Created": "2025-08-22T18:44:02Z",
+      "Title": "Process .DAT files which contains PDF",
+      "Tags": [
+        "mule",
+        "dataweave",
+        "mulesoft",
+        "mule4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743753/process-dat-files-which-contains-pdf"
+    },
+    {
+      "Created": "2025-08-22T18:54:19Z",
+      "Title": "Check if a JdbcClient transaction ran successfully in Java Spring",
+      "Tags": [
+        "java",
+        "spring",
+        "postgresql",
+        "jdbc",
+        "spring-jdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743762/check-if-a-jdbcclient-transaction-ran-successfully-in-java-spring"
+    }
+  ]
+}

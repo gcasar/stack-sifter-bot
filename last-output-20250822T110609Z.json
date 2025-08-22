@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-22T11:02:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T10:31:52Z",
+      "Title": "Deducing return and parameter types from class method pointer",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743286/deducing-return-and-parameter-types-from-class-method-pointer"
+    },
+    {
+      "Created": "2025-08-22T10:44:25Z",
+      "Title": "Loading subcollection of relation entity records in Doctrine",
+      "Tags": [
+        "php",
+        "symfony",
+        "doctrine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743301/loading-subcollection-of-relation-entity-records-in-doctrine"
+    },
+    {
+      "Created": "2025-08-22T10:47:02Z",
+      "Title": "not getting all data from json url",
+      "Tags": [
+        "json",
+        "xmlhttprequest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743304/not-getting-all-data-from-json-url"
+    },
+    {
+      "Created": "2025-08-22T10:48:04Z",
+      "Title": "Extract data from a dynamic Excel file using jQuery and display it in HTML",
+      "Tags": [
+        "javascript",
+        "jquery",
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743307/extract-data-from-a-dynamic-excel-file-using-jquery-and-display-it-in-html"
+    },
+    {
+      "Created": "2025-08-22T10:55:34Z",
+      "Title": "Approach to identify and replace obsolete .NET Framework APIs during migration to .NET 8",
+      "Tags": [
+        "c#",
+        ".net-8.0",
+        ".net-4.8",
+        "framework-migration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743314/approach-to-identify-and-replace-obsolete-net-framework-apis-during-migration-t"
+    },
+    {
+      "Created": "2025-08-22T11:01:39Z",
+      "Title": "Why is FAISS document retrieval slow and inconsistent on EC2 t3.micro instance?",
+      "Tags": [
+        "python",
+        "amazon-ec2",
+        "langchain",
+        "rag",
+        "faiss"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743322/why-is-faiss-document-retrieval-slow-and-inconsistent-on-ec2-t3-micro-instance"
+    },
+    {
+      "Created": "2025-08-22T11:02:37Z",
+      "Title": "Populate columns with dates based upon a \u0022number of days\u0022 cell",
+      "Tags": [
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743324/populate-columns-with-dates-based-upon-a-number-of-days-cell"
+    }
+  ]
+}

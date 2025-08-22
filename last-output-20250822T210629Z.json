@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-22T20:51:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T20:18:16Z",
+      "Title": "Angular Complex LinkedSignal",
+      "Tags": [
+        "angular",
+        "angular-signals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743818/angular-complex-linkedsignal"
+    },
+    {
+      "Created": "2025-08-22T20:25:20Z",
+      "Title": "Use Output to populate multiple values and select when not already existing",
+      "Tags": [
+        "sql",
+        "output",
+        "exists"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743827/use-output-to-populate-multiple-values-and-select-when-not-already-existing"
+    },
+    {
+      "Created": "2025-08-22T20:31:51Z",
+      "Title": "Error on testing password for zip file: zlib.error: Error -3 while decompressing data: invalid block type",
+      "Tags": [
+        "python",
+        "python-zipfile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743834/error-on-testing-password-for-zip-file-zlib-error-error-3-while-decompressing"
+    },
+    {
+      "Created": "2025-08-22T20:37:05Z",
+      "Title": "NotNullIfNotNull, but using the return value instead of a parameter",
+      "Tags": [
+        "c#",
+        "nullable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743840/notnullifnotnull-but-using-the-return-value-instead-of-a-parameter"
+    },
+    {
+      "Created": "2025-08-22T20:40:12Z",
+      "Title": "Task.Run() for parallel SQL execution?",
+      "Tags": [
+        "c#",
+        ".net",
+        "ado.net",
+        "informix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743843/task-run-for-parallel-sql-execution"
+    },
+    {
+      "Created": "2025-08-22T20:47:18Z",
+      "Title": "How to call an async closure multiple times",
+      "Tags": [
+        "asynchronous",
+        "rust",
+        "closures",
+        "lifetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743846/how-to-call-an-async-closure-multiple-times"
+    },
+    {
+      "Created": "2025-08-22T20:51:09Z",
+      "Title": "VBA Find the last row of data in a column",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743848/vba-find-the-last-row-of-data-in-a-column"
+    }
+  ]
+}

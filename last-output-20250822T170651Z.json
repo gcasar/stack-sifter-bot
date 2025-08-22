@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-22T16:57:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T16:42:21Z",
+      "Title": "Find out which third party library includes specific native library",
+      "Tags": [
+        "android",
+        "android-gradle-plugin",
+        "java-native-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743648/find-out-which-third-party-library-includes-specific-native-library"
+    },
+    {
+      "Created": "2025-08-22T16:50:15Z",
+      "Title": "can personal information be fully encrypted in database, so to render data breaches less worth it?",
+      "Tags": [
+        "mongodb",
+        "encryption",
+        "database-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743659/can-personal-information-be-fully-encrypted-in-database-so-to-render-data-breac"
+    },
+    {
+      "Created": "2025-08-22T16:51:28Z",
+      "Title": "How can I restrict Projects in the Purchase Orders grid Project selector",
+      "Tags": [
+        "acumatica",
+        "acumatica-kb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743661/how-can-i-restrict-projects-in-the-purchase-orders-grid-project-selector"
+    },
+    {
+      "Created": "2025-08-22T16:57:12Z",
+      "Title": "Flask - Supabase restrict non auth users from accessing pages",
+      "Tags": [
+        "javascript",
+        "python",
+        "html",
+        "flask",
+        "supabase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743664/flask-supabase-restrict-non-auth-users-from-accessing-pages"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-22T01:32:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T00:22:31Z",
+      "Title": "Navigate to different routes based on some async condition check during MAUI app start up",
+      "Tags": [
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742859/navigate-to-different-routes-based-on-some-async-condition-check-during-maui-app"
+    },
+    {
+      "Created": "2025-08-22T00:53:44Z",
+      "Title": "Merging pdfs with pypdf does not create an output file",
+      "Tags": [
+        "python",
+        "pypdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742873/merging-pdfs-with-pypdf-does-not-create-an-output-file"
+    },
+    {
+      "Created": "2025-08-22T00:53:45Z",
+      "Title": "C\u002B\u002B: are circular \u0022using namespace\u0022 directives allowed?",
+      "Tags": [
+        "c\u002B\u002B",
+        "namespaces",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742874/c-are-circular-using-namespace-directives-allowed"
+    },
+    {
+      "Created": "2025-08-22T01:09:40Z",
+      "Title": "Is it possible to use Camunda 7 with multi-tenancy by schema using only one ProcessEngine?",
+      "Tags": [
+        "multi-tenant",
+        "camunda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742885/is-it-possible-to-use-camunda-7-with-multi-tenancy-by-schema-using-only-one-proc"
+    },
+    {
+      "Created": "2025-08-22T01:32:28Z",
+      "Title": "Why does Azure Function HTTP Trigger keep pending at retrieving JSON data?",
+      "Tags": [
+        "javascript",
+        "post",
+        "azure-cli",
+        "azure-static-web-app",
+        "azure-http-trigger"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742896/why-does-azure-function-http-trigger-keep-pending-at-retrieving-json-data"
+    }
+  ]
+}

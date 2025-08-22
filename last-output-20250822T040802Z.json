@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-22T03:58:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T03:23:42Z",
+      "Title": "BenchmarkDotNet: OutOfMemoryException when benchmarking parsing a JSON file",
+      "Tags": [
+        "c#",
+        "json",
+        "benchmarking",
+        "benchmarkdotnet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742937/benchmarkdotnet-outofmemoryexception-when-benchmarking-parsing-a-json-file"
+    },
+    {
+      "Created": "2025-08-22T03:39:05Z",
+      "Title": "Is there a way to calculate the shadowing level for an arbitrary Python variable?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "shadow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742943/is-there-a-way-to-calculate-the-shadowing-level-for-an-arbitrary-python-variable"
+    },
+    {
+      "Created": "2025-08-22T03:42:31Z",
+      "Title": "Can\u2019t adjust width of \u003Cp\u003E and \u003Cbutton\u003E inside a flex column with TailwindCSS",
+      "Tags": [
+        "tailwind-css",
+        "tailwind-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742946/can-t-adjust-width-of-p-and-button-inside-a-flex-column-with-tailwindcss"
+    },
+    {
+      "Created": "2025-08-22T03:58:52Z",
+      "Title": "IoTDB 1.3.0 cluster fails to start: ConfigNode crashes with SegmentedRaftLog \u0060IllegalStateException\u0060 \u201CDifference \u2026 is greater than 1\u201D",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742952/iotdb-1-3-0-cluster-fails-to-start-confignode-crashes-with-segmentedraftlog-il"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-22T06:57:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T06:19:55Z",
+      "Title": "HighCharts candlestick chart with linear x-axis",
+      "Tags": [
+        "highcharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743030/highcharts-candlestick-chart-with-linear-x-axis"
+    },
+    {
+      "Created": "2025-08-22T06:41:16Z",
+      "Title": "Table design that references multiple document types (e.g., Invoices, Purchases)",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "foreign-keys"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743043/table-design-that-references-multiple-document-types-e-g-invoices-purchases"
+    },
+    {
+      "Created": "2025-08-22T06:50:15Z",
+      "Title": "Is there a way to clear the last user in microsoft multifactor authentication",
+      "Tags": [
+        "flutter",
+        "dart",
+        "oauth",
+        "azure-active-directory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743055/is-there-a-way-to-clear-the-last-user-in-microsoft-multifactor-authentication"
+    },
+    {
+      "Created": "2025-08-22T06:55:30Z",
+      "Title": "Is Panel Regression Suitable for Quantifying Doping Multiplier on Daily and Total Views in Python with DuckDB Time Series Data?",
+      "Tags": [
+        "python",
+        "dataframe",
+        "time-series",
+        "regression",
+        "duckdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743060/is-panel-regression-suitable-for-quantifying-doping-multiplier-on-daily-and-tota"
+    },
+    {
+      "Created": "2025-08-22T06:57:57Z",
+      "Title": "Python Selenium find nested element",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping",
+        "seleniumbase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743063/python-selenium-find-nested-element"
+    }
+  ]
+}

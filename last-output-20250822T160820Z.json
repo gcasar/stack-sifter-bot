@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-22T16:03:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T15:29:06Z",
+      "Title": "Wordpress \u0027pre_get_posts\u0027 is ignored",
+      "Tags": [
+        "php",
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743577/wordpress-pre-get-posts-is-ignored"
+    },
+    {
+      "Created": "2025-08-22T15:31:35Z",
+      "Title": "How to stop multiple API calls when getting session data in React application?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743579/how-to-stop-multiple-api-calls-when-getting-session-data-in-react-application"
+    },
+    {
+      "Created": "2025-08-22T15:32:15Z",
+      "Title": "KeyError: \u0027main\u0027 in OpenWeatherMap API Response with Tkinter GUI \u2013 How to Safely Extract Weather Data?",
+      "Tags": [
+        "python",
+        "json",
+        "validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743583/keyerror-main-in-openweathermap-api-response-with-tkinter-gui-how-to-safely"
+    },
+    {
+      "Created": "2025-08-22T15:53:44Z",
+      "Title": "Modifying the character repersentation of stdout Pipe values",
+      "Tags": [
+        "python-3.x",
+        "linux",
+        "raspberry-pi",
+        "debian",
+        "popen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743607/modifying-the-character-repersentation-of-stdout-pipe-values"
+    },
+    {
+      "Created": "2025-08-22T15:59:09Z",
+      "Title": "RSA decryption with private key fails with Python",
+      "Tags": [
+        "python",
+        "rsa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743613/rsa-decryption-with-private-key-fails-with-python"
+    },
+    {
+      "Created": "2025-08-22T16:03:01Z",
+      "Title": "can not build a sample application with VCPKG and OpenCV on linux",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "opencv",
+        "cmake",
+        "vcpkg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743619/can-not-build-a-sample-application-with-vcpkg-and-opencv-on-linux"
+    }
+  ]
+}

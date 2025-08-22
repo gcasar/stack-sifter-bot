@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-22T10:04:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T09:40:40Z",
+      "Title": "How to skip GitHub Actions workflow triggered by push to main if the original PR was created by github-actions[bot]?",
+      "Tags": [
+        "github",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743224/how-to-skip-github-actions-workflow-triggered-by-push-to-main-if-the-original-pr"
+    },
+    {
+      "Created": "2025-08-22T09:52:33Z",
+      "Title": "Blazor Server: Custom 404 component causes RenderFragment\u003CT\u003E error with InteractiveServer render mode",
+      "Tags": [
+        "asp.net",
+        "razor",
+        "blazor",
+        "http-status-code-404",
+        "router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743236/blazor-server-custom-404-component-causes-renderfragmentt-error-with-interact"
+    },
+    {
+      "Created": "2025-08-22T09:54:25Z",
+      "Title": "Why does @mapbox/polyline decode differently than Google\u2019s Routes API polyline decoder?",
+      "Tags": [
+        "node.js",
+        "google-maps",
+        "routes",
+        "mapbox",
+        "google-polyline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743239/why-does-mapbox-polyline-decode-differently-than-google-s-routes-api-polyline-d"
+    },
+    {
+      "Created": "2025-08-22T09:58:29Z",
+      "Title": "Angluar CLI generate component: test files are still modular",
+      "Tags": [
+        "angular",
+        "angular-cli",
+        "angular-test",
+        "angular-standalone-components"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743243/angluar-cli-generate-component-test-files-are-still-modular"
+    },
+    {
+      "Created": "2025-08-22T10:04:12Z",
+      "Title": "How to disregard user defined .htaccess files for certain client in apache server",
+      "Tags": [
+        "apache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743253/how-to-disregard-user-defined-htaccess-files-for-certain-client-in-apache-serve"
+    }
+  ]
+}

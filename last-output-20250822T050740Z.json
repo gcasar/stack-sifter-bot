@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-22T04:57:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T04:34:08Z",
+      "Title": "What is the difference between GOOGLE_CLIENT_ID from OAuth credentials and Sender ID in Firebase Cloud Messaging (ex-GCM)?",
+      "Tags": [
+        "firebase",
+        "firebase-cloud-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742965/what-is-the-difference-between-google-client-id-from-oauth-credentials-and-sende"
+    },
+    {
+      "Created": "2025-08-22T04:37:35Z",
+      "Title": "Is there a data visibility issue here?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "concurrency",
+        "c\u002B\u002B20",
+        "atomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742968/is-there-a-data-visibility-issue-here"
+    },
+    {
+      "Created": "2025-08-22T04:50:39Z",
+      "Title": "Azure App Service won\u0027t connect to Azure SQL Database",
+      "Tags": [
+        "sql-server",
+        "asp.net-mvc",
+        "azure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742976/azure-app-service-wont-connect-to-azure-sql-database"
+    },
+    {
+      "Created": "2025-08-22T04:57:01Z",
+      "Title": "Deleting rows when a specific time period passes",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742979/deleting-rows-when-a-specific-time-period-passes"
+    }
+  ]
+}

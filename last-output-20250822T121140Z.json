@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-22T12:02:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T11:30:45Z",
+      "Title": "Forcing text scaling to 1.0 with MediaQuery \u002B LayoutBuilder still overridden by system font size",
+      "Tags": [
+        "flutter",
+        "mobile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743359/forcing-text-scaling-to-1-0-with-mediaquery-layoutbuilder-still-overridden-by"
+    },
+    {
+      "Created": "2025-08-22T11:45:14Z",
+      "Title": "OData $orderby on complex property in projected DTO",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "odata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743369/odata-orderby-on-complex-property-in-projected-dto"
+    },
+    {
+      "Created": "2025-08-22T11:51:55Z",
+      "Title": "Why does Next.js middleware matcher fail with dynamic imports from a constants file?",
+      "Tags": [
+        "typescript",
+        "next.js",
+        "tags"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743374/why-does-next-js-middleware-matcher-fail-with-dynamic-imports-from-a-constants-f"
+    },
+    {
+      "Created": "2025-08-22T11:54:45Z",
+      "Title": "flutter_native_splash issue on android 12 and plus",
+      "Tags": [
+        "android",
+        "flutter",
+        "flutter-dependencies",
+        "splash-screen",
+        "android-splashscreen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743376/flutter-native-splash-issue-on-android-12-and-plus"
+    },
+    {
+      "Created": "2025-08-22T11:55:55Z",
+      "Title": "Logging in request-response cycle and outside it",
+      "Tags": [
+        "logging",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743377/logging-in-request-response-cycle-and-outside-it"
+    },
+    {
+      "Created": "2025-08-22T12:02:50Z",
+      "Title": "In WinUI3, how do I constrain the initial size of a window so it does not exceed the size of the display?",
+      "Tags": [
+        "c\u002B\u002B",
+        "winui-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743380/in-winui3-how-do-i-constrain-the-initial-size-of-a-window-so-it-does-not-exceed"
+    }
+  ]
+}

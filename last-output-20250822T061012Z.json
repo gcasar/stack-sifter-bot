@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-22T06:06:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T05:35:52Z",
+      "Title": "Why does floating point division take less than 50% of the time of integer division and also 10x more cycles than usual when underflow occurs?",
+      "Tags": [
+        "c",
+        "floating-point",
+        "cpu-architecture",
+        "microbenchmark",
+        "underflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743003/why-does-floating-point-division-take-less-than-50-of-the-time-of-integer-divis"
+    },
+    {
+      "Created": "2025-08-22T05:49:43Z",
+      "Title": "How can I flatten a circular dependancy using C\u002B\u002B20 modules?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "circular-dependency",
+        "c\u002B\u002B-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743009/how-can-i-flatten-a-circular-dependancy-using-c20-modules"
+    },
+    {
+      "Created": "2025-08-22T05:59:56Z",
+      "Title": "how to upscale video max dimensions which fit within target size using ffmpeg?",
+      "Tags": [
+        "video",
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743014/how-to-upscale-video-max-dimensions-which-fit-within-target-size-using-ffmpeg"
+    },
+    {
+      "Created": "2025-08-22T06:01:44Z",
+      "Title": "Transporter collision and deadlock",
+      "Tags": [
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743016/transporter-collision-and-deadlock"
+    },
+    {
+      "Created": "2025-08-22T06:06:59Z",
+      "Title": "ASP.Net Executable without wwwroot",
+      "Tags": [
+        "asp.net",
+        "asp.net-mvc",
+        "web",
+        "single-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743018/asp-net-executable-without-wwwroot"
+    }
+  ]
+}

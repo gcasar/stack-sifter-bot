@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-22T00:06:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-21T23:14:55Z",
+      "Title": "\u0060$display\u0060 output nothing through \u0060if else\u0060",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742834/display-output-nothing-through-if-else"
+    },
+    {
+      "Created": "2025-08-21T23:50:55Z",
+      "Title": "Angular file replacement when deploying to Firebase Hosting via Github Actions",
+      "Tags": [
+        "angular",
+        "firebase",
+        "github-actions",
+        "firebase-hosting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742846/angular-file-replacement-when-deploying-to-firebase-hosting-via-github-actions"
+    },
+    {
+      "Created": "2025-08-22T00:03:28Z",
+      "Title": "How to add days to timestamp with daylight savings time change",
+      "Tags": [
+        "sql",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742851/how-to-add-days-to-timestamp-with-daylight-savings-time-change"
+    },
+    {
+      "Created": "2025-08-22T00:06:43Z",
+      "Title": "Why do my cards not count properly and only show the the repeated same card?",
+      "Tags": [
+        "c#",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79742852/why-do-my-cards-not-count-properly-and-only-show-the-the-repeated-same-card"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-22T18:04:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T17:42:24Z",
+      "Title": "In Elasticsearch aggregations responses, how to drop \u0022key_as_string\u0022 or \u0022key\u0022 property?",
+      "Tags": [
+        "elasticsearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743707/in-elasticsearch-aggregations-responses-how-to-drop-key-as-string-or-key-pr"
+    },
+    {
+      "Created": "2025-08-22T17:45:52Z",
+      "Title": "Cast a DataType in xaml",
+      "Tags": [
+        "c#",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743710/cast-a-datatype-in-xaml"
+    },
+    {
+      "Created": "2025-08-22T17:51:21Z",
+      "Title": "Example where typename disambiguator changes the meaning of a C\u002B\u002B template",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "typename"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743716/example-where-typename-disambiguator-changes-the-meaning-of-a-c-template"
+    },
+    {
+      "Created": "2025-08-22T17:52:10Z",
+      "Title": "Problems when trying to alternate frame transparency",
+      "Tags": [
+        "java",
+        "swing",
+        "jframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743718/problems-when-trying-to-alternate-frame-transparency"
+    },
+    {
+      "Created": "2025-08-22T18:04:33Z",
+      "Title": "Why is manual (-ish) computation of log-sum-exp faster than NumPy/SciPy functions?",
+      "Tags": [
+        "python",
+        "numpy",
+        "optimization",
+        "scipy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743729/why-is-manual-ish-computation-of-log-sum-exp-faster-than-numpy-scipy-function"
+    }
+  ]
+}

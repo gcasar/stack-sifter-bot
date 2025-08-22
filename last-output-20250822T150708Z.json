@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-22T15:03:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T14:31:04Z",
+      "Title": "How to provide runtime environment configuration with APP_INITIALIZER and InjectionToken in Angular?",
+      "Tags": [
+        "angular",
+        "runtime-configuration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743518/how-to-provide-runtime-environment-configuration-with-app-initializer-and-inject"
+    },
+    {
+      "Created": "2025-08-22T14:55:43Z",
+      "Title": "JSL-Springboot security login page redirecting infinitely (ERR_TOO_MANY_REDIRECTS)",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-mvc",
+        "jsp",
+        "spring-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743544/jsl-springboot-security-login-page-redirecting-infinitely-err-too-many-redirect"
+    },
+    {
+      "Created": "2025-08-22T15:02:08Z",
+      "Title": "Keyerror, Typeerror and MORE",
+      "Tags": [
+        "python",
+        "typeerror",
+        "keyerror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743550/keyerror-typeerror-and-more"
+    },
+    {
+      "Created": "2025-08-22T15:03:43Z",
+      "Title": "How To Migrate Android Studio 4 projects to Android Studio Narwhal 2025",
+      "Tags": [
+        "android",
+        "android-studio",
+        "code-migration",
+        "android-studio-narwhal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743553/how-to-migrate-android-studio-4-projects-to-android-studio-narwhal-2025"
+    }
+  ]
+}

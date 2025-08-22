@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-22T13:00:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T12:22:27Z",
+      "Title": "Question on my C\u002B\u002B implmentation of PetersonLock from The Art of Multiprocessor Programming",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11",
+        "stdatomic",
+        "memory-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743395/question-on-my-c-implmentation-of-petersonlock-from-the-art-of-multiprocessor"
+    },
+    {
+      "Created": "2025-08-22T12:53:49Z",
+      "Title": "CUDA: Load misaligned float4 vector",
+      "Tags": [
+        "vector",
+        "cuda",
+        "memory-alignment",
+        "micro-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743416/cuda-load-misaligned-float4-vector"
+    },
+    {
+      "Created": "2025-08-22T12:56:08Z",
+      "Title": "How to post groovy to Jenkins /scriptText from a job",
+      "Tags": [
+        "jenkins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743419/how-to-post-groovy-to-jenkins-scripttext-from-a-job"
+    },
+    {
+      "Created": "2025-08-22T12:59:54Z",
+      "Title": "Getter from getter with vuex and Typescript",
+      "Tags": [
+        "typescript",
+        "vue.js",
+        "vuejs3",
+        "vuex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743427/getter-from-getter-with-vuex-and-typescript"
+    },
+    {
+      "Created": "2025-08-22T13:00:12Z",
+      "Title": "Replace only the carriage returns that are followed by characters in notepad\u002B\u002B [duplicate]",
+      "Tags": [
+        "regex",
+        "perl",
+        "notepad\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743428/replace-only-the-carriage-returns-that-are-followed-by-characters-in-notepad"
+    }
+  ]
+}

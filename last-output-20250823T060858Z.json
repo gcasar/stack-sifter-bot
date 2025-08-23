@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-23T06:05:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T05:33:32Z",
+      "Title": "Postman/form-data - Cannot destructure property",
+      "Tags": [
+        "node.js",
+        "express",
+        "postman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744023/postman-form-data-cannot-destructure-property"
+    },
+    {
+      "Created": "2025-08-23T05:46:13Z",
+      "Title": "Eloquent relationship not showing in JSON response but works in Tinker",
+      "Tags": [
+        "jquery",
+        "laravel",
+        "eloquent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744030/eloquent-relationship-not-showing-in-json-response-but-works-in-tinker"
+    },
+    {
+      "Created": "2025-08-23T06:05:25Z",
+      "Title": "In Javascript if I want to map some data to another would be best a function or a map?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "string",
+        "dictionary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744038/in-javascript-if-i-want-to-map-some-data-to-another-would-be-best-a-function-or"
+    }
+  ]
+}

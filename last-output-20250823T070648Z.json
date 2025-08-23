@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-23T06:53:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T06:18:26Z",
+      "Title": "Run development IntelliJ plugin in something else than Intellij Community",
+      "Tags": [
+        "intellij-idea",
+        "jetbrains-ide",
+        "intellij-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744044/run-development-intellij-plugin-in-something-else-than-intellij-community"
+    },
+    {
+      "Created": "2025-08-23T06:21:17Z",
+      "Title": "Very slow startup of ESP-IDF monitor from VSCode after an update",
+      "Tags": [
+        "performance",
+        "visual-studio-code",
+        "vscode-extensions",
+        "esp32",
+        "esp-idf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744046/very-slow-startup-of-esp-idf-monitor-from-vscode-after-an-update"
+    },
+    {
+      "Created": "2025-08-23T06:41:27Z",
+      "Title": "OData routing not working for Post endpoints after upgrading to .NET 8",
+      "Tags": [
+        "c#",
+        "asp.net-core-mvc",
+        "odata",
+        "url-routing",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744052/odata-routing-not-working-for-post-endpoints-after-upgrading-to-net-8"
+    },
+    {
+      "Created": "2025-08-23T06:43:06Z",
+      "Title": "Dataverse plugin ExecutionContextId shows different GUID each execution - instances not cached?",
+      "Tags": [
+        "c#",
+        "plugins",
+        "dynamics-crm",
+        "dynamics-365",
+        "dataverse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744053/dataverse-plugin-executioncontextid-shows-different-guid-each-execution-instan"
+    },
+    {
+      "Created": "2025-08-23T06:44:33Z",
+      "Title": "Simple arithmetic goes wrong?",
+      "Tags": [
+        "ruby"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744054/simple-arithmetic-goes-wrong"
+    },
+    {
+      "Created": "2025-08-23T06:49:56Z",
+      "Title": "Playwright e2e test fails in CI with real Auth0 login flow on localhost",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "playwright",
+        "auth0",
+        "e2e-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744057/playwright-e2e-test-fails-in-ci-with-real-auth0-login-flow-on-localhost"
+    },
+    {
+      "Created": "2025-08-23T06:51:23Z",
+      "Title": "Get current form feature in QGIS Python",
+      "Tags": [
+        "python",
+        "forms",
+        "qgis",
+        "pyqgis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744058/get-current-form-feature-in-qgis-python"
+    },
+    {
+      "Created": "2025-08-23T06:53:04Z",
+      "Title": "collectd write_graphite plugin kills nginx proxy",
+      "Tags": [
+        "nginx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744061/collectd-write-graphite-plugin-kills-nginx-proxy"
+    }
+  ]
+}

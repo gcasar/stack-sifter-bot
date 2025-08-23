@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-23T03:47:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T03:28:49Z",
+      "Title": "Making Macroable target an element in Spatie HTML",
+      "Tags": [
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743999/making-macroable-target-an-element-in-spatie-html"
+    },
+    {
+      "Created": "2025-08-23T03:47:55Z",
+      "Title": "gcovr convert XML report to json report",
+      "Tags": [
+        "json",
+        "xml",
+        "gcov",
+        "gcovr",
+        "xml-to-json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744002/gcovr-convert-xml-report-to-json-report"
+    }
+  ]
+}

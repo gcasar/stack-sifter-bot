@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-23T10:04:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T09:06:08Z",
+      "Title": "In a WinUI3 c\u002B\u002B app, how do I set the size of a window to its natural size and have that also work through the Microsoft Store?",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "winui-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744125/in-a-winui3-c-app-how-do-i-set-the-size-of-a-window-to-its-natural-size-and-h"
+    },
+    {
+      "Created": "2025-08-23T09:25:47Z",
+      "Title": "GNU Octave not assigning closest double to a number literal - Can you reproduce? Is it a bug?",
+      "Tags": [
+        "double",
+        "rounding",
+        "octave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744134/gnu-octave-not-assigning-closest-double-to-a-number-literal-can-you-reproduce"
+    },
+    {
+      "Created": "2025-08-23T09:33:41Z",
+      "Title": "Call boost::asio::post for io_context which runs in another thread",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744138/call-boostasiopost-for-io-context-which-runs-in-another-thread"
+    },
+    {
+      "Created": "2025-08-23T09:42:00Z",
+      "Title": "How to spyOn mutation function from rtk query mutation hook",
+      "Tags": [
+        "reactjs",
+        "redux",
+        "react-testing-library",
+        "rtk-query",
+        "vitest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744141/how-to-spyon-mutation-function-from-rtk-query-mutation-hook"
+    },
+    {
+      "Created": "2025-08-23T09:48:02Z",
+      "Title": "Trouble with css and link hover",
+      "Tags": [
+        "html",
+        "css",
+        "jscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744146/trouble-with-css-and-link-hover"
+    },
+    {
+      "Created": "2025-08-23T10:04:00Z",
+      "Title": "How to use a virtual property based on foreign data in nestjs/mongoose?",
+      "Tags": [
+        "typescript",
+        "mongodb",
+        "mongoose",
+        "nestjs",
+        "nestjs-mongoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744153/how-to-use-a-virtual-property-based-on-foreign-data-in-nestjs-mongoose"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-23T21:58:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T21:27:39Z",
+      "Title": "MCP Server Connection Error - \u0022Server disconnected\u0022 when connecting Java-based server to Claude Desktop",
+      "Tags": [
+        "spring-boot",
+        "model-context-protocol",
+        "spring-ai",
+        "claude",
+        "claude-desktop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744569/mcp-server-connection-error-server-disconnected-when-connecting-java-based-s"
+    },
+    {
+      "Created": "2025-08-23T21:43:15Z",
+      "Title": "Unclosed client session error with Cloud SQL PostgreSQL in Cloud Functions",
+      "Tags": [
+        "python",
+        "postgresql",
+        "google-cloud-functions",
+        "google-cloud-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744574/unclosed-client-session-error-with-cloud-sql-postgresql-in-cloud-functions"
+    },
+    {
+      "Created": "2025-08-23T21:50:54Z",
+      "Title": "How do I make it so I don\u0027t need a main entrypoint in a WebAssembly module without disabling stdlib?",
+      "Tags": [
+        "clang",
+        "webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744577/how-do-i-make-it-so-i-dont-need-a-main-entrypoint-in-a-webassembly-module-witho"
+    },
+    {
+      "Created": "2025-08-23T21:52:37Z",
+      "Title": "Blazor 9: Web app freezes when trying to use Layout in a razor class library from that class library",
+      "Tags": [
+        "blazor-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744578/blazor-9-web-app-freezes-when-trying-to-use-layout-in-a-razor-class-library-fro"
+    },
+    {
+      "Created": "2025-08-23T21:53:41Z",
+      "Title": "in Sphinx how to update the TOC in a sphinx extension",
+      "Tags": [
+        "python-sphinx",
+        "sphinx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744579/in-sphinx-how-to-update-the-toc-in-a-sphinx-extension"
+    },
+    {
+      "Created": "2025-08-23T21:54:07Z",
+      "Title": "How to add a margin to an expandable calendar while keeping the content centered ReactNative",
+      "Tags": [
+        "javascript",
+        "android",
+        "ios",
+        "reactjs",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744580/how-to-add-a-margin-to-an-expandable-calendar-while-keeping-the-content-centered"
+    },
+    {
+      "Created": "2025-08-23T21:58:20Z",
+      "Title": "Creating a stacked barplot for two categories with variables sorted from highest to lowest, variables have different values in each category",
+      "Tags": [
+        "r",
+        "bar-chart",
+        "rstudio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744581/creating-a-stacked-barplot-for-two-categories-with-variables-sorted-from-highest"
+    }
+  ]
+}

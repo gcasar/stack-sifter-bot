@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-23T09:02:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T08:17:17Z",
+      "Title": "shell\u0027s \u0060...\u0060 or $(...) in configure? [duplicate]",
+      "Tags": [
+        "shell",
+        "stdout",
+        "autoconf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744106/shells-or-in-configure"
+    },
+    {
+      "Created": "2025-08-23T08:24:39Z",
+      "Title": "Mongoose - unknown operator: $text",
+      "Tags": [
+        "mongodb",
+        "mongoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744110/mongoose-unknown-operator-text"
+    },
+    {
+      "Created": "2025-08-23T09:01:21Z",
+      "Title": "Setting SESSIOn data in a CURL request",
+      "Tags": [
+        "php",
+        "ajax",
+        "curl",
+        "session-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744123/setting-session-data-in-a-curl-request"
+    },
+    {
+      "Created": "2025-08-23T09:02:37Z",
+      "Title": "Not able to connect to Dhan platform websocket",
+      "Tags": [
+        "python",
+        "node.js",
+        "websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744124/not-able-to-connect-to-dhan-platform-websocket"
+    }
+  ]
+}

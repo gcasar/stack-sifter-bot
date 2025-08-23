@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-23T18:56:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T18:21:06Z",
+      "Title": "requires expression gives compilation error instead of false for std::unique_ptr\u003Cvoid\u003E in C\u002B\u002B20",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "unique-ptr",
+        "requires-expression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744481/requires-expression-gives-compilation-error-instead-of-false-for-stdunique-ptr"
+    },
+    {
+      "Created": "2025-08-23T18:31:20Z",
+      "Title": "JAX, recompilation when using closure for a function",
+      "Tags": [
+        "python",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744486/jax-recompilation-when-using-closure-for-a-function"
+    },
+    {
+      "Created": "2025-08-23T18:34:33Z",
+      "Title": "What does the presence of the keyword \u0060virtual\u0060 really do in the context of inheritance?",
+      "Tags": [
+        "c\u002B\u002B",
+        "inheritance",
+        "multiple-inheritance",
+        "virtual-inheritance",
+        "diamond-problem"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744489/what-does-the-presence-of-the-keyword-virtual-really-do-in-the-context-of-inhe"
+    },
+    {
+      "Created": "2025-08-23T18:56:38Z",
+      "Title": "Problem with a deleted row in sql server still reads from Entity Framework",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744503/problem-with-a-deleted-row-in-sql-server-still-reads-from-entity-framework"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-23T01:20:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T01:01:39Z",
+      "Title": "Installing and Using node from azure pipeline tools",
+      "Tags": [
+        "node.js",
+        "azure-pipelines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743952/installing-and-using-node-from-azure-pipeline-tools"
+    },
+    {
+      "Created": "2025-08-23T01:20:22Z",
+      "Title": "OTel Collector: matching inside JSON string",
+      "Tags": [
+        "open-telemetry-collector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743957/otel-collector-matching-inside-json-string"
+    }
+  ]
+}

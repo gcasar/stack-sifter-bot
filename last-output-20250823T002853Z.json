@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-23T00:13:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-22T23:35:59Z",
+      "Title": "How can I automatically run a script after each bash command I run, that sees that command I just ran?",
+      "Tags": [
+        "bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743923/how-can-i-automatically-run-a-script-after-each-bash-command-i-run-that-sees-th"
+    },
+    {
+      "Created": "2025-08-22T23:38:00Z",
+      "Title": "Why is Animator.SetBool(string, bool)\u0027s effect within a coroutine not consistently reflected in editor or animation behaviour?",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "animation",
+        "unity3d-editor",
+        "navmesh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743925/why-is-animator-setboolstring-bools-effect-within-a-coroutine-not-consistent"
+    },
+    {
+      "Created": "2025-08-22T23:51:30Z",
+      "Title": "Simple C example for populating a table",
+      "Tags": [
+        "c",
+        "gtk",
+        "gtk4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743931/simple-c-example-for-populating-a-table"
+    },
+    {
+      "Created": "2025-08-23T00:13:39Z",
+      "Title": "GLOMAP on an M1 Mac",
+      "Tags": [
+        "computer-vision",
+        "photogrammetry",
+        "colmap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743937/glomap-on-an-m1-mac"
+    }
+  ]
+}

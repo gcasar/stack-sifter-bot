@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-23T04:52:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T04:44:51Z",
+      "Title": "plotly cant plot scatter graphs anymore",
+      "Tags": [
+        "python",
+        "dataframe",
+        "graph",
+        "jupyter-notebook",
+        "plotly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744011/plotly-cant-plot-scatter-graphs-anymore"
+    },
+    {
+      "Created": "2025-08-23T04:52:15Z",
+      "Title": "How to make WebStorm auto-import Vuetify types from vuetify/framework instead of internal vuetify/lib/components/*",
+      "Tags": [
+        "vue.js",
+        "vuejs3",
+        "vuetify.js",
+        "webstorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744012/how-to-make-webstorm-auto-import-vuetify-types-from-vuetify-framework-instead-of"
+    }
+  ]
+}

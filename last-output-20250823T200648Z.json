@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-23T19:46:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T19:46:59Z",
+      "Title": "EF Core: how to check if SQL Server is running before running migrations",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "wpf",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744538/ef-core-how-to-check-if-sql-server-is-running-before-running-migrations"
+    }
+  ]
+}

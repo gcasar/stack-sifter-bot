@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-23T18:04:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T17:18:01Z",
+      "Title": "Multiple inheritance in C\u002B\u002B with ambiguous (or duplicated) virtual function names",
+      "Tags": [
+        "c\u002B\u002B",
+        "multiple-inheritance",
+        "multimethod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744455/multiple-inheritance-in-c-with-ambiguous-or-duplicated-virtual-function-name"
+    },
+    {
+      "Created": "2025-08-23T18:03:47Z",
+      "Title": "Good approaches for View Models to spawn a dialog with its own view model and retrieving results",
+      "Tags": [
+        "c#",
+        "wpf",
+        "mvvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744473/good-approaches-for-view-models-to-spawn-a-dialog-with-its-own-view-model-and-re"
+    },
+    {
+      "Created": "2025-08-23T18:04:48Z",
+      "Title": "How to cancel tap on UIDatePicker or dismiss it programatically?",
+      "Tags": [
+        "ios",
+        "swift",
+        "objective-c",
+        "uipickerview",
+        "uidatepicker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744474/how-to-cancel-tap-on-uidatepicker-or-dismiss-it-programatically"
+    }
+  ]
+}

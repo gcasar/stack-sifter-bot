@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-23T16:05:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T15:17:30Z",
+      "Title": "Why does disabling IPv6 fix my PC\u0027s performance issue during an Internet outage?",
+      "Tags": [
+        "network-programming",
+        "ipv6",
+        "apartments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744364/why-does-disabling-ipv6-fix-my-pcs-performance-issue-during-an-internet-outage"
+    },
+    {
+      "Created": "2025-08-23T15:33:46Z",
+      "Title": "How can I make glob_wildcards obey the global wildcard constraints?",
+      "Tags": [
+        "snakemake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744378/how-can-i-make-glob-wildcards-obey-the-global-wildcard-constraints"
+    },
+    {
+      "Created": "2025-08-23T15:41:55Z",
+      "Title": "Simultaneous recording and music streaming on a classic BT Headset on Android \u003E=15",
+      "Tags": [
+        "android",
+        "kotlin",
+        "bluetooth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744383/simultaneous-recording-and-music-streaming-on-a-classic-bt-headset-on-android"
+    },
+    {
+      "Created": "2025-08-23T15:54:46Z",
+      "Title": "How to (nicely) wrap an AsyncFnOnce to send it between threads?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744394/how-to-nicely-wrap-an-asyncfnonce-to-send-it-between-threads"
+    },
+    {
+      "Created": "2025-08-23T15:55:36Z",
+      "Title": "ouput unicode character by suppressing original keystroke using evdev python in linux",
+      "Tags": [
+        "python",
+        "linux",
+        "unicode",
+        "evdev",
+        "uinput"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744396/ouput-unicode-character-by-suppressing-original-keystroke-using-evdev-python-in"
+    },
+    {
+      "Created": "2025-08-23T16:04:15Z",
+      "Title": "Installing virtualenv globally with Homebrew",
+      "Tags": [
+        "python",
+        "virtualenv",
+        "python-venv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744404/installing-virtualenv-globally-with-homebrew"
+    },
+    {
+      "Created": "2025-08-23T16:05:26Z",
+      "Title": "Puppeteer checkbox is either not clickable or not an element",
+      "Tags": [
+        "javascript",
+        "puppeteer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744405/puppeteer-checkbox-is-either-not-clickable-or-not-an-element"
+    },
+    {
+      "Created": "2025-08-23T16:05:47Z",
+      "Title": "How to detect if value is trash or not in char array(C\u002B\u002B)",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "char"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744406/how-to-detect-if-value-is-trash-or-not-in-char-arrayc"
+    }
+  ]
+}

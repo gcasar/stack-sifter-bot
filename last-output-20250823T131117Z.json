@@ -1,0 +1,103 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-23T13:08:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T12:18:51Z",
+      "Title": "WindowsDowndate tool error: AttributeError: type object \u0027PathEx\u0027 has no attribute \u0027_from_parts\u0027",
+      "Tags": [
+        "python",
+        "windows",
+        "attributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744217/windowsdowndate-tool-error-attributeerror-type-object-pathex-has-no-attribut"
+    },
+    {
+      "Created": "2025-08-23T12:42:36Z",
+      "Title": "How to implement gRPC in Yii2?",
+      "Tags": [
+        "php",
+        "yii2",
+        "microservices",
+        "protocol-buffers",
+        "grpc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744256/how-to-implement-grpc-in-yii2"
+    },
+    {
+      "Created": "2025-08-23T12:42:41Z",
+      "Title": "Playwright e2e test fails in CI with real Auth0 login flow on localhost",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "playwright",
+        "auth0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744258/playwright-e2e-test-fails-in-ci-with-real-auth0-login-flow-on-localhost"
+    },
+    {
+      "Created": "2025-08-23T12:42:43Z",
+      "Title": "C\u002B\u002B 2D camera zoom, zooms around screen center not mouse",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744259/c-2d-camera-zoom-zooms-around-screen-center-not-mouse"
+    },
+    {
+      "Created": "2025-08-23T12:42:49Z",
+      "Title": "Why doesn\u2019t Picat planner branch with member/2 inside action/4?",
+      "Tags": [
+        "constraint-programming",
+        "logic-programming",
+        "planning",
+        "picat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744262/why-doesn-t-picat-planner-branch-with-member-2-inside-action-4"
+    },
+    {
+      "Created": "2025-08-23T12:42:56Z",
+      "Title": "How can I move the blue turtle to x = 280 using repeated upward semicircular \u2018hops\u2019 in Python turtle?",
+      "Tags": [
+        "python",
+        "python-turtle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744265/how-can-i-move-the-blue-turtle-to-x-280-using-repeated-upward-semicircular-ho"
+    },
+    {
+      "Created": "2025-08-23T12:42:59Z",
+      "Title": "How to keep both, back and front buffers up-to-date",
+      "Tags": [
+        "c",
+        "graphics",
+        "rendering",
+        "wayland",
+        "double-buffering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744266/how-to-keep-both-back-and-front-buffers-up-to-date"
+    },
+    {
+      "Created": "2025-08-23T12:47:32Z",
+      "Title": "Assistance with VBA Code for Creating Excel Scatter Charts",
+      "Tags": [
+        "debugging",
+        "filter",
+        "dynamic",
+        "excel-tables",
+        "slicers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744267/assistance-with-vba-code-for-creating-excel-scatter-charts"
+    },
+    {
+      "Created": "2025-08-23T13:08:50Z",
+      "Title": "Aligning left side of TextFields",
+      "Tags": [
+        "macos",
+        "swiftui",
+        "layout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744274/aligning-left-side-of-textfields"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-23T10:52:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T10:15:43Z",
+      "Title": "Spark join not producing identical results when run on two different notebooks in the same cluster",
+      "Tags": [
+        "apache-spark",
+        "pyspark",
+        "left-join",
+        "azure-databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744159/spark-join-not-producing-identical-results-when-run-on-two-different-notebooks-i"
+    },
+    {
+      "Created": "2025-08-23T10:18:39Z",
+      "Title": "Is there a command to move which merge folders but not overwrite files? [closed]",
+      "Tags": [
+        "python",
+        "file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744161/is-there-a-command-to-move-which-merge-folders-but-not-overwrite-files"
+    },
+    {
+      "Created": "2025-08-23T10:23:40Z",
+      "Title": "How to determine which private key to use for decrypting WhatsApp Flow webhook payload?",
+      "Tags": [
+        "aes",
+        "webhooks",
+        "whatsapp",
+        "whatsapp-cloud-api",
+        "whatsapp-flows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744163/how-to-determine-which-private-key-to-use-for-decrypting-whatsapp-flow-webhook-p"
+    },
+    {
+      "Created": "2025-08-23T10:30:58Z",
+      "Title": "Can\u0027t have different compile options for the library and the main project files",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744164/cant-have-different-compile-options-for-the-library-and-the-main-project-files"
+    },
+    {
+      "Created": "2025-08-23T10:41:32Z",
+      "Title": "Sent the bearer token, how to use it in a get request?",
+      "Tags": [
+        "next.js",
+        "fetch",
+        "token",
+        "bearer-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744167/sent-the-bearer-token-how-to-use-it-in-a-get-request"
+    },
+    {
+      "Created": "2025-08-23T10:52:21Z",
+      "Title": "Can I Use Any Pins for SPI Communication on the DE0-Nano, or Are There Specific Pins for SPI?",
+      "Tags": [
+        "raspberry-pi",
+        "fpga",
+        "spi",
+        "intel-fpga"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744173/can-i-use-any-pins-for-spi-communication-on-the-de0-nano-or-are-there-specific"
+    }
+  ]
+}

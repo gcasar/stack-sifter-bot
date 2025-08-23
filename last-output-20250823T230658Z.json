@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-23T22:18:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T22:17:11Z",
+      "Title": "setInterval and setTimeout not working reliably when screen comes back into focus in react native",
+      "Tags": [
+        "reactjs",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744593/setinterval-and-settimeout-not-working-reliably-when-screen-comes-back-into-focu"
+    },
+    {
+      "Created": "2025-08-23T22:18:49Z",
+      "Title": "MBR Works in QEMU/BOCHS but not Real-Hardware",
+      "Tags": [
+        "assembly",
+        "x86-16",
+        "bootloader",
+        "bios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744594/mbr-works-in-qemu-bochs-but-not-real-hardware"
+    }
+  ]
+}

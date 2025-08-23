@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-23T21:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T20:26:39Z",
+      "Title": "Recipes don\u0027t work in minecraft 1.21.1 forge 52.1.1",
+      "Tags": [
+        "java",
+        "minecraft-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744550/recipes-dont-work-in-minecraft-1-21-1-forge-52-1-1"
+    },
+    {
+      "Created": "2025-08-23T20:45:20Z",
+      "Title": "Dart Error: RenderPhysicalModel object was given an infinite size during layout",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744554/dart-error-renderphysicalmodel-object-was-given-an-infinite-size-during-layout"
+    },
+    {
+      "Created": "2025-08-23T20:58:38Z",
+      "Title": "Telegram links not opening in iPhone (React)",
+      "Tags": [
+        "ios",
+        "reactjs",
+        "telegram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744560/telegram-links-not-opening-in-iphone-react"
+    },
+    {
+      "Created": "2025-08-23T21:02:28Z",
+      "Title": "Disable assignment of window.location in Selenium",
+      "Tags": [
+        "javascript",
+        "selenium-webdriver",
+        "web-scraping",
+        "selenium-chromedriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744563/disable-assignment-of-window-location-in-selenium"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-23T16:52:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T16:40:06Z",
+      "Title": "How can I do a synchronous fetch in a web worker in Node-Webkit?",
+      "Tags": [
+        "typescript",
+        "electron",
+        "web-worker",
+        "node-webkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744436/how-can-i-do-a-synchronous-fetch-in-a-web-worker-in-node-webkit"
+    },
+    {
+      "Created": "2025-08-23T16:41:53Z",
+      "Title": "Capacitor Android WebView: Back button shows blank page",
+      "Tags": [
+        "android",
+        "angular",
+        "ionic-framework",
+        "webview",
+        "capacitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744437/capacitor-android-webview-back-button-shows-blank-page"
+    },
+    {
+      "Created": "2025-08-23T16:47:30Z",
+      "Title": "my program is not able to find if an element is part of a list",
+      "Tags": [
+        "python",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744439/my-program-is-not-able-to-find-if-an-element-is-part-of-a-list"
+    },
+    {
+      "Created": "2025-08-23T16:48:44Z",
+      "Title": "How in python can I transform negative secs into struct time?",
+      "Tags": [
+        "python",
+        "time",
+        "negative-number",
+        "localtime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744440/how-in-python-can-i-transform-negative-secs-into-struct-time"
+    },
+    {
+      "Created": "2025-08-23T16:52:12Z",
+      "Title": "How to display posts from a custom taxonomy term in WordPress?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "taxonomy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744444/how-to-display-posts-from-a-custom-taxonomy-term-in-wordpress"
+    },
+    {
+      "Created": "2025-08-23T16:52:49Z",
+      "Title": "How to rotate one vector around another by a certain angle using struct and quaternion in C language?",
+      "Tags": [
+        "c",
+        "vector",
+        "struct",
+        "rotation",
+        "quaternions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744446/how-to-rotate-one-vector-around-another-by-a-certain-angle-using-struct-and-quat"
+    }
+  ]
+}

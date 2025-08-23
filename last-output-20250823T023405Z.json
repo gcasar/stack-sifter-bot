@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-23T02:15:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T01:44:29Z",
+      "Title": "CLANG not finding GHC header file for FFI",
+      "Tags": [
+        "c",
+        "linux",
+        "haskell",
+        "makefile",
+        "ffi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743963/clang-not-finding-ghc-header-file-for-ffi"
+    },
+    {
+      "Created": "2025-08-23T01:56:10Z",
+      "Title": "Python Win32Com: How do I open a password-protected Powerpoint?",
+      "Tags": [
+        "python",
+        "powerpoint",
+        "win32com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743969/python-win32com-how-do-i-open-a-password-protected-powerpoint"
+    },
+    {
+      "Created": "2025-08-23T02:13:23Z",
+      "Title": "Is it possible to setup Google Workload Identity Federation with Cpanel and access Google Cloud with PHP",
+      "Tags": [
+        "php",
+        "authentication",
+        "google-cloud-platform",
+        "cpanel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743975/is-it-possible-to-setup-google-workload-identity-federation-with-cpanel-and-acce"
+    },
+    {
+      "Created": "2025-08-23T02:14:43Z",
+      "Title": "remove unwanted characters in PF on AS400",
+      "Tags": [
+        "db2",
+        "ibm-midrange"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743976/remove-unwanted-characters-in-pf-on-as400"
+    },
+    {
+      "Created": "2025-08-23T02:15:19Z",
+      "Title": "Is it technically valid and computationally feasible to approximate autobiographical memory consolidation as Markov chains over episodic event nodes?",
+      "Tags": [
+        "python",
+        "algorithm",
+        "machine-learning",
+        "artificial-intelligence",
+        "reasoning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79743977/is-it-technically-valid-and-computationally-feasible-to-approximate-autobiograph"
+    }
+  ]
+}

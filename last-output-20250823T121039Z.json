@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-23T12:07:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T11:49:37Z",
+      "Title": "Missing spaces between words when parsing with python-docx",
+      "Tags": [
+        "python",
+        "xml-parsing",
+        "docx",
+        "python-docx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744198/missing-spaces-between-words-when-parsing-with-python-docx"
+    },
+    {
+      "Created": "2025-08-23T12:02:25Z",
+      "Title": "public Routes (Auth Screens) are Still Accesible after User Logout unless user does not referesh the page",
+      "Tags": [
+        "next.js",
+        "cookies",
+        "routes",
+        "middleware",
+        "nextjs14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744204/public-routes-auth-screens-are-still-accesible-after-user-logout-unless-user-d"
+    },
+    {
+      "Created": "2025-08-23T12:04:27Z",
+      "Title": "Modal window content doesn\u0027t grow",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744206/modal-window-content-doesnt-grow"
+    },
+    {
+      "Created": "2025-08-23T12:07:56Z",
+      "Title": "How to crop image in OpenCV to keep only the white page with text, excluding darker borders?",
+      "Tags": [
+        "python",
+        "opencv",
+        "image-processing",
+        "ocr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744210/how-to-crop-image-in-opencv-to-keep-only-the-white-page-with-text-excluding-dar"
+    }
+  ]
+}

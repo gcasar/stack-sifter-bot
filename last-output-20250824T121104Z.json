@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-24T11:42:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T11:32:37Z",
+      "Title": "Pycharm errors when showing plot",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "plot",
+        "pycharm",
+        "matplotlibpyplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744833/pycharm-errors-when-showing-plot"
+    },
+    {
+      "Created": "2025-08-24T11:38:01Z",
+      "Title": "$..[?(@.name==\u0027is_literate\u0027)] expression works completely fine on \u0060https://jsonpath.com\u0060 but it throw an error while using expression at \u0060jsonpath-ng\u0060",
+      "Tags": [
+        "python",
+        "json",
+        "jsonpath",
+        "jsonpath-ng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744835/name-is-literate-expression-works-completely-fine-on-https-jsonp"
+    },
+    {
+      "Created": "2025-08-24T11:42:42Z",
+      "Title": "Determine PK Columns on 150 tables in Databricks",
+      "Tags": [
+        "pyspark",
+        "azure-databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744839/determine-pk-columns-on-150-tables-in-databricks"
+    }
+  ]
+}

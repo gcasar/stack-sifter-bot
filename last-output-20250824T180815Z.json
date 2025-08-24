@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-24T17:55:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T17:15:34Z",
+      "Title": "I want to check the content in between to match regex condition in XSLT",
+      "Tags": [
+        "xslt",
+        "xslt-1.0",
+        "xslt-2.0",
+        "xslt-3.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745047/i-want-to-check-the-content-in-between-to-match-regex-condition-in-xslt"
+    },
+    {
+      "Created": "2025-08-24T17:48:28Z",
+      "Title": "Intergrate Android MQTT Plugin aar into Unity - Foreground Service",
+      "Tags": [
+        "java",
+        "c#",
+        "android",
+        "android-studio",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745069/intergrate-android-mqtt-plugin-aar-into-unity-foreground-service"
+    },
+    {
+      "Created": "2025-08-24T17:55:35Z",
+      "Title": "Is there a way to shift mixin injection after a return opcode",
+      "Tags": [
+        "minecraft",
+        "mixins",
+        "minecraft-forge",
+        "minecraft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745072/is-there-a-way-to-shift-mixin-injection-after-a-return-opcode"
+    }
+  ]
+}

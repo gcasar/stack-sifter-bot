@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-24T04:49:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T04:49:46Z",
+      "Title": "How to fetch only specific fields from Redis JSON in Spring Boot (e.g., number \u002B location)?",
+      "Tags": [
+        "spring-boot",
+        "redis",
+        "redisjson",
+        "redis-om-spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744672/how-to-fetch-only-specific-fields-from-redis-json-in-spring-boot-e-g-number"
+    }
+  ]
+}

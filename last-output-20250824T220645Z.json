@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-24T21:47:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T21:32:07Z",
+      "Title": "How to implement CLIENT-CERT authentication for a Jakarta EE web application in WildFly 36 using Multi-TLS",
+      "Tags": [
+        "authentication",
+        "wildfly",
+        "client-certificates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745187/how-to-implement-client-cert-authentication-for-a-jakarta-ee-web-application-in"
+    },
+    {
+      "Created": "2025-08-24T21:43:29Z",
+      "Title": "DASL filter in AdvancedSearch with lastmodified date",
+      "Tags": [
+        "powershell",
+        "filter",
+        "outlook",
+        "advanced-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745194/dasl-filter-in-advancedsearch-with-lastmodified-date"
+    },
+    {
+      "Created": "2025-08-24T21:46:21Z",
+      "Title": "Cabal not recognizing Include/Header File Directories for FFI project",
+      "Tags": [
+        "c",
+        "haskell",
+        "ghc",
+        "cabal",
+        "cabal-install"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745195/cabal-not-recognizing-include-header-file-directories-for-ffi-project"
+    },
+    {
+      "Created": "2025-08-24T21:47:30Z",
+      "Title": "Android WebView: First tap on \u003Clabel for=\u0022...\u0022\u003E focuses input but does not open soft keyboard (IME)",
+      "Tags": [
+        "android",
+        "webview",
+        "android-webview",
+        "chromium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745196/android-webview-first-tap-on-label-for-focuses-input-but-does-not-open"
+    }
+  ]
+}

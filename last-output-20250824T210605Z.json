@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-24T20:56:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T20:36:53Z",
+      "Title": "Need help adding a USB network adapter to either Virtualbox or VMWare Kali Linux vm",
+      "Tags": [
+        "linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745166/need-help-adding-a-usb-network-adapter-to-either-virtualbox-or-vmware-kali-linux"
+    },
+    {
+      "Created": "2025-08-24T20:56:10Z",
+      "Title": "How to fetch only specific fields from Redis JSON using projections in Spring Boot ? Current approach return nulls",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "redis",
+        "spring-projections",
+        "redis-om-spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745176/how-to-fetch-only-specific-fields-from-redis-json-using-projections-in-spring-bo"
+    }
+  ]
+}

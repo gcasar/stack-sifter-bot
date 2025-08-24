@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-24T06:30:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T06:15:23Z",
+      "Title": "Fixing overlapping IP and IP resolution",
+      "Tags": [
+        "amazon-web-services",
+        "azure",
+        "vpn",
+        "nat",
+        "aws-nat-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744693/fixing-overlapping-ip-and-ip-resolution"
+    },
+    {
+      "Created": "2025-08-24T06:30:16Z",
+      "Title": "An internal compiler error is encountered with GCC, and a similar issue occurs when using Clang",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744696/an-internal-compiler-error-is-encountered-with-gcc-and-a-similar-issue-occurs-w"
+    }
+  ]
+}

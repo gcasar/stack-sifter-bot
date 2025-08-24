@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-24T01:56:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T01:32:56Z",
+      "Title": "Dplyr select top n% of a dataframe by column value",
+      "Tags": [
+        "r",
+        "dplyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744639/dplyr-select-top-n-of-a-dataframe-by-column-value"
+    },
+    {
+      "Created": "2025-08-24T01:56:50Z",
+      "Title": "Mediarecorder stucks on iOS as PWA app, how to clean all tracks?",
+      "Tags": [
+        "javascript",
+        "ios",
+        "progressive-web-apps",
+        "mediarecorder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744644/mediarecorder-stucks-on-ios-as-pwa-app-how-to-clean-all-tracks"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-24T15:04:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T14:29:12Z",
+      "Title": "Is there a way to use a kind level class with type families?",
+      "Tags": [
+        "haskell",
+        "typeclass",
+        "type-families",
+        "type-level-computation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744946/is-there-a-way-to-use-a-kind-level-class-with-type-families"
+    },
+    {
+      "Created": "2025-08-24T14:41:29Z",
+      "Title": "Unable to configure lsp-mode with lsp-pyright",
+      "Tags": [
+        "python-3.x",
+        "emacs",
+        "ide",
+        "elisp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744957/unable-to-configure-lsp-mode-with-lsp-pyright"
+    },
+    {
+      "Created": "2025-08-24T15:04:22Z",
+      "Title": "How to Batch Update row values in JPA",
+      "Tags": [
+        "spring",
+        "hibernate",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744963/how-to-batch-update-row-values-in-jpa"
+    }
+  ]
+}

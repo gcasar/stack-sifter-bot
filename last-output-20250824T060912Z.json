@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-24T06:05:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T05:14:25Z",
+      "Title": "Why is my program returning: Process finished with exit code -1073741515 (0xC0000135) [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "sfml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744678/why-is-my-program-returning-process-finished-with-exit-code-1073741515-0xc000"
+    },
+    {
+      "Created": "2025-08-24T05:14:37Z",
+      "Title": "Error running K8S batch in argoCD workflow with \u0022invalid spec: templates.main.steps[0].batch quantities must match the regular expression\u0022 ERROR",
+      "Tags": [
+        "php",
+        "kubernetes",
+        "argocd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744679/error-running-k8s-batch-in-argocd-workflow-with-invalid-spec-templates-main-st"
+    },
+    {
+      "Created": "2025-08-24T05:51:03Z",
+      "Title": "What\u0027s the difference between \u0022binding.break\u0022 and \u0022debugger\u0022?",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744687/whats-the-difference-between-binding-break-and-debugger"
+    },
+    {
+      "Created": "2025-08-24T06:05:29Z",
+      "Title": "Is glib part of the implementation said in the C standard?",
+      "Tags": [
+        "c",
+        "glib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744690/is-glib-part-of-the-implementation-said-in-the-c-standard"
+    }
+  ]
+}

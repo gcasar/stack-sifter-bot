@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-24T00:25:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-23T23:19:36Z",
+      "Title": "How to create a Regex pattern to change selected digits in a string",
+      "Tags": [
+        "python",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744609/how-to-create-a-regex-pattern-to-change-selected-digits-in-a-string"
+    },
+    {
+      "Created": "2025-08-23T23:42:31Z",
+      "Title": "How can I know in advance what are the Spring Boot properties I need?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744616/how-can-i-know-in-advance-what-are-the-spring-boot-properties-i-need"
+    },
+    {
+      "Created": "2025-08-23T23:51:07Z",
+      "Title": "Ethers.js contract event monitoring fails on Base/zkSync Sepolia via HTTPS RPC but works with WebSocket RPC",
+      "Tags": [
+        "solidity",
+        "ethers.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744618/ethers-js-contract-event-monitoring-fails-on-base-zksync-sepolia-via-https-rpc-b"
+    },
+    {
+      "Created": "2025-08-24T00:25:03Z",
+      "Title": "C# Linnux Ubuntu install not runnign dotnet run",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744625/c-sharp-linnux-ubuntu-install-not-runnign-dotnet-run"
+    }
+  ]
+}

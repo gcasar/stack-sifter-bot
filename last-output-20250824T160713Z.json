@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-24T15:53:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T15:08:24Z",
+      "Title": "How the recursion in python works while finding the longest increasing sequence? [closed]",
+      "Tags": [
+        "python",
+        "function",
+        "recursion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744967/how-the-recursion-in-python-works-while-finding-the-longest-increasing-sequence"
+    },
+    {
+      "Created": "2025-08-24T15:21:12Z",
+      "Title": "JAX scanning over a array with additional argument",
+      "Tags": [
+        "python",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744979/jax-scanning-over-a-array-with-additional-argument"
+    },
+    {
+      "Created": "2025-08-24T15:28:10Z",
+      "Title": "How to persist all form inputs and images for multiple courses after refresh in ASP.NET MVC?",
+      "Tags": [
+        "c#",
+        "html",
+        "jquery",
+        "css",
+        "asp.net-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744985/how-to-persist-all-form-inputs-and-images-for-multiple-courses-after-refresh-in"
+    },
+    {
+      "Created": "2025-08-24T15:34:35Z",
+      "Title": "Can I use aws sso login when I don\u0027t have a browser because there is no GUI?",
+      "Tags": [
+        "amazon-web-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744988/can-i-use-aws-sso-login-when-i-dont-have-a-browser-because-there-is-no-gui"
+    },
+    {
+      "Created": "2025-08-24T15:35:07Z",
+      "Title": "PHP preg_replace problem, add space before and after a slash everytime slash is preceded by an alphabetic char",
+      "Tags": [
+        "php",
+        "preg-replace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744989/php-preg-replace-problem-add-space-before-and-after-a-slash-everytime-slash-is"
+    },
+    {
+      "Created": "2025-08-24T15:42:59Z",
+      "Title": "How can I initialize TFT_eSprite to use with an esp32?",
+      "Tags": [
+        "esp32",
+        "arduino-esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744993/how-can-i-initialize-tft-esprite-to-use-with-an-esp32"
+    },
+    {
+      "Created": "2025-08-24T15:53:31Z",
+      "Title": "How do I create an Android home screen shortcut or icon to run a Pydroid 3 script?",
+      "Tags": [
+        "pydroid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744999/how-do-i-create-an-android-home-screen-shortcut-or-icon-to-run-a-pydroid-3-scrip"
+    }
+  ]
+}

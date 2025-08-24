@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-24T14:03:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T13:49:05Z",
+      "Title": "Why I need to assign the result of a order by LINQ query to a variable to get the sorted list in C#?",
+      "Tags": [
+        "c#",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744916/why-i-need-to-assign-the-result-of-a-order-by-linq-query-to-a-variable-to-get-th"
+    },
+    {
+      "Created": "2025-08-24T13:53:39Z",
+      "Title": "Printk message for debug are not seen in dmesg",
+      "Tags": [
+        "c",
+        "printk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744920/printk-message-for-debug-are-not-seen-in-dmesg"
+    },
+    {
+      "Created": "2025-08-24T13:55:10Z",
+      "Title": "How to avoid System.ArgumentException: \u0027Parameter is not valid.\u0027 when code-creating polygon vertices",
+      "Tags": [
+        "vb.net",
+        "winforms",
+        "graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744921/how-to-avoid-system-argumentexception-parameter-is-not-valid-when-code-creat"
+    },
+    {
+      "Created": "2025-08-24T13:56:59Z",
+      "Title": "PrimeNG: Is p-steps the right choice over p-stepper when using SpreadJS in a wizard?",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript",
+        "primeng",
+        "spreadjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744923/primeng-is-p-steps-the-right-choice-over-p-stepper-when-using-spreadjs-in-a-wiz"
+    },
+    {
+      "Created": "2025-08-24T13:59:27Z",
+      "Title": "CompletableFuture: like anyOf() but return a new CompletableFuture that is completed when any of the given CompletableFutures return not null",
+      "Tags": [
+        "java",
+        "concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744924/completablefuture-like-anyof-but-return-a-new-completablefuture-that-is-compl"
+    },
+    {
+      "Created": "2025-08-24T14:02:23Z",
+      "Title": "How to train Vanna AI to distinguish between two similar tables and their column values?",
+      "Tags": [
+        "python",
+        "sql",
+        "nlp",
+        "large-language-model",
+        "openai-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744926/how-to-train-vanna-ai-to-distinguish-between-two-similar-tables-and-their-column"
+    },
+    {
+      "Created": "2025-08-24T14:03:23Z",
+      "Title": "ShadCN \u003CSelect\u003E not showing Formik initial value when data comes from backend",
+      "Tags": [
+        "reactjs",
+        "vite",
+        "formik",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744928/shadcn-select-not-showing-formik-initial-value-when-data-comes-from-backend"
+    }
+  ]
+}

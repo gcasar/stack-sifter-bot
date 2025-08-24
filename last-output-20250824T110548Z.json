@@ -1,0 +1,31 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-24T10:26:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T10:17:49Z",
+      "Title": "Flutter application can\u0027t run in debug mode in emulator",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744787/flutter-application-cant-run-in-debug-mode-in-emulator"
+    },
+    {
+      "Created": "2025-08-24T10:22:24Z",
+      "Title": "Tkinter registers keypress when it is not pressed [duplicate]",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744790/tkinter-registers-keypress-when-it-is-not-pressed"
+    },
+    {
+      "Created": "2025-08-24T10:26:38Z",
+      "Title": "Is ArrayList in 0.15.1 slower than ArrayList 0.14.1?",
+      "Tags": [
+        "zig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744792/is-arraylist-in-0-15-1-slower-than-arraylist-0-14-1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-24T03:04:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T02:49:30Z",
+      "Title": "Title: How do I refactor this Firestore mock from Jest to Vitest (mocking writeBatch, setDoc, updateDoc)?",
+      "Tags": [
+        "ts-jest",
+        "vitest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744653/title-how-do-i-refactor-this-firestore-mock-from-jest-to-vitest-mocking-writeb"
+    },
+    {
+      "Created": "2025-08-24T03:04:02Z",
+      "Title": "To achieve Module federation from Vite singlespa to Vue cli single spa",
+      "Tags": [
+        "vue.js",
+        "vuejs3",
+        "vite",
+        "single-page-application"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744656/to-achieve-module-federation-from-vite-singlespa-to-vue-cli-single-spa"
+    }
+  ]
+}

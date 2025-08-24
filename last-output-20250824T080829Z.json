@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-24T08:06:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T07:31:26Z",
+      "Title": "Zerobrane Path not finding files...how do I set it?",
+      "Tags": [
+        "lua",
+        "path"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744721/zerobrane-path-not-finding-files-how-do-i-set-it"
+    },
+    {
+      "Created": "2025-08-24T07:45:02Z",
+      "Title": "Does AWS DMS support S3 source with CSV GZIP files?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "gzip",
+        "database-migration",
+        "dms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744726/does-aws-dms-support-s3-source-with-csv-gzip-files"
+    },
+    {
+      "Created": "2025-08-24T07:55:35Z",
+      "Title": "Trigger DBT core jobs for Snowflake using Airflow",
+      "Tags": [
+        "python",
+        "snowflake-cloud-data-platform",
+        "airflow",
+        "dbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744735/trigger-dbt-core-jobs-for-snowflake-using-airflow"
+    },
+    {
+      "Created": "2025-08-24T07:59:50Z",
+      "Title": "What is the difference between ArrayList and LinkedList in Java?",
+      "Tags": [
+        "java",
+        "arraylist",
+        "collections",
+        "linked-list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744736/what-is-the-difference-between-arraylist-and-linkedlist-in-java"
+    },
+    {
+      "Created": "2025-08-24T08:06:55Z",
+      "Title": "Optimizing batch processing with similarity constraint an materialized view refreshes",
+      "Tags": [
+        "java",
+        "batch-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744738/optimizing-batch-processing-with-similarity-constraint-an-materialized-view-refr"
+    }
+  ]
+}

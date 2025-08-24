@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-24T22:17:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T22:17:06Z",
+      "Title": "How do I add requirements.txt to Digital Ocean\u0027s Serverless Functions? Runtime Python:3.11 does not have all the libraries I need Installed",
+      "Tags": [
+        "deployment",
+        "digital-ocean",
+        "serverless",
+        "requirements.txt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745200/how-do-i-add-requirements-txt-to-digital-oceans-serverless-functions-runtime-p"
+    }
+  ]
+}

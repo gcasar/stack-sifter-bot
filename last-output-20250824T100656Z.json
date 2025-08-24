@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-24T09:59:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T09:50:00Z",
+      "Title": "How can I parse a string to a float in C in a way that isn\u0027t affected by the current locale?",
+      "Tags": [
+        "c",
+        "parsing",
+        "floating-point",
+        "internationalization",
+        "locale"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744769/how-can-i-parse-a-string-to-a-float-in-c-in-a-way-that-isnt-affected-by-the-cur"
+    },
+    {
+      "Created": "2025-08-24T09:59:46Z",
+      "Title": "How to execute non-transactional statements like CREATE DATABASE in libpqxx?",
+      "Tags": [
+        "postgresql",
+        "libpq",
+        "libpqxx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744777/how-to-execute-non-transactional-statements-like-create-database-in-libpqxx"
+    }
+  ]
+}

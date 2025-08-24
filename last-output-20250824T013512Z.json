@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-24T00:58:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T00:57:04Z",
+      "Title": "How to disable hovering API Documentation in VS Code?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "visual-studio-code",
+        "intellisense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744633/how-to-disable-hovering-api-documentation-in-vs-code"
+    },
+    {
+      "Created": "2025-08-24T00:58:37Z",
+      "Title": "Framing verification issue on mutable array in a typical ArrayList Insert operation",
+      "Tags": [
+        "arrays",
+        "arraylist",
+        "dafny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79744634/framing-verification-issue-on-mutable-array-in-a-typical-arraylist-insert-operat"
+    }
+  ]
+}

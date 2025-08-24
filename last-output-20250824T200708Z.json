@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-24T20:02:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T19:11:10Z",
+      "Title": "How do I distinguish between query and mutation in runtime?",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "react-query",
+        "trpc",
+        "nextjs-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745116/how-do-i-distinguish-between-query-and-mutation-in-runtime"
+    },
+    {
+      "Created": "2025-08-24T19:56:44Z",
+      "Title": "How to send signal to a running python script in wsl terminal",
+      "Tags": [
+        "python",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745143/how-to-send-signal-to-a-running-python-script-in-wsl-terminal"
+    },
+    {
+      "Created": "2025-08-24T19:58:17Z",
+      "Title": "How to make query with the same result but without conditions after \u0027ON\u0027?",
+      "Tags": [
+        "sql",
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745144/how-to-make-query-with-the-same-result-but-without-conditions-after-on"
+    },
+    {
+      "Created": "2025-08-24T19:59:37Z",
+      "Title": "convert default vsc theme to vs",
+      "Tags": [
+        "visual-studio",
+        "themes",
+        "converters",
+        "default"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745147/convert-default-vsc-theme-to-vs"
+    },
+    {
+      "Created": "2025-08-24T20:02:37Z",
+      "Title": "AzureML- Unable to deploy the mode after creating the endpoint",
+      "Tags": [
+        "azure",
+        "azure-machine-learning-service",
+        "azure-ml-pipelines",
+        "azure-ml-component"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745148/azureml-unable-to-deploy-the-mode-after-creating-the-endpoint"
+    }
+  ]
+}

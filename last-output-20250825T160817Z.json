@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-25T16:05:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T15:14:07Z",
+      "Title": "VBA if cells between number values then delete row",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745928/vba-if-cells-between-number-values-then-delete-row"
+    },
+    {
+      "Created": "2025-08-25T15:18:52Z",
+      "Title": "Handling navigation start destination based on access token availability",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745931/handling-navigation-start-destination-based-on-access-token-availability"
+    },
+    {
+      "Created": "2025-08-25T15:21:14Z",
+      "Title": "Why can\u0027t my if statement loop on Arduino IDE?",
+      "Tags": [
+        "c",
+        "arduino",
+        "arduino-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745934/why-cant-my-if-statement-loop-on-arduino-ide"
+    },
+    {
+      "Created": "2025-08-25T16:04:39Z",
+      "Title": "Starting multiprocessing.Process() in a Pytest test creates a Windows fatal exception: access violation",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "multiprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745977/starting-multiprocessing-process-in-a-pytest-test-creates-a-windows-fatal-exce"
+    },
+    {
+      "Created": "2025-08-25T16:05:43Z",
+      "Title": "How to check if the logged-in user has a custom role in OJS 3.5 plugin development?",
+      "Tags": [
+        "php",
+        "plugins",
+        "ojs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745978/how-to-check-if-the-logged-in-user-has-a-custom-role-in-ojs-3-5-plugin-developme"
+    }
+  ]
+}

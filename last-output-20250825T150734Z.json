@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-25T15:01:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T14:25:03Z",
+      "Title": "How to prevent the apparition of NULL characters in my CSV file when the recording is interrupted by a reboot",
+      "Tags": [
+        "python",
+        "embedded",
+        "debian"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745874/how-to-prevent-the-apparition-of-null-characters-in-my-csv-file-when-the-recordi"
+    },
+    {
+      "Created": "2025-08-25T14:37:21Z",
+      "Title": "Fast plotly updating inside Jupyter",
+      "Tags": [
+        "python",
+        "plotly",
+        "jupyter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745884/fast-plotly-updating-inside-jupyter"
+    },
+    {
+      "Created": "2025-08-25T14:55:08Z",
+      "Title": "Error : Please provide the path to the JSON file as an argument [closed]",
+      "Tags": [
+        "python",
+        "bash",
+        "algorithm",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745905/error-please-provide-the-path-to-the-json-file-as-an-argument"
+    },
+    {
+      "Created": "2025-08-25T14:57:52Z",
+      "Title": "View Animation / Transaction does not work when embedded in UIViewControllerRepresentable",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "uiviewcontrollerrepresentable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745911/view-animation-transaction-does-not-work-when-embedded-in-uiviewcontrollerrepr"
+    },
+    {
+      "Created": "2025-08-25T14:58:47Z",
+      "Title": "Hide legend labels with underscore in matplotlib\u003E3.10",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "seaborn",
+        "legend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745913/hide-legend-labels-with-underscore-in-matplotlib3-10"
+    },
+    {
+      "Created": "2025-08-25T14:59:42Z",
+      "Title": "VSC with Spring Boot Tools extension cannot use multiple projects within the same VSCodium workspace",
+      "Tags": [
+        "vscodium",
+        "spring-tools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745915/vsc-with-spring-boot-tools-extension-cannot-use-multiple-projects-within-the-sam"
+    },
+    {
+      "Created": "2025-08-25T15:01:07Z",
+      "Title": "ViTest Test.For and better test names?",
+      "Tags": [
+        "javascript",
+        "vitest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745917/vitest-test-for-and-better-test-names"
+    },
+    {
+      "Created": "2025-08-25T15:01:26Z",
+      "Title": ".net HttpClient: How to read multiple responses from one request?",
+      "Tags": [
+        ".net",
+        "dotnet-httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745918/net-httpclient-how-to-read-multiple-responses-from-one-request"
+    }
+  ]
+}

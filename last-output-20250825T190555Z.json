@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-25T18:32:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T18:23:42Z",
+      "Title": "Can\u0027t get pybtex to parse BibTeX data",
+      "Tags": [
+        "python",
+        "pybtex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746089/cant-get-pybtex-to-parse-bibtex-data"
+    },
+    {
+      "Created": "2025-08-25T18:24:50Z",
+      "Title": "What controls the -j option in a CMake build in Visual Studio Code?",
+      "Tags": [
+        "visual-studio-code",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746091/what-controls-the-j-option-in-a-cmake-build-in-visual-studio-code"
+    },
+    {
+      "Created": "2025-08-25T18:32:32Z",
+      "Title": "How to correctly opt-in to Experimental APIs in Kotlin Multiplatform \u002B Compose?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "gradle",
+        "android-jetpack-compose",
+        "gradle-kotlin-dsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746095/how-to-correctly-opt-in-to-experimental-apis-in-kotlin-multiplatform-compose"
+    }
+  ]
+}

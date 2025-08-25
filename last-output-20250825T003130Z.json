@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-24T23:44:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-24T23:35:35Z",
+      "Title": "Feasibility and scalability of a 12\u201315 field compound index in MongoDB",
+      "Tags": [
+        "mongodb",
+        "mongodb-query",
+        "aggregation-framework",
+        "mongodb-indexes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745229/feasibility-and-scalability-of-a-12-15-field-compound-index-in-mongodb"
+    },
+    {
+      "Created": "2025-08-24T23:38:20Z",
+      "Title": "Issue with UndoRecord.StartCustomRecord in VSTO add-in: Undo stack breaks after bullet/numbering",
+      "Tags": [
+        "c#",
+        "vsto",
+        "office-interop",
+        "word-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745231/issue-with-undorecord-startcustomrecord-in-vsto-add-in-undo-stack-breaks-after"
+    },
+    {
+      "Created": "2025-08-24T23:44:24Z",
+      "Title": "pandas conert date failed - pd.to_datetime(df[\u0027xxx\u0027], format=\u0027%Y-%m-%d\u0027).dt.date",
+      "Tags": [
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745232/pandas-conert-date-failed-pd-to-datetimedfxxx-format-y-m-d-dt-date"
+    }
+  ]
+}

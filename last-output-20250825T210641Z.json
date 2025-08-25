@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-25T21:00:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T20:46:34Z",
+      "Title": "How to display Polars list columns in NiceGUI",
+      "Tags": [
+        "python",
+        "python-polars",
+        "nicegui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746181/how-to-display-polars-list-columns-in-nicegui"
+    },
+    {
+      "Created": "2025-08-25T21:00:33Z",
+      "Title": "Multiple requests in for loop using asyncio/aiohttp",
+      "Tags": [
+        "python",
+        "asynchronous",
+        "async-await",
+        "concurrency",
+        "aiohttp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746194/multiple-requests-in-for-loop-using-asyncio-aiohttp"
+    }
+  ]
+}

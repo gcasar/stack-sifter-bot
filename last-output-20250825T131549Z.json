@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-25T13:12:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T13:10:50Z",
+      "Title": "Where can I find the types of Vuetify components\u2019 events and props?",
+      "Tags": [
+        "typescript",
+        "vue.js",
+        "vuetifyjs3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745802/where-can-i-find-the-types-of-vuetify-components-events-and-props"
+    },
+    {
+      "Created": "2025-08-25T13:11:31Z",
+      "Title": "GSAP pin still causes vertical scrolling but horizontal scrolling to happen at the same time",
+      "Tags": [
+        "javascript",
+        "gsap",
+        "scrolltrigger"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745804/gsap-pin-still-causes-vertical-scrolling-but-horizontal-scrolling-to-happen-at-t"
+    },
+    {
+      "Created": "2025-08-25T13:12:33Z",
+      "Title": "Guidelines for including Windows Headers in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745805/guidelines-for-including-windows-headers-in-c"
+    }
+  ]
+}

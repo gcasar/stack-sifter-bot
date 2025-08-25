@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-25T03:17:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T02:47:49Z",
+      "Title": "Flutter - Unable to call provider of parent route",
+      "Tags": [
+        "flutter",
+        "flutter-go-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745307/flutter-unable-to-call-provider-of-parent-route"
+    },
+    {
+      "Created": "2025-08-25T02:49:19Z",
+      "Title": "WinUI 3 SwapChainPanel does not receive KeyDown events (C#)",
+      "Tags": [
+        "c#",
+        "winui-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745308/winui-3-swapchainpanel-does-not-receive-keydown-events-c"
+    },
+    {
+      "Created": "2025-08-25T03:03:22Z",
+      "Title": "How to load Tiled (.tmx) map in Flutter with Flame?",
+      "Tags": [
+        "flutter",
+        "assets",
+        "tiled",
+        "flame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745314/how-to-load-tiled-tmx-map-in-flutter-with-flame"
+    },
+    {
+      "Created": "2025-08-25T03:04:06Z",
+      "Title": "Generate a new spreadsheet from a template populated by data from a different spreadsheet",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745315/generate-a-new-spreadsheet-from-a-template-populated-by-data-from-a-different-sp"
+    },
+    {
+      "Created": "2025-08-25T03:17:33Z",
+      "Title": "glmmTMB with smooth terms and random slopes",
+      "Tags": [
+        "glmmtmb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745318/glmmtmb-with-smooth-terms-and-random-slopes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-25T20:05:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T19:13:29Z",
+      "Title": "Python injector doesn\u0027t work for NewType based on tuple[str, str]",
+      "Tags": [
+        "python",
+        "dependency-injection",
+        "injector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746113/python-injector-doesnt-work-for-newtype-based-on-tuplestr-str"
+    },
+    {
+      "Created": "2025-08-25T20:05:42Z",
+      "Title": "How to integrate Potree 2.0 format with Autodesk Forge Viewer?",
+      "Tags": [
+        "three.js",
+        "autodesk-forge",
+        "potree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746150/how-to-integrate-potree-2-0-format-with-autodesk-forge-viewer"
+    }
+  ]
+}

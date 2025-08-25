@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-25T05:46:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T05:32:13Z",
+      "Title": "self-join on table to find missing entries with conditions",
+      "Tags": [
+        "sql",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745378/self-join-on-table-to-find-missing-entries-with-conditions"
+    },
+    {
+      "Created": "2025-08-25T05:32:14Z",
+      "Title": "How to apply CSRF defense to axios requests globally?",
+      "Tags": [
+        "axios",
+        "csrf",
+        "csrf-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745379/how-to-apply-csrf-defense-to-axios-requests-globally"
+    },
+    {
+      "Created": "2025-08-25T05:39:46Z",
+      "Title": "NiFi Custom Python Processors\u0027 old Versions",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "apache-nifi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745381/nifi-custom-python-processors-old-versions"
+    },
+    {
+      "Created": "2025-08-25T05:46:33Z",
+      "Title": "WooCommerce REST API custom endpoint returns 400 No image data provided when uploading base64 image [closed]",
+      "Tags": [
+        "javascript",
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745384/woocommerce-rest-api-custom-endpoint-returns-400-no-image-data-provided-when-upl"
+    }
+  ]
+}

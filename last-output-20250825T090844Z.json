@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-25T09:08:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T08:43:21Z",
+      "Title": "Stop Condition for Self-Referential Marcos",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "recursion",
+        "macros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745510/stop-condition-for-self-referential-marcos"
+    },
+    {
+      "Created": "2025-08-25T08:46:14Z",
+      "Title": "MIPI DSI Panel working with Pi 5 but not CM4",
+      "Tags": [
+        "raspberry-pi",
+        "display",
+        "raspberry-pi4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745511/mipi-dsi-panel-working-with-pi-5-but-not-cm4"
+    },
+    {
+      "Created": "2025-08-25T08:47:01Z",
+      "Title": "Use of deeplink/calls in Microsoft Teams JS",
+      "Tags": [
+        "reactjs",
+        "microsoft-teams",
+        "microsoft-teams-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745513/use-of-deeplink-calls-in-microsoft-teams-js"
+    },
+    {
+      "Created": "2025-08-25T09:05:40Z",
+      "Title": "Configure .NET Core 9 with OpenIddict in Docker",
+      "Tags": [
+        "c#",
+        "docker",
+        "asp.net-core",
+        "openiddict"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745531/configure-net-core-9-with-openiddict-in-docker"
+    },
+    {
+      "Created": "2025-08-25T09:06:33Z",
+      "Title": "How to access svelte web app variables from the browser console?",
+      "Tags": [
+        "javascript",
+        "browser",
+        "console",
+        "svelte",
+        "svelte-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745532/how-to-access-svelte-web-app-variables-from-the-browser-console"
+    },
+    {
+      "Created": "2025-08-25T09:08:29Z",
+      "Title": "Django join where values not null",
+      "Tags": [
+        "python",
+        "sql",
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745533/django-join-where-values-not-null"
+    }
+  ]
+}

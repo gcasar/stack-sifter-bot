@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-25T10:02:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T09:59:20Z",
+      "Title": "How can I make the hidden div to fade in when the slide changes?",
+      "Tags": [
+        "javascript",
+        "jquery",
+        "dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745587/how-can-i-make-the-hidden-div-to-fade-in-when-the-slide-changes"
+    },
+    {
+      "Created": "2025-08-25T10:00:51Z",
+      "Title": "Windows 11: private key not usable when protected vbs \u002B high security (password)",
+      "Tags": [
+        "c#",
+        ".net-8.0",
+        "private-key",
+        "windows-11",
+        "cng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745589/windows-11-private-key-not-usable-when-protected-vbs-high-security-password"
+    },
+    {
+      "Created": "2025-08-25T10:02:16Z",
+      "Title": "Fabric js is not doing anything in the canvas",
+      "Tags": [
+        "angular",
+        "fabricjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745590/fabric-js-is-not-doing-anything-in-the-canvas"
+    }
+  ]
+}

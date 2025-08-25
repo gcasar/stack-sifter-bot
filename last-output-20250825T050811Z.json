@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-25T05:05:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T04:35:31Z",
+      "Title": "Optional dummy argument of a subroutine: I need to pass to an object of the base type instead of any derived type from this base type",
+      "Tags": [
+        "fortran",
+        "gfortran",
+        "derived-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745347/optional-dummy-argument-of-a-subroutine-i-need-to-pass-to-an-object-of-the-base"
+    },
+    {
+      "Created": "2025-08-25T04:42:17Z",
+      "Title": "Reducing Latency in Pixel Scanning for Input Simulation",
+      "Tags": [
+        "python",
+        "winapi",
+        "time",
+        "keyboard",
+        "pyautogui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745349/reducing-latency-in-pixel-scanning-for-input-simulation"
+    },
+    {
+      "Created": "2025-08-25T04:44:00Z",
+      "Title": "Get the attribute data by another attribute beautifulsoup",
+      "Tags": [
+        "python",
+        "beautifulsoup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745352/get-the-attribute-data-by-another-attribute-beautifulsoup"
+    },
+    {
+      "Created": "2025-08-25T05:01:58Z",
+      "Title": "syntax error when using \u0022Here String\u0022 operator \u003C\u003C\u003C",
+      "Tags": [
+        "linux",
+        "shell",
+        "sh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745360/syntax-error-when-using-here-string-operator"
+    },
+    {
+      "Created": "2025-08-25T05:05:20Z",
+      "Title": "LoadCredential does not seem to work when running systemd in a container",
+      "Tags": [
+        "docker",
+        "debian",
+        "systemd",
+        "podman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745362/loadcredential-does-not-seem-to-work-when-running-systemd-in-a-container"
+    }
+  ]
+}

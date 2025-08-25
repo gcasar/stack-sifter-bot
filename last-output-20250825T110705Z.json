@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-25T10:50:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T10:32:25Z",
+      "Title": "Parameter 0 of method entityManagerFactory in PrimaryDataSourceConfig required a bean of type EntityManagerFactoryBuilder that could not be found",
+      "Tags": [
+        "java",
+        "postgresql",
+        "spring-boot",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745618/parameter-0-of-method-entitymanagerfactory-in-primarydatasourceconfig-required-a"
+    },
+    {
+      "Created": "2025-08-25T10:50:13Z",
+      "Title": "Problem: Jerky Rotation of Square in Vulkan Application",
+      "Tags": [
+        "c\u002B\u002B",
+        "vulkan",
+        "glm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745645/problem-jerky-rotation-of-square-in-vulkan-application"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-25T08:03:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T07:49:52Z",
+      "Title": "Nx Monorepo enable hot reload in a container",
+      "Tags": [
+        "docker",
+        "nestjs",
+        "podman",
+        "nx-monorepo",
+        "podman-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745463/nx-monorepo-enable-hot-reload-in-a-container"
+    },
+    {
+      "Created": "2025-08-25T07:53:50Z",
+      "Title": "Developing a NetBeans module, how to create a IDE menu item with an accelerator?",
+      "Tags": [
+        "netbeans-platform",
+        "netbeans-plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745466/developing-a-netbeans-module-how-to-create-a-ide-menu-item-with-an-accelerator"
+    },
+    {
+      "Created": "2025-08-25T07:57:01Z",
+      "Title": "How to export MongoDB Atlas cluster usage metrics?",
+      "Tags": [
+        "mongodb",
+        "mongodb-atlas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745470/how-to-export-mongodb-atlas-cluster-usage-metrics"
+    },
+    {
+      "Created": "2025-08-25T08:01:03Z",
+      "Title": "How to bypass bot detection in Cypress for UI automation?",
+      "Tags": [
+        "javascript",
+        "cypress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745475/how-to-bypass-bot-detection-in-cypress-for-ui-automation"
+    },
+    {
+      "Created": "2025-08-25T08:03:10Z",
+      "Title": "How to suppress this false positive warning from Clang static code analyzer?",
+      "Tags": [
+        "c",
+        "visual-studio-2022",
+        "compiler-warnings",
+        "static-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745478/how-to-suppress-this-false-positive-warning-from-clang-static-code-analyzer"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-25T02:36:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T01:56:13Z",
+      "Title": "HttpMethod.Post gives an 401 error even though it was supplied with credentials",
+      "Tags": [
+        "blazor-webassembly",
+        "windows-authentication",
+        "iis-express",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745284/httpmethod-post-gives-an-401-error-even-though-it-was-supplied-with-credentials"
+    },
+    {
+      "Created": "2025-08-25T01:58:41Z",
+      "Title": "Key Press Issue: \u0060~RAlt\u0060 Not Recognized in AutoHotkey",
+      "Tags": [
+        "autohotkey-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745286/key-press-issue-ralt-not-recognized-in-autohotkey"
+    },
+    {
+      "Created": "2025-08-25T02:36:39Z",
+      "Title": "attributes in a class",
+      "Tags": [
+        "python",
+        "class",
+        "attributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745303/attributes-in-a-class"
+    }
+  ]
+}

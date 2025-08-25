@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-25T18:04:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T17:52:39Z",
+      "Title": "QT Updating mouse cursor based on whats underneath",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "cursor",
+        "mouse",
+        "qtreeview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746069/qt-updating-mouse-cursor-based-on-whats-underneath"
+    },
+    {
+      "Created": "2025-08-25T17:54:13Z",
+      "Title": "How to connect html-minifier-next to gulp",
+      "Tags": [
+        "javascript",
+        "gulp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746071/how-to-connect-html-minifier-next-to-gulp"
+    },
+    {
+      "Created": "2025-08-25T17:57:04Z",
+      "Title": "How to extend this socket web server to handle multiple clients",
+      "Tags": [
+        "python-3.x",
+        "webserver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746073/how-to-extend-this-socket-web-server-to-handle-multiple-clients"
+    },
+    {
+      "Created": "2025-08-25T18:04:22Z",
+      "Title": "How do I get polygon rect without drawing it?",
+      "Tags": [
+        "python",
+        "pygame",
+        "drawing",
+        "polygon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746077/how-do-i-get-polygon-rect-without-drawing-it"
+    }
+  ]
+}

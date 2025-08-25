@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-25T14:03:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T13:49:40Z",
+      "Title": "Flutter: How to hide bottom navigation bar on specific pages for mobile only while keeping sidebar on desktop?",
+      "Tags": [
+        "flutter",
+        "responsive-design",
+        "flutter-navigation",
+        "auto-route"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745846/flutter-how-to-hide-bottom-navigation-bar-on-specific-pages-for-mobile-only-whi"
+    },
+    {
+      "Created": "2025-08-25T13:50:11Z",
+      "Title": "How to make use of Windows trust store when using SSL?",
+      "Tags": [
+        "java",
+        "ssl",
+        "ssl-certificate",
+        "apache-httpclient-5.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745847/how-to-make-use-of-windows-trust-store-when-using-ssl"
+    },
+    {
+      "Created": "2025-08-25T13:51:29Z",
+      "Title": "Azurite in Aspire Integration test",
+      "Tags": [
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745849/azurite-in-aspire-integration-test"
+    },
+    {
+      "Created": "2025-08-25T14:03:22Z",
+      "Title": "How to replace duplicate components by custom property in large SolidWorks assemblies using VBA?",
+      "Tags": [
+        "vba",
+        "solidworks",
+        "solidworksapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745858/how-to-replace-duplicate-components-by-custom-property-in-large-solidworks-assem"
+    }
+  ]
+}

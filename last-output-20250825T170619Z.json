@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-25T17:02:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T16:08:17Z",
+      "Title": "How to find the table name and when it is last used in PostgreSQL?",
+      "Tags": [
+        "postgresql",
+        "google-cloud-sql",
+        "pgadmin",
+        "google-cloud-monitoring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745982/how-to-find-the-table-name-and-when-it-is-last-used-in-postgresql"
+    },
+    {
+      "Created": "2025-08-25T16:52:47Z",
+      "Title": "Serializing and compressing std::map using Boost",
+      "Tags": [
+        "c\u002B\u002B",
+        "serialization",
+        "boost",
+        "compression",
+        "deserialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746016/serializing-and-compressing-stdmap-using-boost"
+    },
+    {
+      "Created": "2025-08-25T16:58:42Z",
+      "Title": "Support for AWS IoT Events ending on May 20, 2026 - Does this affect AWS IoT Message Routing?",
+      "Tags": [
+        "aws-iot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746023/support-for-aws-iot-events-ending-on-may-20-2026-does-this-affect-aws-iot-mes"
+    },
+    {
+      "Created": "2025-08-25T17:02:19Z",
+      "Title": "How to show an emoji in text in a widget in iOS 26?",
+      "Tags": [
+        "swiftui",
+        "ios26",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746029/how-to-show-an-emoji-in-text-in-a-widget-in-ios-26"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-25T12:08:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T11:10:49Z",
+      "Title": "Treelib does not show hierarchical tree node data",
+      "Tags": [
+        "python",
+        "tree",
+        "treelib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745665/treelib-does-not-show-hierarchical-tree-node-data"
+    },
+    {
+      "Created": "2025-08-25T11:53:02Z",
+      "Title": "How to calculate a user\u2019s age from a DateField in Flask-WTF?",
+      "Tags": [
+        "python",
+        "date",
+        "flask",
+        "flask-wtforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745716/how-to-calculate-a-user-s-age-from-a-datefield-in-flask-wtf"
+    },
+    {
+      "Created": "2025-08-25T11:54:35Z",
+      "Title": "How to implement Triple Dispatch in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multiple-dispatch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745719/how-to-implement-triple-dispatch-in-c"
+    },
+    {
+      "Created": "2025-08-25T11:57:11Z",
+      "Title": "Tesseract OCR cannot read dotted LED digits on MAUI/Xamarin",
+      "Tags": [
+        "python",
+        "c#",
+        "image-processing",
+        "maui",
+        "tesseract"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745722/tesseract-ocr-cannot-read-dotted-led-digits-on-maui-xamarin"
+    },
+    {
+      "Created": "2025-08-25T12:07:42Z",
+      "Title": "Tkinter canvas image probably being garbage collected but creating a persistent reference does not solve the problem",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745733/tkinter-canvas-image-probably-being-garbage-collected-but-creating-a-persistent"
+    },
+    {
+      "Created": "2025-08-25T12:08:33Z",
+      "Title": "Is there any way to bulk-allow all tools of an MCP server in Claude Code?",
+      "Tags": [
+        "claude",
+        "claude-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79745734/is-there-any-way-to-bulk-allow-all-tools-of-an-mcp-server-in-claude-code"
+    }
+  ]
+}

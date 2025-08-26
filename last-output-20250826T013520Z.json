@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-26T01:33:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T00:52:38Z",
+      "Title": "Struggling with In-App Subscription Testing on Device",
+      "Tags": [
+        "ios",
+        "xcode",
+        "in-app-purchase",
+        "subscription"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746306/struggling-with-in-app-subscription-testing-on-device"
+    },
+    {
+      "Created": "2025-08-26T00:57:05Z",
+      "Title": "Extending sympy variable definition to binary",
+      "Tags": [
+        "python",
+        "sympy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746308/extending-sympy-variable-definition-to-binary"
+    },
+    {
+      "Created": "2025-08-26T01:12:19Z",
+      "Title": "SHBrowseForFolder crash into ntdll.dll",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746328/shbrowseforfolder-crash-into-ntdll-dll"
+    },
+    {
+      "Created": "2025-08-26T01:13:13Z",
+      "Title": "How to save Google OAuth user login data to MySQL database",
+      "Tags": [
+        "php",
+        "mysql",
+        "mysqli",
+        "google-oauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746329/how-to-save-google-oauth-user-login-data-to-mysql-database"
+    },
+    {
+      "Created": "2025-08-26T01:15:58Z",
+      "Title": "Speed changing too much on a moving pygame object",
+      "Tags": [
+        "python",
+        "pygame",
+        "game-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746330/speed-changing-too-much-on-a-moving-pygame-object"
+    },
+    {
+      "Created": "2025-08-26T01:29:11Z",
+      "Title": "C\u002B\u002B: modifying one global modifies an unrelated one. Why?",
+      "Tags": [
+        "c\u002B\u002B",
+        "memory",
+        "visual-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746335/c-modifying-one-global-modifies-an-unrelated-one-why"
+    },
+    {
+      "Created": "2025-08-26T01:33:52Z",
+      "Title": "Getting an Error CS1061 on My Project Using Forms (Designer.cs)",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746339/getting-an-error-cs1061-on-my-project-using-forms-designer-cs"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-26T18:08:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T17:51:11Z",
+      "Title": "Django 1.5.1: diagnose and fix Report",
+      "Tags": [
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747160/django-1-5-1-diagnose-and-fix-report"
+    },
+    {
+      "Created": "2025-08-26T17:52:13Z",
+      "Title": "Streamlit: Manually setting Selectbox and Date_Input to values",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "parameters",
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747162/streamlit-manually-setting-selectbox-and-date-input-to-values"
+    },
+    {
+      "Created": "2025-08-26T17:54:56Z",
+      "Title": "Metafor forest plot - transformation to % when using double arcsine",
+      "Tags": [
+        "metafor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747163/metafor-forest-plot-transformation-to-when-using-double-arcsine"
+    },
+    {
+      "Created": "2025-08-26T18:01:27Z",
+      "Title": "RulesEngine type external not found error",
+      "Tags": [
+        "c#",
+        ".net",
+        "rule-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747166/rulesengine-type-external-not-found-error"
+    },
+    {
+      "Created": "2025-08-26T18:03:26Z",
+      "Title": "Prisma P1001 with Supabase direct connection (5432) \u2013 pooler works but direct fails",
+      "Tags": [
+        "postgresql",
+        "prisma",
+        "supabase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747170/prisma-p1001-with-supabase-direct-connection-5432-pooler-works-but-direct-fa"
+    },
+    {
+      "Created": "2025-08-26T18:04:14Z",
+      "Title": "Azure static web app deployment with managed function",
+      "Tags": [
+        "azure",
+        "azure-functions",
+        "azure-static-web-app"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747172/azure-static-web-app-deployment-with-managed-function"
+    },
+    {
+      "Created": "2025-08-26T18:06:25Z",
+      "Title": "CMD scripts executed from Docker CLI hangs",
+      "Tags": [
+        "windows",
+        "docker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747174/cmd-scripts-executed-from-docker-cli-hangs"
+    },
+    {
+      "Created": "2025-08-26T18:07:46Z",
+      "Title": "Specifying serial execution in grouped jobs in Snakemake workflows",
+      "Tags": [
+        "snakemake",
+        "snakemake-slurm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747177/specifying-serial-execution-in-grouped-jobs-in-snakemake-workflows"
+    },
+    {
+      "Created": "2025-08-26T18:08:16Z",
+      "Title": "The fclose in child process affects parent process\u0027 file operations when there is no fflush before fork",
+      "Tags": [
+        "linux",
+        "fork",
+        "glibc",
+        "fflush"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747178/the-fclose-in-child-process-affects-parent-process-file-operations-when-there-i"
+    }
+  ]
+}

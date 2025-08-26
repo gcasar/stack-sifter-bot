@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-26T07:55:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T07:37:37Z",
+      "Title": "onFocus listener in a React component won\u0027t trigger in Jest when doing component.dispatchEvent(new Event(\u0027focus\u0027))",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746539/onfocus-listener-in-a-react-component-wont-trigger-in-jest-when-doing-component"
+    },
+    {
+      "Created": "2025-08-26T07:55:04Z",
+      "Title": "How to prevent Angular View Transitions on layout switch and initial load in nested router outlets?",
+      "Tags": [
+        "angular",
+        "view-transitions-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746557/how-to-prevent-angular-view-transitions-on-layout-switch-and-initial-load-in-nes"
+    }
+  ]
+}

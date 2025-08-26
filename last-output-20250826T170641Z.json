@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-26T16:47:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T16:09:24Z",
+      "Title": "How to cast a timestamp to date in format YYYY-MM-DD in griddb",
+      "Tags": [
+        "sql",
+        "date",
+        "timestamp",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747062/how-to-cast-a-timestamp-to-date-in-format-yyyy-mm-dd-in-griddb"
+    },
+    {
+      "Created": "2025-08-26T16:16:58Z",
+      "Title": "LdapConnection.bind using NetworkConnection(username, password, domain) fails on localhost with \u0022LDAP server is unavailable\u0022",
+      "Tags": [
+        "asp.net-mvc",
+        "ldap",
+        "visual-studio-2022",
+        "windows-11",
+        "network-connection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747067/ldapconnection-bind-using-networkconnectionusername-password-domain-fails-on"
+    },
+    {
+      "Created": "2025-08-26T16:42:36Z",
+      "Title": "An intermmient XLib error when starting X from C [closed]",
+      "Tags": [
+        "c",
+        "x11",
+        "xlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747100/an-intermmient-xlib-error-when-starting-x-from-c"
+    },
+    {
+      "Created": "2025-08-26T16:46:26Z",
+      "Title": "Is there a way to have an angular component throw an actually fatal error?",
+      "Tags": [
+        "angular",
+        "error-handling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747105/is-there-a-way-to-have-an-angular-component-throw-an-actually-fatal-error"
+    },
+    {
+      "Created": "2025-08-26T16:47:09Z",
+      "Title": "How to weight MSE loss more on specific regions (like hands) when training a diffusion model?",
+      "Tags": [
+        "machine-learning",
+        "deep-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747106/how-to-weight-mse-loss-more-on-specific-regions-like-hands-when-training-a-dif"
+    }
+  ]
+}

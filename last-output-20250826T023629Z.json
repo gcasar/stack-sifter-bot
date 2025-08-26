@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-26T02:23:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T01:47:23Z",
+      "Title": "IPC collapse with larger loop bodies despite constant I-cache miss rate, what\u0027s the bottleneck?",
+      "Tags": [
+        "c",
+        "caching",
+        "perf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746346/ipc-collapse-with-larger-loop-bodies-despite-constant-i-cache-miss-rate-whats"
+    },
+    {
+      "Created": "2025-08-26T02:04:32Z",
+      "Title": "Qt, QSyntaxHighlighter, for some reasons formatting done by it is not reflecting in TextEdit qml",
+      "Tags": [
+        "c\u002B\u002B",
+        "qml",
+        "qt5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746355/qt-qsyntaxhighlighter-for-some-reasons-formatting-done-by-it-is-not-reflecting"
+    },
+    {
+      "Created": "2025-08-26T02:12:55Z",
+      "Title": "Favicon in NextJs 15 renders in only some browsers",
+      "Tags": [
+        "favicon",
+        "nextjs-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746359/favicon-in-nextjs-15-renders-in-only-some-browsers"
+    },
+    {
+      "Created": "2025-08-26T02:21:34Z",
+      "Title": "Add a clickable calendar icon in the header without using pseudo-elements",
+      "Tags": [
+        "blazor",
+        "blazor-webassembly",
+        "syncfusion-blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746362/add-a-clickable-calendar-icon-in-the-header-without-using-pseudo-elements"
+    },
+    {
+      "Created": "2025-08-26T02:23:40Z",
+      "Title": "Dynamically adding plots to dash",
+      "Tags": [
+        "python",
+        "plotly",
+        "plotly-dash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746363/dynamically-adding-plots-to-dash"
+    }
+  ]
+}

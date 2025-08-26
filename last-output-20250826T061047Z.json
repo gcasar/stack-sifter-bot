@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-26T06:03:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T05:35:30Z",
+      "Title": "StyleDictionary.create in Style dictionary v5.0.2 returns \u0022TypeError: StyleDictionary.create is not a function\u0022",
+      "Tags": [
+        "javascript",
+        "style-dictionary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746441/styledictionary-create-in-style-dictionary-v5-0-2-returns-typeerror-styledicti"
+    },
+    {
+      "Created": "2025-08-26T05:51:39Z",
+      "Title": "Excel Office.js displayDialogAsync fails with \u0022Internal Error\u0022 on Desktop version 2507",
+      "Tags": [
+        "javascript",
+        "excel",
+        "add-in"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746450/excel-office-js-displaydialogasync-fails-with-internal-error-on-desktop-versio"
+    },
+    {
+      "Created": "2025-08-26T05:52:43Z",
+      "Title": "Is there a way to set the text line height equal to its font size?",
+      "Tags": [
+        "kotlin",
+        "compose-multiplatform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746453/is-there-a-way-to-set-the-text-line-height-equal-to-its-font-size"
+    },
+    {
+      "Created": "2025-08-26T05:57:11Z",
+      "Title": "Why am I getting \u201CThis attempt to set a cookie via a Set-Cookie header was blocked due to user preference\u201D in my Next.js \u002B Express app?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "cookies"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746455/why-am-i-getting-this-attempt-to-set-a-cookie-via-a-set-cookie-header-was-block"
+    },
+    {
+      "Created": "2025-08-26T06:03:53Z",
+      "Title": "CFAST \u002B zero out complete media",
+      "Tags": [
+        "python",
+        "storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746460/cfast-zero-out-complete-media"
+    }
+  ]
+}

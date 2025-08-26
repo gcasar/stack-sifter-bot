@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-26T18:53:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T18:30:54Z",
+      "Title": "Compose Multiplatform - localized strings.xml files ordering for deterministic build",
+      "Tags": [
+        "kotlin",
+        "gradle",
+        "compose-multiplatform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747203/compose-multiplatform-localized-strings-xml-files-ordering-for-deterministic-b"
+    },
+    {
+      "Created": "2025-08-26T18:46:53Z",
+      "Title": "Problem in pie chart replacing query results by specific strings",
+      "Tags": [
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747217/problem-in-pie-chart-replacing-query-results-by-specific-strings"
+    },
+    {
+      "Created": "2025-08-26T18:48:01Z",
+      "Title": "What effect does defer have in a Go function with a single statement?",
+      "Tags": [
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747218/what-effect-does-defer-have-in-a-go-function-with-a-single-statement"
+    },
+    {
+      "Created": "2025-08-26T18:53:21Z",
+      "Title": "Change boot partition on Raspberry Pi",
+      "Tags": [
+        "linux",
+        "linux-kernel",
+        "filesystems",
+        "boot",
+        "ext4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747221/change-boot-partition-on-raspberry-pi"
+    }
+  ]
+}

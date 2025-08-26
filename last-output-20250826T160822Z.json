@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-26T16:04:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T15:15:23Z",
+      "Title": "How to send search term to ASP.NET MVC controller with NO CODEBEHIND [closed]",
+      "Tags": [
+        "asp.net-mvc",
+        "search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747011/how-to-send-search-term-to-asp-net-mvc-controller-with-no-codebehind"
+    },
+    {
+      "Created": "2025-08-26T15:53:28Z",
+      "Title": "Coloring individual lines in a FreeCAD TechDraw View",
+      "Tags": [
+        "cad",
+        "freecad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747040/coloring-individual-lines-in-a-freecad-techdraw-view"
+    },
+    {
+      "Created": "2025-08-26T15:53:49Z",
+      "Title": "Singleton pact flow mock server in Playwright fixture",
+      "Tags": [
+        "typescript",
+        "playwright",
+        "pact",
+        "pactflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747041/singleton-pact-flow-mock-server-in-playwright-fixture"
+    },
+    {
+      "Created": "2025-08-26T15:57:55Z",
+      "Title": "langchain4j mcp \u0026 memory - tool call",
+      "Tags": [
+        "openai-api",
+        "micronaut",
+        "langchain4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747045/langchain4j-mcp-memory-tool-call"
+    },
+    {
+      "Created": "2025-08-26T16:02:33Z",
+      "Title": "Autofac: ObjectDisposedException when resolving dependencies from factory delegate in ASP.NET Web API",
+      "Tags": [
+        "c#",
+        "asp.net-web-api",
+        "dependency-injection",
+        "autofac"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747050/autofac-objectdisposedexception-when-resolving-dependencies-from-factory-delega"
+    },
+    {
+      "Created": "2025-08-26T16:02:57Z",
+      "Title": "C Pointer Chain",
+      "Tags": [
+        "c",
+        "pointers",
+        "recursion",
+        "memory",
+        "readprocessmemory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747051/c-pointer-chain"
+    },
+    {
+      "Created": "2025-08-26T16:04:11Z",
+      "Title": "How to add FPS-like controls (WASD movement \u002B mouse rotation) to a Plotly 3D scatter plot in HTML?",
+      "Tags": [
+        "javascript",
+        "plotly",
+        "webgl",
+        "plotly-dash",
+        "plotly.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747053/how-to-add-fps-like-controls-wasd-movement-mouse-rotation-to-a-plotly-3d-sca"
+    }
+  ]
+}

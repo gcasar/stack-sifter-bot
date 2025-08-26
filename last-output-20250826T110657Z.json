@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-26T11:01:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T10:11:17Z",
+      "Title": "GNU ld - Don\u0027t allow multiple defintions (function symbols) or at least warn when found in single archive (*.a)",
+      "Tags": [
+        "c",
+        "assembly",
+        "ld",
+        "multiple-definition-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746690/gnu-ld-dont-allow-multiple-defintions-function-symbols-or-at-least-warn-whe"
+    },
+    {
+      "Created": "2025-08-26T10:39:55Z",
+      "Title": "Step condition is not preventing the test from running",
+      "Tags": [
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746718/step-condition-is-not-preventing-the-test-from-running"
+    },
+    {
+      "Created": "2025-08-26T10:42:51Z",
+      "Title": "What is the best way to extract the full list of worldwide addresses from the Sappi \u2018Locations\u2019 into an Excel format? [closed]",
+      "Tags": [
+        "python",
+        "web-scraping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746723/what-is-the-best-way-to-extract-the-full-list-of-worldwide-addresses-from-the-sa"
+    },
+    {
+      "Created": "2025-08-26T10:49:01Z",
+      "Title": "Create a histogram with percentage and density curve in ggplot2",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746732/create-a-histogram-with-percentage-and-density-curve-in-ggplot2"
+    },
+    {
+      "Created": "2025-08-26T10:49:23Z",
+      "Title": "Unable to click checkbox inside Glide DataGrid cell using Selenium or Playwright",
+      "Tags": [
+        "selenium-webdriver",
+        "automation",
+        "playwright",
+        "streamlit",
+        "glidejs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746733/unable-to-click-checkbox-inside-glide-datagrid-cell-using-selenium-or-playwright"
+    },
+    {
+      "Created": "2025-08-26T10:57:37Z",
+      "Title": "Using kfunc defined in a loadable module by BPF program",
+      "Tags": [
+        "linux-kernel",
+        "bpf",
+        "libbpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746744/using-kfunc-defined-in-a-loadable-module-by-bpf-program"
+    },
+    {
+      "Created": "2025-08-26T11:01:00Z",
+      "Title": "Is it safe to use RTLD_NODELETE to prevent Teradata from unloading UDF shared libraries on failure?",
+      "Tags": [
+        "teradata",
+        "teradatasql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746749/is-it-safe-to-use-rtld-nodelete-to-prevent-teradata-from-unloading-udf-shared-li"
+    }
+  ]
+}

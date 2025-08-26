@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-26T10:06:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T09:28:48Z",
+      "Title": "Send multileg order using Quickfix/n 4.2",
+      "Tags": [
+        "quickfixn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746647/send-multileg-order-using-quickfix-n-4-2"
+    },
+    {
+      "Created": "2025-08-26T09:31:49Z",
+      "Title": "Refactoring a method returning an IAsyncEnumerable\u003CT\u003E",
+      "Tags": [
+        "c#",
+        "async-await",
+        "iasyncenumerable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746648/refactoring-a-method-returning-an-iasyncenumerablet"
+    },
+    {
+      "Created": "2025-08-26T09:38:01Z",
+      "Title": "Is \u0022type manipulation\u0022 not smart enough or is there anything wrong with my code?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746652/is-type-manipulation-not-smart-enough-or-is-there-anything-wrong-with-my-code"
+    },
+    {
+      "Created": "2025-08-26T09:53:22Z",
+      "Title": "How do I make the filter ignore case and spacing?",
+      "Tags": [
+        "ag-grid",
+        "ag-grid-react"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746674/how-do-i-make-the-filter-ignore-case-and-spacing"
+    },
+    {
+      "Created": "2025-08-26T09:54:17Z",
+      "Title": "How do I specify the parameters correctly in BitmapFont?",
+      "Tags": [
+        "java",
+        "fonts",
+        "libgdx",
+        "bitmap-fonts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746675/how-do-i-specify-the-parameters-correctly-in-bitmapfont"
+    },
+    {
+      "Created": "2025-08-26T10:01:34Z",
+      "Title": "Reusable GitHub Actions workflow fails with Python requirements.txt",
+      "Tags": [
+        "github-actions",
+        "requirements.txt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746679/reusable-github-actions-workflow-fails-with-python-requirements-txt"
+    },
+    {
+      "Created": "2025-08-26T10:06:39Z",
+      "Title": "How to retrieve IAM role details with allowed services, actions, and last accessed date using GraphQL on Wiz Platform",
+      "Tags": [
+        "graphql",
+        "amazon-iam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746685/how-to-retrieve-iam-role-details-with-allowed-services-actions-and-last-access"
+    }
+  ]
+}

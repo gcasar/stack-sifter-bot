@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-26T23:03:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T22:39:07Z",
+      "Title": "A significance test that \u0022groups\u0022 distributions based on p-values?",
+      "Tags": [
+        "r",
+        "distribution",
+        "pairwise.wilcox.test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747381/a-significance-test-that-groups-distributions-based-on-p-values"
+    },
+    {
+      "Created": "2025-08-26T22:47:59Z",
+      "Title": "preg_replace regex take too much from string, want to replace text inner",
+      "Tags": [
+        "php",
+        "regex",
+        "bbcode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747389/preg-replace-regex-take-too-much-from-string-want-to-replace-text-inner"
+    },
+    {
+      "Created": "2025-08-26T22:54:09Z",
+      "Title": "How to get a stable/static private IP for an AWS Network Load Balancer (NLB)?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-ec2",
+        "nlb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747393/how-to-get-a-stable-static-private-ip-for-an-aws-network-load-balancer-nlb"
+    },
+    {
+      "Created": "2025-08-26T22:57:12Z",
+      "Title": "Is there a macOS API I can call from C to make a specified Terminal\u0027s window be foreground \u0026 active? (I know the pid) macOS",
+      "Tags": [
+        "macos",
+        "pid",
+        "foreground"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747395/is-there-a-macos-api-i-can-call-from-c-to-make-a-specified-terminals-window-be"
+    },
+    {
+      "Created": "2025-08-26T22:59:42Z",
+      "Title": "Next.js \u002B Supabase \u002B Clerk: permission denied despite correct RLS, as supabase.auth.getUser() returns null on server",
+      "Tags": [
+        "next.js",
+        "jwt",
+        "supabase",
+        "row-level-security",
+        "clerk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747396/next-js-supabase-clerk-permission-denied-despite-correct-rls-as-supabase-a"
+    },
+    {
+      "Created": "2025-08-26T23:02:00Z",
+      "Title": "Which user inputs can be overridden by keybindings in a WPF application?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "key-bindings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747398/which-user-inputs-can-be-overridden-by-keybindings-in-a-wpf-application"
+    },
+    {
+      "Created": "2025-08-26T23:03:11Z",
+      "Title": "Querying Tailscale from inside WSL2",
+      "Tags": [
+        "windows-subsystem-for-linux",
+        "tailscale"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747399/querying-tailscale-from-inside-wsl2"
+    }
+  ]
+}

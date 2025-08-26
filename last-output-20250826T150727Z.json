@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-26T14:57:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T14:28:29Z",
+      "Title": "Create two independent layouts in Next.js",
+      "Tags": [
+        "html",
+        "css",
+        "reactjs",
+        "next.js",
+        "layout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746941/create-two-independent-layouts-in-next-js"
+    },
+    {
+      "Created": "2025-08-26T14:41:43Z",
+      "Title": "I am trying to create a seperate data frame when specific conditions are met [duplicate]",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746959/i-am-trying-to-create-a-seperate-data-frame-when-specific-conditions-are-met"
+    },
+    {
+      "Created": "2025-08-26T14:45:52Z",
+      "Title": "Try to open Excel.xlsm file using xlwings results in Com-Error",
+      "Tags": [
+        "python",
+        "excel-interop",
+        "xlwings",
+        "excel-365"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746965/try-to-open-excel-xlsm-file-using-xlwings-results-in-com-error"
+    },
+    {
+      "Created": "2025-08-26T14:48:46Z",
+      "Title": "How to use \u0060static_assert(std::forward_iterator\u003Cmy_iterator\u003C...\u003E\u003E);\u0060",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746971/how-to-use-static-assertstdforward-iteratormy-iterator"
+    },
+    {
+      "Created": "2025-08-26T14:53:51Z",
+      "Title": "How do I avoid adding the same product to the cart database?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "firebase-realtime-database",
+        "axios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746980/how-do-i-avoid-adding-the-same-product-to-the-cart-database"
+    },
+    {
+      "Created": "2025-08-26T14:55:27Z",
+      "Title": "Debian Trixie loading missing firmware",
+      "Tags": [
+        "debian",
+        "firmware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746983/debian-trixie-loading-missing-firmware"
+    },
+    {
+      "Created": "2025-08-26T14:56:08Z",
+      "Title": "How to emit Socket.IO events from Bull queue worker running in separate process?",
+      "Tags": [
+        "node.js",
+        "express",
+        "socket.io",
+        "bull"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746984/how-to-emit-socket-io-events-from-bull-queue-worker-running-in-separate-process"
+    },
+    {
+      "Created": "2025-08-26T14:57:32Z",
+      "Title": "How can I fill the entire Screen of the cmd window with the color in the AppConfig.BackgroundColor?",
+      "Tags": [
+        "c#",
+        "cmd",
+        "desktop-application"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746987/how-can-i-fill-the-entire-screen-of-the-cmd-window-with-the-color-in-the-appconf"
+    }
+  ]
+}

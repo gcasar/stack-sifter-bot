@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-26T00:13:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-25T23:35:25Z",
+      "Title": "Why is it that my program doesn\u0027t run until I enter the newline character into the console?",
+      "Tags": [
+        "c\u002B\u002B",
+        "newline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746270/why-is-it-that-my-program-doesnt-run-until-i-enter-the-newline-character-into-t"
+    },
+    {
+      "Created": "2025-08-25T23:56:30Z",
+      "Title": "How to package a PySpark \u002B Delta Lake script into an EXE with PyInstaller",
+      "Tags": [
+        "python",
+        "apache-spark",
+        "hadoop",
+        "pyspark",
+        "delta-lake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746281/how-to-package-a-pyspark-delta-lake-script-into-an-exe-with-pyinstaller"
+    },
+    {
+      "Created": "2025-08-26T00:09:22Z",
+      "Title": "One liner for printing python\u0027s path",
+      "Tags": [
+        "python",
+        "bash",
+        "python-import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746284/one-liner-for-printing-pythons-path"
+    },
+    {
+      "Created": "2025-08-26T00:13:49Z",
+      "Title": "Serilog Splunk .NET 8, Splunk stores all messages in one",
+      "Tags": [
+        "asp.net",
+        "asp.net-core",
+        "serilog",
+        "splunk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746286/serilog-splunk-net-8-splunk-stores-all-messages-in-one"
+    }
+  ]
+}

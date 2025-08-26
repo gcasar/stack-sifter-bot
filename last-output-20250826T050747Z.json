@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-26T05:02:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T04:35:13Z",
+      "Title": "Ensure smart porinter initialization",
+      "Tags": [
+        "c\u002B\u002B",
+        "unique-ptr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746409/ensure-smart-porinter-initialization"
+    },
+    {
+      "Created": "2025-08-26T04:35:48Z",
+      "Title": "AWS Cognito Identity Pool: InvalidIdentityPoolConfigurationException when using Google ID token from React Native iOS app",
+      "Tags": [
+        "ios",
+        "react-native",
+        "amazon-cognito",
+        "aws-identitypools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746410/aws-cognito-identity-pool-invalididentitypoolconfigurationexception-when-using"
+    },
+    {
+      "Created": "2025-08-26T04:37:52Z",
+      "Title": "Odd behaviour for rounded values which are supposed to be identical",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746412/odd-behaviour-for-rounded-values-which-are-supposed-to-be-identical"
+    },
+    {
+      "Created": "2025-08-26T05:02:01Z",
+      "Title": "Running custom completion (SCIP) in parallel with TS language server in VS Code",
+      "Tags": [
+        "visual-studio-code",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746426/running-custom-completion-scip-in-parallel-with-ts-language-server-in-vs-code"
+    }
+  ]
+}

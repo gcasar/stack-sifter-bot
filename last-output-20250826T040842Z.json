@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-26T04:01:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T03:25:53Z",
+      "Title": "Not Routing Specific Rout with Ocelot and Return code 200",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "ocelot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746382/not-routing-specific-rout-with-ocelot-and-return-code-200"
+    },
+    {
+      "Created": "2025-08-26T03:50:35Z",
+      "Title": "snowflake - python snowpark print()/.show() is not working",
+      "Tags": [
+        "python",
+        "sql",
+        "dataframe",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746389/snowflake-python-snowpark-print-show-is-not-working"
+    },
+    {
+      "Created": "2025-08-26T04:01:47Z",
+      "Title": "How do I take a value out of an if then statement?",
+      "Tags": [
+        "roblox",
+        "luau"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746395/how-do-i-take-a-value-out-of-an-if-then-statement"
+    }
+  ]
+}

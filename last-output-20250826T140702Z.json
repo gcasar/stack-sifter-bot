@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-26T13:54:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T13:39:13Z",
+      "Title": "No model seems to support supports_parallel_function_calling to LiteLLM",
+      "Tags": [
+        "python",
+        "openai-api",
+        "litellm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746907/no-model-seems-to-support-supports-parallel-function-calling-to-litellm"
+    },
+    {
+      "Created": "2025-08-26T13:47:32Z",
+      "Title": "How to extract structured unit test data in IntelliJ Plugins?",
+      "Tags": [
+        "kotlin",
+        "intellij-idea",
+        "gradle-plugin",
+        "intellij-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746915/how-to-extract-structured-unit-test-data-in-intellij-plugins"
+    },
+    {
+      "Created": "2025-08-26T13:49:31Z",
+      "Title": "List of PictureBox empty (Scope problem?)",
+      "Tags": [
+        "vb.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746916/list-of-picturebox-empty-scope-problem"
+    },
+    {
+      "Created": "2025-08-26T13:54:21Z",
+      "Title": "Where can I download a table with all South African cities and their postcodes? [closed]",
+      "Tags": [
+        "sql",
+        "database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746920/where-can-i-download-a-table-with-all-south-african-cities-and-their-postcodes"
+    }
+  ]
+}

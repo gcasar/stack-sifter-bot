@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-26T12:12:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T11:58:15Z",
+      "Title": "Dockerized .NET Project - handling DB migrations",
+      "Tags": [
+        ".net",
+        "postgresql",
+        "docker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746804/dockerized-net-project-handling-db-migrations"
+    },
+    {
+      "Created": "2025-08-26T12:00:56Z",
+      "Title": "VStack doesn\u0027t fully adapt to content\u0027s height",
+      "Tags": [
+        "swiftui",
+        "vstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746809/vstack-doesnt-fully-adapt-to-contents-height"
+    },
+    {
+      "Created": "2025-08-26T12:01:18Z",
+      "Title": "After implementing ngx-translate i get this error in my unit test: Cannot read properties of undefined (reading \u0027subscribe\u0027)",
+      "Tags": [
+        "angular",
+        "unit-testing",
+        "ts-jest",
+        "ngx-translate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746810/after-implementing-ngx-translate-i-get-this-error-in-my-unit-test-cannot-read-p"
+    },
+    {
+      "Created": "2025-08-26T12:12:04Z",
+      "Title": "How to upload debug symbols file: app.windows-x64.symbols to Sentry",
+      "Tags": [
+        "flutter",
+        "dart",
+        "symbols",
+        "sentry",
+        "debug-symbols"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746818/how-to-upload-debug-symbols-file-app-windows-x64-symbols-to-sentry"
+    }
+  ]
+}

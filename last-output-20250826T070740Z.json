@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-26T07:01:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T07:01:22Z",
+      "Title": "Android Gradle Convention Plugin: Build type configurations not created when build types are defined in module\u0027s build.gradle.kts",
+      "Tags": [
+        "android",
+        "kotlin",
+        "gradle",
+        "gradle-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746512/android-gradle-convention-plugin-build-type-configurations-not-created-when-bui"
+    }
+  ]
+}

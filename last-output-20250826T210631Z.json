@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-26T20:57:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T20:11:52Z",
+      "Title": "How to use a lock statement",
+      "Tags": [
+        "c#",
+        "multithreading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747285/how-to-use-a-lock-statement"
+    },
+    {
+      "Created": "2025-08-26T20:13:30Z",
+      "Title": "\u0022Cannot set a DataFrame with multiple columns to the single column\u0022 when script is in function",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747287/cannot-set-a-dataframe-with-multiple-columns-to-the-single-column-when-script"
+    },
+    {
+      "Created": "2025-08-26T20:16:52Z",
+      "Title": "Python autocomplete popup: double mouse selection",
+      "Tags": [
+        "python",
+        "tkinter",
+        "autocomplete",
+        "listbox",
+        "popup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747291/python-autocomplete-popup-double-mouse-selection"
+    },
+    {
+      "Created": "2025-08-26T20:41:53Z",
+      "Title": "Getting canvas.find_closest(x, y) to discriminate among elements",
+      "Tags": [
+        "python",
+        "tkinter",
+        "tkinter-canvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747310/getting-canvas-find-closestx-y-to-discriminate-among-elements"
+    },
+    {
+      "Created": "2025-08-26T20:46:07Z",
+      "Title": "How can I undo pushing 12k duplicate commits to GitHub if I can\u0027t fix the local state?",
+      "Tags": [
+        "git",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747312/how-can-i-undo-pushing-12k-duplicate-commits-to-github-if-i-cant-fix-the-local"
+    },
+    {
+      "Created": "2025-08-26T20:52:45Z",
+      "Title": "Specifying residuals to drive to zero with a blackbox model and NewtonSolver",
+      "Tags": [
+        "openmdao"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747315/specifying-residuals-to-drive-to-zero-with-a-blackbox-model-and-newtonsolver"
+    },
+    {
+      "Created": "2025-08-26T20:53:25Z",
+      "Title": "Failed to build installable wheels for some pyproject.toml based projects llama-cpp-python",
+      "Tags": [
+        "python",
+        "macos",
+        "arm",
+        "large-language-model",
+        "llama-cpp-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747316/failed-to-build-installable-wheels-for-some-pyproject-toml-based-projects-llama"
+    },
+    {
+      "Created": "2025-08-26T20:54:39Z",
+      "Title": "How to sort pandas groups by (multiple/all) values of the groups?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "sorting",
+        "group-by"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747317/how-to-sort-pandas-groups-by-multiple-all-values-of-the-groups"
+    },
+    {
+      "Created": "2025-08-26T20:57:59Z",
+      "Title": "\u0060Option.defaultValue\u0060 not working properly in f# when raising exception",
+      "Tags": [
+        "exception",
+        "f#",
+        "option-type"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747319/option-defaultvalue-not-working-properly-in-f-when-raising-exception"
+    }
+  ]
+}

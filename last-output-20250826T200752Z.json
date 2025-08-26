@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-26T19:57:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T19:20:09Z",
+      "Title": "Missing info in joins",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2008-r2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747237/missing-info-in-joins"
+    },
+    {
+      "Created": "2025-08-26T19:28:40Z",
+      "Title": "HTTP ERROR 431 running web apps from Visual Studio",
+      "Tags": [
+        "asp.net",
+        ".net",
+        "visual-studio",
+        "http-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747246/http-error-431-running-web-apps-from-visual-studio"
+    },
+    {
+      "Created": "2025-08-26T19:57:31Z",
+      "Title": "Playwright is there any way to customize the trace option",
+      "Tags": [
+        "playwright-test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747276/playwright-is-there-any-way-to-customize-the-trace-option"
+    }
+  ]
+}

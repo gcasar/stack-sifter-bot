@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-26T03:11:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T02:47:07Z",
+      "Title": "Read html content of cross-domain iframe from a third-party link",
+      "Tags": [
+        "javascript",
+        "c#",
+        "asp.net",
+        ".net-4.8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746367/read-html-content-of-cross-domain-iframe-from-a-third-party-link"
+    },
+    {
+      "Created": "2025-08-26T03:01:49Z",
+      "Title": "GStreamer pipeline to stream and save",
+      "Tags": [
+        "raspberry-pi",
+        "video-streaming",
+        "gstreamer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746372/gstreamer-pipeline-to-stream-and-save"
+    },
+    {
+      "Created": "2025-08-26T03:09:22Z",
+      "Title": "How do you set up clangd properly with a specific toolchain?",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio-code",
+        "embedded",
+        "g\u002B\u002B",
+        "clangd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746374/how-do-you-set-up-clangd-properly-with-a-specific-toolchain"
+    },
+    {
+      "Created": "2025-08-26T03:11:07Z",
+      "Title": "Display polar histogram from 0 to 360 degrees using coord_polar() \u0026 geom_histogram()",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746377/display-polar-histogram-from-0-to-360-degrees-using-coord-polar-geom-histogr"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-26T13:08:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T12:43:05Z",
+      "Title": "How to automatically create external BigQuery tables in Terraform for all CSV files in a GCS bucket (without listing them manually)?",
+      "Tags": [
+        "google-cloud-platform",
+        "google-bigquery",
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746851/how-to-automatically-create-external-bigquery-tables-in-terraform-for-all-csv-fi"
+    },
+    {
+      "Created": "2025-08-26T12:59:32Z",
+      "Title": "Adding module classes into a powershell foreach parallel loop",
+      "Tags": [
+        "powershell",
+        "parallel.foreach",
+        "powershell-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746867/adding-module-classes-into-a-powershell-foreach-parallel-loop"
+    },
+    {
+      "Created": "2025-08-26T13:01:13Z",
+      "Title": "How can I implement a workflow to extract my types into a definition file that will be packaged and pushed on a registry?",
+      "Tags": [
+        "typescript",
+        "vite",
+        ".d.ts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746869/how-can-i-implement-a-workflow-to-extract-my-types-into-a-definition-file-that-w"
+    },
+    {
+      "Created": "2025-08-26T13:08:49Z",
+      "Title": "does ordering matters in SOAP API?",
+      "Tags": [
+        "xml",
+        "go",
+        "soap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79746873/does-ordering-matters-in-soap-api"
+    }
+  ]
+}

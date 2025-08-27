@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-27T07:00:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T06:45:04Z",
+      "Title": "How to conform to UIActivityItemsConfigurationReading when sharing with cloudkit an object using UIActivityViewController with SwiftUI?",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "cloudkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747614/how-to-conform-to-uiactivityitemsconfigurationreading-when-sharing-with-cloudkit"
+    },
+    {
+      "Created": "2025-08-27T06:51:58Z",
+      "Title": "Can the Family Control API on iOS Prevent Children from Modifying App Configuration?",
+      "Tags": [
+        "ios",
+        "parental-control",
+        "screen-time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747619/can-the-family-control-api-on-ios-prevent-children-from-modifying-app-configurat"
+    },
+    {
+      "Created": "2025-08-27T06:52:11Z",
+      "Title": "Why is it not possible to extend a function call expression returning multiple values with another value on the right in Lua",
+      "Tags": [
+        "lua",
+        "standards",
+        "variadic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747620/why-is-it-not-possible-to-extend-a-function-call-expression-returning-multiple-v"
+    },
+    {
+      "Created": "2025-08-27T06:59:28Z",
+      "Title": "Drools Verifier - unique rule names per package",
+      "Tags": [
+        "drools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747630/drools-verifier-unique-rule-names-per-package"
+    },
+    {
+      "Created": "2025-08-27T07:00:35Z",
+      "Title": "AppleScript Issue with current track in Apple Music",
+      "Tags": [
+        "macos",
+        "applescript",
+        "macos-tahoe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747634/applescript-issue-with-current-track-in-apple-music"
+    }
+  ]
+}

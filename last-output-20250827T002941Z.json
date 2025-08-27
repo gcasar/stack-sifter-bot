@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-27T00:10:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-26T23:15:18Z",
+      "Title": "\u0022Model is not supported for task text generation, supported task: conversational\u0022 on LangChain HuggingFaceInference JS",
+      "Tags": [
+        "node.js",
+        "langchain",
+        "huggingface",
+        "langchain-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747402/model-is-not-supported-for-task-text-generation-supported-task-conversational"
+    },
+    {
+      "Created": "2025-08-27T00:10:05Z",
+      "Title": "How do I accurately track user viewing time of an HLS live stream in Clappr player?",
+      "Tags": [
+        "http-live-streaming",
+        "live-streaming",
+        "hls.js",
+        "clappr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747418/how-do-i-accurately-track-user-viewing-time-of-an-hls-live-stream-in-clappr-play"
+    }
+  ]
+}

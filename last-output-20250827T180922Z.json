@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-27T17:51:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T17:20:06Z",
+      "Title": "How to update string attributes to object instances if they exist",
+      "Tags": [
+        "python",
+        "class",
+        "oop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748293/how-to-update-string-attributes-to-object-instances-if-they-exist"
+    },
+    {
+      "Created": "2025-08-27T17:37:55Z",
+      "Title": "Removing SQLSecurityInsights and SQLAccessToSensitiveData from log analytics workspace",
+      "Tags": [
+        "sql-server",
+        "azure",
+        "terraform",
+        "azure-sql-database",
+        "azure-log-analytics-workspace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748309/removing-sqlsecurityinsights-and-sqlaccesstosensitivedata-from-log-analytics-wor"
+    },
+    {
+      "Created": "2025-08-27T17:40:45Z",
+      "Title": "Spring Boot Hibernate Cannot Find SQLTypes.VECTOR",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "hibernate",
+        "pgvector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748314/spring-boot-hibernate-cannot-find-sqltypes-vector"
+    },
+    {
+      "Created": "2025-08-27T17:42:25Z",
+      "Title": "How do I use HTML wrapped in text quotes inside of Ionic ion-text",
+      "Tags": [
+        "ionic-framework",
+        "angular20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748316/how-do-i-use-html-wrapped-in-text-quotes-inside-of-ionic-ion-text"
+    },
+    {
+      "Created": "2025-08-27T17:51:30Z",
+      "Title": "What is the most optimal algorithm to solve the following task",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748320/what-is-the-most-optimal-algorithm-to-solve-the-following-task"
+    }
+  ]
+}

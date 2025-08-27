@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-27T15:00:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T13:47:01Z",
+      "Title": "What is the difference between using \u0060std::from_range\u0060 vs \u0060std::ranges::to\u0060?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748068/what-is-the-difference-between-using-stdfrom-range-vs-stdrangesto"
+    },
+    {
+      "Created": "2025-08-27T14:20:08Z",
+      "Title": "TCP Connection Refused Given multiple concurrent connection",
+      "Tags": [
+        "java",
+        "spring",
+        "tcp",
+        "nio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748100/tcp-connection-refused-given-multiple-concurrent-connection"
+    },
+    {
+      "Created": "2025-08-27T14:27:18Z",
+      "Title": "Textarea weird scroll behaviour on focus",
+      "Tags": [
+        "android",
+        "html",
+        "css",
+        "webkit",
+        "mobile-webkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748108/textarea-weird-scroll-behaviour-on-focus"
+    },
+    {
+      "Created": "2025-08-27T14:56:36Z",
+      "Title": "Azure Synapse pipeline fails with \u0027invalid_client_id\u0027 despite successful test connection",
+      "Tags": [
+        "azure-resource-manager",
+        "azure-synapse",
+        "azure-api-management",
+        "azure-log-analytics",
+        "azure-managed-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748129/azure-synapse-pipeline-fails-with-invalid-client-id-despite-successful-test-co"
+    },
+    {
+      "Created": "2025-08-27T14:56:39Z",
+      "Title": "\u0060OpenApiDocument\u0060 fails to load OpenAPI description with external schema",
+      "Tags": [
+        "openapi.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748130/openapidocument-fails-to-load-openapi-description-with-external-schema"
+    },
+    {
+      "Created": "2025-08-27T15:00:57Z",
+      "Title": "std::complex in cuda kernels",
+      "Tags": [
+        "c\u002B\u002B",
+        "cuda",
+        "stdcomplex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748136/stdcomplex-in-cuda-kernels"
+    }
+  ]
+}

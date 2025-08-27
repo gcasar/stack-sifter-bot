@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-27T16:05:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T15:22:45Z",
+      "Title": "How to read application properties in a common module for Spring Boot 2.7?",
+      "Tags": [
+        "spring-boot",
+        "hikaricp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748161/how-to-read-application-properties-in-a-common-module-for-spring-boot-2-7"
+    },
+    {
+      "Created": "2025-08-27T15:50:57Z",
+      "Title": "Lock specific cells without knowing Sheet\u0027s name",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748194/lock-specific-cells-without-knowing-sheets-name"
+    },
+    {
+      "Created": "2025-08-27T15:55:04Z",
+      "Title": "\u0022p4 client\u0022 fails with \u0022TCP receive failed\u0022 in WSL",
+      "Tags": [
+        "perforce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748198/p4-client-fails-with-tcp-receive-failed-in-wsl"
+    },
+    {
+      "Created": "2025-08-27T15:58:05Z",
+      "Title": "Port on host machine not exposed inside Docker container",
+      "Tags": [
+        "linux",
+        "docker",
+        "ubuntu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748204/port-on-host-machine-not-exposed-inside-docker-container"
+    },
+    {
+      "Created": "2025-08-27T16:04:11Z",
+      "Title": "Couldn\u0027t set integrated security (Parameter \u0027integrated security\u0027) when i try to connnect to a mssql database",
+      "Tags": [
+        ".net",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748210/couldnt-set-integrated-security-parameter-integrated-security-when-i-try-to"
+    },
+    {
+      "Created": "2025-08-27T16:05:49Z",
+      "Title": "PynamoDB - is there a way to track changes?",
+      "Tags": [
+        "python",
+        "pynamodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748211/pynamodb-is-there-a-way-to-track-changes"
+    }
+  ]
+}

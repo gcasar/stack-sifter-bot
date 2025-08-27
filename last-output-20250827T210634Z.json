@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-27T20:58:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T20:14:17Z",
+      "Title": "Sort Array of Arrays by multiple elements",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748444/sort-array-of-arrays-by-multiple-elements"
+    },
+    {
+      "Created": "2025-08-27T20:33:25Z",
+      "Title": "DOTween animation behaves incorrectly when started in Start() (Unity)",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "user-interface",
+        "animation",
+        "dotween"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748457/dotween-animation-behaves-incorrectly-when-started-in-start-unity"
+    },
+    {
+      "Created": "2025-08-27T20:41:58Z",
+      "Title": "how to pass pre-computed folds to successiveHalving in sklearn",
+      "Tags": [
+        "python",
+        "scikit-learn",
+        "hyperparameters",
+        "imblearn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748461/how-to-pass-pre-computed-folds-to-successivehalving-in-sklearn"
+    },
+    {
+      "Created": "2025-08-27T20:43:11Z",
+      "Title": "How is rust able to optimize Option::is_some_and so effectively?",
+      "Tags": [
+        "rust",
+        "code-generation",
+        "compiler-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748462/how-is-rust-able-to-optimize-optionis-some-and-so-effectively"
+    },
+    {
+      "Created": "2025-08-27T20:45:24Z",
+      "Title": "maven-replacer-plugin cannot find my Java source file",
+      "Tags": [
+        "java",
+        "maven",
+        "maven-replacer-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748465/maven-replacer-plugin-cannot-find-my-java-source-file"
+    },
+    {
+      "Created": "2025-08-27T20:55:08Z",
+      "Title": "How can I improve mAP when optimizing YOLOv8 hyperparameters with metaheuristic algorithms (e.g., GWO)?",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "genetic-algorithm",
+        "yolov8",
+        "fine-tuning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748470/how-can-i-improve-map-when-optimizing-yolov8-hyperparameters-with-metaheuristic"
+    },
+    {
+      "Created": "2025-08-27T20:55:17Z",
+      "Title": "Keycloak logout not working when using custom Docker image \u002B Nginx reverse proxy",
+      "Tags": [
+        "angular",
+        "docker",
+        "nginx",
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748471/keycloak-logout-not-working-when-using-custom-docker-image-nginx-reverse-proxy"
+    },
+    {
+      "Created": "2025-08-27T20:58:28Z",
+      "Title": "How do I block jars but allow gradle-wapper.jar in GitLab?",
+      "Tags": [
+        "gitlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748474/how-do-i-block-jars-but-allow-gradle-wapper-jar-in-gitlab"
+    }
+  ]
+}

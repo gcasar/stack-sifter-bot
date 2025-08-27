@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-27T10:01:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T09:51:52Z",
+      "Title": "Domain Driven Design - Aggregate and Entity",
+      "Tags": [
+        "domain-driven-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747799/domain-driven-design-aggregate-and-entity"
+    },
+    {
+      "Created": "2025-08-27T09:52:25Z",
+      "Title": "I can render a component using routes without having to declare that component in ngModule?",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747800/i-can-render-a-component-using-routes-without-having-to-declare-that-component-i"
+    },
+    {
+      "Created": "2025-08-27T09:57:08Z",
+      "Title": "Ros2 Zenoh topic routing",
+      "Tags": [
+        "ros2",
+        "zenoh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747806/ros2-zenoh-topic-routing"
+    },
+    {
+      "Created": "2025-08-27T10:01:59Z",
+      "Title": "RISC-V a1 register assumptions after ecall execution",
+      "Tags": [
+        "assembly",
+        "return-value",
+        "system-calls",
+        "riscv",
+        "calling-convention"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747810/risc-v-a1-register-assumptions-after-ecall-execution"
+    }
+  ]
+}

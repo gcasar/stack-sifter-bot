@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-27T19:01:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T18:48:52Z",
+      "Title": "How to create a new PDF based on a password-protected one without using OS wrappers",
+      "Tags": [
+        "node.js",
+        "pdf",
+        "encryption",
+        "pdf-generation",
+        "password-protection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748362/how-to-create-a-new-pdf-based-on-a-password-protected-one-without-using-os-wrapp"
+    },
+    {
+      "Created": "2025-08-27T18:50:49Z",
+      "Title": "Is there a way to add more variables to the pipeline from the \u0027begin\u0027 section of a script?",
+      "Tags": [
+        "powershell",
+        "pipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748364/is-there-a-way-to-add-more-variables-to-the-pipeline-from-the-begin-section-of"
+    },
+    {
+      "Created": "2025-08-27T18:57:55Z",
+      "Title": "Django REST Framework: \u0022No default throttle rate set for \u0027signup\u0027 scope\u0022 even though scope is defined",
+      "Tags": [
+        "python",
+        "django",
+        "django-rest-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748372/django-rest-framework-no-default-throttle-rate-set-for-signup-scope-even-th"
+    },
+    {
+      "Created": "2025-08-27T19:01:40Z",
+      "Title": "Script that is supposed to \u002B 1 adds more than 1 to the float. C#",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "unityscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748376/script-that-is-supposed-to-1-adds-more-than-1-to-the-float-c-sharp"
+    }
+  ]
+}

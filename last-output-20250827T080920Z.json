@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-27T08:07:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T07:43:35Z",
+      "Title": "Entity Framework Core generates unnecessary SELECT after INSERT with Informix - How to disable?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "informix",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747679/entity-framework-core-generates-unnecessary-select-after-insert-with-informix"
+    },
+    {
+      "Created": "2025-08-27T07:53:04Z",
+      "Title": "Sorting collection of objects which also have \u0022parent/child\u0022 relations between them",
+      "Tags": [
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747686/sorting-collection-of-objects-which-also-have-parent-child-relations-between-t"
+    },
+    {
+      "Created": "2025-08-27T07:54:11Z",
+      "Title": "Gradle build daemon disappeared unexpectedly when building Flutter APK on Mac M2",
+      "Tags": [
+        "android",
+        "flutter",
+        "gradle",
+        "build",
+        "daemon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747689/gradle-build-daemon-disappeared-unexpectedly-when-building-flutter-apk-on-mac-m2"
+    },
+    {
+      "Created": "2025-08-27T07:57:48Z",
+      "Title": "What is the (real) interest in skipping CRDs during Helm install?",
+      "Tags": [
+        "kubernetes",
+        "kubernetes-helm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747694/what-is-the-real-interest-in-skipping-crds-during-helm-install"
+    },
+    {
+      "Created": "2025-08-27T08:00:20Z",
+      "Title": "ASP.NET WebForms dropdown causes page to clear on selection change",
+      "Tags": [
+        "html",
+        "vb.net",
+        "ascx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747698/asp-net-webforms-dropdown-causes-page-to-clear-on-selection-change"
+    },
+    {
+      "Created": "2025-08-27T08:05:08Z",
+      "Title": "Shared memory between two elf files",
+      "Tags": [
+        "elf",
+        "bare-metal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747701/shared-memory-between-two-elf-files"
+    },
+    {
+      "Created": "2025-08-27T08:07:45Z",
+      "Title": "New AngularNodeAppEngine doesn\u0027t return 404 status code",
+      "Tags": [
+        "angular",
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747704/new-angularnodeappengine-doesnt-return-404-status-code"
+    }
+  ]
+}

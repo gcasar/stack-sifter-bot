@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-27T20:05:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T19:40:02Z",
+      "Title": "reCAPTCHA error: 12008: Invalid Type of Site Key on Android",
+      "Tags": [
+        "android",
+        "kotlin",
+        "recaptcha"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748416/recaptcha-error-12008-invalid-type-of-site-key-on-android"
+    },
+    {
+      "Created": "2025-08-27T19:47:21Z",
+      "Title": "How can I emulate C\u002B\u002B26 erroneous behaviour in earlier versions of C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "initialization",
+        "c\u002B\u002B17",
+        "c\u002B\u002B26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748424/how-can-i-emulate-c26-erroneous-behaviour-in-earlier-versions-of-c"
+    },
+    {
+      "Created": "2025-08-27T19:47:28Z",
+      "Title": "Android NDK Crash in libomp.so at __kmpc_barrier with FluidSynth and OpenMP",
+      "Tags": [
+        "android",
+        "c\u002B\u002B",
+        "android-ndk",
+        "openmp",
+        "fluidsynth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748425/android-ndk-crash-in-libomp-so-at-kmpc-barrier-with-fluidsynth-and-openmp"
+    },
+    {
+      "Created": "2025-08-27T19:47:50Z",
+      "Title": "How do I run a pyflink program on a remote cluster without packaging it",
+      "Tags": [
+        "pyflink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748426/how-do-i-run-a-pyflink-program-on-a-remote-cluster-without-packaging-it"
+    },
+    {
+      "Created": "2025-08-27T19:51:18Z",
+      "Title": "Capture raw ERB template in Rails partial",
+      "Tags": [
+        "ruby-on-rails",
+        "erb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748429/capture-raw-erb-template-in-rails-partial"
+    },
+    {
+      "Created": "2025-08-27T19:57:34Z",
+      "Title": "How to find identical polygons",
+      "Tags": [
+        "hash",
+        "polygon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748434/how-to-find-identical-polygons"
+    },
+    {
+      "Created": "2025-08-27T19:57:41Z",
+      "Title": "Linking outlook combo box to Database Table",
+      "Tags": [
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748435/linking-outlook-combo-box-to-database-table"
+    },
+    {
+      "Created": "2025-08-27T20:05:21Z",
+      "Title": "Issues with djangocms-text upgrade, configuration \u0026 custom settings not working in django app",
+      "Tags": [
+        "django",
+        "ckeditor",
+        "django-cms",
+        "djangocms-text-ckeditor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748439/issues-with-djangocms-text-upgrade-configuration-custom-settings-not-working"
+    }
+  ]
+}

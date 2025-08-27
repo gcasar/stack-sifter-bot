@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-27T05:58:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T05:50:15Z",
+      "Title": "rootNavigatorKey.currentContext sometimes null in didChangeAppLifecycleState on resume",
+      "Tags": [
+        "flutter",
+        "flutter-go-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747577/rootnavigatorkey-currentcontext-sometimes-null-in-didchangeapplifecyclestate-on"
+    },
+    {
+      "Created": "2025-08-27T05:56:16Z",
+      "Title": "Problem with \u0027add_grid\u0027 with terra plot and maptiles maps",
+      "Tags": [
+        "r",
+        "terra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747583/problem-with-add-grid-with-terra-plot-and-maptiles-maps"
+    },
+    {
+      "Created": "2025-08-27T05:57:09Z",
+      "Title": "Ethers.js can call fetchMarketItems() fine, but PHP (web3p/web3.php) fails to decode the tuple[] return \u2014 how do I read struct[] results?",
+      "Tags": [
+        "php",
+        "ethereum",
+        "ethers.js",
+        "hardhat",
+        "web3php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747584/ethers-js-can-call-fetchmarketitems-fine-but-php-web3p-web3-php-fails-to-de"
+    },
+    {
+      "Created": "2025-08-27T05:57:20Z",
+      "Title": "MapStruct generated classes compile with errors in multi-module Maven project",
+      "Tags": [
+        "java",
+        "spring",
+        "maven",
+        "lombok",
+        "mapstruct"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747585/mapstruct-generated-classes-compile-with-errors-in-multi-module-maven-project"
+    },
+    {
+      "Created": "2025-08-27T05:57:43Z",
+      "Title": "telethon always gives 0 unread messages count from all private chats",
+      "Tags": [
+        "python",
+        "telethon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747586/telethon-always-gives-0-unread-messages-count-from-all-private-chats"
+    },
+    {
+      "Created": "2025-08-27T05:58:28Z",
+      "Title": "KEDA ScaledJob with MongoDB _id fails to pass JOB_ID to Python script",
+      "Tags": [
+        "python",
+        "mongodb",
+        "kubernetes",
+        "keda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747587/keda-scaledjob-with-mongodb-id-fails-to-pass-job-id-to-python-script"
+    },
+    {
+      "Created": "2025-08-27T05:58:50Z",
+      "Title": "How do I generate a stable document ID for SQL executions when polling Oracle gv$session into Elasticsearch via Logstash?",
+      "Tags": [
+        "oracle-database",
+        "elasticsearch",
+        "session",
+        "logstash",
+        "monitoring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747589/how-do-i-generate-a-stable-document-id-for-sql-executions-when-polling-oracle-gv"
+    },
+    {
+      "Created": "2025-08-27T05:58:59Z",
+      "Title": "Short circuiting in C when multiple operators are used in sequence",
+      "Tags": [
+        "c",
+        "logical-operators"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747590/short-circuiting-in-c-when-multiple-operators-are-used-in-sequence"
+    }
+  ]
+}

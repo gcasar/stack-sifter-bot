@@ -1,0 +1,111 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-08-27T11:05:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T10:25:40Z",
+      "Title": "How to efficiently count related rows in joined tables using window functions in SQL?",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747841/how-to-efficiently-count-related-rows-in-joined-tables-using-window-functions-in"
+    },
+    {
+      "Created": "2025-08-27T10:31:52Z",
+      "Title": "Different results using AST directly on ScriptBlock or using the Parser",
+      "Tags": [
+        "powershell",
+        "abstract-syntax-tree",
+        "findall"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747848/different-results-using-ast-directly-on-scriptblock-or-using-the-parser"
+    },
+    {
+      "Created": "2025-08-27T10:42:49Z",
+      "Title": "Swift 6: \u201CMain actor-isolated conformance of FeelingType to Encodable cannot be used in nonisolated context\u201D with SwiftData @Model [duplicate]",
+      "Tags": [
+        "swift",
+        "xcode",
+        "swiftui",
+        "swiftdata",
+        "swift-concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747863/swift-6-main-actor-isolated-conformance-of-feelingtype-to-encodable-cannot-be"
+    },
+    {
+      "Created": "2025-08-27T10:43:11Z",
+      "Title": "How to open downloaded file in public folder in Flutter",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747864/how-to-open-downloaded-file-in-public-folder-in-flutter"
+    },
+    {
+      "Created": "2025-08-27T10:48:48Z",
+      "Title": "MAUI MacCatalyst doesn\u0027t support RefreshView. Any workaround?",
+      "Tags": [
+        "c#",
+        "macos",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747870/maui-maccatalyst-doesnt-support-refreshview-any-workaround"
+    },
+    {
+      "Created": "2025-08-27T10:50:47Z",
+      "Title": "Trouble scraping dynamic lottery results table \u2013 inconsistent parsing",
+      "Tags": [
+        "python",
+        "web-scraping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747874/trouble-scraping-dynamic-lottery-results-table-inconsistent-parsing"
+    },
+    {
+      "Created": "2025-08-27T10:52:16Z",
+      "Title": "Why does TypeScript recognise the \u0060in\u0060 keyword for checking a key exists but not \u0060hasOwnProperty\u0060?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747877/why-does-typescript-recognise-the-in-keyword-for-checking-a-key-exists-but-not"
+    },
+    {
+      "Created": "2025-08-27T10:56:34Z",
+      "Title": "Best way to handle colors in Flutter for future dark/light theme support",
+      "Tags": [
+        "flutter",
+        "material-ui",
+        "material-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747883/best-way-to-handle-colors-in-flutter-for-future-dark-light-theme-support"
+    },
+    {
+      "Created": "2025-08-27T10:58:48Z",
+      "Title": "Python trying to use concurrent.futures for threading",
+      "Tags": [
+        "python",
+        "python-multithreading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747884/python-trying-to-use-concurrent-futures-for-threading"
+    },
+    {
+      "Created": "2025-08-27T10:59:26Z",
+      "Title": "Django REST framework gives me csrf token missing when i am logged in for POST requests",
+      "Tags": [
+        "django",
+        "django-rest-framework",
+        "django-csrf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747886/django-rest-framework-gives-me-csrf-token-missing-when-i-am-logged-in-for-post-r"
+    },
+    {
+      "Created": "2025-08-27T11:05:01Z",
+      "Title": "How can I view query execution time in GridDB Cloud?",
+      "Tags": [
+        "mysql",
+        "postgresql",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747890/how-can-i-view-query-execution-time-in-griddb-cloud"
+    }
+  ]
+}

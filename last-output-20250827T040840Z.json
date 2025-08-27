@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-27T03:38:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T03:28:48Z",
+      "Title": "How can I convert existing data in Google Sheets into a Table from Google Apps Script?",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747496/how-can-i-convert-existing-data-in-google-sheets-into-a-table-from-google-apps-s"
+    },
+    {
+      "Created": "2025-08-27T03:36:16Z",
+      "Title": "OpenCV - Broken Detection",
+      "Tags": [
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747498/opencv-broken-detection"
+    },
+    {
+      "Created": "2025-08-27T03:38:23Z",
+      "Title": "How to convert a DolphinDB Matrix with row and column labels to a Table using the C\u002B\u002B API?",
+      "Tags": [
+        "c\u002B\u002B",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747499/how-to-convert-a-dolphindb-matrix-with-row-and-column-labels-to-a-table-using-th"
+    }
+  ]
+}

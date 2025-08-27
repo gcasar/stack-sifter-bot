@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-27T12:05:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T11:53:47Z",
+      "Title": "Tyk is not adding http protocol",
+      "Tags": [
+        "reverse-proxy",
+        "gateway",
+        "consul",
+        "tyk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747951/tyk-is-not-adding-http-protocol"
+    },
+    {
+      "Created": "2025-08-27T12:05:15Z",
+      "Title": "What are use cases for postcondition assertions of a C\u002B\u002B destructor?",
+      "Tags": [
+        "c\u002B\u002B",
+        "destructor",
+        "contract",
+        "c\u002B\u002B26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747967/what-are-use-cases-for-postcondition-assertions-of-a-c-destructor"
+    }
+  ]
+}

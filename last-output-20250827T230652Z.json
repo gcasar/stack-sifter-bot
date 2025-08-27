@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-27T22:44:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T22:23:16Z",
+      "Title": "Deserialize Rust-like SymType / Enum with Pydantic",
+      "Tags": [
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748507/deserialize-rust-like-symtype-enum-with-pydantic"
+    },
+    {
+      "Created": "2025-08-27T22:28:12Z",
+      "Title": "One-liner to apply same function to each element of an array? [duplicate]",
+      "Tags": [
+        "python",
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748510/one-liner-to-apply-same-function-to-each-element-of-an-array"
+    },
+    {
+      "Created": "2025-08-27T22:34:09Z",
+      "Title": "Overlay Window with transparent click-through background",
+      "Tags": [
+        "c#",
+        "wpf",
+        "winapi",
+        "avaloniaui",
+        "avalonia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748514/overlay-window-with-transparent-click-through-background"
+    },
+    {
+      "Created": "2025-08-27T22:44:59Z",
+      "Title": "How to get Information log messages to appear in Azure Application Insights from Azure Function?",
+      "Tags": [
+        "logging",
+        "azure-functions",
+        "azure-application-insights",
+        "azure-functions-isolated"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748521/how-to-get-information-log-messages-to-appear-in-azure-application-insights-from"
+    }
+  ]
+}

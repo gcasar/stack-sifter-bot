@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-27T04:55:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T04:09:19Z",
+      "Title": "Perform hourly aggregation in GridDB Cloud time-series table",
+      "Tags": [
+        "sql",
+        "time-series",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747517/perform-hourly-aggregation-in-griddb-cloud-time-series-table"
+    },
+    {
+      "Created": "2025-08-27T04:54:24Z",
+      "Title": "Inserting to a (temp) table from an insert statement with returning clause in duckdb",
+      "Tags": [
+        "python",
+        "duckdb",
+        "executemany"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747544/inserting-to-a-temp-table-from-an-insert-statement-with-returning-clause-in-du"
+    },
+    {
+      "Created": "2025-08-27T04:55:17Z",
+      "Title": "Cannot successfully set input from workspace for Simulink test harness",
+      "Tags": [
+        "matlab",
+        "input",
+        "simulink",
+        "testharness"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747545/cannot-successfully-set-input-from-workspace-for-simulink-test-harness"
+    }
+  ]
+}

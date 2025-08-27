@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-27T21:38:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T21:21:47Z",
+      "Title": "Event Listener not triggering on click",
+      "Tags": [
+        "javascript",
+        "html",
+        "dom-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748483/event-listener-not-triggering-on-click"
+    },
+    {
+      "Created": "2025-08-27T21:27:45Z",
+      "Title": "Shortcut Menu Bar extension in VS Code: How to fit in more icons?",
+      "Tags": [
+        "visual-studio",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748487/shortcut-menu-bar-extension-in-vs-code-how-to-fit-in-more-icons"
+    },
+    {
+      "Created": "2025-08-27T21:38:01Z",
+      "Title": "python module issue \u0022ditutils\u0022",
+      "Tags": [
+        "python",
+        "distutils"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748490/python-module-issue-ditutils"
+    },
+    {
+      "Created": "2025-08-27T21:38:57Z",
+      "Title": "Excel VBA - Apply complex formula within Formula Bar [duplicate]",
+      "Tags": [
+        "excel",
+        "vba",
+        "formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748492/excel-vba-apply-complex-formula-within-formula-bar"
+    }
+  ]
+}

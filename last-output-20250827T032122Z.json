@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-27T03:12:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T02:42:59Z",
+      "Title": "Solution to get storage SAS key in synapse",
+      "Tags": [
+        "azure-synapse",
+        "azure-synapse-analytics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747470/solution-to-get-storage-sas-key-in-synapse"
+    },
+    {
+      "Created": "2025-08-27T02:51:16Z",
+      "Title": "installed the cuda-12.4 with ncvv but not found /bin/nvcc which is required by deepseek\u0027s python library",
+      "Tags": [
+        "cuda",
+        "nvcc",
+        "deepseek"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747471/installed-the-cuda-12-4-with-ncvv-but-not-found-bin-nvcc-which-is-required-by-d"
+    },
+    {
+      "Created": "2025-08-27T03:01:30Z",
+      "Title": "How can I render the plaintext first before the image in Blazor?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "blazor",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747479/how-can-i-render-the-plaintext-first-before-the-image-in-blazor"
+    },
+    {
+      "Created": "2025-08-27T03:08:34Z",
+      "Title": "Tests doesn\u0027t stop when receive multipart data in KTOR",
+      "Tags": [
+        "kotlin",
+        "ktor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747483/tests-doesnt-stop-when-receive-multipart-data-in-ktor"
+    },
+    {
+      "Created": "2025-08-27T03:12:47Z",
+      "Title": "Configuring MCP with Microsoft.Extensions.AI",
+      "Tags": [
+        "c#",
+        "artificial-intelligence",
+        "azure-openai",
+        "microsoft-extensions-ai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747488/configuring-mcp-with-microsoft-extensions-ai"
+    }
+  ]
+}

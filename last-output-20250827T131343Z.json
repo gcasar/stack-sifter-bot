@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-27T13:11:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T12:34:38Z",
+      "Title": "Converting from \u0027int\u0027 to days of the week, Richard Reily book, C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "enums"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747996/converting-from-int-to-days-of-the-week-richard-reily-book-c"
+    },
+    {
+      "Created": "2025-08-27T13:03:18Z",
+      "Title": "Debezium initial snapshot on demand",
+      "Tags": [
+        "debezium",
+        "cdc",
+        "debezium-connect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748023/debezium-initial-snapshot-on-demand"
+    },
+    {
+      "Created": "2025-08-27T13:03:23Z",
+      "Title": "Prisma split schema into multiple file",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748024/prisma-split-schema-into-multiple-file"
+    },
+    {
+      "Created": "2025-08-27T13:10:30Z",
+      "Title": "Druid Admin User Secret Rotation",
+      "Tags": [
+        "druid",
+        "apache-druid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748030/druid-admin-user-secret-rotation"
+    },
+    {
+      "Created": "2025-08-27T13:11:34Z",
+      "Title": "how to keep the focus of curser in terminal after opening a url through os/webbrowser.(python)",
+      "Tags": [
+        "python",
+        "python-os",
+        "python-webbrowser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748031/how-to-keep-the-focus-of-curser-in-terminal-after-opening-a-url-through-os-webbr"
+    }
+  ]
+}

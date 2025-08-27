@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-27T01:30:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T01:02:02Z",
+      "Title": "Convert char [] to unsigned long long (uint64_t)",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747442/convert-char-to-unsigned-long-long-uint64-t"
+    },
+    {
+      "Created": "2025-08-27T01:30:53Z",
+      "Title": "terra::north() produces \u0022substituted for \u27A2 (U\u002B27A2)\u0022 warning when exporting to PDF",
+      "Tags": [
+        "r",
+        "terra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79747447/terranorth-produces-substituted-for-u27a2-warning-when-exporting-to-p"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T10:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T09:22:56Z",
+      "Title": "How to duplicate (insert) rows in one table and referenced rows in another table?",
+      "Tags": [
+        "psql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748876/how-to-duplicate-insert-rows-in-one-table-and-referenced-rows-in-another-table"
+    },
+    {
+      "Created": "2025-08-28T09:27:06Z",
+      "Title": "lifetime handling for async code in actix extractor",
+      "Tags": [
+        "rust",
+        "actix-web"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748887/lifetime-handling-for-async-code-in-actix-extractor"
+    },
+    {
+      "Created": "2025-08-28T09:34:19Z",
+      "Title": "Change a value in a risk table in ggsurvplot",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "survminer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748896/change-a-value-in-a-risk-table-in-ggsurvplot"
+    },
+    {
+      "Created": "2025-08-28T09:50:24Z",
+      "Title": "How to programmatically handle container partition redistribution in GridDB cluster after node failure?",
+      "Tags": [
+        "java",
+        "cluster-analysis",
+        "partition",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748912/how-to-programmatically-handle-container-partition-redistribution-in-griddb-clus"
+    },
+    {
+      "Created": "2025-08-28T09:51:57Z",
+      "Title": "Git push problem because of case-sensitivity",
+      "Tags": [
+        "git",
+        "push",
+        "case-sensitive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748913/git-push-problem-because-of-case-sensitivity"
+    },
+    {
+      "Created": "2025-08-28T10:04:10Z",
+      "Title": "How to pass dynamic parameters (eg, index name, key) from Semantic Kernel to MCP server without LLM decision-making",
+      "Tags": [
+        "azure",
+        "openai-api",
+        "azure-ai",
+        "model-context-protocol",
+        "semantic-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748920/how-to-pass-dynamic-parameters-eg-index-name-key-from-semantic-kernel-to-mcp"
+    }
+  ]
+}

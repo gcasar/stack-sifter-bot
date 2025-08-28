@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T15:03:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T14:43:20Z",
+      "Title": "\u0421onnection timeout for function does not seem to work in Python script",
+      "Tags": [
+        "python",
+        "multiprocessing",
+        "timeout",
+        "firebird"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749255/%d0%a1onnection-timeout-for-function-does-not-seem-to-work-in-python-script"
+    },
+    {
+      "Created": "2025-08-28T14:43:32Z",
+      "Title": "deltaTime jitter with OpenGL in SDL2?",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "sdl-2",
+        "dwm",
+        "vsync"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749256/deltatime-jitter-with-opengl-in-sdl2"
+    },
+    {
+      "Created": "2025-08-28T14:55:53Z",
+      "Title": "ServiceStack ignores default values of DTO request objects",
+      "Tags": [
+        "servicestack",
+        "servicestack-text"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749270/servicestack-ignores-default-values-of-dto-request-objects"
+    },
+    {
+      "Created": "2025-08-28T14:58:06Z",
+      "Title": "Image element renders as a different size when using Base64 source compared to CID source",
+      "Tags": [
+        "html",
+        "image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749274/image-element-renders-as-a-different-size-when-using-base64-source-compared-to-c"
+    },
+    {
+      "Created": "2025-08-28T15:01:24Z",
+      "Title": "circe scala decode a sealed trait with type as String",
+      "Tags": [
+        "scala",
+        "vert.x",
+        "circe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749280/circe-scala-decode-a-sealed-trait-with-type-as-string"
+    },
+    {
+      "Created": "2025-08-28T15:03:52Z",
+      "Title": "RenderLayer.getTranslucent() in fabric 1.21.1 overrides/hides the block breaking animation",
+      "Tags": [
+        "java",
+        "minecraft",
+        "minecraft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749282/renderlayer-gettranslucent-in-fabric-1-21-1-overrides-hides-the-block-breaking"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-28T12:09:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T11:14:02Z",
+      "Title": "Flutter 3.35.2: What is the replacement for deprecated groupValue and onChanged in Radio widget?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "radio-button",
+        "deprecated"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748989/flutter-3-35-2-what-is-the-replacement-for-deprecated-groupvalue-and-onchanged"
+    },
+    {
+      "Created": "2025-08-28T11:52:50Z",
+      "Title": "ImportAuthorizationRequest function does not authorize the client, although it does not raise an error",
+      "Tags": [
+        "python",
+        "telethon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749040/importauthorizationrequest-function-does-not-authorize-the-client-although-it-d"
+    },
+    {
+      "Created": "2025-08-28T11:53:43Z",
+      "Title": "Why is a Swiper.js slide with a link not clickable when the Navigation module buttons are on top?",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "reactjs",
+        "swiper.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749045/why-is-a-swiper-js-slide-with-a-link-not-clickable-when-the-navigation-module-bu"
+    },
+    {
+      "Created": "2025-08-28T11:59:47Z",
+      "Title": "MV3 chrome.tabCapture permission warning",
+      "Tags": [
+        "google-chrome-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749051/mv3-chrome-tabcapture-permission-warning"
+    },
+    {
+      "Created": "2025-08-28T12:09:36Z",
+      "Title": "VEga lite : interval selections and point selections working toghether",
+      "Tags": [
+        "vega-lite",
+        "deneb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749066/vega-lite-interval-selections-and-point-selections-working-toghether"
+    }
+  ]
+}

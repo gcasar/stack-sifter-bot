@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-28T11:00:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T10:16:35Z",
+      "Title": "How to pass argument to func in \u0060pandas.resampler.agg()\u0060 when using dict input?",
+      "Tags": [
+        "python",
+        "pandas",
+        "aggregation",
+        "pandas-resample"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748930/how-to-pass-argument-to-func-in-pandas-resampler-agg-when-using-dict-input"
+    },
+    {
+      "Created": "2025-08-28T10:47:14Z",
+      "Title": "MockitoJUnitRunner Don\u0027t init mocks in SpringBoot",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "junit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748953/mockitojunitrunner-dont-init-mocks-in-springboot"
+    },
+    {
+      "Created": "2025-08-28T10:49:06Z",
+      "Title": "Vimtex causes nvim to freeze when \\ll is started",
+      "Tags": [
+        "latex",
+        "neovim",
+        "lazyvim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748955/vimtex-causes-nvim-to-freeze-when-ll-is-started"
+    },
+    {
+      "Created": "2025-08-28T10:54:14Z",
+      "Title": "kubeadm init fails with \u0022context deadline exceeded\u0022 and etcd becomes unhealthy (RHEL9 VM on Proxmox)",
+      "Tags": [
+        "rhel",
+        "etcd",
+        "kubeadm",
+        "containerd",
+        "proxmox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748958/kubeadm-init-fails-with-context-deadline-exceeded-and-etcd-becomes-unhealthy"
+    },
+    {
+      "Created": "2025-08-28T10:57:07Z",
+      "Title": "How to get the IP-address of remote host in outgoing connection using C#/ASP.NET?",
+      "Tags": [
+        "c#",
+        "asp.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748963/how-to-get-the-ip-address-of-remote-host-in-outgoing-connection-using-c-asp-net"
+    },
+    {
+      "Created": "2025-08-28T10:57:44Z",
+      "Title": "Correct DateTime without network access",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748964/correct-datetime-without-network-access"
+    },
+    {
+      "Created": "2025-08-28T11:00:31Z",
+      "Title": "Network error communicating with endpoint for HTTP_PROXY integration",
+      "Tags": [
+        "amazon-web-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748967/network-error-communicating-with-endpoint-for-http-proxy-integration"
+    },
+    {
+      "Created": "2025-08-28T11:00:40Z",
+      "Title": "How to avoid SMS messages being flagged as spam when using 2Factor bulk SMS service?",
+      "Tags": [
+        "sms",
+        "integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748968/how-to-avoid-sms-messages-being-flagged-as-spam-when-using-2factor-bulk-sms-serv"
+    }
+  ]
+}

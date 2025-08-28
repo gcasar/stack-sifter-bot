@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T16:57:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T16:38:31Z",
+      "Title": "Is there a tsconfig flag or eslint rule to disallow unrelated types as function parameter?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "function",
+        "types",
+        "parameters"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749383/is-there-a-tsconfig-flag-or-eslint-rule-to-disallow-unrelated-types-as-function"
+    },
+    {
+      "Created": "2025-08-28T16:40:39Z",
+      "Title": "How to create new orphan git branch and keep only one folder?",
+      "Tags": [
+        "git",
+        "github",
+        "git-bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749385/how-to-create-new-orphan-git-branch-and-keep-only-one-folder"
+    },
+    {
+      "Created": "2025-08-28T16:51:03Z",
+      "Title": "Changing DynamoDB from Provisioned to On Demand via CDK process?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-dynamodb",
+        "aws-cloudformation",
+        "aws-cdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749392/changing-dynamodb-from-provisioned-to-on-demand-via-cdk-process"
+    },
+    {
+      "Created": "2025-08-28T16:51:52Z",
+      "Title": "SpringBoot RestClient (not WebClient, not RestTemplate) with InsecureTrustManagerFactory.INSTANCE with SslBundle",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "ssl",
+        "truststore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749393/springboot-restclient-not-webclient-not-resttemplate-with-insecuretrustmanage"
+    },
+    {
+      "Created": "2025-08-28T16:57:51Z",
+      "Title": "Forward ssh from 22 to custom ports based on domain",
+      "Tags": [
+        "network-programming",
+        "routes",
+        "ssh",
+        "ip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749399/forward-ssh-from-22-to-custom-ports-based-on-domain"
+    },
+    {
+      "Created": "2025-08-28T16:57:56Z",
+      "Title": "How to define confirmationDialog with Binding Item instead of isPresented one?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749400/how-to-define-confirmationdialog-with-binding-item-instead-of-ispresented-one"
+    }
+  ]
+}

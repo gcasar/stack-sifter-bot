@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-28T02:44:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T02:39:27Z",
+      "Title": "Is it true that when rendering a component using routes, there is no need to declare that component in ngModule? (angular v17)",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748606/is-it-true-that-when-rendering-a-component-using-routes-there-is-no-need-to-dec"
+    },
+    {
+      "Created": "2025-08-28T02:44:30Z",
+      "Title": "Is there any free Rest API Server that shows just posted POST data via GET request? [closed]",
+      "Tags": [
+        "rest",
+        "object",
+        "post",
+        "get",
+        "rest-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748609/is-there-any-free-rest-api-server-that-shows-just-posted-post-data-via-get-reque"
+    }
+  ]
+}

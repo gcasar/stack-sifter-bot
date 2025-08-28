@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T04:53:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T04:18:18Z",
+      "Title": "React MUI Drawer - when the drawer is attached a specific \u003Cdiv\u003E, the open animation slides in the background instead of the drawer itself",
+      "Tags": [
+        "reactjs",
+        "material-ui",
+        "drawer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748639/react-mui-drawer-when-the-drawer-is-attached-a-specific-div-the-open-animat"
+    },
+    {
+      "Created": "2025-08-28T04:30:18Z",
+      "Title": "Codeigniter 3... Undefined Property $Ngetest",
+      "Tags": [
+        "codeigniter",
+        "model",
+        "controller",
+        "undefined",
+        "codeigniter-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748645/codeigniter-3-undefined-property-ngetest"
+    },
+    {
+      "Created": "2025-08-28T04:39:44Z",
+      "Title": "What is better Optional or | None in python type hints?",
+      "Tags": [
+        "python",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748648/what-is-better-optional-or-none-in-python-type-hints"
+    },
+    {
+      "Created": "2025-08-28T04:48:34Z",
+      "Title": "ASP.NET Survey Application with Different Points for Each Option",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "web-applications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748651/asp-net-survey-application-with-different-points-for-each-option"
+    },
+    {
+      "Created": "2025-08-28T04:51:12Z",
+      "Title": "Exposed - Eager Loading doesn\u0027t work as I imagined",
+      "Tags": [
+        "kotlin",
+        "ktor",
+        "kotlin-exposed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748652/exposed-eager-loading-doesnt-work-as-i-imagined"
+    },
+    {
+      "Created": "2025-08-28T04:53:00Z",
+      "Title": "Confusioins with how Laravel\u0027s Job serialization and deserialization works",
+      "Tags": [
+        "laravel",
+        "serialization",
+        "deserialization",
+        "laravel-queue",
+        "laravel-jobs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748654/confusioins-with-how-laravels-job-serialization-and-deserialization-works"
+    }
+  ]
+}

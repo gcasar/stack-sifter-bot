@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-27T23:55:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-27T23:13:51Z",
+      "Title": "Setting global variables for python multiprocessing",
+      "Tags": [
+        "python",
+        "numpy",
+        "multiprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748530/setting-global-variables-for-python-multiprocessing"
+    },
+    {
+      "Created": "2025-08-27T23:41:50Z",
+      "Title": "Split .gpx tracks file by polygon and calculate the time and distance in each polygon",
+      "Tags": [
+        "r",
+        "spatial",
+        "shapefile",
+        "gpx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748540/split-gpx-tracks-file-by-polygon-and-calculate-the-time-and-distance-in-each-po"
+    },
+    {
+      "Created": "2025-08-27T23:52:09Z",
+      "Title": "React Native/ TansStack query: problem with Hooks and Components: Error Invalid hook",
+      "Tags": [
+        "react-native",
+        "expo",
+        "tanstackreact-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748544/react-native-tansstack-query-problem-with-hooks-and-components-error-invalid"
+    },
+    {
+      "Created": "2025-08-27T23:55:43Z",
+      "Title": "Flutter: how to set locale of showDateRangePicker when there is no MaterialApp",
+      "Tags": [
+        "flutter",
+        "flutter-localizations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748547/flutter-how-to-set-locale-of-showdaterangepicker-when-there-is-no-materialapp"
+    }
+  ]
+}

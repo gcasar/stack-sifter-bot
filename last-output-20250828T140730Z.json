@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T14:02:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T13:51:58Z",
+      "Title": "Can I upgrade Cassandra 3.11.9 directly to Cassandra 4.x in an 8-node cluster with 2TB data per node? [closed]",
+      "Tags": [
+        "database",
+        "cassandra",
+        "database-administration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749189/can-i-upgrade-cassandra-3-11-9-directly-to-cassandra-4-x-in-an-8-node-cluster-wi"
+    },
+    {
+      "Created": "2025-08-28T13:52:50Z",
+      "Title": "How to make Terraria\u0027s title screen? [closed]",
+      "Tags": [
+        "python",
+        "game-development",
+        "arcade"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749191/how-to-make-terrarias-title-screen"
+    },
+    {
+      "Created": "2025-08-28T13:55:41Z",
+      "Title": "seteuid and setreuid giving crash on AIX 7.2",
+      "Tags": [
+        "c",
+        "system",
+        "aix",
+        "libc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749192/seteuid-and-setreuid-giving-crash-on-aix-7-2"
+    },
+    {
+      "Created": "2025-08-28T13:55:44Z",
+      "Title": "Screen capture on ChromeOS/Linux without permission popup | Desktop App",
+      "Tags": [
+        "linux",
+        "screen-capture",
+        "google-chrome-os",
+        "tauri",
+        "get-display-media"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749193/screen-capture-on-chromeos-linux-without-permission-popup-desktop-app"
+    },
+    {
+      "Created": "2025-08-28T14:01:32Z",
+      "Title": "Mongodb with spring. Is there some alternative for deprecated \u0022$where\u0022 clause?",
+      "Tags": [
+        "spring-mongodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749199/mongodb-with-spring-is-there-some-alternative-for-deprecated-where-clause"
+    },
+    {
+      "Created": "2025-08-28T14:02:54Z",
+      "Title": "Why does my Nginx Content-Security-Policy block external libraries (Google Analytics, WebEngage, Clarity, Fonts) and break my site?",
+      "Tags": [
+        "ubuntu",
+        "nginx",
+        "content-security-policy",
+        "nginx-reverse-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749201/why-does-my-nginx-content-security-policy-block-external-libraries-google-analy"
+    }
+  ]
+}

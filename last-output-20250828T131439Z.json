@@ -1,0 +1,128 @@
+{
+  "TotalProcessed": 12,
+  "LastCreated": "2025-08-28T13:12:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T12:12:46Z",
+      "Title": "Why is it impossible to cast ref-unqualified member function pointer to a ref-qualified member function pointer?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11",
+        "language-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749070/why-is-it-impossible-to-cast-ref-unqualified-member-function-pointer-to-a-ref-qu"
+    },
+    {
+      "Created": "2025-08-28T13:08:28Z",
+      "Title": "Returning a lvalue reference to a member variable passed by a forwarding reference",
+      "Tags": [
+        "c\u002B\u002B",
+        "forwarding-reference",
+        "lvalue-to-rvalue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749137/returning-a-lvalue-reference-to-a-member-variable-passed-by-a-forwarding-referen"
+    },
+    {
+      "Created": "2025-08-28T13:08:41Z",
+      "Title": "Why use the custom ffmpeg cuda filter to add watermarks, but it always crashes and cannot be used, how to fix it?",
+      "Tags": [
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749138/why-use-the-custom-ffmpeg-cuda-filter-to-add-watermarks-but-it-always-crashes-a"
+    },
+    {
+      "Created": "2025-08-28T13:08:59Z",
+      "Title": "Firebase Function Creates Stripe \u0022Live\u0022 Session Despite Using \u0022Test\u0022 Keys",
+      "Tags": [
+        "firebase",
+        "google-cloud-platform",
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749140/firebase-function-creates-stripe-live-session-despite-using-test-keys"
+    },
+    {
+      "Created": "2025-08-28T13:10:10Z",
+      "Title": "How to fix IndoPak Arabic font overlapping (Kasra below letters) in React Native Quran app?",
+      "Tags": [
+        "react-native",
+        "unicode",
+        "fonts",
+        "arabic",
+        "text-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749141/how-to-fix-indopak-arabic-font-overlapping-kasra-below-letters-in-react-native"
+    },
+    {
+      "Created": "2025-08-28T13:10:16Z",
+      "Title": "Need help setting headers for ERPNEXT API endpoint",
+      "Tags": [
+        "next.js",
+        "cookies",
+        "session-cookies",
+        "erpnext",
+        "frappe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749142/need-help-setting-headers-for-erpnext-api-endpoint"
+    },
+    {
+      "Created": "2025-08-28T13:10:47Z",
+      "Title": "Netcode with custom PlayFab Party transport",
+      "Tags": [
+        "multiplayer",
+        "playfab",
+        "netcode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749143/netcode-with-custom-playfab-party-transport"
+    },
+    {
+      "Created": "2025-08-28T13:11:33Z",
+      "Title": "Control state of React component from click events on an Astro component (external button)?",
+      "Tags": [
+        "reactjs",
+        "astrojs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749144/control-state-of-react-component-from-click-events-on-an-astro-component-extern"
+    },
+    {
+      "Created": "2025-08-28T13:11:51Z",
+      "Title": "superset iframe embedding working in firefox",
+      "Tags": [
+        "cookies",
+        "apache-superset",
+        "samesite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749145/superset-iframe-embedding-working-in-firefox"
+    },
+    {
+      "Created": "2025-08-28T13:12:00Z",
+      "Title": "Flet DataTable: row disappears when updating cell content value",
+      "Tags": [
+        "python",
+        "flutter",
+        "flet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749147/flet-datatable-row-disappears-when-updating-cell-content-value"
+    },
+    {
+      "Created": "2025-08-28T13:12:11Z",
+      "Title": "Performing Calculations Between Custom Meta Fields in Crocoblock JetEngine and Displaying Results Using Native JetEngine Shortcodes",
+      "Tags": [
+        "wordpress",
+        "custom-post-type",
+        "calculated-field",
+        "jet-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749149/performing-calculations-between-custom-meta-fields-in-crocoblock-jetengine-and-d"
+    },
+    {
+      "Created": "2025-08-28T13:12:32Z",
+      "Title": "Can\u0027t import DLL into Inno Setup ver 6.5.1",
+      "Tags": [
+        "dll",
+        "inno-setup",
+        "pascal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749150/cant-import-dll-into-inno-setup-ver-6-5-1"
+    }
+  ]
+}

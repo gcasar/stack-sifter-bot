@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-28T08:59:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T08:32:26Z",
+      "Title": "CEF \u0421\u002B\u002B - how to enable sandbox",
+      "Tags": [
+        "c\u002B\u002B",
+        "chromium-embedded"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748822/cef-%d0%a1-how-to-enable-sandbox"
+    },
+    {
+      "Created": "2025-08-28T08:52:02Z",
+      "Title": "Specify in which order to apply filters in django_filters.FilterSet",
+      "Tags": [
+        "python",
+        "django",
+        "django-filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748845/specify-in-which-order-to-apply-filters-in-django-filters-filterset"
+    },
+    {
+      "Created": "2025-08-28T08:56:36Z",
+      "Title": "How can I view ROS2 (Docker) topics on host ROS1 (Noetic) terminal in Ubuntu 20.04",
+      "Tags": [
+        "linux",
+        "docker",
+        "ubuntu",
+        "ros",
+        "docker-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748852/how-can-i-view-ros2-docker-topics-on-host-ros1-noetic-terminal-in-ubuntu-20"
+    },
+    {
+      "Created": "2025-08-28T08:58:37Z",
+      "Title": "Not able to get selection of pdf document wiht Qt for Python (PySide6)",
+      "Tags": [
+        "pyside6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748854/not-able-to-get-selection-of-pdf-document-wiht-qt-for-python-pyside6"
+    },
+    {
+      "Created": "2025-08-28T08:59:26Z",
+      "Title": "Remove date input padding on Firefox",
+      "Tags": [
+        "css",
+        "firefox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748856/remove-date-input-padding-on-firefox"
+    }
+  ]
+}

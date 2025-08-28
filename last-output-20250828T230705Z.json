@@ -1,0 +1,119 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-08-28T23:00:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T22:15:23Z",
+      "Title": "PowerShell variable retains value from previous iteration, causing unexpected behavior",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749661/powershell-variable-retains-value-from-previous-iteration-causing-unexpected-be"
+    },
+    {
+      "Created": "2025-08-28T22:41:43Z",
+      "Title": "Combining a sequence of Either function results using a for comprehension",
+      "Tags": [
+        "scala",
+        "for-comprehension",
+        "either"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749678/combining-a-sequence-of-either-function-results-using-a-for-comprehension"
+    },
+    {
+      "Created": "2025-08-28T22:46:48Z",
+      "Title": "What is the general workflow for creating a collision checker in Drake?",
+      "Tags": [
+        "robotics",
+        "drake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749684/what-is-the-general-workflow-for-creating-a-collision-checker-in-drake"
+    },
+    {
+      "Created": "2025-08-28T22:47:08Z",
+      "Title": "NPX gulp generated sourcemaps keep changing line endings (CRLF vs LF)",
+      "Tags": [
+        "windows",
+        "git",
+        "gulp",
+        "source-maps",
+        "line-endings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749685/npx-gulp-generated-sourcemaps-keep-changing-line-endings-crlf-vs-lf"
+    },
+    {
+      "Created": "2025-08-28T22:47:23Z",
+      "Title": "Why does grid-column add an extra row?",
+      "Tags": [
+        "css",
+        "grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749686/why-does-grid-column-add-an-extra-row"
+    },
+    {
+      "Created": "2025-08-28T22:48:11Z",
+      "Title": "How to use gltfjsx to create a jsx file to load a glb file but change material colors from each call to the transformed file/model?",
+      "Tags": [
+        "reactjs",
+        "three.js",
+        "gltf",
+        "r3f"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749687/how-to-use-gltfjsx-to-create-a-jsx-file-to-load-a-glb-file-but-change-material-c"
+    },
+    {
+      "Created": "2025-08-28T22:48:41Z",
+      "Title": "Trouble Embedding Third-Party HTML5 Games in Next.js iFrame",
+      "Tags": [
+        "html",
+        "iframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749688/trouble-embedding-third-party-html5-games-in-next-js-iframe"
+    },
+    {
+      "Created": "2025-08-28T22:51:52Z",
+      "Title": "Retreive value from JSON in typescript",
+      "Tags": [
+        "json",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749690/retreive-value-from-json-in-typescript"
+    },
+    {
+      "Created": "2025-08-28T22:58:57Z",
+      "Title": "How can a menu sidebar be toggled / collapsed by default in HTML / CSS / JS without using a class?",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "menu",
+        "sidebar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749692/how-can-a-menu-sidebar-be-toggled-collapsed-by-default-in-html-css-js-with"
+    },
+    {
+      "Created": "2025-08-28T23:00:45Z",
+      "Title": "Does GlobalUseSkia activate Skia for everything or only Skia components in Delphi FMX?",
+      "Tags": [
+        "delphi",
+        "skia",
+        "delphi-12-athens",
+        "skia4delphi",
+        "tpaintbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749695/does-globaluseskia-activate-skia-for-everything-or-only-skia-components-in-delph"
+    },
+    {
+      "Created": "2025-08-28T23:00:49Z",
+      "Title": "Can Server send sha256 cert when client asks for sha384?",
+      "Tags": [
+        "ssl",
+        "openssl",
+        "sha256",
+        "sha",
+        "sha2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749696/can-server-send-sha256-cert-when-client-asks-for-sha384"
+    }
+  ]
+}

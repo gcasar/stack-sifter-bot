@@ -1,0 +1,129 @@
+{
+  "TotalProcessed": 12,
+  "LastCreated": "2025-08-28T16:04:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T15:07:19Z",
+      "Title": "Can attr() be used inside var()",
+      "Tags": [
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749287/can-attr-be-used-inside-var"
+    },
+    {
+      "Created": "2025-08-28T15:16:55Z",
+      "Title": "Does writing non-repeating blocks of random bytes to a file ensure it will bypass filesystem compression even if explicitly enabled?",
+      "Tags": [
+        "sanitization",
+        "erase",
+        "hard-drive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749295/does-writing-non-repeating-blocks-of-random-bytes-to-a-file-ensure-it-will-bypas"
+    },
+    {
+      "Created": "2025-08-28T15:23:10Z",
+      "Title": "Custom Model Binder resulting in Response 400 Bad Request",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "custom-model-binder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749303/custom-model-binder-resulting-in-response-400-bad-request"
+    },
+    {
+      "Created": "2025-08-28T15:26:45Z",
+      "Title": "explicit object accessing a protected member",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749307/explicit-object-accessing-a-protected-member"
+    },
+    {
+      "Created": "2025-08-28T15:45:06Z",
+      "Title": "How does the implementation of C\u002B\u002B std::weak_ptr upgrade to std::shared_ptr and access the object without risking a use-after-free?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "shared-ptr",
+        "smart-pointers",
+        "weak-ptr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749327/how-does-the-implementation-of-c-stdweak-ptr-upgrade-to-stdshared-ptr-and"
+    },
+    {
+      "Created": "2025-08-28T15:52:32Z",
+      "Title": "How does a failed spinlock CAS affect out-of-order speculation and RMW reordering on weak memory architectures?",
+      "Tags": [
+        "arm",
+        "mips",
+        "riscv",
+        "sparc",
+        "speculative-execution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749331/how-does-a-failed-spinlock-cas-affect-out-of-order-speculation-and-rmw-reorderin"
+    },
+    {
+      "Created": "2025-08-28T15:53:28Z",
+      "Title": "How do I use cross-column references in a block of Excel spill formula rows?",
+      "Tags": [
+        "excel",
+        "excel-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749334/how-do-i-use-cross-column-references-in-a-block-of-excel-spill-formula-rows"
+    },
+    {
+      "Created": "2025-08-28T15:57:01Z",
+      "Title": "ComboBox cannot scroll when dropdown is open if the parent PreviewMouseWheel event is handled",
+      "Tags": [
+        "wpf",
+        "xaml",
+        "combobox",
+        "routed-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749340/combobox-cannot-scroll-when-dropdown-is-open-if-the-parent-previewmousewheel-eve"
+    },
+    {
+      "Created": "2025-08-28T15:57:32Z",
+      "Title": "Difference between metrics system_cpu_usage and process_cpu_usage for spring boot application with micrometer",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "cpu-usage",
+        "micrometer",
+        "spring-micrometer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749342/difference-between-metrics-system-cpu-usage-and-process-cpu-usage-for-spring-boo"
+    },
+    {
+      "Created": "2025-08-28T15:57:38Z",
+      "Title": "How to choose different ItemTemplates for child nodes in TreeView (WPF) depending on the parent/grandparent node?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "treeview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749343/how-to-choose-different-itemtemplates-for-child-nodes-in-treeview-wpf-dependin"
+    },
+    {
+      "Created": "2025-08-28T16:02:23Z",
+      "Title": "Cypress cannot access Angular server, even though it is started on localhost",
+      "Tags": [
+        "angular",
+        "cypress",
+        "e2e-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749347/cypress-cannot-access-angular-server-even-though-it-is-started-on-localhost"
+    },
+    {
+      "Created": "2025-08-28T16:04:41Z",
+      "Title": "E1030 Invalid compiler directive: \u0027private\u0027 in Delphi FMX",
+      "Tags": [
+        "delphi",
+        "delphi-12-athens",
+        "delphi-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749350/e1030-invalid-compiler-directive-private-in-delphi-fmx"
+    }
+  ]
+}

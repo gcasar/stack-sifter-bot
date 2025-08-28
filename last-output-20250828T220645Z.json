@@ -1,0 +1,128 @@
+{
+  "TotalProcessed": 12,
+  "LastCreated": "2025-08-28T22:03:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T21:10:26Z",
+      "Title": "How can I remove everything from TPaintBox in FMX?",
+      "Tags": [
+        "delphi",
+        "firemonkey",
+        "delphi-12-athens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749605/how-can-i-remove-everything-from-tpaintbox-in-fmx"
+    },
+    {
+      "Created": "2025-08-28T21:24:32Z",
+      "Title": "Python in a Docker Container refused connection to Postgres in a networked Docker Container",
+      "Tags": [
+        "python",
+        "postgresql",
+        "docker",
+        "docker-compose",
+        "psycopg2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749620/python-in-a-docker-container-refused-connection-to-postgres-in-a-networked-docke"
+    },
+    {
+      "Created": "2025-08-28T21:34:01Z",
+      "Title": "substring(enumColumn::TEXT from \u0027pattern\u0027) not IMMUTABLE in PostgreSQL",
+      "Tags": [
+        "regex",
+        "postgresql",
+        "substring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749626/substringenumcolumntext-from-pattern-not-immutable-in-postgresql"
+    },
+    {
+      "Created": "2025-08-28T21:36:46Z",
+      "Title": "Snowflake PK Enforcement",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "primary-key"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749628/snowflake-pk-enforcement"
+    },
+    {
+      "Created": "2025-08-28T21:38:37Z",
+      "Title": "Instead of a texture atlas, dump all images in one buffer",
+      "Tags": [
+        "opengl",
+        "glsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749629/instead-of-a-texture-atlas-dump-all-images-in-one-buffer"
+    },
+    {
+      "Created": "2025-08-28T21:43:49Z",
+      "Title": "How to add list of MenuItem controls using MVVM binding?",
+      "Tags": [
+        "wpf",
+        "data-binding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749633/how-to-add-list-of-menuitem-controls-using-mvvm-binding"
+    },
+    {
+      "Created": "2025-08-28T21:51:26Z",
+      "Title": "\u0060always @(*)\u0060 change the \u0060$display\u0060 output",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749641/always-change-the-display-output"
+    },
+    {
+      "Created": "2025-08-28T21:54:51Z",
+      "Title": "Is there a non-hacky way to run Jakarta Server Faces apps from a fat jar?",
+      "Tags": [
+        "jsf",
+        "ejb",
+        "payara-micro"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749642/is-there-a-non-hacky-way-to-run-jakarta-server-faces-apps-from-a-fat-jar"
+    },
+    {
+      "Created": "2025-08-28T21:58:00Z",
+      "Title": "Using FFmpegFrameRecorder using bytedeco/javavc, joining together specific parts of a video causes audio and image to fall out of sync",
+      "Tags": [
+        "ffmpeg",
+        "video-processing",
+        "javacv",
+        "audio-video-sync",
+        "bytedeco-javacv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749645/using-ffmpegframerecorder-using-bytedeco-javavc-joining-together-specific-parts"
+    },
+    {
+      "Created": "2025-08-28T21:58:15Z",
+      "Title": "Create unique index for each group PySpark",
+      "Tags": [
+        "python",
+        "apache-spark",
+        "pyspark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749646/create-unique-index-for-each-group-pyspark"
+    },
+    {
+      "Created": "2025-08-28T22:00:06Z",
+      "Title": "How to detect if Visual Studio Code is installed via Delphi code?",
+      "Tags": [
+        "linux",
+        "windows",
+        "visual-studio-code",
+        "delphi",
+        "delphi-12-athens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749650/how-to-detect-if-visual-studio-code-is-installed-via-delphi-code"
+    },
+    {
+      "Created": "2025-08-28T22:03:09Z",
+      "Title": "How do I include control characters in my XML without affecting other data",
+      "Tags": [
+        "sql-server",
+        "xml",
+        "t-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749654/how-do-i-include-control-characters-in-my-xml-without-affecting-other-data"
+    }
+  ]
+}

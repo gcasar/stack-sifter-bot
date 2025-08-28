@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-28T17:53:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T17:42:40Z",
+      "Title": "EhCache3 giving error while setting expiry",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "ehcache",
+        "ehcache-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749438/ehcache3-giving-error-while-setting-expiry"
+    },
+    {
+      "Created": "2025-08-28T17:53:40Z",
+      "Title": "How to test connection to Google Pub/Sub when creating a client in Go using pubsub/v2?",
+      "Tags": [
+        "go",
+        "google-cloud-pubsub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749445/how-to-test-connection-to-google-pub-sub-when-creating-a-client-in-go-using-pubs"
+    }
+  ]
+}

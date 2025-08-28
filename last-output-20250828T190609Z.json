@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T19:00:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T18:16:06Z",
+      "Title": "Simple GLFW animation of a circle fails",
+      "Tags": [
+        "c",
+        "animation",
+        "opengl",
+        "glfw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749455/simple-glfw-animation-of-a-circle-fails"
+    },
+    {
+      "Created": "2025-08-28T18:43:48Z",
+      "Title": "how to fetch a hiden (dot) file in javascript",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749481/how-to-fetch-a-hiden-dot-file-in-javascript"
+    },
+    {
+      "Created": "2025-08-28T18:48:12Z",
+      "Title": "dictionary of dictionaries with same keys is changing all of the dictionaries within it",
+      "Tags": [
+        "pandas",
+        "dataframe",
+        "dictionary",
+        "nested"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749482/dictionary-of-dictionaries-with-same-keys-is-changing-all-of-the-dictionaries-wi"
+    },
+    {
+      "Created": "2025-08-28T18:54:49Z",
+      "Title": "How to send a diagnostic request via DoIP in CAPL using Doip.dll?",
+      "Tags": [
+        "capl",
+        "canoe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749483/how-to-send-a-diagnostic-request-via-doip-in-capl-using-doip-dll"
+    },
+    {
+      "Created": "2025-08-28T18:57:51Z",
+      "Title": "how do i put the elements back in the matrix to return it sorted",
+      "Tags": [
+        "python",
+        "sorting",
+        "matrix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749488/how-do-i-put-the-elements-back-in-the-matrix-to-return-it-sorted"
+    },
+    {
+      "Created": "2025-08-28T19:00:32Z",
+      "Title": "Why does PLIC is still required for single hart system to boot Linux even in presence of CLIC?",
+      "Tags": [
+        "linux",
+        "interrupt",
+        "riscv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749491/why-does-plic-is-still-required-for-single-hart-system-to-boot-linux-even-in-pre"
+    }
+  ]
+}

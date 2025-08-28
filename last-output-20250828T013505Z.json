@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-28T01:27:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T00:49:04Z",
+      "Title": "Why does a mocked Temporal child workflow fail to receive signals?",
+      "Tags": [
+        "go",
+        "temporal",
+        "cadence-workflow",
+        "temporal-workflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748566/why-does-a-mocked-temporal-child-workflow-fail-to-receive-signals"
+    },
+    {
+      "Created": "2025-08-28T01:15:59Z",
+      "Title": "Is there a way to set all Qt qss properties to original state, as if they had never been set (ie prevent cascading up to a point)?",
+      "Tags": [
+        "css",
+        "maya",
+        "qtstylesheets",
+        "houdini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748577/is-there-a-way-to-set-all-qt-qss-properties-to-original-state-as-if-they-had-ne"
+    },
+    {
+      "Created": "2025-08-28T01:20:12Z",
+      "Title": "CCIP Cross Chain Custom Token Transfer Issue",
+      "Tags": [
+        "chainlink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748579/ccip-cross-chain-custom-token-transfer-issue"
+    },
+    {
+      "Created": "2025-08-28T01:27:25Z",
+      "Title": "in a class, create create a method that adds a number to an attribute",
+      "Tags": [
+        "python",
+        "class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748583/in-a-class-create-create-a-method-that-adds-a-number-to-an-attribute"
+    }
+  ]
+}

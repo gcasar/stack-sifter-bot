@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T20:05:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T19:34:02Z",
+      "Title": "Pandas read_csv, load empty/missing column values as NaN while loading empty string for quoted empty strings values in csv file",
+      "Tags": [
+        "python",
+        "pandas",
+        "string"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749522/pandas-read-csv-load-empty-missing-column-values-as-nan-while-loading-empty-str"
+    },
+    {
+      "Created": "2025-08-28T19:54:31Z",
+      "Title": "How to use intelephense\u0027s @disregard on a whole function?",
+      "Tags": [
+        "php",
+        "intelephense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749535/how-to-use-intelephenses-disregard-on-a-whole-function"
+    },
+    {
+      "Created": "2025-08-28T19:55:31Z",
+      "Title": "Configurable class fixture for pytest depending on which tests are going to be executed?",
+      "Tags": [
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749536/configurable-class-fixture-for-pytest-depending-on-which-tests-are-going-to-be-e"
+    },
+    {
+      "Created": "2025-08-28T19:57:38Z",
+      "Title": "XML with attributes to array in PHP",
+      "Tags": [
+        "php",
+        "xml",
+        "multidimensional-array"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749537/xml-with-attributes-to-array-in-php"
+    },
+    {
+      "Created": "2025-08-28T19:59:03Z",
+      "Title": "Is it possible with spring boot injected class to call a constructor with parameters?",
+      "Tags": [
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749539/is-it-possible-with-spring-boot-injected-class-to-call-a-constructor-with-parame"
+    },
+    {
+      "Created": "2025-08-28T20:05:35Z",
+      "Title": "calling a class object in an iterative way on python",
+      "Tags": [
+        "python",
+        "loops",
+        "class",
+        "iterator",
+        "iteration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749547/calling-a-class-object-in-an-iterative-way-on-python"
+    }
+  ]
+}

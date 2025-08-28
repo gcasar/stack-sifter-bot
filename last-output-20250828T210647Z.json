@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-28T21:00:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T20:19:41Z",
+      "Title": "How ifluencer tools pull deep instagram and TikTok data APIs, scraping or something other [closed]",
+      "Tags": [
+        "web-scraping",
+        "instagram",
+        "tiktok",
+        "tiktok-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749558/how-ifluencer-tools-pull-deep-instagram-and-tiktok-data-apis-scraping-or-someth"
+    },
+    {
+      "Created": "2025-08-28T20:42:54Z",
+      "Title": "Getting different results across different machines while training RL",
+      "Tags": [
+        "reinforcement-learning",
+        "jax",
+        "stable-baselines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749577/getting-different-results-across-different-machines-while-training-rl"
+    },
+    {
+      "Created": "2025-08-28T20:44:26Z",
+      "Title": "Relating icons to the texts in PDF files",
+      "Tags": [
+        "python",
+        "pdf",
+        "text",
+        "icons"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749579/relating-icons-to-the-texts-in-pdf-files"
+    },
+    {
+      "Created": "2025-08-28T20:44:44Z",
+      "Title": "How to retrieve one data value from the result of a pandas DataFrame.groupby().mean()",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749580/how-to-retrieve-one-data-value-from-the-result-of-a-pandas-dataframe-groupby-m"
+    },
+    {
+      "Created": "2025-08-28T20:54:30Z",
+      "Title": "jest expect(1).toEqual(2) passes whie it obviously should throw",
+      "Tags": [
+        "jestjs",
+        "ts-jest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749590/jest-expect1-toequal2-passes-whie-it-obviously-should-throw"
+    },
+    {
+      "Created": "2025-08-28T20:57:50Z",
+      "Title": "How to host a free Node.js HTTP \u2192 HTTPS proxy",
+      "Tags": [
+        "node.js",
+        "http",
+        "https",
+        "proxy",
+        "sim800"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749594/how-to-host-a-free-node-js-http-%e2%86%92-https-proxy"
+    },
+    {
+      "Created": "2025-08-28T20:59:14Z",
+      "Title": "Variadic template function that I can\u0027t fix on my own",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "variadic-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749595/variadic-template-function-that-i-cant-fix-on-my-own"
+    },
+    {
+      "Created": "2025-08-28T21:00:08Z",
+      "Title": "Error while trying to run C program in cmd (Windows 11 / mingw)",
+      "Tags": [
+        "c",
+        "gcc",
+        "cmd",
+        "mingw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749596/error-while-trying-to-run-c-program-in-cmd-windows-11-mingw"
+    }
+  ]
+}

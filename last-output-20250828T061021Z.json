@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-28T06:05:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T05:56:58Z",
+      "Title": "Docker-Container: Vite dev server 404 errors for main.jsx and vite.svg when running inside code-server proxy",
+      "Tags": [
+        "reactjs",
+        "docker",
+        "vite",
+        "code-server",
+        "hmr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748686/docker-container-vite-dev-server-404-errors-for-main-jsx-and-vite-svg-when-runn"
+    },
+    {
+      "Created": "2025-08-28T05:57:15Z",
+      "Title": "Azure DevOps 2019 on premise compiling Blazor with build pipeline (classic editor) - How to specify emcc options",
+      "Tags": [
+        "blazor",
+        "devops",
+        "webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748687/azure-devops-2019-on-premise-compiling-blazor-with-build-pipeline-classic-edito"
+    },
+    {
+      "Created": "2025-08-28T05:57:32Z",
+      "Title": "Spring Boot OAuth2 \u002B MFA: Cached /oauth2/authorize request becomes null on server (works locally)",
+      "Tags": [
+        "spring-boot",
+        "caching",
+        "spring-security",
+        "oauth-2.0",
+        "multi-factor-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748688/spring-boot-oauth2-mfa-cached-oauth2-authorize-request-becomes-null-on-serve"
+    },
+    {
+      "Created": "2025-08-28T06:05:32Z",
+      "Title": "How is the CUDA device/host attribute derived from it closure type?",
+      "Tags": [
+        "c\u002B\u002B",
+        "lambda",
+        "cuda",
+        "closures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748690/how-is-the-cuda-device-host-attribute-derived-from-it-closure-type"
+    }
+  ]
+}

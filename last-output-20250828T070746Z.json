@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-28T07:03:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-28T06:41:55Z",
+      "Title": "OAuth authentication with Github iOS",
+      "Tags": [
+        "swift",
+        "xcode",
+        "github",
+        "oauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748726/oauth-authentication-with-github-ios"
+    },
+    {
+      "Created": "2025-08-28T06:44:50Z",
+      "Title": "Migrations \u0026 Seeders \u0026 Command for production data",
+      "Tags": [
+        "php",
+        "laravel",
+        "database",
+        "database-migration",
+        "laravel-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748729/migrations-seeders-command-for-production-data"
+    },
+    {
+      "Created": "2025-08-28T06:59:44Z",
+      "Title": "Can not deploy dash with guvicorn",
+      "Tags": [
+        "python",
+        "plotly-dash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748737/can-not-deploy-dash-with-guvicorn"
+    },
+    {
+      "Created": "2025-08-28T07:00:00Z",
+      "Title": "How to extract actual Teams chat message text in Power Automate (only getting IDs in trigger)",
+      "Tags": [
+        "power-automate",
+        "powerapps",
+        "microsoft-copilot-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748738/how-to-extract-actual-teams-chat-message-text-in-power-automate-only-getting-id"
+    },
+    {
+      "Created": "2025-08-28T07:01:10Z",
+      "Title": "Batch file skipping over a label, and always giving a 401",
+      "Tags": [
+        "batch-file",
+        "cmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748740/batch-file-skipping-over-a-label-and-always-giving-a-401"
+    },
+    {
+      "Created": "2025-08-28T07:03:06Z",
+      "Title": "Why UDF returns NULL for multi-row query but not for single row in DolphinDB",
+      "Tags": [
+        "sql",
+        "user-defined-functions",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79748742/why-udf-returns-null-for-multi-row-query-but-not-for-single-row-in-dolphindb"
+    }
+  ]
+}

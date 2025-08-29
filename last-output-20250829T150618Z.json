@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-29T15:05:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T14:29:41Z",
+      "Title": "How do I accept any type that has string property values?",
+      "Tags": [
+        "angular",
+        "typescript",
+        "typescript-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750422/how-do-i-accept-any-type-that-has-string-property-values"
+    },
+    {
+      "Created": "2025-08-29T14:39:53Z",
+      "Title": "Error creating a Vulkan debug messenger (Windows)",
+      "Tags": [
+        "c\u002B\u002B",
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750436/error-creating-a-vulkan-debug-messenger-windows"
+    },
+    {
+      "Created": "2025-08-29T15:00:00Z",
+      "Title": "Discrepancy in total available memory reported in dmesg logs and /proc/meminfo",
+      "Tags": [
+        "android",
+        "linux",
+        "memory",
+        "kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750465/discrepancy-in-total-available-memory-reported-in-dmesg-logs-and-proc-meminfo"
+    },
+    {
+      "Created": "2025-08-29T15:02:08Z",
+      "Title": "Remove blur from closing animation of flutter_inappwebview HTML page",
+      "Tags": [
+        "flutter",
+        "flutter-inappwebview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750467/remove-blur-from-closing-animation-of-flutter-inappwebview-html-page"
+    },
+    {
+      "Created": "2025-08-29T15:02:20Z",
+      "Title": "Migrating Large SVN Repositories (50\u2013250 GB) to Azure DevOps Repos \u2013 Dump \u0026 git-svn Failing",
+      "Tags": [
+        "azure-devops",
+        "svn",
+        "migration",
+        "git-svn",
+        "visualsvn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750469/migrating-large-svn-repositories-50-250-gb-to-azure-devops-repos-dump-git"
+    },
+    {
+      "Created": "2025-08-29T15:03:02Z",
+      "Title": "Karma \u002B Jasmin mock query param",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "testing",
+        "karma-jasmine",
+        "sinon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750472/karma-jasmin-mock-query-param"
+    },
+    {
+      "Created": "2025-08-29T15:05:15Z",
+      "Title": "how to move camera in 3d games with c\u002B\u002B scripts?",
+      "Tags": [
+        "c\u002B\u002B",
+        "3d",
+        "simulation",
+        "mouse",
+        "mouse-cursor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750477/how-to-move-camera-in-3d-games-with-c-scripts"
+    }
+  ]
+}

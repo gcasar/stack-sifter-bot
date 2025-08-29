@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-29T02:27:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T02:27:39Z",
+      "Title": "Pandas read_csv: Skip rows contains invalid data that can cause data_type parsing errors",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749770/pandas-read-csv-skip-rows-contains-invalid-data-that-can-cause-data-type-parsin"
+    }
+  ]
+}

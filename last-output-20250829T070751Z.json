@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-29T07:01:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T06:17:27Z",
+      "Title": "Why does my query return no rows even though I inserted data?",
+      "Tags": [
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749878/why-does-my-query-return-no-rows-even-though-i-inserted-data"
+    },
+    {
+      "Created": "2025-08-29T06:18:54Z",
+      "Title": "How to specify the values of an union in a type hint?",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749880/how-to-specify-the-values-of-an-union-in-a-type-hint"
+    },
+    {
+      "Created": "2025-08-29T06:34:27Z",
+      "Title": "C\u002B\u002B protected member is not accessed by derived class of an abstract class",
+      "Tags": [
+        "abstract-class",
+        "protected"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749895/c-protected-member-is-not-accessed-by-derived-class-of-an-abstract-class"
+    },
+    {
+      "Created": "2025-08-29T06:53:03Z",
+      "Title": "Why do I have missing p tags from acf wysiwyg field?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "advanced-custom-fields"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749913/why-do-i-have-missing-p-tags-from-acf-wysiwyg-field"
+    },
+    {
+      "Created": "2025-08-29T06:55:58Z",
+      "Title": "How to calculate SUM over a primairy key and between dates?",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749918/how-to-calculate-sum-over-a-primairy-key-and-between-dates"
+    },
+    {
+      "Created": "2025-08-29T07:01:43Z",
+      "Title": "Mockito and module-info with Version 5.16.0\u002B: Mockito cannot mock this class",
+      "Tags": [
+        "mockito",
+        "java-module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749922/mockito-and-module-info-with-version-5-16-0-mockito-cannot-mock-this-class"
+    }
+  ]
+}

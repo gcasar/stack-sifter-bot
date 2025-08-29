@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-29T21:00:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T20:13:55Z",
+      "Title": "ModalNavigationDrawer doesn\u0027t want to close or open programmatically but responds to swipes",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "navigation-drawer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750748/modalnavigationdrawer-doesnt-want-to-close-or-open-programmatically-but-respond"
+    },
+    {
+      "Created": "2025-08-29T20:24:12Z",
+      "Title": "ISE Synthesis Doesn\u0027t Produce Expected std_logic_vector Comparison Result",
+      "Tags": [
+        "vhdl",
+        "xilinx-ise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750754/ise-synthesis-doesnt-produce-expected-std-logic-vector-comparison-result"
+    },
+    {
+      "Created": "2025-08-29T20:40:40Z",
+      "Title": "Python (with Kivy) app using buildozer crashes on Android 14/15 with pthread_mutex_lock called on a destroyed mutex in SDLActivity",
+      "Tags": [
+        "mutex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750765/python-with-kivy-app-using-buildozer-crashes-on-android-14-15-with-pthread-mut"
+    },
+    {
+      "Created": "2025-08-29T21:00:38Z",
+      "Title": "With gcc \u0060-Wunused-parameter\u0060, how can I make it ignore empty functions?",
+      "Tags": [
+        "gcc",
+        "gcc-warning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750778/with-gcc-wunused-parameter-how-can-i-make-it-ignore-empty-functions"
+    }
+  ]
+}

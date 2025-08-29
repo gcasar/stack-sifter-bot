@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-08-29T12:07:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T11:22:19Z",
+      "Title": "Alter table alter column does not work with user defined types",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "t-sql",
+        "alter-table",
+        "sql-server-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750214/alter-table-alter-column-does-not-work-with-user-defined-types"
+    },
+    {
+      "Created": "2025-08-29T11:25:09Z",
+      "Title": "How to make Numpy.where() return only the first match?",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750217/how-to-make-numpy-where-return-only-the-first-match"
+    },
+    {
+      "Created": "2025-08-29T11:53:05Z",
+      "Title": "Compiling boost for use with mex on Windows 11",
+      "Tags": [
+        "boost",
+        "mex",
+        "boost-serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750248/compiling-boost-for-use-with-mex-on-windows-11"
+    },
+    {
+      "Created": "2025-08-29T11:53:37Z",
+      "Title": "\u0022Uncaught TypeError: Class extends value undefined is not a constructor or null\u0022 after typescript and node upgrade",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750249/uncaught-typeerror-class-extends-value-undefined-is-not-a-constructor-or-null"
+    },
+    {
+      "Created": "2025-08-29T11:54:22Z",
+      "Title": "C structs as modules [closed]",
+      "Tags": [
+        "c",
+        "modularity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750250/c-structs-as-modules"
+    },
+    {
+      "Created": "2025-08-29T11:57:13Z",
+      "Title": "Add interaction terms in formula",
+      "Tags": [
+        "r",
+        "formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750252/add-interaction-terms-in-formula"
+    },
+    {
+      "Created": "2025-08-29T12:03:23Z",
+      "Title": "Laravel app hosted on cPanel showing raw PHP code instead of executing in live envirnment [duplicate]",
+      "Tags": [
+        "php",
+        "mysql",
+        "laravel",
+        ".htaccess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750256/laravel-app-hosted-on-cpanel-showing-raw-php-code-instead-of-executing-in-live-e"
+    },
+    {
+      "Created": "2025-08-29T12:06:28Z",
+      "Title": "Is it safe to use \u0060(void) va_arg(...)\u0060 to advance the \u0060va_list\u0060 in C?",
+      "Tags": [
+        "c",
+        "undefined-behavior",
+        "variadic-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750257/is-it-safe-to-use-void-va-arg-to-advance-the-va-list-in-c"
+    },
+    {
+      "Created": "2025-08-29T12:07:36Z",
+      "Title": "influxDB tag vs field name",
+      "Tags": [
+        "influxdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750258/influxdb-tag-vs-field-name"
+    }
+  ]
+}

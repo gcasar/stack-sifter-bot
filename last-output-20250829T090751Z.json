@@ -1,0 +1,143 @@
+{
+  "TotalProcessed": 15,
+  "LastCreated": "2025-08-29T08:59:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T08:20:39Z",
+      "Title": "How to URL Encoding in swift",
+      "Tags": [
+        "swift",
+        "urlencode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749997/how-to-url-encoding-in-swift"
+    },
+    {
+      "Created": "2025-08-29T08:20:58Z",
+      "Title": "Can\u0027t execute API while using interceptors",
+      "Tags": [
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749998/cant-execute-api-while-using-interceptors"
+    },
+    {
+      "Created": "2025-08-29T08:24:30Z",
+      "Title": "python module not found after installation",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750003/python-module-not-found-after-installation"
+    },
+    {
+      "Created": "2025-08-29T08:37:18Z",
+      "Title": "Is there a way to build a balanced BST from sorted array so that the duplicates are only in right subtree?",
+      "Tags": [
+        "c\u002B\u002B",
+        "balanced-binary-search-tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750019/is-there-a-way-to-build-a-balanced-bst-from-sorted-array-so-that-the-duplicates"
+    },
+    {
+      "Created": "2025-08-29T08:42:30Z",
+      "Title": "Issue with installing snap packages - \u0022Sorry, home directories outside of /home needs configuration.\u0022",
+      "Tags": [
+        "ubuntu",
+        "snap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750024/issue-with-installing-snap-packages-sorry-home-directories-outside-of-home"
+    },
+    {
+      "Created": "2025-08-29T08:46:21Z",
+      "Title": "Chrome update on ubuntu requires space in /boot",
+      "Tags": [
+        "linux",
+        "ubuntu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750029/chrome-update-on-ubuntu-requires-space-in-boot"
+    },
+    {
+      "Created": "2025-08-29T08:48:24Z",
+      "Title": "Load balancer class for klipper-lb [k3s]",
+      "Tags": [
+        "kubernetes",
+        "k3s"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750030/load-balancer-class-for-klipper-lb-k3s"
+    },
+    {
+      "Created": "2025-08-29T08:48:37Z",
+      "Title": "How to read Android device name",
+      "Tags": [
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750031/how-to-read-android-device-name"
+    },
+    {
+      "Created": "2025-08-29T08:50:09Z",
+      "Title": "polars \u0060write_parquet\u0060 to S3 with partitions makes local copy",
+      "Tags": [
+        "python",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750033/polars-write-parquet-to-s3-with-partitions-makes-local-copy"
+    },
+    {
+      "Created": "2025-08-29T08:50:28Z",
+      "Title": "Why is awk not identifying the row of a file which is being extracted using an id from a second file?",
+      "Tags": [
+        "linux",
+        "bash",
+        "awk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750035/why-is-awk-not-identifying-the-row-of-a-file-which-is-being-extracted-using-an-i"
+    },
+    {
+      "Created": "2025-08-29T08:54:54Z",
+      "Title": "SyntaxError in flask_humanify",
+      "Tags": [
+        "python",
+        "flask",
+        "flask-humanify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750038/syntaxerror-in-flask-humanify"
+    },
+    {
+      "Created": "2025-08-29T08:55:41Z",
+      "Title": "Liquibase support for CosmosDB via AD/SPN authentication",
+      "Tags": [
+        "liquibase",
+        "liquibase-sql",
+        "liquibase-pro"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750039/liquibase-support-for-cosmosdb-via-ad-spn-authentication"
+    },
+    {
+      "Created": "2025-08-29T08:56:09Z",
+      "Title": "How to use a custom .cur file as cursor in .NET MAUI (Windows)?",
+      "Tags": [
+        ".net",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750040/how-to-use-a-custom-cur-file-as-cursor-in-net-maui-windows"
+    },
+    {
+      "Created": "2025-08-29T08:57:18Z",
+      "Title": "drop.na code doesn\u0027t show up when using print(data_frame) [duplicate]",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750041/drop-na-code-doesnt-show-up-when-using-printdata-frame"
+    },
+    {
+      "Created": "2025-08-29T08:59:44Z",
+      "Title": "Using .NET \u0060IOptions\u0060, can I bind an array or a simple type instead of a class?",
+      "Tags": [
+        "c#",
+        ".net-8.0",
+        "ioptions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750044/using-net-ioptions-can-i-bind-an-array-or-a-simple-type-instead-of-a-class"
+    }
+  ]
+}

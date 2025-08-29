@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-29T21:43:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T21:43:21Z",
+      "Title": "Cannot ping between Debian 13 and Windows 10 on same LAN, TCP partially works",
+      "Tags": [
+        "windows",
+        "network-programming",
+        "ssh",
+        "debian",
+        "icmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750800/cannot-ping-between-debian-13-and-windows-10-on-same-lan-tcp-partially-works"
+    }
+  ]
+}

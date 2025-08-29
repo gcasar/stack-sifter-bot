@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-29T06:05:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T05:18:04Z",
+      "Title": "ReactJS Forms, Default Values for Numbers",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749836/reactjs-forms-default-values-for-numbers"
+    },
+    {
+      "Created": "2025-08-29T05:24:41Z",
+      "Title": "How to refresh a Live component manually?",
+      "Tags": [
+        "symfony",
+        "twig",
+        "symfonyux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749845/how-to-refresh-a-live-component-manually"
+    },
+    {
+      "Created": "2025-08-29T05:48:39Z",
+      "Title": "Python : why am I getting \u0022 nameError: name \u0027 x \u0027 is not defined? \u0022",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749856/python-why-am-i-getting-nameerror-name-x-is-not-defined"
+    },
+    {
+      "Created": "2025-08-29T05:55:36Z",
+      "Title": "How to intercept responses using Ktor on Android",
+      "Tags": [
+        "android",
+        "kotlin",
+        "ktor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749861/how-to-intercept-responses-using-ktor-on-android"
+    },
+    {
+      "Created": "2025-08-29T06:03:16Z",
+      "Title": "Spring Boot with Vault Integration Issue - Connect localhost instead of IP Address",
+      "Tags": [
+        "spring-boot",
+        "vault",
+        "spring-cloud-config-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749866/spring-boot-with-vault-integration-issue-connect-localhost-instead-of-ip-addre"
+    },
+    {
+      "Created": "2025-08-29T06:05:28Z",
+      "Title": "Why form input type=\u0022text\u0022 have to press enter button 2 times to submit form",
+      "Tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749868/why-form-input-type-text-have-to-press-enter-button-2-times-to-submit-form"
+    }
+  ]
+}

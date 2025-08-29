@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-29T01:04:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T01:04:37Z",
+      "Title": "How to execute the \u0022mvn exec:java\u0022 command and indicating a javaagent?",
+      "Tags": [
+        "maven",
+        "maven-3",
+        "javaagents",
+        "exec-maven-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749740/how-to-execute-the-mvn-execjava-command-and-indicating-a-javaagent"
+    }
+  ]
+}

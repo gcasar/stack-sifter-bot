@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-29T08:07:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T07:36:56Z",
+      "Title": "Share transaction between methods in EF Core",
+      "Tags": [
+        "sql-server",
+        "entity-framework-core",
+        "transactions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749952/share-transaction-between-methods-in-ef-core"
+    },
+    {
+      "Created": "2025-08-29T07:53:37Z",
+      "Title": "react-i18next getting error generic type \u0027TransProps\u0027 requires between 1 and 6 type arguments",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "i18next",
+        "react-i18next"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749968/react-i18next-getting-error-generic-type-transprops-requires-between-1-and-6-t"
+    },
+    {
+      "Created": "2025-08-29T07:59:53Z",
+      "Title": "Should I use FileExists(Path) or TFile.Exists(Path) in Delphi?",
+      "Tags": [
+        "delphi",
+        "firemonkey",
+        "vcl",
+        "delphi-12-athens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749970/should-i-use-fileexistspath-or-tfile-existspath-in-delphi"
+    },
+    {
+      "Created": "2025-08-29T08:00:19Z",
+      "Title": "Destroying area targets is laggy",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "vuforia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749972/destroying-area-targets-is-laggy"
+    },
+    {
+      "Created": "2025-08-29T08:06:29Z",
+      "Title": "Karate 1.5.1 custom HttpClientFactory (PSK-TLS) works in IntelliJ but fails with SSLHandshakeException from command line",
+      "Tags": [
+        "java",
+        "ssl",
+        "httpclient",
+        "karate",
+        "tls-psk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749981/karate-1-5-1-custom-httpclientfactory-psk-tls-works-in-intellij-but-fails-with"
+    },
+    {
+      "Created": "2025-08-29T08:07:21Z",
+      "Title": "problems connecting to port 3306 mysql workbench with my python file",
+      "Tags": [
+        "python",
+        "mysql",
+        "command-line-interface",
+        "port"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749982/problems-connecting-to-port-3306-mysql-workbench-with-my-python-file"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-29T13:06:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T12:10:55Z",
+      "Title": "Show the SKU only in an email to the administrator in WooCommerce",
+      "Tags": [
+        "php",
+        "wordpress",
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750262/show-the-sku-only-in-an-email-to-the-administrator-in-woocommerce"
+    },
+    {
+      "Created": "2025-08-29T12:56:08Z",
+      "Title": "Writing tests in Jasmine for functions with dependancy on data from remote host whithout making actual fetch request",
+      "Tags": [
+        "javascript",
+        "jasmine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750304/writing-tests-in-jasmine-for-functions-with-dependancy-on-data-from-remote-host"
+    },
+    {
+      "Created": "2025-08-29T12:56:25Z",
+      "Title": "No convergence while trying to train sampler using RL",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "optimization",
+        "gradient",
+        "reinforcement-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750305/no-convergence-while-trying-to-train-sampler-using-rl"
+    },
+    {
+      "Created": "2025-08-29T13:01:18Z",
+      "Title": "Bot Framework fails to obtain token with User Assigned Managed Identity from AKS pod",
+      "Tags": [
+        "authentication",
+        "botframework",
+        "azure-aks",
+        "azure-managed-identity",
+        "teams-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750307/bot-framework-fails-to-obtain-token-with-user-assigned-managed-identity-from-aks"
+    },
+    {
+      "Created": "2025-08-29T13:01:38Z",
+      "Title": "System.Xaml BadImageFormatException when deserializing RemoteExecutionContext in .NET 8 service with Data8.PowerPlatform.Dataverse.Client",
+      "Tags": [
+        "c#",
+        ".net",
+        "xaml",
+        "dynamics-crm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750308/system-xaml-badimageformatexception-when-deserializing-remoteexecutioncontext-in"
+    },
+    {
+      "Created": "2025-08-29T13:01:54Z",
+      "Title": "Rethrowing Throwables from EDT",
+      "Tags": [
+        "java",
+        "swing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750309/rethrowing-throwables-from-edt"
+    },
+    {
+      "Created": "2025-08-29T13:03:47Z",
+      "Title": "Is there a difference between \u0060_P_NOWAIT\u0060 and \u0060_P_NOWAITO\u0060",
+      "Tags": [
+        "c",
+        "winapi",
+        "cygwin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750311/is-there-a-difference-between-p-nowait-and-p-nowaito"
+    },
+    {
+      "Created": "2025-08-29T13:06:56Z",
+      "Title": "Nginx/PHP $_SERVER[\u0027HTTP_HOST\u0027] incorrect",
+      "Tags": [
+        "apache",
+        "nginx",
+        "plesk",
+        "plesk-onyx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750315/nginx-php-serverhttp-host-incorrect"
+    }
+  ]
+}

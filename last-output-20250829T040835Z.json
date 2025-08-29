@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-29T03:54:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T03:30:48Z",
+      "Title": "Pimpl Compilation firewall",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749794/pimpl-compilation-firewall"
+    },
+    {
+      "Created": "2025-08-29T03:38:37Z",
+      "Title": "CSV import optimization with uniqueness - Spring Boot/MySQL",
+      "Tags": [
+        "mysql",
+        "spring-boot",
+        "jdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749797/csv-import-optimization-with-uniqueness-spring-boot-mysql"
+    },
+    {
+      "Created": "2025-08-29T03:39:37Z",
+      "Title": "Why is my list not updating inside a function in Python?",
+      "Tags": [
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749799/why-is-my-list-not-updating-inside-a-function-in-python"
+    },
+    {
+      "Created": "2025-08-29T03:42:23Z",
+      "Title": "How can I integrate Gaode Map (AMap) into a React Native (Expo) app for both iOS and Android?",
+      "Tags": [
+        "android",
+        "ios",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749801/how-can-i-integrate-gaode-map-amap-into-a-react-native-expo-app-for-both-ios"
+    },
+    {
+      "Created": "2025-08-29T03:44:41Z",
+      "Title": "Does QStandardItemModel take ownership of items when using appendRow()?",
+      "Tags": [
+        "qt5",
+        "c\u002B\u002B14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749803/does-qstandarditemmodel-take-ownership-of-items-when-using-appendrow"
+    },
+    {
+      "Created": "2025-08-29T03:51:20Z",
+      "Title": "When inline function definition and extern function declaration are all present in one .c file, no link error is observed",
+      "Tags": [
+        "c",
+        "linker",
+        "inline",
+        "extern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749805/when-inline-function-definition-and-extern-function-declaration-are-all-present"
+    },
+    {
+      "Created": "2025-08-29T03:54:44Z",
+      "Title": "How to typehint functools.partial classes",
+      "Tags": [
+        "python",
+        "partial",
+        "type-hinting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749806/how-to-typehint-functools-partial-classes"
+    }
+  ]
+}

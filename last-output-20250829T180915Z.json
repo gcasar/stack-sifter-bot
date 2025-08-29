@@ -1,0 +1,151 @@
+{
+  "TotalProcessed": 14,
+  "LastCreated": "2025-08-29T18:07:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T17:21:11Z",
+      "Title": "integer comparision; difference in behavior between Clang and GCC 12",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "integer",
+        "integer-overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750598/integer-comparision-difference-in-behavior-between-clang-and-gcc-12"
+    },
+    {
+      "Created": "2025-08-29T17:53:07Z",
+      "Title": "textbox display problems in C",
+      "Tags": [
+        "c",
+        "windows",
+        "textbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750622/textbox-display-problems-in-c"
+    },
+    {
+      "Created": "2025-08-29T17:56:32Z",
+      "Title": "How to use a C\u002B\u002B class with a private destructor from Swift?",
+      "Tags": [
+        "c\u002B\u002B",
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750626/how-to-use-a-c-class-with-a-private-destructor-from-swift"
+    },
+    {
+      "Created": "2025-08-29T17:58:04Z",
+      "Title": "Programmatically converting SCORM 1.2 imsmanifest.xml to IMS Common Cartridge .imscc for Canvas, mapping items to modules",
+      "Tags": [
+        "python",
+        "automation",
+        "scorm",
+        "canvas-lms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750628/programmatically-converting-scorm-1-2-imsmanifest-xml-to-ims-common-cartridge-i"
+    },
+    {
+      "Created": "2025-08-29T17:58:22Z",
+      "Title": "When Altair saves plot with save, it loses some configuration parameters",
+      "Tags": [
+        "python",
+        "pdf",
+        "svg",
+        "png",
+        "altair"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750629/when-altair-saves-plot-with-save-it-loses-some-configuration-parameters"
+    },
+    {
+      "Created": "2025-08-29T17:59:31Z",
+      "Title": "How to map a route to a specific index.php with apache2 mod_rewrite?",
+      "Tags": [
+        "apache",
+        "mod-rewrite",
+        "httpd.conf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750632/how-to-map-a-route-to-a-specific-index-php-with-apache2-mod-rewrite"
+    },
+    {
+      "Created": "2025-08-29T17:59:39Z",
+      "Title": "How to automatically deploy a Windows Forms or WPF application with GitHub Actions?",
+      "Tags": [
+        ".net",
+        "wpf",
+        "winforms",
+        "github-actions",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750633/how-to-automatically-deploy-a-windows-forms-or-wpf-application-with-github-actio"
+    },
+    {
+      "Created": "2025-08-29T17:59:56Z",
+      "Title": "plotting the highest high of the previous candles is not working when used with if barindex conditional statement",
+      "Tags": [
+        "pine-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750634/plotting-the-highest-high-of-the-previous-candles-is-not-working-when-used-with"
+    },
+    {
+      "Created": "2025-08-29T18:00:34Z",
+      "Title": "Highlight disposable objects in Visual Studio?",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "idisposable",
+        "iasyncdisposable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750635/highlight-disposable-objects-in-visual-studio"
+    },
+    {
+      "Created": "2025-08-29T18:00:47Z",
+      "Title": "When does numpy actually improve performance?",
+      "Tags": [
+        "python",
+        "pandas",
+        "list",
+        "numpy",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750636/when-does-numpy-actually-improve-performance"
+    },
+    {
+      "Created": "2025-08-29T18:01:52Z",
+      "Title": "Trying to use QuotaGuard Static Shield on Heroku app on Flask",
+      "Tags": [
+        "python",
+        "heroku",
+        "quotaguard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750637/trying-to-use-quotaguard-static-shield-on-heroku-app-on-flask"
+    },
+    {
+      "Created": "2025-08-29T18:03:42Z",
+      "Title": "The shader speculars behave incorrectly when the object is rotated to the wrong axis",
+      "Tags": [
+        "unity-game-engine",
+        "shader",
+        "game-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750638/the-shader-speculars-behave-incorrectly-when-the-object-is-rotated-to-the-wrong"
+    },
+    {
+      "Created": "2025-08-29T18:07:03Z",
+      "Title": "Handle back pressed on fragment after rotating device",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-fragments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750639/handle-back-pressed-on-fragment-after-rotating-device"
+    },
+    {
+      "Created": "2025-08-29T18:07:20Z",
+      "Title": "I need to create a python script that lets me create a cbz archive from a root folder with multiple subfolders, each with jpg, jpeg, or png images",
+      "Tags": [
+        "python",
+        "archive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750641/i-need-to-create-a-python-script-that-lets-me-create-a-cbz-archive-from-a-root-f"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-29T14:04:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T13:40:47Z",
+      "Title": "Pandas merge one-to-many",
+      "Tags": [
+        "python",
+        "pandas",
+        "join",
+        "merge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750354/pandas-merge-one-to-many"
+    },
+    {
+      "Created": "2025-08-29T13:55:27Z",
+      "Title": "If sees environment variable as empty while it is defined in .htaccess",
+      "Tags": [
+        "apache",
+        ".htaccess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750375/if-sees-environment-variable-as-empty-while-it-is-defined-in-htaccess"
+    },
+    {
+      "Created": "2025-08-29T14:02:41Z",
+      "Title": "How to Replace Strings in Text 2 with Object Values Only If Text 1 Doesn\u0027t Have the Strings",
+      "Tags": [
+        "javascript",
+        "object",
+        "replace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750381/how-to-replace-strings-in-text-2-with-object-values-only-if-text-1-doesnt-have"
+    },
+    {
+      "Created": "2025-08-29T14:04:06Z",
+      "Title": "Running Entity Framework MAUI App on iOS in Release Mode Causes Error \u0022Model building is not supported when publishing with NativeAOT\u0022",
+      "Tags": [
+        "entity-framework-core",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750384/running-entity-framework-maui-app-on-ios-in-release-mode-causes-error-model-bui"
+    }
+  ]
+}

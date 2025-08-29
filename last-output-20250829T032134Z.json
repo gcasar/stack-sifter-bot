@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-29T03:19:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T02:59:13Z",
+      "Title": "Is byte[]{0x86} and int[]{0x86} essentially the same?",
+      "Tags": [
+        "c#",
+        "hex",
+        "byte",
+        "udpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749781/is-byte0x86-and-int0x86-essentially-the-same"
+    },
+    {
+      "Created": "2025-08-29T03:11:50Z",
+      "Title": "Use Ray with Slurm",
+      "Tags": [
+        "slurm",
+        "ray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749783/use-ray-with-slurm"
+    },
+    {
+      "Created": "2025-08-29T03:13:20Z",
+      "Title": "Can\u0027t execute API while using interceptors in Angular 20",
+      "Tags": [
+        "angular",
+        "typescript",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749786/cant-execute-api-while-using-interceptors-in-angular-20"
+    },
+    {
+      "Created": "2025-08-29T03:15:27Z",
+      "Title": "Is there any way to automatically detect adb port in bluestacks?",
+      "Tags": [
+        "c#",
+        "shell",
+        "android-emulator",
+        "adb",
+        "emulation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749788/is-there-any-way-to-automatically-detect-adb-port-in-bluestacks"
+    },
+    {
+      "Created": "2025-08-29T03:19:18Z",
+      "Title": "How to Correctly Switch from a CUDA Primary Context to a Custom Context at Runtime?",
+      "Tags": [
+        "cuda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749791/how-to-correctly-switch-from-a-cuda-primary-context-to-a-custom-context-at-runti"
+    },
+    {
+      "Created": "2025-08-29T03:19:27Z",
+      "Title": "Point out the errors in the C code of a small game (ping-pong)",
+      "Tags": [
+        "c",
+        "console",
+        "game-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79749792/point-out-the-errors-in-the-c-code-of-a-small-game-ping-pong"
+    }
+  ]
+}

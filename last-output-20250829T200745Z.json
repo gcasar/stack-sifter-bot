@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-29T20:04:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T19:15:18Z",
+      "Title": "Extracting specific items from a tarball following a pattern",
+      "Tags": [
+        "r",
+        "tar",
+        "grepl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750707/extracting-specific-items-from-a-tarball-following-a-pattern"
+    },
+    {
+      "Created": "2025-08-29T19:54:33Z",
+      "Title": "Python : variable type-hinted to to be a dictionary that accept list as value is also taking sets as valid value",
+      "Tags": [
+        "python",
+        "type-hinting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750725/python-variable-type-hinted-to-to-be-a-dictionary-that-accept-list-as-value-is"
+    },
+    {
+      "Created": "2025-08-29T20:01:13Z",
+      "Title": "\u0022Do Not Use BuildContext in Async Gaps\u0022 even in \u0022then\u0022 function of a Future function",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750732/do-not-use-buildcontext-in-async-gaps-even-in-then-function-of-a-future-func"
+    },
+    {
+      "Created": "2025-08-29T20:01:56Z",
+      "Title": "Why is a 1 byte bool returns from reverse p/invoke incorrectly evaluated on iOS ARM64?",
+      "Tags": [
+        "c#",
+        "ios",
+        ".net",
+        "pinvoke",
+        "arm64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750734/why-is-a-1-byte-bool-returns-from-reverse-p-invoke-incorrectly-evaluated-on-ios"
+    },
+    {
+      "Created": "2025-08-29T20:03:26Z",
+      "Title": "How to use the data class itself as the type of its attribute [duplicate]",
+      "Tags": [
+        "python",
+        "attr",
+        "python-dataclasses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750735/how-to-use-the-data-class-itself-as-the-type-of-its-attribute"
+    },
+    {
+      "Created": "2025-08-29T20:04:21Z",
+      "Title": "Azure Networking - Advanced tool site warning message",
+      "Tags": [
+        "azure",
+        "azure-web-app-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750736/azure-networking-advanced-tool-site-warning-message"
+    }
+  ]
+}

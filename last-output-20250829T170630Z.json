@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-29T17:03:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T16:35:36Z",
+      "Title": "Wordpress - Counter button \u2013 Get value from db - display counter value \u2013 increment \u2013 and update DB",
+      "Tags": [
+        "php",
+        "wordpress",
+        "button",
+        "code-snippets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750551/wordpress-counter-button-get-value-from-db-display-counter-value-increme"
+    },
+    {
+      "Created": "2025-08-29T17:00:50Z",
+      "Title": "Segmentation fault when trying to assign a global variable to a static reference variable",
+      "Tags": [
+        "c\u002B\u002B",
+        "reference",
+        "static"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750582/segmentation-fault-when-trying-to-assign-a-global-variable-to-a-static-reference"
+    },
+    {
+      "Created": "2025-08-29T17:00:52Z",
+      "Title": "Is there a container image for SELF HOSTED Azure DevOps pipeline agent available?",
+      "Tags": [
+        "azure-pipelines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750583/is-there-a-container-image-for-self-hosted-azure-devops-pipeline-agent-available"
+    },
+    {
+      "Created": "2025-08-29T17:02:27Z",
+      "Title": "Unusual \u0022Warning: Text strings must be rendered within a \u003CText\u003E component.\u0022 error, related to useState?",
+      "Tags": [
+        "react-native",
+        "text",
+        "react-hooks",
+        "expo",
+        "components"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750585/unusual-warning-text-strings-must-be-rendered-within-a-text-component-erro"
+    },
+    {
+      "Created": "2025-08-29T17:03:39Z",
+      "Title": "Quantization In Tensorflow2, Instance error",
+      "Tags": [
+        "tensorflow2.0",
+        "quantization",
+        "quantization-aware-training"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750586/quantization-in-tensorflow2-instance-error"
+    }
+  ]
+}

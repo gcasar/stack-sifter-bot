@@ -1,0 +1,109 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-08-29T10:04:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T09:24:24Z",
+      "Title": "Cannot resolve ~/assets/css/tailwind.css after following official docs",
+      "Tags": [
+        "typescript",
+        "nuxt.js",
+        "tailwind-css",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750070/cannot-resolve-assets-css-tailwind-css-after-following-official-docs"
+    },
+    {
+      "Created": "2025-08-29T09:40:42Z",
+      "Title": "NetShareEnum C\u002B\u002B call always returns ACCESS_DENIED error",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "smb",
+        "netapi32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750087/netshareenum-c-call-always-returns-access-denied-error"
+    },
+    {
+      "Created": "2025-08-29T09:42:02Z",
+      "Title": "add gghighlight to two layers while faceting",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "gghighlight"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750093/add-gghighlight-to-two-layers-while-faceting"
+    },
+    {
+      "Created": "2025-08-29T09:43:21Z",
+      "Title": "Cannot make tkinter horizontal scrollbar lie flush against listbox",
+      "Tags": [
+        "python",
+        "user-interface",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750095/cannot-make-tkinter-horizontal-scrollbar-lie-flush-against-listbox"
+    },
+    {
+      "Created": "2025-08-29T09:49:27Z",
+      "Title": "API Coding Challenge",
+      "Tags": [
+        "typescript",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750100/api-coding-challenge"
+    },
+    {
+      "Created": "2025-08-29T09:49:51Z",
+      "Title": "How to detect if a Display File (DSPF) needs recompilation after a Physical File (PF) change in IBM i?",
+      "Tags": [
+        "db2",
+        "ibm-midrange",
+        "rpg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750101/how-to-detect-if-a-display-file-dspf-needs-recompilation-after-a-physical-file"
+    },
+    {
+      "Created": "2025-08-29T09:51:00Z",
+      "Title": "Issue is regarding Pytest Playwright on vscode, regarding packages. Kindly suggest how to resolve",
+      "Tags": [
+        "testing",
+        "import",
+        "while-loop",
+        "importerror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750103/issue-is-regarding-pytest-playwright-on-vscode-regarding-packages-kindly-sugge"
+    },
+    {
+      "Created": "2025-08-29T09:51:29Z",
+      "Title": "Console window position",
+      "Tags": [
+        "windows",
+        "visual-studio",
+        "console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750105/console-window-position"
+    },
+    {
+      "Created": "2025-08-29T09:51:52Z",
+      "Title": "Intermittent NullPointerException in Apache IoTDB Session Insertion Under Multi-threading, Causing Data Loss",
+      "Tags": [
+        "database",
+        "time-series",
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750106/intermittent-nullpointerexception-in-apache-iotdb-session-insertion-under-multi"
+    },
+    {
+      "Created": "2025-08-29T10:04:55Z",
+      "Title": "How do I train the model properly and make it predict the next month\u0027s finance in the form of a graph?",
+      "Tags": [
+        "machine-learning",
+        "model",
+        "artificial-intelligence",
+        "linear-regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750114/how-do-i-train-the-model-properly-and-make-it-predict-the-next-months-finance-i"
+    }
+  ]
+}

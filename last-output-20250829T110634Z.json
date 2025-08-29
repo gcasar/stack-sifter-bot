@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-29T10:58:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T10:14:16Z",
+      "Title": "(Beginners) Question to Google Regex in Google Forms",
+      "Tags": [
+        "regex",
+        "google-forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750125/beginners-question-to-google-regex-in-google-forms"
+    },
+    {
+      "Created": "2025-08-29T10:49:57Z",
+      "Title": "Restricted cubic splines with R RMS package and multiple imputation from MICE",
+      "Tags": [
+        "r",
+        "spline",
+        "cox-regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750168/restricted-cubic-splines-with-r-rms-package-and-multiple-imputation-from-mice"
+    },
+    {
+      "Created": "2025-08-29T10:50:23Z",
+      "Title": "React PDF and React PDF Viewer packages version upgradation Issues",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "react-pdf",
+        "pdfjs-dist",
+        "react-pdf-viewer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750169/react-pdf-and-react-pdf-viewer-packages-version-upgradation-issues"
+    },
+    {
+      "Created": "2025-08-29T10:53:41Z",
+      "Title": "pyproj: UserWarning: angle from rectified to skew grid parameter lost in conversion to CF",
+      "Tags": [
+        "pyproj"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750174/pyproj-userwarning-angle-from-rectified-to-skew-grid-parameter-lost-in-convers"
+    },
+    {
+      "Created": "2025-08-29T10:56:21Z",
+      "Title": "How to implement QR code based crypto payments in a mobile app?",
+      "Tags": [
+        "cryptography",
+        "newline",
+        "pycrypto",
+        "block-cipher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750178/how-to-implement-qr-code-based-crypto-payments-in-a-mobile-app"
+    },
+    {
+      "Created": "2025-08-29T10:56:32Z",
+      "Title": "Using SASS partials in a multi-client setup",
+      "Tags": [
+        "sass",
+        "import",
+        "global-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750179/using-sass-partials-in-a-multi-client-setup"
+    },
+    {
+      "Created": "2025-08-29T10:58:11Z",
+      "Title": "Allow figcaption within TYPO3 editor?",
+      "Tags": [
+        "typo3",
+        "ckeditor",
+        "typo3-11.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750180/allow-figcaption-within-typo3-editor"
+    }
+  ]
+}

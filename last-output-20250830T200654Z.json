@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-30T20:02:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T19:39:52Z",
+      "Title": "Keyboard shuts down as soon as it opens and the widget gets rebuild removing the focus from the textfield within a page curved navigation bar",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751377/keyboard-shuts-down-as-soon-as-it-opens-and-the-widget-gets-rebuild-removing-the"
+    },
+    {
+      "Created": "2025-08-30T19:40:00Z",
+      "Title": "GKE Autopilot Node Replacements \u0026 Cluster Upgrades Causing short Downtime",
+      "Tags": [
+        "kubernetes",
+        "google-kubernetes-engine",
+        "high-availability",
+        "gke-autopilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751378/gke-autopilot-node-replacements-cluster-upgrades-causing-short-downtime"
+    },
+    {
+      "Created": "2025-08-30T19:43:19Z",
+      "Title": "C\u002B\u002B equivalent of Python\u0027s numpy.linalg.lstsq",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "numpy",
+        "opencv",
+        "linear-algebra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751381/c-equivalent-of-pythons-numpy-linalg-lstsq"
+    },
+    {
+      "Created": "2025-08-30T20:01:28Z",
+      "Title": "How to query nested JSON fields in Weaviate?",
+      "Tags": [
+        "json",
+        "graphql",
+        "weaviate",
+        "vector-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751389/how-to-query-nested-json-fields-in-weaviate"
+    },
+    {
+      "Created": "2025-08-30T20:01:45Z",
+      "Title": "Features to add in a C\u002B\u002B Maze gam",
+      "Tags": [
+        "game-development",
+        "sfml",
+        "dsa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751390/features-to-add-in-a-c-maze-gam"
+    },
+    {
+      "Created": "2025-08-30T20:02:22Z",
+      "Title": "Parsing MT940 \u0026 MT950 SWIFT using Prowide",
+      "Tags": [
+        "java",
+        "parsing",
+        "swift-mt",
+        "mt940"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751391/parsing-mt940-mt950-swift-using-prowide"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-30T14:56:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T14:14:53Z",
+      "Title": "associated tree data in phytools not working",
+      "Tags": [
+        "r",
+        "phylogeny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751203/associated-tree-data-in-phytools-not-working"
+    },
+    {
+      "Created": "2025-08-30T14:37:54Z",
+      "Title": "\u0022mutableLiveData.postValue(Boolean)\u0022, this ends up posting \u0022null\u0022 in livedata",
+      "Tags": [
+        "android",
+        "android-livedata",
+        "mutablelivedata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751219/mutablelivedata-postvalueboolean-this-ends-up-posting-null-in-livedata"
+    },
+    {
+      "Created": "2025-08-30T14:38:37Z",
+      "Title": "does nodemailer supports railway deployment",
+      "Tags": [
+        "node.js",
+        "express",
+        "deployment",
+        "nodemailer",
+        "railway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751221/does-nodemailer-supports-railway-deployment"
+    },
+    {
+      "Created": "2025-08-30T14:56:38Z",
+      "Title": "Discrepancy between my RSI calculation and Binance\u0027s RSI - Using 1D data and simple RSI calculation",
+      "Tags": [
+        "hdfs",
+        "binance",
+        "rsi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751224/discrepancy-between-my-rsi-calculation-and-binances-rsi-using-1d-data-and-sim"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-30T13:03:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T12:14:08Z",
+      "Title": "Top align text from LabeledContent and Text in a Form",
+      "Tags": [
+        "macos",
+        "swiftui",
+        "inspector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751139/top-align-text-from-labeledcontent-and-text-in-a-form"
+    },
+    {
+      "Created": "2025-08-30T12:35:03Z",
+      "Title": "How to recreate ewm(adjust=False).std() in pandas",
+      "Tags": [
+        "pandas",
+        "standard-deviation",
+        "exponential-distribution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751147/how-to-recreate-ewmadjust-false-std-in-pandas"
+    },
+    {
+      "Created": "2025-08-30T12:39:57Z",
+      "Title": "Buildozer Android toolchain error WSL VSCode",
+      "Tags": [
+        "android",
+        "kivy",
+        "buildozer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751154/buildozer-android-toolchain-error-wsl-vscode"
+    },
+    {
+      "Created": "2025-08-30T12:44:16Z",
+      "Title": "Using Tailwindcss with weasyprint in python",
+      "Tags": [
+        "python",
+        "weasyprint",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751155/using-tailwindcss-with-weasyprint-in-python"
+    },
+    {
+      "Created": "2025-08-30T12:50:39Z",
+      "Title": "Mobile chat widget panel shrinks and header/composer misaligns when keyboard opens (iOS Safari \u0026 Android Chrome)",
+      "Tags": [
+        "javascript",
+        "css",
+        "mobile-safari",
+        "viewport",
+        "android-chrome"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751159/mobile-chat-widget-panel-shrinks-and-header-composer-misaligns-when-keyboard-ope"
+    },
+    {
+      "Created": "2025-08-30T13:03:32Z",
+      "Title": "Is an \u0022inline function template\u0022 considered a \u0022inline function\u0022 with respect to ODR rules?",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "language-lawyer",
+        "inline",
+        "one-definition-rule"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751164/is-an-inline-function-template-considered-a-inline-function-with-respect-to"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-30T21:01:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T20:35:02Z",
+      "Title": "How to remove the extra space between two cut commands?",
+      "Tags": [
+        "bash",
+        "cut"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751405/how-to-remove-the-extra-space-between-two-cut-commands"
+    },
+    {
+      "Created": "2025-08-30T20:35:18Z",
+      "Title": "How do I peek a Bundle in ChiselSim?",
+      "Tags": [
+        "scala",
+        "chisel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751406/how-do-i-peek-a-bundle-in-chiselsim"
+    },
+    {
+      "Created": "2025-08-30T20:55:12Z",
+      "Title": "Bootstrap 5 and Masonry cards overlap when printing",
+      "Tags": [
+        "html",
+        "bootstrap-5",
+        "masonry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751413/bootstrap-5-and-masonry-cards-overlap-when-printing"
+    },
+    {
+      "Created": "2025-08-30T21:01:19Z",
+      "Title": "Why does my Discord bot give me a KeyError when I run the join voice channel command?",
+      "Tags": [
+        "discord",
+        "discord.py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751416/why-does-my-discord-bot-give-me-a-keyerror-when-i-run-the-join-voice-channel-com"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-30T12:06:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T11:38:23Z",
+      "Title": "C\u002B\u002B, OpenAl crash when play a sound",
+      "Tags": [
+        "c\u002B\u002B",
+        "audio",
+        "crash",
+        "openal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751120/c-openal-crash-when-play-a-sound"
+    },
+    {
+      "Created": "2025-08-30T11:57:02Z",
+      "Title": "Flutter android/io app custom image on splash screen",
+      "Tags": [
+        "android",
+        "splash-screen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751130/flutter-android-io-app-custom-image-on-splash-screen"
+    },
+    {
+      "Created": "2025-08-30T12:04:19Z",
+      "Title": "Simple publisher/subscriber pattern problem with multiple subscriptions",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751133/simple-publisher-subscriber-pattern-problem-with-multiple-subscriptions"
+    },
+    {
+      "Created": "2025-08-30T12:06:52Z",
+      "Title": "What happens if __del__ is defined as an async def coroutine in Python (CPython 3.12)?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751135/what-happens-if-del-is-defined-as-an-async-def-coroutine-in-python-cpython"
+    }
+  ]
+}

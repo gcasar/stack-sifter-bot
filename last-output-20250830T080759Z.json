@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-30T08:02:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T07:50:23Z",
+      "Title": "Custom numpy element type with arithmetic functions without overloading \u0060np.ndarray\u0060",
+      "Tags": [
+        "python",
+        "arrays",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751006/custom-numpy-element-type-with-arithmetic-functions-without-overloading-np-ndar"
+    },
+    {
+      "Created": "2025-08-30T07:53:22Z",
+      "Title": "Problems with SDKMAN: cannot install java, because version is not found (on Debian Linux)",
+      "Tags": [
+        "sdkman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751009/problems-with-sdkman-cannot-install-java-because-version-is-not-found-on-debi"
+    },
+    {
+      "Created": "2025-08-30T08:02:44Z",
+      "Title": "How to allow any Entra ID user to sign in to Azure External ID (customers) without invitation or signup (similar to Azure AD B2C)?",
+      "Tags": [
+        "azure-ad-b2c",
+        "microsoft-entra-id",
+        "microsoft-entra-external-id"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751013/how-to-allow-any-entra-id-user-to-sign-in-to-azure-external-id-customers-witho"
+    }
+  ]
+}

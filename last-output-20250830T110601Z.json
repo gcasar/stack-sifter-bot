@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-30T10:46:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T10:14:52Z",
+      "Title": "How do I add a \\usepackage line to the generated latex from an XSL when using Saxon 12?",
+      "Tags": [
+        "xml",
+        "xslt",
+        "latex",
+        "saxon",
+        "tei"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751067/how-do-i-add-a-usepackage-line-to-the-generated-latex-from-an-xsl-when-using-sa"
+    },
+    {
+      "Created": "2025-08-30T10:29:31Z",
+      "Title": "Bash Syntax error with multiple two paramter mkdir",
+      "Tags": [
+        "bash",
+        "loops",
+        "mkdir"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751075/bash-syntax-error-with-multiple-two-paramter-mkdir"
+    },
+    {
+      "Created": "2025-08-30T10:37:44Z",
+      "Title": "How to containerize a Django App properly?",
+      "Tags": [
+        "django",
+        "docker",
+        "migration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751078/how-to-containerize-a-django-app-properly"
+    },
+    {
+      "Created": "2025-08-30T10:46:52Z",
+      "Title": "How to run LlamaIndex ReAct agent with gpt-oss-20b? Getting \u0022SyntaxError: \u0027async for\u0027 outside async function\u0022",
+      "Tags": [
+        "python",
+        "asynchronous",
+        "async-await",
+        "python-asyncio",
+        "llama-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751082/how-to-run-llamaindex-react-agent-with-gpt-oss-20b-getting-syntaxerror-async"
+    }
+  ]
+}

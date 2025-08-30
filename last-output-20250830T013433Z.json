@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-30T00:48:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T00:35:21Z",
+      "Title": "Drag and Drop with span in SwiftUI",
+      "Tags": [
+        "swift",
+        "user-interface",
+        "swiftui",
+        "grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750866/drag-and-drop-with-span-in-swiftui"
+    },
+    {
+      "Created": "2025-08-30T00:40:59Z",
+      "Title": "Renovate Workflow Fails to Detect .pre-commit-config.yaml for Version Bumping",
+      "Tags": [
+        "github-actions",
+        "version",
+        "renovate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750867/renovate-workflow-fails-to-detect-pre-commit-config-yaml-for-version-bumping"
+    },
+    {
+      "Created": "2025-08-30T00:45:34Z",
+      "Title": "C# (.NET 4.8) HTTP/s Proxy Checking Accuracy",
+      "Tags": [
+        "c#",
+        ".net",
+        "https",
+        "proxy",
+        "http-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750869/c-sharp-net-4-8-http-s-proxy-checking-accuracy"
+    },
+    {
+      "Created": "2025-08-30T00:48:12Z",
+      "Title": "How to attach the itinerary file to the event when created?",
+      "Tags": [
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750871/how-to-attach-the-itinerary-file-to-the-event-when-created"
+    }
+  ]
+}

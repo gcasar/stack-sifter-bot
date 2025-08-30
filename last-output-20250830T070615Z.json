@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-08-30T07:03:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T07:03:08Z",
+      "Title": "How to flatten nested navigation properties in OData response",
+      "Tags": [
+        "entity-framework-core",
+        "odata",
+        "asp.net-core-odata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750981/how-to-flatten-nested-navigation-properties-in-odata-response"
+    }
+  ]
+}

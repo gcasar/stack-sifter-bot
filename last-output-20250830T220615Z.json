@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-30T21:56:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T21:16:36Z",
+      "Title": "How can I adjust the scope of isolated CSS is ASP.NET MVC such that it applies to all elements on the page",
+      "Tags": [
+        "c#",
+        "css",
+        "asp.net-mvc",
+        "blazor",
+        "asp.net-core-css-isolation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751426/how-can-i-adjust-the-scope-of-isolated-css-is-asp-net-mvc-such-that-it-applies-t"
+    },
+    {
+      "Created": "2025-08-30T21:17:49Z",
+      "Title": "Problems in running Selenium in EC2",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "firefox",
+        "geckodriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751428/problems-in-running-selenium-in-ec2"
+    },
+    {
+      "Created": "2025-08-30T21:37:04Z",
+      "Title": "C macro to compute array length that returns 0 for NULL",
+      "Tags": [
+        "c",
+        "null",
+        "macros",
+        "variadic-macros",
+        "compound-literals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751438/c-macro-to-compute-array-length-that-returns-0-for-null"
+    },
+    {
+      "Created": "2025-08-30T21:40:37Z",
+      "Title": "Efficient function to check if there is a convex k-gon in given n points in 2D?",
+      "Tags": [
+        "geometry",
+        "computational-geometry",
+        "convex-hull",
+        "convex-polygon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751442/efficient-function-to-check-if-there-is-a-convex-k-gon-in-given-n-points-in-2d"
+    },
+    {
+      "Created": "2025-08-30T21:45:25Z",
+      "Title": "Why are Socket.io or WebSockets used in React applications?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "websocket",
+        "socket.io",
+        "real-time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751443/why-are-socket-io-or-websockets-used-in-react-applications"
+    },
+    {
+      "Created": "2025-08-30T21:56:04Z",
+      "Title": "Why is no sound being played?",
+      "Tags": [
+        "c\u002B\u002B",
+        "openal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751449/why-is-no-sound-being-played"
+    }
+  ]
+}

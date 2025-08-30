@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-08-30T17:02:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T16:13:33Z",
+      "Title": "what does shutil.rmtree(d, ignore_errors=True) do?",
+      "Tags": [
+        "python",
+        "django",
+        "shutil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751265/what-does-shutil-rmtreed-ignore-errors-true-do"
+    },
+    {
+      "Created": "2025-08-30T16:34:41Z",
+      "Title": "Why does my div element display and then disappear after clicking the submit button?",
+      "Tags": [
+        "javascript",
+        "dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751275/why-does-my-div-element-display-and-then-disappear-after-clicking-the-submit-but"
+    },
+    {
+      "Created": "2025-08-30T16:38:40Z",
+      "Title": "Convert a flextable into a dataframe",
+      "Tags": [
+        "r",
+        "tibble",
+        "flextable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751282/convert-a-flextable-into-a-dataframe"
+    },
+    {
+      "Created": "2025-08-30T16:43:20Z",
+      "Title": "How to fix slow database queries caused by the N\u002B1 problem in Sequelize?",
+      "Tags": [
+        "sql",
+        "node.js",
+        "performance",
+        "orm",
+        "sequelize.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751285/how-to-fix-slow-database-queries-caused-by-the-n1-problem-in-sequelize"
+    },
+    {
+      "Created": "2025-08-30T16:43:23Z",
+      "Title": "Trading bot para comprar y vender criptomonedas [closed]",
+      "Tags": [
+        "python",
+        "bots",
+        "trading",
+        "binance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751286/trading-bot-para-comprar-y-vender-criptomonedas"
+    },
+    {
+      "Created": "2025-08-30T17:01:49Z",
+      "Title": "What is wrong with my code simulating the Enigma encryption machine?",
+      "Tags": [
+        "java",
+        "encryption"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751297/what-is-wrong-with-my-code-simulating-the-enigma-encryption-machine"
+    },
+    {
+      "Created": "2025-08-30T17:02:39Z",
+      "Title": "Read insights from Instagram API",
+      "Tags": [
+        "node.js",
+        "instagram-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751299/read-insights-from-instagram-api"
+    }
+  ]
+}

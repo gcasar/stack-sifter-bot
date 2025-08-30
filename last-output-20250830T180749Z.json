@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-30T18:04:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T17:29:26Z",
+      "Title": "Beautiful Soup; splitting a paragraph only by \u003Cbr\u003E where stripped_strings is not working",
+      "Tags": [
+        "python",
+        "beautifulsoup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751313/beautiful-soup-splitting-a-paragraph-only-by-br-where-stripped-strings-is-not"
+    },
+    {
+      "Created": "2025-08-30T17:54:23Z",
+      "Title": "Using WHERE clause with an extension function",
+      "Tags": [
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751325/using-where-clause-with-an-extension-function"
+    },
+    {
+      "Created": "2025-08-30T18:03:34Z",
+      "Title": "SwiftData @Model not persisting across app launches (works only in memory)",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751331/swiftdata-model-not-persisting-across-app-launches-works-only-in-memory"
+    },
+    {
+      "Created": "2025-08-30T18:04:56Z",
+      "Title": "My Playwright python script doesn\u0027t find input form fields",
+      "Tags": [
+        "python",
+        "angular",
+        "automation",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751332/my-playwright-python-script-doesnt-find-input-form-fields"
+    }
+  ]
+}

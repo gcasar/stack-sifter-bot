@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-30T02:28:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T01:37:54Z",
+      "Title": "MSAL python OBO authorization flow gives error AADSTS90014: The required field \u0027iss\u0027 is missing from the credential",
+      "Tags": [
+        "python",
+        "azure",
+        "azure-active-directory",
+        "azure-functions",
+        "msal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750880/msal-python-obo-authorization-flow-gives-error-aadsts90014-the-required-field"
+    },
+    {
+      "Created": "2025-08-30T01:40:39Z",
+      "Title": "Why is Powershell call to Enable-MailUser taking an hour or more with a new ActiveDirectory user",
+      "Tags": [
+        "powershell",
+        "active-directory",
+        "exchange-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750882/why-is-powershell-call-to-enable-mailuser-taking-an-hour-or-more-with-a-new-acti"
+    },
+    {
+      "Created": "2025-08-30T01:41:19Z",
+      "Title": "How to link a ticket to its related object using objectId in Angular when data comes from /api/objects?caseId=...?",
+      "Tags": [
+        "html",
+        "angular",
+        "typescript",
+        "angular-router",
+        "angular-template"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750883/how-to-link-a-ticket-to-its-related-object-using-objectid-in-angular-when-data-c"
+    },
+    {
+      "Created": "2025-08-30T02:28:40Z",
+      "Title": "The best way to search in mysql in 2025",
+      "Tags": [
+        "php",
+        "mysql",
+        "search",
+        "pdo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750900/the-best-way-to-search-in-mysql-in-2025"
+    }
+  ]
+}

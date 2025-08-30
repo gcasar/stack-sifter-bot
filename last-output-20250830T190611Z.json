@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-30T18:57:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-30T18:24:40Z",
+      "Title": "Is it possible to load csv file from local windows machine into TABLE STAGE in Snowflake?",
+      "Tags": [
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751342/is-it-possible-to-load-csv-file-from-local-windows-machine-into-table-stage-in-s"
+    },
+    {
+      "Created": "2025-08-30T18:36:31Z",
+      "Title": "How to use a button to change the position of ForEach generated views using ScrollView and the .scrollPosition modifier",
+      "Tags": [
+        "swiftui",
+        "swiftui-scrollview",
+        "swiftui-foreach"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751349/how-to-use-a-button-to-change-the-position-of-foreach-generated-views-using-scro"
+    },
+    {
+      "Created": "2025-08-30T18:43:51Z",
+      "Title": "issue with creating trading bot",
+      "Tags": [
+        "python",
+        "coinbase-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751355/issue-with-creating-trading-bot"
+    },
+    {
+      "Created": "2025-08-30T18:50:22Z",
+      "Title": "plotly Dashboard refer to different plot",
+      "Tags": [
+        "python",
+        "plotly",
+        "dashboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751360/plotly-dashboard-refer-to-different-plot"
+    },
+    {
+      "Created": "2025-08-30T18:57:17Z",
+      "Title": "Swipe Behaviour in LazyVerticalGrid in Jetpack Compose",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751362/swipe-behaviour-in-lazyverticalgrid-in-jetpack-compose"
+    }
+  ]
+}

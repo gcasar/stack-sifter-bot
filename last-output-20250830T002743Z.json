@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-30T00:23:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-29T23:17:43Z",
+      "Title": "The Usual Arithmetic Conversions in C Programming: A modern approach",
+      "Tags": [
+        "c",
+        "type-conversion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750844/the-usual-arithmetic-conversions-in-c-programming-a-modern-approach"
+    },
+    {
+      "Created": "2025-08-29T23:39:14Z",
+      "Title": "Increase server timeout duration in MySQL [duplicate]",
+      "Tags": [
+        "mysql",
+        "connection-timeout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750847/increase-server-timeout-duration-in-mysql"
+    },
+    {
+      "Created": "2025-08-29T23:44:03Z",
+      "Title": "Google Apps Script - how to log certain Form Responses",
+      "Tags": [
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750848/google-apps-script-how-to-log-certain-form-responses"
+    },
+    {
+      "Created": "2025-08-29T23:44:21Z",
+      "Title": "UPDATE Table A column by COUNT of certain Table A records",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750849/update-table-a-column-by-count-of-certain-table-a-records"
+    },
+    {
+      "Created": "2025-08-29T23:44:23Z",
+      "Title": "How do I get predictions from my CatBoost models on Raspberry Pi using Python?",
+      "Tags": [
+        "python",
+        "raspberry-pi",
+        "catboost"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750850/how-do-i-get-predictions-from-my-catboost-models-on-raspberry-pi-using-python"
+    },
+    {
+      "Created": "2025-08-30T00:23:39Z",
+      "Title": "Getting a WRONGTYPE error when trying to create and store a key-list data in Redis through Python",
+      "Tags": [
+        "python-3.x",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79750862/getting-a-wrongtype-error-when-trying-to-create-and-store-a-key-list-data-in-red"
+    }
+  ]
+}

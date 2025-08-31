@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-31T04:51:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T04:11:31Z",
+      "Title": "Why does my C\u002B\u002B largestRectangle function cause heap-buffer-overflow on vector access?",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "data-structures",
+        "stack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751568/why-does-my-c-largestrectangle-function-cause-heap-buffer-overflow-on-vector-a"
+    },
+    {
+      "Created": "2025-08-31T04:28:37Z",
+      "Title": "Which Elasticsearch client version is compatible with Java 17 and Spring Boot 3.5.4 (Elasticsearch server 7.10)?",
+      "Tags": [
+        "elasticsearch",
+        "compatibility",
+        "java-17",
+        "spring-boot-3",
+        "elasticsearch-rest-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751571/which-elasticsearch-client-version-is-compatible-with-java-17-and-spring-boot-3"
+    },
+    {
+      "Created": "2025-08-31T04:51:14Z",
+      "Title": "Invalid argument exception while calling the ZenDesk Search API with query parameters",
+      "Tags": [
+        "zendesk",
+        "zendesk-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751577/invalid-argument-exception-while-calling-the-zendesk-search-api-with-query-param"
+    }
+  ]
+}

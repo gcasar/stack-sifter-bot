@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-08-31T10:00:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T09:28:58Z",
+      "Title": "Api Platform generate non-required fields for id (and others)",
+      "Tags": [
+        "symfony",
+        "swagger",
+        "api-platform.com",
+        "swagger-codegen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751664/api-platform-generate-non-required-fields-for-id-and-others"
+    },
+    {
+      "Created": "2025-08-31T09:43:09Z",
+      "Title": "How to Fix the Speech to text Package issue in Flutter?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "package",
+        "artificial-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751666/how-to-fix-the-speech-to-text-package-issue-in-flutter"
+    },
+    {
+      "Created": "2025-08-31T09:52:49Z",
+      "Title": "Is there a way to debug macports provided packages with source code?",
+      "Tags": [
+        "debugging",
+        "lldb",
+        "macports"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751671/is-there-a-way-to-debug-macports-provided-packages-with-source-code"
+    },
+    {
+      "Created": "2025-08-31T09:56:14Z",
+      "Title": "How can i connect a ZKT ma300 to a computer?",
+      "Tags": [
+        "zkteco"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751673/how-can-i-connect-a-zkt-ma300-to-a-computer"
+    },
+    {
+      "Created": "2025-08-31T10:00:12Z",
+      "Title": "Flutter rebuild specific ListView items",
+      "Tags": [
+        "flutter",
+        "listview",
+        "rebuild"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751675/flutter-rebuild-specific-listview-items"
+    }
+  ]
+}

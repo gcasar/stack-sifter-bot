@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-08-31T01:12:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T00:41:15Z",
+      "Title": "PDFKit go(:to) not working in SwiftUI when loading data from a saved model object",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "pdfkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751508/pdfkit-goto-not-working-in-swiftui-when-loading-data-from-a-saved-model-objec"
+    },
+    {
+      "Created": "2025-08-31T00:58:17Z",
+      "Title": "Dodgy void pointer arithmetic in C [duplicate]",
+      "Tags": [
+        "c",
+        "pointers",
+        "void"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751512/dodgy-void-pointer-arithmetic-in-c"
+    },
+    {
+      "Created": "2025-08-31T01:10:42Z",
+      "Title": "Python file processing mechanics",
+      "Tags": [
+        "python",
+        "file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751519/python-file-processing-mechanics"
+    },
+    {
+      "Created": "2025-08-31T01:12:00Z",
+      "Title": "C-Style array on stack with variable length",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "stack",
+        "indexoutofboundsexception",
+        "execv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751520/c-style-array-on-stack-with-variable-length"
+    }
+  ]
+}

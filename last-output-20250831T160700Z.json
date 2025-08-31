@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-31T15:57:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T15:41:46Z",
+      "Title": "Can i make a PTY device zero-copy?",
+      "Tags": [
+        "linux",
+        "pty",
+        "zero-copy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751861/can-i-make-a-pty-device-zero-copy"
+    },
+    {
+      "Created": "2025-08-31T15:49:47Z",
+      "Title": "How to take union of objects with keys instead of using union of key type in object? (Distribute keys over objects)",
+      "Tags": [
+        "typescript",
+        "typescript-generics",
+        "union-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751867/how-to-take-union-of-objects-with-keys-instead-of-using-union-of-key-type-in-obj"
+    },
+    {
+      "Created": "2025-08-31T15:57:28Z",
+      "Title": "Combine separate plots into one plot in Python",
+      "Tags": [
+        "pandas",
+        "dataframe",
+        "matplotlib",
+        "volume",
+        "combinedchart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751873/combine-separate-plots-into-one-plot-in-python"
+    }
+  ]
+}

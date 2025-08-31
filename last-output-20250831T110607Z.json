@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-31T11:02:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T10:35:10Z",
+      "Title": "In app update throwing error \u0022user cancelled\u0022 when i click on update button in update prompt",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "google-play-console",
+        "in-app-update"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751694/in-app-update-throwing-error-user-cancelled-when-i-click-on-update-button-in-u"
+    },
+    {
+      "Created": "2025-08-31T10:41:04Z",
+      "Title": "In Git repo, code changes were missing just by doing pull, push and resolve conflict",
+      "Tags": [
+        "git",
+        "github",
+        "gitlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751697/in-git-repo-code-changes-were-missing-just-by-doing-pull-push-and-resolve-conf"
+    },
+    {
+      "Created": "2025-08-31T10:43:29Z",
+      "Title": "How to overcome goroutine overhead?",
+      "Tags": [
+        "go",
+        "goroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751700/how-to-overcome-goroutine-overhead"
+    },
+    {
+      "Created": "2025-08-31T10:49:05Z",
+      "Title": "recordAsync of expo-camera has no result",
+      "Tags": [
+        "react-native",
+        "expo",
+        "expo-camera"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751704/recordasync-of-expo-camera-has-no-result"
+    },
+    {
+      "Created": "2025-08-31T11:00:36Z",
+      "Title": "Forge build Compilation Error. Contract not compiling despite correct remappings. Returning \u0027Access is denied. (os error 5).\u0027",
+      "Tags": [
+        "solidity",
+        "forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751708/forge-build-compilation-error-contract-not-compiling-despite-correct-remappings"
+    },
+    {
+      "Created": "2025-08-31T11:02:04Z",
+      "Title": "Oracle 19c EE TDE related command not properly ended",
+      "Tags": [
+        "database",
+        "oracle-database",
+        "wallet",
+        "tde"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751710/oracle-19c-ee-tde-related-command-not-properly-ended"
+    }
+  ]
+}

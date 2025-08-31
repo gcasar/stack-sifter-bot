@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-31T07:05:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T06:35:57Z",
+      "Title": "Why does my C# async/await code block the UI thread, and how do I fix it? [duplicate]",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "winforms",
+        "async-await",
+        "ui-thread"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751609/why-does-my-c-sharp-async-await-code-block-the-ui-thread-and-how-do-i-fix-it"
+    },
+    {
+      "Created": "2025-08-31T07:05:03Z",
+      "Title": "How to Check the Actual Type of a Generic Parameter in a Python Generic Function to Narrow All Parameters of Type T",
+      "Tags": [
+        "python",
+        "generics",
+        "pylance",
+        "type-narrowing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751620/how-to-check-the-actual-type-of-a-generic-parameter-in-a-python-generic-function"
+    }
+  ]
+}

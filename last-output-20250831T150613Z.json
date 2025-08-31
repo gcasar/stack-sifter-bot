@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-31T14:46:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T14:36:37Z",
+      "Title": "How to convert std::chrono::system_clock::now() to boost::mysql::datetime::time_point",
+      "Tags": [
+        "c\u002B\u002B",
+        "datetime",
+        "boost",
+        "mysql-connector",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751812/how-to-convert-stdchronosystem-clocknow-to-boostmysqldatetimetime"
+    },
+    {
+      "Created": "2025-08-31T14:46:39Z",
+      "Title": "to count vehicle in computer vision project, I am allowing user to draw virtual lines , how to decide if the vehicles are incoming or outgoing?",
+      "Tags": [
+        "computer-vision",
+        "artificial-intelligence",
+        "object-detection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751817/to-count-vehicle-in-computer-vision-project-i-am-allowing-user-to-draw-virtual"
+    }
+  ]
+}

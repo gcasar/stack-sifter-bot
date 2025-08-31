@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-31T14:02:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T13:22:55Z",
+      "Title": "How to sum up a particular row of number inputs in a DataFrame",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751771/how-to-sum-up-a-particular-row-of-number-inputs-in-a-dataframe"
+    },
+    {
+      "Created": "2025-08-31T13:23:58Z",
+      "Title": "Websocket with Cloudflare proxy closes connection instantly with code 1006",
+      "Tags": [
+        "django",
+        "websocket",
+        "cloudflare",
+        "uvicorn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751772/websocket-with-cloudflare-proxy-closes-connection-instantly-with-code-1006"
+    },
+    {
+      "Created": "2025-08-31T13:35:19Z",
+      "Title": "Python function to capitalize the first letter of every word in an input sentence adding unwanted spaces",
+      "Tags": [
+        "python",
+        "string"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751780/python-function-to-capitalize-the-first-letter-of-every-word-in-an-input-sentenc"
+    },
+    {
+      "Created": "2025-08-31T13:38:26Z",
+      "Title": "Why Does Sympy Say This Derivative Is Constant When It\u0027s Obviously Not?",
+      "Tags": [
+        "python",
+        "sympy",
+        "symbolic-math"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751781/why-does-sympy-say-this-derivative-is-constant-when-its-obviously-not"
+    },
+    {
+      "Created": "2025-08-31T13:49:51Z",
+      "Title": "How to safely save and load entities in ECS without index collisions?",
+      "Tags": [
+        "game-development",
+        "game-engine",
+        "entity-component-system"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751785/how-to-safely-save-and-load-entities-in-ecs-without-index-collisions"
+    },
+    {
+      "Created": "2025-08-31T14:02:03Z",
+      "Title": "How to configure OpenTelemetry OTLPMetricExporter in Node.js with self-signed certificates?",
+      "Tags": [
+        "open-telemetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751791/how-to-configure-opentelemetry-otlpmetricexporter-in-node-js-with-self-signed-ce"
+    }
+  ]
+}

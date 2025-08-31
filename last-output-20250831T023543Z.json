@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-08-31T01:41:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T01:29:10Z",
+      "Title": "Do ALL HTTPS requests in the browser derive from XMLHttpRequest and fetch API?",
+      "Tags": [
+        "javascript",
+        "browser",
+        "xmlhttprequest",
+        "fetch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751522/do-all-https-requests-in-the-browser-derive-from-xmlhttprequest-and-fetch-api"
+    },
+    {
+      "Created": "2025-08-31T01:41:05Z",
+      "Title": "How to deal with \u0022DDGSException: No results found.\u0022",
+      "Tags": [
+        "exception",
+        "jupyter-notebook",
+        "fast-ai",
+        "duckduckgo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751527/how-to-deal-with-ddgsexception-no-results-found"
+    }
+  ]
+}

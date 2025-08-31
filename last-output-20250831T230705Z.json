@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-08-31T23:06:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T22:13:43Z",
+      "Title": "Capacitor \u002B React app loses HttpOnly cookie after app restart (persists fine in browser)",
+      "Tags": [
+        "capacitor",
+        "react-dom",
+        "httponly",
+        "capacitor-plugin",
+        "cookie-httponly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752039/capacitor-react-app-loses-httponly-cookie-after-app-restart-persists-fine-in"
+    },
+    {
+      "Created": "2025-08-31T22:16:52Z",
+      "Title": "Is there a better way to parse this JSON?",
+      "Tags": [
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752041/is-there-a-better-way-to-parse-this-json"
+    },
+    {
+      "Created": "2025-08-31T22:20:06Z",
+      "Title": "Is this a recommanded way to handle responsive layout with Tailwind when DOM structure must change?",
+      "Tags": [
+        "reactjs",
+        "responsive-design",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752044/is-this-a-recommanded-way-to-handle-responsive-layout-with-tailwind-when-dom-str"
+    },
+    {
+      "Created": "2025-08-31T22:20:49Z",
+      "Title": "How to make shapes, drawn on a form, resilient to changes in display\u0027s resolution / scale",
+      "Tags": [
+        "vb.net",
+        "winforms",
+        "graphics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752045/how-to-make-shapes-drawn-on-a-form-resilient-to-changes-in-displays-resolutio"
+    },
+    {
+      "Created": "2025-08-31T22:39:42Z",
+      "Title": "Pass custom data to Timer Proc for setTimer()",
+      "Tags": [
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752052/pass-custom-data-to-timer-proc-for-settimer"
+    },
+    {
+      "Created": "2025-08-31T22:46:03Z",
+      "Title": "MS Access VBA open a record set using a union query in which each query in the union reference two form date fields: FromDt and ToDt",
+      "Tags": [
+        "vba",
+        "ms-access",
+        "union",
+        "recordset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752057/ms-access-vba-open-a-record-set-using-a-union-query-in-which-each-query-in-the-u"
+    },
+    {
+      "Created": "2025-08-31T23:01:43Z",
+      "Title": "MicroPython mcp2515 CAN bus: Lost some responses at 10ms request cycle",
+      "Tags": [
+        "raspberry-pi",
+        "can-bus",
+        "micropython",
+        "obd-ii",
+        "automotive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752064/micropython-mcp2515-can-bus-lost-some-responses-at-10ms-request-cycle"
+    },
+    {
+      "Created": "2025-08-31T23:06:18Z",
+      "Title": "Firebase Admin SDK db object is invalid in Vercel API Route (\u0022Expected first argument to collection...\u0022)",
+      "Tags": [
+        "firebase",
+        "next.js",
+        "google-cloud-firestore",
+        "vercel",
+        "firebase-admin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752066/firebase-admin-sdk-db-object-is-invalid-in-vercel-api-route-expected-first-arg"
+    }
+  ]
+}

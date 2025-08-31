@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-31T17:54:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T17:30:35Z",
+      "Title": "Google Chat API: Reactions API fails when using client-specified message resource names (client-*)",
+      "Tags": [
+        "google-apps-script",
+        "google-chat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751920/google-chat-api-reactions-api-fails-when-using-client-specified-message-resourc"
+    },
+    {
+      "Created": "2025-08-31T17:51:18Z",
+      "Title": "Angular google map doesn\u0027t show markers on android",
+      "Tags": [
+        "angular",
+        "angular-google-maps",
+        "angular-maps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751929/angular-google-map-doesnt-show-markers-on-android"
+    },
+    {
+      "Created": "2025-08-31T17:54:01Z",
+      "Title": "What way is more efficient for narrowing down the type of a parameter?",
+      "Tags": [
+        "java",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751930/what-way-is-more-efficient-for-narrowing-down-the-type-of-a-parameter"
+    }
+  ]
+}

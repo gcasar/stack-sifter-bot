@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-31T13:09:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T12:56:43Z",
+      "Title": "Scroll Behavior issue with Vue Router and Vite",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "vuejs3",
+        "vite",
+        "vue-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751757/scroll-behavior-issue-with-vue-router-and-vite"
+    },
+    {
+      "Created": "2025-08-31T12:59:04Z",
+      "Title": "GitHub Actions: \u0022supabaseUrl is required\u0022 when trying to push unit tests",
+      "Tags": [
+        "unit-testing",
+        "environment-variables",
+        "continuous-integration",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751759/github-actions-supabaseurl-is-required-when-trying-to-push-unit-tests"
+    },
+    {
+      "Created": "2025-08-31T13:09:16Z",
+      "Title": "How to join metrics to add other metric label to a stat metric that lacks it (Prometheus/Grafana)",
+      "Tags": [
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751764/how-to-join-metrics-to-add-other-metric-label-to-a-stat-metric-that-lacks-it-pr"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-08-31T18:54:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T18:18:23Z",
+      "Title": "roxygen and a single help file for multiple data sets, deleting extra information",
+      "Tags": [
+        "r",
+        "package",
+        "roxygen",
+        "helpfile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751935/roxygen-and-a-single-help-file-for-multiple-data-sets-deleting-extra-informatio"
+    },
+    {
+      "Created": "2025-08-31T18:31:23Z",
+      "Title": "Linux From Scratch package manager",
+      "Tags": [
+        "linux",
+        "operating-system",
+        "linux-from-scratch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751938/linux-from-scratch-package-manager"
+    },
+    {
+      "Created": "2025-08-31T18:54:33Z",
+      "Title": "Gradle cannot find Firebase libraries (firebase-auth-ktx, storage-ktx, etc.) after updating to Firebase BoM 34.2.0",
+      "Tags": [
+        "android",
+        "firebase",
+        "gradle",
+        "android-gradle-plugin",
+        "build.gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751949/gradle-cannot-find-firebase-libraries-firebase-auth-ktx-storage-ktx-etc-aft"
+    }
+  ]
+}

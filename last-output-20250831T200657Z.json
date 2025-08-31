@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-08-31T20:01:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-08-31T19:04:34Z",
+      "Title": "Terminal does not return output, instead restarts code",
+      "Tags": [
+        "python",
+        "function",
+        "input",
+        "output",
+        "calculator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751954/terminal-does-not-return-output-instead-restarts-code"
+    },
+    {
+      "Created": "2025-08-31T19:22:23Z",
+      "Title": "Can a DataFrame have multiple, different types in the same column?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "dtype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751965/can-a-dataframe-have-multiple-different-types-in-the-same-column"
+    },
+    {
+      "Created": "2025-08-31T19:26:27Z",
+      "Title": "How to set a class to dynamically rendered button via Grid?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "css-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751966/how-to-set-a-class-to-dynamically-rendered-button-via-grid"
+    },
+    {
+      "Created": "2025-08-31T19:52:49Z",
+      "Title": "Import GPG key and make it trusted in Gitlab CI",
+      "Tags": [
+        "yaml",
+        "gitlab-ci",
+        "gnupg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751975/import-gpg-key-and-make-it-trusted-in-gitlab-ci"
+    },
+    {
+      "Created": "2025-08-31T19:57:01Z",
+      "Title": "Why my implemntaiton of the Enigma machine works only for the first postion",
+      "Tags": [
+        "java",
+        "encryption",
+        "cryptography"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751978/why-my-implemntaiton-of-the-enigma-machine-works-only-for-the-first-postion"
+    },
+    {
+      "Created": "2025-08-31T20:01:42Z",
+      "Title": "Flask app with Gemini works locally but fails on Render free tier \u2014 are outbound requests blocked?",
+      "Tags": [
+        "flask",
+        "hosting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79751981/flask-app-with-gemini-works-locally-but-fails-on-render-free-tier-are-outbound"
+    }
+  ]
+}

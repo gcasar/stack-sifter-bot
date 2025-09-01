@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-01T02:22:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T00:59:35Z",
+      "Title": "Filter data by date with Google Apps Script is not working",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752101/filter-data-by-date-with-google-apps-script-is-not-working"
+    },
+    {
+      "Created": "2025-09-01T01:38:43Z",
+      "Title": "Spring Batch: Chunk size always 4 in multi-threaded step even though chunk-size is set to 6",
+      "Tags": [
+        "java",
+        "multithreading",
+        "spring-batch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752113/spring-batch-chunk-size-always-4-in-multi-threaded-step-even-though-chunk-size"
+    },
+    {
+      "Created": "2025-09-01T01:43:39Z",
+      "Title": "Is there a better way to commit conflict resolution changes separately when doing a git rebase other than committing conflict markers?",
+      "Tags": [
+        "git",
+        "git-merge-conflict"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752115/is-there-a-better-way-to-commit-conflict-resolution-changes-separately-when-doin"
+    },
+    {
+      "Created": "2025-09-01T01:58:57Z",
+      "Title": "How to handle NULL values from last_value() in Apache IoTDB when one time series has no data?",
+      "Tags": [
+        "apache-iotdb",
+        "treemodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752117/how-to-handle-null-values-from-last-value-in-apache-iotdb-when-one-time-series"
+    },
+    {
+      "Created": "2025-09-01T02:17:09Z",
+      "Title": "CNN predicting the same class everytime",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "conv-neural-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752124/cnn-predicting-the-same-class-everytime"
+    },
+    {
+      "Created": "2025-09-01T02:22:46Z",
+      "Title": "Helidon MP - can I programatically check if an endpoint has @PermitAll annotation, e.g. from its SecurityContext?",
+      "Tags": [
+        "java",
+        "helidon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752125/helidon-mp-can-i-programatically-check-if-an-endpoint-has-permitall-annotatio"
+    }
+  ]
+}

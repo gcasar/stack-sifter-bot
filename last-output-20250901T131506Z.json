@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-01T13:10:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T12:48:47Z",
+      "Title": "IF statement only returning 2 conditions out of 3",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752523/if-statement-only-returning-2-conditions-out-of-3"
+    },
+    {
+      "Created": "2025-09-01T12:56:11Z",
+      "Title": "Use relative paths with URL-rewrite with additional path segments",
+      "Tags": [
+        "c#",
+        "iis",
+        "webforms",
+        "url-rewrite-module",
+        "relative-url"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752533/use-relative-paths-with-url-rewrite-with-additional-path-segments"
+    },
+    {
+      "Created": "2025-09-01T13:02:11Z",
+      "Title": "Returntype of ShowDoalogAsync with Window callback",
+      "Tags": [
+        "c#",
+        "catel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752545/returntype-of-showdoalogasync-with-window-callback"
+    },
+    {
+      "Created": "2025-09-01T13:03:54Z",
+      "Title": "Problem with maven compilation of test module which depends on engine",
+      "Tags": [
+        "java",
+        "maven",
+        "intellij-idea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752547/problem-with-maven-compilation-of-test-module-which-depends-on-engine"
+    },
+    {
+      "Created": "2025-09-01T13:06:29Z",
+      "Title": "I have problem in spliting text to read it 1 by 1",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752550/i-have-problem-in-spliting-text-to-read-it-1-by-1"
+    },
+    {
+      "Created": "2025-09-01T13:07:48Z",
+      "Title": "How to set MagicUI - Flickering Grid component as a container background?",
+      "Tags": [
+        "css",
+        "reactjs",
+        "tailwind-css",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752551/how-to-set-magicui-flickering-grid-component-as-a-container-background"
+    },
+    {
+      "Created": "2025-09-01T13:10:49Z",
+      "Title": "ECS Fargate Task performance worsened after re-deploying same task definition",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-dynamodb",
+        "amazon-ecs",
+        "aws-fargate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752556/ecs-fargate-task-performance-worsened-after-re-deploying-same-task-definition"
+    }
+  ]
+}

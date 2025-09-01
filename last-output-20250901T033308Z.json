@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-01T03:31:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T02:47:48Z",
+      "Title": "Inconsistent HttpOnly cookie persistence across app restarts in React \u002B Capacitor mobile app",
+      "Tags": [
+        "android",
+        "ios",
+        "reactjs",
+        "capacitor",
+        "react-dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752130/inconsistent-httponly-cookie-persistence-across-app-restarts-in-react-capacito"
+    },
+    {
+      "Created": "2025-09-01T02:54:50Z",
+      "Title": "React how to pass string bytes from input file stored in local storage to another component and add the string bytes to useState value",
+      "Tags": [
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752134/react-how-to-pass-string-bytes-from-input-file-stored-in-local-storage-to-anothe"
+    },
+    {
+      "Created": "2025-09-01T02:55:03Z",
+      "Title": "How to connect Scrapy-Playwright to a fingerprint browser created at runtime?",
+      "Tags": [
+        "scrapy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752135/how-to-connect-scrapy-playwright-to-a-fingerprint-browser-created-at-runtime"
+    },
+    {
+      "Created": "2025-09-01T03:00:58Z",
+      "Title": "TypeScript React app shows blank white page on iPhone/iOS but works on all other platforms",
+      "Tags": [
+        "ios",
+        "typescript",
+        "safari",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752137/typescript-react-app-shows-blank-white-page-on-iphone-ios-but-works-on-all-other"
+    },
+    {
+      "Created": "2025-09-01T03:01:28Z",
+      "Title": "How can I drag and count data from a different spreadsheet without helper columns or sheets?",
+      "Tags": [
+        "google-sheets",
+        "less",
+        "spreadsheet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752138/how-can-i-drag-and-count-data-from-a-different-spreadsheet-without-helper-column"
+    },
+    {
+      "Created": "2025-09-01T03:25:08Z",
+      "Title": "Always prefer std::scoped_lock over std::lock with locking policy?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "raii"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752144/always-prefer-stdscoped-lock-over-stdlock-with-locking-policy"
+    },
+    {
+      "Created": "2025-09-01T03:31:02Z",
+      "Title": "How do I get a block\u0027s transition to work with the keyframes?",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752145/how-do-i-get-a-blocks-transition-to-work-with-the-keyframes"
+    },
+    {
+      "Created": "2025-09-01T03:31:03Z",
+      "Title": "My Kali Linux terminal prompt is corrupted and won\u0027t fix after editing .bashrc",
+      "Tags": [
+        "linux",
+        "bash",
+        "terminal",
+        "prompt",
+        "kali-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752146/my-kali-linux-terminal-prompt-is-corrupted-and-wont-fix-after-editing-bashrc"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-01T19:02:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T18:34:07Z",
+      "Title": "Unable to insert list of dictionaries into an array\u003Cstruct\u003Cstring\u003E\u003E column in Databricks Delta table",
+      "Tags": [
+        "pyspark",
+        "databricks-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752814/unable-to-insert-list-of-dictionaries-into-an-arraystructstring-column-in-da"
+    },
+    {
+      "Created": "2025-09-01T18:45:38Z",
+      "Title": "htaccess subdomains to subfolders redirection error",
+      "Tags": [
+        ".htaccess",
+        "mod-rewrite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752821/htaccess-subdomains-to-subfolders-redirection-error"
+    },
+    {
+      "Created": "2025-09-01T18:52:25Z",
+      "Title": "Array passed as an argument does not seem to be changing",
+      "Tags": [
+        "c",
+        "sorting",
+        "pointers",
+        "stack",
+        "quicksort"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752826/array-passed-as-an-argument-does-not-seem-to-be-changing"
+    },
+    {
+      "Created": "2025-09-01T19:01:12Z",
+      "Title": "std::vector sequence of push_back produces odd ASM on Clang",
+      "Tags": [
+        "c\u002B\u002B",
+        "g\u002B\u002B",
+        "clang\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752831/stdvector-sequence-of-push-back-produces-odd-asm-on-clang"
+    },
+    {
+      "Created": "2025-09-01T19:01:55Z",
+      "Title": "Importing a module federated web component inside a Next.js app",
+      "Tags": [
+        "typescript",
+        "next.js",
+        "webpack",
+        "micro-frontend",
+        "webpack-module-federation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752833/importing-a-module-federated-web-component-inside-a-next-js-app"
+    },
+    {
+      "Created": "2025-09-01T19:02:06Z",
+      "Title": "How to get an httponly cookie from the browser, on the server end, with websockets in node js",
+      "Tags": [
+        "node.js",
+        "cookies",
+        "websocket",
+        "socket.io",
+        "ws"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752834/how-to-get-an-httponly-cookie-from-the-browser-on-the-server-end-with-websocke"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-01T22:56:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T22:20:05Z",
+      "Title": "PySide2/Qt Application Locks Up on macOS After QToolBar Operations in Event Loop",
+      "Tags": [
+        "python",
+        "macos",
+        "qt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752937/pyside2-qt-application-locks-up-on-macos-after-qtoolbar-operations-in-event-loop"
+    },
+    {
+      "Created": "2025-09-01T22:35:29Z",
+      "Title": "Cannot call text on an empty DOMWrapper in vue with TDD and async setup",
+      "Tags": [
+        "ajax",
+        "vue.js",
+        "asynchronous",
+        "axios",
+        "tdd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752944/cannot-call-text-on-an-empty-domwrapper-in-vue-with-tdd-and-async-setup"
+    },
+    {
+      "Created": "2025-09-01T22:42:10Z",
+      "Title": "Reversing the direction of stepper motor from CW to CCW",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "stepper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752946/reversing-the-direction-of-stepper-motor-from-cw-to-ccw"
+    },
+    {
+      "Created": "2025-09-01T22:56:58Z",
+      "Title": "Erroneous Highlighting with Treesitter-Lua on Neovim",
+      "Tags": [
+        "neovim",
+        "treesitter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752951/erroneous-highlighting-with-treesitter-lua-on-neovim"
+    }
+  ]
+}

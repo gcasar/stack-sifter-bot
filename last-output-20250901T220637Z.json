@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-01T22:03:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T21:03:41Z",
+      "Title": "Cannot run Cypress tests after upgrade to Cypress 15 version",
+      "Tags": [
+        "automation",
+        "cypress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752905/cannot-run-cypress-tests-after-upgrade-to-cypress-15-version"
+    },
+    {
+      "Created": "2025-09-01T21:06:47Z",
+      "Title": "How to create a centralized S3 access log bucket per region without triggering BucketAlreadyOwnedByYou error?",
+      "Tags": [
+        "amazon-s3",
+        "terraform",
+        "access-log"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752908/how-to-create-a-centralized-s3-access-log-bucket-per-region-without-triggering-b"
+    },
+    {
+      "Created": "2025-09-01T21:17:40Z",
+      "Title": "stuck in an endless loop with getchar() function",
+      "Tags": [
+        "c",
+        "buffer",
+        "getchar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752911/stuck-in-an-endless-loop-with-getchar-function"
+    },
+    {
+      "Created": "2025-09-01T21:23:24Z",
+      "Title": "How can I make all attributes in a Python dataclass optional without rewriting each one?",
+      "Tags": [
+        "python",
+        "metaprogramming",
+        "python-dataclasses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752914/how-can-i-make-all-attributes-in-a-python-dataclass-optional-without-rewriting-e"
+    },
+    {
+      "Created": "2025-09-01T21:32:05Z",
+      "Title": "How to extract numbers from columns from PDF",
+      "Tags": [
+        "pdf",
+        ".net-core",
+        "text-extraction",
+        "pdfpig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752918/how-to-extract-numbers-from-columns-from-pdf"
+    },
+    {
+      "Created": "2025-09-01T22:00:44Z",
+      "Title": "Why are borders jagged when using rotationEffect() in SwiftUI?",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752925/why-are-borders-jagged-when-using-rotationeffect-in-swiftui"
+    },
+    {
+      "Created": "2025-09-01T22:03:22Z",
+      "Title": "How to make Renovate use AWS CodeArtifact as npm registry in AWS CodeBuild?",
+      "Tags": [
+        "aws-codebuild",
+        "aws-codecommit",
+        "aws-codeartifact",
+        "renovate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752926/how-to-make-renovate-use-aws-codeartifact-as-npm-registry-in-aws-codebuild"
+    }
+  ]
+}

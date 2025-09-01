@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-01T05:04:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T04:41:30Z",
+      "Title": "I have a Django model called DataLog that stores API action logs. I need to delete this automatically after every 60 days",
+      "Tags": [
+        "python",
+        "django",
+        "django-views"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752171/i-have-a-django-model-called-datalog-that-stores-api-action-logs-i-need-to-dele"
+    },
+    {
+      "Created": "2025-09-01T05:00:10Z",
+      "Title": "Vite import.meta.env variables return undefined even though .env file exists",
+      "Tags": [
+        "javascript",
+        "environment-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752177/vite-import-meta-env-variables-return-undefined-even-though-env-file-exists"
+    },
+    {
+      "Created": "2025-09-01T05:04:02Z",
+      "Title": "How can I add base training \u002B instruction fine tuning in my code?",
+      "Tags": [
+        "pytorch",
+        "fine-tuning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752179/how-can-i-add-base-training-instruction-fine-tuning-in-my-code"
+    }
+  ]
+}

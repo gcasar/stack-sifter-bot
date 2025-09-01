@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-01T13:59:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T13:30:39Z",
+      "Title": "Symfony in Docker: %env(csv:...)% makes framework.trusted_headers crash with \u201Cgot array\u201D error",
+      "Tags": [
+        "php",
+        "symfony",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752588/symfony-in-docker-envcsv-makes-framework-trusted-headers-crash-with-go"
+    },
+    {
+      "Created": "2025-09-01T13:39:03Z",
+      "Title": "Sharepoint Custom Styling: Using JSON to improve style of file table. Onclick not expanding groupings",
+      "Tags": [
+        "json",
+        "sharepoint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752598/sharepoint-custom-styling-using-json-to-improve-style-of-file-table-onclick-no"
+    },
+    {
+      "Created": "2025-09-01T13:40:03Z",
+      "Title": "AgGrid: How to have multiple rowGroups without forcing them to the left and a sum column in between",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript",
+        "ag-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752601/aggrid-how-to-have-multiple-rowgroups-without-forcing-them-to-the-left-and-a-su"
+    },
+    {
+      "Created": "2025-09-01T13:42:37Z",
+      "Title": "LD won\u0027t find cmake-specified existing opencv libraries",
+      "Tags": [
+        "opencv",
+        "cmake",
+        "ld"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752603/ld-wont-find-cmake-specified-existing-opencv-libraries"
+    },
+    {
+      "Created": "2025-09-01T13:45:58Z",
+      "Title": "Black Screen when trying to open modal",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752608/black-screen-when-trying-to-open-modal"
+    },
+    {
+      "Created": "2025-09-01T13:50:43Z",
+      "Title": "How to send a streaming form-data in a Cloudflare Worker?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "cloudflare",
+        "cloudflare-workers",
+        "nodejs-stream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752611/how-to-send-a-streaming-form-data-in-a-cloudflare-worker"
+    },
+    {
+      "Created": "2025-09-01T13:51:08Z",
+      "Title": "Multidimensional Confirmatory Factor Analysis",
+      "Tags": [
+        "rstudio",
+        "factor-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752612/multidimensional-confirmatory-factor-analysis"
+    },
+    {
+      "Created": "2025-09-01T13:55:59Z",
+      "Title": "How to support Carryless Multiplication operation in .NET on various platforms",
+      "Tags": [
+        "c#",
+        ".net",
+        "assembly",
+        "cpu-architecture",
+        "crc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752615/how-to-support-carryless-multiplication-operation-in-net-on-various-platforms"
+    },
+    {
+      "Created": "2025-09-01T13:59:18Z",
+      "Title": "How to detect whether a variable is allocated on the stack or the heap in C?",
+      "Tags": [
+        "c",
+        "memory-management",
+        "stack",
+        "heap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752617/how-to-detect-whether-a-variable-is-allocated-on-the-stack-or-the-heap-in-c"
+    }
+  ]
+}

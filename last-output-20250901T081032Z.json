@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-01T08:07:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T07:14:59Z",
+      "Title": "NPM Error during the scaffolding process for Motion Canvas",
+      "Tags": [
+        "node.js",
+        "json",
+        "tsx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752240/npm-error-during-the-scaffolding-process-for-motion-canvas"
+    },
+    {
+      "Created": "2025-09-01T08:06:40Z",
+      "Title": "Construct objects in generic way",
+      "Tags": [
+        "go",
+        "pointers",
+        "new-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752287/construct-objects-in-generic-way"
+    },
+    {
+      "Created": "2025-09-01T08:07:26Z",
+      "Title": "Pass getter-function as parameter",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752288/pass-getter-function-as-parameter"
+    }
+  ]
+}

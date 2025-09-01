@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-01T12:10:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T11:41:17Z",
+      "Title": "QObject.disconnect() behavior in PySide6",
+      "Tags": [
+        "qt",
+        "signals-slots",
+        "pyside6",
+        "pyqt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752465/qobject-disconnect-behavior-in-pyside6"
+    },
+    {
+      "Created": "2025-09-01T11:55:03Z",
+      "Title": "AVCaptureSession camera preview freezes on a single frame instead of showing live video",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "avfoundation",
+        "avcapturesession"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752473/avcapturesession-camera-preview-freezes-on-a-single-frame-instead-of-showing-liv"
+    },
+    {
+      "Created": "2025-09-01T12:03:50Z",
+      "Title": "Is updating BPM every 5 seconds correct for MAX30102 heart rate calculation",
+      "Tags": [
+        "c",
+        "heartrate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752481/is-updating-bpm-every-5-seconds-correct-for-max30102-heart-rate-calculation"
+    },
+    {
+      "Created": "2025-09-01T12:07:33Z",
+      "Title": "How can I extract the caption/description from a single Instagram post URL in Python?",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "beautifulsoup",
+        "python-requests",
+        "instagram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752488/how-can-i-extract-the-caption-description-from-a-single-instagram-post-url-in-py"
+    },
+    {
+      "Created": "2025-09-01T12:10:30Z",
+      "Title": "After successful logout user is not redirecting back to the app",
+      "Tags": [
+        "android",
+        "ios",
+        "react-native",
+        "authentication",
+        "microsoft-entra-id"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752491/after-successful-logout-user-is-not-redirecting-back-to-the-app"
+    }
+  ]
+}

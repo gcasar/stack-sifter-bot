@@ -1,0 +1,93 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-01T09:06:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T08:23:16Z",
+      "Title": "QueryDSL transformed to SQL: second costant variable becomes $p and it caused error",
+      "Tags": [
+        "querydsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752305/querydsl-transformed-to-sql-second-costant-variable-becomes-p-and-it-caused-er"
+    },
+    {
+      "Created": "2025-09-01T08:37:30Z",
+      "Title": "How to get Cronet Android headers to use with cronet.so in JNI (C\u002B\u002B)?",
+      "Tags": [
+        "android",
+        "java-native-interface",
+        "header-files",
+        "chromium-embedded",
+        "cronet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752319/how-to-get-cronet-android-headers-to-use-with-cronet-so-in-jni-c"
+    },
+    {
+      "Created": "2025-09-01T08:43:43Z",
+      "Title": "How to use Event Delegation in React.js",
+      "Tags": [
+        "reactjs",
+        "events",
+        "delegation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752329/how-to-use-event-delegation-in-react-js"
+    },
+    {
+      "Created": "2025-09-01T08:49:18Z",
+      "Title": "Selenium can not fully interact with a Cognito sign in screen",
+      "Tags": [
+        "selenium-webdriver",
+        "amazon-cognito"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752332/selenium-can-not-fully-interact-with-a-cognito-sign-in-screen"
+    },
+    {
+      "Created": "2025-09-01T08:57:03Z",
+      "Title": "Why are custom CSS/JS not loading with UseKnife4UI while working with UseSwaggerUI?",
+      "Tags": [
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752336/why-are-custom-css-js-not-loading-with-useknife4ui-while-working-with-useswagger"
+    },
+    {
+      "Created": "2025-09-01T08:58:01Z",
+      "Title": "IConfiguration Bind doesn\u0027t work with arrays",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "app-config"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752337/iconfiguration-bind-doesnt-work-with-arrays"
+    },
+    {
+      "Created": "2025-09-01T08:58:46Z",
+      "Title": "PdfSharp\u0027s PdfDocument.AcroForm.Fields contains less text input fields than the PDF in Adobe",
+      "Tags": [
+        "c#",
+        "pdfsharp",
+        ".net-4.7.2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752338/pdfsharps-pdfdocument-acroform-fields-contains-less-text-input-fields-than-the"
+    },
+    {
+      "Created": "2025-09-01T08:59:05Z",
+      "Title": "Azure Document Intelligence SyncPoller fails in Java",
+      "Tags": [
+        "azure",
+        "azure-form-recognizer",
+        "azure-document-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752339/azure-document-intelligence-syncpoller-fails-in-java"
+    },
+    {
+      "Created": "2025-09-01T09:06:48Z",
+      "Title": "How can we use more than one material with ModelEntity while we work with RealityKit scene",
+      "Tags": [
+        "ios",
+        "swift",
+        "realitykit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752348/how-can-we-use-more-than-one-material-with-modelentity-while-we-work-with-realit"
+    }
+  ]
+}

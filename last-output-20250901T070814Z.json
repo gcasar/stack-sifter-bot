@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-01T07:01:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T06:41:19Z",
+      "Title": "How to pretty-print a tuple of NumPy scalars?",
+      "Tags": [
+        "python",
+        "numpy",
+        "printing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752222/how-to-pretty-print-a-tuple-of-numpy-scalars"
+    },
+    {
+      "Created": "2025-09-01T07:01:05Z",
+      "Title": "How to run Docker and nftables together on Debian 12 without conflicts?",
+      "Tags": [
+        "docker",
+        "containers",
+        "firewall",
+        "nat",
+        "nftables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752232/how-to-run-docker-and-nftables-together-on-debian-12-without-conflicts"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-01T20:03:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T19:34:22Z",
+      "Title": "How to get the highest values for two unrelated columns?",
+      "Tags": [
+        "r",
+        "data.table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752863/how-to-get-the-highest-values-for-two-unrelated-columns"
+    },
+    {
+      "Created": "2025-09-01T19:42:49Z",
+      "Title": "Google Apps Script fails sometimes and i don\u0027t know what to do",
+      "Tags": [
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752867/google-apps-script-fails-sometimes-and-i-dont-know-what-to-do"
+    },
+    {
+      "Created": "2025-09-01T19:54:30Z",
+      "Title": "Woocommerce update order meta after order complete",
+      "Tags": [
+        "woocommerce",
+        "metadata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752871/woocommerce-update-order-meta-after-order-complete"
+    },
+    {
+      "Created": "2025-09-01T20:03:52Z",
+      "Title": "Template template with container argument in C\u002B\u002B17",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "c\u002B\u002B17",
+        "template-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752876/template-template-with-container-argument-in-c17"
+    }
+  ]
+}

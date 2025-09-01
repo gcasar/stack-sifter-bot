@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-01T06:10:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T06:01:14Z",
+      "Title": "\u0022No suitable driver found for jdbc:sqlite:database.db\u0022 error keeps showing up - even though I\u0027ve listed sqlite-jdbc as a dependency in Maven?",
+      "Tags": [
+        "java",
+        "sqlite",
+        "maven",
+        "jdbc",
+        "sqlitejdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752199/no-suitable-driver-found-for-jdbcsqlitedatabase-db-error-keeps-showing-up"
+    },
+    {
+      "Created": "2025-09-01T06:10:38Z",
+      "Title": "How can I align numpy array outputs from PDFium and stb_image when rendering identical content?",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "numpy",
+        "pdfium",
+        "stb-image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752205/how-can-i-align-numpy-array-outputs-from-pdfium-and-stb-image-when-rendering-ide"
+    },
+    {
+      "Created": "2025-09-01T06:10:42Z",
+      "Title": "Login fails when using char[] instead of String for password credentials",
+      "Tags": [
+        "spring",
+        "authentication",
+        "spring-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752206/login-fails-when-using-char-instead-of-string-for-password-credentials"
+    }
+  ]
+}

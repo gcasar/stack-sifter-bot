@@ -1,0 +1,115 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-09-01T15:02:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T14:43:21Z",
+      "Title": "How to integrate mind-ar into react-three-fiber",
+      "Tags": [
+        "reactjs",
+        "react-three-fiber",
+        "webxr",
+        "mindar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752656/how-to-integrate-mind-ar-into-react-three-fiber"
+    },
+    {
+      "Created": "2025-09-01T14:43:36Z",
+      "Title": "sqlmap and mode rewriting ( clean urls )",
+      "Tags": [
+        "php",
+        "mod-rewrite",
+        "sql-injection",
+        "clean-urls",
+        "sqlmap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752659/sqlmap-and-mode-rewriting-clean-urls"
+    },
+    {
+      "Created": "2025-09-01T14:45:20Z",
+      "Title": "htaccess rule run on files without folders",
+      "Tags": [
+        "apache",
+        ".htaccess",
+        "mod-rewrite",
+        "url-rewriting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752660/htaccess-rule-run-on-files-without-folders"
+    },
+    {
+      "Created": "2025-09-01T14:49:48Z",
+      "Title": "Copy boost::asio::streambuf using std::ostream",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752661/copy-boostasiostreambuf-using-stdostream"
+    },
+    {
+      "Created": "2025-09-01T14:50:33Z",
+      "Title": "OSError: We tried to initialize torch.distributed for you, but it failed. Make sure you init torch distributed in your script to use \u0060tp_plan=\u0027auto\u0027\u0060",
+      "Tags": [
+        "python",
+        "huggingface-transformers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752663/oserror-we-tried-to-initialize-torch-distributed-for-you-but-it-failed-make-s"
+    },
+    {
+      "Created": "2025-09-01T14:52:10Z",
+      "Title": "Error when opening Jupyter notebook from cmd/power shell (Windows)",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "jupyter-notebook",
+        "jupyter",
+        "python-install"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752664/error-when-opening-jupyter-notebook-from-cmd-power-shell-windows"
+    },
+    {
+      "Created": "2025-09-01T14:52:33Z",
+      "Title": "Want to Display Add to Cart Form For Each Product @ WooCommerce Shop Page",
+      "Tags": [
+        "variables",
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752665/want-to-display-add-to-cart-form-for-each-product-woocommerce-shop-page"
+    },
+    {
+      "Created": "2025-09-01T14:53:02Z",
+      "Title": "How to query grafana panels data?",
+      "Tags": [
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752666/how-to-query-grafana-panels-data"
+    },
+    {
+      "Created": "2025-09-01T14:59:52Z",
+      "Title": "How to collect filename from eBPF hook while file is creating?",
+      "Tags": [
+        "c",
+        "ebpf",
+        "linux-security-module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752670/how-to-collect-filename-from-ebpf-hook-while-file-is-creating"
+    },
+    {
+      "Created": "2025-09-01T15:01:55Z",
+      "Title": "Cannot copy file to another folder using Renci.SshNet.Sftp (\u0022No such File\u0022 Error)",
+      "Tags": [
+        "vb.net",
+        "sftp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752671/cannot-copy-file-to-another-folder-using-renci-sshnet-sftp-no-such-file-error"
+    },
+    {
+      "Created": "2025-09-01T15:02:07Z",
+      "Title": "Existence or not of the CAPM function in python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752672/existence-or-not-of-the-capm-function-in-python"
+    }
+  ]
+}

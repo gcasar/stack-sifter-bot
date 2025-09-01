@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-01T21:03:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-01T21:03:40Z",
+      "Title": "docker builder prune stuck on large partition (no progress for days)",
+      "Tags": [
+        "docker",
+        "docker-build"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752904/docker-builder-prune-stuck-on-large-partition-no-progress-for-days"
+    }
+  ]
+}

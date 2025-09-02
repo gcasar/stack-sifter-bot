@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-02T07:05:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T06:20:41Z",
+      "Title": "Why does this Razor code compile even though I reuse the same loop variable name in nested foreach",
+      "Tags": [
+        "c#",
+        "razor",
+        "foreach",
+        "blazor",
+        "scoping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753134/why-does-this-razor-code-compile-even-though-i-reuse-the-same-loop-variable-name"
+    },
+    {
+      "Created": "2025-09-02T06:23:51Z",
+      "Title": "std::thread::join call reordering",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "memory-barriers",
+        "instruction-reordering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753135/stdthreadjoin-call-reordering"
+    },
+    {
+      "Created": "2025-09-02T06:30:51Z",
+      "Title": "Pattern in python [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753144/pattern-in-python"
+    },
+    {
+      "Created": "2025-09-02T06:57:15Z",
+      "Title": "Python dev for motion-sensing game using Intel Realsense",
+      "Tags": [
+        "python",
+        "game-development",
+        "intel",
+        "motion",
+        "realsense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753173/python-dev-for-motion-sensing-game-using-intel-realsense"
+    },
+    {
+      "Created": "2025-09-02T07:05:16Z",
+      "Title": "Multi threaded file search app using events and critical sections not working as expected",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "multithreading",
+        "events",
+        "critical-section"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753182/multi-threaded-file-search-app-using-events-and-critical-sections-not-working-as"
+    }
+  ]
+}

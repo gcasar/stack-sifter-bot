@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-02T02:20:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T02:05:36Z",
+      "Title": "\u0022Repacking\u0022 64 to 40 bits in AVX2",
+      "Tags": [
+        "optimization",
+        "micro-optimization",
+        "avx2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753012/repacking-64-to-40-bits-in-avx2"
+    },
+    {
+      "Created": "2025-09-02T02:09:50Z",
+      "Title": "Out of memory error when running vLLM with DeepSeek-R1-Distill-Llama-70B on 8\u00D7Nvidia 4090 GPUs",
+      "Tags": [
+        "pytorch",
+        "cuda",
+        "large-language-model",
+        "vllm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753013/out-of-memory-error-when-running-vllm-with-deepseek-r1-distill-llama-70b-on-8%c3%97nv"
+    },
+    {
+      "Created": "2025-09-02T02:12:15Z",
+      "Title": "Application Has No Explicit Mapping displays While Loading Users with One To Many Association",
+      "Tags": [
+        "spring-boot",
+        "spring-data-jpa",
+        "associations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753014/application-has-no-explicit-mapping-displays-while-loading-users-with-one-to-man"
+    },
+    {
+      "Created": "2025-09-02T02:12:38Z",
+      "Title": "NotBlank annotations does not work in my code",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-boot-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753015/notblank-annotations-does-not-work-in-my-code"
+    },
+    {
+      "Created": "2025-09-02T02:20:24Z",
+      "Title": "Is it safe to read a QHash with multiple threads?",
+      "Tags": [
+        "multithreading",
+        "qt5",
+        "qhash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753020/is-it-safe-to-read-a-qhash-with-multiple-threads"
+    }
+  ]
+}

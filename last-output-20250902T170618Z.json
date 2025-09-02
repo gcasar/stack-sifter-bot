@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-02T16:55:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T16:07:30Z",
+      "Title": "Create shortcut to batch file with \u0022cmd /c\u0022 in VBScript? [duplicate]",
+      "Tags": [
+        "windows",
+        "batch-file",
+        "vbscript",
+        "shortcut-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753721/create-shortcut-to-batch-file-with-cmd-c-in-vbscript"
+    },
+    {
+      "Created": "2025-09-02T16:34:56Z",
+      "Title": "How to immediately stop \u0060io.Copy(os.Stdin, stream)\u0060 when stream is closed in Go?",
+      "Tags": [
+        "go",
+        "io",
+        "stdin",
+        "goroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753743/how-to-immediately-stop-io-copyos-stdin-stream-when-stream-is-closed-in-go"
+    },
+    {
+      "Created": "2025-09-02T16:38:10Z",
+      "Title": "Do child processes inherit pledge() promises made by the parent process?",
+      "Tags": [
+        "fork",
+        "system-calls",
+        "privileges",
+        "bsd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753748/do-child-processes-inherit-pledge-promises-made-by-the-parent-process"
+    },
+    {
+      "Created": "2025-09-02T16:41:07Z",
+      "Title": "Creating an asound.conf for Android 13",
+      "Tags": [
+        "android",
+        "alsa",
+        "qualcomm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753750/creating-an-asound-conf-for-android-13"
+    },
+    {
+      "Created": "2025-09-02T16:55:48Z",
+      "Title": "I can\u0027t modify a texture using a framebuffer SDL3",
+      "Tags": [
+        "c\u002B\u002B",
+        "sdl",
+        "sdl-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753760/i-cant-modify-a-texture-using-a-framebuffer-sdl3"
+    }
+  ]
+}

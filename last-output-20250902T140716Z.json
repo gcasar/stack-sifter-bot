@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-02T14:03:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T13:46:10Z",
+      "Title": "Is there any way to move a string into a variable?",
+      "Tags": [
+        "assembly",
+        "nasm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753570/is-there-any-way-to-move-a-string-into-a-variable"
+    },
+    {
+      "Created": "2025-09-02T13:50:25Z",
+      "Title": "Find exercises about python [closed]",
+      "Tags": [
+        "python",
+        "arrays",
+        "string",
+        "function",
+        "loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753575/find-exercises-about-python"
+    },
+    {
+      "Created": "2025-09-02T13:58:02Z",
+      "Title": "How to inject a reference to a specific IHostedService into another (dependant) IHostedService?",
+      "Tags": [
+        "c#",
+        ".net",
+        "dependency-injection",
+        "ihostedservice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753578/how-to-inject-a-reference-to-a-specific-ihostedservice-into-another-dependant"
+    },
+    {
+      "Created": "2025-09-02T14:03:11Z",
+      "Title": "Getting Unspecified content type application/xml is not allowed in Azure API Management API trace",
+      "Tags": [
+        "xml",
+        "azure",
+        "content-type",
+        "policy",
+        "apim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753583/getting-unspecified-content-type-application-xml-is-not-allowed-in-azure-api-man"
+    }
+  ]
+}

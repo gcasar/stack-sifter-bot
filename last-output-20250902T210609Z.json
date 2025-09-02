@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-02T20:58:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T20:16:58Z",
+      "Title": "Is array pointer arithmetic undefined behavior in C for separate translation units?",
+      "Tags": [
+        "c",
+        "language-lawyer",
+        "undefined-behavior",
+        "pointer-arithmetic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753908/is-array-pointer-arithmetic-undefined-behavior-in-c-for-separate-translation-uni"
+    },
+    {
+      "Created": "2025-09-02T20:34:30Z",
+      "Title": "Lexicographically minimal grid path algorithm",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "lexicographic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753925/lexicographically-minimal-grid-path-algorithm"
+    },
+    {
+      "Created": "2025-09-02T20:49:08Z",
+      "Title": "How do I propagate data from onMessage() to sendMessage() in my gRPC interceptor?",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "kotlin",
+        "grpc",
+        "interceptor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753937/how-do-i-propagate-data-from-onmessage-to-sendmessage-in-my-grpc-interceptor"
+    },
+    {
+      "Created": "2025-09-02T20:58:42Z",
+      "Title": "Use Process Monitor (Procmon) to filter on a parent process and all child processes [closed]",
+      "Tags": [
+        "filter",
+        "child-process",
+        "sysinternals",
+        "procmon",
+        "process-monitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753945/use-process-monitor-procmon-to-filter-on-a-parent-process-and-all-child-proces"
+    }
+  ]
+}

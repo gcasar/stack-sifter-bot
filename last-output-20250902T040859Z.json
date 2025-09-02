@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-02T03:49:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T03:31:49Z",
+      "Title": "How to handle Ace readjustments in Blackjack code?",
+      "Tags": [
+        "c\u002B\u002B",
+        "while-loop",
+        "foreach",
+        "blackjack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753044/how-to-handle-ace-readjustments-in-blackjack-code"
+    },
+    {
+      "Created": "2025-09-02T03:44:55Z",
+      "Title": "In Python, how to enforce abstract method implementation in chain derived classes?",
+      "Tags": [
+        "python",
+        "inheritance",
+        "multiple-inheritance",
+        "abstract-methods",
+        "abstract-base-class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753050/in-python-how-to-enforce-abstract-method-implementation-in-chain-derived-classe"
+    },
+    {
+      "Created": "2025-09-02T03:45:17Z",
+      "Title": "fastapi, uvcorn: endpoints accessible even after being commented out",
+      "Tags": [
+        "fastapi",
+        "uvicorn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753051/fastapi-uvcorn-endpoints-accessible-even-after-being-commented-out"
+    },
+    {
+      "Created": "2025-09-02T03:49:59Z",
+      "Title": "How to find the four corner coordinates of a black quadrilateral using OpenCV?",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753053/how-to-find-the-four-corner-coordinates-of-a-black-quadrilateral-using-opencv"
+    }
+  ]
+}

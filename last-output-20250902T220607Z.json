@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-02T22:00:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T21:27:50Z",
+      "Title": "move constructor called with copy elision?",
+      "Tags": [
+        "c\u002B\u002B11",
+        "return-value-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753966/move-constructor-called-with-copy-elision"
+    },
+    {
+      "Created": "2025-09-02T21:39:39Z",
+      "Title": "Map snake_case query params to an object with Bean Validation",
+      "Tags": [
+        "spring-boot",
+        "kotlin",
+        "spring-mvc",
+        "jackson",
+        "bean-validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753978/map-snake-case-query-params-to-an-object-with-bean-validation"
+    },
+    {
+      "Created": "2025-09-02T22:00:50Z",
+      "Title": "Hide the New button in the List view in Odoo 17",
+      "Tags": [
+        "xml",
+        "odoo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753989/hide-the-new-button-in-the-list-view-in-odoo-17"
+    }
+  ]
+}

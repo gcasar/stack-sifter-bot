@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-02T03:17:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T02:44:49Z",
+      "Title": "How to resolve metaprogramming function when variable is indirectly assigned a function name?",
+      "Tags": [
+        "casting",
+        "metaprogramming",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753025/how-to-resolve-metaprogramming-function-when-variable-is-indirectly-assigned-a-f"
+    },
+    {
+      "Created": "2025-09-02T02:49:18Z",
+      "Title": "How to change hardware profile for a virtual device in Android studio 2025.1.2?",
+      "Tags": [
+        "android",
+        "android-studio",
+        "android-virtual-device"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753027/how-to-change-hardware-profile-for-a-virtual-device-in-android-studio-2025-1-2"
+    },
+    {
+      "Created": "2025-09-02T02:50:09Z",
+      "Title": "Dataset Collection",
+      "Tags": [
+        "dataset",
+        "ml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753029/dataset-collection"
+    },
+    {
+      "Created": "2025-09-02T03:07:16Z",
+      "Title": "Why do I get a C2440 on one vector and not the other?",
+      "Tags": [
+        "visual-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753036/why-do-i-get-a-c2440-on-one-vector-and-not-the-other"
+    },
+    {
+      "Created": "2025-09-02T03:12:14Z",
+      "Title": "Knn not running?",
+      "Tags": [
+        "r",
+        "knn",
+        "k-fold"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753037/knn-not-running"
+    },
+    {
+      "Created": "2025-09-02T03:13:19Z",
+      "Title": "pyinstaller-hooks-contrib preventing me from upgrading my Kali machine",
+      "Tags": [
+        "python-3.x",
+        "pyinstaller",
+        "apt",
+        "dpkg",
+        "kali-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753038/pyinstaller-hooks-contrib-preventing-me-from-upgrading-my-kali-machine"
+    },
+    {
+      "Created": "2025-09-02T03:14:54Z",
+      "Title": "BLE connection drops after ~30s on some Android devices (works fine on iOS and other Android)",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753039/ble-connection-drops-after-30s-on-some-android-devices-works-fine-on-ios-and-o"
+    },
+    {
+      "Created": "2025-09-02T03:17:33Z",
+      "Title": "How to prevent yellow autofill background in React Native TextInput on Expo?",
+      "Tags": [
+        "css",
+        "react-native",
+        "input",
+        "expo",
+        "nativewind"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753041/how-to-prevent-yellow-autofill-background-in-react-native-textinput-on-expo"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-02T15:58:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T15:29:51Z",
+      "Title": "Gregorian Calendar gets the wrong \u0022start of the week\u0022",
+      "Tags": [
+        "java",
+        "datetime",
+        "calendar",
+        "java.util.calendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753682/gregorian-calendar-gets-the-wrong-start-of-the-week"
+    },
+    {
+      "Created": "2025-09-02T15:39:44Z",
+      "Title": "How can I make one branch adopt changes from another branch, but ignore differences from a certain point?",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753689/how-can-i-make-one-branch-adopt-changes-from-another-branch-but-ignore-differen"
+    },
+    {
+      "Created": "2025-09-02T15:54:39Z",
+      "Title": "FullCalendar (Laravel \u002B jQuery) events not showing when pushing dynamically",
+      "Tags": [
+        "php",
+        "jquery",
+        "laravel",
+        "fullcalendar",
+        "fullcalendar-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753708/fullcalendar-laravel-jquery-events-not-showing-when-pushing-dynamically"
+    },
+    {
+      "Created": "2025-09-02T15:55:30Z",
+      "Title": "How to download product images by SKU from a website using Python?",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "image-processing",
+        "beautifulsoup",
+        "python-requests"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753711/how-to-download-product-images-by-sku-from-a-website-using-python"
+    },
+    {
+      "Created": "2025-09-02T15:57:21Z",
+      "Title": "Can\u0027t change icon color normal state on UITabBar on iOS26",
+      "Tags": [
+        "ios",
+        "swift",
+        "uikit",
+        "uitabbar",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753714/cant-change-icon-color-normal-state-on-uitabbar-on-ios26"
+    },
+    {
+      "Created": "2025-09-02T15:58:06Z",
+      "Title": "GridDB Java client throws \u0022Connection pool exhausted\u0022 error under high concurrent load",
+      "Tags": [
+        "java",
+        "grid",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753715/griddb-java-client-throws-connection-pool-exhausted-error-under-high-concurren"
+    }
+  ]
+}

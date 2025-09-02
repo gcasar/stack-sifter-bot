@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-02T13:09:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T12:37:10Z",
+      "Title": "React Router Nested Routes",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-router",
+        "nested-routes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753507/react-router-nested-routes"
+    },
+    {
+      "Created": "2025-09-02T12:57:24Z",
+      "Title": "Weird interaction between libstdc\u002B\u002B standard library headers and module",
+      "Tags": [
+        "c\u002B\u002B",
+        "std",
+        "c\u002B\u002B20",
+        "c\u002B\u002B23",
+        "c\u002B\u002B-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753528/weird-interaction-between-libstdc-standard-library-headers-and-module"
+    },
+    {
+      "Created": "2025-09-02T13:09:22Z",
+      "Title": "How can I place the carousel arrows and navigation dots inside each slide on the right?",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753539/how-can-i-place-the-carousel-arrows-and-navigation-dots-inside-each-slide-on-the"
+    }
+  ]
+}

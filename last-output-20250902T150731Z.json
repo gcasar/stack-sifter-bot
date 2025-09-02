@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-02T15:06:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T14:24:02Z",
+      "Title": "Python 3.13.5 sqlite3 DeprecationWarning persists despite registering custom date adapter",
+      "Tags": [
+        "python",
+        "sqlite",
+        "datetime",
+        "deprecation-warning",
+        "python-3.13"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753597/python-3-13-5-sqlite3-deprecationwarning-persists-despite-registering-custom-dat"
+    },
+    {
+      "Created": "2025-09-02T15:05:26Z",
+      "Title": "Group an array of objects with a tolerance factor",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "object",
+        "grouping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753652/group-an-array-of-objects-with-a-tolerance-factor"
+    },
+    {
+      "Created": "2025-09-02T15:06:55Z",
+      "Title": "how to place the co-ordinates of View to the absolute View in react native",
+      "Tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753654/how-to-place-the-co-ordinates-of-view-to-the-absolute-view-in-react-native"
+    }
+  ]
+}

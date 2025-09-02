@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-02T19:03:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T18:14:58Z",
+      "Title": "How to enforce delay between Kafka retry topic consumers (e.g., 5m, 15m, 30m) in Spring Boot?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "apache-kafka",
+        "spring-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753814/how-to-enforce-delay-between-kafka-retry-topic-consumers-e-g-5m-15m-30m-in"
+    },
+    {
+      "Created": "2025-09-02T18:31:18Z",
+      "Title": "How do I remove duplicates from a list while preserving order in Python? [duplicate]",
+      "Tags": [
+        "python",
+        "list",
+        "duplicates",
+        "data-cleaning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753829/how-do-i-remove-duplicates-from-a-list-while-preserving-order-in-python"
+    },
+    {
+      "Created": "2025-09-02T18:33:07Z",
+      "Title": "I need help making the part that decides the winner in rock paper scissors",
+      "Tags": [
+        "lua"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753830/i-need-help-making-the-part-that-decides-the-winner-in-rock-paper-scissors"
+    },
+    {
+      "Created": "2025-09-02T18:38:10Z",
+      "Title": "How can I match the token count used by BGE-M3 embedding model before embedding?",
+      "Tags": [
+        "python",
+        "huggingface-transformers",
+        "tokenize",
+        "embedding",
+        "llama-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753835/how-can-i-match-the-token-count-used-by-bge-m3-embedding-model-before-embedding"
+    },
+    {
+      "Created": "2025-09-02T18:47:56Z",
+      "Title": "Why OPENROWSET with CosmosDB returns \u0027Incorrect secret value\u0027?",
+      "Tags": [
+        "azure",
+        "azure-cosmosdb",
+        "azure-synapse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753843/why-openrowset-with-cosmosdb-returns-incorrect-secret-value"
+    },
+    {
+      "Created": "2025-09-02T18:53:56Z",
+      "Title": "ARM64 UWP got System Out of Memory build error",
+      "Tags": [
+        "c#",
+        "uwp",
+        "release",
+        "arm64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753845/arm64-uwp-got-system-out-of-memory-build-error"
+    },
+    {
+      "Created": "2025-09-02T18:58:26Z",
+      "Title": "How do I display my BST using my preorder() and inorder() methods?",
+      "Tags": [
+        "python-3.x",
+        "lambda",
+        "binary-search-tree",
+        "inorder",
+        "preorder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753849/how-do-i-display-my-bst-using-my-preorder-and-inorder-methods"
+    },
+    {
+      "Created": "2025-09-02T19:03:07Z",
+      "Title": "How to get a border on polygon?",
+      "Tags": [
+        "css",
+        "polygon",
+        "gradient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753852/how-to-get-a-border-on-polygon"
+    }
+  ]
+}

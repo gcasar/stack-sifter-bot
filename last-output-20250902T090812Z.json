@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-02T09:04:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T08:37:27Z",
+      "Title": "Issue when rotating around multiple axes",
+      "Tags": [
+        "geometry",
+        "godot",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753265/issue-when-rotating-around-multiple-axes"
+    },
+    {
+      "Created": "2025-09-02T08:43:42Z",
+      "Title": "Does anyone have a nice concise way of parsing bash function arguments and options?",
+      "Tags": [
+        "bash",
+        "parsing",
+        "arguments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753266/does-anyone-have-a-nice-concise-way-of-parsing-bash-function-arguments-and-optio"
+    },
+    {
+      "Created": "2025-09-02T08:49:23Z",
+      "Title": "PostgreSQL C Extension: popen crashes backend on external process failure",
+      "Tags": [
+        "c",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753268/postgresql-c-extension-popen-crashes-backend-on-external-process-failure"
+    },
+    {
+      "Created": "2025-09-02T08:49:27Z",
+      "Title": "How can I share a file via Whatsapp with my ionic angular app on android?",
+      "Tags": [
+        "android",
+        "ionic-framework",
+        "share",
+        "whatsapp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753269/how-can-i-share-a-file-via-whatsapp-with-my-ionic-angular-app-on-android"
+    },
+    {
+      "Created": "2025-09-02T08:56:41Z",
+      "Title": "Can I use wildcards or regex in PhpStorm Deployment Mappings?",
+      "Tags": [
+        "phpstorm",
+        "jetbrains-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753273/can-i-use-wildcards-or-regex-in-phpstorm-deployment-mappings"
+    },
+    {
+      "Created": "2025-09-02T08:59:23Z",
+      "Title": "Understanding numpy._core module: multiarray",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753276/understanding-numpy-core-module-multiarray"
+    },
+    {
+      "Created": "2025-09-02T09:04:22Z",
+      "Title": "How to create dataframe from excel via clipboard?",
+      "Tags": [
+        "python",
+        "excel",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753279/how-to-create-dataframe-from-excel-via-clipboard"
+    }
+  ]
+}

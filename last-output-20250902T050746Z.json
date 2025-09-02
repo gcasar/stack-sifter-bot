@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-02T04:46:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T04:12:35Z",
+      "Title": "Which way is faster way to create Decimal?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753068/which-way-is-faster-way-to-create-decimal"
+    },
+    {
+      "Created": "2025-09-02T04:45:23Z",
+      "Title": "A-Frame/MindAR project: GLB model not visible on image marker",
+      "Tags": [
+        "augmented-reality",
+        "aframe",
+        "gltf",
+        "mindar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753083/a-frame-mindar-project-glb-model-not-visible-on-image-marker"
+    },
+    {
+      "Created": "2025-09-02T04:46:53Z",
+      "Title": "Homebrew Python3 not taking precedence over macOS system Python despite PATH in ~/.zshrc",
+      "Tags": [
+        "macos",
+        "homebrew",
+        "python-3.12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753084/homebrew-python3-not-taking-precedence-over-macos-system-python-despite-path-in"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-02T12:10:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T11:35:45Z",
+      "Title": "Asserting on displayed JDialogs",
+      "Tags": [
+        "java",
+        "junit5",
+        "fest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753446/asserting-on-displayed-jdialogs"
+    },
+    {
+      "Created": "2025-09-02T11:36:58Z",
+      "Title": "Remove filter months and add filter by year",
+      "Tags": [
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753447/remove-filter-months-and-add-filter-by-year"
+    },
+    {
+      "Created": "2025-09-02T11:53:59Z",
+      "Title": "To create a modal using intercepting routes and intercepting routes, should i use createPortal function or do it the basic way?",
+      "Tags": [
+        "next.js",
+        "modal-dialog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753462/to-create-a-modal-using-intercepting-routes-and-intercepting-routes-should-i-us"
+    },
+    {
+      "Created": "2025-09-02T12:07:02Z",
+      "Title": "BarCode Generator in C#",
+      "Tags": [
+        "c#",
+        "winforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753470/barcode-generator-in-c-sharp"
+    },
+    {
+      "Created": "2025-09-02T12:10:44Z",
+      "Title": "Is there way to use Symbol in React JS like base for key in map function",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753473/is-there-way-to-use-symbol-in-react-js-like-base-for-key-in-map-function"
+    }
+  ]
+}

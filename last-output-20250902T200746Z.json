@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-02T20:03:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T19:05:22Z",
+      "Title": "Trying to loop through a str array and convert elements to integers",
+      "Tags": [
+        "python",
+        "types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753854/trying-to-loop-through-a-str-array-and-convert-elements-to-integers"
+    },
+    {
+      "Created": "2025-09-02T19:16:01Z",
+      "Title": "Why is arr undefined even though function returns an array? [duplicate]",
+      "Tags": [
+        "javascript",
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753873/why-is-arr-undefined-even-though-function-returns-an-array"
+    },
+    {
+      "Created": "2025-09-02T19:25:12Z",
+      "Title": "Database not updating, using C# and Windows forms",
+      "Tags": [
+        "c#",
+        "mysql",
+        "forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753882/database-not-updating-using-c-sharp-and-windows-forms"
+    },
+    {
+      "Created": "2025-09-02T19:32:46Z",
+      "Title": "How do I force refresh a PowerQuery with VBA?",
+      "Tags": [
+        "excel",
+        "vba",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753884/how-do-i-force-refresh-a-powerquery-with-vba"
+    },
+    {
+      "Created": "2025-09-02T19:39:29Z",
+      "Title": "Plivo AI Agent not calling human agent after transferCall redirect",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "artificial-intelligence",
+        "agent",
+        "plivo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753887/plivo-ai-agent-not-calling-human-agent-after-transfercall-redirect"
+    },
+    {
+      "Created": "2025-09-02T19:48:43Z",
+      "Title": "Couchbase client fails with OutOfMemoryError on too many waiting threads",
+      "Tags": [
+        "java",
+        "couchbase",
+        "couchbase-java-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753892/couchbase-client-fails-with-outofmemoryerror-on-too-many-waiting-threads"
+    },
+    {
+      "Created": "2025-09-02T19:50:53Z",
+      "Title": "What\u0027s wrong with this code, which gets content (chars) from file and stores it in char**?",
+      "Tags": [
+        "c",
+        "gcc",
+        "text-editor",
+        "ed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753894/whats-wrong-with-this-code-which-gets-content-chars-from-file-and-stores-it"
+    },
+    {
+      "Created": "2025-09-02T19:51:14Z",
+      "Title": "SqlAlchemy/Psycog2 undefined function TO_TIMESTAMP",
+      "Tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "psycopg2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753895/sqlalchemy-psycog2-undefined-function-to-timestamp"
+    },
+    {
+      "Created": "2025-09-02T20:03:19Z",
+      "Title": "How can I connect Docker Containers without LocalHost?",
+      "Tags": [
+        "docker",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753900/how-can-i-connect-docker-containers-without-localhost"
+    }
+  ]
+}

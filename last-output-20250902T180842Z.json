@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-02T18:01:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T17:47:06Z",
+      "Title": "Polymorphic deserialize JSON with using DI container to create instances",
+      "Tags": [
+        "c#",
+        "dependency-injection",
+        "polymorphism",
+        ".net-8.0",
+        "system.text.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753796/polymorphic-deserialize-json-with-using-di-container-to-create-instances"
+    },
+    {
+      "Created": "2025-09-02T17:48:58Z",
+      "Title": "Unable to access IAM resources in cross-tenancy OCI setup - Is creating API keys in another tenancy possible?",
+      "Tags": [
+        "oracle-cloud-infrastructure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753797/unable-to-access-iam-resources-in-cross-tenancy-oci-setup-is-creating-api-keys"
+    },
+    {
+      "Created": "2025-09-02T17:54:17Z",
+      "Title": "Pyparsing ParseResults attributes type hinting",
+      "Tags": [
+        "python",
+        "python-typing",
+        "pyparsing",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753801/pyparsing-parseresults-attributes-type-hinting"
+    },
+    {
+      "Created": "2025-09-02T18:01:20Z",
+      "Title": "FFMPEG mpegts rtsp streaming [closed]",
+      "Tags": [
+        "ffmpeg",
+        "rtsp",
+        "sdp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753808/ffmpeg-mpegts-rtsp-streaming"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-02T23:00:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T22:09:05Z",
+      "Title": "How to extract R_HOME from user account environmental variables (upper part)",
+      "Tags": [
+        "vba",
+        "environment-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753994/how-to-extract-r-home-from-user-account-environmental-variables-upper-part"
+    },
+    {
+      "Created": "2025-09-02T22:15:36Z",
+      "Title": "Beginner Question regarding Git and Python",
+      "Tags": [
+        "python",
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753997/beginner-question-regarding-git-and-python"
+    },
+    {
+      "Created": "2025-09-02T22:23:14Z",
+      "Title": "Is it still necessary to validate paid Mac App Store purchases?",
+      "Tags": [
+        "storekit",
+        "mac-app-store",
+        "receipt-validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754002/is-it-still-necessary-to-validate-paid-mac-app-store-purchases"
+    },
+    {
+      "Created": "2025-09-02T23:00:34Z",
+      "Title": "Why is glGetUniformLocation only returning 0 or -858993460?",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "shader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754020/why-is-glgetuniformlocation-only-returning-0-or-858993460"
+    }
+  ]
+}

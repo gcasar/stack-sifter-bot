@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-02T00:12:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T00:08:55Z",
+      "Title": "Adding compiler options to existing CmakeLists.txt",
+      "Tags": [
+        "cmake",
+        "cmakelists-options",
+        "cmake-custom-command"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752978/adding-compiler-options-to-existing-cmakelists-txt"
+    },
+    {
+      "Created": "2025-09-02T00:12:11Z",
+      "Title": "AWS RDS connection 28000 PAM authentication failed for user \u0022db_user\u0022",
+      "Tags": [
+        "amazon-rds",
+        "aws-sdk-net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79752981/aws-rds-connection-28000-pam-authentication-failed-for-user-db-user"
+    }
+  ]
+}

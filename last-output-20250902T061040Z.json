@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-02T06:06:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T05:37:38Z",
+      "Title": "Do C\u002B\u002B20 attributes [[likely]] and [[unlikely]] have anything to do with \u0022Speculative Execution\u0022?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "likely-unlikely"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753103/do-c20-attributes-likely-and-unlikely-have-anything-to-do-with-specul"
+    },
+    {
+      "Created": "2025-09-02T06:01:15Z",
+      "Title": "Redis value is java float array, is it possible to store the same float array value in Python?",
+      "Tags": [
+        "python",
+        "java",
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753121/redis-value-is-java-float-array-is-it-possible-to-store-the-same-float-array-va"
+    },
+    {
+      "Created": "2025-09-02T06:06:06Z",
+      "Title": "Does Apple reject apps that block usage when Developer Mode is enabled?",
+      "Tags": [
+        "ios",
+        "swift",
+        "apple-developer",
+        "developer-mode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753126/does-apple-reject-apps-that-block-usage-when-developer-mode-is-enabled"
+    }
+  ]
+}

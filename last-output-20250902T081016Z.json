@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-02T08:03:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T07:21:15Z",
+      "Title": "C# ExcelDataReader reading foreign characters incorrectly from CSV",
+      "Tags": [
+        "c#",
+        "excel",
+        "csv",
+        "encoding",
+        "exceldatareader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753198/c-sharp-exceldatareader-reading-foreign-characters-incorrectly-from-csv"
+    },
+    {
+      "Created": "2025-09-02T07:48:30Z",
+      "Title": "Nuxt and tailwind doesn\u0027t work if file is in scss",
+      "Tags": [
+        "sass",
+        "nuxt.js",
+        "tailwind-css",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753222/nuxt-and-tailwind-doesnt-work-if-file-is-in-scss"
+    },
+    {
+      "Created": "2025-09-02T07:55:30Z",
+      "Title": "SelectableText performance issue with big text size",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753229/selectabletext-performance-issue-with-big-text-size"
+    },
+    {
+      "Created": "2025-09-02T08:03:33Z",
+      "Title": "Nested slurm jobs in R using future.batchtools",
+      "Tags": [
+        "r",
+        "parallel-processing",
+        "slurm",
+        "r-future"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753238/nested-slurm-jobs-in-r-using-future-batchtools"
+    }
+  ]
+}

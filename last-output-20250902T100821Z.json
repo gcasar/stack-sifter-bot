@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-02T10:06:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T09:19:59Z",
+      "Title": "Edge to Edge Android 16 API 36 BottomSheetDialogFragment Problems Solutions",
+      "Tags": [
+        "android",
+        "kotlin",
+        "padding",
+        "bottomsheetdialogfragment",
+        "edge-to-edge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753289/edge-to-edge-android-16-api-36-bottomsheetdialogfragment-problems-solutions"
+    },
+    {
+      "Created": "2025-09-02T09:24:26Z",
+      "Title": "play-pac4j: keep track of active sessions",
+      "Tags": [
+        "java",
+        "playframework",
+        "pac4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753296/play-pac4j-keep-track-of-active-sessions"
+    },
+    {
+      "Created": "2025-09-02T09:46:36Z",
+      "Title": "Looking for a correct way to validate mssql Query",
+      "Tags": [
+        "validation",
+        "reactive-programming",
+        "mssql-jdbc",
+        "spring-boot-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753315/looking-for-a-correct-way-to-validate-mssql-query"
+    },
+    {
+      "Created": "2025-09-02T09:58:16Z",
+      "Title": "Snowflake: Secret Does not exist or Operation Not authorized",
+      "Tags": [
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753325/snowflake-secret-does-not-exist-or-operation-not-authorized"
+    },
+    {
+      "Created": "2025-09-02T09:58:36Z",
+      "Title": "VS Code task fails with exit code 1, but the same g\u002B\u002B command works in the terminal",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "visual-studio-code",
+        "mingw-w64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753327/vs-code-task-fails-with-exit-code-1-but-the-same-g-command-works-in-the-termi"
+    },
+    {
+      "Created": "2025-09-02T09:59:05Z",
+      "Title": "How to use go install in a monorepo?",
+      "Tags": [
+        "go",
+        "module",
+        "monorepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753329/how-to-use-go-install-in-a-monorepo"
+    },
+    {
+      "Created": "2025-09-02T10:06:05Z",
+      "Title": "Conditional counting based on multiple conditions",
+      "Tags": [
+        "r",
+        "dplyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79753338/conditional-counting-based-on-multiple-conditions"
+    }
+  ]
+}

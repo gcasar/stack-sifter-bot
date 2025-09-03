@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-03T02:00:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T02:00:31Z",
+      "Title": "Mp3Parser connot restore inputstream",
+      "Tags": [
+        "mp3",
+        "apache-tika"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754068/mp3parser-connot-restore-inputstream"
+    }
+  ]
+}

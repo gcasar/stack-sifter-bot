@@ -1,0 +1,120 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-09-03T11:05:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T10:09:49Z",
+      "Title": "How can I receive MQTT data from a Teltonika RUT200 router on a remote network using ZeroTier?",
+      "Tags": [
+        "node.js",
+        "mqtt",
+        "iot",
+        "real-time-data",
+        "teltonika"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754438/how-can-i-receive-mqtt-data-from-a-teltonika-rut200-router-on-a-remote-network-u"
+    },
+    {
+      "Created": "2025-09-03T10:35:21Z",
+      "Title": "How can I generate 10 visually distinct random colors in Delphi FMX? [duplicate]",
+      "Tags": [
+        "delphi",
+        "colors",
+        "firemonkey",
+        "delphi-12-athens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754469/how-can-i-generate-10-visually-distinct-random-colors-in-delphi-fmx"
+    },
+    {
+      "Created": "2025-09-03T10:42:06Z",
+      "Title": "Why doesn\u0027t RTLD_LOCAL solve this symbol conflict when loading dynamic libraries?",
+      "Tags": [
+        "linker",
+        "dynamic-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754475/why-doesnt-rtld-local-solve-this-symbol-conflict-when-loading-dynamic-libraries"
+    },
+    {
+      "Created": "2025-09-03T10:49:33Z",
+      "Title": "How to make Microsoft Excel load Unicode characters correctly when open double clicking CSV file",
+      "Tags": [
+        "excel",
+        "csv",
+        "unicode",
+        "export-to-csv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754481/how-to-make-microsoft-excel-load-unicode-characters-correctly-when-open-double-c"
+    },
+    {
+      "Created": "2025-09-03T10:56:16Z",
+      "Title": "Fullcalendar prev and next custom button event calling",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "fullcalendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754488/fullcalendar-prev-and-next-custom-button-event-calling"
+    },
+    {
+      "Created": "2025-09-03T10:56:18Z",
+      "Title": "How to handle stateful MCP connections in a load-balanced agentic application?",
+      "Tags": [
+        "large-language-model",
+        "agent",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754489/how-to-handle-stateful-mcp-connections-in-a-load-balanced-agentic-application"
+    },
+    {
+      "Created": "2025-09-03T10:57:18Z",
+      "Title": "Why does my Python for loop skip the last element in a list?",
+      "Tags": [
+        "python",
+        "list",
+        "loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754491/why-does-my-python-for-loop-skip-the-last-element-in-a-list"
+    },
+    {
+      "Created": "2025-09-03T11:01:24Z",
+      "Title": "Stripe Embedded Components redirection",
+      "Tags": [
+        "reactjs",
+        "stripe-payments",
+        "checkout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754503/stripe-embedded-components-redirection"
+    },
+    {
+      "Created": "2025-09-03T11:02:21Z",
+      "Title": "R How can I generate dynamic ggplot axis tick labels which contain subscripts?",
+      "Tags": [
+        "r",
+        "function",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754505/r-how-can-i-generate-dynamic-ggplot-axis-tick-labels-which-contain-subscripts"
+    },
+    {
+      "Created": "2025-09-03T11:05:09Z",
+      "Title": "Limiting the Maximum number for counter",
+      "Tags": [
+        "css",
+        "shopify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754507/limiting-the-maximum-number-for-counter"
+    },
+    {
+      "Created": "2025-09-03T11:05:44Z",
+      "Title": "Unexpected(?) availability of child elements during start events in lxml.etree.iterpars",
+      "Tags": [
+        "xml",
+        "scrapy",
+        "xml-parsing",
+        "lxml",
+        "cython"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754508/unexpected-availability-of-child-elements-during-start-events-in-lxml-etree-i"
+    }
+  ]
+}

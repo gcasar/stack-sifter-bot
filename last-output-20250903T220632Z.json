@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-03T22:05:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T21:35:02Z",
+      "Title": "CQRS EDA Microservices - event consumption from other bounded contexts",
+      "Tags": [
+        "microservices",
+        "cqrs",
+        "eda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755103/cqrs-eda-microservices-event-consumption-from-other-bounded-contexts"
+    },
+    {
+      "Created": "2025-09-03T21:45:21Z",
+      "Title": "KeyError: \u0027Cache only has 0 layers, attempted to access layer with index 0\u0027",
+      "Tags": [
+        "python",
+        "huggingface-transformers",
+        "environment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755107/keyerror-cache-only-has-0-layers-attempted-to-access-layer-with-index-0"
+    },
+    {
+      "Created": "2025-09-03T21:53:51Z",
+      "Title": "How to read Samsung wellbeing database?",
+      "Tags": [
+        "android",
+        "samsung",
+        "usagestatsmanager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755109/how-to-read-samsung-wellbeing-database"
+    },
+    {
+      "Created": "2025-09-03T21:53:54Z",
+      "Title": "How to make QProgressDialog responsive while avoiding all user input",
+      "Tags": [
+        "qt",
+        "qprogressdialog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755110/how-to-make-qprogressdialog-responsive-while-avoiding-all-user-input"
+    },
+    {
+      "Created": "2025-09-03T22:00:55Z",
+      "Title": "How to get list of titles of a large number of wikipedia articles in Python",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "wikipedia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755114/how-to-get-list-of-titles-of-a-large-number-of-wikipedia-articles-in-python"
+    },
+    {
+      "Created": "2025-09-03T22:05:28Z",
+      "Title": "Spectre Console \u0027System.NotSupportedException: Cannot show selection prompt since the current terminal isn\u0027t interactive\u0027 in Win11 console",
+      "Tags": [
+        "c#",
+        "spectre.console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755116/spectre-console-system-notsupportedexception-cannot-show-selection-prompt-sinc"
+    }
+  ]
+}

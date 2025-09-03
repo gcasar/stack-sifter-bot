@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-03T18:06:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T17:22:55Z",
+      "Title": "A problem occurred configuring project \u0027:google_mobile_ads\u0027",
+      "Tags": [
+        "flutter",
+        "dart",
+        "deprecated"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754920/a-problem-occurred-configuring-project-google-mobile-ads"
+    },
+    {
+      "Created": "2025-09-03T17:44:59Z",
+      "Title": "Is there a pure numpy way of performing an operation such as np.min over variable-size bins?",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754938/is-there-a-pure-numpy-way-of-performing-an-operation-such-as-np-min-over-variabl"
+    },
+    {
+      "Created": "2025-09-03T17:45:52Z",
+      "Title": "How to synchronize Outlook meeting room check-ins with external systems via Graph API?",
+      "Tags": [
+        "outlook",
+        "microsoft-graph-api",
+        "checkin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754939/how-to-synchronize-outlook-meeting-room-check-ins-with-external-systems-via-grap"
+    },
+    {
+      "Created": "2025-09-03T17:53:07Z",
+      "Title": "Laravel retrieve next chunk after dispatched batch finished",
+      "Tags": [
+        "laravel",
+        "eloquent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754945/laravel-retrieve-next-chunk-after-dispatched-batch-finished"
+    },
+    {
+      "Created": "2025-09-03T17:56:57Z",
+      "Title": "\u0022You need access\u0022 page blocking users from using Google Chat app made with Apps Script",
+      "Tags": [
+        "google-apps-script",
+        "google-workspace-add-ons",
+        "google-chat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754948/you-need-access-page-blocking-users-from-using-google-chat-app-made-with-apps"
+    },
+    {
+      "Created": "2025-09-03T18:00:27Z",
+      "Title": "Using PrimeVue.Popover as a tooltip: problem with setTimeout",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "tooltip",
+        "settimeout",
+        "primevue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754951/using-primevue-popover-as-a-tooltip-problem-with-settimeout"
+    },
+    {
+      "Created": "2025-09-03T18:06:21Z",
+      "Title": "How is the correct way to read each row of a datagrid to fill another one with MYSQL",
+      "Tags": [
+        "c#",
+        "mysql",
+        "visual-studio",
+        "visual-studio-2010"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754958/how-is-the-correct-way-to-read-each-row-of-a-datagrid-to-fill-another-one-with-m"
+    }
+  ]
+}

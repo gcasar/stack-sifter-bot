@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-03T13:10:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T12:35:11Z",
+      "Title": "Kendo React DatePicker \u2013 manual year input allows only one digit",
+      "Tags": [
+        "datepicker",
+        "kendo-ui",
+        "telerik"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754598/kendo-react-datepicker-manual-year-input-allows-only-one-digit"
+    },
+    {
+      "Created": "2025-09-03T12:38:05Z",
+      "Title": "Python ElementTree returning empty attributes",
+      "Tags": [
+        "python",
+        "elementtree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754605/python-elementtree-returning-empty-attributes"
+    },
+    {
+      "Created": "2025-09-03T12:49:36Z",
+      "Title": "Script debugging and Entra ID (B2C) cant both be on at the same time",
+      "Tags": [
+        "visual-studio",
+        "authentication",
+        "microsoft-entra-id",
+        "script-debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754613/script-debugging-and-entra-id-b2c-cant-both-be-on-at-the-same-time"
+    },
+    {
+      "Created": "2025-09-03T12:59:49Z",
+      "Title": "How can remove the leading apostrophe with OOBasic code in openoffice calc?",
+      "Tags": [
+        "macros",
+        "libreoffice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754625/how-can-remove-the-leading-apostrophe-with-oobasic-code-in-openoffice-calc"
+    },
+    {
+      "Created": "2025-09-03T13:01:40Z",
+      "Title": "Forge test fails with --match-test(Fork mainnet) but passes with forge test(anvil)",
+      "Tags": [
+        "unit-testing",
+        "solidity",
+        "evm",
+        "foundry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754627/forge-test-fails-with-match-testfork-mainnet-but-passes-with-forge-testanvi"
+    },
+    {
+      "Created": "2025-09-03T13:10:02Z",
+      "Title": "ModuleNotFoundError: No module named \u0027pandas\u0027 on Raspberry Pi even after installing from requirements.txt",
+      "Tags": [
+        "python",
+        "pandas",
+        "raspberry-pi4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754631/modulenotfounderror-no-module-named-pandas-on-raspberry-pi-even-after-install"
+    }
+  ]
+}

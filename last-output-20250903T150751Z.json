@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-03T15:00:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T14:13:44Z",
+      "Title": "Trying to inject the DecimalPipe into an Angular service",
+      "Tags": [
+        "angular",
+        "angular-services",
+        "angular-pipe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754714/trying-to-inject-the-decimalpipe-into-an-angular-service"
+    },
+    {
+      "Created": "2025-09-03T14:43:47Z",
+      "Title": "Google Maps Embed API directions mode blocked in Safari with domain-restricted API key",
+      "Tags": [
+        "google-maps",
+        "safari",
+        "google-maps-embed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754750/google-maps-embed-api-directions-mode-blocked-in-safari-with-domain-restricted-a"
+    },
+    {
+      "Created": "2025-09-03T14:44:51Z",
+      "Title": "How to query to return records if only one of many possible values does not exist in one column",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754753/how-to-query-to-return-records-if-only-one-of-many-possible-values-does-not-exis"
+    },
+    {
+      "Created": "2025-09-03T14:50:56Z",
+      "Title": "Why destruction order of array elements is not from last to first?",
+      "Tags": [
+        "arrays",
+        "rust",
+        "containers",
+        "language-lawyer",
+        "destructor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754764/why-destruction-order-of-array-elements-is-not-from-last-to-first"
+    },
+    {
+      "Created": "2025-09-03T14:56:07Z",
+      "Title": "How to dynamically register Language Model Tools in a VS Code extension?",
+      "Tags": [
+        "visual-studio-code",
+        "large-language-model",
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754770/how-to-dynamically-register-language-model-tools-in-a-vs-code-extension"
+    },
+    {
+      "Created": "2025-09-03T14:57:21Z",
+      "Title": "ADF Data flow returns more records than expected",
+      "Tags": [
+        "azure-data-factory",
+        "google-cloud-dataflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754772/adf-data-flow-returns-more-records-than-expected"
+    },
+    {
+      "Created": "2025-09-03T14:57:34Z",
+      "Title": "PySpark Paragraph Stuck in PENDING on K8s Zeppelin (Per-User Mode): No Error Logs, Requires Interpreter Restart",
+      "Tags": [
+        "apache-spark",
+        "kubernetes",
+        "pyspark",
+        "apache-zeppelin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754773/pyspark-paragraph-stuck-in-pending-on-k8s-zeppelin-per-user-mode-no-error-log"
+    },
+    {
+      "Created": "2025-09-03T14:58:52Z",
+      "Title": "Avalonia Graph freeze problem (Arduino related)",
+      "Tags": [
+        "c#",
+        "arduino",
+        "avaloniaui",
+        "avalonia",
+        "livecharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754775/avalonia-graph-freeze-problem-arduino-related"
+    },
+    {
+      "Created": "2025-09-03T15:00:57Z",
+      "Title": "How can I extract figures/images with their captions from textbook PDFs or scanned page images in PDFs in Python?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "pdf",
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754778/how-can-i-extract-figures-images-with-their-captions-from-textbook-pdfs-or-scann"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-03T09:03:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T08:25:02Z",
+      "Title": "What is the role of restrict here?",
+      "Tags": [
+        "c",
+        "pointers",
+        "restrict-qualifier",
+        "c23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754321/what-is-the-role-of-restrict-here"
+    },
+    {
+      "Created": "2025-09-03T08:41:57Z",
+      "Title": "Why do I get C3640 error message for this code?",
+      "Tags": [
+        "c\u002B\u002B",
+        "compiler-errors",
+        "virtual-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754341/why-do-i-get-c3640-error-message-for-this-code"
+    },
+    {
+      "Created": "2025-09-03T08:53:44Z",
+      "Title": "pylance reports access attribute warning while it\u0027s checked",
+      "Tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754358/pylance-reports-access-attribute-warning-while-its-checked"
+    },
+    {
+      "Created": "2025-09-03T09:00:58Z",
+      "Title": "How to automate manual data downloading in Python/R?",
+      "Tags": [
+        "pipeline",
+        "data-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754367/how-to-automate-manual-data-downloading-in-python-r"
+    },
+    {
+      "Created": "2025-09-03T09:01:24Z",
+      "Title": "How to make more sql statement transation atomic in MS Access?",
+      "Tags": [
+        "ms-access",
+        "transactions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754368/how-to-make-more-sql-statement-transation-atomic-in-ms-access"
+    },
+    {
+      "Created": "2025-09-03T09:03:53Z",
+      "Title": "\u0022Sr is not a function\u0022 when deploying Tanstack Start app using Relay on Cloudflare Workers",
+      "Tags": [
+        "vite",
+        "relayjs",
+        "react-relay",
+        "tanstack-start"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754373/sr-is-not-a-function-when-deploying-tanstack-start-app-using-relay-on-cloudfla"
+    }
+  ]
+}

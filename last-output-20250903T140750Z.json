@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-03T14:01:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T13:14:45Z",
+      "Title": "Why does everything render normally even when the stencil function is set to GL_NEVER?",
+      "Tags": [
+        "opengl",
+        "framebuffer",
+        "fbo",
+        "opengl-compat",
+        "stencil-buffer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754640/why-does-everything-render-normally-even-when-the-stencil-function-is-set-to-gl"
+    },
+    {
+      "Created": "2025-09-03T13:47:01Z",
+      "Title": "Future-proofing Python package against changes [closed]",
+      "Tags": [
+        "python",
+        "compatibility"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754674/future-proofing-python-package-against-changes"
+    },
+    {
+      "Created": "2025-09-03T13:52:56Z",
+      "Title": "How can I determine if an address is within city limits vs just the county using Google Maps APIs?",
+      "Tags": [
+        "google-maps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754682/how-can-i-determine-if-an-address-is-within-city-limits-vs-just-the-county-using"
+    },
+    {
+      "Created": "2025-09-03T13:59:06Z",
+      "Title": "Selenium with chromedriver blank (White) screenshots in headless mode (Working on firefox)",
+      "Tags": [
+        "google-chrome",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754687/selenium-with-chromedriver-blank-white-screenshots-in-headless-mode-working-o"
+    },
+    {
+      "Created": "2025-09-03T13:59:11Z",
+      "Title": "Can Minimal APIs use trusted connections?",
+      "Tags": [
+        "c#",
+        "minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754688/can-minimal-apis-use-trusted-connections"
+    },
+    {
+      "Created": "2025-09-03T14:01:13Z",
+      "Title": "hestring defeined in header A not defined in header B",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754694/hestring-defeined-in-header-a-not-defined-in-header-b"
+    }
+  ]
+}

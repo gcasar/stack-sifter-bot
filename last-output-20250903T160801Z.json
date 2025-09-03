@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-03T16:06:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T16:01:41Z",
+      "Title": "How to globally hide currency/amount fields in a React \u002B Rails app based on user permissions?",
+      "Tags": [
+        "reactjs",
+        "ruby-on-rails"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754833/how-to-globally-hide-currency-amount-fields-in-a-react-rails-app-based-on-user"
+    },
+    {
+      "Created": "2025-09-03T16:03:37Z",
+      "Title": "Custom DogStatsD metrics not making it to the dashboard with agent",
+      "Tags": [
+        "rust",
+        "aws-fargate",
+        "datadog",
+        "statsd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754838/custom-dogstatsd-metrics-not-making-it-to-the-dashboard-with-agent"
+    },
+    {
+      "Created": "2025-09-03T16:06:17Z",
+      "Title": "clang produces malformed object files when cross-compiling",
+      "Tags": [
+        "clang",
+        "llvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754842/clang-produces-malformed-object-files-when-cross-compiling"
+    },
+    {
+      "Created": "2025-09-03T16:06:52Z",
+      "Title": "ROS 2 Humble colcon build fails: ModuleNotFoundError: No module named \u0027em\u0027 when building unitree_api",
+      "Tags": [
+        "modulenotfounderror",
+        "ros2",
+        "colcon",
+        "empy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754843/ros-2-humble-colcon-build-fails-modulenotfounderror-no-module-named-em-when"
+    }
+  ]
+}

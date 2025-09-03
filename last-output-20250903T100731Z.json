@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-03T10:05:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T09:16:29Z",
+      "Title": "Check if a server is part of an Azure cluster using C# and PowerShell",
+      "Tags": [
+        "c#",
+        "azure",
+        "powershell",
+        "cluster-computing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754383/check-if-a-server-is-part-of-an-azure-cluster-using-c-sharp-and-powershell"
+    },
+    {
+      "Created": "2025-09-03T09:23:35Z",
+      "Title": "Two-level unstack in R",
+      "Tags": [
+        "r",
+        "tidyverse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754394/two-level-unstack-in-r"
+    },
+    {
+      "Created": "2025-09-03T09:41:02Z",
+      "Title": "Attempted import error: \u0027dbAdmin\u0027 is not exported from \u0027@/lib/firebase/admin\u0027 (imported as \u0027dbAdmin\u0027)",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "firebase",
+        "next.js",
+        "google-cloud-firestore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754411/attempted-import-error-dbadmin-is-not-exported-from-lib-firebase-admin-i"
+    },
+    {
+      "Created": "2025-09-03T09:57:52Z",
+      "Title": "ValidationError: MyModelSchema validation failed: items.0: Cannot read properties of undefined (reading \u0027model\u0027)",
+      "Tags": [
+        "mongodb",
+        "express",
+        "mongoose",
+        "typegoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754424/validationerror-mymodelschema-validation-failed-items-0-cannot-read-propertie"
+    },
+    {
+      "Created": "2025-09-03T10:00:39Z",
+      "Title": "Spring Cloud Gateway \u002B Spring Boot backend \u002B React frontend secured with Keycloak",
+      "Tags": [
+        "reactjs",
+        "spring-boot",
+        "cors",
+        "keycloak",
+        "spring-cloud-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754429/spring-cloud-gateway-spring-boot-backend-react-frontend-secured-with-keycloa"
+    },
+    {
+      "Created": "2025-09-03T10:05:42Z",
+      "Title": "Retrieve a Certificate by Id in APIM Policy",
+      "Tags": [
+        "azure-api-management",
+        "apim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754434/retrieve-a-certificate-by-id-in-apim-policy"
+    },
+    {
+      "Created": "2025-09-03T10:05:55Z",
+      "Title": "Service worker stops intercepting img fetchs after a certain time in Firefox",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "service-worker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754435/service-worker-stops-intercepting-img-fetchs-after-a-certain-time-in-firefox"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-03T17:01:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T16:23:48Z",
+      "Title": "Is it possible to force scipy.optimize.minimize_scalar to look only in the specified interval",
+      "Tags": [
+        "python",
+        "numpy",
+        "scipy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754860/is-it-possible-to-force-scipy-optimize-minimize-scalar-to-look-only-in-the-speci"
+    },
+    {
+      "Created": "2025-09-03T16:34:16Z",
+      "Title": "Building Qt6 with g\u002B\u002B 15 and std c\u002B\u002B23",
+      "Tags": [
+        "qt",
+        "gcc",
+        "g\u002B\u002B",
+        "qt6",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754869/building-qt6-with-g-15-and-std-c23"
+    },
+    {
+      "Created": "2025-09-03T16:38:08Z",
+      "Title": "Entity Framework Core is using literal values instead of parameters. Do I need to worry for SQL injection",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "sql-injection",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754872/entity-framework-core-is-using-literal-values-instead-of-parameters-do-i-need-t"
+    },
+    {
+      "Created": "2025-09-03T16:42:00Z",
+      "Title": "Differences between double equal and triple equal [closed]",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754877/differences-between-double-equal-and-triple-equal"
+    },
+    {
+      "Created": "2025-09-03T16:48:16Z",
+      "Title": "MYSQL stored procedure called in PHP loop - only first iteration works [duplicate]",
+      "Tags": [
+        "php",
+        "mysql",
+        "lamp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754880/mysql-stored-procedure-called-in-php-loop-only-first-iteration-works"
+    },
+    {
+      "Created": "2025-09-03T16:53:00Z",
+      "Title": "OutputCache but still going into code in minimal api",
+      "Tags": [
+        "c#",
+        "caching",
+        ".net-9.0",
+        "minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754883/outputcache-but-still-going-into-code-in-minimal-api"
+    },
+    {
+      "Created": "2025-09-03T16:54:28Z",
+      "Title": "How to format X-axis values from Scatter charts in PptxGenJs?",
+      "Tags": [
+        "scatter-plot",
+        "pptxgenjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754885/how-to-format-x-axis-values-from-scatter-charts-in-pptxgenjs"
+    },
+    {
+      "Created": "2025-09-03T16:54:32Z",
+      "Title": "Catkin workspace build fails on Yocto: _setup_util.py\u0060 generated with blank shebang (\u0060#!\u0060)",
+      "Tags": [
+        "yocto",
+        "ros",
+        "catkin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754886/catkin-workspace-build-fails-on-yocto-setup-util-py-generated-with-blank-sheb"
+    },
+    {
+      "Created": "2025-09-03T17:01:03Z",
+      "Title": "Modal Popup - Selenium/Python",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "automation",
+        "modal-dialog",
+        "popup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754896/modal-popup-selenium-python"
+    }
+  ]
+}

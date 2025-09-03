@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-03T07:04:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T06:16:50Z",
+      "Title": "Is it possible to implement image-to-text conversion fully offline?",
+      "Tags": [
+        "ocr",
+        "desktop",
+        "offline",
+        "saas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754191/is-it-possible-to-implement-image-to-text-conversion-fully-offline"
+    },
+    {
+      "Created": "2025-09-03T06:53:00Z",
+      "Title": "Unity VFX Graph GPU Event trigger Strip",
+      "Tags": [
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754225/unity-vfx-graph-gpu-event-trigger-strip"
+    },
+    {
+      "Created": "2025-09-03T07:02:32Z",
+      "Title": "How to change order a and number of tasks to be executed in airflow",
+      "Tags": [
+        "python",
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754233/how-to-change-order-a-and-number-of-tasks-to-be-executed-in-airflow"
+    },
+    {
+      "Created": "2025-09-03T07:04:37Z",
+      "Title": "Moving uploaded file error becasue of FakePath",
+      "Tags": [
+        "php",
+        "jquery",
+        "ajax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754238/moving-uploaded-file-error-becasue-of-fakepath"
+    }
+  ]
+}

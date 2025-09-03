@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-03T00:01:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-02T23:26:46Z",
+      "Title": "csproject EnvironmentName is not correct when building with debug",
+      "Tags": [
+        "c#",
+        ".net",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754027/csproject-environmentname-is-not-correct-when-building-with-debug"
+    },
+    {
+      "Created": "2025-09-02T23:38:49Z",
+      "Title": "Power BI Cost Estimation from AAS model migration",
+      "Tags": [
+        "powerbi",
+        "analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754029/power-bi-cost-estimation-from-aas-model-migration"
+    },
+    {
+      "Created": "2025-09-02T23:49:05Z",
+      "Title": "Why can my div console.log all it\u0027s children at once but if i want them separated only the first one exists [duplicate]",
+      "Tags": [
+        "javascript",
+        "console.log",
+        "htmlcollection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754033/why-can-my-div-console-log-all-its-children-at-once-but-if-i-want-them-separate"
+    },
+    {
+      "Created": "2025-09-02T23:58:11Z",
+      "Title": "how can i create a pass type ID on apple with nfc",
+      "Tags": [
+        "ios",
+        "nfc",
+        "wallet",
+        "apple-wallet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754035/how-can-i-create-a-pass-type-id-on-apple-with-nfc"
+    },
+    {
+      "Created": "2025-09-03T00:01:55Z",
+      "Title": "Pivot multiple columns",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "pivot-table",
+        "sql-server-2019"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754036/pivot-multiple-columns"
+    }
+  ]
+}

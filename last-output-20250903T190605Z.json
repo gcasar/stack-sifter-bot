@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-03T18:59:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T18:50:13Z",
+      "Title": "LDAP API Query LIKE Operator to pull the list of DLs",
+      "Tags": [
+        "ldap",
+        "ldap-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754996/ldap-api-query-like-operator-to-pull-the-list-of-dls"
+    },
+    {
+      "Created": "2025-09-03T18:52:59Z",
+      "Title": "How to install libgfortran.3 on Mac Silicon for an old program",
+      "Tags": [
+        "macos",
+        "matlab",
+        "gfortran",
+        "apple-silicon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755000/how-to-install-libgfortran-3-on-mac-silicon-for-an-old-program"
+    },
+    {
+      "Created": "2025-09-03T18:54:54Z",
+      "Title": "Json schema, how do I link different objects in an array?",
+      "Tags": [
+        "json",
+        "jsonschema",
+        "elixir-jason"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755002/json-schema-how-do-i-link-different-objects-in-an-array"
+    },
+    {
+      "Created": "2025-09-03T18:59:25Z",
+      "Title": "How to make Django more secure? [closed]",
+      "Tags": [
+        "python",
+        "django",
+        "security",
+        "web"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755008/how-to-make-django-more-secure"
+    }
+  ]
+}

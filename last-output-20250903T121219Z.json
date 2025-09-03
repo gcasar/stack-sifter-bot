@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-03T12:07:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T11:50:57Z",
+      "Title": "Why am I not receiving a webhook when the Bin Picking Number is changed in BigCommerce?",
+      "Tags": [
+        "webhooks",
+        "bigcommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754557/why-am-i-not-receiving-a-webhook-when-the-bin-picking-number-is-changed-in-bigco"
+    },
+    {
+      "Created": "2025-09-03T11:58:18Z",
+      "Title": "azure-functions-maven-plugin generates nested folders",
+      "Tags": [
+        "azure",
+        "maven",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754561/azure-functions-maven-plugin-generates-nested-folders"
+    },
+    {
+      "Created": "2025-09-03T11:58:30Z",
+      "Title": "When creating a C style header, is it ABI compatible to switch between enum and enum class?",
+      "Tags": [
+        "c",
+        "c\u002B\u002B11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754562/when-creating-a-c-style-header-is-it-abi-compatible-to-switch-between-enum-and"
+    },
+    {
+      "Created": "2025-09-03T11:58:37Z",
+      "Title": "How to use a filter expression in PIconnect summary in python",
+      "Tags": [
+        "python",
+        "excel-formula",
+        "filter",
+        "historian"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754563/how-to-use-a-filter-expression-in-piconnect-summary-in-python"
+    },
+    {
+      "Created": "2025-09-03T12:00:43Z",
+      "Title": "How can I get the source locations of components in a Black Duck scan result?",
+      "Tags": [
+        "devops",
+        "blackduck"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754566/how-can-i-get-the-source-locations-of-components-in-a-black-duck-scan-result"
+    },
+    {
+      "Created": "2025-09-03T12:07:17Z",
+      "Title": "How can I make different websites to work?",
+      "Tags": [
+        "c#",
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754571/how-can-i-make-different-websites-to-work"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-03T22:55:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T22:55:11Z",
+      "Title": "In a System Verilog FSM can a repetitive State be converted to a Task?",
+      "Tags": [
+        "task",
+        "system-verilog",
+        "fpga",
+        "state-machine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755146/in-a-system-verilog-fsm-can-a-repetitive-state-be-converted-to-a-task"
+    }
+  ]
+}

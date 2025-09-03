@@ -1,0 +1,102 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-03T08:07:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T07:07:37Z",
+      "Title": "Can a parent Safe Area Inset respect toolbars of children?",
+      "Tags": [
+        "ios",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754239/can-a-parent-safe-area-inset-respect-toolbars-of-children"
+    },
+    {
+      "Created": "2025-09-03T07:10:34Z",
+      "Title": "Rotation with Pytorch Torchvision but from two specific angles",
+      "Tags": [
+        "python",
+        "pytorch",
+        "torchvision",
+        "data-augmentation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754246/rotation-with-pytorch-torchvision-but-from-two-specific-angles"
+    },
+    {
+      "Created": "2025-09-03T07:40:03Z",
+      "Title": "How to make a ridgeline plot heights to reflect the frequency/count of data points?",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "ridgeline-plot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754279/how-to-make-a-ridgeline-plot-heights-to-reflect-the-frequency-count-of-data-poin"
+    },
+    {
+      "Created": "2025-09-03T07:50:02Z",
+      "Title": "How to solve \u0022Burst Balloons\u0022 using permutations when n \u003C 10?",
+      "Tags": [
+        "java",
+        "algorithm",
+        "permutation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754287/how-to-solve-burst-balloons-using-permutations-when-n-10"
+    },
+    {
+      "Created": "2025-09-03T07:57:53Z",
+      "Title": "AttributeError: The layer convolutional_Bidrectional_LSTM has never been called and thus has no defined input",
+      "Tags": [
+        "lstm",
+        "hybrid",
+        "ensembles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754294/attributeerror-the-layer-convolutional-bidrectional-lstm-has-never-been-called"
+    },
+    {
+      "Created": "2025-09-03T08:00:27Z",
+      "Title": "how to pipe pasword string to another cmd get started with golang",
+      "Tags": [
+        "postgresql",
+        "go",
+        "command-line"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754299/how-to-pipe-pasword-string-to-another-cmd-get-started-with-golang"
+    },
+    {
+      "Created": "2025-09-03T08:03:42Z",
+      "Title": "How to achieve load balancing across only a set of AWS Aurora mysql reader instances with ProxySQL?",
+      "Tags": [
+        "amazon-aurora",
+        "proxysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754302/how-to-achieve-load-balancing-across-only-a-set-of-aws-aurora-mysql-reader-insta"
+    },
+    {
+      "Created": "2025-09-03T08:05:05Z",
+      "Title": "http-proxy-middleware: header not set",
+      "Tags": [
+        "http-proxy-middleware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754303/http-proxy-middleware-header-not-set"
+    },
+    {
+      "Created": "2025-09-03T08:05:51Z",
+      "Title": "How do I compute validation loss for a fine-tuned Qwen model in Hugging Face Transformers during evaluation?",
+      "Tags": [
+        "loss-function",
+        "huggingface",
+        "evaluate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754304/how-do-i-compute-validation-loss-for-a-fine-tuned-qwen-model-in-hugging-face-tra"
+    },
+    {
+      "Created": "2025-09-03T08:07:58Z",
+      "Title": "updating database where had the same name but when it has new name will make new data",
+      "Tags": [
+        "php",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754307/updating-database-where-had-the-same-name-but-when-it-has-new-name-will-make-new"
+    }
+  ]
+}

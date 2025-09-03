@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-03T05:05:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T03:59:19Z",
+      "Title": "Creating bash case patterns from a space-delimited string",
+      "Tags": [
+        "bash",
+        "case"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754110/creating-bash-case-patterns-from-a-space-delimited-string"
+    },
+    {
+      "Created": "2025-09-03T04:26:18Z",
+      "Title": "What is the difference between error.response.data and error.message",
+      "Tags": [
+        "error-handling",
+        "try-catch",
+        "ejs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754122/what-is-the-difference-between-error-response-data-and-error-message"
+    },
+    {
+      "Created": "2025-09-03T04:31:43Z",
+      "Title": "How do I find the index of an element in a list in Python? [duplicate]",
+      "Tags": [
+        "python",
+        "list",
+        "indexing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754124/how-do-i-find-the-index-of-an-element-in-a-list-in-python"
+    },
+    {
+      "Created": "2025-09-03T04:36:57Z",
+      "Title": "Getting inconsistent structured output from Ollama models with Genkit",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "ollama",
+        "firebase-genkit",
+        "genkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754131/getting-inconsistent-structured-output-from-ollama-models-with-genkit"
+    },
+    {
+      "Created": "2025-09-03T04:39:53Z",
+      "Title": "All fields except _id disappeared from a MongoDB document after a $set operation",
+      "Tags": [
+        "mongodb",
+        "mongodb-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754135/all-fields-except-id-disappeared-from-a-mongodb-document-after-a-set-operation"
+    },
+    {
+      "Created": "2025-09-03T04:44:48Z",
+      "Title": "How to implement Gemini-style scrolling behavior in Flutter\u2019s ListView?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "user-interface",
+        "flutter-animation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754139/how-to-implement-gemini-style-scrolling-behavior-in-flutter-s-listview"
+    },
+    {
+      "Created": "2025-09-03T04:58:46Z",
+      "Title": "Can we run a Unity VR project without a headset using OpenXR, XR Interaction Toolkit, and Meta XR Simulator?",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "openxr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754145/can-we-run-a-unity-vr-project-without-a-headset-using-openxr-xr-interaction-too"
+    },
+    {
+      "Created": "2025-09-03T05:05:55Z",
+      "Title": "How should I install CUDA dependencies in readthedocs build with apidoc autodoc",
+      "Tags": [
+        "sphinx",
+        "read-the-docs",
+        "autodoc",
+        "sphinx-apidoc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79754148/how-should-i-install-cuda-dependencies-in-readthedocs-build-with-apidoc-autodoc"
+    }
+  ]
+}

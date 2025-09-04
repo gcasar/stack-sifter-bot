@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-04T04:03:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T03:18:14Z",
+      "Title": "Grouping values based on multiple conditions?",
+      "Tags": [
+        "r",
+        "dplyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755256/grouping-values-based-on-multiple-conditions"
+    },
+    {
+      "Created": "2025-09-04T03:32:31Z",
+      "Title": "How can I achieve \u201Cfilter then 1-second aggregation\u201D in IoTDB 2.0.5 tree model?",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755261/how-can-i-achieve-filter-then-1-second-aggregation-in-iotdb-2-0-5-tree-model"
+    },
+    {
+      "Created": "2025-09-04T03:55:50Z",
+      "Title": "Markdown Table Displays Correctly in Console but Misaligned in Custom Platform (Discord)",
+      "Tags": [
+        "c#",
+        "discord",
+        "formatting",
+        "markdown",
+        "webhooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755272/markdown-table-displays-correctly-in-console-but-misaligned-in-custom-platform"
+    },
+    {
+      "Created": "2025-09-04T04:01:28Z",
+      "Title": "Raspberry pi zero 2 w connection with P10 led board",
+      "Tags": [
+        "raspberry-pi",
+        "raspberry-pi-zero"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755274/raspberry-pi-zero-2-w-connection-with-p10-led-board"
+    },
+    {
+      "Created": "2025-09-04T04:03:34Z",
+      "Title": "TypeORM how to create different foreign keys based on the enumeration value?",
+      "Tags": [
+        "typescript",
+        "typeorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755275/typeorm-how-to-create-different-foreign-keys-based-on-the-enumeration-value"
+    }
+  ]
+}

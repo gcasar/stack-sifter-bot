@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-04T22:55:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T22:19:08Z",
+      "Title": "Date showing as Number in mail merge from excel script",
+      "Tags": [
+        "excel",
+        "vba",
+        "ms-word",
+        "mailmerge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756272/date-showing-as-number-in-mail-merge-from-excel-script"
+    },
+    {
+      "Created": "2025-09-04T22:36:45Z",
+      "Title": "Inspecting AddressSanitizer metadata in a core dump",
+      "Tags": [
+        "c",
+        "gdb",
+        "coredump",
+        "address-sanitizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756279/inspecting-addresssanitizer-metadata-in-a-core-dump"
+    },
+    {
+      "Created": "2025-09-04T22:40:14Z",
+      "Title": "Why doesn\u0027t DataTransfer include expected payload when dragging Item from custom TreeView and dropping it to WebviewPanel in a VSCode Extension?",
+      "Tags": [
+        "typescript",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756280/why-doesnt-datatransfer-include-expected-payload-when-dragging-item-from-custom"
+    },
+    {
+      "Created": "2025-09-04T22:50:46Z",
+      "Title": "Which remote does git submodule update command use when fetching missing commits?",
+      "Tags": [
+        "git",
+        "git-submodules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756286/which-remote-does-git-submodule-update-command-use-when-fetching-missing-commits"
+    },
+    {
+      "Created": "2025-09-04T22:55:54Z",
+      "Title": "HTU2X sensor doesn\u0027t respond to code at all",
+      "Tags": [
+        "embedded",
+        "stm32",
+        "sensors",
+        "stm32cubeide",
+        "nucleo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756290/htu2x-sensor-doesnt-respond-to-code-at-all"
+    }
+  ]
+}

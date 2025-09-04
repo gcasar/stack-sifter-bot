@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-04T03:04:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T02:38:58Z",
+      "Title": "Python basic question, to get the datatype",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755240/python-basic-question-to-get-the-datatype"
+    },
+    {
+      "Created": "2025-09-04T02:39:15Z",
+      "Title": "Autodesk Forge Viewer returns 401 error and cannot display file (3-legged authentication / ACC)",
+      "Tags": [
+        "autodesk-forge",
+        "autodesk-viewer",
+        "acc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755241/autodesk-forge-viewer-returns-401-error-and-cannot-display-file-3-legged-authen"
+    },
+    {
+      "Created": "2025-09-04T02:44:50Z",
+      "Title": "Android Notification Permission \u0026 Background Tasks",
+      "Tags": [
+        "android",
+        "react-native",
+        "push-notification",
+        "background-process"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755242/android-notification-permission-background-tasks"
+    },
+    {
+      "Created": "2025-09-04T02:53:03Z",
+      "Title": "Getting error when using s3FileSystem glob method to read parquet files",
+      "Tags": [
+        "python-3.x",
+        "amazon-s3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755245/getting-error-when-using-s3filesystem-glob-method-to-read-parquet-files"
+    },
+    {
+      "Created": "2025-09-04T03:03:17Z",
+      "Title": "Is there a standard or recommended order for Tailwind CSS utility classes?",
+      "Tags": [
+        "tailwind-css",
+        "tailwind-ui",
+        "tailwind-css-4",
+        "tailwind-css-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755250/is-there-a-standard-or-recommended-order-for-tailwind-css-utility-classes"
+    },
+    {
+      "Created": "2025-09-04T03:04:04Z",
+      "Title": "upload file throw io exception when pass gateway",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "http",
+        "resttemplate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755252/upload-file-throw-io-exception-when-pass-gateway"
+    }
+  ]
+}

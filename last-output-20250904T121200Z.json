@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-04T12:09:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T11:06:48Z",
+      "Title": "How can I ensure idempotency in a distributed microservices architecture with event-driven messaging?",
+      "Tags": [
+        "event-driven"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755637/how-can-i-ensure-idempotency-in-a-distributed-microservices-architecture-with-ev"
+    },
+    {
+      "Created": "2025-09-04T11:40:37Z",
+      "Title": "Focus request for component in visible frame denied",
+      "Tags": [
+        "java",
+        "swing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755669/focus-request-for-component-in-visible-frame-denied"
+    },
+    {
+      "Created": "2025-09-04T11:43:21Z",
+      "Title": "Objects as keys in maps: Memory duplication?",
+      "Tags": [
+        "javascript",
+        "es6-map"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755672/objects-as-keys-in-maps-memory-duplication"
+    },
+    {
+      "Created": "2025-09-04T11:53:17Z",
+      "Title": "Push event is not triggered in PWA using webpush",
+      "Tags": [
+        "laravel",
+        "progressive-web-apps",
+        "web-push"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755680/push-event-is-not-triggered-in-pwa-using-webpush"
+    },
+    {
+      "Created": "2025-09-04T11:56:15Z",
+      "Title": "libusb Sync IO And Aysnc IO \uFF08bulk transfer\uFF09",
+      "Tags": [
+        "usb",
+        "libusb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755682/libusb-sync-io-and-aysnc-io-bulk-transfer"
+    },
+    {
+      "Created": "2025-09-04T11:59:50Z",
+      "Title": "I wanted to create a tab in the Google document using Python but it is not creating",
+      "Tags": [
+        "tabs",
+        "google-docs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755686/i-wanted-to-create-a-tab-in-the-google-document-using-python-but-it-is-not-creat"
+    },
+    {
+      "Created": "2025-09-04T12:09:38Z",
+      "Title": "MuleSoft Bulk Insert Returning Simple Array Instead of Detailed Results with Generated Keys",
+      "Tags": [
+        "bulkinsert",
+        "mulesoft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755692/mulesoft-bulk-insert-returning-simple-array-instead-of-detailed-results-with-gen"
+    }
+  ]
+}

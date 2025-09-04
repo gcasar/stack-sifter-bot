@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-04T14:58:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T14:12:30Z",
+      "Title": "VBA script issue using NOW()",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755832/vba-script-issue-using-now"
+    },
+    {
+      "Created": "2025-09-04T14:18:53Z",
+      "Title": "Best way to import a configuration variable into a common Python module [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755842/best-way-to-import-a-configuration-variable-into-a-common-python-module"
+    },
+    {
+      "Created": "2025-09-04T14:29:19Z",
+      "Title": "How can I implement periodic output in a const method with irregular time steps and no internal state?",
+      "Tags": [
+        "c\u002B\u002B",
+        "constants",
+        "thread-safety",
+        "functor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755850/how-can-i-implement-periodic-output-in-a-const-method-with-irregular-time-steps"
+    },
+    {
+      "Created": "2025-09-04T14:29:37Z",
+      "Title": "Checking if test run in interactive session",
+      "Tags": [
+        "java",
+        "junit5",
+        "fest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755851/checking-if-test-run-in-interactive-session"
+    },
+    {
+      "Created": "2025-09-04T14:37:47Z",
+      "Title": "c# WPF Treeview add SubItem",
+      "Tags": [
+        "c#",
+        "wpf",
+        "treeview",
+        "items"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755861/c-sharp-wpf-treeview-add-subitem"
+    },
+    {
+      "Created": "2025-09-04T14:47:42Z",
+      "Title": "Directory file task with rake",
+      "Tags": [
+        "ruby",
+        "dependencies",
+        "rake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755870/directory-file-task-with-rake"
+    },
+    {
+      "Created": "2025-09-04T14:58:16Z",
+      "Title": "Creating activity prevents spinner from spinning in Android",
+      "Tags": [
+        "android",
+        "android-fragments",
+        "android-activity",
+        "kotlin-coroutines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755877/creating-activity-prevents-spinner-from-spinning-in-android"
+    }
+  ]
+}

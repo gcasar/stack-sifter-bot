@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-04T21:01:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T20:40:32Z",
+      "Title": "How to print struct with references? [duplicate]",
+      "Tags": [
+        "go",
+        "pass-by-reference",
+        "pass-by-value"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756210/how-to-print-struct-with-references"
+    },
+    {
+      "Created": "2025-09-04T21:01:00Z",
+      "Title": "NgRx SignalStore: How to seed initial state using withEntities?",
+      "Tags": [
+        "ngrx",
+        "ngrx-store",
+        "ngrx-entity",
+        "ngrx-signal-store"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756221/ngrx-signalstore-how-to-seed-initial-state-using-withentities"
+    }
+  ]
+}

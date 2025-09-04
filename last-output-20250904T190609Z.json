@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-04T18:59:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T18:32:11Z",
+      "Title": "Pause loop to make a certain action then continue where you left off inside of it",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "loops",
+        "time",
+        "pyautogui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756105/pause-loop-to-make-a-certain-action-then-continue-where-you-left-off-inside-of-i"
+    },
+    {
+      "Created": "2025-09-04T18:36:45Z",
+      "Title": "Issue on drawing object on top of moving platform",
+      "Tags": [
+        "xna",
+        "game-development",
+        "game-physics",
+        "game-engine",
+        "monogame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756109/issue-on-drawing-object-on-top-of-moving-platform"
+    },
+    {
+      "Created": "2025-09-04T18:41:20Z",
+      "Title": "Installing python package from zip file offline",
+      "Tags": [
+        "python",
+        "pip",
+        "kaggle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756115/installing-python-package-from-zip-file-offline"
+    },
+    {
+      "Created": "2025-09-04T18:42:17Z",
+      "Title": "How can I generate a random integer not divisible by p OR q",
+      "Tags": [
+        "math",
+        "random"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756116/how-can-i-generate-a-random-integer-not-divisible-by-p-or-q"
+    },
+    {
+      "Created": "2025-09-04T18:42:22Z",
+      "Title": "Query a Dataset in Power Automate Not Returning Expected Results",
+      "Tags": [
+        "powerbi",
+        "dax",
+        "power-automate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756117/query-a-dataset-in-power-automate-not-returning-expected-results"
+    },
+    {
+      "Created": "2025-09-04T18:51:47Z",
+      "Title": "Adding external application to Main Navigation",
+      "Tags": [
+        "banno-digital-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756122/adding-external-application-to-main-navigation"
+    },
+    {
+      "Created": "2025-09-04T18:59:02Z",
+      "Title": "How to properly resolve include paths in vscode",
+      "Tags": [
+        "visual-studio-code",
+        "ssh",
+        "include-path"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756129/how-to-properly-resolve-include-paths-in-vscode"
+    }
+  ]
+}

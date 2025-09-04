@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-04T14:04:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T13:50:48Z",
+      "Title": "Downloading Python wheels locally - error: subprocess-exited-with-error",
+      "Tags": [
+        "python",
+        "git",
+        "requirements"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755800/downloading-python-wheels-locally-error-subprocess-exited-with-error"
+    },
+    {
+      "Created": "2025-09-04T13:59:03Z",
+      "Title": "VBA Goal Seeking with Named Ranges",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755819/vba-goal-seeking-with-named-ranges"
+    },
+    {
+      "Created": "2025-09-04T14:00:01Z",
+      "Title": "How to resolve messy Git project? [closed]",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755821/how-to-resolve-messy-git-project"
+    },
+    {
+      "Created": "2025-09-04T14:04:26Z",
+      "Title": "How to ensure VMware Workstation completely releases RAM after VM is closed? (Process not in Details tab)",
+      "Tags": [
+        "windows",
+        "memory",
+        "virtual-machine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755824/how-to-ensure-vmware-workstation-completely-releases-ram-after-vm-is-closed-pr"
+    }
+  ]
+}

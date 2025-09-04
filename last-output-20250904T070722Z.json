@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-04T06:57:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T06:17:42Z",
+      "Title": "RedisSearch returns empty documents with lettuce-mod but works correctly via Redis CLI",
+      "Tags": [
+        "java",
+        "redis",
+        "redis-cluster",
+        "lettuce",
+        "redis-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755338/redissearch-returns-empty-documents-with-lettuce-mod-but-works-correctly-via-red"
+    },
+    {
+      "Created": "2025-09-04T06:37:35Z",
+      "Title": "Istio Ambient mode for JWT authentication with Auth0",
+      "Tags": [
+        "auth0",
+        "istio",
+        "istio-gateway",
+        "waypoint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755360/istio-ambient-mode-for-jwt-authentication-with-auth0"
+    },
+    {
+      "Created": "2025-09-04T06:48:58Z",
+      "Title": "Minitest running test for blocks of actions under single signed_in user",
+      "Tags": [
+        "ruby-on-rails",
+        "minitest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755371/minitest-running-test-for-blocks-of-actions-under-single-signed-in-user"
+    },
+    {
+      "Created": "2025-09-04T06:55:51Z",
+      "Title": "Raspberry Pi Camera Module (OV5647) not detected on Raspberry Pi 4 Model B running Debian Bookworm (error -5)",
+      "Tags": [
+        "raspberry-pi",
+        "camera",
+        "debian",
+        "raspberry-pi4",
+        "libcamera"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755375/raspberry-pi-camera-module-ov5647-not-detected-on-raspberry-pi-4-model-b-runni"
+    },
+    {
+      "Created": "2025-09-04T06:57:33Z",
+      "Title": "Leetcode Test Case: Maximum Subarray",
+      "Tags": [
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755377/leetcode-test-case-maximum-subarray"
+    }
+  ]
+}

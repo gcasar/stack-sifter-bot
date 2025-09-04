@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-04T17:59:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T17:45:09Z",
+      "Title": "How to send extra headers from RAGFlow Agent to a Spring Boot MCP server tool call?",
+      "Tags": [
+        "spring",
+        "artificial-intelligence",
+        "large-language-model",
+        "rag",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756054/how-to-send-extra-headers-from-ragflow-agent-to-a-spring-boot-mcp-server-tool-ca"
+    },
+    {
+      "Created": "2025-09-04T17:48:40Z",
+      "Title": "How to create a pdf with an image and text wrapping the image",
+      "Tags": [
+        "flutter",
+        "dart-pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756057/how-to-create-a-pdf-with-an-image-and-text-wrapping-the-image"
+    },
+    {
+      "Created": "2025-09-04T17:50:25Z",
+      "Title": "Formatting doxygen-style function description with clang-format",
+      "Tags": [
+        "clang-format"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756060/formatting-doxygen-style-function-description-with-clang-format"
+    },
+    {
+      "Created": "2025-09-04T17:50:32Z",
+      "Title": "Not able to Connect to Interactive Brokers API via Python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756061/not-able-to-connect-to-interactive-brokers-api-via-python"
+    },
+    {
+      "Created": "2025-09-04T17:59:54Z",
+      "Title": "Constant 503 502:Bad Gateway Exception During Audio Syntheses",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "google-speech-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756066/constant-503-502bad-gateway-exception-during-audio-syntheses"
+    }
+  ]
+}

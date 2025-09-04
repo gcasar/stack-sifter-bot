@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-04T10:05:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T09:37:13Z",
+      "Title": "PgLoader Migrate data from SQL Server to PostgreSQL server got error with character \u0022\u00F1/\u00ED/...\u0022",
+      "Tags": [
+        "sql-server",
+        "postgresql",
+        "encoding",
+        "data-migration",
+        "pgloader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755530/pgloader-migrate-data-from-sql-server-to-postgresql-server-got-error-with-charac"
+    },
+    {
+      "Created": "2025-09-04T09:40:07Z",
+      "Title": "Two columns of unequal height how to make the shorter column sticky at its end",
+      "Tags": [
+        "html",
+        "css",
+        "tailwind-css",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755533/two-columns-of-unequal-height-how-to-make-the-shorter-column-sticky-at-its-end"
+    },
+    {
+      "Created": "2025-09-04T09:52:53Z",
+      "Title": "Why only creating a task will run the coroutine in python?",
+      "Tags": [
+        "python",
+        "async-await",
+        "python-asyncio",
+        "coroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755548/why-only-creating-a-task-will-run-the-coroutine-in-python"
+    },
+    {
+      "Created": "2025-09-04T09:55:39Z",
+      "Title": "Where I\u0027m supposed to call Lingui i18n.activate?",
+      "Tags": [
+        "next.js",
+        "linguijs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755555/where-im-supposed-to-call-lingui-i18n-activate"
+    },
+    {
+      "Created": "2025-09-04T09:57:57Z",
+      "Title": "Artifactory upload creates duplicate nested paths",
+      "Tags": [
+        "github-actions",
+        "artifactory",
+        "jfrog-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755557/artifactory-upload-creates-duplicate-nested-paths"
+    },
+    {
+      "Created": "2025-09-04T10:05:45Z",
+      "Title": "How to update all branches of a repo and its submodules from remote?",
+      "Tags": [
+        "git",
+        "git-submodules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755570/how-to-update-all-branches-of-a-repo-and-its-submodules-from-remote"
+    }
+  ]
+}

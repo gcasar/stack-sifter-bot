@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-04T07:55:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T07:39:58Z",
+      "Title": "Can the folder/file structure of tSQLt be modified?",
+      "Tags": [
+        "tsqlt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755409/can-the-folder-file-structure-of-tsqlt-be-modified"
+    },
+    {
+      "Created": "2025-09-04T07:48:30Z",
+      "Title": "Why my x86 Asm code gets Segmentation fault?",
+      "Tags": [
+        "assembly",
+        "x86"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755418/why-my-x86-asm-code-gets-segmentation-fault"
+    },
+    {
+      "Created": "2025-09-04T07:48:51Z",
+      "Title": "How long should variable renaming take in Visual Studio 2019/2022?",
+      "Tags": [
+        "vb.net",
+        "visual-studio",
+        "performance",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755419/how-long-should-variable-renaming-take-in-visual-studio-2019-2022"
+    },
+    {
+      "Created": "2025-09-04T07:55:29Z",
+      "Title": "Filter words in different cells with partial match",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755425/filter-words-in-different-cells-with-partial-match"
+    }
+  ]
+}

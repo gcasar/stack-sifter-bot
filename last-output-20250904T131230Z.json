@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-04T13:08:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T12:48:43Z",
+      "Title": "Google Calendar Recurring event messes up on DST days",
+      "Tags": [
+        "node.js",
+        "google-calendar-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755744/google-calendar-recurring-event-messes-up-on-dst-days"
+    },
+    {
+      "Created": "2025-09-04T12:50:25Z",
+      "Title": "Copilot Agent cannot access Custom MCP Tool in MS TEAMS",
+      "Tags": [
+        "microsoft-teams",
+        "model-context-protocol",
+        "microsoft-copilot",
+        "microsoft-copilot-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755746/copilot-agent-cannot-access-custom-mcp-tool-in-ms-teams"
+    },
+    {
+      "Created": "2025-09-04T12:51:54Z",
+      "Title": "Is iteration order of a set in Python preserved until that set is modified?",
+      "Tags": [
+        "python",
+        "set",
+        "iteration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755748/is-iteration-order-of-a-set-in-python-preserved-until-that-set-is-modified"
+    },
+    {
+      "Created": "2025-09-04T12:52:33Z",
+      "Title": "Google cloud speech v1 (c#) not giving proper transcription for Spanish when audio contains English and Spanish both",
+      "Tags": [
+        "google-cloud-speech"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755750/google-cloud-speech-v1-c-not-giving-proper-transcription-for-spanish-when-aud"
+    },
+    {
+      "Created": "2025-09-04T12:53:41Z",
+      "Title": "trying to build apk app using react native(expo go) but failed on android studio",
+      "Tags": [
+        "android",
+        "reactjs",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755751/trying-to-build-apk-app-using-react-nativeexpo-go-but-failed-on-android-studio"
+    },
+    {
+      "Created": "2025-09-04T13:00:07Z",
+      "Title": "reverse() method not affecting array after splice() when using method chaining",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "method-chaining"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755753/reverse-method-not-affecting-array-after-splice-when-using-method-chaining"
+    },
+    {
+      "Created": "2025-09-04T13:08:32Z",
+      "Title": "Is it required to access Swing properties in EDT?",
+      "Tags": [
+        "java",
+        "swing",
+        "fest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755759/is-it-required-to-access-swing-properties-in-edt"
+    }
+  ]
+}

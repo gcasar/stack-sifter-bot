@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-04T16:04:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T15:40:36Z",
+      "Title": "300x slower program with while",
+      "Tags": [
+        "c",
+        "gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755932/300x-slower-program-with-while"
+    },
+    {
+      "Created": "2025-09-04T15:42:11Z",
+      "Title": "JPA on Glassfish, persisting an updated entity does not store change to DB",
+      "Tags": [
+        "jpa",
+        "glassfish",
+        "eclipselink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755934/jpa-on-glassfish-persisting-an-updated-entity-does-not-store-change-to-db"
+    },
+    {
+      "Created": "2025-09-04T15:55:28Z",
+      "Title": "Unity - Shader Graph - Channel Mixer",
+      "Tags": [
+        "unity-game-engine",
+        "shader",
+        "shader-graph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755943/unity-shader-graph-channel-mixer"
+    },
+    {
+      "Created": "2025-09-04T16:00:08Z",
+      "Title": "MongoDB - Cannot get nested document by _id",
+      "Tags": [
+        "mongodb",
+        "mongoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755947/mongodb-cannot-get-nested-document-by-id"
+    },
+    {
+      "Created": "2025-09-04T16:03:06Z",
+      "Title": "How to print the tuples in a more user friendly way?",
+      "Tags": [
+        "python",
+        "for-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755952/how-to-print-the-tuples-in-a-more-user-friendly-way"
+    },
+    {
+      "Created": "2025-09-04T16:04:08Z",
+      "Title": "HOW MANY LISTS CAN BE PRINTED OUT AS A DataFrame IN Pandas?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755954/how-many-lists-can-be-printed-out-as-a-dataframe-in-pandas"
+    }
+  ]
+}

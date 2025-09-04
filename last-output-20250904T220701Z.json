@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-04T22:03:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T21:32:25Z",
+      "Title": "Logic App Standard Inline C# action fails to decrypt AES CBC with PKCS7 (works in function app)",
+      "Tags": [
+        "c#",
+        "azure",
+        "encryption",
+        "azure-logic-apps",
+        "azure-logic-app-standard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756239/logic-app-standard-inline-c-sharp-action-fails-to-decrypt-aes-cbc-with-pkcs7-wo"
+    },
+    {
+      "Created": "2025-09-04T21:41:50Z",
+      "Title": "How to write raw sectors to \\\\.\\PhysicalDrive0 on Windows 11? (Access Denied)",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows-11",
+        "createfile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756249/how-to-write-raw-sectors-to-physicaldrive0-on-windows-11-access-denied"
+    },
+    {
+      "Created": "2025-09-04T21:42:37Z",
+      "Title": "Get a method from a class defined in yaml file (hyperpyyaml)",
+      "Tags": [
+        "yaml",
+        "speechbrain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756251/get-a-method-from-a-class-defined-in-yaml-file-hyperpyyaml"
+    },
+    {
+      "Created": "2025-09-04T21:57:42Z",
+      "Title": "Emacs Org Mode: Why does RET add an indentation and how can I stop it?",
+      "Tags": [
+        "emacs",
+        "elisp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756257/emacs-org-mode-why-does-ret-add-an-indentation-and-how-can-i-stop-it"
+    },
+    {
+      "Created": "2025-09-04T22:03:35Z",
+      "Title": "In Kotlin Multi Platform and JetPack Compose, why and how is NavHost importing from the same file with 9 versions of the same object, yet no errors?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-studio",
+        "android-jetpack-compose",
+        "kotlin-multiplatform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756259/in-kotlin-multi-platform-and-jetpack-compose-why-and-how-is-navhost-importing-f"
+    }
+  ]
+}

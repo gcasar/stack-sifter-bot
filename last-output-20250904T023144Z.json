@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-04T02:28:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T02:00:14Z",
+      "Title": "Python - threading or asyncio for serial communications?",
+      "Tags": [
+        "python",
+        "serial-port",
+        "python-asyncio",
+        "python-multithreading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755216/python-threading-or-asyncio-for-serial-communications"
+    },
+    {
+      "Created": "2025-09-04T02:12:09Z",
+      "Title": "What is the difference between the built-in SQL Server functions PROGRAM_NAME() and APP_NAME()?",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755223/what-is-the-difference-between-the-built-in-sql-server-functions-program-name"
+    },
+    {
+      "Created": "2025-09-04T02:25:56Z",
+      "Title": "Bundler option to use older Ruby headers?",
+      "Tags": [
+        "c\u002B\u002B",
+        "ruby",
+        "compiler-errors",
+        "rubygems",
+        "header-files"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755232/bundler-option-to-use-older-ruby-headers"
+    },
+    {
+      "Created": "2025-09-04T02:28:24Z",
+      "Title": "Visual Studio 2022 (v143) std::views gets error \u0022name followed by \u0027::\u0027 must be a class or namespace name\u0022",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755234/visual-studio-2022-v143-stdviews-gets-error-name-followed-by-must-be-a"
+    }
+  ]
+}

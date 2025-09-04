@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-04T05:05:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T04:15:36Z",
+      "Title": "How to use Thymeleaf SpringTemplateEngine in SpringBoot 3.5 to process html in websocket or CommandLineRunner context, (ConverterNotFoundException)",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "websocket",
+        "thymeleaf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755278/how-to-use-thymeleaf-springtemplateengine-in-springboot-3-5-to-process-html-in-w"
+    },
+    {
+      "Created": "2025-09-04T04:34:48Z",
+      "Title": "Skipping Drools rules with higher salience",
+      "Tags": [
+        "java",
+        "drools",
+        "rules",
+        "mvel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755286/skipping-drools-rules-with-higher-salience"
+    },
+    {
+      "Created": "2025-09-04T04:40:52Z",
+      "Title": "Identify Published variable causing \u0022Publishing changes from background threads is not allowed\u0022",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "combine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755289/identify-published-variable-causing-publishing-changes-from-background-threads"
+    },
+    {
+      "Created": "2025-09-04T04:53:55Z",
+      "Title": "Having issues with openpyxl library of Python, when formating cell as number",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "openpyxl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755293/having-issues-with-openpyxl-library-of-python-when-formating-cell-as-number"
+    },
+    {
+      "Created": "2025-09-04T04:57:40Z",
+      "Title": "Typesense HTTP API Server Not Starting on Railway - Only Raft Clustering Layer Works",
+      "Tags": [
+        "docker",
+        "http",
+        "deployment",
+        "railway",
+        "typesense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755295/typesense-http-api-server-not-starting-on-railway-only-raft-clustering-layer-w"
+    },
+    {
+      "Created": "2025-09-04T05:00:51Z",
+      "Title": "Using GSPS in DCMTK",
+      "Tags": [
+        "dcmtk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755296/using-gsps-in-dcmtk"
+    },
+    {
+      "Created": "2025-09-04T05:02:17Z",
+      "Title": "How to achieve animation similar to App store\u0027s feature view",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755297/how-to-achieve-animation-similar-to-app-stores-feature-view"
+    },
+    {
+      "Created": "2025-09-04T05:05:59Z",
+      "Title": "Technical Document: Dynamic Price Masking",
+      "Tags": [
+        "reactjs",
+        "ruby-on-rails"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755299/technical-document-dynamic-price-masking"
+    }
+  ]
+}

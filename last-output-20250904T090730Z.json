@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-04T09:00:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T08:42:46Z",
+      "Title": "Replace/insert XML text node in XQuery",
+      "Tags": [
+        "sql-server",
+        "sql-update",
+        "xquery-sql",
+        "xquery-update"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755468/replace-insert-xml-text-node-in-xquery"
+    },
+    {
+      "Created": "2025-09-04T08:52:06Z",
+      "Title": "How to architect a single codebase for a multi-tenant School ERP with per-school customizations?",
+      "Tags": [
+        "design-patterns",
+        "architecture",
+        "multi-tenant",
+        "scalability",
+        "erp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755477/how-to-architect-a-single-codebase-for-a-multi-tenant-school-erp-with-per-school"
+    },
+    {
+      "Created": "2025-09-04T09:00:36Z",
+      "Title": "Makefile not building pattern rule prerequisites when it involves a chain",
+      "Tags": [
+        "makefile",
+        "gnu-make"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755488/makefile-not-building-pattern-rule-prerequisites-when-it-involves-a-chain"
+    }
+  ]
+}

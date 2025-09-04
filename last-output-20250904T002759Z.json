@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-04T00:23:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-03T23:40:08Z",
+      "Title": "Problems handling SSRF vulnerability on api rest request",
+      "Tags": [
+        "python",
+        "url",
+        "request",
+        "checkmarx",
+        "ssrf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755165/problems-handling-ssrf-vulnerability-on-api-rest-request"
+    },
+    {
+      "Created": "2025-09-03T23:43:26Z",
+      "Title": "Unable to load onnxruntime.dll error 0x8007045A (ERROR_DLL_INIT_FAILED)",
+      "Tags": [
+        "ml.net",
+        "onnxruntime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755169/unable-to-load-onnxruntime-dll-error-0x8007045a-error-dll-init-failed"
+    },
+    {
+      "Created": "2025-09-03T23:47:32Z",
+      "Title": "Appending to a vector in a map, but referencing the map only once",
+      "Tags": [
+        "clojure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755171/appending-to-a-vector-in-a-map-but-referencing-the-map-only-once"
+    },
+    {
+      "Created": "2025-09-03T23:49:37Z",
+      "Title": "Multiple lightbox galleries",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755172/multiple-lightbox-galleries"
+    },
+    {
+      "Created": "2025-09-04T00:00:56Z",
+      "Title": "Cant get HTML href hyperlinks to work on my website",
+      "Tags": [
+        "html",
+        "hyperlink",
+        "navbar",
+        "href"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755174/cant-get-html-href-hyperlinks-to-work-on-my-website"
+    },
+    {
+      "Created": "2025-09-04T00:05:50Z",
+      "Title": "How do you overwrite daisy components in a .css file",
+      "Tags": [
+        "tailwind-css",
+        "daisyui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755177/how-do-you-overwrite-daisy-components-in-a-css-file"
+    },
+    {
+      "Created": "2025-09-04T00:21:33Z",
+      "Title": "Can we use custom formatters for std strings?",
+      "Tags": [
+        "c\u002B\u002B",
+        "stdformat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755184/can-we-use-custom-formatters-for-std-strings"
+    },
+    {
+      "Created": "2025-09-04T00:23:45Z",
+      "Title": "How to see untruncated kubernetes pod logs? kubectl logs truncating long logs",
+      "Tags": [
+        "kubernetes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79755186/how-to-see-untruncated-kubernetes-pod-logs-kubectl-logs-truncating-long-logs"
+    }
+  ]
+}

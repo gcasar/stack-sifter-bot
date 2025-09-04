@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-04T19:57:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T19:39:37Z",
+      "Title": "How to uninstall a version of .NET SDK that was installed by Visual Studio?",
+      "Tags": [
+        ".net",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756161/how-to-uninstall-a-version-of-net-sdk-that-was-installed-by-visual-studio"
+    },
+    {
+      "Created": "2025-09-04T19:56:11Z",
+      "Title": "Passing username and password to Sonatype Maven plugin through properties",
+      "Tags": [
+        "maven",
+        "maven-plugin",
+        "sonatype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756172/passing-username-and-password-to-sonatype-maven-plugin-through-properties"
+    },
+    {
+      "Created": "2025-09-04T19:57:47Z",
+      "Title": "Wix 5 - Installer BootstrapperApplicationRun() Runtime Error \u0022value does not fall within expected range\u0022",
+      "Tags": [
+        "c#",
+        "wpf",
+        "wix",
+        "burn",
+        "wix5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756175/wix-5-installer-bootstrapperapplicationrun-runtime-error-value-does-not-fal"
+    }
+  ]
+}

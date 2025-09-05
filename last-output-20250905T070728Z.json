@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-05T07:00:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T06:44:36Z",
+      "Title": "Git LFS: I pushed many commits with --no-verify and now LFS files are missing. How to fix it?",
+      "Tags": [
+        "git",
+        "git-lfs",
+        "linux-from-scratch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756476/git-lfs-i-pushed-many-commits-with-no-verify-and-now-lfs-files-are-missing-h"
+    },
+    {
+      "Created": "2025-09-05T07:00:15Z",
+      "Title": "Facebook and instagram, can\u0027t find \u0022Meta oEmbed Read\u0022 in Permissions and Features",
+      "Tags": [
+        "facebook",
+        "facebook-graph-api",
+        "instagram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756486/facebook-and-instagram-cant-find-meta-oembed-read-in-permissions-and-feature"
+    }
+  ]
+}

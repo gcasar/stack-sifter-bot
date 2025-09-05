@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-05T19:02:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T18:30:49Z",
+      "Title": "ERROR 2026 (HY000): SSL connection error: unknown error number",
+      "Tags": [
+        "php",
+        "mysql",
+        "cmd",
+        "mamp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757073/error-2026-hy000-ssl-connection-error-unknown-error-number"
+    },
+    {
+      "Created": "2025-09-05T18:35:07Z",
+      "Title": "AWS WAF is not showing x-forward-for header in the logs",
+      "Tags": [
+        "nginx",
+        "apache2",
+        "aws-application-load-balancer",
+        "amazon-waf",
+        "aws-global-accelerator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757077/aws-waf-is-not-showing-x-forward-for-header-in-the-logs"
+    },
+    {
+      "Created": "2025-09-05T18:39:37Z",
+      "Title": "Replace column value based on another column",
+      "Tags": [
+        "excel",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757079/replace-column-value-based-on-another-column"
+    },
+    {
+      "Created": "2025-09-05T19:02:02Z",
+      "Title": "Are Claude models a good fit for generating DB queries from natural language? [closed]",
+      "Tags": [
+        "nlp",
+        "claude"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757086/are-claude-models-a-good-fit-for-generating-db-queries-from-natural-language"
+    }
+  ]
+}

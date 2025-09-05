@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-05T14:04:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T13:46:38Z",
+      "Title": "Default Text re-appears after being overwritten",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756852/default-text-re-appears-after-being-overwritten"
+    },
+    {
+      "Created": "2025-09-05T13:48:50Z",
+      "Title": "Why my plot of the cost function is like this and not like a bowl",
+      "Tags": [
+        "machine-learning",
+        "math",
+        "plot",
+        "artificial-intelligence",
+        "linear-regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756853/why-my-plot-of-the-cost-function-is-like-this-and-not-like-a-bowl"
+    },
+    {
+      "Created": "2025-09-05T14:04:03Z",
+      "Title": "munmap shared memory with locked robust mutex makes it deadlock, why?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "linux",
+        "posix",
+        "mutex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756866/munmap-shared-memory-with-locked-robust-mutex-makes-it-deadlock-why"
+    }
+  ]
+}

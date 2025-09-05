@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-05T07:53:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T07:23:42Z",
+      "Title": "How to select custom theme in Magento integration tests?",
+      "Tags": [
+        "magento2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756495/how-to-select-custom-theme-in-magento-integration-tests"
+    },
+    {
+      "Created": "2025-09-05T07:23:51Z",
+      "Title": "How to rename a dictionary key and keep the order in python?",
+      "Tags": [
+        "python",
+        "json",
+        "dictionary",
+        "key"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756496/how-to-rename-a-dictionary-key-and-keep-the-order-in-python"
+    },
+    {
+      "Created": "2025-09-05T07:47:07Z",
+      "Title": "Why my insatgram hashtag copy \u0026 paste button not working in javascript",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756518/why-my-insatgram-hashtag-copy-paste-button-not-working-in-javascript"
+    },
+    {
+      "Created": "2025-09-05T07:48:48Z",
+      "Title": "How to handle the generation of a specified scene map? [closed]",
+      "Tags": [
+        "java",
+        "c\u002B\u002B",
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756519/how-to-handle-the-generation-of-a-specified-scene-map"
+    },
+    {
+      "Created": "2025-09-05T07:49:30Z",
+      "Title": "Why is my spell checker marking too many words as misspelled even though they hash correctly?",
+      "Tags": [
+        "c",
+        "hashtable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756521/why-is-my-spell-checker-marking-too-many-words-as-misspelled-even-though-they-ha"
+    },
+    {
+      "Created": "2025-09-05T07:51:49Z",
+      "Title": "GridDB Custom Partitioning in Node.js",
+      "Tags": [
+        "grid",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756525/griddb-custom-partitioning-in-node-js"
+    },
+    {
+      "Created": "2025-09-05T07:53:38Z",
+      "Title": "Solution to \u0022error LNK2005: ...already defined *.obj\u0022 from an external class?",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "visual-studio-2022",
+        "lnk2005"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756526/solution-to-error-lnk2005-already-defined-obj-from-an-external-class"
+    },
+    {
+      "Created": "2025-09-05T07:53:54Z",
+      "Title": "Spring Boot and Jetty 12.1.0 disable error message \u0022HTTP protocol violation: Authentication challenge without WWW-Authenticate header\u0022",
+      "Tags": [
+        "spring-boot",
+        "jetty"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756527/spring-boot-and-jetty-12-1-0-disable-error-message-http-protocol-violation-aut"
+    }
+  ]
+}

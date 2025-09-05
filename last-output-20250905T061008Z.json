@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-05T06:06:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T05:28:18Z",
+      "Title": "How to move Gtk::Window position after program is executed under gtkmm4",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "ubuntu",
+        "gtkmm",
+        "gtkmm4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756432/how-to-move-gtkwindow-position-after-program-is-executed-under-gtkmm4"
+    },
+    {
+      "Created": "2025-09-05T05:40:51Z",
+      "Title": "Fetch the encrypted data into the desired textarea",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756439/fetch-the-encrypted-data-into-the-desired-textarea"
+    },
+    {
+      "Created": "2025-09-05T05:52:51Z",
+      "Title": "jquery datatable sorting issue with float column",
+      "Tags": [
+        "laravel",
+        "laravel-blade",
+        "datatables-1.10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756447/jquery-datatable-sorting-issue-with-float-column"
+    },
+    {
+      "Created": "2025-09-05T05:57:22Z",
+      "Title": "How to detect if Flutter app was installed via Google Ads / AdMob using Install Referrer?",
+      "Tags": [
+        "android",
+        "flutter",
+        "admob",
+        "utm",
+        "install-referrer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756452/how-to-detect-if-flutter-app-was-installed-via-google-ads-admob-using-install"
+    },
+    {
+      "Created": "2025-09-05T06:06:18Z",
+      "Title": "Encountering problems while making a sorting algorithm in python 3",
+      "Tags": [
+        "python",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756455/encountering-problems-while-making-a-sorting-algorithm-in-python-3"
+    },
+    {
+      "Created": "2025-09-05T06:06:21Z",
+      "Title": "Unpredictable CMake \u0026 Build Errors Across Multiple React Native Versions \u2013 Works Fine in New Project Until Packages Are Installed",
+      "Tags": [
+        "react-native",
+        "cmake",
+        "android-ndk",
+        "react-native-reanimated",
+        "react-native-screens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756456/unpredictable-cmake-build-errors-across-multiple-react-native-versions-works"
+    },
+    {
+      "Created": "2025-09-05T06:06:47Z",
+      "Title": "Async co-routines as a replacement for threads to avoid shared DS mutation",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756457/async-co-routines-as-a-replacement-for-threads-to-avoid-shared-ds-mutation"
+    }
+  ]
+}

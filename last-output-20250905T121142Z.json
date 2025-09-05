@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-05T12:07:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T11:45:46Z",
+      "Title": "postgres: parameterized query with pattern matching",
+      "Tags": [
+        "regex",
+        "postgresql",
+        "prepared-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756740/postgres-parameterized-query-with-pattern-matching"
+    },
+    {
+      "Created": "2025-09-05T12:01:10Z",
+      "Title": "Connection handling problems when repeatedly starting server on ephemeral port",
+      "Tags": [
+        "java",
+        "http",
+        "jetty",
+        "wiremock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756745/connection-handling-problems-when-repeatedly-starting-server-on-ephemeral-port"
+    },
+    {
+      "Created": "2025-09-05T12:06:59Z",
+      "Title": "Dapr / Aspire PubSub not loading component yaml",
+      "Tags": [
+        "c#",
+        ".net",
+        "dapr",
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756751/dapr-aspire-pubsub-not-loading-component-yaml"
+    },
+    {
+      "Created": "2025-09-05T12:07:20Z",
+      "Title": "Can\u0027t find any matching row in the user table when granting access to \u0027pma\u0027@\u0027localhost\u0027",
+      "Tags": [
+        "mysql",
+        "phpmyadmin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756752/cant-find-any-matching-row-in-the-user-table-when-granting-access-to-pmaloc"
+    }
+  ]
+}

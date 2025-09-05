@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-05T18:06:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T17:23:23Z",
+      "Title": "Doxygen removes class template specialization with typedef",
+      "Tags": [
+        "c\u002B\u002B",
+        "doxygen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757042/doxygen-removes-class-template-specialization-with-typedef"
+    },
+    {
+      "Created": "2025-09-05T17:44:37Z",
+      "Title": "Publish to @google-cloud/pubsub topic from Firebase sdk is failing",
+      "Tags": [
+        "firebase",
+        "google-cloud-pubsub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757052/publish-to-google-cloud-pubsub-topic-from-firebase-sdk-is-failing"
+    },
+    {
+      "Created": "2025-09-05T18:06:42Z",
+      "Title": "How to change the default Google Cloud Build service account to use compute?",
+      "Tags": [
+        "google-cloud-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757059/how-to-change-the-default-google-cloud-build-service-account-to-use-compute"
+    }
+  ]
+}

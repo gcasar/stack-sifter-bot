@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-05T16:02:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T15:40:12Z",
+      "Title": "When should I stop stuffing \\~50k tokens into LLM prompts and move to MCP/tools instead?",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "large-language-model",
+        "model-context-protocol",
+        "retrieval-augmented-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756967/when-should-i-stop-stuffing-50k-tokens-into-llm-prompts-and-move-to-mcp-tools"
+    },
+    {
+      "Created": "2025-09-05T15:40:17Z",
+      "Title": "Aligning controls in a Form",
+      "Tags": [
+        "macos",
+        "forms",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756968/aligning-controls-in-a-form"
+    },
+    {
+      "Created": "2025-09-05T15:46:20Z",
+      "Title": "Use markdown in theme element after setting a complete theme",
+      "Tags": [
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756971/use-markdown-in-theme-element-after-setting-a-complete-theme"
+    },
+    {
+      "Created": "2025-09-05T15:52:15Z",
+      "Title": "Google Play Billing (cordova-plugin-purchase v13): init/update OK but no products (productFound=false) on Internal testing",
+      "Tags": [
+        "android",
+        "cordova",
+        "capacitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756977/google-play-billing-cordova-plugin-purchase-v13-init-update-ok-but-no-product"
+    },
+    {
+      "Created": "2025-09-05T16:02:33Z",
+      "Title": "How to get both max value and its corresponding time in a GROUP BY query in Apache IoTDB 2.0.4 table model?",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756982/how-to-get-both-max-value-and-its-corresponding-time-in-a-group-by-query-in-apac"
+    }
+  ]
+}

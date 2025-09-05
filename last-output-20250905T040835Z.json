@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-05T04:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T03:29:50Z",
+      "Title": "Excel VBA compiles with no problem, but generates Type mismatch or when run",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756384/excel-vba-compiles-with-no-problem-but-generates-type-mismatch-or-when-run"
+    },
+    {
+      "Created": "2025-09-05T03:30:02Z",
+      "Title": "When dealing with Python and SQL should I have separate scripts for INSERTING, ALTERING, PRINTING data from my database",
+      "Tags": [
+        "python",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756385/when-dealing-with-python-and-sql-should-i-have-separate-scripts-for-inserting-a"
+    },
+    {
+      "Created": "2025-09-05T03:30:15Z",
+      "Title": "NestJS: Can I run a \u201Cguard-like\u201D step immediately after a specific middleware while still accessing route metadata?",
+      "Tags": [
+        "typescript",
+        "nestjs",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756386/nestjs-can-i-run-a-guard-like-step-immediately-after-a-specific-middleware-wh"
+    },
+    {
+      "Created": "2025-09-05T03:43:52Z",
+      "Title": "SDL2 can\u0027t capture TEXTINPUT event when using X11 as backend",
+      "Tags": [
+        "linux",
+        "sdl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756389/sdl2-cant-capture-textinput-event-when-using-x11-as-backend"
+    },
+    {
+      "Created": "2025-09-05T03:59:26Z",
+      "Title": "When use CvInvoke.Imread it occurs System.Reflection.ReflectionTypeLoadException",
+      "Tags": [
+        "c#",
+        "wpf",
+        "emgucv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756394/when-use-cvinvoke-imread-it-occurs-system-reflection-reflectiontypeloadexception"
+    },
+    {
+      "Created": "2025-09-05T04:02:28Z",
+      "Title": "Using localStorage for persistent-across-pages dark mode and font selection",
+      "Tags": [
+        "javascript",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756395/using-localstorage-for-persistent-across-pages-dark-mode-and-font-selection"
+    }
+  ]
+}

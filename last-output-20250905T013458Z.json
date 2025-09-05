@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-05T01:33:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T00:41:42Z",
+      "Title": "Regex for scanning email addresses in email body not working after migrating from Exchange to o365",
+      "Tags": [
+        "c#",
+        "regex",
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756335/regex-for-scanning-email-addresses-in-email-body-not-working-after-migrating-fro"
+    },
+    {
+      "Created": "2025-09-05T01:04:23Z",
+      "Title": "Vite keeps detecting Node.js 18 even though Node 22.12 is installed on Windows",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "npm",
+        "vite",
+        "version"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756341/vite-keeps-detecting-node-js-18-even-though-node-22-12-is-installed-on-windows"
+    },
+    {
+      "Created": "2025-09-05T01:06:10Z",
+      "Title": "What to do if PostgreSQL and GStreamer dlls depend on different versions of libiconv-2.dll and libwinpthread-1.dll?",
+      "Tags": [
+        "postgresql",
+        "dll",
+        "gstreamer",
+        "dependency-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756342/what-to-do-if-postgresql-and-gstreamer-dlls-depend-on-different-versions-of-libi"
+    },
+    {
+      "Created": "2025-09-05T01:19:57Z",
+      "Title": "Files created with C are displayed with the \u0027\\n\u0027 character in bash",
+      "Tags": [
+        "c",
+        "fgets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756346/files-created-with-c-are-displayed-with-the-n-character-in-bash"
+    },
+    {
+      "Created": "2025-09-05T01:26:38Z",
+      "Title": "sed - combine two commands into one command",
+      "Tags": [
+        "sed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756348/sed-combine-two-commands-into-one-command"
+    },
+    {
+      "Created": "2025-09-05T01:30:40Z",
+      "Title": "PHP Mail Function Says it Sends ... but it doesnt",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756351/php-mail-function-says-it-sends-but-it-doesnt"
+    },
+    {
+      "Created": "2025-09-05T01:32:16Z",
+      "Title": "Getting HTTP 400 When Attempting to Use Refresh Token for API Authentication",
+      "Tags": [
+        "c#",
+        "asp.net",
+        ".net",
+        "maui",
+        "token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756352/getting-http-400-when-attempting-to-use-refresh-token-for-api-authentication"
+    },
+    {
+      "Created": "2025-09-05T01:33:14Z",
+      "Title": "How to run a functions everytime I enter Insert Mode in Nvim?",
+      "Tags": [
+        "lua",
+        "neovim",
+        "neovim-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756354/how-to-run-a-functions-everytime-i-enter-insert-mode-in-nvim"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-05T20:37:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T20:07:24Z",
+      "Title": "Why can\u0027t this be evaluated at compile-time?",
+      "Tags": [
+        "c\u002B\u002B",
+        "constexpr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757117/why-cant-this-be-evaluated-at-compile-time"
+    },
+    {
+      "Created": "2025-09-05T20:24:30Z",
+      "Title": "Is this SOAP envelope valid?",
+      "Tags": [
+        "java",
+        "xml",
+        "soap",
+        "jaxb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757132/is-this-soap-envelope-valid"
+    },
+    {
+      "Created": "2025-09-05T20:35:12Z",
+      "Title": "Is there a way to implement the Debouncer without using Combine?",
+      "Tags": [
+        "ios",
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757138/is-there-a-way-to-implement-the-debouncer-without-using-combine"
+    },
+    {
+      "Created": "2025-09-05T20:37:57Z",
+      "Title": "Cannot receive push notification on iOS Simulator",
+      "Tags": [
+        "ios",
+        "swift",
+        "push-notification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757141/cannot-receive-push-notification-on-ios-simulator"
+    }
+  ]
+}

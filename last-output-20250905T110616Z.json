@@ -1,0 +1,107 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-05T11:03:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T10:13:48Z",
+      "Title": "Can I bind a swift xcframework to MAUI when I am using VS on Windows, connected to a remote MAC?",
+      "Tags": [
+        "ios",
+        "swift",
+        "visual-studio",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756659/can-i-bind-a-swift-xcframework-to-maui-when-i-am-using-vs-on-windows-connected"
+    },
+    {
+      "Created": "2025-09-05T10:19:32Z",
+      "Title": "how to run projects which is using idlj and java 17",
+      "Tags": [
+        "java",
+        "idlj"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756661/how-to-run-projects-which-is-using-idlj-and-java-17"
+    },
+    {
+      "Created": "2025-09-05T10:37:47Z",
+      "Title": "Python tor Requests for new ip",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756686/python-tor-requests-for-new-ip"
+    },
+    {
+      "Created": "2025-09-05T10:44:43Z",
+      "Title": "Angle computation using trigonometry",
+      "Tags": [
+        "math",
+        "computer-vision",
+        "trigonometry",
+        "angle",
+        "triangle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756693/angle-computation-using-trigonometry"
+    },
+    {
+      "Created": "2025-09-05T10:49:52Z",
+      "Title": "Frama-C: Invariant Preservation Fails When Replacing a Temporary Variable with Direct Array Access",
+      "Tags": [
+        "frama-c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756699/frama-c-invariant-preservation-fails-when-replacing-a-temporary-variable-with-d"
+    },
+    {
+      "Created": "2025-09-05T10:51:13Z",
+      "Title": "Why does a public method behave like a private method when called via public_send in Sidekiq?",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby",
+        "sidekiq",
+        "ruby-on-rails-7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756701/why-does-a-public-method-behave-like-a-private-method-when-called-via-public-sen"
+    },
+    {
+      "Created": "2025-09-05T10:52:36Z",
+      "Title": "Decltype not able to pick a template function based on its concept",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "decltype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756704/decltype-not-able-to-pick-a-template-function-based-on-its-concept"
+    },
+    {
+      "Created": "2025-09-05T10:53:18Z",
+      "Title": "React Native \u002B EAS build: TestFlight shows old code even after new build",
+      "Tags": [
+        "android",
+        "ios",
+        "react-native",
+        "testflight",
+        "eas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756705/react-native-eas-build-testflight-shows-old-code-even-after-new-build"
+    },
+    {
+      "Created": "2025-09-05T11:01:39Z",
+      "Title": "How can I optimize a large dynamic table in React without losing smooth scrolling performance?",
+      "Tags": [
+        "reactjs",
+        "performance",
+        "frontend",
+        "virtualization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756713/how-can-i-optimize-a-large-dynamic-table-in-react-without-losing-smooth-scrollin"
+    },
+    {
+      "Created": "2025-09-05T11:03:22Z",
+      "Title": "Jasypt Hibernate5 Password Decryption Not Working",
+      "Tags": [
+        "hibernate",
+        "jasypt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756714/jasypt-hibernate5-password-decryption-not-working"
+    }
+  ]
+}

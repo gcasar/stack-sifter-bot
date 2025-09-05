@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-05T00:17:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-04T23:56:48Z",
+      "Title": "C\u002B\u002B cannot find standard headers on Mac?",
+      "Tags": [
+        "c\u002B\u002B",
+        "macos",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756313/c-cannot-find-standard-headers-on-mac"
+    },
+    {
+      "Created": "2025-09-05T00:02:18Z",
+      "Title": "query that tries to match everything does not use the index",
+      "Tags": [
+        "mongodb",
+        "mongodb-query",
+        "aggregation-framework",
+        "mongodb-indexes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756318/query-that-tries-to-match-everything-does-not-use-the-index"
+    },
+    {
+      "Created": "2025-09-05T00:09:52Z",
+      "Title": "Xcode validation error: \u201CApp sandbox not enabled\u201D for bundled executables (already sandboxed \u0026 signed)",
+      "Tags": [
+        "swift",
+        "xcode",
+        "macos",
+        "code-signing-entitlements"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756322/xcode-validation-error-app-sandbox-not-enabled-for-bundled-executables-alrea"
+    },
+    {
+      "Created": "2025-09-05T00:17:33Z",
+      "Title": "Can\u0027t link SDL2 library on Raspberry Pi OS (Debian)",
+      "Tags": [
+        "gcc",
+        "raspberry-pi",
+        "linker",
+        "debian",
+        "sdl-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756327/cant-link-sdl2-library-on-raspberry-pi-os-debian"
+    }
+  ]
+}

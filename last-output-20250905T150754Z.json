@@ -1,0 +1,121 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-09-05T15:04:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T14:26:29Z",
+      "Title": "Missing what argument",
+      "Tags": [
+        "python",
+        "function",
+        "callable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756890/missing-what-argument"
+    },
+    {
+      "Created": "2025-09-05T14:27:02Z",
+      "Title": "Pattern matching in GridDB using new SQL",
+      "Tags": [
+        "sql",
+        "pattern-matching",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756891/pattern-matching-in-griddb-using-new-sql"
+    },
+    {
+      "Created": "2025-09-05T14:29:59Z",
+      "Title": "VRP modelling in Timefold for a fleet of electric vehicles with a maximum driving range and special trips to recharge",
+      "Tags": [
+        "optimization",
+        "optaplanner",
+        "vehicle-routing",
+        "timefold",
+        "optaweb-vehicle-routing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756896/vrp-modelling-in-timefold-for-a-fleet-of-electric-vehicles-with-a-maximum-drivin"
+    },
+    {
+      "Created": "2025-09-05T14:31:08Z",
+      "Title": "discord.player ffmpeg process 15000 successfully terminated with return code of 4294967295",
+      "Tags": [
+        "python",
+        "discord",
+        "discord.py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756898/discord-player-ffmpeg-process-15000-successfully-terminated-with-return-code-of"
+    },
+    {
+      "Created": "2025-09-05T14:35:37Z",
+      "Title": "Use a reference to $a to make $a a reference to $b",
+      "Tags": [
+        "php",
+        "arrays",
+        "reference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756906/use-a-reference-to-a-to-make-a-a-reference-to-b"
+    },
+    {
+      "Created": "2025-09-05T14:47:42Z",
+      "Title": "how do i do this infinite carousel of images in jetpack compose?",
+      "Tags": [
+        "kotlin",
+        "android-jetpack-compose",
+        "kotlin-coroutines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756919/how-do-i-do-this-infinite-carousel-of-images-in-jetpack-compose"
+    },
+    {
+      "Created": "2025-09-05T14:48:06Z",
+      "Title": "Access files from Azure App Service from Azure Function in different resource group",
+      "Tags": [
+        "azure",
+        "azure-functions",
+        "azure-resource-group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756920/access-files-from-azure-app-service-from-azure-function-in-different-resource-gr"
+    },
+    {
+      "Created": "2025-09-05T14:52:33Z",
+      "Title": "How can I let \u0060auto_arima\u0060 automatically select the optimal seasonal period (\u0060m\u0060)?",
+      "Tags": [
+        "python",
+        "time-series",
+        "pmdarima"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756924/how-can-i-let-auto-arima-automatically-select-the-optimal-seasonal-period-m"
+    },
+    {
+      "Created": "2025-09-05T14:54:10Z",
+      "Title": "Firestore relational queries with creators / proposals / votes",
+      "Tags": [
+        "database",
+        "firebase",
+        "google-cloud-firestore",
+        "relational-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756926/firestore-relational-queries-with-creators-proposals-votes"
+    },
+    {
+      "Created": "2025-09-05T15:04:14Z",
+      "Title": "Where is GCC\u0027s __divti3 defined?",
+      "Tags": [
+        "c",
+        "gcc",
+        "integer-division",
+        "libgcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756935/where-is-gccs-divti3-defined"
+    },
+    {
+      "Created": "2025-09-05T15:04:46Z",
+      "Title": "Stepper motor and camera issues",
+      "Tags": [
+        "python",
+        "raspberry-pi",
+        "camera",
+        "stepper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756936/stepper-motor-and-camera-issues"
+    }
+  ]
+}

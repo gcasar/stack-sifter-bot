@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-05T10:06:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T09:46:17Z",
+      "Title": "Using a column value to find the Column header name in Pandas",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756625/using-a-column-value-to-find-the-column-header-name-in-pandas"
+    },
+    {
+      "Created": "2025-09-05T09:54:43Z",
+      "Title": "What is the best chunking strategy for LLM processing of .xlsx files? [closed]",
+      "Tags": [
+        "python",
+        "large-language-model",
+        "chunking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756639/what-is-the-best-chunking-strategy-for-llm-processing-of-xlsx-files"
+    },
+    {
+      "Created": "2025-09-05T09:55:49Z",
+      "Title": "Nginx load balancer returning 200 instead of 409 from backend (Socket.IO game server)",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "amazon-web-services",
+        "load-balancing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756643/nginx-load-balancer-returning-200-instead-of-409-from-backend-socket-io-game-se"
+    },
+    {
+      "Created": "2025-09-05T09:56:06Z",
+      "Title": "Line-by-Line Formula Parsing and Exploration of Metaprogramming",
+      "Tags": [
+        "formula",
+        "metaprogramming",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756644/line-by-line-formula-parsing-and-exploration-of-metaprogramming"
+    },
+    {
+      "Created": "2025-09-05T09:56:12Z",
+      "Title": "Routing Issue: Transition to /category/smartphones/iphone Opens index.html Instead of category.html",
+      "Tags": [
+        "javascript",
+        "html",
+        "google-cloud-firestore",
+        "url-routing",
+        "web-development-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756645/routing-issue-transition-to-category-smartphones-iphone-opens-index-html-inste"
+    },
+    {
+      "Created": "2025-09-05T09:57:22Z",
+      "Title": "How to change default value of a property in child type",
+      "Tags": [
+        "c",
+        "gobject"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756647/how-to-change-default-value-of-a-property-in-child-type"
+    },
+    {
+      "Created": "2025-09-05T10:02:19Z",
+      "Title": "The word \u0022again\u0022 is not getting indexed when using MySQL InnoDB FullText index with ngram parser with token size 2",
+      "Tags": [
+        "mysql",
+        "database",
+        "indexing",
+        "full-text-search",
+        "relational-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756652/the-word-again-is-not-getting-indexed-when-using-mysql-innodb-fulltext-index-w"
+    },
+    {
+      "Created": "2025-09-05T10:06:40Z",
+      "Title": "NSURLAuthenticationMethodClientCertificate not getting fired in URLSession:didReceiveChallenge: for TLS 1.3 but works fine with TLS 1.2",
+      "Tags": [
+        "objective-c",
+        "cocoa",
+        "x509certificate",
+        "nsurlsession",
+        "tls1.3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756653/nsurlauthenticationmethodclientcertificate-not-getting-fired-in-urlsessiondidre"
+    }
+  ]
+}

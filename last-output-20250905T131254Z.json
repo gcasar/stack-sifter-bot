@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-05T13:06:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T12:26:34Z",
+      "Title": "Performance issue with a SELECT statement that uses a CONCAT expression",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756768/performance-issue-with-a-select-statement-that-uses-a-concat-expression"
+    },
+    {
+      "Created": "2025-09-05T12:36:33Z",
+      "Title": "Text color of mat-chip in Material from html markup",
+      "Tags": [
+        "css",
+        "angular",
+        "typescript",
+        "sass",
+        "angular-material"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756781/text-color-of-mat-chip-in-material-from-html-markup"
+    },
+    {
+      "Created": "2025-09-05T12:41:18Z",
+      "Title": "Use std::regex_search called from module",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "std",
+        "c\u002B\u002B23",
+        "c\u002B\u002B-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756785/use-stdregex-search-called-from-module"
+    },
+    {
+      "Created": "2025-09-05T12:50:27Z",
+      "Title": "Correct semantic markup for a quote\u0027s author: \u003Ccite\u003E vs. \u003Cspan\u003E",
+      "Tags": [
+        "html",
+        "frontend",
+        "semantics",
+        "markup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756796/correct-semantic-markup-for-a-quotes-author-cite-vs-span"
+    },
+    {
+      "Created": "2025-09-05T12:55:22Z",
+      "Title": "Compile uClinux(old version) on Ubuntu 24.04.1",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "gcc",
+        "cross-compiling",
+        "uclinux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756802/compile-uclinuxold-version-on-ubuntu-24-04-1"
+    },
+    {
+      "Created": "2025-09-05T12:59:57Z",
+      "Title": "Access .editorconfig File from Roslyn CodeFixProvider",
+      "Tags": [
+        "c#",
+        "roslyn",
+        "roslyn-code-analysis",
+        "codefixprovider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756807/access-editorconfig-file-from-roslyn-codefixprovider"
+    },
+    {
+      "Created": "2025-09-05T13:06:57Z",
+      "Title": "Disable @PreAuthorize",
+      "Tags": [
+        "spring-boot",
+        "spring-security",
+        "spring-security-oauth2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756809/disable-preauthorize"
+    }
+  ]
+}

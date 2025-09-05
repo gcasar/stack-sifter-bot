@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-05T09:01:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T08:53:41Z",
+      "Title": "sum countifs across 2 different workbooks results are off",
+      "Tags": [
+        "excel",
+        "excel-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756576/sum-countifs-across-2-different-workbooks-results-are-off"
+    },
+    {
+      "Created": "2025-09-05T09:01:18Z",
+      "Title": "Invoke Method via reflection that takes a delegate as a parameter",
+      "Tags": [
+        "c#",
+        "reflection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79756588/invoke-method-via-reflection-that-takes-a-delegate-as-a-parameter"
+    }
+  ]
+}

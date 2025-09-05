@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-05T17:01:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T16:46:03Z",
+      "Title": "Is 0x0000:0x7000 a unsafe address to load your kernel? Or is it just qemu annoying me",
+      "Tags": [
+        "assembly",
+        "x86-16",
+        "bootloader",
+        "osdev",
+        "16-bit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757011/is-0x00000x7000-a-unsafe-address-to-load-your-kernel-or-is-it-just-qemu-annoyi"
+    },
+    {
+      "Created": "2025-09-05T16:50:12Z",
+      "Title": "Power BI - Create Calculated Table from Physical Table with Grouping and Ranking Using DAX",
+      "Tags": [
+        "powerbi",
+        "dax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757018/power-bi-create-calculated-table-from-physical-table-with-grouping-and-ranking"
+    },
+    {
+      "Created": "2025-09-05T16:50:49Z",
+      "Title": "Pipeline parameter to be used in a source query in a dataflow that references dataflow parameters",
+      "Tags": [
+        "azure",
+        "azure-data-factory",
+        "azure-cosmosdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757020/pipeline-parameter-to-be-used-in-a-source-query-in-a-dataflow-that-references-da"
+    },
+    {
+      "Created": "2025-09-05T16:54:46Z",
+      "Title": "Stub a method on a Thor CLI",
+      "Tags": [
+        "ruby",
+        "testing",
+        "rspec",
+        "mocking",
+        "thor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757025/stub-a-method-on-a-thor-cli"
+    },
+    {
+      "Created": "2025-09-05T16:55:01Z",
+      "Title": "Multi-layer geom_point shape legend question",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "legend",
+        "shapes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757026/multi-layer-geom-point-shape-legend-question"
+    },
+    {
+      "Created": "2025-09-05T16:58:25Z",
+      "Title": "Pyang can\u0027t display subtree when using \u0022-f tree\u0022",
+      "Tags": [
+        "python",
+        "automation",
+        "yang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757028/pyang-cant-display-subtree-when-using-f-tree"
+    },
+    {
+      "Created": "2025-09-05T17:01:44Z",
+      "Title": "Never able to prevent the add to cart form submission",
+      "Tags": [
+        "shopify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757029/never-able-to-prevent-the-add-to-cart-form-submission"
+    }
+  ]
+}

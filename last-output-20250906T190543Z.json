@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-06T19:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T18:28:12Z",
+      "Title": "Create custom language (perhaps via extension) that piggybacks off another language",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757733/create-custom-language-perhaps-via-extension-that-piggybacks-off-another-langu"
+    },
+    {
+      "Created": "2025-09-06T18:30:10Z",
+      "Title": "Short freeze on mouse press in title bar when skipping modal loop with fibers",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "windows",
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757736/short-freeze-on-mouse-press-in-title-bar-when-skipping-modal-loop-with-fibers"
+    },
+    {
+      "Created": "2025-09-06T19:02:28Z",
+      "Title": "Issue with Record Update Not Persisting in Blazor Component",
+      "Tags": [
+        ".net",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757743/issue-with-record-update-not-persisting-in-blazor-component"
+    }
+  ]
+}

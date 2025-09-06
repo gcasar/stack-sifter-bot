@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-06T04:53:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T04:10:20Z",
+      "Title": "Declaring a variable as \u0027local\u0027 when outside Lua functions",
+      "Tags": [
+        "lua",
+        "global",
+        "local",
+        "love2d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757324/declaring-a-variable-as-local-when-outside-lua-functions"
+    },
+    {
+      "Created": "2025-09-06T04:48:44Z",
+      "Title": "Is there a way to use itertools with conditions for sets and arbitrary length?",
+      "Tags": [
+        "python",
+        "conditional-statements",
+        "python-itertools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757335/is-there-a-way-to-use-itertools-with-conditions-for-sets-and-arbitrary-length"
+    },
+    {
+      "Created": "2025-09-06T04:53:50Z",
+      "Title": "Javascript default settings",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757340/javascript-default-settings"
+    }
+  ]
+}

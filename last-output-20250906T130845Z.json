@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-06T13:00:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T12:43:20Z",
+      "Title": "How relaxed is \u0060memory_order_relaxed\u0060?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "memory-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757549/how-relaxed-is-memory-order-relaxed"
+    },
+    {
+      "Created": "2025-09-06T12:48:49Z",
+      "Title": "Why template instantiation requires specialation in the case where it is already done for all cases?",
+      "Tags": [
+        "c\u002B\u002B",
+        "std",
+        "metaprogramming",
+        "template-meta-programming",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757553/why-template-instantiation-requires-specialation-in-the-case-where-it-is-already"
+    },
+    {
+      "Created": "2025-09-06T12:49:20Z",
+      "Title": "Multiple rows aggregated to single row",
+      "Tags": [
+        "sql",
+        "sql-server-2012"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757554/multiple-rows-aggregated-to-single-row"
+    },
+    {
+      "Created": "2025-09-06T12:53:47Z",
+      "Title": "R: How do I assign a value according to conditional statements that use dates from multiple columns",
+      "Tags": [
+        "r",
+        "dataframe",
+        "for-loop",
+        "if-statement",
+        "conditional-statements"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757556/r-how-do-i-assign-a-value-according-to-conditional-statements-that-use-dates-fr"
+    },
+    {
+      "Created": "2025-09-06T12:57:25Z",
+      "Title": "Is ROPC (grant_type password) about to disappear for the Graph API? If so, how to get a token for a background service",
+      "Tags": [
+        "microsoft-graph-api",
+        "azure-web-app-service",
+        "onedrive",
+        "ropc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757559/is-ropc-grant-type-password-about-to-disappear-for-the-graph-api-if-so-how-t"
+    },
+    {
+      "Created": "2025-09-06T13:00:07Z",
+      "Title": "How to highlight Python class names in Vim (custom colorscheme)?",
+      "Tags": [
+        "vim",
+        "color-scheme",
+        "macvim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757560/how-to-highlight-python-class-names-in-vim-custom-colorscheme"
+    }
+  ]
+}

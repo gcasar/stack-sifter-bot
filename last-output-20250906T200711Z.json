@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-06T19:49:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T19:49:51Z",
+      "Title": "How do I filter the Google Picker to show only files created by drive.file scope?",
+      "Tags": [
+        "google-sheets",
+        "google-drive-api",
+        "google-picker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757761/how-do-i-filter-the-google-picker-to-show-only-files-created-by-drive-file-scope"
+    }
+  ]
+}

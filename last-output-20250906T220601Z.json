@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-06T22:02:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T21:17:18Z",
+      "Title": "Why can I pass an argument of type \u0060any Protocol\u0060 into a parameter of type \u0060some Protocol\u0060?",
+      "Tags": [
+        "ios",
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757796/why-can-i-pass-an-argument-of-type-any-protocol-into-a-parameter-of-type-some"
+    },
+    {
+      "Created": "2025-09-06T21:35:10Z",
+      "Title": "How do I convert an X11 keycode to a Unicode character in C?",
+      "Tags": [
+        "c",
+        "x11",
+        "xlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757806/how-do-i-convert-an-x11-keycode-to-a-unicode-character-in-c"
+    },
+    {
+      "Created": "2025-09-06T21:45:54Z",
+      "Title": "VirtualBox, How to configure Windows 11 compatible CPU",
+      "Tags": [
+        "virtualbox",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757811/virtualbox-how-to-configure-windows-11-compatible-cpu"
+    },
+    {
+      "Created": "2025-09-06T21:49:30Z",
+      "Title": "How to accurately detect run time in linux?",
+      "Tags": [
+        "linux",
+        "bash",
+        "process",
+        "daemon",
+        "strace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757813/how-to-accurately-detect-run-time-in-linux"
+    },
+    {
+      "Created": "2025-09-06T21:57:44Z",
+      "Title": "How to tell whether user opened app using push notification?",
+      "Tags": [
+        "ios",
+        "swift",
+        "apple-push-notifications",
+        "pusher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757818/how-to-tell-whether-user-opened-app-using-push-notification"
+    },
+    {
+      "Created": "2025-09-06T22:02:42Z",
+      "Title": "How to detect when complication is removed?",
+      "Tags": [
+        "wear-os",
+        "android-wear-complication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757821/how-to-detect-when-complication-is-removed"
+    }
+  ]
+}

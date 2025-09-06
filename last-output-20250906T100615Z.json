@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-06T09:56:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T09:23:55Z",
+      "Title": "What is the correct approach to use Enums in Database with JPA?",
+      "Tags": [
+        "java",
+        "jpa",
+        "enums",
+        "nhibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757452/what-is-the-correct-approach-to-use-enums-in-database-with-jpa"
+    },
+    {
+      "Created": "2025-09-06T09:40:39Z",
+      "Title": "Incorrect assembly of a \u0022bare-metal\u0022 PowerPC binary",
+      "Tags": [
+        "gcc",
+        "ld",
+        "powerpc",
+        "objdump"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757462/incorrect-assembly-of-a-bare-metal-powerpc-binary"
+    },
+    {
+      "Created": "2025-09-06T09:51:53Z",
+      "Title": "keyDown events in swift not registering when using addGlobalMonitorForEvents?",
+      "Tags": [
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757466/keydown-events-in-swift-not-registering-when-using-addglobalmonitorforevents"
+    },
+    {
+      "Created": "2025-09-06T09:56:32Z",
+      "Title": "Generate HTML and XML report of tests using pytest",
+      "Tags": [
+        "python",
+        "pytest",
+        "pytest-html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757471/generate-html-and-xml-report-of-tests-using-pytest"
+    }
+  ]
+}

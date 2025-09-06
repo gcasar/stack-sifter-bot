@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-06T14:04:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T13:06:49Z",
+      "Title": "Nested Window Expression",
+      "Tags": [
+        "python",
+        "dataframe",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757564/nested-window-expression"
+    },
+    {
+      "Created": "2025-09-06T13:12:31Z",
+      "Title": "SvelteKit \u002B Superforms: Data flickers and is replaced by wrong data on page reload",
+      "Tags": [
+        "javascript",
+        "sveltekit",
+        "supabase",
+        "sveltekit-superforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757570/sveltekit-superforms-data-flickers-and-is-replaced-by-wrong-data-on-page-relo"
+    },
+    {
+      "Created": "2025-09-06T13:15:05Z",
+      "Title": "Relocating jpeglib.h?",
+      "Tags": [
+        "c",
+        "terminal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757572/relocating-jpeglib-h"
+    },
+    {
+      "Created": "2025-09-06T13:36:37Z",
+      "Title": "Can Knowledge Graphs or Graph\u2011RAG be used to classify contract sentences into curated business rules?",
+      "Tags": [
+        "neo4j",
+        "graph-databases",
+        "large-language-model",
+        "knowledge-graph",
+        "graphrag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757586/can-knowledge-graphs-or-graph-rag-be-used-to-classify-contract-sentences-into-cu"
+    },
+    {
+      "Created": "2025-09-06T13:51:09Z",
+      "Title": "Looking for standard, pure 1D CNN code for NSL-KDD and CIC-IDS2017",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "keras",
+        "conv-neural-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757592/looking-for-standard-pure-1d-cnn-code-for-nsl-kdd-and-cic-ids2017"
+    },
+    {
+      "Created": "2025-09-06T13:59:31Z",
+      "Title": "T3 Stack Page Routing Boilerplate does not work",
+      "Tags": [
+        "next.js",
+        "next-auth",
+        "trpc",
+        "t3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757596/t3-stack-page-routing-boilerplate-does-not-work"
+    },
+    {
+      "Created": "2025-09-06T14:04:25Z",
+      "Title": "Clang doesn\u0027t warn about uninitialized stack variable",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757601/clang-doesnt-warn-about-uninitialized-stack-variable"
+    }
+  ]
+}

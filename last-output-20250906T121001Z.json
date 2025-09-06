@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-06T12:07:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T11:55:43Z",
+      "Title": "download pdf with web scrapping using selenium",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping",
+        "pdf",
+        "datedropper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757524/download-pdf-with-web-scrapping-using-selenium"
+    },
+    {
+      "Created": "2025-09-06T11:56:09Z",
+      "Title": "Spring OAuth2 Authorization Server: IllegalArgumentException when deserializing custom User class after consent approval",
+      "Tags": [
+        "spring-boot",
+        "spring-security",
+        "deserialization",
+        "spring-authorization-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757525/spring-oauth2-authorization-server-illegalargumentexception-when-deserializing"
+    },
+    {
+      "Created": "2025-09-06T12:00:52Z",
+      "Title": "Gemini live api cannot handle multimodal text \u002B audio?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "artificial-intelligence",
+        "large-language-model",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757526/gemini-live-api-cannot-handle-multimodal-text-audio"
+    },
+    {
+      "Created": "2025-09-06T12:04:17Z",
+      "Title": "How to play a live stream of raw Opus packets (2\u2011byte BE length\u2011prefixed) in the browser (HTML/JS)?",
+      "Tags": [
+        "java",
+        "kotlin",
+        "web-audio-api",
+        "opus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757527/how-to-play-a-live-stream-of-raw-opus-packets-2-byte-be-length-prefixed-in-the"
+    },
+    {
+      "Created": "2025-09-06T12:07:39Z",
+      "Title": "How to get this simple DynamicStackCardSwiper code working?",
+      "Tags": [
+        "flutter",
+        "dynamic",
+        "flutter-swiper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757532/how-to-get-this-simple-dynamicstackcardswiper-code-working"
+    }
+  ]
+}

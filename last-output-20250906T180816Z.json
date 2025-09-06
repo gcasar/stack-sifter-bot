@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-06T17:58:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T17:32:06Z",
+      "Title": "Dependency problems prevent configuration of mysql-workbench-community",
+      "Tags": [
+        "dependencies",
+        "mysql-workbench"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757697/dependency-problems-prevent-configuration-of-mysql-workbench-community"
+    },
+    {
+      "Created": "2025-09-06T17:33:57Z",
+      "Title": "How to setup Manjaro Linux and GRUB menu to switch between open source or proprietary video drivers? [closed]",
+      "Tags": [
+        "linux",
+        "driver",
+        "nvidia",
+        "manjaro",
+        "grub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757698/how-to-setup-manjaro-linux-and-grub-menu-to-switch-between-open-source-or-propri"
+    },
+    {
+      "Created": "2025-09-06T17:37:01Z",
+      "Title": "Angular Module Export Not Recognized",
+      "Tags": [
+        "javascript",
+        "angular",
+        "routes",
+        "module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757701/angular-module-export-not-recognized"
+    },
+    {
+      "Created": "2025-09-06T17:40:04Z",
+      "Title": "How to compile the last digit of 2^x if x IS NOT a long long int number?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757703/how-to-compile-the-last-digit-of-2x-if-x-is-not-a-long-long-int-number"
+    },
+    {
+      "Created": "2025-09-06T17:58:52Z",
+      "Title": "OpenCV - Understanding sliding window, scaleFactor and minNeighbors",
+      "Tags": [
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757711/opencv-understanding-sliding-window-scalefactor-and-minneighbors"
+    }
+  ]
+}

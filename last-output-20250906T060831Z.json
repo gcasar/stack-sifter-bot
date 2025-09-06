@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-06T06:03:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T05:42:21Z",
+      "Title": "download all pdfs with playwright not working",
+      "Tags": [
+        "javascript",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757355/download-all-pdfs-with-playwright-not-working"
+    },
+    {
+      "Created": "2025-09-06T05:50:55Z",
+      "Title": "How to create addEventListener - function - where I indicate what movieClip was clicked and then decrease HP:number and show it directly on the stage?",
+      "Tags": [
+        "arrays",
+        "actionscript-3",
+        "flash",
+        "adobe",
+        "game-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757356/how-to-create-addeventlistener-function-where-i-indicate-what-movieclip-was"
+    },
+    {
+      "Created": "2025-09-06T05:50:56Z",
+      "Title": "custom filter for filter_horizontal admin in django",
+      "Tags": [
+        "python",
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757357/custom-filter-for-filter-horizontal-admin-in-django"
+    },
+    {
+      "Created": "2025-09-06T05:53:16Z",
+      "Title": "Fetching live comments on Facebook Video turn names to \u0022None\u0022",
+      "Tags": [
+        "python",
+        "facebook",
+        "facebook-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757360/fetching-live-comments-on-facebook-video-turn-names-to-none"
+    },
+    {
+      "Created": "2025-09-06T06:01:04Z",
+      "Title": "Stack overflow in QT Rest API Call",
+      "Tags": [
+        "c\u002B\u002B",
+        "rest",
+        "qt",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757362/stack-overflow-in-qt-rest-api-call"
+    },
+    {
+      "Created": "2025-09-06T06:03:42Z",
+      "Title": "Why am I getting invalidProductIDs for all my In-App Purchases even though product IDs match App Store Connect?",
+      "Tags": [
+        "ios",
+        "swift",
+        "in-app-purchase",
+        "storekit",
+        "swiftystorekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757364/why-am-i-getting-invalidproductids-for-all-my-in-app-purchases-even-though-produ"
+    }
+  ]
+}

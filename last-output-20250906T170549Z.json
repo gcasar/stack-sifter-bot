@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-06T16:51:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T16:29:44Z",
+      "Title": "With Gemini and LangChain4j, how to use Structured output while retrieving metadata?",
+      "Tags": [
+        "artificial-intelligence",
+        "google-gemini",
+        "langchain4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757676/with-gemini-and-langchain4j-how-to-use-structured-output-while-retrieving-metad"
+    },
+    {
+      "Created": "2025-09-06T16:37:57Z",
+      "Title": "Incorrect PieceWise result of integration in Sympy",
+      "Tags": [
+        "sympy",
+        "integration",
+        "piecewise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757679/incorrect-piecewise-result-of-integration-in-sympy"
+    },
+    {
+      "Created": "2025-09-06T16:41:36Z",
+      "Title": "Is my AWS-based video processing pipeline architecture (S3 \u002B Lambda \u002B SQS \u002B Worker \u002B API server) correct, or is there a better approach?",
+      "Tags": [
+        "amazon-web-services",
+        "sockets",
+        "flask",
+        "websocket",
+        "worker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757680/is-my-aws-based-video-processing-pipeline-architecture-s3-lambda-sqs-work"
+    },
+    {
+      "Created": "2025-09-06T16:42:36Z",
+      "Title": "How to correctly generate Nerfstudio transforms.json from drone GPS \u002B yaw/pitch/roll so the point cloud is in geographic space?",
+      "Tags": [
+        "python",
+        "json",
+        "neural-network",
+        "computer-vision",
+        "camera"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757682/how-to-correctly-generate-nerfstudio-transforms-json-from-drone-gps-yaw-pitch"
+    },
+    {
+      "Created": "2025-09-06T16:51:38Z",
+      "Title": "Finding the bigger number using bitwise operation in C",
+      "Tags": [
+        "c",
+        "bit-manipulation",
+        "scanf",
+        "bitwise-operators"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757685/finding-the-bigger-number-using-bitwise-operation-in-c"
+    }
+  ]
+}

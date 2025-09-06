@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-06T11:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T10:33:39Z",
+      "Title": "nuxtjs button component has several size style with tailwindcss. cannot use different size in one place. all are getting the lagest button size",
+      "Tags": [
+        "vue.js",
+        "nuxt.js",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757491/nuxtjs-button-component-has-several-size-style-with-tailwindcss-cannot-use-diff"
+    },
+    {
+      "Created": "2025-09-06T10:39:28Z",
+      "Title": "How do I use VirtualBox serial port in host pipe mode to send data between the guest and the host?",
+      "Tags": [
+        "ubuntu",
+        "serial-port",
+        "virtualbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757494/how-do-i-use-virtualbox-serial-port-in-host-pipe-mode-to-send-data-between-the-g"
+    },
+    {
+      "Created": "2025-09-06T10:46:59Z",
+      "Title": "not receiving email in GoogleSignInAccount object",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "oauth-2.0",
+        "google-signin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757495/not-receiving-email-in-googlesigninaccount-object"
+    },
+    {
+      "Created": "2025-09-06T11:04:07Z",
+      "Title": "useGsap not getting the ref that was passed into the component via a prop in React 19, Next js 15 with TypeScript, animation\u0027s not working",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "gsap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757504/usegsap-not-getting-the-ref-that-was-passed-into-the-component-via-a-prop-in-rea"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-06T15:51:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T15:29:17Z",
+      "Title": "Gradle publish gives \u0022java.lang.NullPointerException\u0022 error?",
+      "Tags": [
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757642/gradle-publish-gives-java-lang-nullpointerexception-error"
+    },
+    {
+      "Created": "2025-09-06T15:51:22Z",
+      "Title": "Add left-side y axis line on right-side facet_wrap panel in ggplot",
+      "Tags": [
+        "ggplot2",
+        "ggh4x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757654/add-left-side-y-axis-line-on-right-side-facet-wrap-panel-in-ggplot"
+    }
+  ]
+}

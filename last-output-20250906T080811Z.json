@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-06T08:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T07:31:56Z",
+      "Title": "Python Pandas: How to filter rows with multiple conditions in a DataFrame",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757394/python-pandas-how-to-filter-rows-with-multiple-conditions-in-a-dataframe"
+    },
+    {
+      "Created": "2025-09-06T07:34:24Z",
+      "Title": "volume of cube in nasm language?",
+      "Tags": [
+        "nasm",
+        "monetdb-assembly-language"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757395/volume-of-cube-in-nasm-language"
+    },
+    {
+      "Created": "2025-09-06T07:34:45Z",
+      "Title": "How To Keep user logged in on refresh but log out on browser/tab close in Angular?",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript",
+        "authentication",
+        "session"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757396/how-to-keep-user-logged-in-on-refresh-but-log-out-on-browser-tab-close-in-angula"
+    },
+    {
+      "Created": "2025-09-06T07:56:25Z",
+      "Title": "R: Sum with a Mutiple criteria for each Row. Processing time is huge",
+      "Tags": [
+        "r",
+        "data.table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757408/r-sum-with-a-mutiple-criteria-for-each-row-processing-time-is-huge"
+    },
+    {
+      "Created": "2025-09-06T08:02:02Z",
+      "Title": "Using CMake for a multi-chip embedded project",
+      "Tags": [
+        "cmake",
+        "build",
+        "cross-platform",
+        "cross-compiling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757412/using-cmake-for-a-multi-chip-embedded-project"
+    },
+    {
+      "Created": "2025-09-06T08:02:28Z",
+      "Title": "How can I achieve Telegram-level video compression speed in Flutter (hardware encode \u002B passthrough)?",
+      "Tags": [
+        "flutter",
+        "video",
+        "flutter-plugin",
+        "android-media3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757413/how-can-i-achieve-telegram-level-video-compression-speed-in-flutter-hardware-en"
+    }
+  ]
+}

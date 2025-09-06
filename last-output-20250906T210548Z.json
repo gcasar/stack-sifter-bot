@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-06T20:56:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T20:37:24Z",
+      "Title": "Failed to list all input-engines available to linux ibus using python",
+      "Tags": [
+        "python-3.x",
+        "dbus",
+        "kali-linux",
+        "ibus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757781/failed-to-list-all-input-engines-available-to-linux-ibus-using-python"
+    },
+    {
+      "Created": "2025-09-06T20:41:17Z",
+      "Title": "How to reliably detect success/failure of org.bluez.Device1.Connect() over D-Bus?",
+      "Tags": [
+        "bluetooth",
+        "dbus",
+        "bluez"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757785/how-to-reliably-detect-success-failure-of-org-bluez-device1-connect-over-d-bus"
+    },
+    {
+      "Created": "2025-09-06T20:56:20Z",
+      "Title": "Why do multiple Italian official Android apps now detect root and block usage?",
+      "Tags": [
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757791/why-do-multiple-italian-official-android-apps-now-detect-root-and-block-usage"
+    }
+  ]
+}

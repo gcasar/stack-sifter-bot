@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-06T00:22:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-05T23:23:02Z",
+      "Title": "Duplicate defininitions with different trait bounds",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757229/duplicate-defininitions-with-different-trait-bounds"
+    },
+    {
+      "Created": "2025-09-05T23:34:57Z",
+      "Title": "Using navigator.clipboard to write multiple entries to clipboard",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757236/using-navigator-clipboard-to-write-multiple-entries-to-clipboard"
+    },
+    {
+      "Created": "2025-09-05T23:51:18Z",
+      "Title": "Converting pointer-to-member to member index using Boost.PFR without creating an object",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "reflection",
+        "c\u002B\u002B20",
+        "metaprogramming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757242/converting-pointer-to-member-to-member-index-using-boost-pfr-without-creating-an"
+    },
+    {
+      "Created": "2025-09-06T00:09:52Z",
+      "Title": "Need help for cross-compiling Windows (host machine) executables from Linux (build machine) using Meson build system and mingw-64 compiler",
+      "Tags": [
+        "c\u002B\u002B",
+        "cross-compiling",
+        "mingw-w64",
+        "meson-build"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757247/need-help-for-cross-compiling-windows-host-machine-executables-from-linux-bui"
+    },
+    {
+      "Created": "2025-09-06T00:22:05Z",
+      "Title": "How Do I Use Proxies with Puppeteer and a Local Chrome Instance?",
+      "Tags": [
+        "javascript",
+        "web-scraping",
+        "proxy",
+        "puppeteer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757255/how-do-i-use-proxies-with-puppeteer-and-a-local-chrome-instance"
+    }
+  ]
+}

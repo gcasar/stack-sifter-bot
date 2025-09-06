@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-06T02:26:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T01:48:51Z",
+      "Title": "Issue when persisting kendo-tabstrip tabs using keepTabContent=true (2 tabs rendered at the same time)",
+      "Tags": [
+        "angular",
+        "kendo-ui-angular2",
+        "kendo-tabstrip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757280/issue-when-persisting-kendo-tabstrip-tabs-using-keeptabcontent-true-2-tabs-rend"
+    },
+    {
+      "Created": "2025-09-06T01:52:51Z",
+      "Title": "Weird behavior in extremely-large complex128 NumPy arrays, imaginary-part only",
+      "Tags": [
+        "python",
+        "floating-point",
+        "simulation",
+        "numpy-ndarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757282/weird-behavior-in-extremely-large-complex128-numpy-arrays-imaginary-part-only"
+    },
+    {
+      "Created": "2025-09-06T01:58:03Z",
+      "Title": "Is it a conforming observable behavior that a later acquired time point is less than an earlier acquired one?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "atomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757283/is-it-a-conforming-observable-behavior-that-a-later-acquired-time-point-is-less"
+    },
+    {
+      "Created": "2025-09-06T02:03:21Z",
+      "Title": "One object has to work with part of data (line of an array) from another object",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757286/one-object-has-to-work-with-part-of-data-line-of-an-array-from-another-object"
+    },
+    {
+      "Created": "2025-09-06T02:14:23Z",
+      "Title": "Issue with Unity Platformer Multi-Jump Mechanic",
+      "Tags": [
+        "unity-game-engine",
+        "game-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757292/issue-with-unity-platformer-multi-jump-mechanic"
+    },
+    {
+      "Created": "2025-09-06T02:14:25Z",
+      "Title": "IAM Policy for edit EC2 tags of instance",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-iam",
+        "aws-iam-policy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757293/iam-policy-for-edit-ec2-tags-of-instance"
+    },
+    {
+      "Created": "2025-09-06T02:26:29Z",
+      "Title": "How to connect Network? Linux Red hat 8? I have to do this... but I couldnt :( please help me",
+      "Tags": [
+        "network-programming",
+        "redhat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757294/how-to-connect-network-linux-red-hat-8-i-have-to-do-this-but-i-couldnt-p"
+    }
+  ]
+}

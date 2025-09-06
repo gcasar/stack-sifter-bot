@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-06T03:04:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-06T02:29:14Z",
+      "Title": "Why am I getting this syntax error in Python? [closed]",
+      "Tags": [
+        "python",
+        "syntax-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757296/why-am-i-getting-this-syntax-error-in-python"
+    },
+    {
+      "Created": "2025-09-06T02:40:28Z",
+      "Title": "Discord.js \u0022guildMemberUpdate\u0022 event only fires the second time i change a Nickname",
+      "Tags": [
+        "typescript",
+        "events",
+        "discord",
+        "discord.js",
+        "roles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757300/discord-js-guildmemberupdate-event-only-fires-the-second-time-i-change-a-nickn"
+    },
+    {
+      "Created": "2025-09-06T02:50:41Z",
+      "Title": "HW rollback after leader election?",
+      "Tags": [
+        "apache-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757302/hw-rollback-after-leader-election"
+    },
+    {
+      "Created": "2025-09-06T03:04:47Z",
+      "Title": "bash aws cloudshell for loop only returns the first item, then hangs",
+      "Tags": [
+        "bash",
+        "amazon-s3",
+        "sed",
+        "aws-cloudshell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757303/bash-aws-cloudshell-for-loop-only-returns-the-first-item-then-hangs"
+    }
+  ]
+}

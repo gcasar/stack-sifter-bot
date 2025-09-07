@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-07T20:59:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T20:10:19Z",
+      "Title": "How to change cursor shape depending on Insert or Normal mode when using \u0060set -o vi\u0060 in \u0060tmux\u0060?",
+      "Tags": [
+        "bash",
+        "terminal",
+        "vi",
+        "tmux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758340/how-to-change-cursor-shape-depending-on-insert-or-normal-mode-when-using-set-o"
+    },
+    {
+      "Created": "2025-09-07T20:13:07Z",
+      "Title": "How do glOrtho and glVertex3f work together",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758343/how-do-glortho-and-glvertex3f-work-together"
+    },
+    {
+      "Created": "2025-09-07T20:27:30Z",
+      "Title": "Does Bit Flows Pro limit either the number of nodes executed in a single flow or the maximum duration?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "timeout",
+        "webhooks",
+        "jet-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758349/does-bit-flows-pro-limit-either-the-number-of-nodes-executed-in-a-single-flow-or"
+    },
+    {
+      "Created": "2025-09-07T20:37:00Z",
+      "Title": "Is there any way to get a handle to the win32 message queue on windows?",
+      "Tags": [
+        "c",
+        "windows",
+        "winapi",
+        "system-calls",
+        "internals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758356/is-there-any-way-to-get-a-handle-to-the-win32-message-queue-on-windows"
+    },
+    {
+      "Created": "2025-09-07T20:45:54Z",
+      "Title": "Binding HierarchicalDataTemplate containing MenuItems to an observablecollection",
+      "Tags": [
+        "c#",
+        ".net",
+        "wpf",
+        "menuitem",
+        "hierarchicaldatatemplate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758360/binding-hierarchicaldatatemplate-containing-menuitems-to-an-observablecollection"
+    },
+    {
+      "Created": "2025-09-07T20:52:47Z",
+      "Title": "How to OCRT receipt slip sums",
+      "Tags": [
+        "ocr",
+        "jpeg",
+        "tesseract",
+        "text-extraction",
+        "tesseract-5.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758362/how-to-ocrt-receipt-slip-sums"
+    },
+    {
+      "Created": "2025-09-07T20:59:01Z",
+      "Title": "Livewire pagination with collections and calculated fields",
+      "Tags": [
+        "laravel",
+        "eloquent",
+        "pagination",
+        "laravel-livewire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758363/livewire-pagination-with-collections-and-calculated-fields"
+    },
+    {
+      "Created": "2025-09-07T20:59:28Z",
+      "Title": "403 Response for Presigned S3 PutObject URL",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "pre-signed-url",
+        "aws-permissions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758364/403-response-for-presigned-s3-putobject-url"
+    }
+  ]
+}

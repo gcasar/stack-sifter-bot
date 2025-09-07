@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-07T14:03:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T13:01:12Z",
+      "Title": "Terraform failing to evaluate list of lists in concat",
+      "Tags": [
+        "amazon-web-services",
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758125/terraform-failing-to-evaluate-list-of-lists-in-concat"
+    },
+    {
+      "Created": "2025-09-07T13:13:50Z",
+      "Title": "How can I redirect to the same page after submitting a form using Django and display the submitted data on that same page?",
+      "Tags": [
+        "python",
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758130/how-can-i-redirect-to-the-same-page-after-submitting-a-form-using-django-and-dis"
+    },
+    {
+      "Created": "2025-09-07T13:15:25Z",
+      "Title": "Python to zip and backup files but no files found",
+      "Tags": [
+        "python",
+        "zip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758132/python-to-zip-and-backup-files-but-no-files-found"
+    },
+    {
+      "Created": "2025-09-07T13:23:07Z",
+      "Title": "Zlib deflate uncompress data error not able to inflate",
+      "Tags": [
+        "c",
+        "compression",
+        "zlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758136/zlib-deflate-uncompress-data-error-not-able-to-inflate"
+    },
+    {
+      "Created": "2025-09-07T13:26:01Z",
+      "Title": "How to set different log level for different appenders without filters in logback-spring.xml file?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "logback",
+        "slf4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758139/how-to-set-different-log-level-for-different-appenders-without-filters-in-logbac"
+    },
+    {
+      "Created": "2025-09-07T13:46:13Z",
+      "Title": "Bluetooth low energy with calliope mini",
+      "Tags": [
+        "python",
+        "pycharm",
+        "bluetooth-lowenergy",
+        "microcontroller",
+        "makecode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758149/bluetooth-low-energy-with-calliope-mini"
+    },
+    {
+      "Created": "2025-09-07T13:54:30Z",
+      "Title": "Tauri \u002B expectrl PTY: interactive CLI freezes when waiting for input (read thread holds mutex) \u2014 how to do concurrent read/write safely?",
+      "Tags": [
+        "multithreading",
+        "rust",
+        "xterm",
+        "tauri",
+        "pty"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758154/tauri-expectrl-pty-interactive-cli-freezes-when-waiting-for-input-read-threa"
+    },
+    {
+      "Created": "2025-09-07T14:00:22Z",
+      "Title": "How to get path to the current script in GJS?",
+      "Tags": [
+        "gnome-shell",
+        "gnome-shell-extensions",
+        "gjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758161/how-to-get-path-to-the-current-script-in-gjs"
+    },
+    {
+      "Created": "2025-09-07T14:03:32Z",
+      "Title": "C\u002B\u002B largestRectangle function causes heap-buffer-overflow with monotonic stacks \u2014 how to fix?",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "stack",
+        "heap",
+        "dsa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758165/c-largestrectangle-function-causes-heap-buffer-overflow-with-monotonic-stacks"
+    }
+  ]
+}

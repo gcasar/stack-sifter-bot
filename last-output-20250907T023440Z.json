@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-07T01:50:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T01:32:04Z",
+      "Title": "Why does my OAuth2 access token refresh on every API call after Docker deployment (works fine locally)?",
+      "Tags": [
+        "persistence",
+        "access-token",
+        "refresh-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757901/why-does-my-oauth2-access-token-refresh-on-every-api-call-after-docker-deploymen"
+    },
+    {
+      "Created": "2025-09-07T01:44:39Z",
+      "Title": "GitLab RC branching strategy",
+      "Tags": [
+        "git",
+        "github",
+        "gitlab",
+        "gitlab-ci",
+        "devops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757905/gitlab-rc-branching-strategy"
+    },
+    {
+      "Created": "2025-09-07T01:50:39Z",
+      "Title": "Template : How to change a default typename to a typename that can\u0027t be changed?",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "typename"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757909/template-how-to-change-a-default-typename-to-a-typename-that-cant-be-changed"
+    }
+  ]
+}

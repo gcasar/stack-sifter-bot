@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-07T09:30:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T09:27:10Z",
+      "Title": "Fix \u0022sudo: sorry, you are not allowed to preserve the environment\u0022 for /usr/bin/sudo -u root -E /Library/LaunchDaemons/ in Homebrew cask upgrades",
+      "Tags": [
+        "macos",
+        "homebrew",
+        "user-permissions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758038/fix-sudo-sorry-you-are-not-allowed-to-preserve-the-environment-for-usr-bin"
+    },
+    {
+      "Created": "2025-09-07T09:30:13Z",
+      "Title": "How to parse large-scale TEI XMl files effectively in AWS?",
+      "Tags": [
+        "amazon-web-services",
+        "xml-parsing",
+        "aws-glue",
+        "apache-spark-xml",
+        "grobid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758040/how-to-parse-large-scale-tei-xml-files-effectively-in-aws"
+    }
+  ]
+}

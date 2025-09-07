@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-07T08:03:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T07:38:10Z",
+      "Title": "NavigationView covering full screen when creating navigation drawer",
+      "Tags": [
+        "android",
+        "xml",
+        "android-studio",
+        "navigationview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757986/navigationview-covering-full-screen-when-creating-navigation-drawer"
+    },
+    {
+      "Created": "2025-09-07T07:40:38Z",
+      "Title": "Firebase Studio emulator preview not showing full screen",
+      "Tags": [
+        "android",
+        "flutter",
+        "android-emulator",
+        "firebase-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757988/firebase-studio-emulator-preview-not-showing-full-screen"
+    },
+    {
+      "Created": "2025-09-07T07:42:38Z",
+      "Title": "Express 5 optional route parameters (:param?) throw PathError with path-to-regexp",
+      "Tags": [
+        "node.js",
+        "url-routing",
+        "express-router",
+        "path-to-regexp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757989/express-5-optional-route-parameters-param-throw-patherror-with-path-to-regex"
+    },
+    {
+      "Created": "2025-09-07T08:03:27Z",
+      "Title": "How to Build a Role-Based Document Workflow System (Preparer-Reviewer-Approver) with Django and React?",
+      "Tags": [
+        "pdf",
+        "web",
+        "backend",
+        "workflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758001/how-to-build-a-role-based-document-workflow-system-preparer-reviewer-approver"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-07T12:56:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T12:56:17Z",
+      "Title": "How do I make it so that my python package will pop up a terminal all by itself when clicked?",
+      "Tags": [
+        "python",
+        "terminal",
+        "popup",
+        "pyinstaller",
+        "packaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758123/how-do-i-make-it-so-that-my-python-package-will-pop-up-a-terminal-all-by-itself"
+    }
+  ]
+}

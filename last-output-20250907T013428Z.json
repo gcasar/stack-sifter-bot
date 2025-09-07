@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-07T01:04:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T00:53:12Z",
+      "Title": "c\u002B\u002B14:: deleting memory for contaners",
+      "Tags": [
+        "c\u002B\u002B",
+        "memory-management",
+        "c\u002B\u002B14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757885/c14-deleting-memory-for-contaners"
+    },
+    {
+      "Created": "2025-09-07T00:55:59Z",
+      "Title": "how can I access particular y and x axis using ax = fig.add_subplot(3, 3, i \u002B1), for a loop on i?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "matplotlib",
+        "plot",
+        "subplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757887/how-can-i-access-particular-y-and-x-axis-using-ax-fig-add-subplot3-3-i-1"
+    },
+    {
+      "Created": "2025-09-07T01:04:14Z",
+      "Title": "Git rebase, I want to remove commits but keep the changes",
+      "Tags": [
+        "git",
+        "git-rebase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757891/git-rebase-i-want-to-remove-commits-but-keep-the-changes"
+    }
+  ]
+}

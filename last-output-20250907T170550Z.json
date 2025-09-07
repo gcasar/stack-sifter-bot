@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-07T16:53:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T16:34:13Z",
+      "Title": "How to work with data passed to a function, but without an explicit name in its parameters in C?",
+      "Tags": [
+        "c",
+        "function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758228/how-to-work-with-data-passed-to-a-function-but-without-an-explicit-name-in-its"
+    },
+    {
+      "Created": "2025-09-07T16:35:46Z",
+      "Title": "How to implement the \u0022Print current stock\u0022 feature and fill placeholders in my Python Excel stock manager?",
+      "Tags": [
+        "python",
+        "excel",
+        "pandas",
+        "github",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758230/how-to-implement-the-print-current-stock-feature-and-fill-placeholders-in-my-p"
+    },
+    {
+      "Created": "2025-09-07T16:39:12Z",
+      "Title": "Crew-AI tool installation failed due to Dependency - after manual wheel install",
+      "Tags": [
+        "installation",
+        "pip",
+        "dependencies",
+        "crewai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758232/crew-ai-tool-installation-failed-due-to-dependency-after-manual-wheel-install"
+    },
+    {
+      "Created": "2025-09-07T16:50:52Z",
+      "Title": "Edge to edge display",
+      "Tags": [
+        "java",
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758241/edge-to-edge-display"
+    },
+    {
+      "Created": "2025-09-07T16:52:31Z",
+      "Title": "How do I handle dependent-type error with sigma types?",
+      "Tags": [
+        "rocq-prover",
+        "ssreflect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758242/how-do-i-handle-dependent-type-error-with-sigma-types"
+    },
+    {
+      "Created": "2025-09-07T16:53:06Z",
+      "Title": "I\u0027m trying to test my streaming endpoint with pytest but it just gets frozen",
+      "Tags": [
+        "python",
+        "mongodb",
+        "pytest",
+        "fastapi",
+        "beanie"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758243/im-trying-to-test-my-streaming-endpoint-with-pytest-but-it-just-gets-frozen"
+    }
+  ]
+}

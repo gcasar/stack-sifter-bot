@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-07T22:03:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T21:11:46Z",
+      "Title": "Zep Graphiti - core - Adding Episode fails the LLM structured output",
+      "Tags": [
+        "neo4j",
+        "artificial-intelligence",
+        "large-language-model",
+        "google-gemini",
+        "rag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758366/zep-graphiti-core-adding-episode-fails-the-llm-structured-output"
+    },
+    {
+      "Created": "2025-09-07T21:12:05Z",
+      "Title": "Delphi TWebBrowser Android: Display cached website in offline mode",
+      "Tags": [
+        "android",
+        "delphi",
+        "web",
+        "firemonkey",
+        "glpi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758367/delphi-twebbrowser-android-display-cached-website-in-offline-mode"
+    },
+    {
+      "Created": "2025-09-07T21:30:50Z",
+      "Title": "ASP.NET MVC Create View - Where to place ValidationMessage (Fluent Validation) for a variable",
+      "Tags": [
+        "asp.net-mvc",
+        "model-view-controller",
+        "fluentvalidation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758371/asp-net-mvc-create-view-where-to-place-validationmessage-fluent-validation-f"
+    },
+    {
+      "Created": "2025-09-07T21:37:11Z",
+      "Title": "Admin Toolbar Not Showing on All Pages After Restoring WordPress Backup",
+      "Tags": [
+        "php",
+        "wordpress",
+        "plugins",
+        "backup",
+        "toolbar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758372/admin-toolbar-not-showing-on-all-pages-after-restoring-wordpress-backup"
+    },
+    {
+      "Created": "2025-09-07T22:03:13Z",
+      "Title": "Modify the IAM Policy of a Trigger",
+      "Tags": [
+        "amazon-web-services",
+        "aws-amplify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758378/modify-the-iam-policy-of-a-trigger"
+    }
+  ]
+}

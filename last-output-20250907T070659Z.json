@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-07T07:00:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T06:37:01Z",
+      "Title": "Why Odoo custom module code changes are not reflected in website?",
+      "Tags": [
+        "xml",
+        "web",
+        "module",
+        "odoo",
+        "localhost"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757970/why-odoo-custom-module-code-changes-are-not-reflected-in-website"
+    },
+    {
+      "Created": "2025-09-07T06:50:50Z",
+      "Title": "How do you find the ID of a user who sends a slash command with code outside of that command?",
+      "Tags": [
+        "discord.py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757974/how-do-you-find-the-id-of-a-user-who-sends-a-slash-command-with-code-outside-of"
+    },
+    {
+      "Created": "2025-09-07T07:00:34Z",
+      "Title": "React State Update Not Showing After Async API Call on Mobile Only",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "axios",
+        "tsx",
+        "react-tsx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757979/react-state-update-not-showing-after-async-api-call-on-mobile-only"
+    }
+  ]
+}

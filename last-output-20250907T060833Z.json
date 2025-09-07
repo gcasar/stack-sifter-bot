@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-07T05:45:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T05:36:18Z",
+      "Title": "Better Auth cookies not saving in frontend after sign-in on Vercel deployment with Express/MongoDB",
+      "Tags": [
+        "mongodb",
+        "express",
+        "cookies",
+        "vercel",
+        "better-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757950/better-auth-cookies-not-saving-in-frontend-after-sign-in-on-vercel-deployment-wi"
+    },
+    {
+      "Created": "2025-09-07T05:39:18Z",
+      "Title": "Typename packing is failed in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "metaprogramming",
+        "template-meta-programming",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757951/typename-packing-is-failed-in-c"
+    },
+    {
+      "Created": "2025-09-07T05:44:34Z",
+      "Title": "Python pyodbc SQL script execution fails with \u0022Missing end comment mark \u0027*/\u0027\u0022 error on .sql files",
+      "Tags": [
+        "python",
+        "sql-server",
+        "t-sql",
+        "character-encoding",
+        "pyodbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757952/python-pyodbc-sql-script-execution-fails-with-missing-end-comment-mark-er"
+    },
+    {
+      "Created": "2025-09-07T05:45:11Z",
+      "Title": "Apps Script For Loop is too slow",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757953/apps-script-for-loop-is-too-slow"
+    }
+  ]
+}

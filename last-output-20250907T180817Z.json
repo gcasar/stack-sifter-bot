@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-07T17:59:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T17:20:41Z",
+      "Title": "Why is my cache invalidation of RTK (Redux Toolkit) not working?",
+      "Tags": [
+        "reactjs",
+        "redux",
+        "redux-toolkit",
+        "rtk-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758258/why-is-my-cache-invalidation-of-rtk-redux-toolkit-not-working"
+    },
+    {
+      "Created": "2025-09-07T17:35:59Z",
+      "Title": "Nx Micro frontend: problem injecting a shared library service into shell/host and remote apps",
+      "Tags": [
+        "angular",
+        "nrwl-nx",
+        "micro-frontend",
+        "nrwl",
+        "angular-module-federation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758262/nx-micro-frontend-problem-injecting-a-shared-library-service-into-shell-host-an"
+    },
+    {
+      "Created": "2025-09-07T17:46:50Z",
+      "Title": "How do I access an XML node that uses quote marks with xmlstarlet?",
+      "Tags": [
+        "xml",
+        "xmlstarlet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758267/how-do-i-access-an-xml-node-that-uses-quote-marks-with-xmlstarlet"
+    },
+    {
+      "Created": "2025-09-07T17:59:27Z",
+      "Title": "Change the size of child Form inside Panel when form is maximized or minimized",
+      "Tags": [
+        "c#",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758269/change-the-size-of-child-form-inside-panel-when-form-is-maximized-or-minimized"
+    }
+  ]
+}

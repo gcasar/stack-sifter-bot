@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-07T23:00:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T22:15:29Z",
+      "Title": "How to add objects/links to a set of links in beanie?",
+      "Tags": [
+        "python",
+        "mongodb",
+        "fastapi",
+        "pydantic",
+        "beanie"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758380/how-to-add-objects-links-to-a-set-of-links-in-beanie"
+    },
+    {
+      "Created": "2025-09-07T22:26:58Z",
+      "Title": "How to make edge in graphviz not take crazy route",
+      "Tags": [
+        "graphviz"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758384/how-to-make-edge-in-graphviz-not-take-crazy-route"
+    },
+    {
+      "Created": "2025-09-07T22:52:29Z",
+      "Title": "How does printing a union itself and not its member works in C?",
+      "Tags": [
+        "c",
+        "types",
+        "printf",
+        "unions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758388/how-does-printing-a-union-itself-and-not-its-member-works-in-c"
+    },
+    {
+      "Created": "2025-09-07T23:00:52Z",
+      "Title": "Cannot read accountExpires attribute from Active Directory with Spring LDAP",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "active-directory",
+        "spring-ldap",
+        "spring-data-ldap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758390/cannot-read-accountexpires-attribute-from-active-directory-with-spring-ldap"
+    }
+  ]
+}

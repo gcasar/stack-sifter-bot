@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-07T14:57:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T14:57:49Z",
+      "Title": "shell command taking input from STDIN but not from positional arguments except for options",
+      "Tags": [
+        "unix",
+        "arguments",
+        "command",
+        "stdin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758182/shell-command-taking-input-from-stdin-but-not-from-positional-arguments-except-f"
+    }
+  ]
+}

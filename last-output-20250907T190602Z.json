@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-07T19:00:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T18:55:02Z",
+      "Title": "Hpw to get the mangled name from a function signature \u0026 name?",
+      "Tags": [
+        "c\u002B\u002B",
+        "name-mangling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758305/hpw-to-get-the-mangled-name-from-a-function-signature-name"
+    },
+    {
+      "Created": "2025-09-07T19:00:58Z",
+      "Title": "How to find the least value that is greater than or equal to a value in a set in truly O(log N) time in C#?",
+      "Tags": [
+        "c#",
+        "sortedset",
+        "lower-bound",
+        "upperbound"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758310/how-to-find-the-least-value-that-is-greater-than-or-equal-to-a-value-in-a-set-in"
+    }
+  ]
+}

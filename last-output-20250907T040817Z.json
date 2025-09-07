@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-07T04:02:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T03:50:47Z",
+      "Title": "Confusion related to weblogic 14c",
+      "Tags": [
+        "weblogic14c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757930/confusion-related-to-weblogic-14c"
+    },
+    {
+      "Created": "2025-09-07T04:01:39Z",
+      "Title": "Make Fractal Indicator to start FRom Desired Candle number",
+      "Tags": [
+        "mql5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757934/make-fractal-indicator-to-start-from-desired-candle-number"
+    },
+    {
+      "Created": "2025-09-07T04:02:02Z",
+      "Title": "I want to build mdadm binary ad include it in my bundling",
+      "Tags": [
+        "shell",
+        "build",
+        "mdadm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757935/i-want-to-build-mdadm-binary-ad-include-it-in-my-bundling"
+    }
+  ]
+}

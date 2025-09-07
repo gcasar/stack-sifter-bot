@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-07T12:02:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T11:49:29Z",
+      "Title": "Struct with private members",
+      "Tags": [
+        "c\u002B\u002B",
+        "struct",
+        "c\u002B\u002B17",
+        "game-development",
+        "static-classes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758094/struct-with-private-members"
+    },
+    {
+      "Created": "2025-09-07T12:02:58Z",
+      "Title": "usage of filters in thunderbird",
+      "Tags": [
+        "filter",
+        "thunderbird",
+        "bcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758097/usage-of-filters-in-thunderbird"
+    }
+  ]
+}

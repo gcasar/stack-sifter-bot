@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-07T10:54:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T10:09:51Z",
+      "Title": "How to use uuid with Node.js (v20) when require() throws ERR_REQUIRE_ESM?",
+      "Tags": [
+        "node.js",
+        "express",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758051/how-to-use-uuid-with-node-js-v20-when-require-throws-err-require-esm"
+    },
+    {
+      "Created": "2025-09-07T10:35:38Z",
+      "Title": "Why does setTimeout execute before fetch .then despite microtask priority?",
+      "Tags": [
+        "javascript",
+        "async-await",
+        "fetch-api",
+        "settimeout",
+        "event-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758060/why-does-settimeout-execute-before-fetch-then-despite-microtask-priority"
+    },
+    {
+      "Created": "2025-09-07T10:50:13Z",
+      "Title": "Problem reading the _last_checkpoint file from the _delta_log directory of a delta lake table on s3",
+      "Tags": [
+        "apache-spark",
+        "apache-spark-sql",
+        "metadata",
+        "delta-lake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758065/problem-reading-the-last-checkpoint-file-from-the-delta-log-directory-of-a-del"
+    },
+    {
+      "Created": "2025-09-07T10:54:25Z",
+      "Title": "restorePurchases() does not fetch the lastest purchase history on another device(flutter, android)",
+      "Tags": [
+        "flutter",
+        "in-app-purchase",
+        "restore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758067/restorepurchases-does-not-fetch-the-lastest-purchase-history-on-another-device"
+    },
+    {
+      "Created": "2025-09-07T10:54:51Z",
+      "Title": "How to recover files from LUKS partition of Ubuntu that when unlocked is empty",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "lvm",
+        "luks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758068/how-to-recover-files-from-luks-partition-of-ubuntu-that-when-unlocked-is-empty"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-07T15:48:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T15:46:28Z",
+      "Title": "Last 7 days average in Power BI",
+      "Tags": [
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758207/last-7-days-average-in-power-bi"
+    },
+    {
+      "Created": "2025-09-07T15:48:55Z",
+      "Title": "Why implement a template function as free instead of member?",
+      "Tags": [
+        "c\u002B\u002B",
+        "function",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758209/why-implement-a-template-function-as-free-instead-of-member"
+    }
+  ]
+}

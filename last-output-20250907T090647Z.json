@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-07T08:30:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T08:13:39Z",
+      "Title": "Binding Livewire nested data insertion using Alpine js",
+      "Tags": [
+        "laravel-livewire",
+        "alpine.js",
+        "laravel-10",
+        "laravel-livewire-wiremodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758007/binding-livewire-nested-data-insertion-using-alpine-js"
+    },
+    {
+      "Created": "2025-09-07T08:21:38Z",
+      "Title": "JIRA Lexorank in depth",
+      "Tags": [
+        "algorithm",
+        "optimization",
+        "jira"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758010/jira-lexorank-in-depth"
+    },
+    {
+      "Created": "2025-09-07T08:25:50Z",
+      "Title": "Bot gets \u0022Unclosed connection\u0022 when joining a voice channel for the first time",
+      "Tags": [
+        "python",
+        "discord",
+        "discord.py",
+        "pycord"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758012/bot-gets-unclosed-connection-when-joining-a-voice-channel-for-the-first-time"
+    },
+    {
+      "Created": "2025-09-07T08:26:44Z",
+      "Title": "Convert file from figma to xaml for .net maui",
+      "Tags": [
+        "maui",
+        "figma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758013/convert-file-from-figma-to-xaml-for-net-maui"
+    },
+    {
+      "Created": "2025-09-07T08:30:39Z",
+      "Title": "Exposing StateFlow from a Repository: Good or Bad Practice?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758017/exposing-stateflow-from-a-repository-good-or-bad-practice"
+    },
+    {
+      "Created": "2025-09-07T08:30:51Z",
+      "Title": "why my /dev/md0 has two UUID according to mdadm and blkid?",
+      "Tags": [
+        "mdadm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758018/why-my-dev-md0-has-two-uuid-according-to-mdadm-and-blkid"
+    }
+  ]
+}

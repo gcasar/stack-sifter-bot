@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-07T20:05:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T19:21:48Z",
+      "Title": "Changing Text Size in a Portion of the Body Text in Quarto (PDF)",
+      "Tags": [
+        "quarto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758320/changing-text-size-in-a-portion-of-the-body-text-in-quarto-pdf"
+    },
+    {
+      "Created": "2025-09-07T19:45:00Z",
+      "Title": "Evaluate an expression to a numerical value in wxMaxima",
+      "Tags": [
+        "wxmaxima"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758324/evaluate-an-expression-to-a-numerical-value-in-wxmaxima"
+    },
+    {
+      "Created": "2025-09-07T19:50:03Z",
+      "Title": "Is it possible to edit the text or HTML contents of an XML node using xmlstarlet?",
+      "Tags": [
+        "xml",
+        "xml-parsing",
+        "xml-namespaces",
+        "xmlstarlet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758326/is-it-possible-to-edit-the-text-or-html-contents-of-an-xml-node-using-xmlstarlet"
+    },
+    {
+      "Created": "2025-09-07T19:53:26Z",
+      "Title": "move_pages() only is effective temporarily in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "memory",
+        "system-calls",
+        "numa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758329/move-pages-only-is-effective-temporarily-in-c"
+    },
+    {
+      "Created": "2025-09-07T19:57:47Z",
+      "Title": "JAXB (javax.xml.bind) won\u2019t unmarshal nested \u003CTMI\u003E element (siblings bind fine). How should I annotate?",
+      "Tags": [
+        "java",
+        "annotations",
+        "jaxb",
+        "xml-namespaces",
+        "unmarshalling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758331/jaxb-javax-xml-bind-won-t-unmarshal-nested-tmi-element-siblings-bind-fine"
+    },
+    {
+      "Created": "2025-09-07T20:04:57Z",
+      "Title": "Should I use one Foundational Model for a project or use multiple models?",
+      "Tags": [
+        "pytorch",
+        "huggingface-transformers",
+        "large-language-model",
+        "agent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758335/should-i-use-one-foundational-model-for-a-project-or-use-multiple-models"
+    },
+    {
+      "Created": "2025-09-07T20:05:31Z",
+      "Title": "Using Sphinx autosummary to generate documentation for class instances stored as attributes during instantiation of another class",
+      "Tags": [
+        "python-sphinx",
+        "autosummary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758337/using-sphinx-autosummary-to-generate-documentation-for-class-instances-stored-as"
+    }
+  ]
+}

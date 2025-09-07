@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-07T04:57:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-07T04:11:07Z",
+      "Title": "Control CPU C states programatically in Linux?",
+      "Tags": [
+        "c",
+        "linux",
+        "performance",
+        "x86",
+        "power-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757937/control-cpu-c-states-programatically-in-linux"
+    },
+    {
+      "Created": "2025-09-07T04:35:07Z",
+      "Title": "How to formulate following problem to easier form, any hint to solve it?",
+      "Tags": [
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757939/how-to-formulate-following-problem-to-easier-form-any-hint-to-solve-it"
+    },
+    {
+      "Created": "2025-09-07T04:57:13Z",
+      "Title": "How to stop the shifting of all grid contents?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml",
+        "user-interface",
+        "combobox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79757944/how-to-stop-the-shifting-of-all-grid-contents"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-08T18:54:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T18:43:19Z",
+      "Title": "counting values using nested sql query",
+      "Tags": [
+        "sql",
+        "nested",
+        "aggregate",
+        "apex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759241/counting-values-using-nested-sql-query"
+    },
+    {
+      "Created": "2025-09-08T18:43:54Z",
+      "Title": "TableView and HorizontalHeaderView column widths do not match, even with syncView property set",
+      "Tags": [
+        "qt",
+        "qml",
+        "tableview",
+        "qt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759243/tableview-and-horizontalheaderview-column-widths-do-not-match-even-with-syncvie"
+    },
+    {
+      "Created": "2025-09-08T18:51:16Z",
+      "Title": "How do I create a table where values of a column are restricted to values of column in another table?",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759250/how-do-i-create-a-table-where-values-of-a-column-are-restricted-to-values-of-col"
+    },
+    {
+      "Created": "2025-09-08T18:54:51Z",
+      "Title": "Add percentages labels on top of each square in mosaic plot",
+      "Tags": [
+        "ggplot2",
+        "mosaic-plot",
+        "r-mosaic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759253/add-percentages-labels-on-top-of-each-square-in-mosaic-plot"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-08T18:02:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T17:08:01Z",
+      "Title": "Is it possible to get metadata (specifically the original creation date or time) from a .pdf that was emailed to me as an attachment in PHP?",
+      "Tags": [
+        "php",
+        "datetime",
+        "pdf",
+        "preg-match"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759173/is-it-possible-to-get-metadata-specifically-the-original-creation-date-or-time"
+    },
+    {
+      "Created": "2025-09-08T17:46:24Z",
+      "Title": "Using pybabel to translate tooltip text inside a HTML tag",
+      "Tags": [
+        "python",
+        "flask",
+        "python-babel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759200/using-pybabel-to-translate-tooltip-text-inside-a-html-tag"
+    },
+    {
+      "Created": "2025-09-08T17:51:22Z",
+      "Title": "Can not use kotlinx-datetime:0.7.1 library with rememberDatePickerState() function of material3",
+      "Tags": [
+        "kotlin",
+        "kotlin-multiplatform",
+        "compose-multiplatform",
+        "kmp",
+        "kotlin-dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759204/can-not-use-kotlinx-datetime0-7-1-library-with-rememberdatepickerstate-functi"
+    },
+    {
+      "Created": "2025-09-08T17:57:12Z",
+      "Title": "Turn a convexhull defined by a list of 3D point coordinates into a 0-1 binary mask",
+      "Tags": [
+        "python",
+        "scipy",
+        "geometry",
+        "convex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759208/turn-a-convexhull-defined-by-a-list-of-3d-point-coordinates-into-a-0-1-binary-ma"
+    },
+    {
+      "Created": "2025-09-08T17:57:16Z",
+      "Title": "ESP32-C3 sketch immediately resets with TG1WDT_SYS_RST on minimal code",
+      "Tags": [
+        "arduino",
+        "esp32",
+        "reset",
+        "watchdog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759209/esp32-c3-sketch-immediately-resets-with-tg1wdt-sys-rst-on-minimal-code"
+    },
+    {
+      "Created": "2025-09-08T18:01:11Z",
+      "Title": "Snyk: Can I bulk update the default Python version (pip \u2192 3.10) across all my orgs?",
+      "Tags": [
+        "snyk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759213/snyk-can-i-bulk-update-the-default-python-version-pip-%e2%86%92-3-10-across-all-my-or"
+    },
+    {
+      "Created": "2025-09-08T18:01:53Z",
+      "Title": "Cloud Functions: One Function vs. Multiple for a Single Trigger?",
+      "Tags": [
+        "firebase",
+        "google-cloud-firestore",
+        "google-cloud-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759214/cloud-functions-one-function-vs-multiple-for-a-single-trigger"
+    },
+    {
+      "Created": "2025-09-08T18:02:57Z",
+      "Title": "Apps Script to add events from Google Sheets to Google Calendar",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759217/apps-script-to-add-events-from-google-sheets-to-google-calendar"
+    }
+  ]
+}

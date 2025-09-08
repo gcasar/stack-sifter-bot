@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-08T02:32:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T02:04:30Z",
+      "Title": "qpdf encryption works in a for loop but fails with GNU Parallel: \u0022unrecognized argument --print=none\u0022",
+      "Tags": [
+        "bash",
+        "pdf",
+        "gnu-parallel",
+        "qpdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758448/qpdf-encryption-works-in-a-for-loop-but-fails-with-gnu-parallel-unrecognized-a"
+    },
+    {
+      "Created": "2025-09-08T02:07:39Z",
+      "Title": "In MongoDB, which field order is best for a compound index when mixing $in and equality conditions?",
+      "Tags": [
+        "mongodb",
+        "mongodb-query",
+        "aggregation-framework",
+        "mongodb-indexes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758449/in-mongodb-which-field-order-is-best-for-a-compound-index-when-mixing-in-and-e"
+    },
+    {
+      "Created": "2025-09-08T02:10:28Z",
+      "Title": "Custom font slows down website performance",
+      "Tags": [
+        "html",
+        "performance",
+        "font-face",
+        "pagespeed-insights"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758451/custom-font-slows-down-website-performance"
+    },
+    {
+      "Created": "2025-09-08T02:27:34Z",
+      "Title": "Renovate CLI \u0022allowedCommands\u0022 not getting resolved in packageRule level",
+      "Tags": [
+        "azure-devops",
+        "renovate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758454/renovate-cli-allowedcommands-not-getting-resolved-in-packagerule-level"
+    },
+    {
+      "Created": "2025-09-08T02:30:29Z",
+      "Title": "systemd cpuset controller is set with \u0060-p Delegate=true\u0060 when running in transient user scope but isn\u0027t added to cgroup.controllers",
+      "Tags": [
+        "linux",
+        "systemd",
+        "cgroups"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758455/systemd-cpuset-controller-is-set-with-p-delegate-true-when-running-in-transie"
+    },
+    {
+      "Created": "2025-09-08T02:32:26Z",
+      "Title": "Why is \u0022int n = n \u002B 1;\u0022 legal in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "syntax",
+        "standards",
+        "undefined-behavior",
+        "self-reference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758456/why-is-int-n-n-1-legal-in-c"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-08T22:41:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T22:17:30Z",
+      "Title": "How do I bundle ffmpeg with my PyInstaller --onefile executable correctly?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "ffmpeg",
+        "pyinstaller",
+        "yt-dlp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759373/how-do-i-bundle-ffmpeg-with-my-pyinstaller-onefile-executable-correctly"
+    },
+    {
+      "Created": "2025-09-08T22:41:43Z",
+      "Title": "advice from people as university CS student who knows nothing [closed]",
+      "Tags": [
+        "software-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759382/advice-from-people-as-university-cs-student-who-knows-nothing"
+    }
+  ]
+}

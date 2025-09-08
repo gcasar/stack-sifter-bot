@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-08T12:58:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T12:26:44Z",
+      "Title": "Twilio WhatsApp API: 63005 Channel did not accept given content for approved template with dynamic URL",
+      "Tags": [
+        "twilio",
+        "twilio-api",
+        "twilio-php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758874/twilio-whatsapp-api-63005-channel-did-not-accept-given-content-for-approved-tem"
+    },
+    {
+      "Created": "2025-09-08T12:38:33Z",
+      "Title": "How to find if a log message has two fields in a specific order?",
+      "Tags": [
+        "regex",
+        "logging",
+        "lucene",
+        "coralogix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758882/how-to-find-if-a-log-message-has-two-fields-in-a-specific-order"
+    },
+    {
+      "Created": "2025-09-08T12:48:54Z",
+      "Title": "How to generate documentation for multiple files using pydoc",
+      "Tags": [
+        "python",
+        "documentation",
+        "pydoc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758896/how-to-generate-documentation-for-multiple-files-using-pydoc"
+    },
+    {
+      "Created": "2025-09-08T12:54:41Z",
+      "Title": "Why don\u2019t Tailwind fractional spacing classes like mr-1.5 apply in my project, while mr-1 and mr-2 work?",
+      "Tags": [
+        "tailwind-css",
+        "puppeteer",
+        "chromium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758901/why-don-t-tailwind-fractional-spacing-classes-like-mr-1-5-apply-in-my-project-w"
+    },
+    {
+      "Created": "2025-09-08T12:58:26Z",
+      "Title": "Header checkbox (\u201Cselect all\u201D) doesn\u2019t update selection in production (works in local dev)",
+      "Tags": [
+        "reactjs",
+        "material-ui",
+        "datagrid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758909/header-checkbox-select-all-doesn-t-update-selection-in-production-works-in"
+    }
+  ]
+}

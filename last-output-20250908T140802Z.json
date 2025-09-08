@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-08T14:06:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T13:33:58Z",
+      "Title": "How to make UIView fit the size of its contents?",
+      "Tags": [
+        "ios",
+        "swift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758953/how-to-make-uiview-fit-the-size-of-its-contents"
+    },
+    {
+      "Created": "2025-09-08T13:50:44Z",
+      "Title": "LLM is not performing RAG searches when I need it to",
+      "Tags": [
+        "artificial-intelligence",
+        "langchain",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758978/llm-is-not-performing-rag-searches-when-i-need-it-to"
+    },
+    {
+      "Created": "2025-09-08T13:57:01Z",
+      "Title": "VS solution configurations",
+      "Tags": [
+        "c#",
+        ".net",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758985/vs-solution-configurations"
+    },
+    {
+      "Created": "2025-09-08T13:58:23Z",
+      "Title": "Optimized approach for Counting odd Numbers in an interval range [low,high] in python",
+      "Tags": [
+        "python",
+        "dsa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758986/optimized-approach-for-counting-odd-numbers-in-an-interval-range-low-high-in-p"
+    },
+    {
+      "Created": "2025-09-08T14:04:20Z",
+      "Title": "How to use Embree with quads?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "embree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758995/how-to-use-embree-with-quads"
+    },
+    {
+      "Created": "2025-09-08T14:06:18Z",
+      "Title": "Jexl 3.5.0 not accessing bean properties",
+      "Tags": [
+        "jexl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758997/jexl-3-5-0-not-accessing-bean-properties"
+    }
+  ]
+}

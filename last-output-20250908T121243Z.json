@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-08T12:06:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T11:51:57Z",
+      "Title": "send message from a tonic stream",
+      "Tags": [
+        "rust",
+        "grpc",
+        "rust-tonic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758836/send-message-from-a-tonic-stream"
+    },
+    {
+      "Created": "2025-09-08T11:53:15Z",
+      "Title": "Is there a way for third-party apps to get the native macOS Help Viewer Table of Contents like apple built in app have in their helpbook?",
+      "Tags": [
+        "macos",
+        "apple-help"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758837/is-there-a-way-for-third-party-apps-to-get-the-native-macos-help-viewer-table-of"
+    },
+    {
+      "Created": "2025-09-08T11:58:45Z",
+      "Title": "parrot os swap memory",
+      "Tags": [
+        "linux",
+        "swapfile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758844/parrot-os-swap-memory"
+    },
+    {
+      "Created": "2025-09-08T11:59:43Z",
+      "Title": "Using RTK Query to create a library for calls to my API",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "rtk-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758845/using-rtk-query-to-create-a-library-for-calls-to-my-api"
+    },
+    {
+      "Created": "2025-09-08T12:01:03Z",
+      "Title": "Can\u2019t retrieve old leads via /form_id/leads since Saturday night \u2013 Error (#2) Service temporarily unavailable",
+      "Tags": [
+        "facebook-graph-api",
+        "metadata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758847/can-t-retrieve-old-leads-via-form-id-leads-since-saturday-night-error-2-se"
+    },
+    {
+      "Created": "2025-09-08T12:06:50Z",
+      "Title": "How to prevent my GitHub profile and repositories from appearing in Google search results?",
+      "Tags": [
+        "github",
+        "seo",
+        "google-search",
+        "privacy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758853/how-to-prevent-my-github-profile-and-repositories-from-appearing-in-google-searc"
+    },
+    {
+      "Created": "2025-09-08T12:06:59Z",
+      "Title": "TextOverflow not effective on multiline text",
+      "Tags": [
+        "flutter",
+        "overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758854/textoverflow-not-effective-on-multiline-text"
+    }
+  ]
+}

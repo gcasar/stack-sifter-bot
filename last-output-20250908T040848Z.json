@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-08T04:06:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T03:27:50Z",
+      "Title": "Why is requestAnimationFrame frame rate slow on Chrome on Android?",
+      "Tags": [
+        "google-chrome",
+        "frame-rate",
+        "requestanimationframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758481/why-is-requestanimationframe-frame-rate-slow-on-chrome-on-android"
+    },
+    {
+      "Created": "2025-09-08T03:29:59Z",
+      "Title": "What\u0027s keeping my 32-bit Windows icon overlay extension from loading?",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "shell",
+        "32bit-64bit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758483/whats-keeping-my-32-bit-windows-icon-overlay-extension-from-loading"
+    },
+    {
+      "Created": "2025-09-08T03:56:01Z",
+      "Title": "In compound index, are missing in-between fields always translated to [MinKey, MaxKey] and is index usage guaranteed if the leading field is present?",
+      "Tags": [
+        "mongodb",
+        "mongodb-query",
+        "aggregation-framework",
+        "mongodb-indexes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758490/in-compound-index-are-missing-in-between-fields-always-translated-to-minkey-m"
+    },
+    {
+      "Created": "2025-09-08T04:06:36Z",
+      "Title": "How can flickery compositing be avoided with translucent layered windows?",
+      "Tags": [
+        "windows",
+        "winapi",
+        "transparency",
+        "dwm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758492/how-can-flickery-compositing-be-avoided-with-translucent-layered-windows"
+    }
+  ]
+}

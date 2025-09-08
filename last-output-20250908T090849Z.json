@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-08T08:57:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T08:21:50Z",
+      "Title": "How do I create and use a stack-allocated struct ending with a C99 flexible array member in C\u002B\u002B without undefined behaviour?",
+      "Tags": [
+        "c\u002B\u002B",
+        "undefined-behavior",
+        "c\u002B\u002B23",
+        "flexible-array-member",
+        "stack-allocation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758657/how-do-i-create-and-use-a-stack-allocated-struct-ending-with-a-c99-flexible-arra"
+    },
+    {
+      "Created": "2025-09-08T08:42:10Z",
+      "Title": "We need a fast sum of pairwise multiplications. python vector TORCH",
+      "Tags": [
+        "python",
+        "torch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758670/we-need-a-fast-sum-of-pairwise-multiplications-python-vector-torch"
+    },
+    {
+      "Created": "2025-09-08T08:49:17Z",
+      "Title": "How to model bidirectional association in SysML v2 textual notation?",
+      "Tags": [
+        "sysml2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758677/how-to-model-bidirectional-association-in-sysml-v2-textual-notation"
+    },
+    {
+      "Created": "2025-09-08T08:52:42Z",
+      "Title": "How to connect oracle database while using VB.Net 2019 in GUI",
+      "Tags": [
+        "string",
+        "vb.net",
+        "oracle10g"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758681/how-to-connect-oracle-database-while-using-vb-net-2019-in-gui"
+    },
+    {
+      "Created": "2025-09-08T08:57:17Z",
+      "Title": "Best Practice for Seeding Data in FastAPI Integration Tests: API Endpoint vs. Direct DB Insertion? [closed]",
+      "Tags": [
+        "python",
+        "pytest",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758683/best-practice-for-seeding-data-in-fastapi-integration-tests-api-endpoint-vs-di"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-08T08:07:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T07:57:42Z",
+      "Title": "How to make Jest depend on other test?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "unit-testing",
+        "jestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758632/how-to-make-jest-depend-on-other-test"
+    },
+    {
+      "Created": "2025-09-08T08:07:49Z",
+      "Title": "Installation of gcloudsdk using chocolatey started to fail probably due to CVE-2025-55188 in 7-zip",
+      "Tags": [
+        "chocolatey",
+        "google-cloud-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758642/installation-of-gcloudsdk-using-chocolatey-started-to-fail-probably-due-to-cve-2"
+    }
+  ]
+}

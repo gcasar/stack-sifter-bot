@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-08T21:58:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T21:05:46Z",
+      "Title": "How to create kwargs from tuple?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759341/how-to-create-kwargs-from-tuple"
+    },
+    {
+      "Created": "2025-09-08T21:41:49Z",
+      "Title": "iOS deep link parameter handling when app is not installed and user is redirected to App Store",
+      "Tags": [
+        "ios",
+        "app-store"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759354/ios-deep-link-parameter-handling-when-app-is-not-installed-and-user-is-redirecte"
+    },
+    {
+      "Created": "2025-09-08T21:43:11Z",
+      "Title": "Can Tanstack/React Query handle dynamic parallel queries that are computed based on earlier queries?",
+      "Tags": [
+        "react-query",
+        "tanstackreact-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759355/can-tanstack-react-query-handle-dynamic-parallel-queries-that-are-computed-based"
+    },
+    {
+      "Created": "2025-09-08T21:51:57Z",
+      "Title": "onChange in a Radix 3.x TextField.Root component",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "radix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759359/onchange-in-a-radix-3-x-textfield-root-component"
+    },
+    {
+      "Created": "2025-09-08T21:54:58Z",
+      "Title": "Remmina on WSL (Ubuntu) doesn\u0027t capture system keyboard events such as Alt\u002BTab",
+      "Tags": [
+        "ubuntu",
+        "windows-subsystem-for-linux",
+        "remote-desktop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759362/remmina-on-wsl-ubuntu-doesnt-capture-system-keyboard-events-such-as-alttab"
+    },
+    {
+      "Created": "2025-09-08T21:57:13Z",
+      "Title": "How to pass Git metadata and environment variables securely from Bash to Python when building Docker images in GitHub Actions?",
+      "Tags": [
+        "python",
+        "bash",
+        "docker",
+        "github-actions",
+        "devops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759363/how-to-pass-git-metadata-and-environment-variables-securely-from-bash-to-python"
+    },
+    {
+      "Created": "2025-09-08T21:58:10Z",
+      "Title": "Function templates leave out debug lines",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759365/function-templates-leave-out-debug-lines"
+    }
+  ]
+}

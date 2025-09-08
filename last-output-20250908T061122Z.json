@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-08T06:06:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T05:15:53Z",
+      "Title": "Failed compilation of c\u002B\u002B20 module on MSVC",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B",
+        "c\u002B\u002B-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758520/failed-compilation-of-c20-module-on-msvc"
+    },
+    {
+      "Created": "2025-09-08T05:33:29Z",
+      "Title": "Angular 20 (SSR \u002B standalone) \u2013 @abacritt/angularx-social-login SocialAuthServiceConfig provider not found",
+      "Tags": [
+        "angular",
+        "angular-social-login"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758531/angular-20-ssr-standalone-abacritt-angularx-social-login-socialauthservic"
+    },
+    {
+      "Created": "2025-09-08T05:49:31Z",
+      "Title": "Is my Gray code solution wrong if it\u2019s mathematically valid but rejected by LeetCode? [closed]",
+      "Tags": [
+        "bit-manipulation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758538/is-my-gray-code-solution-wrong-if-it-s-mathematically-valid-but-rejected-by-leet"
+    },
+    {
+      "Created": "2025-09-08T05:50:31Z",
+      "Title": "FFmpeg libmp3lame conversion from WhatsApp .opus causes buzzing noise during silence",
+      "Tags": [
+        "ffmpeg",
+        "mp3",
+        "opus",
+        "fluent-ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758540/ffmpeg-libmp3lame-conversion-from-whatsapp-opus-causes-buzzing-noise-during-sil"
+    },
+    {
+      "Created": "2025-09-08T06:05:56Z",
+      "Title": "How to parse weighbridge data from RS232/COM port in .NET?",
+      "Tags": [
+        "php",
+        ".net",
+        "laravel",
+        "database",
+        "software-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758551/how-to-parse-weighbridge-data-from-rs232-com-port-in-net"
+    },
+    {
+      "Created": "2025-09-08T06:06:23Z",
+      "Title": "Woocommerce : Update attribute options from existing attribute",
+      "Tags": [
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758552/woocommerce-update-attribute-options-from-existing-attribute"
+    }
+  ]
+}

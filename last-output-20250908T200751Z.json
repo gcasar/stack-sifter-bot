@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-08T20:03:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T19:43:45Z",
+      "Title": "How to fix 404 error when deploying Node.js backend on Vercel with Vue frontend on Netlify?",
+      "Tags": [
+        "node.js",
+        "express",
+        "github",
+        "vuejs3",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759283/how-to-fix-404-error-when-deploying-node-js-backend-on-vercel-with-vue-frontend"
+    },
+    {
+      "Created": "2025-09-08T19:45:01Z",
+      "Title": "How to reference png files from different mount points in Docker/Portainer?",
+      "Tags": [
+        "docker",
+        "volumes",
+        "portainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759284/how-to-reference-png-files-from-different-mount-points-in-docker-portainer"
+    },
+    {
+      "Created": "2025-09-08T19:45:28Z",
+      "Title": "Understanding reduce operations in PyTorch and autodiff. Confused on Operation tracking",
+      "Tags": [
+        "c\u002B\u002B",
+        "pytorch",
+        "autodiff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759285/understanding-reduce-operations-in-pytorch-and-autodiff-confused-on-operation-t"
+    },
+    {
+      "Created": "2025-09-08T19:56:42Z",
+      "Title": "Does Emacs/Elisp provide a way to automatically add an elisp standalone program directory to load-path?",
+      "Tags": [
+        "elisp",
+        "load-path"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759292/does-emacs-elisp-provide-a-way-to-automatically-add-an-elisp-standalone-program"
+    },
+    {
+      "Created": "2025-09-08T20:03:21Z",
+      "Title": "Moving a row with specific data in a column to another location in sheet",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759300/moving-a-row-with-specific-data-in-a-column-to-another-location-in-sheet"
+    }
+  ]
+}

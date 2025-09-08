@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-08T10:05:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T09:54:12Z",
+      "Title": "Is there an equivalent java/android lint to the clippy::disallowed_methods lint in rust?",
+      "Tags": [
+        "java",
+        "android",
+        "lint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758732/is-there-an-equivalent-java-android-lint-to-the-clippydisallowed-methods-lint"
+    },
+    {
+      "Created": "2025-09-08T09:57:00Z",
+      "Title": "NVIDIA Jetson: DNS resolution failing [closed]",
+      "Tags": [
+        "ubuntu",
+        "nvidia-jetson"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758734/nvidia-jetson-dns-resolution-failing"
+    },
+    {
+      "Created": "2025-09-08T10:00:51Z",
+      "Title": "Error when trying to access data in h5 file using h5py",
+      "Tags": [
+        "python",
+        "hdf5",
+        "h5py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758737/error-when-trying-to-access-data-in-h5-file-using-h5py"
+    },
+    {
+      "Created": "2025-09-08T10:05:49Z",
+      "Title": "Nginx Proxy manager returns 502 Bad Gateway for n8n container",
+      "Tags": [
+        "jwilder-nginx-proxy",
+        "n8n"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758741/nginx-proxy-manager-returns-502-bad-gateway-for-n8n-container"
+    }
+  ]
+}

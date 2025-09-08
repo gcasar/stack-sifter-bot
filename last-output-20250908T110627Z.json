@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-08T11:04:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T10:22:49Z",
+      "Title": "Magento 2.4.7-p5 \u2013 Elasticsearch search not working when query contains common words like \u201Cof\u0022 (e.g. \u0022rios of mercedes\u0022)",
+      "Tags": [
+        "elasticsearch",
+        "magento",
+        "search",
+        "full-text-search",
+        "magento2.4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758756/magento-2-4-7-p5-elasticsearch-search-not-working-when-query-contains-common-w"
+    },
+    {
+      "Created": "2025-09-08T10:50:51Z",
+      "Title": "How to remove automatic table labels when using kable and bookdown for HTML",
+      "Tags": [
+        "r",
+        "bookdown",
+        "kable",
+        "kableextra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758789/how-to-remove-automatic-table-labels-when-using-kable-and-bookdown-for-html"
+    },
+    {
+      "Created": "2025-09-08T10:52:01Z",
+      "Title": "Why does pyautogui.write() skip Polish characters like \u0022\u015B\u0022 , \u0022\u0105\u0022 when typing into Windows apps?",
+      "Tags": [
+        "python",
+        "windows",
+        "pyautogui",
+        "rpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758790/why-does-pyautogui-write-skip-polish-characters-like-%c5%9b-%c4%85-when-typing-int"
+    },
+    {
+      "Created": "2025-09-08T11:01:03Z",
+      "Title": "Package extRemes: can I fix the shape parameter in function FEVD?",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758798/package-extremes-can-i-fix-the-shape-parameter-in-function-fevd"
+    },
+    {
+      "Created": "2025-09-08T11:01:05Z",
+      "Title": "Need guidance on better point pattern matching approach for gis datasets",
+      "Tags": [
+        "pattern-matching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758799/need-guidance-on-better-point-pattern-matching-approach-for-gis-datasets"
+    },
+    {
+      "Created": "2025-09-08T11:01:34Z",
+      "Title": "Where should I run git init in a Visual Studio 2022 project with nested folders?",
+      "Tags": [
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758801/where-should-i-run-git-init-in-a-visual-studio-2022-project-with-nested-folders"
+    },
+    {
+      "Created": "2025-09-08T11:02:33Z",
+      "Title": "Nginx location matching after rewrite...last: Why is a nested location chosen over a global regex?",
+      "Tags": [
+        "php",
+        "nginx",
+        "nginx-config",
+        "nginx-location",
+        "nginx-rewrite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758804/nginx-location-matching-after-rewrite-last-why-is-a-nested-location-chosen-ov"
+    },
+    {
+      "Created": "2025-09-08T11:03:24Z",
+      "Title": "Trying to reduce the verboseness of __post_init__ in a python dataclass",
+      "Tags": [
+        "python",
+        "enums",
+        "python-dataclasses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758806/trying-to-reduce-the-verboseness-of-post-init-in-a-python-dataclass"
+    },
+    {
+      "Created": "2025-09-08T11:04:19Z",
+      "Title": "How to add rows to a relationship phantom table in EF core",
+      "Tags": [
+        "asp.net",
+        "sql-server",
+        "entity-framework",
+        "dbcontext",
+        "user-roles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758807/how-to-add-rows-to-a-relationship-phantom-table-in-ef-core"
+    }
+  ]
+}

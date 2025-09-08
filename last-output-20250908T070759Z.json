@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-08T07:03:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T06:46:40Z",
+      "Title": "UIKit: How to switch main content to a \u201Csearch state\u201D view when the search bar becomes active (no blur/dim)?",
+      "Tags": [
+        "ios",
+        "swift",
+        "uiviewcontroller",
+        "uikit",
+        "uisearchcontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758586/uikit-how-to-switch-main-content-to-a-search-state-view-when-the-search-bar-b"
+    },
+    {
+      "Created": "2025-09-08T06:59:54Z",
+      "Title": "iOS custom page control with Instagram-style scrubbing for posts",
+      "Tags": [
+        "ios",
+        "swift",
+        "scrollview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758599/ios-custom-page-control-with-instagram-style-scrubbing-for-posts"
+    },
+    {
+      "Created": "2025-09-08T07:03:17Z",
+      "Title": "react native youtube live stream unable to detect camera error",
+      "Tags": [
+        "react-native",
+        "youtube-api",
+        "android-youtube-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758601/react-native-youtube-live-stream-unable-to-detect-camera-error"
+    },
+    {
+      "Created": "2025-09-08T07:03:54Z",
+      "Title": "How to install @nodert-win10-rs4/windows.devices.geolocation in Node 18 / Electron 29 with Cordova-Electron on Windows?",
+      "Tags": [
+        "cordova",
+        "electron",
+        "c\u002B\u002B-winrt",
+        "node-windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79758602/how-to-install-nodert-win10-rs4-windows-devices-geolocation-in-node-18-electr"
+    }
+  ]
+}

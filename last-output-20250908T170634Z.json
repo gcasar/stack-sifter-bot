@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-08T16:51:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T16:34:26Z",
+      "Title": "Query AI Foundry Data Agent from Python and receive a response",
+      "Tags": [
+        "python",
+        "azure-sdk",
+        "azure-ai-foundry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759150/query-ai-foundry-data-agent-from-python-and-receive-a-response"
+    },
+    {
+      "Created": "2025-09-08T16:34:31Z",
+      "Title": "PowerPoint VBA - Display the Icons Task Pane on macOS",
+      "Tags": [
+        "vba",
+        "macos",
+        "powerpoint",
+        "powerpoint-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759151/powerpoint-vba-display-the-icons-task-pane-on-macos"
+    },
+    {
+      "Created": "2025-09-08T16:37:52Z",
+      "Title": "Finding XCB Shipped with a Fully Self Contained QT Project",
+      "Tags": [
+        "qt",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759153/finding-xcb-shipped-with-a-fully-self-contained-qt-project"
+    },
+    {
+      "Created": "2025-09-08T16:47:57Z",
+      "Title": "Run Pyshark on TCP Port interface?",
+      "Tags": [
+        "python",
+        "ubuntu",
+        "tcp",
+        "tshark",
+        "pyshark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759159/run-pyshark-on-tcp-port-interface"
+    },
+    {
+      "Created": "2025-09-08T16:48:17Z",
+      "Title": "Is it antipattern to rely on environment variables to hold credentials for the whole pipeline?",
+      "Tags": [
+        "azure",
+        "continuous-integration",
+        "devops",
+        "pipeline",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759160/is-it-antipattern-to-rely-on-environment-variables-to-hold-credentials-for-the-w"
+    },
+    {
+      "Created": "2025-09-08T16:51:48Z",
+      "Title": "How do I fetch a private repository in a public repo\u0027s GitHub workflow?",
+      "Tags": [
+        "git",
+        "github",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759162/how-do-i-fetch-a-private-repository-in-a-public-repos-github-workflow"
+    }
+  ]
+}

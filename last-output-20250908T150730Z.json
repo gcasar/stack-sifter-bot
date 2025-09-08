@@ -1,0 +1,129 @@
+{
+  "TotalProcessed": 12,
+  "LastCreated": "2025-09-08T15:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T14:18:47Z",
+      "Title": "asp. net shared Identity Authentication for mvc and web api projects",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "identity",
+        "webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759011/asp-net-shared-identity-authentication-for-mvc-and-web-api-projects"
+    },
+    {
+      "Created": "2025-09-08T14:37:47Z",
+      "Title": "function outputs a different value",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759035/function-outputs-a-different-value"
+    },
+    {
+      "Created": "2025-09-08T14:50:20Z",
+      "Title": "C\u002B\u002B Graphics Web Library [closed]",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759046/c-graphics-web-library"
+    },
+    {
+      "Created": "2025-09-08T14:54:30Z",
+      "Title": "Making an extra step to register system on MongoDB, need help in planning the process",
+      "Tags": [
+        "node.js",
+        "mongodb",
+        "express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759051/making-an-extra-step-to-register-system-on-mongodb-need-help-in-planning-the-pr"
+    },
+    {
+      "Created": "2025-09-08T14:54:50Z",
+      "Title": "HorizontalPager page disappearing effect",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "horizontal-pager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759053/horizontalpager-page-disappearing-effect"
+    },
+    {
+      "Created": "2025-09-08T14:54:54Z",
+      "Title": "HTU2X sensor not successful with getting data",
+      "Tags": [
+        "c\u002B\u002B",
+        "embedded",
+        "stm32",
+        "sensors",
+        "stm32cubeide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759054/htu2x-sensor-not-successful-with-getting-data"
+    },
+    {
+      "Created": "2025-09-08T14:56:52Z",
+      "Title": "sed failing to detect combination of literal and escape characters",
+      "Tags": [
+        "regex",
+        "sed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759056/sed-failing-to-detect-combination-of-literal-and-escape-characters"
+    },
+    {
+      "Created": "2025-09-08T15:00:02Z",
+      "Title": "Django, xhtml2pdf cannot add to canvas properties",
+      "Tags": [
+        "django",
+        "graphics",
+        "xhtml2pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759057/django-xhtml2pdf-cannot-add-to-canvas-properties"
+    },
+    {
+      "Created": "2025-09-08T15:00:05Z",
+      "Title": "How to avoid tsoa requiring a property that is internally set in subclass",
+      "Tags": [
+        "typescript",
+        "express",
+        "inheritance",
+        "tsoa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759058/how-to-avoid-tsoa-requiring-a-property-that-is-internally-set-in-subclass"
+    },
+    {
+      "Created": "2025-09-08T15:00:26Z",
+      "Title": "Remapping SQL agent\u0027s query response to the original table/column names",
+      "Tags": [
+        "python",
+        "nlp",
+        "artificial-intelligence",
+        "sql-agent",
+        "llm-sql-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759059/remapping-sql-agents-query-response-to-the-original-table-column-names"
+    },
+    {
+      "Created": "2025-09-08T15:01:18Z",
+      "Title": "How to automate interactions with a Tkinter app without modifying its source code?",
+      "Tags": [
+        "python",
+        "tkinter",
+        "automation",
+        "ui-automation",
+        "pywinauto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759062/how-to-automate-interactions-with-a-tkinter-app-without-modifying-its-source-cod"
+    },
+    {
+      "Created": "2025-09-08T15:04:07Z",
+      "Title": "Create scheduled task on vcenter with Ansible",
+      "Tags": [
+        "ansible",
+        "vmware",
+        "vcenter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759066/create-scheduled-task-on-vcenter-with-ansible"
+    }
+  ]
+}

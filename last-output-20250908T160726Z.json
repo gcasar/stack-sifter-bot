@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-08T16:00:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-08T15:22:45Z",
+      "Title": "Is there a way to create a new encrypted drive or storage container for a specific Windows User? I have tried creating it using VHDX, RamDisk etc",
+      "Tags": [
+        "c#",
+        ".net",
+        "desktop-application",
+        "uwf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759084/is-there-a-way-to-create-a-new-encrypted-drive-or-storage-container-for-a-specif"
+    },
+    {
+      "Created": "2025-09-08T15:37:45Z",
+      "Title": "How to let Gitlab/Langchain continue finding file?",
+      "Tags": [
+        "gitlab",
+        "kubernetes-helm",
+        "langchain",
+        "py-langchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759095/how-to-let-gitlab-langchain-continue-finding-file"
+    },
+    {
+      "Created": "2025-09-08T15:45:06Z",
+      "Title": "Niche optimization: why is \u0060size_of::\u003CResult\u003Cbool, bool\u003E\u003E()\u0060 2 instead of 1?",
+      "Tags": [
+        "rust",
+        "enums",
+        "bit-fields"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759105/niche-optimization-why-is-size-ofresultbool-bool-2-instead-of-1"
+    },
+    {
+      "Created": "2025-09-08T15:49:54Z",
+      "Title": "Keycloak Service On Windows",
+      "Tags": [
+        "keycloak",
+        "keycloak-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759112/keycloak-service-on-windows"
+    },
+    {
+      "Created": "2025-09-08T15:52:17Z",
+      "Title": "Conditional Argo Workflow Execution",
+      "Tags": [
+        "kubernetes",
+        "argo-workflows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759113/conditional-argo-workflow-execution"
+    },
+    {
+      "Created": "2025-09-08T15:53:22Z",
+      "Title": "Behind the Scenes of Spring Autowiring",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-bean"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759114/behind-the-scenes-of-spring-autowiring"
+    },
+    {
+      "Created": "2025-09-08T15:59:00Z",
+      "Title": "How to convert an arbitrary large integer from base 10 to base 16 in Forth?",
+      "Tags": [
+        "forth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759119/how-to-convert-an-arbitrary-large-integer-from-base-10-to-base-16-in-forth"
+    },
+    {
+      "Created": "2025-09-08T15:59:54Z",
+      "Title": "Cursor hotspot seems to be unchangeable - its always 32,32",
+      "Tags": [
+        "c#",
+        "windows",
+        "cursor",
+        "mouse-cursor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759120/cursor-hotspot-seems-to-be-unchangeable-its-always-32-32"
+    },
+    {
+      "Created": "2025-09-08T16:00:20Z",
+      "Title": "Headless in Pycharm doesnt work on background",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "pycharm",
+        "autotest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759121/headless-in-pycharm-doesnt-work-on-background"
+    }
+  ]
+}

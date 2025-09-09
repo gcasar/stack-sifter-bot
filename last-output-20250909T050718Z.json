@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-09T05:03:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T04:46:07Z",
+      "Title": "Azure Function App (Isolated) with Service Bus \u002B Managed Identity \u2192 Getting 401 Unauthorized",
+      "Tags": [
+        "azure",
+        "azureservicebus",
+        "azure-managed-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759503/azure-function-app-isolated-with-service-bus-managed-identity-%e2%86%92-getting-401"
+    },
+    {
+      "Created": "2025-09-09T05:03:25Z",
+      "Title": "AWS ALB not created after Helm rollback even though ingress exists",
+      "Tags": [
+        "kubernetes-helm",
+        "amazon-eks",
+        "aws-application-load-balancer",
+        "ingress-nginx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759508/aws-alb-not-created-after-helm-rollback-even-though-ingress-exists"
+    }
+  ]
+}

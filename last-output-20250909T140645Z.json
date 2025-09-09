@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-09T14:01:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T13:19:02Z",
+      "Title": "Pointer to struct declared inside class",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759908/pointer-to-struct-declared-inside-class"
+    },
+    {
+      "Created": "2025-09-09T13:49:04Z",
+      "Title": "Visual Studio debugger crashes when selecting IFormFile in Swagger UI",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "debugging",
+        "swagger",
+        "swagger-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759941/visual-studio-debugger-crashes-when-selecting-iformfile-in-swagger-ui"
+    },
+    {
+      "Created": "2025-09-09T13:49:57Z",
+      "Title": "Lambda Function to return bottom \u0022N\u0022 as part of larger formula",
+      "Tags": [
+        "excel",
+        "excel-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759943/lambda-function-to-return-bottom-n-as-part-of-larger-formula"
+    },
+    {
+      "Created": "2025-09-09T14:00:39Z",
+      "Title": "Correctly getting WorldWideName of SATA disk",
+      "Tags": [
+        "windows",
+        "kernel",
+        "storage",
+        "disk",
+        "ata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759954/correctly-getting-worldwidename-of-sata-disk"
+    },
+    {
+      "Created": "2025-09-09T14:01:15Z",
+      "Title": "How can developer resolve YouTube channel termination blocking Google Workspace Add-on OAuth verification, with all YT support inaccessible?",
+      "Tags": [
+        "google-api",
+        "youtube-api",
+        "google-oauth",
+        "google-workspace-add-ons"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759955/how-can-developer-resolve-youtube-channel-termination-blocking-google-workspace"
+    }
+  ]
+}

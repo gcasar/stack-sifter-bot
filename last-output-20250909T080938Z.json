@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-09T08:05:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T07:53:47Z",
+      "Title": "Mouse click and copy-paste not working on Xiaomi/Redmi device via USB debugging in Android Studio",
+      "Tags": [
+        "android-studio",
+        "miui",
+        "redmi-device"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759631/mouse-click-and-copy-paste-not-working-on-xiaomi-redmi-device-via-usb-debugging"
+    },
+    {
+      "Created": "2025-09-09T07:54:16Z",
+      "Title": "A/B testing extension for Joomla 5?",
+      "Tags": [
+        "joomla",
+        "ab-testing",
+        "abtest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759633/a-b-testing-extension-for-joomla-5"
+    },
+    {
+      "Created": "2025-09-09T08:04:53Z",
+      "Title": "I see excessive whitespace when i increase the height of Google reCAPTCHA in an iframe tag",
+      "Tags": [
+        "css",
+        "recaptcha",
+        "salesforce-lightning",
+        "removing-whitespace",
+        "recaptcha-enterprise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759641/i-see-excessive-whitespace-when-i-increase-the-height-of-google-recaptcha-in-an"
+    },
+    {
+      "Created": "2025-09-09T08:05:47Z",
+      "Title": "How to import an ssl certificate in a firefox profile programmatically using selenium",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "ssl",
+        "firefox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759644/how-to-import-an-ssl-certificate-in-a-firefox-profile-programmatically-using-sel"
+    }
+  ]
+}

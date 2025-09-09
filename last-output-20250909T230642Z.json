@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-09T22:47:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T22:26:08Z",
+      "Title": "Do I use the it wrong the conecpt behind notification with websockets? [closed]",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760329/do-i-use-the-it-wrong-the-conecpt-behind-notification-with-websockets"
+    },
+    {
+      "Created": "2025-09-09T22:32:16Z",
+      "Title": "Looking for some help to further understand and find a solution to completely avoid typecasts to solve MISRA-C wrong essential type warnings",
+      "Tags": [
+        "c",
+        "type-safety",
+        "misra",
+        "automotive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760333/looking-for-some-help-to-further-understand-and-find-a-solution-to-completely-av"
+    },
+    {
+      "Created": "2025-09-09T22:47:19Z",
+      "Title": "What is the correct way to use the Eval monad in haskell?",
+      "Tags": [
+        "haskell",
+        "parallel-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760337/what-is-the-correct-way-to-use-the-eval-monad-in-haskell"
+    }
+  ]
+}

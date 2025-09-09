@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-09T09:06:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T08:53:33Z",
+      "Title": "Altiris: Assesment of Software update task fails before the job starts [closed]",
+      "Tags": [
+        "system-administration",
+        "symantec",
+        "altiris"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759684/altiris-assesment-of-software-update-task-fails-before-the-job-starts"
+    },
+    {
+      "Created": "2025-09-09T08:57:10Z",
+      "Title": "python write file \u0022Encoding detection: utf_8 is most likely the one.\u0022",
+      "Tags": [
+        "python",
+        "utf-8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759686/python-write-file-encoding-detection-utf-8-is-most-likely-the-one"
+    },
+    {
+      "Created": "2025-09-09T08:59:12Z",
+      "Title": "Added userId property to Request object of Express using TS declaration merging but can\u0027t able to access it",
+      "Tags": [
+        "typescript",
+        "express",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759690/added-userid-property-to-request-object-of-express-using-ts-declaration-merging"
+    },
+    {
+      "Created": "2025-09-09T09:00:16Z",
+      "Title": "The image slider does not switch using the mouse or swipes",
+      "Tags": [
+        "javascript",
+        "css",
+        "slider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759692/the-image-slider-does-not-switch-using-the-mouse-or-swipes"
+    },
+    {
+      "Created": "2025-09-09T09:06:09Z",
+      "Title": "OIDC django-allauth - kid lookup uses x509 instead of jwk when upgraded to 65.11.0?",
+      "Tags": [
+        "django",
+        "single-sign-on",
+        "django-allauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759694/oidc-django-allauth-kid-lookup-uses-x509-instead-of-jwk-when-upgraded-to-65-11"
+    }
+  ]
+}

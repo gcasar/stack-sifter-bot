@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-09T21:03:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T20:31:43Z",
+      "Title": "Why does uninitialized char array produce garbage characters when printed without null terminator?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760265/why-does-uninitialized-char-array-produce-garbage-characters-when-printed-withou"
+    },
+    {
+      "Created": "2025-09-09T20:32:21Z",
+      "Title": "How to control hyperparameter within flax.nnx loss function using an optax.schedule?",
+      "Tags": [
+        "python",
+        "jax",
+        "flax",
+        "nnx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760266/how-to-control-hyperparameter-within-flax-nnx-loss-function-using-an-optax-sched"
+    },
+    {
+      "Created": "2025-09-09T20:37:46Z",
+      "Title": "Tailwind functional utilities",
+      "Tags": [
+        "animation",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760273/tailwind-functional-utilities"
+    },
+    {
+      "Created": "2025-09-09T20:43:35Z",
+      "Title": "The remainder of rounded integer root ( by GNU GMP ) is very huge",
+      "Tags": [
+        "c",
+        "linux",
+        "gcc",
+        "gmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760276/the-remainder-of-rounded-integer-root-by-gnu-gmp-is-very-huge"
+    },
+    {
+      "Created": "2025-09-09T21:01:24Z",
+      "Title": "The generated bare Vue app is accepting non-existing paths",
+      "Tags": [
+        "vue.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760286/the-generated-bare-vue-app-is-accepting-non-existing-paths"
+    },
+    {
+      "Created": "2025-09-09T21:02:00Z",
+      "Title": "3D -\u003E 2D with moving camera and moving point, camera not origin",
+      "Tags": [
+        "computer-vision",
+        "slam",
+        "video-tracking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760287/3d-2d-with-moving-camera-and-moving-point-camera-not-origin"
+    },
+    {
+      "Created": "2025-09-09T21:03:54Z",
+      "Title": "How to define params common to multiple themes in AgGrid?",
+      "Tags": [
+        "javascript",
+        "ag-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760289/how-to-define-params-common-to-multiple-themes-in-aggrid"
+    }
+  ]
+}

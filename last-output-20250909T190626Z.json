@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-09T18:55:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T18:40:11Z",
+      "Title": "AccessViolationException in unmanaged function call",
+      "Tags": [
+        "c#",
+        "c",
+        "unmanaged",
+        "managed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760185/accessviolationexception-in-unmanaged-function-call"
+    },
+    {
+      "Created": "2025-09-09T18:53:16Z",
+      "Title": "Why isn\u0027t my keras model throwing and error when different sizes are passed to the dense layer?",
+      "Tags": [
+        "tensorflow",
+        "machine-learning",
+        "keras",
+        "deep-learning",
+        "computer-vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760189/why-isnt-my-keras-model-throwing-and-error-when-different-sizes-are-passed-to-t"
+    },
+    {
+      "Created": "2025-09-09T18:54:44Z",
+      "Title": "How can I update billing cycles of existing PayPal plan?",
+      "Tags": [
+        "paypal",
+        "paypal-sandbox",
+        "paypal-subscriptions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760192/how-can-i-update-billing-cycles-of-existing-paypal-plan"
+    },
+    {
+      "Created": "2025-09-09T18:55:24Z",
+      "Title": "FeathersJS \u002B Knex \u002B MySQL: route works for /countries/fetch but fails for /leagues-fetch (possible DB schema mismatch?)",
+      "Tags": [
+        "mysql",
+        "node.js",
+        "knex.js",
+        "feathersjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760193/feathersjs-knex-mysql-route-works-for-countries-fetch-but-fails-for-leagu"
+    }
+  ]
+}

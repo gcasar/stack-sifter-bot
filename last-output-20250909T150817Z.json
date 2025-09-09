@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-09T15:06:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T14:44:55Z",
+      "Title": "Is there any other way to scrape data from twitter without snscrape [closed]",
+      "Tags": [
+        "python",
+        "twitter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759996/is-there-any-other-way-to-scrape-data-from-twitter-without-snscrape"
+    },
+    {
+      "Created": "2025-09-09T14:51:27Z",
+      "Title": "How to create persistent, programmatically-controlled content tags in PDF in Adobe Reader/Pro",
+      "Tags": [
+        "javascript",
+        "pdf",
+        "adobe",
+        "acrobat",
+        "acrobat-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760006/how-to-create-persistent-programmatically-controlled-content-tags-in-pdf-in-ado"
+    },
+    {
+      "Created": "2025-09-09T14:58:22Z",
+      "Title": "Sharing context across apps/packages in Turborepo",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "react-context",
+        "turborepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760013/sharing-context-across-apps-packages-in-turborepo"
+    },
+    {
+      "Created": "2025-09-09T15:00:00Z",
+      "Title": "why when adding a cron job , it doesn\u0027t work?",
+      "Tags": [
+        "python",
+        "django",
+        "docker",
+        "docker-compose",
+        "cron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760015/why-when-adding-a-cron-job-it-doesnt-work"
+    },
+    {
+      "Created": "2025-09-09T15:02:04Z",
+      "Title": "Vite keeps discovering more and more imports to optimize, e.g. a new mui icon import is found, how to prevent needing to reload?",
+      "Tags": [
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760016/vite-keeps-discovering-more-and-more-imports-to-optimize-e-g-a-new-mui-icon-im"
+    },
+    {
+      "Created": "2025-09-09T15:06:13Z",
+      "Title": "Prevent focus loss when selecting a dropdown option using an external keyboard on iOS",
+      "Tags": [
+        "html",
+        "ios",
+        "accessibility"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760018/prevent-focus-loss-when-selecting-a-dropdown-option-using-an-external-keyboard-o"
+    }
+  ]
+}

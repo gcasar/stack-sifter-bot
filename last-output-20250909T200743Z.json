@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-09T19:58:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T19:26:35Z",
+      "Title": "Why (-1 - int.MinValue) does not cause integer overflow?",
+      "Tags": [
+        "c#",
+        "integer-overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760216/why-1-int-minvalue-does-not-cause-integer-overflow"
+    },
+    {
+      "Created": "2025-09-09T19:58:16Z",
+      "Title": "Create Excel file off of unique name and policy numbers from another excel file with only those policy numbers per unique name",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760241/create-excel-file-off-of-unique-name-and-policy-numbers-from-another-excel-file"
+    }
+  ]
+}

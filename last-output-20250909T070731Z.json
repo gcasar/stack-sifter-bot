@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-09T07:02:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T06:49:39Z",
+      "Title": "Does Spring Authorization supports FAPI 2.0",
+      "Tags": [
+        "oauth-2.0",
+        "openid-connect",
+        "spring-authorization-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759578/does-spring-authorization-supports-fapi-2-0"
+    },
+    {
+      "Created": "2025-09-09T07:02:22Z",
+      "Title": "reack-slick for responsive screens",
+      "Tags": [
+        "reactjs",
+        "npm",
+        "responsive",
+        "react-slick",
+        "react-slideshow-image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759587/reack-slick-for-responsive-screens"
+    }
+  ]
+}

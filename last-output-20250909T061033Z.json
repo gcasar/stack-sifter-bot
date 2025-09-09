@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-09T05:58:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T05:12:33Z",
+      "Title": "Receiving run time error despite code working fine [closed]",
+      "Tags": [
+        "python",
+        "loops",
+        "cs50"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759513/receiving-run-time-error-despite-code-working-fine"
+    },
+    {
+      "Created": "2025-09-09T05:53:58Z",
+      "Title": "Jetpack Compose: Prevent parent recomposition when toggling visibility of a sibling composable",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759539/jetpack-compose-prevent-parent-recomposition-when-toggling-visibility-of-a-sibl"
+    },
+    {
+      "Created": "2025-09-09T05:58:33Z",
+      "Title": "How can screen reader users resume reading after closing a modal window?",
+      "Tags": [
+        "accessibility",
+        "focus",
+        "wai-aria",
+        "voiceover",
+        "screen-readers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759542/how-can-screen-reader-users-resume-reading-after-closing-a-modal-window"
+    }
+  ]
+}

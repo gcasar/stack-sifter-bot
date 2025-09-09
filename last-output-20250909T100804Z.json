@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-09T09:58:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T09:23:04Z",
+      "Title": "how to reach element inside nested closed shadow roots selenium/python",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "nested-loops",
+        "shadow-dom",
+        "cloudflare-turnstile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759709/how-to-reach-element-inside-nested-closed-shadow-roots-selenium-python"
+    },
+    {
+      "Created": "2025-09-09T09:53:40Z",
+      "Title": "Android app SuperNotCalledException crash when coming back from background",
+      "Tags": [
+        "android",
+        "firebase",
+        "kotlin",
+        "android-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759735/android-app-supernotcalledexception-crash-when-coming-back-from-background"
+    },
+    {
+      "Created": "2025-09-09T09:55:01Z",
+      "Title": "Variable flow in parallel execution of AWS step function",
+      "Tags": [
+        "aws-step-functions",
+        "parallel-execution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759737/variable-flow-in-parallel-execution-of-aws-step-function"
+    },
+    {
+      "Created": "2025-09-09T09:56:55Z",
+      "Title": "Get dataframe of observations dropped in estimates",
+      "Tags": [
+        "r",
+        "regression",
+        "missing-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759738/get-dataframe-of-observations-dropped-in-estimates"
+    },
+    {
+      "Created": "2025-09-09T09:58:48Z",
+      "Title": "How to dissect 5G RRC L3 messsages from L1 packets Tx_Data.request (FAPI logs) in wireshark using a custom dissector DLL?",
+      "Tags": [
+        "c",
+        "pcap",
+        "nmake",
+        "wireshark-dissector",
+        "5g"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759739/how-to-dissect-5g-rrc-l3-messsages-from-l1-packets-tx-data-request-fapi-logs-i"
+    }
+  ]
+}

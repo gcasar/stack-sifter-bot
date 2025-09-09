@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-09T16:57:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T16:24:21Z",
+      "Title": "Use springboot ConfigurationProperties in hibernate entity subselect",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "hibernate",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760088/use-springboot-configurationproperties-in-hibernate-entity-subselect"
+    },
+    {
+      "Created": "2025-09-09T16:28:34Z",
+      "Title": "Is there any other approach to update or chunk to populate a new column with millions rows?",
+      "Tags": [
+        "php",
+        "laravel",
+        "performance",
+        "populate",
+        "database-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760094/is-there-any-other-approach-to-update-or-chunk-to-populate-a-new-column-with-mil"
+    },
+    {
+      "Created": "2025-09-09T16:44:15Z",
+      "Title": "Highcharts y axis label format not working",
+      "Tags": [
+        "highcharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760101/highcharts-y-axis-label-format-not-working"
+    },
+    {
+      "Created": "2025-09-09T16:57:01Z",
+      "Title": "How to customize timestamp in pattern formatter of jboss/wildfly logging in microseconds",
+      "Tags": [
+        "apache",
+        "logging",
+        "jboss",
+        "wildfly",
+        "elytron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760115/how-to-customize-timestamp-in-pattern-formatter-of-jboss-wildfly-logging-in-micr"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-09T11:04:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T10:06:13Z",
+      "Title": "C# explicit type conversion (cast) [duplicate]",
+      "Tags": [
+        "c#",
+        "casting",
+        "downcast",
+        "explicit-conversion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759746/c-sharp-explicit-type-conversion-cast"
+    },
+    {
+      "Created": "2025-09-09T11:00:06Z",
+      "Title": "Prestashop 8/9 behind reverse proxy with SSL",
+      "Tags": [
+        "ssl",
+        "prestashop",
+        "reverse-proxy",
+        "k0s"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759801/prestashop-8-9-behind-reverse-proxy-with-ssl"
+    },
+    {
+      "Created": "2025-09-09T11:04:53Z",
+      "Title": "SAML attribute for SaaS apps",
+      "Tags": [
+        "single-sign-on",
+        "documentation",
+        "saml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759807/saml-attribute-for-saas-apps"
+    }
+  ]
+}

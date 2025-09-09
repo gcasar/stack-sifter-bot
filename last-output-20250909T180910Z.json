@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-09T18:00:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T17:33:06Z",
+      "Title": "Vuetify 3: Custom breakpoints not working",
+      "Tags": [
+        "vuetify.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760141/vuetify-3-custom-breakpoints-not-working"
+    },
+    {
+      "Created": "2025-09-09T17:34:31Z",
+      "Title": "Why std::set::contains() calls the spaceship operator twice on a target element?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "spaceship-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760145/why-stdsetcontains-calls-the-spaceship-operator-twice-on-a-target-element"
+    },
+    {
+      "Created": "2025-09-09T17:43:28Z",
+      "Title": "JasperReports: Subreport printing only from the second page",
+      "Tags": [
+        "java",
+        "jasper-reports",
+        "report",
+        "ireport",
+        "jaspersoft-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760148/jasperreports-subreport-printing-only-from-the-second-page"
+    },
+    {
+      "Created": "2025-09-09T17:48:36Z",
+      "Title": "Angular SSR with .NET 8 API hosted on IIS \u2013 site sometimes slow to load even with normal CPU/Memory",
+      "Tags": [
+        "angular",
+        "iis",
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760150/angular-ssr-with-net-8-api-hosted-on-iis-site-sometimes-slow-to-load-even-wit"
+    },
+    {
+      "Created": "2025-09-09T17:49:46Z",
+      "Title": "Non Existing URLS are Showing My Home Page Content instead of 404 error",
+      "Tags": [
+        ".htaccess",
+        "http-status-code-404"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760151/non-existing-urls-are-showing-my-home-page-content-instead-of-404-error"
+    },
+    {
+      "Created": "2025-09-09T18:00:16Z",
+      "Title": "WPF main function becomes MTA when made async",
+      "Tags": [
+        ".net",
+        "wpf",
+        "asynchronous"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760157/wpf-main-function-becomes-mta-when-made-async"
+    }
+  ]
+}

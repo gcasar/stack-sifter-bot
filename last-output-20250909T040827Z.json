@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-09T03:50:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T03:43:43Z",
+      "Title": "Need help running Python script to fetch betting data from MySQL and calculate payouts \u2014 connection/config included",
+      "Tags": [
+        "python",
+        "sql",
+        "mysql",
+        "database",
+        "mysql-connector-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759486/need-help-running-python-script-to-fetch-betting-data-from-mysql-and-calculate-p"
+    },
+    {
+      "Created": "2025-09-09T03:50:11Z",
+      "Title": "How to implement mod for floating point type that is accurate even if given value is extremely large?",
+      "Tags": [
+        "c\u002B\u002B",
+        "precision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759490/how-to-implement-mod-for-floating-point-type-that-is-accurate-even-if-given-valu"
+    }
+  ]
+}

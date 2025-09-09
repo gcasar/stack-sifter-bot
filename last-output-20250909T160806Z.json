@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-09T16:01:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T15:23:09Z",
+      "Title": "Azure Devops Test Plan \u0027Run for Web Application\u0027 option fails to trigger associated build or release pipeline",
+      "Tags": [
+        "azure",
+        "testing",
+        "devops",
+        "pipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760041/azure-devops-test-plan-run-for-web-application-option-fails-to-trigger-associa"
+    },
+    {
+      "Created": "2025-09-09T15:52:24Z",
+      "Title": "Why doesn\u2019t the Google Cloud Identity Policy API reflect changes to password settings like max length?",
+      "Tags": [
+        "google-cloud-platform",
+        "google-workspace",
+        "google-cloud-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760063/why-doesn-t-the-google-cloud-identity-policy-api-reflect-changes-to-password-set"
+    },
+    {
+      "Created": "2025-09-09T15:56:22Z",
+      "Title": "The fastest way to find a record using a select query",
+      "Tags": [
+        "php",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760071/the-fastest-way-to-find-a-record-using-a-select-query"
+    },
+    {
+      "Created": "2025-09-09T16:01:19Z",
+      "Title": "CUDA synchronization issues",
+      "Tags": [
+        "c\u002B\u002B",
+        "cuda",
+        "synchronization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760075/cuda-synchronization-issues"
+    }
+  ]
+}

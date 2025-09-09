@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-09T11:54:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T11:13:56Z",
+      "Title": "how to trim, substring and make capital letters in a column",
+      "Tags": [
+        "sql",
+        "substring",
+        "oracle-apex",
+        "apex",
+        "trim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759817/how-to-trim-substring-and-make-capital-letters-in-a-column"
+    },
+    {
+      "Created": "2025-09-09T11:17:26Z",
+      "Title": "How to implement multiple JSON-LD schema types for a company website? [closed]",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "schema.org",
+        "structured-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759818/how-to-implement-multiple-json-ld-schema-types-for-a-company-website"
+    },
+    {
+      "Created": "2025-09-09T11:54:16Z",
+      "Title": "\u0027translate\u0027 is deprecated and shouldn\u0027t be used. Use translateByVector3, translateByVector4, or translateByDouble instead",
+      "Tags": [
+        "flutter",
+        "user-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79759859/translate-is-deprecated-and-shouldnt-be-used-use-translatebyvector3-transla"
+    }
+  ]
+}

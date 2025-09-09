@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-09T22:00:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-09T21:38:40Z",
+      "Title": "Avoid garbage when using atoms",
+      "Tags": [
+        "clojure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760304/avoid-garbage-when-using-atoms"
+    },
+    {
+      "Created": "2025-09-09T21:50:32Z",
+      "Title": "Execute SSIS package via SQL Server script",
+      "Tags": [
+        "sql-server",
+        "ssis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760311/execute-ssis-package-via-sql-server-script"
+    },
+    {
+      "Created": "2025-09-09T21:56:51Z",
+      "Title": "How to redirect based on start prefix and add content to the final URL using .htaccess?",
+      "Tags": [
+        ".htaccess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760317/how-to-redirect-based-on-start-prefix-and-add-content-to-the-final-url-using-ht"
+    },
+    {
+      "Created": "2025-09-09T22:00:19Z",
+      "Title": "How do I configure an existing tomcat 7 web application to use a postgres database pool",
+      "Tags": [
+        "database",
+        "postgresql",
+        "tomcat",
+        "connection-pooling",
+        "castor-jdo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760320/how-do-i-configure-an-existing-tomcat-7-web-application-to-use-a-postgres-databa"
+    }
+  ]
+}

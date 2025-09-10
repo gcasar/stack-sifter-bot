@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-10T06:54:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T06:42:24Z",
+      "Title": "After update nodejs, errors in async functions always crash the whole program",
+      "Tags": [
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760538/after-update-nodejs-errors-in-async-functions-always-crash-the-whole-program"
+    },
+    {
+      "Created": "2025-09-10T06:42:26Z",
+      "Title": "Alternative to ICEfaces that supports Jakarta namespace for migration to Spring 6",
+      "Tags": [
+        "jsf",
+        "jakarta-ee",
+        "migration",
+        "icefaces",
+        "spring6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760539/alternative-to-icefaces-that-supports-jakarta-namespace-for-migration-to-spring"
+    },
+    {
+      "Created": "2025-09-10T06:49:04Z",
+      "Title": "AudioKit Mixer().removeAllInputs crash if add a drywetmixer as input",
+      "Tags": [
+        "audiokit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760545/audiokit-mixer-removeallinputs-crash-if-add-a-drywetmixer-as-input"
+    },
+    {
+      "Created": "2025-09-10T06:54:44Z",
+      "Title": "Security issue with a WordPress plugin.plugin writes a log file to the uploads folder, which is publicly accessible via the browser on Nginx servers",
+      "Tags": [
+        "php",
+        "wordpress",
+        "plugins",
+        "wordpress-theming",
+        "redirection-wordpress-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760551/security-issue-with-a-wordpress-plugin-plugin-writes-a-log-file-to-the-uploads-f"
+    }
+  ]
+}

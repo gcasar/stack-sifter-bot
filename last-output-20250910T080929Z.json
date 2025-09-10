@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-10T07:50:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T07:40:35Z",
+      "Title": "How does the Dawn theme update the cart drawer when adding a product via a custom button? [closed]",
+      "Tags": [
+        "javascript",
+        "shopify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760582/how-does-the-dawn-theme-update-the-cart-drawer-when-adding-a-product-via-a-custo"
+    },
+    {
+      "Created": "2025-09-10T07:50:09Z",
+      "Title": "How to handle multi-valued URL parameters in a Perl CGI script (looking for a missing parameter)?",
+      "Tags": [
+        "perl",
+        "cgi",
+        "url-parameters"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760589/how-to-handle-multi-valued-url-parameters-in-a-perl-cgi-script-looking-for-a-mi"
+    }
+  ]
+}

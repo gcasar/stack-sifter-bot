@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-10T11:01:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T10:42:42Z",
+      "Title": "C\u002B\u002B Template Function Ambiguity for Wrapper Type Specialization",
+      "Tags": [
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760754/c-template-function-ambiguity-for-wrapper-type-specialization"
+    },
+    {
+      "Created": "2025-09-10T10:47:18Z",
+      "Title": "How to store a command line with arguments in a PowerShell variable",
+      "Tags": [
+        "powershell",
+        "signtool"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760758/how-to-store-a-command-line-with-arguments-in-a-powershell-variable"
+    },
+    {
+      "Created": "2025-09-10T10:47:28Z",
+      "Title": "Flutter non-overlapping transparent slivers",
+      "Tags": [
+        "flutter",
+        "slivers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760759/flutter-non-overlapping-transparent-slivers"
+    },
+    {
+      "Created": "2025-09-10T10:49:15Z",
+      "Title": "Loading data with api calls before all components load",
+      "Tags": [
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760760/loading-data-with-api-calls-before-all-components-load"
+    },
+    {
+      "Created": "2025-09-10T11:01:55Z",
+      "Title": "How to use an Intune-delivered SCEP certificate for mTLS in iOS app using URLSessionDelegate?",
+      "Tags": [
+        "ios",
+        "swift",
+        "urlsession",
+        "intune"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760768/how-to-use-an-intune-delivered-scep-certificate-for-mtls-in-ios-app-using-urlses"
+    }
+  ]
+}

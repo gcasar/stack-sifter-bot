@@ -1,0 +1,106 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-10T14:03:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T13:41:23Z",
+      "Title": "How do I revert to the old style of matplotlib.pyplot?",
+      "Tags": [
+        "matplotlib",
+        "graph",
+        "matplotlib-basemap",
+        "matplotlibpyplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760929/how-do-i-revert-to-the-old-style-of-matplotlib-pyplot"
+    },
+    {
+      "Created": "2025-09-10T13:46:59Z",
+      "Title": "Why does the raw file fetched from GitHub through GET Request renders blank file when converted to Blob?",
+      "Tags": [
+        "javascript",
+        "github",
+        "github-api",
+        "raw-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760933/why-does-the-raw-file-fetched-from-github-through-get-request-renders-blank-file"
+    },
+    {
+      "Created": "2025-09-10T13:47:17Z",
+      "Title": "Handling Tips in Partial Payments with Square APIs",
+      "Tags": [
+        "square"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760935/handling-tips-in-partial-payments-with-square-apis"
+    },
+    {
+      "Created": "2025-09-10T13:49:11Z",
+      "Title": "Getting node related errors when using pptxgenjs latest version in NX Angular Microfrontend setup",
+      "Tags": [
+        "angular",
+        "webpack",
+        "webpack-module-federation",
+        "pptxgenjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760940/getting-node-related-errors-when-using-pptxgenjs-latest-version-in-nx-angular-mi"
+    },
+    {
+      "Created": "2025-09-10T13:49:44Z",
+      "Title": "Prevent session collision / override from cross-site requests when using SameSite=lax",
+      "Tags": [
+        "session",
+        "cookies",
+        "collision",
+        "samesite",
+        "cross-site"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760941/prevent-session-collision-override-from-cross-site-requests-when-using-samesit"
+    },
+    {
+      "Created": "2025-09-10T13:50:58Z",
+      "Title": "How to get sqlc to generate a slice of structs from more complex aggregated SQL query",
+      "Tags": [
+        "postgresql",
+        "go",
+        "sqlc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760943/how-to-get-sqlc-to-generate-a-slice-of-structs-from-more-complex-aggregated-sql"
+    },
+    {
+      "Created": "2025-09-10T13:54:48Z",
+      "Title": "SurveyJS - How to restrict a month input so users can\u2019t select a future month?",
+      "Tags": [
+        "surveyjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760944/surveyjs-how-to-restrict-a-month-input-so-users-can-t-select-a-future-month"
+    },
+    {
+      "Created": "2025-09-10T13:57:07Z",
+      "Title": "FFmpeg [7.1] fails compilation with cuda-toolkit [12.0]",
+      "Tags": [
+        "c\u002B\u002B",
+        "ffmpeg",
+        "cuda",
+        "nvidia",
+        "toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760949/ffmpeg-7-1-fails-compilation-with-cuda-toolkit-12-0"
+    },
+    {
+      "Created": "2025-09-10T14:02:28Z",
+      "Title": "Is there a fast way to sparsely read a network based file?",
+      "Tags": [
+        ".net",
+        "samba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760952/is-there-a-fast-way-to-sparsely-read-a-network-based-file"
+    },
+    {
+      "Created": "2025-09-10T14:03:56Z",
+      "Title": "OpenCMS custom group assignment",
+      "Tags": [
+        "opencms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760953/opencms-custom-group-assignment"
+    }
+  ]
+}

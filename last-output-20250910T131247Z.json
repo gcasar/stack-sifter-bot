@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-10T13:08:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T12:48:34Z",
+      "Title": "Is There any possible way for differentiating Microsoft notification mails from others",
+      "Tags": [
+        "email",
+        "sharepoint",
+        "outlook",
+        "microsoft-teams",
+        "email-headers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760881/is-there-any-possible-way-for-differentiating-microsoft-notification-mails-from"
+    },
+    {
+      "Created": "2025-09-10T12:52:26Z",
+      "Title": "Best practice for document.querySelector return type when element should always exist [closed]",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760883/best-practice-for-document-queryselector-return-type-when-element-should-always"
+    },
+    {
+      "Created": "2025-09-10T13:01:48Z",
+      "Title": "Android APK built with EAS Build cannot connect to local API server, but Expo Go works fine. How to fix network security? I have built a mobile with r",
+      "Tags": [
+        "android",
+        "reactjs",
+        "expo",
+        "apk",
+        "native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760888/android-apk-built-with-eas-build-cannot-connect-to-local-api-server-but-expo-go"
+    },
+    {
+      "Created": "2025-09-10T13:03:51Z",
+      "Title": "Asserting on JTable cell tooltips",
+      "Tags": [
+        "java",
+        "swing",
+        "assertj-swing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760890/asserting-on-jtable-cell-tooltips"
+    },
+    {
+      "Created": "2025-09-10T13:04:51Z",
+      "Title": "How do I use \u0060eval $(opam env)\u0060 with nushell?",
+      "Tags": [
+        "opam",
+        "nushell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760891/how-do-i-use-eval-opam-env-with-nushell"
+    },
+    {
+      "Created": "2025-09-10T13:08:42Z",
+      "Title": "Snowflake - Hash_agg comparaison issue",
+      "Tags": [
+        "hash",
+        "snowflake-cloud-data-platform",
+        "compare"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760895/snowflake-hash-agg-comparaison-issue"
+    }
+  ]
+}

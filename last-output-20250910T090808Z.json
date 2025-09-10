@@ -1,0 +1,105 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-10T09:04:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T08:13:32Z",
+      "Title": "Querying ApplicationInsights from C#",
+      "Tags": [
+        "azure-application-insights"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760607/querying-applicationinsights-from-c-sharp"
+    },
+    {
+      "Created": "2025-09-10T08:49:26Z",
+      "Title": "Using a service connection in Azure Custom Task",
+      "Tags": [
+        "azure",
+        "azure-devops",
+        "azure-pipelines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760646/using-a-service-connection-in-azure-custom-task"
+    },
+    {
+      "Created": "2025-09-10T08:53:59Z",
+      "Title": "Gremlin adding _1 to parameters",
+      "Tags": [
+        "graph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760651/gremlin-adding-1-to-parameters"
+    },
+    {
+      "Created": "2025-09-10T08:54:32Z",
+      "Title": "Creating a Line graph \u0026 Matrix showing % Difference from Previous Year, allowing for a filter on \u0022Country\u0022",
+      "Tags": [
+        "powerbi",
+        "dax",
+        "data-analysis",
+        "percentage",
+        "difference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760652/creating-a-line-graph-matrix-showing-difference-from-previous-year-allowing"
+    },
+    {
+      "Created": "2025-09-10T08:56:06Z",
+      "Title": "OpenCMS 19 custom group loader",
+      "Tags": [
+        "opencms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760653/opencms-19-custom-group-loader"
+    },
+    {
+      "Created": "2025-09-10T08:57:53Z",
+      "Title": "GitLab: Why am I pointing to the wrong Repository?",
+      "Tags": [
+        "go",
+        "gitlab",
+        "repository",
+        "gitlab-ci-runner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760655/gitlab-why-am-i-pointing-to-the-wrong-repository"
+    },
+    {
+      "Created": "2025-09-10T09:02:47Z",
+      "Title": "Check valid import with esm",
+      "Tags": [
+        "typescript",
+        "eslint",
+        "es6-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760657/check-valid-import-with-esm"
+    },
+    {
+      "Created": "2025-09-10T09:04:37Z",
+      "Title": "Why do I need Print statements in my Unit test?",
+      "Tags": [
+        "unit-testing",
+        "go",
+        "mocking",
+        "mqtt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760660/why-do-i-need-print-statements-in-my-unit-test"
+    },
+    {
+      "Created": "2025-09-10T09:04:45Z",
+      "Title": "Debugging vLLM with debugpy on WSL fails: AttributeError: module \u0027ray\u0027 has no attribute \u0027is_initialized\u0027",
+      "Tags": [
+        "python",
+        "windows-subsystem-for-linux",
+        "ray",
+        "vllm",
+        "debugpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760661/debugging-vllm-with-debugpy-on-wsl-fails-attributeerror-module-ray-has-no-at"
+    },
+    {
+      "Created": "2025-09-10T09:04:52Z",
+      "Title": "Azure Database for PostgreSQL Flexible Server \u2013 Succeeded Connections drop without increase in Failed Connections",
+      "Tags": [
+        "postgresql",
+        "azure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760662/azure-database-for-postgresql-flexible-server-succeeded-connections-drop-witho"
+    }
+  ]
+}

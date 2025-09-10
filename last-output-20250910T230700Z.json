@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-10T23:04:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T22:20:34Z",
+      "Title": "Is type punning in C\u002B\u002B20 via unions now legal for integral types?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761341/is-type-punning-in-c20-via-unions-now-legal-for-integral-types"
+    },
+    {
+      "Created": "2025-09-10T22:21:39Z",
+      "Title": "Ubuntu 22.04 Django cronjob - No MTA installed, discarding output - Error",
+      "Tags": [
+        "django",
+        "ubuntu",
+        "cron",
+        "cockpit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761342/ubuntu-22-04-django-cronjob-no-mta-installed-discarding-output-error"
+    },
+    {
+      "Created": "2025-09-10T22:22:42Z",
+      "Title": "What is the determinant tolerance for a matrix in function matlib::inv()?",
+      "Tags": [
+        "r",
+        "matrix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761343/what-is-the-determinant-tolerance-for-a-matrix-in-function-matlibinv"
+    },
+    {
+      "Created": "2025-09-10T22:25:07Z",
+      "Title": "BOOTLOADER custom",
+      "Tags": [
+        "bootloader",
+        "stm32f4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761347/bootloader-custom"
+    },
+    {
+      "Created": "2025-09-10T22:25:32Z",
+      "Title": "What is most used way to start Java App In Prod",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "maven",
+        "deployment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761348/what-is-most-used-way-to-start-java-app-in-prod"
+    },
+    {
+      "Created": "2025-09-10T22:36:10Z",
+      "Title": "Dereference iterator and then iterate over dereferenced value",
+      "Tags": [
+        "c\u002B\u002B",
+        "string",
+        "iterator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761350/dereference-iterator-and-then-iterate-over-dereferenced-value"
+    },
+    {
+      "Created": "2025-09-10T22:39:30Z",
+      "Title": "Which UML to choose?",
+      "Tags": [
+        "uml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761353/which-uml-to-choose"
+    },
+    {
+      "Created": "2025-09-10T23:04:09Z",
+      "Title": "How to provide structured JSON for MCP tool execute_commands in Google ADK?",
+      "Tags": [
+        "google-cloud-vertex-ai",
+        "google-agent-development-kit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761361/how-to-provide-structured-json-for-mcp-tool-execute-commands-in-google-adk"
+    }
+  ]
+}

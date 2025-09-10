@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-10T21:04:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T20:25:52Z",
+      "Title": "How to convert a Tailwind V3 custom variant with group-* to V4?",
+      "Tags": [
+        "html",
+        "css",
+        "tailwind-css",
+        "tailwind-css-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761267/how-to-convert-a-tailwind-v3-custom-variant-with-group-to-v4"
+    },
+    {
+      "Created": "2025-09-10T20:48:04Z",
+      "Title": "Bicep cosmosdb nosql fails with zone error but works via Portal",
+      "Tags": [
+        "azure-cosmosdb",
+        "azure-bicep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761280/bicep-cosmosdb-nosql-fails-with-zone-error-but-works-via-portal"
+    },
+    {
+      "Created": "2025-09-10T21:01:51Z",
+      "Title": "Problem with WDS when installing on PC any solution?",
+      "Tags": [
+        "windows-server-2019",
+        "wds"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761285/problem-with-wds-when-installing-on-pc-any-solution"
+    },
+    {
+      "Created": "2025-09-10T21:04:12Z",
+      "Title": "write_database(..., engine=\u0022adbc\u0022) with autocommit=False",
+      "Tags": [
+        "python",
+        "database",
+        "postgresql",
+        "python-polars",
+        "adbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761286/write-database-engine-adbc-with-autocommit-false"
+    },
+    {
+      "Created": "2025-09-10T21:04:17Z",
+      "Title": "Differentiable HSV to RGB Conversion",
+      "Tags": [
+        "pytorch",
+        "automatic-differentiation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761287/differentiable-hsv-to-rgb-conversion"
+    }
+  ]
+}

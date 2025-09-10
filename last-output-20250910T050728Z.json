@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-10T04:59:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T04:27:30Z",
+      "Title": "How can I subclass a JComobBox and handle events there but, have access to the top level class?",
+      "Tags": [
+        "events",
+        "subclass",
+        "jcombobox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760466/how-can-i-subclass-a-jcomobbox-and-handle-events-there-but-have-access-to-the-t"
+    },
+    {
+      "Created": "2025-09-10T04:29:19Z",
+      "Title": "How do I encrypt by index? ... or encrypt by pattern?",
+      "Tags": [
+        "python",
+        "encryption",
+        "cryptography",
+        "python-idle",
+        "caesar-cipher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760468/how-do-i-encrypt-by-index-or-encrypt-by-pattern"
+    },
+    {
+      "Created": "2025-09-10T04:42:12Z",
+      "Title": "The SAS program changed missing values \u200Bto 0 while using array functions",
+      "Tags": [
+        "arrays",
+        "sas",
+        "missing-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760472/the-sas-program-changed-missing-values-to-0-while-using-array-functions"
+    },
+    {
+      "Created": "2025-09-10T04:52:34Z",
+      "Title": "Razorpay webhook not triggering on Flask staging server (test mode)",
+      "Tags": [
+        "flask-sqlalchemy",
+        "webhooks",
+        "payment-gateway",
+        "razorpay"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760476/razorpay-webhook-not-triggering-on-flask-staging-server-test-mode"
+    },
+    {
+      "Created": "2025-09-10T04:54:49Z",
+      "Title": "How to exclude specific Outlook messages from tracking using Microsoft Graph API without breaking the thread?",
+      "Tags": [
+        "email",
+        "outlook",
+        "microsoft-graph-api",
+        "reply"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760478/how-to-exclude-specific-outlook-messages-from-tracking-using-microsoft-graph-api"
+    },
+    {
+      "Created": "2025-09-10T04:55:33Z",
+      "Title": "How to setup HashiCorp Vault on production environment?",
+      "Tags": [
+        "c#",
+        ".net",
+        "hashicorp-vault",
+        "vault"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760480/how-to-setup-hashicorp-vault-on-production-environment"
+    },
+    {
+      "Created": "2025-09-10T04:58:40Z",
+      "Title": "what is the point of adding a single quote in an SQL injection vulnerability in WHERE clause",
+      "Tags": [
+        "sql",
+        "security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760481/what-is-the-point-of-adding-a-single-quote-in-an-sql-injection-vulnerability-in"
+    },
+    {
+      "Created": "2025-09-10T04:59:58Z",
+      "Title": "It works for long hair but not for short hair",
+      "Tags": [
+        "python",
+        "if-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760482/it-works-for-long-hair-but-not-for-short-hair"
+    }
+  ]
+}

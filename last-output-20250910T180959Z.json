@@ -1,0 +1,107 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-10T18:06:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T17:11:34Z",
+      "Title": "Automatic Row in Table",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761118/automatic-row-in-table"
+    },
+    {
+      "Created": "2025-09-10T17:44:42Z",
+      "Title": "How to remove hyphens from a field in Azure Logic Apps Liquid transformation?",
+      "Tags": [
+        "azure",
+        "azure-logic-apps",
+        "liquid",
+        "dotliquid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761136/how-to-remove-hyphens-from-a-field-in-azure-logic-apps-liquid-transformation"
+    },
+    {
+      "Created": "2025-09-10T17:46:31Z",
+      "Title": "NextAuth (Auth.js v5 Beta) is building the callbackUrl using localhost:3000 in Production in Next.js v15.5",
+      "Tags": [
+        "reactjs",
+        "nginx",
+        "next.js",
+        "next-auth",
+        "auth.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761137/nextauth-auth-js-v5-beta-is-building-the-callbackurl-using-localhost3000-in-p"
+    },
+    {
+      "Created": "2025-09-10T17:49:12Z",
+      "Title": "Subdistribution hazards for outcome of interest versus competing event",
+      "Tags": [
+        "regression",
+        "hazard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761139/subdistribution-hazards-for-outcome-of-interest-versus-competing-event"
+    },
+    {
+      "Created": "2025-09-10T17:51:07Z",
+      "Title": "How to fix firebase firestore permission/rules error?",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "google-cloud-firestore",
+        "permissions",
+        "firebase-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761143/how-to-fix-firebase-firestore-permission-rules-error"
+    },
+    {
+      "Created": "2025-09-10T17:55:36Z",
+      "Title": "Upgrade Azure Search to Azure AI Search .NET SDK version 11 on .Net core 3.1",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure",
+        "azure-search-.net-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761147/upgrade-azure-search-to-azure-ai-search-net-sdk-version-11-on-net-core-3-1"
+    },
+    {
+      "Created": "2025-09-10T17:57:08Z",
+      "Title": "How to find columns not matching in Pandas Merge?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "merge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761149/how-to-find-columns-not-matching-in-pandas-merge"
+    },
+    {
+      "Created": "2025-09-10T18:01:24Z",
+      "Title": "CDROM Image to CF card? [closed]",
+      "Tags": [
+        "windows-xp",
+        "cd-rom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761152/cdrom-image-to-cf-card"
+    },
+    {
+      "Created": "2025-09-10T18:06:03Z",
+      "Title": "I struggle with a school exercice",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761155/i-struggle-with-a-school-exercice"
+    },
+    {
+      "Created": "2025-09-10T18:06:05Z",
+      "Title": "Sub or Function not defined\u0022 when trying to run a VBA",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761156/sub-or-function-not-defined-when-trying-to-run-a-vba"
+    }
+  ]
+}

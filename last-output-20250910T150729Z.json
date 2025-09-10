@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-10T14:57:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T14:08:36Z",
+      "Title": "Reverse a LINQ to Entities query?",
+      "Tags": [
+        "c#",
+        ".net",
+        "linq-to-entities"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760958/reverse-a-linq-to-entities-query"
+    },
+    {
+      "Created": "2025-09-10T14:26:27Z",
+      "Title": "Why does \u0060set -e\u0060 differ depending on how a called script fails?",
+      "Tags": [
+        "bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760969/why-does-set-e-differ-depending-on-how-a-called-script-fails"
+    },
+    {
+      "Created": "2025-09-10T14:49:08Z",
+      "Title": "Postgres not using index with varchar_pattern_ops for pattern matching query",
+      "Tags": [
+        "postgresql",
+        "indexing",
+        "pattern-matching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760989/postgres-not-using-index-with-varchar-pattern-ops-for-pattern-matching-query"
+    },
+    {
+      "Created": "2025-09-10T14:49:56Z",
+      "Title": "How do I program collatz in K in the code.golf environment?",
+      "Tags": [
+        "k"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760991/how-do-i-program-collatz-in-k-in-the-code-golf-environment"
+    },
+    {
+      "Created": "2025-09-10T14:57:16Z",
+      "Title": "How do I populate a final table with NULL if that field does not exist in a global temp table?",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760997/how-do-i-populate-a-final-table-with-null-if-that-field-does-not-exist-in-a-glob"
+    }
+  ]
+}

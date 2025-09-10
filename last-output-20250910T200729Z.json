@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-10T19:54:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T19:41:50Z",
+      "Title": "CreateProcess error=2, The system cannot find the file specified for ProcessBuilder even when setting working dir",
+      "Tags": [
+        "java",
+        "processbuilder",
+        "ioexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761234/createprocess-error-2-the-system-cannot-find-the-file-specified-for-processbuil"
+    },
+    {
+      "Created": "2025-09-10T19:45:45Z",
+      "Title": "Issue with running C/C\u002B\u002B with code runner on vscode",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "vscode-code-runner",
+        "coderunner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761239/issue-with-running-c-c-with-code-runner-on-vscode"
+    },
+    {
+      "Created": "2025-09-10T19:46:25Z",
+      "Title": "FIREBASE: referencing by SHA256 unique documentID vs. referencing by the field that generated the unique SHA256 unique documentID",
+      "Tags": [
+        "firebase",
+        "google-cloud-firestore",
+        "database-design",
+        "nosql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761240/firebase-referencing-by-sha256-unique-documentid-vs-referencing-by-the-field-t"
+    },
+    {
+      "Created": "2025-09-10T19:49:30Z",
+      "Title": "How to implement smooth TikTok/Instagram like video feed in Flutter with preloading and adaptive video quality?",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter",
+        "video",
+        "video-player"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761242/how-to-implement-smooth-tiktok-instagram-like-video-feed-in-flutter-with-preload"
+    },
+    {
+      "Created": "2025-09-10T19:54:57Z",
+      "Title": "Can I create a sphere in matplotlib with all inputs 3d (e.g. x**2 \u002B y**2 \u002B z**2 = 0)",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761246/can-i-create-a-sphere-in-matplotlib-with-all-inputs-3d-e-g-x2-y2-z2"
+    }
+  ]
+}

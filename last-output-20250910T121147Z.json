@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-10T12:10:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T11:50:54Z",
+      "Title": "How can I integrate the Meta API in my CRM so multiple users can connect their Facebook/Instagram accounts?",
+      "Tags": [
+        "node.js",
+        "next.js",
+        "facebook-access-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760823/how-can-i-integrate-the-meta-api-in-my-crm-so-multiple-users-can-connect-their-f"
+    },
+    {
+      "Created": "2025-09-10T12:05:08Z",
+      "Title": "Helm install does not set storageClassName for vmsingle-pulsar-victoria-metrics-k8s-stack PVCs",
+      "Tags": [
+        "apache-pulsar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760839/helm-install-does-not-set-storageclassname-for-vmsingle-pulsar-victoria-metrics"
+    },
+    {
+      "Created": "2025-09-10T12:09:04Z",
+      "Title": "Filter with ansible json_query from multiple values (loop)",
+      "Tags": [
+        "ansible",
+        "json-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760845/filter-with-ansible-json-query-from-multiple-values-loop"
+    },
+    {
+      "Created": "2025-09-10T12:10:33Z",
+      "Title": "Monitoring Wildfly cluster in real-time",
+      "Tags": [
+        "elasticsearch",
+        "wildfly",
+        "grafana",
+        "monitoring",
+        "filebeat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760848/monitoring-wildfly-cluster-in-real-time"
+    }
+  ]
+}

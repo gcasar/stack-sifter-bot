@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-10T09:57:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T09:27:05Z",
+      "Title": "why am I getting \u0022Bad state: Stream has already been listened to.\u0022?",
+      "Tags": [
+        "dart",
+        "asynchronous",
+        "stream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760682/why-am-i-getting-bad-state-stream-has-already-been-listened-to"
+    },
+    {
+      "Created": "2025-09-10T09:36:18Z",
+      "Title": "git commit message as variable in linux",
+      "Tags": [
+        "git",
+        "console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760689/git-commit-message-as-variable-in-linux"
+    },
+    {
+      "Created": "2025-09-10T09:53:54Z",
+      "Title": "REACT | Is using data attributes to pass parameters to an onClick handler a good alternative to inline arrow functions?",
+      "Tags": [
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760705/react-is-using-data-attributes-to-pass-parameters-to-an-onclick-handler-a-good"
+    },
+    {
+      "Created": "2025-09-10T09:54:57Z",
+      "Title": "How to verify JWT tokens from Supabase in ASP .Net Core API?",
+      "Tags": [
+        "asp.net-web-api",
+        "jwt",
+        "supabase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760706/how-to-verify-jwt-tokens-from-supabase-in-asp-net-core-api"
+    },
+    {
+      "Created": "2025-09-10T09:56:32Z",
+      "Title": "List number of blobs in a container when we have thousands of them",
+      "Tags": [
+        "azure",
+        "azure-devops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760709/list-number-of-blobs-in-a-container-when-we-have-thousands-of-them"
+    },
+    {
+      "Created": "2025-09-10T09:57:13Z",
+      "Title": "Performance enhancements to connect 4 engine in JavaScript",
+      "Tags": [
+        "javascript",
+        "minimax",
+        "bitboard",
+        "negamax",
+        "connect-four"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760710/performance-enhancements-to-connect-4-engine-in-javascript"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-10T19:00:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T18:56:56Z",
+      "Title": "How create webpage for multiple user which will work with different data at once?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        ".net",
+        "asp.net-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761195/how-create-webpage-for-multiple-user-which-will-work-with-different-data-at-once"
+    },
+    {
+      "Created": "2025-09-10T18:56:58Z",
+      "Title": "GGplotly Hovermode \u0022X Unified\u0022 Show X Value",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "plotly",
+        "tidyverse",
+        "ggplotly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761196/ggplotly-hovermode-x-unified-show-x-value"
+    },
+    {
+      "Created": "2025-09-10T19:00:17Z",
+      "Title": "Combine fill and color legends in ggplot2",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761198/combine-fill-and-color-legends-in-ggplot2"
+    },
+    {
+      "Created": "2025-09-10T19:00:37Z",
+      "Title": "Why is the al (FP register usage count) field necessary in the SysV ABI?",
+      "Tags": [
+        "x86-64",
+        "abi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761199/why-is-the-al-fp-register-usage-count-field-necessary-in-the-sysv-abi"
+    }
+  ]
+}

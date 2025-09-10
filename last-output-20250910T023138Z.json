@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-10T02:29:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T01:54:20Z",
+      "Title": "When setting CMake variables before adding another CMake project, should they all be cache variables so they don\u0027t get overridden?",
+      "Tags": [
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760396/when-setting-cmake-variables-before-adding-another-cmake-project-should-they-al"
+    },
+    {
+      "Created": "2025-09-10T02:01:54Z",
+      "Title": "Pose-guided video generation: how to improve hand quality in diffusion models?",
+      "Tags": [
+        "machine-learning",
+        "deep-learning",
+        "computer-vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760400/pose-guided-video-generation-how-to-improve-hand-quality-in-diffusion-models"
+    },
+    {
+      "Created": "2025-09-10T02:19:45Z",
+      "Title": "elysiajs - when getting back the cookie which was set as a object comes back as string without schema",
+      "Tags": [
+        "elysiajs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760410/elysiajs-when-getting-back-the-cookie-which-was-set-as-a-object-comes-back-as"
+    },
+    {
+      "Created": "2025-09-10T02:29:06Z",
+      "Title": "How to create an pipe that synchronizes only the latest data point in Apache IoTDB\uFF1F",
+      "Tags": [
+        "pipe",
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760413/how-to-create-an-pipe-that-synchronizes-only-the-latest-data-point-in-apache-iot"
+    }
+  ]
+}

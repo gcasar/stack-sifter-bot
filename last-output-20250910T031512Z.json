@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-10T02:49:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T02:37:08Z",
+      "Title": "USB Driver [usb_bulk_msg]",
+      "Tags": [
+        "linux",
+        "usb",
+        "driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760416/usb-driver-usb-bulk-msg"
+    },
+    {
+      "Created": "2025-09-10T02:42:35Z",
+      "Title": "Does httpclient need to consume httpentity in finally?",
+      "Tags": [
+        "java",
+        "httpclient",
+        "apache-httpclient-4.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760420/does-httpclient-need-to-consume-httpentity-in-finally"
+    },
+    {
+      "Created": "2025-09-10T02:49:41Z",
+      "Title": "Problem regarding encoding non-string lists into foreign text using mapping method",
+      "Tags": [
+        "python",
+        "string",
+        "encoding",
+        "mapping",
+        "dice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760422/problem-regarding-encoding-non-string-lists-into-foreign-text-using-mapping-meth"
+    }
+  ]
+}

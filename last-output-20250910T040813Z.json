@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-10T04:03:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T03:25:53Z",
+      "Title": "Problem #2094 Leetcode - Code does not return O(3) instead of O(n)",
+      "Tags": [
+        "python",
+        "arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760440/problem-2094-leetcode-code-does-not-return-o3-instead-of-on"
+    },
+    {
+      "Created": "2025-09-10T03:28:54Z",
+      "Title": "I am having issues stating my OSGi application with org.eclipse.equinox.simpleconfigurator",
+      "Tags": [
+        "java",
+        "osgi",
+        "eclipse-rcp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760442/i-am-having-issues-stating-my-osgi-application-with-org-eclipse-equinox-simpleco"
+    },
+    {
+      "Created": "2025-09-10T03:36:47Z",
+      "Title": "GCP Network Load Balancer connection refused when forwarding to Kubernetes NodePort (nginx-ingress)",
+      "Tags": [
+        "kubernetes",
+        "google-cloud-platform",
+        "google-cloud-load-balancer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760444/gcp-network-load-balancer-connection-refused-when-forwarding-to-kubernetes-nodep"
+    },
+    {
+      "Created": "2025-09-10T03:40:47Z",
+      "Title": "Odoo wkhtmltopdf page break issue",
+      "Tags": [
+        "odoo",
+        "wkhtmltopdf",
+        "qweb",
+        "odoo-16",
+        "odoo-17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760448/odoo-wkhtmltopdf-page-break-issue"
+    },
+    {
+      "Created": "2025-09-10T03:47:02Z",
+      "Title": "How do i make sure that \u0027this\u0027 is no null inside OnDisable() when stopping the game?",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760452/how-do-i-make-sure-that-this-is-no-null-inside-ondisable-when-stopping-the-g"
+    },
+    {
+      "Created": "2025-09-10T03:52:35Z",
+      "Title": "Having trouble using multiple imputation for covariates in generalized additive model using mice package",
+      "Tags": [
+        "imputation",
+        "gam",
+        "r-mice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760455/having-trouble-using-multiple-imputation-for-covariates-in-generalized-additive"
+    },
+    {
+      "Created": "2025-09-10T03:54:52Z",
+      "Title": "Office.js WebAddIn - How to set worksheet Outline setting for summary rows above detail?",
+      "Tags": [
+        "excel",
+        "office-js",
+        "excel-web-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760457/office-js-webaddin-how-to-set-worksheet-outline-setting-for-summary-rows-above"
+    },
+    {
+      "Created": "2025-09-10T04:03:26Z",
+      "Title": "What\u0027s the best service to upload images to and later get via an API call for display in a web app?",
+      "Tags": [
+        "javascript",
+        "image",
+        "rest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760460/whats-the-best-service-to-upload-images-to-and-later-get-via-an-api-call-for-di"
+    }
+  ]
+}

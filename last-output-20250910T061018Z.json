@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-10T06:04:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T05:59:15Z",
+      "Title": "What is the best alternative to IceFaces for JSF projects with Spring 6 and Jakarta EE support? [closed]",
+      "Tags": [
+        "java",
+        "spring",
+        "jsf",
+        "icefaces"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760513/what-is-the-best-alternative-to-icefaces-for-jsf-projects-with-spring-6-and-jaka"
+    },
+    {
+      "Created": "2025-09-10T06:04:21Z",
+      "Title": "Unity Raycast not appearing/not functioning",
+      "Tags": [
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79760514/unity-raycast-not-appearing-not-functioning"
+    }
+  ]
+}

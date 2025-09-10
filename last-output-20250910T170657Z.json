@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-10T16:59:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-10T16:17:39Z",
+      "Title": "Referencing a vector of values from other columns within dplyr::case_when()",
+      "Tags": [
+        "r",
+        "dplyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761068/referencing-a-vector-of-values-from-other-columns-within-dplyrcase-when"
+    },
+    {
+      "Created": "2025-09-10T16:23:38Z",
+      "Title": "Invalid character (question mark in a diamond symbol \uFFFD) doesn\u0027t exist in SQL Server table but the end user sees it",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761071/invalid-character-question-mark-in-a-diamond-symbol-doesnt-exist-in-sql-ser"
+    },
+    {
+      "Created": "2025-09-10T16:37:56Z",
+      "Title": "How to come up with a unique AI plus web/mobile or real world problem solving project idea for final year? [closed]",
+      "Tags": [
+        "javascript",
+        "java",
+        "reactjs",
+        "node.js",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761091/how-to-come-up-with-a-unique-ai-plus-web-mobile-or-real-world-problem-solving-pr"
+    },
+    {
+      "Created": "2025-09-10T16:45:03Z",
+      "Title": "How could I make my C\u002B\u002B code work faster?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761099/how-could-i-make-my-c-code-work-faster"
+    },
+    {
+      "Created": "2025-09-10T16:51:47Z",
+      "Title": "ESP 32-C3 AP keep turning of",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "wifi",
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761104/esp-32-c3-ap-keep-turning-of"
+    },
+    {
+      "Created": "2025-09-10T16:59:53Z",
+      "Title": "Instantiating ICorDebug for .NET Framework programs in C#",
+      "Tags": [
+        "c#",
+        ".net",
+        "debugging",
+        "com",
+        "clr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761111/instantiating-icordebug-for-net-framework-programs-in-c-sharp"
+    }
+  ]
+}

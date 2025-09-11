@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-11T21:55:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T21:17:29Z",
+      "Title": "sqlite3.ProgrammingError: Cannot operate on a closed database. e [closed]",
+      "Tags": [
+        "python",
+        "database",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762375/sqlite3-programmingerror-cannot-operate-on-a-closed-database-e"
+    },
+    {
+      "Created": "2025-09-11T21:43:54Z",
+      "Title": "ELI5: Long-running server-side processing operations in .NET Core",
+      "Tags": [
+        ".net-core",
+        "web-development-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762389/eli5-long-running-server-side-processing-operations-in-net-core"
+    },
+    {
+      "Created": "2025-09-11T21:45:53Z",
+      "Title": "Where is the -f force option while switching branches?",
+      "Tags": [
+        "git",
+        "github-desktop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762391/where-is-the-f-force-option-while-switching-branches"
+    },
+    {
+      "Created": "2025-09-11T21:55:26Z",
+      "Title": "How can I get Tk to run on macos Big Sur",
+      "Tags": [
+        "macos",
+        "version",
+        "tk-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762395/how-can-i-get-tk-to-run-on-macos-big-sur"
+    }
+  ]
+}

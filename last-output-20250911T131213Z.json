@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-11T13:04:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T12:43:45Z",
+      "Title": "Should I write \u0022Task.Run()\u0022 in the controller\u0027s called method?",
+      "Tags": [
+        "c#",
+        "async-await"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761931/should-i-write-task-run-in-the-controllers-called-method"
+    },
+    {
+      "Created": "2025-09-11T12:56:20Z",
+      "Title": "During git rebase how to always choose my bump of a submodule?",
+      "Tags": [
+        "git",
+        "rebasing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761942/during-git-rebase-how-to-always-choose-my-bump-of-a-submodule"
+    },
+    {
+      "Created": "2025-09-11T13:02:49Z",
+      "Title": "Qt6 on Mac: setIcon on a QAction not working since 6.7.3",
+      "Tags": [
+        "qt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761948/qt6-on-mac-seticon-on-a-qaction-not-working-since-6-7-3"
+    },
+    {
+      "Created": "2025-09-11T13:03:09Z",
+      "Title": "Issues getting PyCaret/Fugue to work with DASK Backend",
+      "Tags": [
+        "python",
+        "dask",
+        "pycaret",
+        "fugue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761949/issues-getting-pycaret-fugue-to-work-with-dask-backend"
+    },
+    {
+      "Created": "2025-09-11T13:04:30Z",
+      "Title": "Onbeforeunload event with Electron doesn\u0027t work",
+      "Tags": [
+        "electron",
+        "onbeforeunload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761952/onbeforeunload-event-with-electron-doesnt-work"
+    }
+  ]
+}

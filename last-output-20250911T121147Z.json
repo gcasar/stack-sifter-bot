@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-11T11:52:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T11:52:25Z",
+      "Title": "Qt QML on VS Code complains about having correct corresponding revisions",
+      "Tags": [
+        "qt",
+        "qml",
+        "qtquick2",
+        "qt5.15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761888/qt-qml-on-vs-code-complains-about-having-correct-corresponding-revisions"
+    }
+  ]
+}

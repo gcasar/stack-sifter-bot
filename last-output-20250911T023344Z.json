@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-11T02:12:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T01:34:41Z",
+      "Title": "Is futex essentially an unique integer? any way to expose it by user space code?",
+      "Tags": [
+        "c",
+        "multithreading",
+        "unix",
+        "futex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761415/is-futex-essentially-an-unique-integer-any-way-to-expose-it-by-user-space-code"
+    },
+    {
+      "Created": "2025-09-11T01:35:51Z",
+      "Title": "SwiftData: Reactive global count of model items without loading all records",
+      "Tags": [
+        "swift",
+        "swiftdata",
+        "observation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761416/swiftdata-reactive-global-count-of-model-items-without-loading-all-records"
+    },
+    {
+      "Created": "2025-09-11T01:48:50Z",
+      "Title": "Is there a way to do Physics.CheckSphere() but to check for all masks that ARENT the provided one? (Unity)",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "game-physics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761419/is-there-a-way-to-do-physics-checksphere-but-to-check-for-all-masks-that-arent"
+    },
+    {
+      "Created": "2025-09-11T01:57:20Z",
+      "Title": "Target a specific service name with kustomization.yaml",
+      "Tags": [
+        "kustomize"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761421/target-a-specific-service-name-with-kustomization-yaml"
+    },
+    {
+      "Created": "2025-09-11T01:58:44Z",
+      "Title": "both (range, range) query versus (equality, range) query use compound index equally efficiently. Why?",
+      "Tags": [
+        "database",
+        "indexing",
+        "mongodb-query",
+        "mongodb-indexes",
+        "compound-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761422/both-range-range-query-versus-equality-range-query-use-compound-index-equa"
+    },
+    {
+      "Created": "2025-09-11T02:12:04Z",
+      "Title": "How to read multi-line input from clipboard at once?",
+      "Tags": [
+        "matlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761426/how-to-read-multi-line-input-from-clipboard-at-once"
+    }
+  ]
+}

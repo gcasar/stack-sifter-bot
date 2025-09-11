@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-11T16:06:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T15:52:51Z",
+      "Title": "Different pointer address inside called function",
+      "Tags": [
+        "c",
+        "pointers",
+        "memory-address",
+        "callstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762148/different-pointer-address-inside-called-function"
+    },
+    {
+      "Created": "2025-09-11T16:06:07Z",
+      "Title": "RDP \u0022console session in progress\u0022 error when connecting via loopback IPs",
+      "Tags": [
+        "windows",
+        "remote-desktop",
+        "rdp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762161/rdp-console-session-in-progress-error-when-connecting-via-loopback-ips"
+    }
+  ]
+}

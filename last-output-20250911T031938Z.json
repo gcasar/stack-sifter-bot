@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-11T03:11:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T02:56:21Z",
+      "Title": "c# regex replace string within a specified string with spaces",
+      "Tags": [
+        "c#",
+        "regex",
+        "replace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761440/c-sharp-regex-replace-string-within-a-specified-string-with-spaces"
+    },
+    {
+      "Created": "2025-09-11T03:11:55Z",
+      "Title": "Is it okay to dereference a RwLockReadGuard on the same line?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761444/is-it-okay-to-dereference-a-rwlockreadguard-on-the-same-line"
+    }
+  ]
+}

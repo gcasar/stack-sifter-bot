@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-11T17:01:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T16:18:03Z",
+      "Title": "SmartGit: How to set base branch on existing branch?",
+      "Tags": [
+        "git",
+        "smartgit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762172/smartgit-how-to-set-base-branch-on-existing-branch"
+    },
+    {
+      "Created": "2025-09-11T16:47:22Z",
+      "Title": "React Native Popover Inside scrollView",
+      "Tags": [
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762196/react-native-popover-inside-scrollview"
+    },
+    {
+      "Created": "2025-09-11T16:48:12Z",
+      "Title": "Document Checklist Item in health cloud",
+      "Tags": [
+        "salesforce",
+        "apex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762198/document-checklist-item-in-health-cloud"
+    },
+    {
+      "Created": "2025-09-11T16:48:14Z",
+      "Title": "Shouldn\u0027t the hash of a big.Int and a uint64 give the same result in golang?",
+      "Tags": [
+        "go",
+        "hash",
+        "bigint",
+        "uint64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762199/shouldnt-the-hash-of-a-big-int-and-a-uint64-give-the-same-result-in-golang"
+    },
+    {
+      "Created": "2025-09-11T16:55:36Z",
+      "Title": "Ubuntu printing PDF with fields does not print filled in fields when filled with Python fillpdf",
+      "Tags": [
+        "python",
+        "ubuntu",
+        "pdf",
+        "printing",
+        "cups"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762208/ubuntu-printing-pdf-with-fields-does-not-print-filled-in-fields-when-filled-with"
+    },
+    {
+      "Created": "2025-09-11T16:57:27Z",
+      "Title": "NET8 Blazor issue in Release with CSS isolation",
+      "Tags": [
+        "c#",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762210/net8-blazor-issue-in-release-with-css-isolation"
+    },
+    {
+      "Created": "2025-09-11T17:01:03Z",
+      "Title": "Arena Simulation Error: Persistent \u0022Undefined symbol\u0022 after renaming module and all other debugging steps",
+      "Tags": [
+        "arena-simulation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762213/arena-simulation-error-persistent-undefined-symbol-after-renaming-module-and"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-11T22:58:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T22:09:51Z",
+      "Title": "Rows Affected to appear under custom message",
+      "Tags": [
+        "sql-server",
+        "sql-server-2016"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762400/rows-affected-to-appear-under-custom-message"
+    },
+    {
+      "Created": "2025-09-11T22:11:10Z",
+      "Title": "VBA script to move deleted contacts to new folder not working",
+      "Tags": [
+        "vba",
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762402/vba-script-to-move-deleted-contacts-to-new-folder-not-working"
+    },
+    {
+      "Created": "2025-09-11T22:13:34Z",
+      "Title": "useEffect not running when ref.current is removed from dependency array in React",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "react-ref"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762405/useeffect-not-running-when-ref-current-is-removed-from-dependency-array-in-react"
+    },
+    {
+      "Created": "2025-09-11T22:42:11Z",
+      "Title": "Return Subclass type from Parent function",
+      "Tags": [
+        "typescript",
+        "generics",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762418/return-subclass-type-from-parent-function"
+    },
+    {
+      "Created": "2025-09-11T22:50:52Z",
+      "Title": "How to modify ASP.NET Core Identity cookie name after initialization?",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "cookies",
+        "asp.net-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762421/how-to-modify-asp-net-core-identity-cookie-name-after-initialization"
+    },
+    {
+      "Created": "2025-09-11T22:53:53Z",
+      "Title": "Copying data to Excel from Firefox",
+      "Tags": [
+        "excel",
+        "vba",
+        "firefox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762425/copying-data-to-excel-from-firefox"
+    },
+    {
+      "Created": "2025-09-11T22:57:08Z",
+      "Title": "Assigning value to string in a list gets an error",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762426/assigning-value-to-string-in-a-list-gets-an-error"
+    },
+    {
+      "Created": "2025-09-11T22:58:51Z",
+      "Title": "How to write a select for specific partition using spring?",
+      "Tags": [
+        "java",
+        "spring",
+        "postgresql",
+        "spring-jdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762427/how-to-write-a-select-for-specific-partition-using-spring"
+    }
+  ]
+}

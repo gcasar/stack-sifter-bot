@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-11T07:53:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T07:51:53Z",
+      "Title": "Firebase User Auth Triggers Are Forcefully Deployed On us-central1 region",
+      "Tags": [
+        "firebase",
+        "google-cloud-platform",
+        "firebase-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761627/firebase-user-auth-triggers-are-forcefully-deployed-on-us-central1-region"
+    },
+    {
+      "Created": "2025-09-11T07:53:39Z",
+      "Title": "How to count wheat heads in unlabeled image dataset using unsupervised or self-supervised methods?",
+      "Tags": [
+        "artificial-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761630/how-to-count-wheat-heads-in-unlabeled-image-dataset-using-unsupervised-or-self-s"
+    }
+  ]
+}

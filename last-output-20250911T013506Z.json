@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-11T01:26:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T01:00:23Z",
+      "Title": "How to pass arguments to ffmpeg in rust?",
+      "Tags": [
+        "rust",
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761405/how-to-pass-arguments-to-ffmpeg-in-rust"
+    },
+    {
+      "Created": "2025-09-11T01:21:48Z",
+      "Title": "Unknown magic byte with spring cloud stream aggregation",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "apache-kafka-streams",
+        "spring-cloud-stream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761409/unknown-magic-byte-with-spring-cloud-stream-aggregation"
+    },
+    {
+      "Created": "2025-09-11T01:26:56Z",
+      "Title": "JavaScript Time Problems",
+      "Tags": [
+        "javascript",
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761413/javascript-time-problems"
+    }
+  ]
+}

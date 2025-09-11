@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-11T05:55:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T05:39:29Z",
+      "Title": "Why does multi-table DELETE with USING fail in GridDB Cloud?",
+      "Tags": [
+        "sql",
+        "sql-delete",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761505/why-does-multi-table-delete-with-using-fail-in-griddb-cloud"
+    },
+    {
+      "Created": "2025-09-11T05:40:40Z",
+      "Title": "Having trouble with asyc_sessiomaker in FastAPI",
+      "Tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "fastapi",
+        "asyncpg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761506/having-trouble-with-asyc-sessiomaker-in-fastapi"
+    },
+    {
+      "Created": "2025-09-11T05:51:37Z",
+      "Title": "Google Play Subscriptions: Does auto-renewal update the existing transaction or create a new one?",
+      "Tags": [
+        "android",
+        "in-app-purchase",
+        "subscription",
+        "google-play-developer-api",
+        "google-play-billing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761514/google-play-subscriptions-does-auto-renewal-update-the-existing-transaction-or"
+    },
+    {
+      "Created": "2025-09-11T05:55:30Z",
+      "Title": "How do I rotate THREE.Group object(s) on click and drag?",
+      "Tags": [
+        "three.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761517/how-do-i-rotate-three-group-objects-on-click-and-drag"
+    },
+    {
+      "Created": "2025-09-11T05:55:35Z",
+      "Title": "How to test and automate java thick client application integrated with Web based application [closed]",
+      "Tags": [
+        "java",
+        "swing",
+        "testing",
+        "automated-tests",
+        "cypress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761518/how-to-test-and-automate-java-thick-client-application-integrated-with-web-based"
+    }
+  ]
+}

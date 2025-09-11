@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-11T18:58:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T18:13:32Z",
+      "Title": "Query Variant Data Type with Pyspark (Spark 4.0)",
+      "Tags": [
+        "apache-spark",
+        "variant"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762263/query-variant-data-type-with-pyspark-spark-4-0"
+    },
+    {
+      "Created": "2025-09-11T18:32:06Z",
+      "Title": "xmllint script to convert an XML document into a summarized CSV file",
+      "Tags": [
+        "xml",
+        "xpath",
+        "xmllint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762271/xmllint-script-to-convert-an-xml-document-into-a-summarized-csv-file"
+    },
+    {
+      "Created": "2025-09-11T18:52:30Z",
+      "Title": "What is the purpose of semantic HTML tags?",
+      "Tags": [
+        "html",
+        "deployment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762286/what-is-the-purpose-of-semantic-html-tags"
+    },
+    {
+      "Created": "2025-09-11T18:58:09Z",
+      "Title": "Empty value HTTP POST Multipart/form-data field using RestSharp",
+      "Tags": [
+        "c#",
+        "rest",
+        "request",
+        "restsharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762293/empty-value-http-post-multipart-form-data-field-using-restsharp"
+    }
+  ]
+}

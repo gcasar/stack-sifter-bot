@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-11T18:05:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T17:55:34Z",
+      "Title": "Sagemaker Unified Studio overriding delta lake configuration to iceberg on EMR",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-emr",
+        "amazon-sagemaker",
+        "jupyter-lab",
+        "delta-lake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762245/sagemaker-unified-studio-overriding-delta-lake-configuration-to-iceberg-on-emr"
+    },
+    {
+      "Created": "2025-09-11T18:00:54Z",
+      "Title": "Azure Management Group Owner does not have permissions to run ARM deployments",
+      "Tags": [
+        "azure",
+        "azure-devops",
+        "azure-resource-manager",
+        "azure-deployment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762251/azure-management-group-owner-does-not-have-permissions-to-run-arm-deployments"
+    },
+    {
+      "Created": "2025-09-11T18:02:02Z",
+      "Title": "Issue with updating a file owned by MediaStore",
+      "Tags": [
+        "android",
+        "uri",
+        "mediastore",
+        "fileoutputstream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762254/issue-with-updating-a-file-owned-by-mediastore"
+    },
+    {
+      "Created": "2025-09-11T18:05:37Z",
+      "Title": "istio - why regex rewrite is not getting rid of query params",
+      "Tags": [
+        "istio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762256/istio-why-regex-rewrite-is-not-getting-rid-of-query-params"
+    }
+  ]
+}

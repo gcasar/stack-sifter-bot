@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-11T07:04:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T05:59:17Z",
+      "Title": "How to initialise observed object that requires a parameter?",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761520/how-to-initialise-observed-object-that-requires-a-parameter"
+    },
+    {
+      "Created": "2025-09-11T06:30:58Z",
+      "Title": "How to using same Google authenticator to implement 2 Factor Authentication (TOTP)",
+      "Tags": [
+        "vb.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761538/how-to-using-same-google-authenticator-to-implement-2-factor-authentication-tot"
+    },
+    {
+      "Created": "2025-09-11T06:54:29Z",
+      "Title": "Word Interop Find.Execute() modifies the source Range object to a undesired value",
+      "Tags": [
+        "c#",
+        "ms-word",
+        "vsto",
+        "office-addins",
+        "word-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761556/word-interop-find-execute-modifies-the-source-range-object-to-a-undesired-valu"
+    },
+    {
+      "Created": "2025-09-11T06:55:38Z",
+      "Title": "Keplerian orbital mechanics...Is my arithmetic correct?",
+      "Tags": [
+        "math",
+        "three.js",
+        "webgl",
+        "orbital-mechanics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761557/keplerian-orbital-mechanics-is-my-arithmetic-correct"
+    },
+    {
+      "Created": "2025-09-11T06:56:13Z",
+      "Title": "Fine-Gray vs Cause-Specific Cox Regression: Correct Code for sHR and csHR in R",
+      "Tags": [
+        "r",
+        "regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761558/fine-gray-vs-cause-specific-cox-regression-correct-code-for-shr-and-cshr-in-r"
+    },
+    {
+      "Created": "2025-09-11T07:01:26Z",
+      "Title": "Why do I get NULL values when fetching rows from GridDB C API?",
+      "Tags": [
+        "c",
+        "nosql",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761562/why-do-i-get-null-values-when-fetching-rows-from-griddb-c-api"
+    },
+    {
+      "Created": "2025-09-11T07:04:14Z",
+      "Title": "How to restore bookmarks in 2-up PDF file processing?",
+      "Tags": [
+        "bookmarks",
+        "pdftk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761566/how-to-restore-bookmarks-in-2-up-pdf-file-processing"
+    }
+  ]
+}

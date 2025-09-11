@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-11T20:57:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T20:12:14Z",
+      "Title": "Safari fails to play MP4 video from Strapi backend (works in Chrome, CORS issues)",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "safari",
+        "html5-video"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762333/safari-fails-to-play-mp4-video-from-strapi-backend-works-in-chrome-cors-issues"
+    },
+    {
+      "Created": "2025-09-11T20:25:02Z",
+      "Title": "my code doesn\u0027t count a total value of true results in if statement",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762338/my-code-doesnt-count-a-total-value-of-true-results-in-if-statement"
+    },
+    {
+      "Created": "2025-09-11T20:56:15Z",
+      "Title": "How to access asset files when using Laravel and React with Inertia?",
+      "Tags": [
+        "reactjs",
+        "laravel",
+        "inertiajs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762359/how-to-access-asset-files-when-using-laravel-and-react-with-inertia"
+    },
+    {
+      "Created": "2025-09-11T20:57:11Z",
+      "Title": "Is deconstructing via a single-case match statement idiomatic Scala?",
+      "Tags": [
+        "scala",
+        "pattern-matching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762360/is-deconstructing-via-a-single-case-match-statement-idiomatic-scala"
+    }
+  ]
+}

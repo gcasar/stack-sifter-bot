@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-11T04:56:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T04:25:02Z",
+      "Title": "Compile u-boot 2011.12 on CentOS 6.10 (i386, x86_64 both)",
+      "Tags": [
+        "makefile",
+        "centos6",
+        "u-boot",
+        "notsupportedexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761472/compile-u-boot-2011-12-on-centos-6-10-i386-x86-64-both"
+    },
+    {
+      "Created": "2025-09-11T04:56:35Z",
+      "Title": "How do variable binds/closures work in lua",
+      "Tags": [
+        "lua"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761489/how-do-variable-binds-closures-work-in-lua"
+    }
+  ]
+}

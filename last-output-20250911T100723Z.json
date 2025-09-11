@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-11T10:05:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T08:21:05Z",
+      "Title": "scheduleatfixedrate sseemitter but the front end only get message once [duplicate]",
+      "Tags": [
+        "javascript",
+        "java",
+        "spring-boot",
+        "fetch-api",
+        "server-sent-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761652/scheduleatfixedrate-sseemitter-but-the-front-end-only-get-message-once"
+    },
+    {
+      "Created": "2025-09-11T09:32:43Z",
+      "Title": "401 Unauthorized - {\u0022detail\u0022:\u0022Authorization header is required\u0022}",
+      "Tags": [
+        "reactjs",
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761734/401-unauthorized-detailauthorization-header-is-required"
+    },
+    {
+      "Created": "2025-09-11T09:34:59Z",
+      "Title": "extract with EXTR_PREFIX_ALL does not give me variables",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761738/extract-with-extr-prefix-all-does-not-give-me-variables"
+    },
+    {
+      "Created": "2025-09-11T09:41:30Z",
+      "Title": "RabbitMQ received bytes are invalid",
+      "Tags": [
+        "c#",
+        "rabbitmq",
+        "byte"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761748/rabbitmq-received-bytes-are-invalid"
+    },
+    {
+      "Created": "2025-09-11T09:54:17Z",
+      "Title": "Grab Bing everyday Wallpaper\u0027s story with python3\u002Bselenium",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "bing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761764/grab-bing-everyday-wallpapers-story-with-python3selenium"
+    },
+    {
+      "Created": "2025-09-11T09:56:28Z",
+      "Title": "Why the layer fill-extrusion-height changes when I enable terrain layer on mapbox?",
+      "Tags": [
+        "mapbox",
+        "mapbox-gl-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761767/why-the-layer-fill-extrusion-height-changes-when-i-enable-terrain-layer-on-mapbo"
+    },
+    {
+      "Created": "2025-09-11T09:58:10Z",
+      "Title": "getting error while fetching data between two dates in Laravel, php or mysql [duplicate]",
+      "Tags": [
+        "php",
+        "mysql",
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761770/getting-error-while-fetching-data-between-two-dates-in-laravel-php-or-mysql"
+    },
+    {
+      "Created": "2025-09-11T10:02:03Z",
+      "Title": "I need to write linux device driver for raspberry pi sense HAT",
+      "Tags": [
+        "raspberry-pi",
+        "arm",
+        "linux-device-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761772/i-need-to-write-linux-device-driver-for-raspberry-pi-sense-hat"
+    },
+    {
+      "Created": "2025-09-11T10:05:45Z",
+      "Title": "Do I need to add media query for a Web Design that is already Responsive?",
+      "Tags": [
+        "html",
+        "css",
+        "responsive-design",
+        "media-queries",
+        "changelog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79761774/do-i-need-to-add-media-query-for-a-web-design-that-is-already-responsive"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-11T15:04:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T14:44:40Z",
+      "Title": "Different result by cast negative double to uint with .NET Framework 4.7.2 and .NET 9.0",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "twos-complement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762063/different-result-by-cast-negative-double-to-uint-with-net-framework-4-7-2-and"
+    },
+    {
+      "Created": "2025-09-11T14:49:56Z",
+      "Title": "File Name Contains %20",
+      "Tags": [
+        "vba",
+        "email"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762071/file-name-contains-20"
+    },
+    {
+      "Created": "2025-09-11T14:57:44Z",
+      "Title": "How to type the parent to have a valid subclass factory and correct subclass return types in functions",
+      "Tags": [
+        "typescript",
+        "polymorphism",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762078/how-to-type-the-parent-to-have-a-valid-subclass-factory-and-correct-subclass-ret"
+    },
+    {
+      "Created": "2025-09-11T15:00:51Z",
+      "Title": "How to get Postgres\u0027 pg_dump to exclude certain \u0022types\u0022 of exports?",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762084/how-to-get-postgres-pg-dump-to-exclude-certain-types-of-exports"
+    },
+    {
+      "Created": "2025-09-11T15:04:27Z",
+      "Title": "SQL JSON_OBJECT in RPGLE Character conversion is not defined",
+      "Tags": [
+        "sql",
+        "json",
+        "db2",
+        "ibm-midrange",
+        "rpgle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762091/sql-json-object-in-rpgle-character-conversion-is-not-defined"
+    }
+  ]
+}

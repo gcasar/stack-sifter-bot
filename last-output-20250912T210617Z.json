@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-12T20:55:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T20:11:36Z",
+      "Title": "Contact IDs not getting returned using Simple-Salesforce to insert bulk records",
+      "Tags": [
+        "python",
+        "salesforce",
+        "simple-salesforce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763317/contact-ids-not-getting-returned-using-simple-salesforce-to-insert-bulk-records"
+    },
+    {
+      "Created": "2025-09-12T20:55:05Z",
+      "Title": "Google Places API returns 403 Forbidden \u0022Requests from referer \u003Cempty\u003E are blocked\u0022 from Netlify serverless function",
+      "Tags": [
+        "reactjs",
+        "google-places-api",
+        "netlify",
+        "netlify-function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763336/google-places-api-returns-403-forbidden-requests-from-referer-empty-are-block"
+    }
+  ]
+}

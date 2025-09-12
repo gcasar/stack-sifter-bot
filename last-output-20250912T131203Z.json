@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-12T13:08:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T13:02:03Z",
+      "Title": "Adding entries to list in SharePoint using Power Automate and SharePoint HTTP",
+      "Tags": [
+        "sharepoint",
+        "power-automate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762974/adding-entries-to-list-in-sharepoint-using-power-automate-and-sharepoint-http"
+    },
+    {
+      "Created": "2025-09-12T13:03:07Z",
+      "Title": "Span is not read from a screen reader if there is no fall back message",
+      "Tags": [
+        "angular",
+        "typescript",
+        "accessibility"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762975/span-is-not-read-from-a-screen-reader-if-there-is-no-fall-back-message"
+    },
+    {
+      "Created": "2025-09-12T13:07:15Z",
+      "Title": "How to capture the plaintext chunk passed to loadstring in an obfuscated Lua (Luraph-like) stub (Lua 5.1/LuaJIT, no debug lib)",
+      "Tags": [
+        "lua",
+        "obfuscation",
+        "luajit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762978/how-to-capture-the-plaintext-chunk-passed-to-loadstring-in-an-obfuscated-lua-lu"
+    },
+    {
+      "Created": "2025-09-12T13:07:32Z",
+      "Title": "Keep Excel date formatting when exporting to Markdown",
+      "Tags": [
+        "node.js",
+        "markdown",
+        "sheetjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762979/keep-excel-date-formatting-when-exporting-to-markdown"
+    },
+    {
+      "Created": "2025-09-12T13:08:59Z",
+      "Title": "Script to decompress .ZIP files and recompress them in .7Z recursively and then deleting the ZIP files",
+      "Tags": [
+        "batch-file",
+        "recursion",
+        "zip",
+        "compression",
+        "7zip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762981/script-to-decompress-zip-files-and-recompress-them-in-7z-recursively-and-then"
+    }
+  ]
+}

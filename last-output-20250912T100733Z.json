@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-12T10:05:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T09:42:11Z",
+      "Title": "Hibernate @TenantId not applied to update/delete statements in discriminator-based multitenancy",
+      "Tags": [
+        "mysql",
+        "spring",
+        "hibernate",
+        "spring-data-jpa",
+        "multi-tenant"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762777/hibernate-tenantid-not-applied-to-update-delete-statements-in-discriminator-bas"
+    },
+    {
+      "Created": "2025-09-12T09:50:20Z",
+      "Title": "Derive body-frame Euler angles from world-frame orientation",
+      "Tags": [
+        "orientation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762785/derive-body-frame-euler-angles-from-world-frame-orientation"
+    },
+    {
+      "Created": "2025-09-12T09:53:07Z",
+      "Title": "How to transform callable argument types?",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762788/how-to-transform-callable-argument-types"
+    },
+    {
+      "Created": "2025-09-12T09:54:42Z",
+      "Title": "MongoDB query for array size \u003E N fails, even with \u0022$exists\u0022 check",
+      "Tags": [
+        "mongodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762789/mongodb-query-for-array-size-n-fails-even-with-exists-check"
+    },
+    {
+      "Created": "2025-09-12T09:58:30Z",
+      "Title": "Delay in Firebase Analytics BigQuery Daily Export Availability",
+      "Tags": [
+        "google-bigquery",
+        "firebase-analytics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762794/delay-in-firebase-analytics-bigquery-daily-export-availability"
+    },
+    {
+      "Created": "2025-09-12T09:59:14Z",
+      "Title": "How to detect the schema of AWS cost reports (CUR legacy, CUR 2.0, FOCUS 1.0)?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "aws-billing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762795/how-to-detect-the-schema-of-aws-cost-reports-cur-legacy-cur-2-0-focus-1-0"
+    },
+    {
+      "Created": "2025-09-12T10:01:46Z",
+      "Title": "Python teradatasql - Timeout per sql request issues",
+      "Tags": [
+        "python",
+        "teradata",
+        "teradatasql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762799/python-teradatasql-timeout-per-sql-request-issues"
+    },
+    {
+      "Created": "2025-09-12T10:03:42Z",
+      "Title": "Billing - Resource Manager - Customers - List By Billing Account - Expand-Property Issue",
+      "Tags": [
+        "azure-billing-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762801/billing-resource-manager-customers-list-by-billing-account-expand-proper"
+    },
+    {
+      "Created": "2025-09-12T10:05:35Z",
+      "Title": "Github Actions - Octopus Deploy - Variable passing troubles",
+      "Tags": [
+        "github-actions",
+        "octopus-deploy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762803/github-actions-octopus-deploy-variable-passing-troubles"
+    }
+  ]
+}

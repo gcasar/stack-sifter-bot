@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-12T09:06:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T08:37:14Z",
+      "Title": "My PHP http_response_code is not sending status 200 but status code 302?",
+      "Tags": [
+        "php",
+        "apache",
+        "http-response-codes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762694/my-php-http-response-code-is-not-sending-status-200-but-status-code-302"
+    },
+    {
+      "Created": "2025-09-12T09:02:04Z",
+      "Title": "How to dynamically detect the active page builder in use on a WordPress page",
+      "Tags": [
+        "php",
+        "wordpress",
+        "plugins",
+        "wordpress-theming",
+        "redirection-wordpress-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762725/how-to-dynamically-detect-the-active-page-builder-in-use-on-a-wordpress-page"
+    },
+    {
+      "Created": "2025-09-12T09:03:57Z",
+      "Title": "Can I infer the execution relationship between two evaluations across two threads in this way?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "atomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762728/can-i-infer-the-execution-relationship-between-two-evaluations-across-two-thread"
+    },
+    {
+      "Created": "2025-09-12T09:06:35Z",
+      "Title": "entrySet va sequencedEntrySet",
+      "Tags": [
+        "java",
+        "maps",
+        "java-21",
+        "entryset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762732/entryset-va-sequencedentryset"
+    }
+  ]
+}

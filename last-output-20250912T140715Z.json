@@ -1,0 +1,112 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-09-12T14:00:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T13:12:10Z",
+      "Title": "Why is my user function call showing 2 parameters instead of 1? [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762983/why-is-my-user-function-call-showing-2-parameters-instead-of-1"
+    },
+    {
+      "Created": "2025-09-12T13:46:34Z",
+      "Title": "Sum over rows only if top row is not filled",
+      "Tags": [
+        "excel",
+        "excel-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763021/sum-over-rows-only-if-top-row-is-not-filled"
+    },
+    {
+      "Created": "2025-09-12T13:47:48Z",
+      "Title": "Migration after the Kiwi container is created",
+      "Tags": [
+        "docker",
+        "migration",
+        "init",
+        "manage.py",
+        "kiwi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763023/migration-after-the-kiwi-container-is-created"
+    },
+    {
+      "Created": "2025-09-12T13:51:58Z",
+      "Title": "Preventing Non-STOMP WebSocket Connections from Bypassing STOMP Interceptor level Authentication in Spring Boot",
+      "Tags": [
+        "spring-boot",
+        "websocket",
+        "spring-websocket",
+        "stomp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763026/preventing-non-stomp-websocket-connections-from-bypassing-stomp-interceptor-leve"
+    },
+    {
+      "Created": "2025-09-12T13:52:21Z",
+      "Title": "tray_icon triggering click event twice",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763027/tray-icon-triggering-click-event-twice"
+    },
+    {
+      "Created": "2025-09-12T13:53:52Z",
+      "Title": "How can I prevent selecting DOM elements that exist only in memory?",
+      "Tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763028/how-can-i-prevent-selecting-dom-elements-that-exist-only-in-memory"
+    },
+    {
+      "Created": "2025-09-12T13:58:11Z",
+      "Title": "Fetch / Timeout issue with Cloud Save API Unity and Nextjs 15",
+      "Tags": [
+        "unity-game-engine",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763032/fetch-timeout-issue-with-cloud-save-api-unity-and-nextjs-15"
+    },
+    {
+      "Created": "2025-09-12T13:59:01Z",
+      "Title": "SSIS sees all strings from DREMIO Source as DT_NTEXT",
+      "Tags": [
+        "sql-server",
+        "ssis",
+        "odbc",
+        "dremio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763034/ssis-sees-all-strings-from-dremio-source-as-dt-ntext"
+    },
+    {
+      "Created": "2025-09-12T13:59:15Z",
+      "Title": "How can I get the reason for a failed transaction status 0 from Geth?",
+      "Tags": [
+        "python",
+        "web3py",
+        "go-ethereum"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763036/how-can-i-get-the-reason-for-a-failed-transaction-status-0-from-geth"
+    },
+    {
+      "Created": "2025-09-12T14:00:02Z",
+      "Title": "What is the reason that IterableDataset is faster than Dataset in HuggingFace Datasets when loading from the local disk?",
+      "Tags": [
+        "huggingface-datasets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763037/what-is-the-reason-that-iterabledataset-is-faster-than-dataset-in-huggingface-da"
+    },
+    {
+      "Created": "2025-09-12T14:00:43Z",
+      "Title": "Shopify Flow \u2014 copy an order custom attribute to a customer metafield",
+      "Tags": [
+        "shopify",
+        "shopify-app"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763038/shopify-flow-copy-an-order-custom-attribute-to-a-customer-metafield"
+    }
+  ]
+}

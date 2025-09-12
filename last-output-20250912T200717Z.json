@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-12T20:05:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T19:33:14Z",
+      "Title": "How to know when Delphi app is run from Proton on Linux?",
+      "Tags": [
+        "linux",
+        "delphi",
+        "firemonkey",
+        "steam",
+        "delphi-13-florence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763286/how-to-know-when-delphi-app-is-run-from-proton-on-linux"
+    },
+    {
+      "Created": "2025-09-12T19:43:24Z",
+      "Title": "How do I create dynamic rows in a WPF Grid",
+      "Tags": [
+        "wpf",
+        "data-binding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763297/how-do-i-create-dynamic-rows-in-a-wpf-grid"
+    },
+    {
+      "Created": "2025-09-12T19:55:37Z",
+      "Title": "How to group by day in GridDB Cloud without manually concatenating year, month, and day?",
+      "Tags": [
+        "sql",
+        "group-by",
+        "time-series",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763306/how-to-group-by-day-in-griddb-cloud-without-manually-concatenating-year-month"
+    },
+    {
+      "Created": "2025-09-12T20:05:34Z",
+      "Title": "How to design a low-cost ERP system for Universal college management",
+      "Tags": [
+        "database",
+        "project",
+        "open-source",
+        "erp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763311/how-to-design-a-low-cost-erp-system-for-universal-college-management"
+    }
+  ]
+}

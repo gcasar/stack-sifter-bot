@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-12T23:03:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T22:12:05Z",
+      "Title": "Why does this C\u002B\u002B code produce compilation errors?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763384/why-does-this-c-code-produce-compilation-errors"
+    },
+    {
+      "Created": "2025-09-12T22:31:14Z",
+      "Title": "How can I split camelCase or PascalCase strings into readable labels in Delphi?",
+      "Tags": [
+        "string",
+        "delphi",
+        "firemonkey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763399/how-can-i-split-camelcase-or-pascalcase-strings-into-readable-labels-in-delphi"
+    },
+    {
+      "Created": "2025-09-12T23:01:58Z",
+      "Title": "Failing to create Mule Maven projects from command line",
+      "Tags": [
+        "maven",
+        "mule",
+        "mulesoft",
+        "mule4",
+        "mule-esb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763422/failing-to-create-mule-maven-projects-from-command-line"
+    },
+    {
+      "Created": "2025-09-12T23:03:55Z",
+      "Title": "Spring @CondtionalProperty loads my bean no matter what values are set",
+      "Tags": [
+        "spring",
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763423/spring-condtionalproperty-loads-my-bean-no-matter-what-values-are-set"
+    }
+  ]
+}

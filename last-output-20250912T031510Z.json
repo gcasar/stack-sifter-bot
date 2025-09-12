@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-12T03:13:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T02:38:27Z",
+      "Title": "Trouble getting inherited capabilities to work",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "linux-capabilities"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762492/trouble-getting-inherited-capabilities-to-work"
+    },
+    {
+      "Created": "2025-09-12T02:45:39Z",
+      "Title": "Does AWS geo restriction for US include Alaska, Hawaii, and U.S. territories?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "amazon-ec2",
+        "geolocation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762497/does-aws-geo-restriction-for-us-include-alaska-hawaii-and-u-s-territories"
+    },
+    {
+      "Created": "2025-09-12T02:47:31Z",
+      "Title": "Do App Store / Play Store \u201CUnited States\u201D distribution settings include Alaska, Hawaii, and U.S. territories?",
+      "Tags": [
+        "android",
+        "ios",
+        "mobile",
+        "google-play",
+        "app-store"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762498/do-app-store-play-store-united-states-distribution-settings-include-alaska"
+    },
+    {
+      "Created": "2025-09-12T02:48:21Z",
+      "Title": "Unable to get the Button.Background color to change",
+      "Tags": [
+        "wpf",
+        "button",
+        "background",
+        "controls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762499/unable-to-get-the-button-background-color-to-change"
+    },
+    {
+      "Created": "2025-09-12T03:02:18Z",
+      "Title": "How to obtain serial debugging function similar to embedded development board on an old Android phone?",
+      "Tags": [
+        "android",
+        "linux",
+        "linux-device-driver",
+        "embedded-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762505/how-to-obtain-serial-debugging-function-similar-to-embedded-development-board-on"
+    },
+    {
+      "Created": "2025-09-12T03:10:25Z",
+      "Title": "Plotly chloropleth of India not showing states properly (too small)",
+      "Tags": [
+        "pandas",
+        "plotly",
+        "geojson",
+        "choropleth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762507/plotly-chloropleth-of-india-not-showing-states-properly-too-small"
+    },
+    {
+      "Created": "2025-09-12T03:13:15Z",
+      "Title": "Image Playground Error: Unable to Generate Images Using externalProvider Style",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "ios26",
+        "image-playground"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762508/image-playground-error-unable-to-generate-images-using-externalprovider-style"
+    }
+  ]
+}

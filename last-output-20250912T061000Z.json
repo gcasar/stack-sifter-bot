@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-12T06:06:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T05:48:52Z",
+      "Title": "How is the compatibility between CometAPI and OpenAI SDK?",
+      "Tags": [
+        "python",
+        "openai-api",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762571/how-is-the-compatibility-between-cometapi-and-openai-sdk"
+    },
+    {
+      "Created": "2025-09-12T05:57:33Z",
+      "Title": "Magento getting array to string conversion error when trying to add custom attribute in customer module",
+      "Tags": [
+        "magento",
+        "magento2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762575/magento-getting-array-to-string-conversion-error-when-trying-to-add-custom-attri"
+    },
+    {
+      "Created": "2025-09-12T06:06:45Z",
+      "Title": "Attach Certificate Map to GKE Load Balancer",
+      "Tags": [
+        "google-cloud-load-balancer",
+        "gke-networking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762579/attach-certificate-map-to-gke-load-balancer"
+    }
+  ]
+}

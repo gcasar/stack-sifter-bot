@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-12T12:06:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T11:45:39Z",
+      "Title": "How do I get the GPU clock rate in CUDA 13?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cuda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762890/how-do-i-get-the-gpu-clock-rate-in-cuda-13"
+    },
+    {
+      "Created": "2025-09-12T11:47:01Z",
+      "Title": "Custom font in flutter package seems to not work without specifying explicitly package name",
+      "Tags": [
+        "flutter",
+        "dart",
+        "dart-packages"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762891/custom-font-in-flutter-package-seems-to-not-work-without-specifying-explicitly-p"
+    },
+    {
+      "Created": "2025-09-12T11:54:47Z",
+      "Title": "I have big problem with xcb \u002B shm :( I am very disappointed because ChatGpt or Deepseek don\u0027t help me",
+      "Tags": [
+        "x11",
+        "shared-memory",
+        "xcb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762900/i-have-big-problem-with-xcb-shm-i-am-very-disappointed-because-chatgpt-or-d"
+    },
+    {
+      "Created": "2025-09-12T11:57:25Z",
+      "Title": "Custom Font not working in React Native Elements",
+      "Tags": [
+        "react-native",
+        "react-hooks",
+        "react-native-elements"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762902/custom-font-not-working-in-react-native-elements"
+    },
+    {
+      "Created": "2025-09-12T12:00:44Z",
+      "Title": "Check $_session does not appear to be working for Location but does for outputting html based on condition",
+      "Tags": [
+        "php",
+        "authentication",
+        "session"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762906/check-session-does-not-appear-to-be-working-for-location-but-does-for-outputti"
+    },
+    {
+      "Created": "2025-09-12T12:02:06Z",
+      "Title": "Puppeteer - scroll down until you can\u0027t anymore - script failing",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "automation",
+        "puppeteer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762907/puppeteer-scroll-down-until-you-cant-anymore-script-failing"
+    },
+    {
+      "Created": "2025-09-12T12:02:16Z",
+      "Title": "using same index value for two fields",
+      "Tags": [
+        "javascript",
+        "forms",
+        "pdf",
+        "acrobat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762908/using-same-index-value-for-two-fields"
+    },
+    {
+      "Created": "2025-09-12T12:06:16Z",
+      "Title": "clang\u002B\u002B fatal error: \u0027cassert\u0027 file not found",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762910/clang-fatal-error-cassert-file-not-found"
+    },
+    {
+      "Created": "2025-09-12T12:06:54Z",
+      "Title": "Keyboard Language automatically swaps between FormFields on Samsung Devices",
+      "Tags": [
+        "flutter",
+        "flutter-form-builder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762911/keyboard-language-automatically-swaps-between-formfields-on-samsung-devices"
+    }
+  ]
+}

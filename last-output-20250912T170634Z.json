@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-12T17:02:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T16:10:14Z",
+      "Title": "apply function versus vectorised operation in pandas dataframe [duplicate]",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763157/apply-function-versus-vectorised-operation-in-pandas-dataframe"
+    },
+    {
+      "Created": "2025-09-12T16:44:23Z",
+      "Title": "Docker compose configuration in CLion",
+      "Tags": [
+        "docker-compose",
+        "clion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763182/docker-compose-configuration-in-clion"
+    },
+    {
+      "Created": "2025-09-12T16:47:16Z",
+      "Title": "Optimizing My FastAPI queries with joins for large kanban board ( freezes on 5 tasks above )",
+      "Tags": [
+        "python",
+        "performance",
+        "sqlalchemy",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763183/optimizing-my-fastapi-queries-with-joins-for-large-kanban-board-freezes-on-5-t"
+    },
+    {
+      "Created": "2025-09-12T16:48:53Z",
+      "Title": "Can\u0027t register SQL Server driver in JBoss",
+      "Tags": [
+        "jboss"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763184/cant-register-sql-server-driver-in-jboss"
+    },
+    {
+      "Created": "2025-09-12T16:57:17Z",
+      "Title": "Running very large models on personal computer",
+      "Tags": [
+        "pytorch",
+        "gpu",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763190/running-very-large-models-on-personal-computer"
+    },
+    {
+      "Created": "2025-09-12T17:02:05Z",
+      "Title": "How does the Seal Android app run yt-dlp locally without Python support?",
+      "Tags": [
+        "python",
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "yt-dlp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763191/how-does-the-seal-android-app-run-yt-dlp-locally-without-python-support"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-12T10:58:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T10:31:15Z",
+      "Title": "React \u002B Tailwind: Flip card not showing back image",
+      "Tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "animation",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762820/react-tailwind-flip-card-not-showing-back-image"
+    },
+    {
+      "Created": "2025-09-12T10:34:58Z",
+      "Title": "Handling timeout in Selenium Python",
+      "Tags": [
+        "python",
+        "selenium-chromedriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762823/handling-timeout-in-selenium-python"
+    },
+    {
+      "Created": "2025-09-12T10:36:50Z",
+      "Title": "Mock patch sys.stdout to StringIO as a decorator",
+      "Tags": [
+        "python",
+        "mocking",
+        "stdout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762824/mock-patch-sys-stdout-to-stringio-as-a-decorator"
+    },
+    {
+      "Created": "2025-09-12T10:37:47Z",
+      "Title": "Support for microsecond precision in timestamps in Tomcat",
+      "Tags": [
+        "tomcat",
+        "logging",
+        "tomcat9",
+        "tomcat10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762826/support-for-microsecond-precision-in-timestamps-in-tomcat"
+    },
+    {
+      "Created": "2025-09-12T10:38:07Z",
+      "Title": "Sounddevice plays loud noice instead of speech",
+      "Tags": [
+        "python",
+        "audio-streaming",
+        "python-sounddevice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762827/sounddevice-plays-loud-noice-instead-of-speech"
+    },
+    {
+      "Created": "2025-09-12T10:39:22Z",
+      "Title": "How to specify a custom list of proper nouns",
+      "Tags": [
+        "languagetool"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762828/how-to-specify-a-custom-list-of-proper-nouns"
+    },
+    {
+      "Created": "2025-09-12T10:45:30Z",
+      "Title": "Create J1939 FFD data structure in DEXT Arxml (specifically in R19.11)",
+      "Tags": [
+        "autosar",
+        "j1939",
+        "davinci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762834/create-j1939-ffd-data-structure-in-dext-arxml-specifically-in-r19-11"
+    },
+    {
+      "Created": "2025-09-12T10:51:50Z",
+      "Title": "Redux vs. Zod: Clarifying their Roles in Modern React State Management",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "redux",
+        "react-redux",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762838/redux-vs-zod-clarifying-their-roles-in-modern-react-state-management"
+    },
+    {
+      "Created": "2025-09-12T10:58:41Z",
+      "Title": "How to use pdf.worker.js locally in angular application",
+      "Tags": [
+        "html",
+        "angular",
+        "user-interface",
+        "pdf",
+        "cdn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762845/how-to-use-pdf-worker-js-locally-in-angular-application"
+    }
+  ]
+}

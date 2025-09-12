@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-12T16:01:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T15:27:07Z",
+      "Title": "Cannot set track details in macOS Music with AppleScript",
+      "Tags": [
+        "applescript",
+        "apple-music"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763111/cannot-set-track-details-in-macos-music-with-applescript"
+    },
+    {
+      "Created": "2025-09-12T15:29:09Z",
+      "Title": "java resumable downloader [closed]",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763114/java-resumable-downloader"
+    },
+    {
+      "Created": "2025-09-12T15:52:14Z",
+      "Title": "Is this a good Machine Learning approach",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "trading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763136/is-this-a-good-machine-learning-approach"
+    },
+    {
+      "Created": "2025-09-12T15:53:43Z",
+      "Title": "Getting an EOF Error when I run a file that worked fine previously",
+      "Tags": [
+        "python",
+        "error-handling",
+        "eof"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763139/getting-an-eof-error-when-i-run-a-file-that-worked-fine-previously"
+    },
+    {
+      "Created": "2025-09-12T15:54:23Z",
+      "Title": "ZFS fails to allow mount for user [closed]",
+      "Tags": [
+        "linux",
+        "zfs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763140/zfs-fails-to-allow-mount-for-user"
+    },
+    {
+      "Created": "2025-09-12T15:56:39Z",
+      "Title": "Open MySQL DB Safely to External Connection to Connect to Power BI",
+      "Tags": [
+        "mysql",
+        "apache",
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763142/open-mysql-db-safely-to-external-connection-to-connect-to-power-bi"
+    },
+    {
+      "Created": "2025-09-12T15:58:42Z",
+      "Title": "cant install healpy in anaconda",
+      "Tags": [
+        "python-3.x",
+        "anaconda",
+        "anaconda3",
+        "healpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763143/cant-install-healpy-in-anaconda"
+    },
+    {
+      "Created": "2025-09-12T16:01:52Z",
+      "Title": "How to efficiently query nested JSON fields in GridDB using TQL?",
+      "Tags": [
+        "json",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763147/how-to-efficiently-query-nested-json-fields-in-griddb-using-tql"
+    }
+  ]
+}

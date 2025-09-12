@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-12T00:16:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-11T23:25:43Z",
+      "Title": "Explain Min and Max in Python",
+      "Tags": [
+        "python",
+        "arrays",
+        "python-3.x",
+        "max",
+        "min"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762436/explain-min-and-max-in-python"
+    },
+    {
+      "Created": "2025-09-12T00:16:46Z",
+      "Title": "MariaDB C API: non-blocking mariadb_rpl_fetch() cannot fetch new events generated after opening the stream",
+      "Tags": [
+        "c",
+        "mariadb",
+        "fetch",
+        "replication",
+        "nonblocking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762450/mariadb-c-api-non-blocking-mariadb-rpl-fetch-cannot-fetch-new-events-generate"
+    }
+  ]
+}

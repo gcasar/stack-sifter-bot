@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-12T15:03:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T14:31:59Z",
+      "Title": "Retrieve Oat\u002B\u002B ENUM documentation programmatically",
+      "Tags": [
+        "enums",
+        "oat\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763063/retrieve-oat-enum-documentation-programmatically"
+    },
+    {
+      "Created": "2025-09-12T14:37:32Z",
+      "Title": "SCORM item hidden but not being visible when rules are met",
+      "Tags": [
+        "manifest",
+        "scorm2004"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763065/scorm-item-hidden-but-not-being-visible-when-rules-are-met"
+    },
+    {
+      "Created": "2025-09-12T14:39:24Z",
+      "Title": "Machine Learning SciKit Learn High RMSE",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "scikit-learn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763069/machine-learning-scikit-learn-high-rmse"
+    },
+    {
+      "Created": "2025-09-12T14:46:55Z",
+      "Title": "User claims that my .Net Maui app is preventing them from receiving notifications from other apps",
+      "Tags": [
+        "maui",
+        "maui-ios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763075/user-claims-that-my-net-maui-app-is-preventing-them-from-receiving-notification"
+    },
+    {
+      "Created": "2025-09-12T14:49:12Z",
+      "Title": "How can I emulate Linux secure delete (shred, dd, wipe) on Windows? [closed]",
+      "Tags": [
+        "linux",
+        "windows",
+        "security",
+        "filesystems",
+        "data-recovery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763076/how-can-i-emulate-linux-secure-delete-shred-dd-wipe-on-windows"
+    },
+    {
+      "Created": "2025-09-12T14:55:02Z",
+      "Title": "Can\u0027t access Tomcat Manager with tomcat/tomcat credentials despite correct tomcat-users.xml configuration",
+      "Tags": [
+        "tomcat",
+        "tomcat9"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763079/cant-access-tomcat-manager-with-tomcat-tomcat-credentials-despite-correct-tomca"
+    },
+    {
+      "Created": "2025-09-12T14:56:44Z",
+      "Title": "How can i optimize this sort of complex SQL query lot of left joins and subquery, Sorting over fields taking more then 20 sec on avg in local",
+      "Tags": [
+        "mysql",
+        "database",
+        "rdbms",
+        "mysql-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763080/how-can-i-optimize-this-sort-of-complex-sql-query-lot-of-left-joins-and-subquery"
+    },
+    {
+      "Created": "2025-09-12T15:03:58Z",
+      "Title": "How to properly set my regex in order to split this text with re.split()?",
+      "Tags": [
+        "python",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763090/how-to-properly-set-my-regex-in-order-to-split-this-text-with-re-split"
+    }
+  ]
+}

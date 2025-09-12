@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-12T18:02:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T17:49:09Z",
+      "Title": "Title: RuntimeError: Expected all tensors to be on the same device when using local HuggingFace model in LangChain Agent",
+      "Tags": [
+        "python",
+        "nlp",
+        "huggingface-transformers",
+        "langchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763224/title-runtimeerror-expected-all-tensors-to-be-on-the-same-device-when-using-lo"
+    },
+    {
+      "Created": "2025-09-12T17:52:18Z",
+      "Title": "Can a Tanstack query function return the results of another query function?",
+      "Tags": [
+        "react-query",
+        "tanstackreact-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763227/can-a-tanstack-query-function-return-the-results-of-another-query-function"
+    },
+    {
+      "Created": "2025-09-12T17:55:29Z",
+      "Title": "Artillery \u002B PlayWright \u002B Fargate: Test durations ramping up and timing out",
+      "Tags": [
+        "amazon-web-services",
+        "playwright",
+        "load-testing",
+        "aws-fargate",
+        "artillery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763232/artillery-playwright-fargate-test-durations-ramping-up-and-timing-out"
+    },
+    {
+      "Created": "2025-09-12T18:02:01Z",
+      "Title": "ANTLR parser not identifying the entire line and stops after first word matches",
+      "Tags": [
+        "antlr4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763239/antlr-parser-not-identifying-the-entire-line-and-stops-after-first-word-matches"
+    }
+  ]
+}

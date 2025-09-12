@@ -1,0 +1,102 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-12T04:05:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T03:30:36Z",
+      "Title": "Maui - How a page knows when a flyout page summoned by the user gets closed",
+      "Tags": [
+        "c#",
+        "maui",
+        "searchbar",
+        "flyout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762511/maui-how-a-page-knows-when-a-flyout-page-summoned-by-the-user-gets-closed"
+    },
+    {
+      "Created": "2025-09-12T03:32:11Z",
+      "Title": "can we get poi details from onload funtion?",
+      "Tags": [
+        "google-cloud-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762513/can-we-get-poi-details-from-onload-funtion"
+    },
+    {
+      "Created": "2025-09-12T03:34:45Z",
+      "Title": "Vite \u002B React \u002B Tailwind App Runs, But No Styles Are Applied (Setup Verified)",
+      "Tags": [
+        "css",
+        "reactjs",
+        "react-native",
+        "tailwind-css",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762515/vite-react-tailwind-app-runs-but-no-styles-are-applied-setup-verified"
+    },
+    {
+      "Created": "2025-09-12T03:36:08Z",
+      "Title": "Talk to my Android app directly using Google Assistant to complete a easy task",
+      "Tags": [
+        "android",
+        "google-assistant",
+        "app-actions",
+        "android-dynamic-shortcuts",
+        "android-static-shortcuts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762517/talk-to-my-android-app-directly-using-google-assistant-to-complete-a-easy-task"
+    },
+    {
+      "Created": "2025-09-12T03:43:14Z",
+      "Title": "Why is my sliding window algorithm not showing results?",
+      "Tags": [
+        "python",
+        "arrays",
+        "algorithm",
+        "sliding-window"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762520/why-is-my-sliding-window-algorithm-not-showing-results"
+    },
+    {
+      "Created": "2025-09-12T03:46:37Z",
+      "Title": "How to calculate 1-minute forward moving average",
+      "Tags": [
+        "sql",
+        "moving-average",
+        "quantitative-finance",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762521/how-to-calculate-1-minute-forward-moving-average"
+    },
+    {
+      "Created": "2025-09-12T03:59:01Z",
+      "Title": "Bot Framework /activity API returns 201 but message not appearing in Teams",
+      "Tags": [
+        "microsoft-graph-api",
+        "microsoft-teams",
+        "microsoft-graph-teams",
+        "teams-toolkit",
+        "microsoft-teams-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762524/bot-framework-activity-api-returns-201-but-message-not-appearing-in-teams"
+    },
+    {
+      "Created": "2025-09-12T04:05:26Z",
+      "Title": "GitHub Copilot in Xcode is stuck on one project, doesn\u0027t switch context automatically when I change active projects",
+      "Tags": [
+        "xcode",
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762528/github-copilot-in-xcode-is-stuck-on-one-project-doesnt-switch-context-automati"
+    },
+    {
+      "Created": "2025-09-12T04:05:55Z",
+      "Title": "Why does LanceDB\u0027s full-text-search fail to find matches where the exact text is present?",
+      "Tags": [
+        "full-text-search",
+        "rag",
+        "lancedb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762530/why-does-lancedbs-full-text-search-fail-to-find-matches-where-the-exact-text-is"
+    }
+  ]
+}

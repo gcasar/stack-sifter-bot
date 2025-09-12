@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-12T08:06:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T07:38:26Z",
+      "Title": "Why does translate replace symbols with symbols codes?",
+      "Tags": [
+        "python",
+        "function",
+        "translate",
+        "character-replacement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762640/why-does-translate-replace-symbols-with-symbols-codes"
+    },
+    {
+      "Created": "2025-09-12T07:59:13Z",
+      "Title": "How can I disable playout in in Google\u0027s WebRTC Swift/ObjC framework?",
+      "Tags": [
+        "swift",
+        "macos",
+        "audio",
+        "webrtc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762659/how-can-i-disable-playout-in-in-googles-webrtc-swift-objc-framework"
+    },
+    {
+      "Created": "2025-09-12T08:02:38Z",
+      "Title": "I can\u0027t create my custom filter in HotChocolate 13.5.0, where can I view detailed documentation or code examples?",
+      "Tags": [
+        ".net",
+        "entity-framework",
+        "graphql",
+        "hotchocolate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762662/i-cant-create-my-custom-filter-in-hotchocolate-13-5-0-where-can-i-view-detaile"
+    },
+    {
+      "Created": "2025-09-12T08:02:41Z",
+      "Title": "Permission denied when renaming a directory I own in Linux (Ubuntu)",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "terminal",
+        "permissions",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762663/permission-denied-when-renaming-a-directory-i-own-in-linux-ubuntu"
+    },
+    {
+      "Created": "2025-09-12T08:04:43Z",
+      "Title": "MAUI and Community Toolkit ObjectRecipient inheritance with iOS deployment in release",
+      "Tags": [
+        "ios",
+        "maui",
+        "release",
+        "maui-community-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762666/maui-and-community-toolkit-objectrecipient-inheritance-with-ios-deployment-in-re"
+    },
+    {
+      "Created": "2025-09-12T08:06:39Z",
+      "Title": "How to identify which CRC-16 variant is used in this binary protocol?",
+      "Tags": [
+        "network-programming",
+        "connection",
+        "botframework",
+        "crc",
+        "crc16"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762668/how-to-identify-which-crc-16-variant-is-used-in-this-binary-protocol"
+    }
+  ]
+}

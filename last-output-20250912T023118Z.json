@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-12T02:01:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T01:44:06Z",
+      "Title": "Is there a way to generate HTML and PDFs with selectable text in pandoc?",
+      "Tags": [
+        "svg",
+        "latex",
+        "pandoc",
+        "draw.io"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762478/is-there-a-way-to-generate-html-and-pdfs-with-selectable-text-in-pandoc"
+    },
+    {
+      "Created": "2025-09-12T01:52:07Z",
+      "Title": "Why is it using the wrong value for SQL UPDATE WHERE condition",
+      "Tags": [
+        "python",
+        "sql",
+        "sqlite",
+        "pycord"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762483/why-is-it-using-the-wrong-value-for-sql-update-where-condition"
+    },
+    {
+      "Created": "2025-09-12T02:01:43Z",
+      "Title": "Filling whole alertdialog with background image",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762484/filling-whole-alertdialog-with-background-image"
+    }
+  ]
+}

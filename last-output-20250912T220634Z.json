@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-12T22:04:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T21:44:36Z",
+      "Title": "How to focus only Overlay on next.js using aria",
+      "Tags": [
+        "next.js",
+        "dialog",
+        "accessibility",
+        "wai-aria",
+        "screen-readers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763360/how-to-focus-only-overlay-on-next-js-using-aria"
+    },
+    {
+      "Created": "2025-09-12T21:58:47Z",
+      "Title": "How to append a react-icons element to d3 graph",
+      "Tags": [
+        "reactjs",
+        "d3.js",
+        "react-icons"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763371/how-to-append-a-react-icons-element-to-d3-graph"
+    },
+    {
+      "Created": "2025-09-12T22:00:28Z",
+      "Title": "Cross-Browser Extension OAuth2 with Google Calendar API: Avoiding client_secret and redirect_uri_mismatch while keeping token refresh possible?",
+      "Tags": [
+        "google-chrome-extension",
+        "google-oauth",
+        "chrome-extension-manifest-v3",
+        "browser-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763373/cross-browser-extension-oauth2-with-google-calendar-api-avoiding-client-secret"
+    },
+    {
+      "Created": "2025-09-12T22:04:46Z",
+      "Title": "How to write an infinite loop in MASM assembly?",
+      "Tags": [
+        "assembly",
+        "x86",
+        "masm",
+        "masm64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763375/how-to-write-an-infinite-loop-in-masm-assembly"
+    }
+  ]
+}

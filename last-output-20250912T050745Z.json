@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-12T05:05:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T04:12:24Z",
+      "Title": "Spring Batch jobs failing with duplicate key / serialization errors after upgrading to Spring Boot 3",
+      "Tags": [
+        "spring-boot",
+        "spring-batch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762532/spring-batch-jobs-failing-with-duplicate-key-serialization-errors-after-upgrad"
+    },
+    {
+      "Created": "2025-09-12T04:23:19Z",
+      "Title": "Can XLM-RoBERTa handle noisy label?",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "jupyter-notebook",
+        "nlp",
+        "bert-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762536/can-xlm-roberta-handle-noisy-label"
+    },
+    {
+      "Created": "2025-09-12T04:37:25Z",
+      "Title": "Python qbittorrent-api in VSCode gives no results, no errors",
+      "Tags": [
+        "python",
+        "powershell",
+        "visual-studio-code",
+        "bittorrent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762540/python-qbittorrent-api-in-vscode-gives-no-results-no-errors"
+    },
+    {
+      "Created": "2025-09-12T05:04:15Z",
+      "Title": "rocksdb: Is the feature \u0022tiere storage\u0022 ready for production?",
+      "Tags": [
+        "database",
+        "storage",
+        "rocksdb",
+        "leveldb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762552/rocksdb-is-the-feature-tiere-storage-ready-for-production"
+    },
+    {
+      "Created": "2025-09-12T05:05:21Z",
+      "Title": "Azure ML Endpoint Fails with HFValidationError even after using pathlib.Path",
+      "Tags": [
+        "python",
+        "huggingface-transformers",
+        "large-language-model",
+        "azure-machine-learning-service",
+        "peft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79762554/azure-ml-endpoint-fails-with-hfvalidationerror-even-after-using-pathlib-path"
+    }
+  ]
+}

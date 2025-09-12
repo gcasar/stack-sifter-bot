@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-12T19:01:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-12T18:39:03Z",
+      "Title": "Is it possible in .NET Framework to use reflection to look up a generic method directly?",
+      "Tags": [
+        "c#",
+        "reflection",
+        ".net-4.8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763262/is-it-possible-in-net-framework-to-use-reflection-to-look-up-a-generic-method-d"
+    },
+    {
+      "Created": "2025-09-12T18:53:42Z",
+      "Title": "Sqlite, calculation of balance after each transaction that can be edited",
+      "Tags": [
+        "flutter",
+        "sqlite",
+        "sqflite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763269/sqlite-calculation-of-balance-after-each-transaction-that-can-be-edited"
+    },
+    {
+      "Created": "2025-09-12T18:55:32Z",
+      "Title": "Error when loading FBX file in EditorImportPlugin - how to load fbx files?",
+      "Tags": [
+        "godot",
+        "godot4",
+        "fbx",
+        "godot-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763270/error-when-loading-fbx-file-in-editorimportplugin-how-to-load-fbx-files"
+    },
+    {
+      "Created": "2025-09-12T18:58:45Z",
+      "Title": "custom bootloader for stm32F407vgt6e",
+      "Tags": [
+        "bootloader",
+        "stm32f4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763272/custom-bootloader-for-stm32f407vgt6e"
+    },
+    {
+      "Created": "2025-09-12T19:01:01Z",
+      "Title": "Chrome Extension stops working if service work dev tools is not open",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "google-chrome-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763273/chrome-extension-stops-working-if-service-work-dev-tools-is-not-open"
+    },
+    {
+      "Created": "2025-09-12T19:01:43Z",
+      "Title": "How to set a cell value based on the time range in DatetimeIndex in Pandas",
+      "Tags": [
+        "python",
+        "pandas",
+        "datetimeindex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763274/how-to-set-a-cell-value-based-on-the-time-range-in-datetimeindex-in-pandas"
+    }
+  ]
+}

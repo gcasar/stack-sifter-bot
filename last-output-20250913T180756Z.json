@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-13T18:05:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T17:16:17Z",
+      "Title": "Recursively mod the floor division of a list in kdb",
+      "Tags": [
+        "kdb\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763852/recursively-mod-the-floor-division-of-a-list-in-kdb"
+    },
+    {
+      "Created": "2025-09-13T17:32:11Z",
+      "Title": "The output of my fractal program is in 4 inverted quarters",
+      "Tags": [
+        "python",
+        "python-imaging-library",
+        "fractals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763861/the-output-of-my-fractal-program-is-in-4-inverted-quarters"
+    },
+    {
+      "Created": "2025-09-13T17:35:45Z",
+      "Title": "How to use type hints in a dict with TypeVar and a function that depends on that TypeVar?",
+      "Tags": [
+        "python",
+        "type-hinting",
+        "type-variables",
+        "message-bus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763862/how-to-use-type-hints-in-a-dict-with-typevar-and-a-function-that-depends-on-that"
+    },
+    {
+      "Created": "2025-09-13T17:44:58Z",
+      "Title": "Getting DBeaver Eclipse Plugin for Older Versions of Eclipse",
+      "Tags": [
+        "eclipse",
+        "dbeaver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763869/getting-dbeaver-eclipse-plugin-for-older-versions-of-eclipse"
+    },
+    {
+      "Created": "2025-09-13T17:44:58Z",
+      "Title": "Next.js API route file upload with Formidable \u002B Firebase Admin Storage fails or hangs",
+      "Tags": [
+        "firebase",
+        "next.js",
+        "firebase-storage",
+        "firebase-admin",
+        "formidable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763868/next-js-api-route-file-upload-with-formidable-firebase-admin-storage-fails-or"
+    },
+    {
+      "Created": "2025-09-13T17:47:15Z",
+      "Title": "\u0060ERROR: [VRFC 10-4982]\u0060 and \u0060ERROR: [VRFC 10-8885]\u0060 through instantiation",
+      "Tags": [
+        "verilog",
+        "vivado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763872/error-vrfc-10-4982-and-error-vrfc-10-8885-through-instantiation"
+    },
+    {
+      "Created": "2025-09-13T17:54:13Z",
+      "Title": "Are there any techniques to deal with severely imbalanced datasets in machine learning to increase F1-score?",
+      "Tags": [
+        "machine-learning",
+        "imbalanced-data",
+        "oversampling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763874/are-there-any-techniques-to-deal-with-severely-imbalanced-datasets-in-machine-le"
+    },
+    {
+      "Created": "2025-09-13T18:05:37Z",
+      "Title": "How do I keep all of my website in one single column in html and css?",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763877/how-do-i-keep-all-of-my-website-in-one-single-column-in-html-and-css"
+    }
+  ]
+}

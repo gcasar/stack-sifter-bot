@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-13T12:08:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T11:41:58Z",
+      "Title": "What happens if stdout buffer size is smaller than the string being printed in C?",
+      "Tags": [
+        "c",
+        "linux",
+        "io",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763689/what-happens-if-stdout-buffer-size-is-smaller-than-the-string-being-printed-in-c"
+    },
+    {
+      "Created": "2025-09-13T11:43:58Z",
+      "Title": "why does compareTo method giving an exception?",
+      "Tags": [
+        "java",
+        "nullpointerexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763692/why-does-compareto-method-giving-an-exception"
+    },
+    {
+      "Created": "2025-09-13T11:49:55Z",
+      "Title": "How to union multiple ranges and show it in a listbox of a VBA form",
+      "Tags": [
+        "excel",
+        "vba",
+        "range"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763697/how-to-union-multiple-ranges-and-show-it-in-a-listbox-of-a-vba-form"
+    },
+    {
+      "Created": "2025-09-13T11:57:41Z",
+      "Title": "Generating PDF/A-2 with GhostScript fails",
+      "Tags": [
+        "pdf",
+        "pdf-generation",
+        "ghostscript",
+        "pdfa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763699/generating-pdf-a-2-with-ghostscript-fails"
+    },
+    {
+      "Created": "2025-09-13T12:06:28Z",
+      "Title": "How to mix multiple remote participant audio streams into a single MediaStream in the browser",
+      "Tags": [
+        "getstream-io"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763703/how-to-mix-multiple-remote-participant-audio-streams-into-a-single-mediastream-i"
+    },
+    {
+      "Created": "2025-09-13T12:08:45Z",
+      "Title": "How should I structure a full-stack AI agent project with multiple files and services?",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "project-structure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763707/how-should-i-structure-a-full-stack-ai-agent-project-with-multiple-files-and-ser"
+    }
+  ]
+}

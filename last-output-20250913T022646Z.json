@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-13T02:21:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T01:59:06Z",
+      "Title": "Is a clustered primary key in InnoDB considered a covering index when selecting only PK columns?",
+      "Tags": [
+        "mysql",
+        "innodb",
+        "clustered-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763470/is-a-clustered-primary-key-in-innodb-considered-a-covering-index-when-selecting"
+    },
+    {
+      "Created": "2025-09-13T02:18:40Z",
+      "Title": "Writing and running a stored procedure asynchronously *and* getting a return value",
+      "Tags": [
+        "asynchronous",
+        "stored-procedures",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763474/writing-and-running-a-stored-procedure-asynchronously-and-getting-a-return-val"
+    },
+    {
+      "Created": "2025-09-13T02:21:43Z",
+      "Title": "esp_wifi in module - borrow checker issue",
+      "Tags": [
+        "rust",
+        "embedded",
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763475/esp-wifi-in-module-borrow-checker-issue"
+    }
+  ]
+}

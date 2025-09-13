@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-13T21:31:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T21:15:19Z",
+      "Title": "System.Text.Json deserialization not deserializing the Json string",
+      "Tags": [
+        "c#",
+        "system.text.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763961/system-text-json-deserialization-not-deserializing-the-json-string"
+    },
+    {
+      "Created": "2025-09-13T21:20:19Z",
+      "Title": "Using text in pyqtgraph colorbar tick values",
+      "Tags": [
+        "python-3.x",
+        "colorbar",
+        "pyside6",
+        "pyqtgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763963/using-text-in-pyqtgraph-colorbar-tick-values"
+    },
+    {
+      "Created": "2025-09-13T21:21:14Z",
+      "Title": "How to monitor HTTP client connection pool usage (available vs used connections, pool limit exceeded)",
+      "Tags": [
+        "quarkus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763964/how-to-monitor-http-client-connection-pool-usage-available-vs-used-connections"
+    },
+    {
+      "Created": "2025-09-13T21:31:47Z",
+      "Title": "How to add include paths for precompiled headers in CMake?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "precompiled-headers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763966/how-to-add-include-paths-for-precompiled-headers-in-cmake"
+    }
+  ]
+}

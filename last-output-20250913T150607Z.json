@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-13T15:00:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T14:31:59Z",
+      "Title": "How to deal with potentially-aliased arguments in VST?",
+      "Tags": [
+        "rocq-prover",
+        "formal-verification",
+        "verifiable-c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763769/how-to-deal-with-potentially-aliased-arguments-in-vst"
+    },
+    {
+      "Created": "2025-09-13T14:33:19Z",
+      "Title": "How can you detect copilot suggestions with the github cli (gh command)?",
+      "Tags": [
+        "github",
+        "github-copilot",
+        "github-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763770/how-can-you-detect-copilot-suggestions-with-the-github-cli-gh-command"
+    },
+    {
+      "Created": "2025-09-13T14:44:35Z",
+      "Title": "Kendo UI Progress disappears when called",
+      "Tags": [
+        "jquery",
+        "kendo-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763776/kendo-ui-progress-disappears-when-called"
+    },
+    {
+      "Created": "2025-09-13T14:45:20Z",
+      "Title": "What is the recommended collation for a postgresql citext column?",
+      "Tags": [
+        "postgresql",
+        "postgresql-16"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763777/what-is-the-recommended-collation-for-a-postgresql-citext-column"
+    },
+    {
+      "Created": "2025-09-13T14:56:43Z",
+      "Title": "How to enable autoplay for dynamicly added audio tag",
+      "Tags": [
+        "autoplay"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763783/how-to-enable-autoplay-for-dynamicly-added-audio-tag"
+    },
+    {
+      "Created": "2025-09-13T15:00:25Z",
+      "Title": "How to export/upload pytest results to Polarion",
+      "Tags": [
+        "python",
+        "pytest",
+        "polarion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763787/how-to-export-upload-pytest-results-to-polarion"
+    }
+  ]
+}

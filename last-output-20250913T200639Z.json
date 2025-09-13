@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-13T19:56:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T19:34:00Z",
+      "Title": "ASP.NET MVC Edit GET works but POST results in ArgumentNullException: Value cannot be null. (Parameter \u0027items\u0027) despite debugging showing data",
+      "Tags": [
+        "asp.net-mvc",
+        "http-post"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763921/asp-net-mvc-edit-get-works-but-post-results-in-argumentnullexception-value-cann"
+    },
+    {
+      "Created": "2025-09-13T19:35:50Z",
+      "Title": "Question about google autentification v2. Status: canceled",
+      "Tags": [
+        "c#",
+        "android",
+        "unity-game-engine",
+        "sdk",
+        "google-play-games"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763922/question-about-google-autentification-v2-status-canceled"
+    },
+    {
+      "Created": "2025-09-13T19:50:44Z",
+      "Title": "Why are my sf::Sprite not showing in SFML 3.0 even though textures load correctly?",
+      "Tags": [
+        "c\u002B\u002B",
+        "project",
+        "sprite",
+        "sfml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763930/why-are-my-sfsprite-not-showing-in-sfml-3-0-even-though-textures-load-correctl"
+    },
+    {
+      "Created": "2025-09-13T19:51:48Z",
+      "Title": "Multiple Data Entry in Django ORM",
+      "Tags": [
+        "django",
+        "matplotlib",
+        "datetime",
+        "django-models",
+        "django-views"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763932/multiple-data-entry-in-django-orm"
+    },
+    {
+      "Created": "2025-09-13T19:54:41Z",
+      "Title": "Strange black borders on count changes with cmath on my python fractal render",
+      "Tags": [
+        "python",
+        "math",
+        "python-imaging-library",
+        "fractals",
+        "python-cmath"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763933/strange-black-borders-on-count-changes-with-cmath-on-my-python-fractal-render"
+    },
+    {
+      "Created": "2025-09-13T19:56:07Z",
+      "Title": "arm-poky-linux-gnueabi-libtool shell script in the yocto build",
+      "Tags": [
+        "yocto",
+        "libtool"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763935/arm-poky-linux-gnueabi-libtool-shell-script-in-the-yocto-build"
+    }
+  ]
+}

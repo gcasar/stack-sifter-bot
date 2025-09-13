@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-13T04:53:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T03:48:04Z",
+      "Title": "WhatsApp Cloud API: PDFs sent via API force \u0022Save As\u0022 on Android, but open inline on iOS",
+      "Tags": [
+        "android",
+        "whatsapp",
+        "tcpdf",
+        "whatsapp-cloud-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763493/whatsapp-cloud-api-pdfs-sent-via-api-force-save-as-on-android-but-open-inlin"
+    },
+    {
+      "Created": "2025-09-13T04:00:33Z",
+      "Title": "explain to me understand a simple diffrence in python",
+      "Tags": [
+        "python",
+        "ctf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763494/explain-to-me-understand-a-simple-diffrence-in-python"
+    },
+    {
+      "Created": "2025-09-13T04:38:40Z",
+      "Title": "Scraping Zestimate \u0026 sale range from Zillow property pages with Python (captcha \u0026 proxy issues)",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "captcha",
+        "proxies",
+        "zillow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763504/scraping-zestimate-sale-range-from-zillow-property-pages-with-python-captcha"
+    },
+    {
+      "Created": "2025-09-13T04:39:20Z",
+      "Title": "Getting Code Not Found Error in Vercel Deploynment for Node JS Application",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "deployment",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763505/getting-code-not-found-error-in-vercel-deploynment-for-node-js-application"
+    },
+    {
+      "Created": "2025-09-13T04:41:28Z",
+      "Title": "How should I trigger and run Spark jobs from a microservice for an Iceberg-on-S3 lakehouse?",
+      "Tags": [
+        "amazon-web-services",
+        "apache-spark",
+        "duckdb",
+        "apache-iceberg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763506/how-should-i-trigger-and-run-spark-jobs-from-a-microservice-for-an-iceberg-on-s3"
+    },
+    {
+      "Created": "2025-09-13T04:53:48Z",
+      "Title": "Camoufox hanging after cleaning Mac",
+      "Tags": [
+        "python",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763509/camoufox-hanging-after-cleaning-mac"
+    }
+  ]
+}

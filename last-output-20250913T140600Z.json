@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-13T14:03:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T13:45:12Z",
+      "Title": "C# Process large upload script task reports success before httpClient is finished",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763746/c-sharp-process-large-upload-script-task-reports-success-before-httpclient-is-fi"
+    },
+    {
+      "Created": "2025-09-13T13:45:37Z",
+      "Title": "How to decompress zlib format package in dissector?",
+      "Tags": [
+        "compression",
+        "zlib",
+        "wireshark-dissector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763747/how-to-decompress-zlib-format-package-in-dissector"
+    },
+    {
+      "Created": "2025-09-13T13:48:32Z",
+      "Title": "How can I configure a rust application to link against a different version of the CRT?",
+      "Tags": [
+        "c\u002B\u002B",
+        "rust",
+        "linker",
+        "rust-cargo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763748/how-can-i-configure-a-rust-application-to-link-against-a-different-version-of-th"
+    },
+    {
+      "Created": "2025-09-13T13:51:03Z",
+      "Title": "SwiftUI (2025): best practice for a keyboard-aware chat composer \u2014 pure SwiftUI or wrap UIKit inputAccessoryView?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763749/swiftui-2025-best-practice-for-a-keyboard-aware-chat-composer-pure-swiftui"
+    },
+    {
+      "Created": "2025-09-13T14:03:04Z",
+      "Title": "Azure Pipelines Dynamic Parameter Generation Based on REST API Call",
+      "Tags": [
+        "azure",
+        "iis",
+        "yaml",
+        "azure-pipelines",
+        "azure-pipelines-yaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763753/azure-pipelines-dynamic-parameter-generation-based-on-rest-api-call"
+    }
+  ]
+}

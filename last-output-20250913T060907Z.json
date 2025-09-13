@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-13T05:57:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T05:10:36Z",
+      "Title": "Spring @Scheduled job starts job concurrently",
+      "Tags": [
+        "spring-boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763513/spring-scheduled-job-starts-job-concurrently"
+    },
+    {
+      "Created": "2025-09-13T05:12:43Z",
+      "Title": "How to create a SQL View in SQLModel?",
+      "Tags": [
+        "sqlmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763515/how-to-create-a-sql-view-in-sqlmodel"
+    },
+    {
+      "Created": "2025-09-13T05:13:03Z",
+      "Title": "Type invariance in generic class when callable is involved",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763516/type-invariance-in-generic-class-when-callable-is-involved"
+    },
+    {
+      "Created": "2025-09-13T05:19:24Z",
+      "Title": "Can someone explain me please , why am I getting different results [closed]",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763520/can-someone-explain-me-please-why-am-i-getting-different-results"
+    },
+    {
+      "Created": "2025-09-13T05:57:16Z",
+      "Title": "How to debug when Rigidbody2D has velocity but stays stuck in Unity 2D?",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "physics",
+        "rigid-bodies",
+        "unity2.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763526/how-to-debug-when-rigidbody2d-has-velocity-but-stays-stuck-in-unity-2d"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-13T22:55:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T22:19:34Z",
+      "Title": "Syntax battle using Postgres regex in query",
+      "Tags": [
+        "regex",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763987/syntax-battle-using-postgres-regex-in-query"
+    },
+    {
+      "Created": "2025-09-13T22:26:15Z",
+      "Title": "How can I make the axis labels of a plotly heatmap contain a number?",
+      "Tags": [
+        "plotly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763990/how-can-i-make-the-axis-labels-of-a-plotly-heatmap-contain-a-number"
+    },
+    {
+      "Created": "2025-09-13T22:55:06Z",
+      "Title": "Inno Setup - How to place images alongside/underneath radio buttons for InputOptionPage?",
+      "Tags": [
+        "inno-setup",
+        "pascalscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763999/inno-setup-how-to-place-images-alongside-underneath-radio-buttons-for-inputopt"
+    }
+  ]
+}

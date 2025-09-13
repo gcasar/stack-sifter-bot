@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-13T20:45:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T20:21:03Z",
+      "Title": "Where is a right place to re-create anonymous user in FirebaseAuth",
+      "Tags": [
+        "swift",
+        "firebase-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763949/where-is-a-right-place-to-re-create-anonymous-user-in-firebaseauth"
+    },
+    {
+      "Created": "2025-09-13T20:37:44Z",
+      "Title": "Detecting Unsigned Addition Overflow with Signed Integers in 2\u0027s complement",
+      "Tags": [
+        "python",
+        "unsigned",
+        "integer-overflow",
+        "signed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763952/detecting-unsigned-addition-overflow-with-signed-integers-in-2s-complement"
+    },
+    {
+      "Created": "2025-09-13T20:45:36Z",
+      "Title": "How to fix QWebEngine ImportError on linux?",
+      "Tags": [
+        "python",
+        "pyqt6",
+        "qwebengine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763953/how-to-fix-qwebengine-importerror-on-linux"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-13T12:42:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T12:42:50Z",
+      "Title": "Do we still need to do \u0022ActiveRecord::Base.connection_pool.disconnect!\u0022 in before_fork for puma on heroku?",
+      "Tags": [
+        "ruby-on-rails",
+        "heroku",
+        "puma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763721/do-we-still-need-to-do-activerecordbase-connection-pool-disconnect-in-befor"
+    }
+  ]
+}

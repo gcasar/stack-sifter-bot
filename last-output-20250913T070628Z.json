@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-13T07:00:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T06:25:40Z",
+      "Title": "by mistake disappled and freezed critical system packages like com.android.storagemanager now it bootlooping and adb says (device unauthorized)",
+      "Tags": [
+        "android",
+        "bash",
+        "adb",
+        "bootloader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763542/by-mistake-disappled-and-freezed-critical-system-packages-like-com-android-stora"
+    },
+    {
+      "Created": "2025-09-13T06:28:22Z",
+      "Title": "ESP32 SD card write error: errno 22 (Invalid argument) when using fopen",
+      "Tags": [
+        "filesystems",
+        "esp32",
+        "spi",
+        "sd-card"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763543/esp32-sd-card-write-error-errno-22-invalid-argument-when-using-fopen"
+    },
+    {
+      "Created": "2025-09-13T06:42:56Z",
+      "Title": "Accessing a struct member from what is not the same struct type",
+      "Tags": [
+        "c",
+        "pointers",
+        "struct",
+        "undefined-behavior"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763550/accessing-a-struct-member-from-what-is-not-the-same-struct-type"
+    },
+    {
+      "Created": "2025-09-13T06:48:20Z",
+      "Title": "Designing a system where one derived class is a template",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "polymorphism"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763553/designing-a-system-where-one-derived-class-is-a-template"
+    },
+    {
+      "Created": "2025-09-13T06:57:39Z",
+      "Title": "Sequelize bulkCreate updateOnDuplicate: Cannot read properties of undefined (reading \u0027map\u0027)",
+      "Tags": [
+        "node.js",
+        "sequelize.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763558/sequelize-bulkcreate-updateonduplicate-cannot-read-properties-of-undefined-rea"
+    },
+    {
+      "Created": "2025-09-13T06:58:49Z",
+      "Title": "PQconnectdb extreamly slow compared to pgsql.exe",
+      "Tags": [
+        "c\u002B\u002B",
+        "postgresql",
+        "libpq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763559/pqconnectdb-extreamly-slow-compared-to-pgsql-exe"
+    },
+    {
+      "Created": "2025-09-13T07:00:39Z",
+      "Title": "WebSocket connection closes when calling MCP tools in Google Cloud Run",
+      "Tags": [
+        "python",
+        "google-cloud-platform",
+        "google-cloud-run",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763561/websocket-connection-closes-when-calling-mcp-tools-in-google-cloud-run"
+    }
+  ]
+}

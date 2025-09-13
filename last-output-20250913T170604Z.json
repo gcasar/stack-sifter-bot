@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-13T16:58:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T16:12:53Z",
+      "Title": "Complex SQL Query not Sorting correctly",
+      "Tags": [
+        "sql",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763815/complex-sql-query-not-sorting-correctly"
+    },
+    {
+      "Created": "2025-09-13T16:27:12Z",
+      "Title": "Changing a variable to a property produces an error",
+      "Tags": [
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763824/changing-a-variable-to-a-property-produces-an-error"
+    },
+    {
+      "Created": "2025-09-13T16:38:07Z",
+      "Title": "If an ActiveCell, offset resized, range contains a coloured cell then MsgBox",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763831/if-an-activecell-offset-resized-range-contains-a-coloured-cell-then-msgbox"
+    },
+    {
+      "Created": "2025-09-13T16:58:03Z",
+      "Title": "Spring boot - Choosing right inheritance strategy",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763841/spring-boot-choosing-right-inheritance-strategy"
+    }
+  ]
+}

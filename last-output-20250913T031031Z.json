@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-13T03:00:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T02:34:55Z",
+      "Title": "How to mask SVG pattern tiles that intersect with text (React/Next.js)",
+      "Tags": [
+        "css",
+        "reactjs",
+        "svg",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763476/how-to-mask-svg-pattern-tiles-that-intersect-with-text-react-next-js"
+    },
+    {
+      "Created": "2025-09-13T02:34:59Z",
+      "Title": "Why the same IMMUTABLE function takes more time than STABLE?",
+      "Tags": [
+        "postgresql",
+        "psql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763477/why-the-same-immutable-function-takes-more-time-than-stable"
+    },
+    {
+      "Created": "2025-09-13T03:00:17Z",
+      "Title": "Normalising size of page in captureVisibleTab in chrome extension?",
+      "Tags": [
+        "javascript",
+        "google-chrome-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79763483/normalising-size-of-page-in-capturevisibletab-in-chrome-extension"
+    }
+  ]
+}

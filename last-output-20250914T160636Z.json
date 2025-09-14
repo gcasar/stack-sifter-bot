@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-14T15:52:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T15:22:26Z",
+      "Title": "Laravel form submission not saving to database and file uploads not working",
+      "Tags": [
+        "php",
+        "laravel",
+        "file-upload",
+        "laravel-blade"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764384/laravel-form-submission-not-saving-to-database-and-file-uploads-not-working"
+    },
+    {
+      "Created": "2025-09-14T15:23:44Z",
+      "Title": "Compare last 2 bytes of uint32_t to a uint16_t",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764387/compare-last-2-bytes-of-uint32-t-to-a-uint16-t"
+    },
+    {
+      "Created": "2025-09-14T15:37:58Z",
+      "Title": "Use xmlstarlet to remove node if it contains a certain node",
+      "Tags": [
+        "xml",
+        "xmlstarlet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764398/use-xmlstarlet-to-remove-node-if-it-contains-a-certain-node"
+    },
+    {
+      "Created": "2025-09-14T15:47:54Z",
+      "Title": "Authentication logic isn\u0027t working due to new updates in Appwrite\u0027s database and authentication system, documentation as well",
+      "Tags": [
+        "typescript",
+        "authentication",
+        "google-oauth",
+        "appwrite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764404/authentication-logic-isnt-working-due-to-new-updates-in-appwrites-database-and"
+    },
+    {
+      "Created": "2025-09-14T15:49:51Z",
+      "Title": "Can i make a new Datatype in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "memory-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764405/can-i-make-a-new-datatype-in-c"
+    },
+    {
+      "Created": "2025-09-14T15:52:44Z",
+      "Title": "How to implement secure JWT logout with token blacklisting in a scalable MERN stack app?",
+      "Tags": [
+        "jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764407/how-to-implement-secure-jwt-logout-with-token-blacklisting-in-a-scalable-mern-st"
+    }
+  ]
+}

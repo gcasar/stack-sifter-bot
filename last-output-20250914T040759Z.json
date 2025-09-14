@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-14T04:02:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T04:00:06Z",
+      "Title": "How to show railways line in Android Google Maps SDK?",
+      "Tags": [
+        "android",
+        "google-maps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764079/how-to-show-railways-line-in-android-google-maps-sdk"
+    },
+    {
+      "Created": "2025-09-14T04:02:31Z",
+      "Title": "the vite did not generate sourcemapurl when using topLevelAwait plugin",
+      "Tags": [
+        "typescript",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764081/the-vite-did-not-generate-sourcemapurl-when-using-toplevelawait-plugin"
+    },
+    {
+      "Created": "2025-09-14T04:02:59Z",
+      "Title": "How to use CMake/CPack to create setup.exe for Windows (using NSIS)?",
+      "Tags": [
+        "c\u002B\u002B",
+        "installation",
+        "cmake",
+        "nsis",
+        "cpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764082/how-to-use-cmake-cpack-to-create-setup-exe-for-windows-using-nsis"
+    }
+  ]
+}

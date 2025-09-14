@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-14T20:06:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T19:51:02Z",
+      "Title": "BindableProperty.CreateAttached() method raises Error on build",
+      "Tags": [
+        "c#",
+        "xml",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764535/bindableproperty-createattached-method-raises-error-on-build"
+    },
+    {
+      "Created": "2025-09-14T20:06:25Z",
+      "Title": "getting bad gateway error with nextcloud all in one and openresty configuration",
+      "Tags": [
+        "docker",
+        "docker-compose",
+        "nextcloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764545/getting-bad-gateway-error-with-nextcloud-all-in-one-and-openresty-configuration"
+    }
+  ]
+}

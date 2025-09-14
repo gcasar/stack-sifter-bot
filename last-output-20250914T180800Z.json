@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-14T17:37:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T17:23:46Z",
+      "Title": "LetsEncrypt SSL Certificate Renewal Automation failure with certbot-dns-duckdns [closed]",
+      "Tags": [
+        "lets-encrypt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764452/letsencrypt-ssl-certificate-renewal-automation-failure-with-certbot-dns-duckdns"
+    },
+    {
+      "Created": "2025-09-14T17:37:48Z",
+      "Title": "Android App Widget Provider what is the best approach to have real time battery level and battery charge or discharge?",
+      "Tags": [
+        "service",
+        "broadcastreceiver",
+        "android-workmanager",
+        "android-appwidget",
+        "foreground-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764458/android-app-widget-provider-what-is-the-best-approach-to-have-real-time-battery"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-14T11:03:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T10:41:32Z",
+      "Title": "\u0022The following declarations have the same JVM signature\u0022",
+      "Tags": [
+        "kotlin",
+        "jvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764238/the-following-declarations-have-the-same-jvm-signature"
+    },
+    {
+      "Created": "2025-09-14T10:44:17Z",
+      "Title": "Number Array to Object conversion shorting the Object Keys in ascending order",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "object"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764240/number-array-to-object-conversion-shorting-the-object-keys-in-ascending-order"
+    },
+    {
+      "Created": "2025-09-14T10:48:42Z",
+      "Title": "Should the same email be allowed to register with multiple auth providers (email, Google, Apple)?",
+      "Tags": [
+        "firebase",
+        "authentication",
+        "firebase-authentication",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764243/should-the-same-email-be-allowed-to-register-with-multiple-auth-providers-email"
+    },
+    {
+      "Created": "2025-09-14T11:02:46Z",
+      "Title": "Usage of external libraries in c\u002B\u002B module",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qt6",
+        "c\u002B\u002B-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764254/usage-of-external-libraries-in-c-module"
+    },
+    {
+      "Created": "2025-09-14T11:03:47Z",
+      "Title": "How do I view the CREDITS file of a man page? (when applicable)",
+      "Tags": [
+        "manpage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764256/how-do-i-view-the-credits-file-of-a-man-page-when-applicable"
+    }
+  ]
+}

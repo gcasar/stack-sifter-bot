@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-14T00:28:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-13T23:40:42Z",
+      "Title": "implementing .startswith() with list items",
+      "Tags": [
+        "python",
+        "list",
+        "parsing",
+        "startswith"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764010/implementing-startswith-with-list-items"
+    },
+    {
+      "Created": "2025-09-13T23:45:32Z",
+      "Title": "\u0060__str__\u0060 of a subclass is not called in an f-string",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764012/str-of-a-subclass-is-not-called-in-an-f-string"
+    },
+    {
+      "Created": "2025-09-13T23:47:42Z",
+      "Title": "Why doesn\u0027t -save-temps work with precompiled header?",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "cmake",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764013/why-doesnt-save-temps-work-with-precompiled-header"
+    },
+    {
+      "Created": "2025-09-13T23:54:47Z",
+      "Title": "Test for text content of generated PDF in new tab with cucumber feature",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby",
+        "pdf",
+        "cucumber"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764015/test-for-text-content-of-generated-pdf-in-new-tab-with-cucumber-feature"
+    },
+    {
+      "Created": "2025-09-14T00:00:27Z",
+      "Title": "What is the best way to be handling onmounted calls while making sure the global state management array does not make the form dirty",
+      "Tags": [
+        "forms",
+        "vue.js",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764016/what-is-the-best-way-to-be-handling-onmounted-calls-while-making-sure-the-global"
+    },
+    {
+      "Created": "2025-09-14T00:05:16Z",
+      "Title": "I can\u0027t get Compose to show the changes of a StringBuilder variable",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764020/i-cant-get-compose-to-show-the-changes-of-a-stringbuilder-variable"
+    },
+    {
+      "Created": "2025-09-14T00:08:50Z",
+      "Title": "Setting default access/secret token in minio through docker",
+      "Tags": [
+        "docker",
+        "docker-compose",
+        "minio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764022/setting-default-access-secret-token-in-minio-through-docker"
+    },
+    {
+      "Created": "2025-09-14T00:28:18Z",
+      "Title": "Validate a globed-like path",
+      "Tags": [
+        "python",
+        "validation",
+        "path",
+        "glob"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764028/validate-a-globed-like-path"
+    }
+  ]
+}

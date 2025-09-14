@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-14T21:02:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T20:28:12Z",
+      "Title": "COBOL assignment debugging",
+      "Tags": [
+        "debugging",
+        "variable-assignment",
+        "cobol",
+        "gnucobol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764558/cobol-assignment-debugging"
+    },
+    {
+      "Created": "2025-09-14T21:02:44Z",
+      "Title": "How to use boost::asio::co_spawn with boost::thread::future?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio",
+        "asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764577/how-to-use-boostasioco-spawn-with-boostthreadfuture"
+    }
+  ]
+}

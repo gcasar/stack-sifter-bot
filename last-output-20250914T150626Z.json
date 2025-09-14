@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-14T15:03:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T14:24:26Z",
+      "Title": "Environment generator for user services in systemd?",
+      "Tags": [
+        "environment-variables",
+        "systemd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764361/environment-generator-for-user-services-in-systemd"
+    },
+    {
+      "Created": "2025-09-14T14:36:33Z",
+      "Title": "Regex: validating repeated cmd-line options",
+      "Tags": [
+        "python",
+        "python-re",
+        "regex-greedy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764364/regex-validating-repeated-cmd-line-options"
+    },
+    {
+      "Created": "2025-09-14T14:46:21Z",
+      "Title": "Postgres FDW access on distant temporary tables",
+      "Tags": [
+        "temp-tables",
+        "postgres-fdw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764368/postgres-fdw-access-on-distant-temporary-tables"
+    },
+    {
+      "Created": "2025-09-14T14:46:35Z",
+      "Title": "ASP.NET Core MVC : where in the controller to put the calculation of day difference, and how to then show in Index View",
+      "Tags": [
+        "c#",
+        "asp.net-core-mvc",
+        "calculated-columns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764369/asp-net-core-mvc-where-in-the-controller-to-put-the-calculation-of-day-differe"
+    },
+    {
+      "Created": "2025-09-14T14:50:19Z",
+      "Title": "How to bring the selected date into view in the calendarview control of WinUI?",
+      "Tags": [
+        "winui-3",
+        "winui",
+        "winui-xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764370/how-to-bring-the-selected-date-into-view-in-the-calendarview-control-of-winui"
+    },
+    {
+      "Created": "2025-09-14T15:03:48Z",
+      "Title": "Are there any free React date picker components which are fully localized, including ARIA labels?",
+      "Tags": [
+        "reactjs",
+        "localization",
+        "datetimepicker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764374/are-there-any-free-react-date-picker-components-which-are-fully-localized-inclu"
+    }
+  ]
+}

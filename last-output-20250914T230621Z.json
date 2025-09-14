@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-14T22:54:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T22:54:32Z",
+      "Title": "Getting Undefined in body while hitting post request through postman",
+      "Tags": [
+        "mongodb",
+        "express",
+        "request",
+        "postman",
+        "response"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764608/getting-undefined-in-body-while-hitting-post-request-through-postman"
+    }
+  ]
+}

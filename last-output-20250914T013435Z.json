@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-14T00:57:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T00:43:58Z",
+      "Title": "Why do I see a space between two columns with images and i cant reduce the space between columns?",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764033/why-do-i-see-a-space-between-two-columns-with-images-and-i-cant-reduce-the-space"
+    },
+    {
+      "Created": "2025-09-14T00:55:01Z",
+      "Title": "ESP32-C3 \u002B 3\u00D7 SSD1306 (I\u00B2C): second bus unreliable / freezes \u2014 which pins \u0026 best practices?",
+      "Tags": [
+        "esp32",
+        "arduino-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764036/esp32-c3-3%c3%97-ssd1306-i%c2%b2c-second-bus-unreliable-freezes-which-pins-best"
+    },
+    {
+      "Created": "2025-09-14T00:57:40Z",
+      "Title": "Is there a way to know when a Google (GPT) ad is being closed?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "ads",
+        "google-publisher-tag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764038/is-there-a-way-to-know-when-a-google-gpt-ad-is-being-closed"
+    }
+  ]
+}

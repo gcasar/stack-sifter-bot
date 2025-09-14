@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-14T13:01:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T12:15:28Z",
+      "Title": "ESP32 cannot connect to Arduino Uno via HC-05 Bluetooth module",
+      "Tags": [
+        "bluetooth",
+        "microcontroller",
+        "esp32",
+        "arduino-uno",
+        "hc-05"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764306/esp32-cannot-connect-to-arduino-uno-via-hc-05-bluetooth-module"
+    },
+    {
+      "Created": "2025-09-14T12:28:30Z",
+      "Title": "RankMath Sitemap added successfully to Google Search Console, But not Fetching Child Sitemaps",
+      "Tags": [
+        "wordpress",
+        "wordpress-theming",
+        "seo",
+        "search-engine",
+        "google-search-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764313/rankmath-sitemap-added-successfully-to-google-search-console-but-not-fetching-c"
+    },
+    {
+      "Created": "2025-09-14T12:35:30Z",
+      "Title": "Why is Rust Polars slower than Python Polars on TPCH dataset (20GB Parquet)?",
+      "Tags": [
+        "python",
+        "rust",
+        "bigdata",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764317/why-is-rust-polars-slower-than-python-polars-on-tpch-dataset-20gb-parquet"
+    },
+    {
+      "Created": "2025-09-14T12:46:20Z",
+      "Title": "How to properly handle CreatedBy, UpdatedBy, and DeletedBy fields in a BaseEntity class during CRUD operations?",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "asp.net-core",
+        "design-patterns",
+        "architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764319/how-to-properly-handle-createdby-updatedby-and-deletedby-fields-in-a-baseentit"
+    },
+    {
+      "Created": "2025-09-14T13:01:39Z",
+      "Title": "Cloudflared tunnel configuration with Apache server",
+      "Tags": [
+        "cloudflare"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764327/cloudflared-tunnel-configuration-with-apache-server"
+    }
+  ]
+}

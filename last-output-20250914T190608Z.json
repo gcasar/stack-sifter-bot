@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-14T19:04:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T18:15:42Z",
+      "Title": "Is there a way to ensure all column names - including nested struct and lists are lowercase?",
+      "Tags": [
+        "python",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764480/is-there-a-way-to-ensure-all-column-names-including-nested-struct-and-lists-ar"
+    },
+    {
+      "Created": "2025-09-14T18:25:43Z",
+      "Title": "How to make TypeScript check if a string is \u0060${number}\u0060?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764482/how-to-make-typescript-check-if-a-string-is-number"
+    },
+    {
+      "Created": "2025-09-14T18:27:58Z",
+      "Title": "Why does the input field lose focus after typing a character? [closed]",
+      "Tags": [
+        "reactjs",
+        "input",
+        "lost-focus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764485/why-does-the-input-field-lose-focus-after-typing-a-character"
+    },
+    {
+      "Created": "2025-09-14T18:50:09Z",
+      "Title": "Minimal API: Dictionary\u003Cstring, string\u003E always null when sending data with IFormFile via multipart/form-data",
+      "Tags": [
+        "asp.net-core",
+        "multipartform-data",
+        "model-binding",
+        "minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764491/minimal-api-dictionarystring-string-always-null-when-sending-data-with-iform"
+    },
+    {
+      "Created": "2025-09-14T18:56:22Z",
+      "Title": "Github Actions - Octopus Deploy - Variable passing troubles",
+      "Tags": [
+        "github-actions",
+        "octopus-deploy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764496/github-actions-octopus-deploy-variable-passing-troubles"
+    },
+    {
+      "Created": "2025-09-14T19:04:34Z",
+      "Title": "How to find the longest elementary path in a cycle?",
+      "Tags": [
+        "python",
+        "math",
+        "graph-theory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764501/how-to-find-the-longest-elementary-path-in-a-cycle"
+    }
+  ]
+}

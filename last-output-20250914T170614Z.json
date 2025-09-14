@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-14T16:56:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T16:05:32Z",
+      "Title": "Doesn\u0027t JPA has @Transactional by default?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764413/doesnt-jpa-has-transactional-by-default"
+    },
+    {
+      "Created": "2025-09-14T16:39:05Z",
+      "Title": "Is it possible to customize the spacing inside a custom React MUI treeview item?",
+      "Tags": [
+        "material-ui",
+        "mui-x-tree-view"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764430/is-it-possible-to-customize-the-spacing-inside-a-custom-react-mui-treeview-item"
+    },
+    {
+      "Created": "2025-09-14T16:42:50Z",
+      "Title": "I\u0027m having trouble running C programs with scanf in VS Code terminal",
+      "Tags": [
+        "c",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764433/im-having-trouble-running-c-programs-with-scanf-in-vs-code-terminal"
+    },
+    {
+      "Created": "2025-09-14T16:44:38Z",
+      "Title": "Exception: Transaction failed (No node): Op #2, path: /clickhouse/tables/C/***/block_numbers/202503/block-. (version 24.12.4.49 (official build) [closed]",
+      "Tags": [
+        "clickhouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764435/exception-transaction-failed-no-node-op-2-path-clickhouse-tables-c-b"
+    },
+    {
+      "Created": "2025-09-14T16:56:04Z",
+      "Title": "Why does adding UseEntityFrameworkOutbox break UseScheduledRedelivery?",
+      "Tags": [
+        "masstransit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764438/why-does-adding-useentityframeworkoutbox-break-usescheduledredelivery"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-14T09:49:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T09:29:50Z",
+      "Title": "Is there an api for listing google groups?",
+      "Tags": [
+        "google-cloud-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764207/is-there-an-api-for-listing-google-groups"
+    },
+    {
+      "Created": "2025-09-14T09:49:19Z",
+      "Title": "Escape type=\u0022html\u0022 for Atom XML",
+      "Tags": [
+        "xml",
+        "escaping",
+        "atom-feed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764215/escape-type-html-for-atom-xml"
+    },
+    {
+      "Created": "2025-09-14T09:49:20Z",
+      "Title": "Make button clickable",
+      "Tags": [
+        "html",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764216/make-button-clickable"
+    }
+  ]
+}

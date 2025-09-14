@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-14T08:00:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T07:12:33Z",
+      "Title": "How can I create a transparent MDTextField in KivyMD?",
+      "Tags": [
+        "python",
+        "kivymd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764140/how-can-i-create-a-transparent-mdtextfield-in-kivymd"
+    },
+    {
+      "Created": "2025-09-14T07:21:43Z",
+      "Title": "Can\u0027t access Tomcat Manager with tomcat/tomcat credentials despite correct tomcat-users.xml configuration",
+      "Tags": [
+        "ubuntu",
+        "tomcat",
+        "tomcat9"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764147/cant-access-tomcat-manager-with-tomcat-tomcat-credentials-despite-correct-tomca"
+    },
+    {
+      "Created": "2025-09-14T07:34:44Z",
+      "Title": "Filament dynamic RichEditor field returns \u0027undefined\u0027 when creating a new record",
+      "Tags": [
+        "laravel",
+        "laravel-livewire",
+        "laravel-filament"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764153/filament-dynamic-richeditor-field-returns-undefined-when-creating-a-new-record"
+    },
+    {
+      "Created": "2025-09-14T07:41:47Z",
+      "Title": "Unresolved reference \u0027setAudioPlaybackCaptureConfig\u0027",
+      "Tags": [
+        "java",
+        "android",
+        "kotlin",
+        "andorid-studio-debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764154/unresolved-reference-setaudioplaybackcaptureconfig"
+    },
+    {
+      "Created": "2025-09-14T07:44:03Z",
+      "Title": "Crud operation using html,css and javascript",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "neo4j-javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764155/crud-operation-using-html-css-and-javascript"
+    },
+    {
+      "Created": "2025-09-14T08:00:24Z",
+      "Title": "AI-based Farmer Query Support and Advisory System",
+      "Tags": [
+        "machine-learning",
+        "computer-vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764159/ai-based-farmer-query-support-and-advisory-system"
+    },
+    {
+      "Created": "2025-09-14T08:00:58Z",
+      "Title": "is there a quick way to Filtering Slicers with VBA. Ideally select the last X amount of items on a slicer",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764160/is-there-a-quick-way-to-filtering-slicers-with-vba-ideally-select-the-last-x-am"
+    }
+  ]
+}

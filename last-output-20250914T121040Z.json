@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-14T11:58:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T11:18:44Z",
+      "Title": "If I place my signature on a page its being put higher on the same page after I save the document, how can I solve this using Javascript",
+      "Tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764263/if-i-place-my-signature-on-a-page-its-being-put-higher-on-the-same-page-after-i"
+    },
+    {
+      "Created": "2025-09-14T11:34:06Z",
+      "Title": "Bitwise division in C : Programme seems to work for other numbers but when the divisor is 0 it returns 11 for no apparent reason",
+      "Tags": [
+        "c",
+        "bit-manipulation",
+        "undefined",
+        "bitwise-operators",
+        "division"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764275/bitwise-division-in-c-programme-seems-to-work-for-other-numbers-but-when-the-d"
+    },
+    {
+      "Created": "2025-09-14T11:46:52Z",
+      "Title": "Double printing in PyCharm",
+      "Tags": [
+        "python",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764284/double-printing-in-pycharm"
+    },
+    {
+      "Created": "2025-09-14T11:49:01Z",
+      "Title": "Can we make a vertical InputGroup in PrimeVue?",
+      "Tags": [
+        "vue.js",
+        "primevue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764285/can-we-make-a-vertical-inputgroup-in-primevue"
+    },
+    {
+      "Created": "2025-09-14T11:56:01Z",
+      "Title": "Rope jitter animation when using rope joints in @react-three/rapier",
+      "Tags": [
+        "react-three-fiber",
+        "react-three-rapier"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764292/rope-jitter-animation-when-using-rope-joints-in-react-three-rapier"
+    },
+    {
+      "Created": "2025-09-14T11:58:37Z",
+      "Title": "Spring Cloud Gateway cannot reach my service when it is inside a Docker container [Docker \u002B Spring Cloud Gateway]",
+      "Tags": [
+        "spring-boot",
+        "docker",
+        "docker-compose",
+        "spring-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764294/spring-cloud-gateway-cannot-reach-my-service-when-it-is-inside-a-docker-containe"
+    }
+  ]
+}

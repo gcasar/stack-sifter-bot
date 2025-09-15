@@ -1,0 +1,108 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-15T13:10:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T12:14:24Z",
+      "Title": "Convert ADODB RecordSet to a 2 dimensional array",
+      "Tags": [
+        "excel",
+        "vba",
+        "multidimensional-array",
+        "adodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765116/convert-adodb-recordset-to-a-2-dimensional-array"
+    },
+    {
+      "Created": "2025-09-15T12:22:01Z",
+      "Title": "interceptors only can be controller-scoped",
+      "Tags": [
+        "node.js",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765126/interceptors-only-can-be-controller-scoped"
+    },
+    {
+      "Created": "2025-09-15T12:46:33Z",
+      "Title": "python kafka doesn\u0027t see headers/metadata while kafka ui and kafka go lang does",
+      "Tags": [
+        "python",
+        "apache-kafka",
+        "kafka-python",
+        "provectuslabs-kafka-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765153/python-kafka-doesnt-see-headers-metadata-while-kafka-ui-and-kafka-go-lang-does"
+    },
+    {
+      "Created": "2025-09-15T12:47:52Z",
+      "Title": "Enforce CRTP via Constraint in C\u002B\u002B",
+      "Tags": [
+        "templates",
+        "constraints",
+        "c\u002B\u002B20",
+        "c\u002B\u002B23",
+        "c\u002B\u002B26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765155/enforce-crtp-via-constraint-in-c"
+    },
+    {
+      "Created": "2025-09-15T12:48:57Z",
+      "Title": "Why std::cout does not show uint8 overflow but shows char overflow?",
+      "Tags": [
+        "c\u002B\u002B",
+        "overflow",
+        "cout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765156/why-stdcout-does-not-show-uint8-overflow-but-shows-char-overflow"
+    },
+    {
+      "Created": "2025-09-15T12:53:29Z",
+      "Title": "Are online JSON formatter tools safe to use with sensitive data? [closed]",
+      "Tags": [
+        "text",
+        "compare"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765163/are-online-json-formatter-tools-safe-to-use-with-sensitive-data"
+    },
+    {
+      "Created": "2025-09-15T13:06:50Z",
+      "Title": "How to add an \u0022already existing deleted sender\u0022 on mailjet?",
+      "Tags": [
+        "mailjet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765173/how-to-add-an-already-existing-deleted-sender-on-mailjet"
+    },
+    {
+      "Created": "2025-09-15T13:08:33Z",
+      "Title": "After SparkGraphComputer executes Gremlin syntax, there is a problem with the edge output",
+      "Tags": [
+        "java",
+        "apache-spark",
+        "gremlin",
+        "tinkerpop3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765175/after-sparkgraphcomputer-executes-gremlin-syntax-there-is-a-problem-with-the-ed"
+    },
+    {
+      "Created": "2025-09-15T13:10:05Z",
+      "Title": "Open an OffCanvas= Closes any active Off Canvas",
+      "Tags": [
+        "wordpress",
+        "elementor",
+        "custom-wordpress-pages",
+        "wordpress-shortcode",
+        "off-canvas-menu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765176/open-an-offcanvas-closes-any-active-off-canvas"
+    },
+    {
+      "Created": "2025-09-15T13:10:39Z",
+      "Title": "We have just moved to Windows 11 and now we receive Error 438. How do we resolve?",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765178/we-have-just-moved-to-windows-11-and-now-we-receive-error-438-how-do-we-resolve"
+    }
+  ]
+}

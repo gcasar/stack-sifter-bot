@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-15T19:03:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T18:45:14Z",
+      "Title": "Why is Visual Studio 2017 not creating database for Individual User Authentication?",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765498/why-is-visual-studio-2017-not-creating-database-for-individual-user-authenticati"
+    },
+    {
+      "Created": "2025-09-15T18:49:56Z",
+      "Title": "mvvm data binding on wpf application not working [duplicate]",
+      "Tags": [
+        "wpf",
+        "mvvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765505/mvvm-data-binding-on-wpf-application-not-working"
+    },
+    {
+      "Created": "2025-09-15T18:50:56Z",
+      "Title": "Creating Postgres Users and Granting Permissions from Go",
+      "Tags": [
+        "postgresql",
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765506/creating-postgres-users-and-granting-permissions-from-go"
+    },
+    {
+      "Created": "2025-09-15T18:57:20Z",
+      "Title": "How to add a second CSS property (color change) to a transform animation using classList.toggle?",
+      "Tags": [
+        "javascript",
+        "css",
+        "dom",
+        "css-animations",
+        "transition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765514/how-to-add-a-second-css-property-color-change-to-a-transform-animation-using-c"
+    },
+    {
+      "Created": "2025-09-15T19:03:36Z",
+      "Title": "why do we use try catch even when we throw exception while writing method",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765517/why-do-we-use-try-catch-even-when-we-throw-exception-while-writing-method"
+    }
+  ]
+}

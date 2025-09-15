@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-15T02:33:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T02:05:41Z",
+      "Title": "StoreKit error: missingValue(for: [StoreKit.ProductResponse.Key.price]) when fetching products (Xcode 16.4, iOS 17\u002B, StoreKit 1 vs 2 confusion)",
+      "Tags": [
+        "xcode",
+        "in-app-purchase",
+        "storekit",
+        "react-native-iap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764683/storekit-error-missingvaluefor-storekit-productresponse-key-price-when-fet"
+    },
+    {
+      "Created": "2025-09-15T02:15:54Z",
+      "Title": "Error when std::move RAII object into vector[i]",
+      "Tags": [
+        "c\u002B\u002B",
+        "stdvector",
+        "move-semantics",
+        "raii"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764688/error-when-stdmove-raii-object-into-vectori"
+    },
+    {
+      "Created": "2025-09-15T02:16:25Z",
+      "Title": "How to extract the data from pop up modal and tab by Python [closed]",
+      "Tags": [
+        "javascript",
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764689/how-to-extract-the-data-from-pop-up-modal-and-tab-by-python"
+    },
+    {
+      "Created": "2025-09-15T02:23:21Z",
+      "Title": "Implementing modular arithmetic using bit operations",
+      "Tags": [
+        "c",
+        "math",
+        "bit-manipulation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764693/implementing-modular-arithmetic-using-bit-operations"
+    },
+    {
+      "Created": "2025-09-15T02:33:48Z",
+      "Title": "how to change memory mapping start address at keil with 8051 process",
+      "Tags": [
+        "c",
+        "embedded",
+        "microcontroller",
+        "keil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764701/how-to-change-memory-mapping-start-address-at-keil-with-8051-process"
+    }
+  ]
+}

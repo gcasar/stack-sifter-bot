@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-15T09:04:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T08:37:39Z",
+      "Title": "How to \u0022unset\u0022 colors when customizing an overly-specific Sublime Text Color Scheme?",
+      "Tags": [
+        "css",
+        "scope",
+        "sublimetext3",
+        "syntax-highlighting",
+        "color-scheme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764911/how-to-unset-colors-when-customizing-an-overly-specific-sublime-text-color-sch"
+    },
+    {
+      "Created": "2025-09-15T08:41:40Z",
+      "Title": "EOF Error When using input() in VS Code using Conda environment",
+      "Tags": [
+        "python",
+        "input",
+        "conda",
+        "eoferror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764916/eof-error-when-using-input-in-vs-code-using-conda-environment"
+    },
+    {
+      "Created": "2025-09-15T08:58:14Z",
+      "Title": "MySQL: Writing better compound indexes",
+      "Tags": [
+        "mysql",
+        "indexing",
+        "query-optimization",
+        "composite-key",
+        "compound-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764934/mysql-writing-better-compound-indexes"
+    },
+    {
+      "Created": "2025-09-15T09:04:03Z",
+      "Title": "R: Query into \u0027eurostat\u0027 package",
+      "Tags": [
+        "r",
+        "tidyverse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764940/r-query-into-eurostat-package"
+    }
+  ]
+}

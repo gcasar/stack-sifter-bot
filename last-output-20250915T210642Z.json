@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-15T21:02:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T20:34:16Z",
+      "Title": "Is it possible to set the type of a field based on the value of another field?",
+      "Tags": [
+        "python",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765591/is-it-possible-to-set-the-type-of-a-field-based-on-the-value-of-another-field"
+    },
+    {
+      "Created": "2025-09-15T20:47:43Z",
+      "Title": "CSS: How do I get a \u0022border-image\u0022 to animate on Chromium? It works on Firefox and Safari. Is there an alternative method that fits my usecase?",
+      "Tags": [
+        "html",
+        "css",
+        "image",
+        "text",
+        "border"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765605/css-how-do-i-get-a-border-image-to-animate-on-chromium-it-works-on-firefox-a"
+    },
+    {
+      "Created": "2025-09-15T20:59:58Z",
+      "Title": "Android Kotlin DiffUtil.ItemCallback seems to have a blind spot",
+      "Tags": [
+        "android",
+        "android-recyclerview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765614/android-kotlin-diffutil-itemcallback-seems-to-have-a-blind-spot"
+    },
+    {
+      "Created": "2025-09-15T21:02:20Z",
+      "Title": "What is the category of transform view based on vector?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "stdvector",
+        "std-ranges"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765618/what-is-the-category-of-transform-view-based-on-vector"
+    }
+  ]
+}

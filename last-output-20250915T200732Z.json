@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-15T20:04:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T19:06:26Z",
+      "Title": "convert string with hidden characters",
+      "Tags": [
+        "r",
+        "string",
+        "raw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765519/convert-string-with-hidden-characters"
+    },
+    {
+      "Created": "2025-09-15T19:38:05Z",
+      "Title": "Use decltype(auto) return type to sometimes return references",
+      "Tags": [
+        "c\u002B\u002B",
+        "reference",
+        "language-lawyer",
+        "decltype-auto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765541/use-decltypeauto-return-type-to-sometimes-return-references"
+    },
+    {
+      "Created": "2025-09-15T19:54:32Z",
+      "Title": "How to configure VSCode keybindings so that they work in the terminal when Claude Code is running, but not otherwise?",
+      "Tags": [
+        "visual-studio-code",
+        "claude-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765554/how-to-configure-vscode-keybindings-so-that-they-work-in-the-terminal-when-claud"
+    },
+    {
+      "Created": "2025-09-15T19:56:35Z",
+      "Title": "How to handle one-time bulk ingestion of production data into Azure Databricks ELT pipelines with Dev/Test/Prod environment segregation?",
+      "Tags": [
+        "azure",
+        "azure-databricks",
+        "azure-data-lake",
+        "data-engineering",
+        "hipaa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765556/how-to-handle-one-time-bulk-ingestion-of-production-data-into-azure-databricks-e"
+    },
+    {
+      "Created": "2025-09-15T20:03:47Z",
+      "Title": "Terraform: update Azure web appsettings without losing old settings is not working. When I add a new appsettings it removes the old ones",
+      "Tags": [
+        "azure",
+        "terraform",
+        "terraform-provider-azure",
+        "appsettings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765564/terraform-update-azure-web-appsettings-without-losing-old-settings-is-not-worki"
+    },
+    {
+      "Created": "2025-09-15T20:04:22Z",
+      "Title": "HAS_PERMS_BY_NAME returns 0 in MS SQL but user has permissions to update \u0026 delete",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765565/has-perms-by-name-returns-0-in-ms-sql-but-user-has-permissions-to-update-delet"
+    }
+  ]
+}

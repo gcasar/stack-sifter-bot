@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-15T11:02:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T10:11:26Z",
+      "Title": "Detection of Unavailable Characters (Tofu Box) in a String [closed]",
+      "Tags": [
+        "swift",
+        "windows",
+        "kotlin",
+        "mobile-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764999/detection-of-unavailable-characters-tofu-box-in-a-string"
+    },
+    {
+      "Created": "2025-09-15T10:19:33Z",
+      "Title": "System verilog constraint for queues with fixed number of 6s",
+      "Tags": [
+        "queue",
+        "constraints",
+        "system-verilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765011/system-verilog-constraint-for-queues-with-fixed-number-of-6s"
+    },
+    {
+      "Created": "2025-09-15T10:43:37Z",
+      "Title": "Kerberos proxy authetication using Axis2_2.0.0 and httpclient5",
+      "Tags": [
+        "proxy",
+        "kerberos",
+        "squid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765036/kerberos-proxy-authetication-using-axis2-2-0-0-and-httpclient5"
+    },
+    {
+      "Created": "2025-09-15T10:43:55Z",
+      "Title": "C programming Factorial problems",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765037/c-programming-factorial-problems"
+    },
+    {
+      "Created": "2025-09-15T10:46:47Z",
+      "Title": "Error processing datasets.arrow_dataset.Dataset scalar columns using tensorflow",
+      "Tags": [
+        "tensorflow2.0",
+        "pyarrow",
+        "huggingface-datasets",
+        "python-3.13"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765040/error-processing-datasets-arrow-dataset-dataset-scalar-columns-using-tensorflow"
+    },
+    {
+      "Created": "2025-09-15T10:58:18Z",
+      "Title": "Use Form field values in whereClause of SaveToDatabaseFinisher",
+      "Tags": [
+        "typo3",
+        "typo3-13.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765046/use-form-field-values-in-whereclause-of-savetodatabasefinisher"
+    },
+    {
+      "Created": "2025-09-15T10:59:08Z",
+      "Title": "Jetpack Compose Material 3: How to use Expressive style Pull-to-Refresh indicator with PullToRefreshBox?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "android-jetpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765047/jetpack-compose-material-3-how-to-use-expressive-style-pull-to-refresh-indicato"
+    },
+    {
+      "Created": "2025-09-15T11:02:35Z",
+      "Title": "Chipyard/Gemmini:Simulation Fails with \u0022ReservationStation.scala\u0022 Assertion for Softmax/Layernorm Workloads",
+      "Tags": [
+        "hardware",
+        "microchip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765049/chipyard-gemminisimulation-fails-with-reservationstation-scala-assertion-for"
+    }
+  ]
+}

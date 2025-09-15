@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-15T14:05:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T13:15:42Z",
+      "Title": "How to add a build config to xcode that switches on all ASAN diagnostics and environment options",
+      "Tags": [
+        "xcode",
+        "address-sanitizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765182/how-to-add-a-build-config-to-xcode-that-switches-on-all-asan-diagnostics-and-env"
+    },
+    {
+      "Created": "2025-09-15T13:16:16Z",
+      "Title": "Can\u0027t render Chinese chars with freetype",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi",
+        "cjk",
+        "freetype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765185/cant-render-chinese-chars-with-freetype"
+    },
+    {
+      "Created": "2025-09-15T13:26:06Z",
+      "Title": "Analyze Backtrace of Linux Executable with separated debug files",
+      "Tags": [
+        "c\u002B\u002B",
+        "gdb",
+        "g\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765201/analyze-backtrace-of-linux-executable-with-separated-debug-files"
+    },
+    {
+      "Created": "2025-09-15T14:01:30Z",
+      "Title": "Typescript overload function with mapping between unions",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765236/typescript-overload-function-with-mapping-between-unions"
+    },
+    {
+      "Created": "2025-09-15T14:03:31Z",
+      "Title": "Outlook classic (vsto): Identifier of context menu of appointment in reminder window",
+      "Tags": [
+        "c#",
+        "outlook",
+        "vsto",
+        "ms-office",
+        "office-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765240/outlook-classic-vsto-identifier-of-context-menu-of-appointment-in-reminder-wi"
+    },
+    {
+      "Created": "2025-09-15T14:05:32Z",
+      "Title": "htaccess rewrite rule while limiting to one of two specific folder names",
+      "Tags": [
+        ".htaccess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765241/htaccess-rewrite-rule-while-limiting-to-one-of-two-specific-folder-names"
+    },
+    {
+      "Created": "2025-09-15T14:05:58Z",
+      "Title": "What is the best approach: separate Next.js frontend and backend containers, or a single Next.js container handling both?",
+      "Tags": [
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765243/what-is-the-best-approach-separate-next-js-frontend-and-backend-containers-or"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-15T18:05:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T17:24:15Z",
+      "Title": "Interpretation of \u0022refer to\u0022 in 6.7.3.7 in the C standard",
+      "Tags": [
+        "c",
+        "types",
+        "language-lawyer",
+        "volatile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765440/interpretation-of-refer-to-in-6-7-3-7-in-the-c-standard"
+    },
+    {
+      "Created": "2025-09-15T17:45:20Z",
+      "Title": "Given an integer array arr, return all the unique pairs [arr[i], arr[j]] such that i != j and arr[i] \u002B arr[j] == 0",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "vector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765453/given-an-integer-array-arr-return-all-the-unique-pairs-arri-arrj-such-th"
+    },
+    {
+      "Created": "2025-09-15T17:56:45Z",
+      "Title": "How to limit (firewall / iptable like rules) the network access of a podman container",
+      "Tags": [
+        "network-programming",
+        "iptables",
+        "podman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765462/how-to-limit-firewall-iptable-like-rules-the-network-access-of-a-podman-cont"
+    },
+    {
+      "Created": "2025-09-15T18:03:09Z",
+      "Title": "Resolving ServiceProvider DI Container and Prism Dialog registration",
+      "Tags": [
+        "c#",
+        "wpf",
+        "dependency-injection",
+        "prism",
+        "service-provider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765465/resolving-serviceprovider-di-container-and-prism-dialog-registration"
+    },
+    {
+      "Created": "2025-09-15T18:05:12Z",
+      "Title": "How to Record Video Using directshow.dll and VB.NET",
+      "Tags": [
+        "vb.net",
+        "webcam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765468/how-to-record-video-using-directshow-dll-and-vb-net"
+    }
+  ]
+}

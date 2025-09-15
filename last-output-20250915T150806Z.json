@@ -1,0 +1,102 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-15T15:05:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T14:14:48Z",
+      "Title": "How to adjust Selenium/Python code for data extraction using different websites",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765258/how-to-adjust-selenium-python-code-for-data-extraction-using-different-websites"
+    },
+    {
+      "Created": "2025-09-15T14:35:14Z",
+      "Title": "Why am I getting NG203 when calling createComponent",
+      "Tags": [
+        "angular",
+        "webpack-module-federation",
+        "angular-module-federation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765284/why-am-i-getting-ng203-when-calling-createcomponent"
+    },
+    {
+      "Created": "2025-09-15T14:50:08Z",
+      "Title": "Does mypy not consider \u0022bool(object) == True\u0022?",
+      "Tags": [
+        "python",
+        "python-typing",
+        "mypy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765297/does-mypy-not-consider-boolobject-true"
+    },
+    {
+      "Created": "2025-09-15T14:51:23Z",
+      "Title": "Oracle BI Publisher Excel output breaking due to concatenated column for a particular bank acc",
+      "Tags": [
+        "sql",
+        "oracle-database",
+        "bi-publisher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765298/oracle-bi-publisher-excel-output-breaking-due-to-concatenated-column-for-a-parti"
+    },
+    {
+      "Created": "2025-09-15T14:55:06Z",
+      "Title": "Does a MongoDB multikey index return duplicate parent documents if multiple array elements match?",
+      "Tags": [
+        "mongodb",
+        "mongodb-query",
+        "aggregation-framework",
+        "mongodb-indexes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765299/does-a-mongodb-multikey-index-return-duplicate-parent-documents-if-multiple-arra"
+    },
+    {
+      "Created": "2025-09-15T14:56:20Z",
+      "Title": "Increase size of three hamburger lines in Mobile view",
+      "Tags": [
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765301/increase-size-of-three-hamburger-lines-in-mobile-view"
+    },
+    {
+      "Created": "2025-09-15T14:56:36Z",
+      "Title": "Trouble Migrating LocalDb Database to SQLExpress to Support Full Text Search",
+      "Tags": [
+        "database",
+        "azure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765303/trouble-migrating-localdb-database-to-sqlexpress-to-support-full-text-search"
+    },
+    {
+      "Created": "2025-09-15T14:58:07Z",
+      "Title": "AWS eb list --verbose showing application but not environments",
+      "Tags": [
+        "amazon-elastic-beanstalk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765307/aws-eb-list-verbose-showing-application-but-not-environments"
+    },
+    {
+      "Created": "2025-09-15T14:59:26Z",
+      "Title": "Strictly depending on Coroutine 1.8.1 with Kotlin 2",
+      "Tags": [
+        "android",
+        "firebase",
+        "kotlin-coroutines",
+        "compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765310/strictly-depending-on-coroutine-1-8-1-with-kotlin-2"
+    },
+    {
+      "Created": "2025-09-15T15:05:02Z",
+      "Title": "Module.findExportByName doesn\u0027t compile",
+      "Tags": [
+        "javascript",
+        "frida"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765314/module-findexportbyname-doesnt-compile"
+    }
+  ]
+}

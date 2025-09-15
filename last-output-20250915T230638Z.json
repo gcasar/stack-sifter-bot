@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-15T23:04:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T22:35:09Z",
+      "Title": "Keep the nodejs server running in ec2 using aws ssm send command",
+      "Tags": [
+        "node.js",
+        "amazon-web-services",
+        "amazon-ec2",
+        "github-actions",
+        "aws-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765657/keep-the-nodejs-server-running-in-ec2-using-aws-ssm-send-command"
+    },
+    {
+      "Created": "2025-09-15T22:55:45Z",
+      "Title": "How can I have a delay until useQuery/refetch have returned the data",
+      "Tags": [
+        "react-native",
+        "react-query",
+        "tanstackreact-query",
+        "tanstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765662/how-can-i-have-a-delay-until-usequery-refetch-have-returned-the-data"
+    },
+    {
+      "Created": "2025-09-15T23:04:37Z",
+      "Title": "Does \u0060git diff\u0060 pass down its own arguments to sub-commands?",
+      "Tags": [
+        "git",
+        "git-diff",
+        "git-grep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765665/does-git-diff-pass-down-its-own-arguments-to-sub-commands"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-15T11:57:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T11:40:20Z",
+      "Title": "Inspector inside NavigationStack causes scrolling and transition issues",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "swiftui-navigationstack",
+        "ipados",
+        "swiftui-inspector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765082/inspector-inside-navigationstack-causes-scrolling-and-transition-issues"
+    },
+    {
+      "Created": "2025-09-15T11:52:58Z",
+      "Title": "GKE Backup PVC stuck in Pending after upgrading cluster to Dataplane V2",
+      "Tags": [
+        "kubernetes",
+        "google-cloud-platform",
+        "devops",
+        "storage",
+        "kubernetes-pvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765091/gke-backup-pvc-stuck-in-pending-after-upgrading-cluster-to-dataplane-v2"
+    },
+    {
+      "Created": "2025-09-15T11:53:04Z",
+      "Title": "Magic number problem with Hatch environments on Windows",
+      "Tags": [
+        "python",
+        "windows",
+        "hatch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765092/magic-number-problem-with-hatch-environments-on-windows"
+    },
+    {
+      "Created": "2025-09-15T11:54:16Z",
+      "Title": "VRP with central depot",
+      "Tags": [
+        "timefold"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765095/vrp-with-central-depot"
+    },
+    {
+      "Created": "2025-09-15T11:54:40Z",
+      "Title": "Can I use redis in payment system as ttl? [closed]",
+      "Tags": [
+        "python",
+        "postgresql",
+        "redis",
+        "fastapi",
+        "payment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765096/can-i-use-redis-in-payment-system-as-ttl"
+    },
+    {
+      "Created": "2025-09-15T11:57:26Z",
+      "Title": "IHttpActivityFeature or System.Diagnostics.Activity?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        ".net",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765098/ihttpactivityfeature-or-system-diagnostics-activity"
+    }
+  ]
+}

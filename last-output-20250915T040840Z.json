@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-15T03:45:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T03:32:00Z",
+      "Title": "Elavon Converge EWALLETINQUIRY with applepaySession returns empty session, but direct Apple request (with PEM/KEY) works",
+      "Tags": [
+        "payment-gateway",
+        "applepay"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764715/elavon-converge-ewalletinquiry-with-applepaysession-returns-empty-session-but-d"
+    },
+    {
+      "Created": "2025-09-15T03:40:21Z",
+      "Title": "How to optimize multiple Node.js apps on Windows Server with PM2, Nginx, and safe restarts?",
+      "Tags": [
+        "node.js",
+        "performance",
+        "nginx",
+        "devops",
+        "windows-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764716/how-to-optimize-multiple-node-js-apps-on-windows-server-with-pm2-nginx-and-saf"
+    },
+    {
+      "Created": "2025-09-15T03:45:18Z",
+      "Title": "Why does hugging face trainer still recognize different device between my encoder \u0026 classifier head even after I manually map it on the same device",
+      "Tags": [
+        "pytorch",
+        "large-language-model",
+        "huggingface",
+        "multi-gpu",
+        "huggingface-trainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764717/why-does-hugging-face-trainer-still-recognize-different-device-between-my-encode"
+    }
+  ]
+}

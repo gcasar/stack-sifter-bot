@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-15T10:02:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T09:21:33Z",
+      "Title": "Why does my API call in Next.js return undefined even though the Express backend works fine?",
+      "Tags": [
+        "node.js",
+        "express",
+        "next.js",
+        "fetch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764950/why-does-my-api-call-in-next-js-return-undefined-even-though-the-express-backend"
+    },
+    {
+      "Created": "2025-09-15T09:38:58Z",
+      "Title": "Embed application insights into our web app",
+      "Tags": [
+        "angular",
+        "angularjs",
+        "azure",
+        "azure-application-insights"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764969/embed-application-insights-into-our-web-app"
+    },
+    {
+      "Created": "2025-09-15T09:43:14Z",
+      "Title": "Do I have to copy every workspace member in the Dockerfile to be able to use \u0060uv sync --locked\u0060",
+      "Tags": [
+        "python-3.x",
+        "docker",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764974/do-i-have-to-copy-every-workspace-member-in-the-dockerfile-to-be-able-to-use-uv"
+    },
+    {
+      "Created": "2025-09-15T09:43:58Z",
+      "Title": "Cannot create file if I hardcode the file path. But I can if I specify the path via File Picker",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764977/cannot-create-file-if-i-hardcode-the-file-path-but-i-can-if-i-specify-the-path"
+    },
+    {
+      "Created": "2025-09-15T09:49:55Z",
+      "Title": "AFL example get result",
+      "Tags": [
+        "c\u002B\u002B",
+        "fuzzing",
+        "american-fuzzy-lop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764979/afl-example-get-result"
+    },
+    {
+      "Created": "2025-09-15T09:52:13Z",
+      "Title": "How to dynamically disable \u0022chrome_url_overrides\u0022 in a Chrome extension?",
+      "Tags": [
+        "google-chrome",
+        "google-chrome-extension",
+        "chrome-extension-manifest-v3",
+        "chrome-extension-manifest-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764980/how-to-dynamically-disable-chrome-url-overrides-in-a-chrome-extension"
+    },
+    {
+      "Created": "2025-09-15T10:01:11Z",
+      "Title": "55 Build errors \u0022Unresolved external symbol\u0022",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "build",
+        "azerothcore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764986/55-build-errors-unresolved-external-symbol"
+    },
+    {
+      "Created": "2025-09-15T10:02:15Z",
+      "Title": "Why is an extra column line created in css grid?",
+      "Tags": [
+        "css",
+        "css-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764988/why-is-an-extra-column-line-created-in-css-grid"
+    }
+  ]
+}

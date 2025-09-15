@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-15T00:25:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-14T23:15:37Z",
+      "Title": "Make array with osclass custom category while loop",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764616/make-array-with-osclass-custom-category-while-loop"
+    },
+    {
+      "Created": "2025-09-14T23:43:44Z",
+      "Title": "Mudblazor EditForm - detect if any field value has changed",
+      "Tags": [
+        "mudblazor",
+        "editform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764629/mudblazor-editform-detect-if-any-field-value-has-changed"
+    },
+    {
+      "Created": "2025-09-14T23:49:51Z",
+      "Title": "Compiled 16-bit literals use 32 bits on ESP32",
+      "Tags": [
+        "c",
+        "gcc",
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764632/compiled-16-bit-literals-use-32-bits-on-esp32"
+    },
+    {
+      "Created": "2025-09-15T00:25:05Z",
+      "Title": "Android: Google Recognizer Intent: EXTRA_PREFER_OFFLINE and API 33\u002B",
+      "Tags": [
+        "android",
+        "speech-recognition",
+        "speech"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764646/android-google-recognizer-intent-extra-prefer-offline-and-api-33"
+    }
+  ]
+}

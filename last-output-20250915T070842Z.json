@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-15T07:07:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T06:19:23Z",
+      "Title": "How to clear specific byte values inside a 64-bit value without looping",
+      "Tags": [
+        "c",
+        "go",
+        "bit-manipulation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764782/how-to-clear-specific-byte-values-inside-a-64-bit-value-without-looping"
+    },
+    {
+      "Created": "2025-09-15T06:46:18Z",
+      "Title": "Preflight Request Failure Handling Axios",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "next.js",
+        "axios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764807/preflight-request-failure-handling-axios"
+    },
+    {
+      "Created": "2025-09-15T06:46:47Z",
+      "Title": "Why doesn\u0027t @TransactionalEventListener(AFTER_COMMIT) trigger when event is published from another AFTER_COMMIT listener?",
+      "Tags": [
+        "spring-boot",
+        "transactions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764809/why-doesnt-transactionaleventlistenerafter-commit-trigger-when-event-is-publ"
+    },
+    {
+      "Created": "2025-09-15T06:47:07Z",
+      "Title": "Pairing hobbywing esc EZRUN MAX6 with esp32",
+      "Tags": [
+        "arduino",
+        "bluetooth-lowenergy",
+        "esp32",
+        "ble-pairing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764810/pairing-hobbywing-esc-ezrun-max6-with-esp32"
+    },
+    {
+      "Created": "2025-09-15T06:52:17Z",
+      "Title": "Firefox and Safari renders a gap around SVGs while resizing the window. Chrome is working fine",
+      "Tags": [
+        "html",
+        "css",
+        "firefox",
+        "safari",
+        "cross-browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764815/firefox-and-safari-renders-a-gap-around-svgs-while-resizing-the-window-chrome-i"
+    },
+    {
+      "Created": "2025-09-15T07:04:29Z",
+      "Title": "How to verify that obscure Python behavior is by design",
+      "Tags": [
+        "python",
+        "metaprogramming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764826/how-to-verify-that-obscure-python-behavior-is-by-design"
+    },
+    {
+      "Created": "2025-09-15T07:07:44Z",
+      "Title": "How to securely access a Cloud Run backend from a frontend when both are protected by IAP?",
+      "Tags": [
+        "reactjs",
+        "google-cloud-platform",
+        "fastapi",
+        "google-cloud-run"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764831/how-to-securely-access-a-cloud-run-backend-from-a-frontend-when-both-are-protect"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-15T08:09:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T07:54:49Z",
+      "Title": "what is the number meaning in square brackets of 3gpp doc?",
+      "Tags": [
+        "doc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764863/what-is-the-number-meaning-in-square-brackets-of-3gpp-doc"
+    },
+    {
+      "Created": "2025-09-15T08:01:49Z",
+      "Title": "Need help how to setup the selenium project for taking screenshot and saving it in excel that is present in project",
+      "Tags": [
+        "java",
+        "selenium-webdriver",
+        "selenium-chromedriver",
+        "testng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764871/need-help-how-to-setup-the-selenium-project-for-taking-screenshot-and-saving-it"
+    },
+    {
+      "Created": "2025-09-15T08:02:15Z",
+      "Title": "Oracle DB: is there a way to re-compute CURRENT_DATE or SYSDATE for each record in a batch write?",
+      "Tags": [
+        "sql",
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764873/oracle-db-is-there-a-way-to-re-compute-current-date-or-sysdate-for-each-record"
+    },
+    {
+      "Created": "2025-09-15T08:05:18Z",
+      "Title": "How to get values from FormControl components of frappe ui using in vuejs?",
+      "Tags": [
+        "python",
+        "vue.js",
+        "frappe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764876/how-to-get-values-from-formcontrol-components-of-frappe-ui-using-in-vuejs"
+    },
+    {
+      "Created": "2025-09-15T08:09:23Z",
+      "Title": "goRoutine is closed but i can\u0027t set return",
+      "Tags": [
+        "go",
+        "goroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79764881/goroutine-is-closed-but-i-cant-set-return"
+    }
+  ]
+}

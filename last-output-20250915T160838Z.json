@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-15T16:05:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-15T15:22:19Z",
+      "Title": "Screenreader is able to focus tabindex=-1 elements inside a table",
+      "Tags": [
+        "html",
+        "accessibility"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765336/screenreader-is-able-to-focus-tabindex-1-elements-inside-a-table"
+    },
+    {
+      "Created": "2025-09-15T15:38:20Z",
+      "Title": "How to efficiently split a text file with an arbitrary Charset without damaging code points?",
+      "Tags": [
+        "java",
+        "character-encoding",
+        "java-nio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765350/how-to-efficiently-split-a-text-file-with-an-arbitrary-charset-without-damaging"
+    },
+    {
+      "Created": "2025-09-15T15:54:13Z",
+      "Title": "imap FetchHeaders is failing with Chilkat latest release 11.1.0",
+      "Tags": [
+        "chilkat",
+        "chilkat-email"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765361/imap-fetchheaders-is-failing-with-chilkat-latest-release-11-1-0"
+    },
+    {
+      "Created": "2025-09-15T16:00:02Z",
+      "Title": "Django Unit Test - using factory_boy build() on a Model with Many-To-Many relationship",
+      "Tags": [
+        "django",
+        "pytest",
+        "django-testing",
+        "factory-boy",
+        "django-unittest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765366/django-unit-test-using-factory-boy-build-on-a-model-with-many-to-many-relati"
+    },
+    {
+      "Created": "2025-09-15T16:05:39Z",
+      "Title": "Detect if \u0022message\u0022 event ran inside iframe came from my Chrome extension or from a page script (and block the latter)",
+      "Tags": [
+        "javascript",
+        "iframe",
+        "google-chrome-extension",
+        "firefox-addon-webextensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765372/detect-if-message-event-ran-inside-iframe-came-from-my-chrome-extension-or-fro"
+    }
+  ]
+}

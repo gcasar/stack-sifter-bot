@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-16T22:51:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T22:29:47Z",
+      "Title": "If Else with char in C",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766733/if-else-with-char-in-c"
+    },
+    {
+      "Created": "2025-09-16T22:51:23Z",
+      "Title": "How can I get the accurate time spent in the pytest-html report when the tests are run in parallel (via pytest-xdist)?",
+      "Tags": [
+        "python",
+        "pytest",
+        "pytest-html",
+        "pytest-xdist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766750/how-can-i-get-the-accurate-time-spent-in-the-pytest-html-report-when-the-tests-a"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-16T02:28:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T01:37:13Z",
+      "Title": "Display full python docs in Visual Studio Code",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765710/display-full-python-docs-in-visual-studio-code"
+    },
+    {
+      "Created": "2025-09-16T02:05:57Z",
+      "Title": "Local atomics causes GPU to crash",
+      "Tags": [
+        "opencl",
+        "pyopencl",
+        "opencl-c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765720/local-atomics-causes-gpu-to-crash"
+    },
+    {
+      "Created": "2025-09-16T02:12:39Z",
+      "Title": "Razorpay UI not opening on iOS device",
+      "Tags": [
+        "javascript",
+        "android",
+        "xcode",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765724/razorpay-ui-not-opening-on-ios-device"
+    },
+    {
+      "Created": "2025-09-16T02:16:17Z",
+      "Title": "How to interact with keyboard during simulation?",
+      "Tags": [
+        "c",
+        "xlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765727/how-to-interact-with-keyboard-during-simulation"
+    },
+    {
+      "Created": "2025-09-16T02:22:58Z",
+      "Title": "How do I append a timestamp data type with zuckdb/duckdb appender in zig",
+      "Tags": [
+        "timestamp",
+        "duckdb",
+        "zig",
+        "appender"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765730/how-do-i-append-a-timestamp-data-type-with-zuckdb-duckdb-appender-in-zig"
+    },
+    {
+      "Created": "2025-09-16T02:24:18Z",
+      "Title": "How can I collect the entire text of a PubMed/NIH article using Python?",
+      "Tags": [
+        "python",
+        "nlp",
+        "pubmed",
+        "doi",
+        "pubmed-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765731/how-can-i-collect-the-entire-text-of-a-pubmed-nih-article-using-python"
+    },
+    {
+      "Created": "2025-09-16T02:24:50Z",
+      "Title": "i need to make a loop from this to calculate albedos for a wide range on planetary temperature (e.g. from T=250 K to T=300K.)",
+      "Tags": [
+        "arrays",
+        "loops",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765732/i-need-to-make-a-loop-from-this-to-calculate-albedos-for-a-wide-range-on-planeta"
+    },
+    {
+      "Created": "2025-09-16T02:28:32Z",
+      "Title": "Omarchy linux version and React Native not working OPENAI KEY",
+      "Tags": [
+        "linux",
+        "openai-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765735/omarchy-linux-version-and-react-native-not-working-openai-key"
+    }
+  ]
+}

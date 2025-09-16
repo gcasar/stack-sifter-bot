@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-16T14:00:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T13:48:32Z",
+      "Title": "Grouping items in a WinUI3 ComboBox control",
+      "Tags": [
+        "winui-3",
+        "winui",
+        "winui-xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766305/grouping-items-in-a-winui3-combobox-control"
+    },
+    {
+      "Created": "2025-09-16T13:48:35Z",
+      "Title": "Can\u0027t change folder name when using OneDrive with ESPIDF",
+      "Tags": [
+        "esp32",
+        "onedrive",
+        "esp-idf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766306/cant-change-folder-name-when-using-onedrive-with-espidf"
+    },
+    {
+      "Created": "2025-09-16T13:50:32Z",
+      "Title": "Gateway not initializing connectors due to empty remote config payload",
+      "Tags": [
+        "thingsboard",
+        "thingsboard-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766310/gateway-not-initializing-connectors-due-to-empty-remote-config-payload"
+    },
+    {
+      "Created": "2025-09-16T13:50:40Z",
+      "Title": "My code doesnt work for all situations apparently in hackerrank [closed]",
+      "Tags": [
+        "python",
+        "list-comprehension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766311/my-code-doesnt-work-for-all-situations-apparently-in-hackerrank"
+    },
+    {
+      "Created": "2025-09-16T13:54:34Z",
+      "Title": "How can I get access to the exact image used by packer when I\u0027ve specified an image family for it use",
+      "Tags": [
+        "google-compute-engine",
+        "terraform-provider-gcp",
+        "packer",
+        "hcl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766313/how-can-i-get-access-to-the-exact-image-used-by-packer-when-ive-specified-an-im"
+    },
+    {
+      "Created": "2025-09-16T13:57:41Z",
+      "Title": "How do I add a row after a group of data in Google Sheet to overcome its time limit?",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766316/how-do-i-add-a-row-after-a-group-of-data-in-google-sheet-to-overcome-its-time-li"
+    },
+    {
+      "Created": "2025-09-16T14:00:34Z",
+      "Title": "Redirect Mismatch Problem in google based in login for chrome extension",
+      "Tags": [
+        "google-chrome-extension",
+        "google-signin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766317/redirect-mismatch-problem-in-google-based-in-login-for-chrome-extension"
+    }
+  ]
+}

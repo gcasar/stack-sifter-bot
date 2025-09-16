@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-16T03:11:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T02:32:16Z",
+      "Title": "Prevent browser extension background worker wakeups on tab removal after service restart",
+      "Tags": [
+        "web-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765739/prevent-browser-extension-background-worker-wakeups-on-tab-removal-after-service"
+    },
+    {
+      "Created": "2025-09-16T02:49:49Z",
+      "Title": "YouTube/video plays when muted but not when audio present on Fedora KDE \u2014 PipeWire missing pipewire-pulse (fix)",
+      "Tags": [
+        "fedora",
+        "pulseaudio",
+        "pipewire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765744/youtube-video-plays-when-muted-but-not-when-audio-present-on-fedora-kde-pipewi"
+    },
+    {
+      "Created": "2025-09-16T03:07:00Z",
+      "Title": "How to define variadic **argv in C function",
+      "Tags": [
+        "c",
+        "linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765747/how-to-define-variadic-argv-in-c-function"
+    },
+    {
+      "Created": "2025-09-16T03:11:11Z",
+      "Title": "How can I check if two product mockups use the same design image, when the backgrounds and positions are different?",
+      "Tags": [
+        "node.js",
+        "imagemagick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765749/how-can-i-check-if-two-product-mockups-use-the-same-design-image-when-the-backg"
+    }
+  ]
+}

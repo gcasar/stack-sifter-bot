@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-16T16:07:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T15:10:32Z",
+      "Title": "when streamlit_app.py file are under nested folders then ModuleNotFound Error comes for other import s in streamlit cloud",
+      "Tags": [
+        "python",
+        "streamlit",
+        "python-poetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766387/when-streamlit-app-py-file-are-under-nested-folders-then-modulenotfound-error-co"
+    },
+    {
+      "Created": "2025-09-16T15:42:52Z",
+      "Title": "Can muli-inheritance be simulated with generic class in C#",
+      "Tags": [
+        "c#",
+        "generics",
+        "inheritance",
+        "type-parameter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766431/can-muli-inheritance-be-simulated-with-generic-class-in-c-sharp"
+    },
+    {
+      "Created": "2025-09-16T15:56:54Z",
+      "Title": "auth code and access token , when i click on connect in my app the auth code token exchange take time so my home page not get buisness google detail",
+      "Tags": [
+        "oauth-2.0",
+        "google-api",
+        "access-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766445/auth-code-and-access-token-when-i-click-on-connect-in-my-app-the-auth-code-tok"
+    },
+    {
+      "Created": "2025-09-16T15:57:50Z",
+      "Title": "How can I resolve type traits in gdb Python API?",
+      "Tags": [
+        "c\u002B\u002B",
+        "gdb",
+        "gdb-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766446/how-can-i-resolve-type-traits-in-gdb-python-api"
+    },
+    {
+      "Created": "2025-09-16T15:58:01Z",
+      "Title": "Flutter piper_tts package: CMake/NDK build fails with ld.lld: error: unable to find library -lespeak-ng",
+      "Tags": [
+        "flutter",
+        "text-to-speech"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766447/flutter-piper-tts-package-cmake-ndk-build-fails-with-ld-lld-error-unable-to-f"
+    },
+    {
+      "Created": "2025-09-16T15:59:38Z",
+      "Title": "Alternatives to Pyerini for reproducable retrieval experiments? [closed]",
+      "Tags": [
+        "multilingual",
+        "information-retrieval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766449/alternatives-to-pyerini-for-reproducable-retrieval-experiments"
+    },
+    {
+      "Created": "2025-09-16T16:07:44Z",
+      "Title": "SAPUI5 ODataModel update (PUT) fails with \u201CHTTP method not allowed\u201D, works in SEGW client",
+      "Tags": [
+        "sapui5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766455/sapui5-odatamodel-update-put-fails-with-http-method-not-allowed-works-in-se"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-16T11:04:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T11:03:49Z",
+      "Title": "How to reach Loki deployed on Kubernetes via gateway ingress?",
+      "Tags": [
+        "kubernetes",
+        "nginx",
+        "grafana-loki"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766142/how-to-reach-loki-deployed-on-kubernetes-via-gateway-ingress"
+    },
+    {
+      "Created": "2025-09-16T11:04:47Z",
+      "Title": "yt-dlp returns non-existent format_id when extracting formats via Python",
+      "Tags": [
+        "python",
+        "yt-dlp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766144/yt-dlp-returns-non-existent-format-id-when-extracting-formats-via-python"
+    }
+  ]
+}

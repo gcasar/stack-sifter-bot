@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-16T20:51:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T20:07:43Z",
+      "Title": "Failed to resolve: com.github.firebase:FirebaseUI-Android:version-9.1.0-dev-387e7c2e01-1",
+      "Tags": [
+        "android",
+        "firebase",
+        "firebaseui",
+        "jitpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766640/failed-to-resolve-com-github-firebasefirebaseui-androidversion-9-1-0-dev-387e"
+    },
+    {
+      "Created": "2025-09-16T20:40:49Z",
+      "Title": "How can I upload a png through Venom?",
+      "Tags": [
+        "yaml",
+        "venom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766668/how-can-i-upload-a-png-through-venom"
+    },
+    {
+      "Created": "2025-09-16T20:51:13Z",
+      "Title": "Variadic template function doesn\u0027t infer the correct type of the template argument",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17",
+        "variadic-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766674/variadic-template-function-doesnt-infer-the-correct-type-of-the-template-argume"
+    }
+  ]
+}

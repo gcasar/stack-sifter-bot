@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-16T09:05:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T08:30:06Z",
+      "Title": "Get total connection sold by same sale person to same customer",
+      "Tags": [
+        "sql",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765969/get-total-connection-sold-by-same-sale-person-to-same-customer"
+    },
+    {
+      "Created": "2025-09-16T08:39:30Z",
+      "Title": "Recovering a perf.data file with size field 0 after perf report terminated improperly",
+      "Tags": [
+        "performance",
+        "profiling",
+        "perf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765986/recovering-a-perf-data-file-with-size-field-0-after-perf-report-terminated-impro"
+    },
+    {
+      "Created": "2025-09-16T08:47:48Z",
+      "Title": "PySpark chained transformations on a single column",
+      "Tags": [
+        "pyspark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765992/pyspark-chained-transformations-on-a-single-column"
+    },
+    {
+      "Created": "2025-09-16T08:58:57Z",
+      "Title": "Using TFS DevOps Pipelines, how to lock a resource for build agents so it is not used by more than one pipeline at any given time",
+      "Tags": [
+        "azure-devops",
+        "tfs",
+        "azure-pipelines",
+        "build-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766001/using-tfs-devops-pipelines-how-to-lock-a-resource-for-build-agents-so-it-is-not"
+    },
+    {
+      "Created": "2025-09-16T08:59:26Z",
+      "Title": "Job overrun / OOM after changing the partition",
+      "Tags": [
+        "apache-spark",
+        "pyspark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766002/job-overrun-oom-after-changing-the-partition"
+    },
+    {
+      "Created": "2025-09-16T09:03:57Z",
+      "Title": "Reload an expensive resource lazily",
+      "Tags": [
+        "c#",
+        "race-condition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766004/reload-an-expensive-resource-lazily"
+    },
+    {
+      "Created": "2025-09-16T09:05:54Z",
+      "Title": "Simultaneous DragGesture inside Scrollview broken in iOS 26?",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766009/simultaneous-draggesture-inside-scrollview-broken-in-ios-26"
+    }
+  ]
+}

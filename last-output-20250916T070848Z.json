@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-16T07:01:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T06:47:31Z",
+      "Title": "How to get Source of function in Julia?",
+      "Tags": [
+        "julia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765855/how-to-get-source-of-function-in-julia"
+    },
+    {
+      "Created": "2025-09-16T06:49:41Z",
+      "Title": "Generator that yields True a fixed number of times at random intervals before exhausting",
+      "Tags": [
+        "python",
+        "random",
+        "generator",
+        "probability",
+        "largenumber"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765858/generator-that-yields-true-a-fixed-number-of-times-at-random-intervals-before-ex"
+    },
+    {
+      "Created": "2025-09-16T06:54:16Z",
+      "Title": "How to migrate legacy Spring MVC Form Controllers (\u0060AbstractFormController\u0060) to annotation-based controllers in newer Spring versions?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-mvc",
+        "spring-annotations",
+        "spring-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765859/how-to-migrate-legacy-spring-mvc-form-controllers-abstractformcontroller-to"
+    },
+    {
+      "Created": "2025-09-16T06:54:25Z",
+      "Title": "Bundling Chromium browser licensing question [closed]",
+      "Tags": [
+        "c#",
+        "puppeteer",
+        "chromium",
+        "puppeteer-sharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765860/bundling-chromium-browser-licensing-question"
+    },
+    {
+      "Created": "2025-09-16T06:57:13Z",
+      "Title": "Prevent Default Scale Behaviour On .NET Maui Android",
+      "Tags": [
+        "c#",
+        "xaml",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765864/prevent-default-scale-behaviour-on-net-maui-android"
+    },
+    {
+      "Created": "2025-09-16T07:01:36Z",
+      "Title": "WebProfiler still enabled in my Application Tests in Symony",
+      "Tags": [
+        "symfony",
+        "symfony7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765869/webprofiler-still-enabled-in-my-application-tests-in-symony"
+    }
+  ]
+}

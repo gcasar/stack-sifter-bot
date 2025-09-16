@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-16T04:51:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T04:19:35Z",
+      "Title": "Want to run redis on server-side. But acting local IP to redis as a Gum. How to resolve?",
+      "Tags": [
+        "redis",
+        "mern",
+        "node-redis",
+        "ioredis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765780/want-to-run-redis-on-server-side-but-acting-local-ip-to-redis-as-a-gum-how-to"
+    },
+    {
+      "Created": "2025-09-16T04:20:54Z",
+      "Title": "C\u002B\u002B / GLFW / ImGui crash in DLL: Assertion bd-\u003EPrevWndProc != nullptr",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17",
+        "glfw",
+        "imgui",
+        "glad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765782/c-glfw-imgui-crash-in-dll-assertion-bd-prevwndproc-nullptr"
+    },
+    {
+      "Created": "2025-09-16T04:28:50Z",
+      "Title": "Apisix route for swagger end point not working",
+      "Tags": [
+        "fastapi",
+        "swagger-ui",
+        "apache-apisix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765783/apisix-route-for-swagger-end-point-not-working"
+    },
+    {
+      "Created": "2025-09-16T04:36:28Z",
+      "Title": "How to rebuild Clang 16.0.0 on Ubuntu 22.04 so it links with \u0060libtinfo6\u0060 instead of \u0060libtinfo5\u0060?",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang",
+        "compiler-construction",
+        "clang\u002B\u002B",
+        "address-sanitizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765786/how-to-rebuild-clang-16-0-0-on-ubuntu-22-04-so-it-links-with-libtinfo6-instead"
+    },
+    {
+      "Created": "2025-09-16T04:48:08Z",
+      "Title": "Unable to add a custom type to AdapterUser of MongoDBAdapter in \u0022@auth/mongodb-adapter\u0022",
+      "Tags": [
+        "typescript",
+        "mongodb",
+        "next.js",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765791/unable-to-add-a-custom-type-to-adapteruser-of-mongodbadapter-in-auth-mongodb-a"
+    },
+    {
+      "Created": "2025-09-16T04:49:13Z",
+      "Title": "How could I zoom into a point (mouse positon) on a grid canvas?",
+      "Tags": [
+        "canvas",
+        "lua"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765792/how-could-i-zoom-into-a-point-mouse-positon-on-a-grid-canvas"
+    },
+    {
+      "Created": "2025-09-16T04:51:26Z",
+      "Title": "TinyMCE getContent() returns empty when site is hosted, but works on server",
+      "Tags": [
+        "tinymce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765794/tinymce-getcontent-returns-empty-when-site-is-hosted-but-works-on-server"
+    }
+  ]
+}

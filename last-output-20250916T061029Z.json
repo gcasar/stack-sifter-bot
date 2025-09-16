@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-16T05:48:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T05:25:29Z",
+      "Title": "Tkinter dropdown opens on top left of my screen",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765804/tkinter-dropdown-opens-on-top-left-of-my-screen"
+    },
+    {
+      "Created": "2025-09-16T05:26:02Z",
+      "Title": "How can I properly and safely dispose of the DbContext in Blazor?",
+      "Tags": [
+        "c#",
+        "blazor",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765805/how-can-i-properly-and-safely-dispose-of-the-dbcontext-in-blazor"
+    },
+    {
+      "Created": "2025-09-16T05:44:49Z",
+      "Title": "MQTTnet v4.5.9.2 \u2013 ClientId and Payload mismatch under high load",
+      "Tags": [
+        "mqttnet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765810/mqttnet-v4-5-9-2-clientid-and-payload-mismatch-under-high-load"
+    },
+    {
+      "Created": "2025-09-16T05:46:03Z",
+      "Title": "Why does my queued job in Laravel 10 not execute after dispatch?",
+      "Tags": [
+        "php",
+        "laravel",
+        "queue",
+        "dispatch",
+        "laravel-10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765811/why-does-my-queued-job-in-laravel-10-not-execute-after-dispatch"
+    },
+    {
+      "Created": "2025-09-16T05:48:34Z",
+      "Title": "How to Programmatically Select One or More Rows in TreeGridView?",
+      "Tags": [
+        "avaloniaui",
+        "avalonia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765813/how-to-programmatically-select-one-or-more-rows-in-treegridview"
+    }
+  ]
+}

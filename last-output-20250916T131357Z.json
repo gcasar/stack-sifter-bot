@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-16T13:06:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T12:35:41Z",
+      "Title": "Python is creating a connection for each execution in executemany",
+      "Tags": [
+        "python-3.x",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766243/python-is-creating-a-connection-for-each-execution-in-executemany"
+    },
+    {
+      "Created": "2025-09-16T12:50:33Z",
+      "Title": "Moving underlying container (std::vector or std::deque) for std::stack and std::queue [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "stl",
+        "c\u002B\u002B17",
+        "move-semantics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766252/moving-underlying-container-stdvector-or-stddeque-for-stdstack-and-std"
+    },
+    {
+      "Created": "2025-09-16T13:00:49Z",
+      "Title": "Why doesn\u0027t the onTapGesture modifier trigger of an overlayed element in a navigation title when scrolled down?",
+      "Tags": [
+        "ios",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766260/why-doesnt-the-ontapgesture-modifier-trigger-of-an-overlayed-element-in-a-navig"
+    },
+    {
+      "Created": "2025-09-16T13:02:24Z",
+      "Title": "How to capture updates (modified rows) from SAP for an incremental load?",
+      "Tags": [
+        "google-bigquery",
+        "abap",
+        "sap",
+        "data-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766261/how-to-capture-updates-modified-rows-from-sap-for-an-incremental-load"
+    },
+    {
+      "Created": "2025-09-16T13:06:52Z",
+      "Title": "versioning in Nest Js",
+      "Tags": [
+        "nestjs",
+        "backend",
+        "api-versioning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766264/versioning-in-nest-js"
+    }
+  ]
+}

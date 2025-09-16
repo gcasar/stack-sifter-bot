@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-16T18:08:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T18:00:24Z",
+      "Title": "Type narrowing is lost when accessing nested form controls in Angular generic reactive forms",
+      "Tags": [
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766543/type-narrowing-is-lost-when-accessing-nested-form-controls-in-angular-generic-re"
+    },
+    {
+      "Created": "2025-09-16T18:05:03Z",
+      "Title": "Is there a function to filter a dataframe by a column value and produce a dictionary?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766547/is-there-a-function-to-filter-a-dataframe-by-a-column-value-and-produce-a-dictio"
+    },
+    {
+      "Created": "2025-09-16T18:08:13Z",
+      "Title": "Is there a way to make \u0060gcc -fanalyzer\u0060 work across compilation units?",
+      "Tags": [
+        "c",
+        "linux",
+        "gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766552/is-there-a-way-to-make-gcc-fanalyzer-work-across-compilation-units"
+    }
+  ]
+}

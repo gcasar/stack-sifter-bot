@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-16T01:26:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T00:41:11Z",
+      "Title": "Two JTables that each clear the other\u0027s selection - 2 clicks are required to select in each table?",
+      "Tags": [
+        "java",
+        "swing",
+        "jtable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765698/two-jtables-that-each-clear-the-others-selection-2-clicks-are-required-to-sel"
+    },
+    {
+      "Created": "2025-09-16T01:26:33Z",
+      "Title": "R Shiny how to make multiple filters fully dynamic (each filter updates when another changes)?",
+      "Tags": [
+        "r",
+        "filter",
+        "shiny",
+        "dynamic",
+        "reactive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765707/r-shiny-how-to-make-multiple-filters-fully-dynamic-each-filter-updates-when-ano"
+    }
+  ]
+}

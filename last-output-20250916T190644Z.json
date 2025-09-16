@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-16T18:59:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T18:13:04Z",
+      "Title": "Excel VBA- How to apply Conditional Formatting (ISBLANK formula) to array of tables in a loop?",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766554/excel-vba-how-to-apply-conditional-formatting-isblank-formula-to-array-of-tab"
+    },
+    {
+      "Created": "2025-09-16T18:24:18Z",
+      "Title": "Fast unnest complex column with data.table",
+      "Tags": [
+        "r",
+        "data.table",
+        "data-manipulation",
+        "unnest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766565/fast-unnest-complex-column-with-data-table"
+    },
+    {
+      "Created": "2025-09-16T18:39:33Z",
+      "Title": "Integration test: How to run an ASP.NET web app during a xUnit test?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "xunit.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766575/integration-test-how-to-run-an-asp-net-web-app-during-a-xunit-test"
+    },
+    {
+      "Created": "2025-09-16T18:43:03Z",
+      "Title": "Drop column by index in polars",
+      "Tags": [
+        "python",
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766577/drop-column-by-index-in-polars"
+    },
+    {
+      "Created": "2025-09-16T18:55:41Z",
+      "Title": "How to version API endpoints without duplicating entire controllers for each version?",
+      "Tags": [
+        "php",
+        "rest",
+        "architecture",
+        "backend",
+        "versioning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766581/how-to-version-api-endpoints-without-duplicating-entire-controllers-for-each-ver"
+    },
+    {
+      "Created": "2025-09-16T18:57:48Z",
+      "Title": "Why does hitting enter in a textbox cause my regex to fail",
+      "Tags": [
+        "reactjs",
+        "regex",
+        "forms",
+        "validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766584/why-does-hitting-enter-in-a-textbox-cause-my-regex-to-fail"
+    },
+    {
+      "Created": "2025-09-16T18:59:40Z",
+      "Title": "Read from PDF and copy to Excel cells exactly as formatted",
+      "Tags": [
+        "python",
+        "excel",
+        "pdf",
+        "indentation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766585/read-from-pdf-and-copy-to-excel-cells-exactly-as-formatted"
+    }
+  ]
+}

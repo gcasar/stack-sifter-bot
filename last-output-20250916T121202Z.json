@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-16T12:08:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T11:55:08Z",
+      "Title": "NextJS hashedPassword Net Core MapPost",
+      "Tags": [
+        ".net-core",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766199/nextjs-hashedpassword-net-core-mappost"
+    },
+    {
+      "Created": "2025-09-16T12:04:35Z",
+      "Title": "Listing metadata for sharepoint files using Microsoft.Graph - breaking changes between version 4 and 5",
+      "Tags": [
+        ".net-core",
+        "microsoft.graph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766207/listing-metadata-for-sharepoint-files-using-microsoft-graph-breaking-changes-b"
+    },
+    {
+      "Created": "2025-09-16T12:08:31Z",
+      "Title": "VENV does not include pip in newly created environment",
+      "Tags": [
+        "python",
+        "pip",
+        "venv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766211/venv-does-not-include-pip-in-newly-created-environment"
+    }
+  ]
+}

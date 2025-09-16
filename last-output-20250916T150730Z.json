@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-16T15:05:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T14:55:14Z",
+      "Title": "How do I remove a gap in date x axis?",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766370/how-do-i-remove-a-gap-in-date-x-axis"
+    },
+    {
+      "Created": "2025-09-16T15:05:03Z",
+      "Title": "Get last non-zero index in a vector (NumPy)",
+      "Tags": [
+        "python",
+        "numpy",
+        "vector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766380/get-last-non-zero-index-in-a-vector-numpy"
+    }
+  ]
+}

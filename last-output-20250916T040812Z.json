@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-16T04:00:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T03:20:33Z",
+      "Title": "I cannot list the font-family names in Quill editor font selection",
+      "Tags": [
+        "c#",
+        "blazor",
+        "quill",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765755/i-cannot-list-the-font-family-names-in-quill-editor-font-selection"
+    },
+    {
+      "Created": "2025-09-16T03:33:19Z",
+      "Title": "Handling Schema Drift in Salesforce \u2192 Snowflake with Dynamic Mapping \u0026 CDC",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "salesforce",
+        "informatica-cloud",
+        "dynamic-mapping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765760/handling-schema-drift-in-salesforce-%e2%86%92-snowflake-with-dynamic-mapping-cdc"
+    },
+    {
+      "Created": "2025-09-16T03:49:36Z",
+      "Title": "How to remove \u0027unsafe-eval\u0027 from CSP in legacy ASP.NET Core 3.1 MVC \u002B Angular 12 project using MVC and JIT compilation?",
+      "Tags": [
+        "angular",
+        "webpack",
+        "asp.net-core-mvc",
+        "angular-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765762/how-to-remove-unsafe-eval-from-csp-in-legacy-asp-net-core-3-1-mvc-angular-12"
+    },
+    {
+      "Created": "2025-09-16T03:53:53Z",
+      "Title": "Why does \u0060estat phtest\u0060 return missing values (.) when testing proportional hazards assumption in Cox PH regression using STATA?",
+      "Tags": [
+        "stata",
+        "cox-regression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765768/why-does-estat-phtest-return-missing-values-when-testing-proportional-haza"
+    },
+    {
+      "Created": "2025-09-16T03:55:01Z",
+      "Title": "AnyLogic ResourcePool failure rate ignores exponential distribution parameter",
+      "Tags": [
+        "java",
+        "parameters",
+        "simulation",
+        "anylogic",
+        "exponential-distribution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765769/anylogic-resourcepool-failure-rate-ignores-exponential-distribution-parameter"
+    },
+    {
+      "Created": "2025-09-16T03:55:51Z",
+      "Title": "Go routine is not blocking on unbuffered channel consumer",
+      "Tags": [
+        "go",
+        "goroutine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765771/go-routine-is-not-blocking-on-unbuffered-channel-consumer"
+    },
+    {
+      "Created": "2025-09-16T04:00:06Z",
+      "Title": "How to write a formula to display a message in column when checking if text in multiple cells AND dates in two columns match \u0026 overlap",
+      "Tags": [
+        "excel",
+        "excel-formula",
+        "excel-2010"
+      ],
+      "Url": "https://stackoverflow.com/questions/79765772/how-to-write-a-formula-to-display-a-message-in-column-when-checking-if-text-in-m"
+    }
+  ]
+}

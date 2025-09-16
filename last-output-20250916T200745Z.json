@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-16T20:04:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T19:29:24Z",
+      "Title": "How do I use multiple filters in the Google Analytics 4 API from Python?",
+      "Tags": [
+        "python",
+        "google-analytics",
+        "google-analytics-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766610/how-do-i-use-multiple-filters-in-the-google-analytics-4-api-from-python"
+    },
+    {
+      "Created": "2025-09-16T19:35:16Z",
+      "Title": "python request getting different result than postman",
+      "Tags": [
+        "python",
+        "python-requests"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766617/python-request-getting-different-result-than-postman"
+    },
+    {
+      "Created": "2025-09-16T19:38:17Z",
+      "Title": "How to use ACF OpenStreetMap Field plugin in Wordpress with zoom setting?",
+      "Tags": [
+        "javascript",
+        "php",
+        "wordpress",
+        "leaflet",
+        "advanced-custom-fields"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766619/how-to-use-acf-openstreetmap-field-plugin-in-wordpress-with-zoom-setting"
+    },
+    {
+      "Created": "2025-09-16T19:54:32Z",
+      "Title": "Advice on devices for a business park network [closed]",
+      "Tags": [
+        "nat",
+        "wan",
+        "juniper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766626/advice-on-devices-for-a-business-park-network"
+    },
+    {
+      "Created": "2025-09-16T20:04:11Z",
+      "Title": "How to calculate Vout after a Gravity Assist",
+      "Tags": [
+        "space",
+        "astronomy",
+        "orbital-mechanics",
+        "e",
+        "nasa-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766636/how-to-calculate-vout-after-a-gravity-assist"
+    }
+  ]
+}

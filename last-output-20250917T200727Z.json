@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-17T20:03:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T19:30:13Z",
+      "Title": "How to solve power flow equations using GEKKO in Python?",
+      "Tags": [
+        "python",
+        "mathematical-optimization",
+        "gekko",
+        "pandapower"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767750/how-to-solve-power-flow-equations-using-gekko-in-python"
+    },
+    {
+      "Created": "2025-09-17T19:46:19Z",
+      "Title": "YOCTO - mount bpffs with serviced / .mount not working",
+      "Tags": [
+        "yocto",
+        "systemd",
+        "bpf",
+        "xdp-bpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767758/yocto-mount-bpffs-with-serviced-mount-not-working"
+    },
+    {
+      "Created": "2025-09-17T19:46:31Z",
+      "Title": "Loading SciPy offline using Pyodide",
+      "Tags": [
+        "python",
+        "scipy",
+        "openblas",
+        "pyodide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767759/loading-scipy-offline-using-pyodide"
+    },
+    {
+      "Created": "2025-09-17T19:46:33Z",
+      "Title": "Problem with Family Controls entitlement for DeviceActivityExtension",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "monitoring",
+        "screen-time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767760/problem-with-family-controls-entitlement-for-deviceactivityextension"
+    },
+    {
+      "Created": "2025-09-17T19:55:34Z",
+      "Title": "Write test for an Angular async service method",
+      "Tags": [
+        "angular",
+        "unit-testing",
+        "angular-services",
+        "angular-test",
+        "angular-testing-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767763/write-test-for-an-angular-async-service-method"
+    },
+    {
+      "Created": "2025-09-17T19:56:10Z",
+      "Title": "Countdown react hook",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767764/countdown-react-hook"
+    },
+    {
+      "Created": "2025-09-17T19:57:11Z",
+      "Title": "Convert from a super trait to a subtrait or concrete type of subtrait",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767766/convert-from-a-super-trait-to-a-subtrait-or-concrete-type-of-subtrait"
+    },
+    {
+      "Created": "2025-09-17T20:03:06Z",
+      "Title": "How to setup Outlook Desktop with Outlook.com Emails saved locally",
+      "Tags": [
+        "outlook",
+        "pop3",
+        "outlook.com",
+        "microsoft-exchange"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767772/how-to-setup-outlook-desktop-with-outlook-com-emails-saved-locally"
+    }
+  ]
+}

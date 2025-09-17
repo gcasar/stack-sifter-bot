@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-17T01:16:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T00:58:55Z",
+      "Title": "Can VBA be integrated with Microsoft Copilot?",
+      "Tags": [
+        "vba",
+        "microsoft-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766793/can-vba-be-integrated-with-microsoft-copilot"
+    },
+    {
+      "Created": "2025-09-17T01:12:17Z",
+      "Title": "Tensorflow lite not able to train model on device calling a signature function",
+      "Tags": [
+        "android",
+        "tensorflow2.0",
+        "tensorflow-lite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766796/tensorflow-lite-not-able-to-train-model-on-device-calling-a-signature-function"
+    },
+    {
+      "Created": "2025-09-17T01:16:08Z",
+      "Title": "CustomTkinter Python Font Loading Issue",
+      "Tags": [
+        "python",
+        "fonts",
+        "customtkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766798/customtkinter-python-font-loading-issue"
+    }
+  ]
+}

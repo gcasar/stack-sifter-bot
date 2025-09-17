@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-17T07:05:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T06:19:38Z",
+      "Title": "Is reordering really a useful concept for multithread program reasoning?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "atomic",
+        "memory-barriers",
+        "memory-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766950/is-reordering-really-a-useful-concept-for-multithread-program-reasoning"
+    },
+    {
+      "Created": "2025-09-17T06:55:53Z",
+      "Title": "How to prevent exposing real data in AJAX response (SSR vs CSR) and instead return opaque tokens?",
+      "Tags": [
+        "php",
+        "ajax",
+        "server-side-rendering",
+        "client-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766981/how-to-prevent-exposing-real-data-in-ajax-response-ssr-vs-csr-and-instead-retu"
+    },
+    {
+      "Created": "2025-09-17T06:58:14Z",
+      "Title": "How to borrow values as denominators from other columns in a merged tbl_hierarchical table?",
+      "Tags": [
+        "r",
+        "gtsummary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766983/how-to-borrow-values-as-denominators-from-other-columns-in-a-merged-tbl-hierarch"
+    },
+    {
+      "Created": "2025-09-17T07:01:55Z",
+      "Title": "Grant permission to newly created DAGs directly during import",
+      "Tags": [
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766986/grant-permission-to-newly-created-dags-directly-during-import"
+    },
+    {
+      "Created": "2025-09-17T07:05:47Z",
+      "Title": "I\u2019m working on a restaurant automation project where I need to connect a Kitchen Display System (KDS) with the restaurant\u2019s POS system",
+      "Tags": [
+        "websocket",
+        "integration",
+        "point-of-sale"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766987/i-m-working-on-a-restaurant-automation-project-where-i-need-to-connect-a-kitchen"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-17T09:05:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T08:37:33Z",
+      "Title": "Microsoft.SemanticKernel \u002B OpenAI .NET: ChatClient.CompleteChatAsync throws HTTP 500 (server_error) \u2014 how can I debug/fix this?",
+      "Tags": [
+        "c#",
+        ".net",
+        "openai-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767063/microsoft-semantickernel-openai-net-chatclient-completechatasync-throws-http"
+    },
+    {
+      "Created": "2025-09-17T08:48:45Z",
+      "Title": "Why does execution not continue past await textbox.click() when the button update the url of page which called it?",
+      "Tags": [
+        "python",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767069/why-does-execution-not-continue-past-await-textbox-click-when-the-button-updat"
+    },
+    {
+      "Created": "2025-09-17T08:57:15Z",
+      "Title": "Is there a Python equivalent to the R ReGenesees package?",
+      "Tags": [
+        "python",
+        "r",
+        "statistics",
+        "sampling",
+        "estimation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767076/is-there-a-python-equivalent-to-the-r-regenesees-package"
+    },
+    {
+      "Created": "2025-09-17T08:58:35Z",
+      "Title": "Why does JBoss 7.4 choose a jar from jboss iso a jar in WEB-INF/lib of the application?",
+      "Tags": [
+        "jboss",
+        "wildfly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767080/why-does-jboss-7-4-choose-a-jar-from-jboss-iso-a-jar-in-web-inf-lib-of-the-appli"
+    },
+    {
+      "Created": "2025-09-17T09:03:57Z",
+      "Title": "Connect-IPPSSession A task was canceled",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767087/connect-ippssession-a-task-was-canceled"
+    },
+    {
+      "Created": "2025-09-17T09:05:28Z",
+      "Title": "Is there a way to integrate our corporate Atlassian Confluence to Visual Studio Code?",
+      "Tags": [
+        "visual-studio-code",
+        "confluence",
+        "confluent-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767089/is-there-a-way-to-integrate-our-corporate-atlassian-confluence-to-visual-studio"
+    }
+  ]
+}

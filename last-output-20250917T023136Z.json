@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-17T02:22:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T02:15:33Z",
+      "Title": "Issue with Cast in SQL Case expression - not working properly",
+      "Tags": [
+        "sql",
+        "server",
+        "casting",
+        "case"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766822/issue-with-cast-in-sql-case-expression-not-working-properly"
+    },
+    {
+      "Created": "2025-09-17T02:22:54Z",
+      "Title": "DirectInput for unreal engine 5. Unable to get device data",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "unreal-engine5",
+        "directinput"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766827/directinput-for-unreal-engine-5-unable-to-get-device-data"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-17T18:07:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T17:38:24Z",
+      "Title": "How to release dynamic memory on the heap in called function C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767646/how-to-release-dynamic-memory-on-the-heap-in-called-function-c"
+    },
+    {
+      "Created": "2025-09-17T17:47:43Z",
+      "Title": "Why does the NetworkStream.ReadAsync call end the loop",
+      "Tags": [
+        "c#",
+        "tcp",
+        "task",
+        "tcpclient",
+        "networkstream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767649/why-does-the-networkstream-readasync-call-end-the-loop"
+    },
+    {
+      "Created": "2025-09-17T17:57:33Z",
+      "Title": "Is it possible to use clangd with cuda 13 and c\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cuda",
+        "clangd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767663/is-it-possible-to-use-clangd-with-cuda-13-and-c"
+    },
+    {
+      "Created": "2025-09-17T18:00:48Z",
+      "Title": "PostCSS parent Selector is adding :is() pseudo after compilation and not producing compatible css",
+      "Tags": [
+        "css",
+        "css-selectors",
+        "parent",
+        "postcss"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767666/postcss-parent-selector-is-adding-is-pseudo-after-compilation-and-not-produci"
+    },
+    {
+      "Created": "2025-09-17T18:07:23Z",
+      "Title": "Where should I put my MongoDB connection string in Vue CLI project?",
+      "Tags": [
+        "mongodb",
+        "connection-string",
+        "vue-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767673/where-should-i-put-my-mongodb-connection-string-in-vue-cli-project"
+    }
+  ]
+}

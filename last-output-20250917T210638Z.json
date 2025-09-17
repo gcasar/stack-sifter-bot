@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-17T21:01:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T20:34:22Z",
+      "Title": "How to use python to collect a list from an MFA protected Sharepoint website?",
+      "Tags": [
+        "python",
+        "pandas",
+        "sharepoint",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767793/how-to-use-python-to-collect-a-list-from-an-mfa-protected-sharepoint-website"
+    },
+    {
+      "Created": "2025-09-17T20:35:33Z",
+      "Title": "Setting cross site cookies for same root domain, diff subdomain",
+      "Tags": [
+        "http",
+        "cookies",
+        "setcookie"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767794/setting-cross-site-cookies-for-same-root-domain-diff-subdomain"
+    },
+    {
+      "Created": "2025-09-17T20:37:25Z",
+      "Title": "Cybersecurity Risks of Using Free Versions of Anaconda, Git, and VS Code",
+      "Tags": [
+        "git",
+        "security",
+        "installation",
+        "anaconda",
+        "privacy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767795/cybersecurity-risks-of-using-free-versions-of-anaconda-git-and-vs-code"
+    },
+    {
+      "Created": "2025-09-17T20:45:40Z",
+      "Title": "SSRS Chart Striplines",
+      "Tags": [
+        "reporting-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767798/ssrs-chart-striplines"
+    },
+    {
+      "Created": "2025-09-17T20:58:49Z",
+      "Title": "What is the best way to update my StatefulSet after changing its image?",
+      "Tags": [
+        "kubernetes",
+        "statefulset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767805/what-is-the-best-way-to-update-my-statefulset-after-changing-its-image"
+    },
+    {
+      "Created": "2025-09-17T21:01:46Z",
+      "Title": "Set State Inside Use Effect",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767811/set-state-inside-use-effect"
+    }
+  ]
+}

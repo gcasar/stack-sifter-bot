@@ -1,0 +1,107 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-17T00:24:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-16T23:30:56Z",
+      "Title": "How to add opacity to text with shadow on a picture?",
+      "Tags": [
+        "php",
+        "image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766760/how-to-add-opacity-to-text-with-shadow-on-a-picture"
+    },
+    {
+      "Created": "2025-09-16T23:35:05Z",
+      "Title": "What are the benefits of Eletron Preload in comparison with \u0022Main Process \u002B Renderer Process\u0022 pattern?",
+      "Tags": [
+        "node.js",
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766763/what-are-the-benefits-of-eletron-preload-in-comparison-with-main-process-rend"
+    },
+    {
+      "Created": "2025-09-16T23:43:14Z",
+      "Title": "ERROR [Error: Looks like you have nested a \u0027NavigationContainer\u0027 inside another",
+      "Tags": [
+        "android",
+        "reactjs",
+        "json",
+        "react-native",
+        "mobile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766765/error-error-looks-like-you-have-nested-a-navigationcontainer-inside-another"
+    },
+    {
+      "Created": "2025-09-16T23:46:50Z",
+      "Title": "React Native Navigation requires a settimeout",
+      "Tags": [
+        "android",
+        "ios",
+        "react-native",
+        "react-navigation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766767/react-native-navigation-requires-a-settimeout"
+    },
+    {
+      "Created": "2025-09-16T23:47:30Z",
+      "Title": "@apply is not working in angular 20/ tailwind 4 project",
+      "Tags": [
+        "angular",
+        "tailwind-css",
+        "tailwind-css-4",
+        "angular20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766769/apply-is-not-working-in-angular-20-tailwind-4-project"
+    },
+    {
+      "Created": "2025-09-17T00:05:16Z",
+      "Title": "How to create interactive wrapper for Gemini CLI?",
+      "Tags": [
+        "google-gemini",
+        "gemini-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766776/how-to-create-interactive-wrapper-for-gemini-cli"
+    },
+    {
+      "Created": "2025-09-17T00:09:11Z",
+      "Title": "Asking questions on a large corpus of text with LLMs",
+      "Tags": [
+        "openai-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766777/asking-questions-on-a-large-corpus-of-text-with-llms"
+    },
+    {
+      "Created": "2025-09-17T00:21:47Z",
+      "Title": "Why does decimal.Context.create_decimal_from_float() not round near-zero values?",
+      "Tags": [
+        "python",
+        "decimal",
+        "python-decimal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766779/why-does-decimal-context-create-decimal-from-float-not-round-near-zero-values"
+    },
+    {
+      "Created": "2025-09-17T00:23:37Z",
+      "Title": "How to pass an array in sqlc to a database query with an \u0022IN\u0022 operator",
+      "Tags": [
+        "arrays",
+        "database",
+        "postgresql",
+        "go",
+        "sqlc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766781/how-to-pass-an-array-in-sqlc-to-a-database-query-with-an-in-operator"
+    },
+    {
+      "Created": "2025-09-17T00:24:24Z",
+      "Title": "Is using a visitor with an empty interface storage a reasonable way to expose implementation-specific metrics in a C\u002B\u002B API?",
+      "Tags": [
+        "c\u002B\u002B",
+        "visitor-pattern",
+        "pluggable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766783/is-using-a-visitor-with-an-empty-interface-storage-a-reasonable-way-to-expose-im"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-17T22:03:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T21:25:15Z",
+      "Title": "Infererence when filtering out undefined values",
+      "Tags": [
+        "typescript",
+        "webstorm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767823/infererence-when-filtering-out-undefined-values"
+    },
+    {
+      "Created": "2025-09-17T21:38:25Z",
+      "Title": "Pythonanywhere ERROR WKHTMLTOPDF (with patched qt)",
+      "Tags": [
+        "qt",
+        "wkhtmltopdf",
+        "pythonanywhere"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767835/pythonanywhere-error-wkhtmltopdf-with-patched-qt"
+    },
+    {
+      "Created": "2025-09-17T21:58:08Z",
+      "Title": "Xcode Archive fails with SwiftEmitModule error when including SPM dependency in XCFramework SDK",
+      "Tags": [
+        "ios",
+        "swift",
+        "frameworks",
+        "xcframework",
+        "livekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767845/xcode-archive-fails-with-swiftemitmodule-error-when-including-spm-dependency-in"
+    },
+    {
+      "Created": "2025-09-17T22:00:01Z",
+      "Title": "How can I filter the result by a value in my script?",
+      "Tags": [
+        "sql",
+        "oracle-database",
+        "plsql",
+        "oracle-sqldeveloper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767847/how-can-i-filter-the-result-by-a-value-in-my-script"
+    },
+    {
+      "Created": "2025-09-17T22:02:35Z",
+      "Title": "EXE created with Pyinstaller fails to import qtmodern as specified in hook",
+      "Tags": [
+        "python",
+        "pyinstaller",
+        "hook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767848/exe-created-with-pyinstaller-fails-to-import-qtmodern-as-specified-in-hook"
+    },
+    {
+      "Created": "2025-09-17T22:03:45Z",
+      "Title": "Abstraction in OOP",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "oop",
+        "abstract-class",
+        "abstraction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767849/abstraction-in-oop"
+    }
+  ]
+}

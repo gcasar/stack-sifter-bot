@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-17T13:09:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T12:16:51Z",
+      "Title": "DuckDB query that works with time intervals produces incorrect values",
+      "Tags": [
+        "python",
+        "sql",
+        "duckdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767306/duckdb-query-that-works-with-time-intervals-produces-incorrect-values"
+    },
+    {
+      "Created": "2025-09-17T12:31:04Z",
+      "Title": "changing the podman-auto-update.timer configuration",
+      "Tags": [
+        "systemd",
+        "podman",
+        "systemd-timer",
+        "quadlet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767328/changing-the-podman-auto-update-timer-configuration"
+    },
+    {
+      "Created": "2025-09-17T13:00:35Z",
+      "Title": "Can I place a grid item to a specific part of my grid-template-columns",
+      "Tags": [
+        "css",
+        "css-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767359/can-i-place-a-grid-item-to-a-specific-part-of-my-grid-template-columns"
+    },
+    {
+      "Created": "2025-09-17T13:06:48Z",
+      "Title": "Host two timers within a ForegroundService",
+      "Tags": [
+        "android-jetpack-compose",
+        "foreground-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767366/host-two-timers-within-a-foregroundservice"
+    },
+    {
+      "Created": "2025-09-17T13:07:21Z",
+      "Title": "angular app_initalizer didn\u0027t execute",
+      "Tags": [
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767367/angular-app-initalizer-didnt-execute"
+    },
+    {
+      "Created": "2025-09-17T13:09:31Z",
+      "Title": "how to set directory to look for modules (spyder)?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767370/how-to-set-directory-to-look-for-modules-spyder"
+    }
+  ]
+}

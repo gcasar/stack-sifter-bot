@@ -1,0 +1,95 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-17T15:00:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T14:10:02Z",
+      "Title": "Using C\u002B\u002B macros to construct a method name to call",
+      "Tags": [
+        "c\u002B\u002B",
+        "macros",
+        "metaprogramming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767439/using-c-macros-to-construct-a-method-name-to-call"
+    },
+    {
+      "Created": "2025-09-17T14:22:36Z",
+      "Title": "Reserved words in SQL Server [duplicate]",
+      "Tags": [
+        "sql-server",
+        "reserved-words"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767449/reserved-words-in-sql-server"
+    },
+    {
+      "Created": "2025-09-17T14:35:24Z",
+      "Title": "Github Codespaces-specific error: React 18 dispatcher.useId is not a function rendering error [closed]",
+      "Tags": [
+        "github-codespaces",
+        "codespaces"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767462/github-codespaces-specific-error-react-18-dispatcher-useid-is-not-a-function-re"
+    },
+    {
+      "Created": "2025-09-17T14:48:25Z",
+      "Title": "Using rgl plots in Quarto: HTML and PDF",
+      "Tags": [
+        "html",
+        "pdf",
+        "quarto",
+        "rgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767482/using-rgl-plots-in-quarto-html-and-pdf"
+    },
+    {
+      "Created": "2025-09-17T14:52:35Z",
+      "Title": "What is the Expo 54 way of creating a file in external storage?",
+      "Tags": [
+        "javascript",
+        "react-native",
+        "expo",
+        "expo-file-system"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767486/what-is-the-expo-54-way-of-creating-a-file-in-external-storage"
+    },
+    {
+      "Created": "2025-09-17T14:53:12Z",
+      "Title": "Could I use a dynamic function to match values to another sheet in Google Sheets?",
+      "Tags": [
+        "function",
+        "google-sheets",
+        "google-sheets-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767487/could-i-use-a-dynamic-function-to-match-values-to-another-sheet-in-google-sheets"
+    },
+    {
+      "Created": "2025-09-17T14:57:39Z",
+      "Title": "\u0060ipyleaflet\u0060 shows a grey map after modifying medium-sized data",
+      "Tags": [
+        "python",
+        "py-shiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767497/ipyleaflet-shows-a-grey-map-after-modifying-medium-sized-data"
+    },
+    {
+      "Created": "2025-09-17T14:59:28Z",
+      "Title": "Reverse an array inplace without pointers using recursion in python",
+      "Tags": [
+        "python",
+        "arrays",
+        "python-3.x",
+        "recursion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767498/reverse-an-array-inplace-without-pointers-using-recursion-in-python"
+    },
+    {
+      "Created": "2025-09-17T15:00:50Z",
+      "Title": "RabbitMQ - Erlang cookie hash keeps changing after I update it",
+      "Tags": [
+        "rabbitmq",
+        "rabbitmqctl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767500/rabbitmq-erlang-cookie-hash-keeps-changing-after-i-update-it"
+    }
+  ]
+}

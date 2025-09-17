@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-17T13:56:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T13:12:24Z",
+      "Title": "How to make qDebug() output to both console and a file in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767373/how-to-make-qdebug-output-to-both-console-and-a-file-in-c"
+    },
+    {
+      "Created": "2025-09-17T13:32:59Z",
+      "Title": "How to share dependencies in composed Asio operations",
+      "Tags": [
+        "c\u002B\u002B",
+        "promise",
+        "dependencies",
+        "boost-asio",
+        "shared"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767399/how-to-share-dependencies-in-composed-asio-operations"
+    },
+    {
+      "Created": "2025-09-17T13:56:05Z",
+      "Title": "Apache POI - Broken pipe when calling org.apache.poi.ooxml.POIXMLDocument.write",
+      "Tags": [
+        "java",
+        "apache-poi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767424/apache-poi-broken-pipe-when-calling-org-apache-poi-ooxml-poixmldocument-write"
+    },
+    {
+      "Created": "2025-09-17T13:56:09Z",
+      "Title": "Merging Pandas dataframes on column combinations",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767425/merging-pandas-dataframes-on-column-combinations"
+    }
+  ]
+}

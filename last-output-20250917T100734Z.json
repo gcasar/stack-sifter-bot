@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-17T10:06:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T09:23:06Z",
+      "Title": "Create glowing edges Photoshop filter using open-cv",
+      "Tags": [
+        "python",
+        "opencv",
+        "image-processing",
+        "photoshop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767103/create-glowing-edges-photoshop-filter-using-open-cv"
+    },
+    {
+      "Created": "2025-09-17T09:34:31Z",
+      "Title": "QuillEditor --\u003E add Module Placeholder",
+      "Tags": [
+        "vuejs3",
+        "vue-composition-api",
+        "quill",
+        "vue-quill-editor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767112/quilleditor-add-module-placeholder"
+    },
+    {
+      "Created": "2025-09-17T09:57:44Z",
+      "Title": "Why reusable_workflow_job executes workflow that does not exist?",
+      "Tags": [
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767137/why-reusable-workflow-job-executes-workflow-that-does-not-exist"
+    },
+    {
+      "Created": "2025-09-17T09:59:01Z",
+      "Title": "How to pass session.state variable to LlmAgent\u0027s global_instruction in google.adk? (KeyError)",
+      "Tags": [
+        "python",
+        "python-a2a",
+        "google-adk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767139/how-to-pass-session-state-variable-to-llmagents-global-instruction-in-google-ad"
+    },
+    {
+      "Created": "2025-09-17T09:59:20Z",
+      "Title": "Route Geometry for Road Detection is wrongly detecting nearby Streets in GPS analyzer pipeline",
+      "Tags": [
+        "python",
+        "gps",
+        "geospatial",
+        "openstreetmap",
+        "folium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767140/route-geometry-for-road-detection-is-wrongly-detecting-nearby-streets-in-gps-ana"
+    },
+    {
+      "Created": "2025-09-17T10:04:37Z",
+      "Title": "Gradlew in Windows",
+      "Tags": [
+        "java",
+        "gradle",
+        "intellij-idea",
+        "gradlew"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767144/gradlew-in-windows"
+    },
+    {
+      "Created": "2025-09-17T10:06:02Z",
+      "Title": "Wireshark dissector - hf_register_info",
+      "Tags": [
+        "wireshark",
+        "wireshark-dissector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767146/wireshark-dissector-hf-register-info"
+    }
+  ]
+}

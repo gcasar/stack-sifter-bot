@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-17T16:58:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T16:58:57Z",
+      "Title": "Why, when I am starting a PyCharm project from a Python script using TKInter, does the PyCharm project start before I call it?",
+      "Tags": [
+        "python",
+        "windows",
+        "tkinter",
+        "pycharm",
+        "subprocess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767609/why-when-i-am-starting-a-pycharm-project-from-a-python-script-using-tkinter-do"
+    }
+  ]
+}

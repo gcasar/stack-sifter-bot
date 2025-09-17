@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-17T05:05:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T04:41:13Z",
+      "Title": "Does \u0022\u0027electron/renderer\u0027\u0022 directory actually exist in Electron 38?",
+      "Tags": [
+        "node.js",
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766889/does-electron-renderer-directory-actually-exist-in-electron-38"
+    },
+    {
+      "Created": "2025-09-17T04:49:29Z",
+      "Title": "What happens if I have a personal Jetbrains license that I use at Home and Work, and I come to work forgetting to close my home Jetbrains instances? [closed]",
+      "Tags": [
+        "jetbrains-ide",
+        "licensing",
+        "jetbrains-toolbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766897/what-happens-if-i-have-a-personal-jetbrains-license-that-i-use-at-home-and-work"
+    },
+    {
+      "Created": "2025-09-17T04:59:29Z",
+      "Title": "Windows hotkeys remotely (rdp\\vmware horizon) via MacOS",
+      "Tags": [
+        "windows",
+        "macos",
+        "hotkeys"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766903/windows-hotkeys-remotely-rdp-vmware-horizon-via-macos"
+    },
+    {
+      "Created": "2025-09-17T05:05:25Z",
+      "Title": "Increasing height of hosting view controller, is messing up swift UI big time",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "swiftui-text"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766907/increasing-height-of-hosting-view-controller-is-messing-up-swift-ui-big-time"
+    }
+  ]
+}

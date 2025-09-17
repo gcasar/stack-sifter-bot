@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-17T23:03:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T22:39:26Z",
+      "Title": "LazyHorizontalStaggeredGrid messing the order of items",
+      "Tags": [
+        "android",
+        "layout",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767860/lazyhorizontalstaggeredgrid-messing-the-order-of-items"
+    },
+    {
+      "Created": "2025-09-17T22:46:57Z",
+      "Title": "random variable match/case [duplicate]",
+      "Tags": [
+        "python",
+        "variables",
+        "random"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767864/random-variable-match-case"
+    },
+    {
+      "Created": "2025-09-17T22:54:52Z",
+      "Title": "Failed to attach MediaTek MT7601U USB Wi-Fi adapter to Kali VM in VirtualBox: \u201CDevice busy with a previous request\u201D",
+      "Tags": [
+        "windows-10",
+        "usb",
+        "virtualbox",
+        "adapter",
+        "kali-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767866/failed-to-attach-mediatek-mt7601u-usb-wi-fi-adapter-to-kali-vm-in-virtualbox-d"
+    },
+    {
+      "Created": "2025-09-17T23:03:04Z",
+      "Title": "Best way to access nested attributes in JSON with Freezed in Flutter",
+      "Tags": [
+        "flutter",
+        "dart",
+        "json-serialization",
+        "freezed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767869/best-way-to-access-nested-attributes-in-json-with-freezed-in-flutter"
+    },
+    {
+      "Created": "2025-09-17T23:03:49Z",
+      "Title": "Question about behavior in Flask (Python)",
+      "Tags": [
+        "python",
+        "http",
+        "flask",
+        "curl",
+        "url"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767870/question-about-behavior-in-flask-python"
+    }
+  ]
+}

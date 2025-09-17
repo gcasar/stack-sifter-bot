@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-17T06:03:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T05:41:15Z",
+      "Title": "How do I access a dynamic variable returned by a function that is inside another function",
+      "Tags": [
+        "javascript",
+        "function",
+        "multidimensional-array",
+        "dynamic-arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766922/how-do-i-access-a-dynamic-variable-returned-by-a-function-that-is-inside-another"
+    },
+    {
+      "Created": "2025-09-17T05:55:42Z",
+      "Title": "How to apply Tailwind CSS styles to a child element only when body has a specific class?",
+      "Tags": [
+        "css",
+        "tailwind-css",
+        "tailwind-css-4",
+        "tailwind-3",
+        "tailwind-css-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766936/how-to-apply-tailwind-css-styles-to-a-child-element-only-when-body-has-a-specifi"
+    },
+    {
+      "Created": "2025-09-17T05:57:15Z",
+      "Title": "Is there no way to use ContactShadows on positive Y positions?",
+      "Tags": [
+        "three.js",
+        "react-three-fiber",
+        "react-three-drei",
+        "r3f"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766937/is-there-no-way-to-use-contactshadows-on-positive-y-positions"
+    },
+    {
+      "Created": "2025-09-17T06:03:45Z",
+      "Title": "Optimized solution for the problem to find employee with most",
+      "Tags": [
+        "python",
+        "algorithm",
+        "data-structures",
+        "dsa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766941/optimized-solution-for-the-problem-to-find-employee-with-most"
+    }
+  ]
+}

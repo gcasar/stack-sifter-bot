@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-17T16:07:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T15:46:09Z",
+      "Title": "How to resolve this unmanaged memory leak?",
+      "Tags": [
+        "c#",
+        "opengl",
+        "memory-leaks",
+        "pinvoke",
+        "avaloniaui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767551/how-to-resolve-this-unmanaged-memory-leak"
+    },
+    {
+      "Created": "2025-09-17T15:54:41Z",
+      "Title": "Use xmlstarlet and XPath to find/replace HTML entities in an XML node",
+      "Tags": [
+        "xml",
+        "xml-parsing",
+        "xml-namespaces",
+        "html-entities",
+        "xmlstarlet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767558/use-xmlstarlet-and-xpath-to-find-replace-html-entities-in-an-xml-node"
+    },
+    {
+      "Created": "2025-09-17T16:05:28Z",
+      "Title": "scoped_lock with a timeout?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767564/scoped-lock-with-a-timeout"
+    },
+    {
+      "Created": "2025-09-17T16:07:05Z",
+      "Title": "Snowflake - Python Connector - MFA - MacBook Finger Scan",
+      "Tags": [
+        "python",
+        "snowflake-cloud-data-platform",
+        "multi-factor-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767566/snowflake-python-connector-mfa-macbook-finger-scan"
+    }
+  ]
+}

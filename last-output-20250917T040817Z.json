@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-17T04:04:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T03:36:21Z",
+      "Title": "How to create a cross table with percentages in Polars?",
+      "Tags": [
+        "python",
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766854/how-to-create-a-cross-table-with-percentages-in-polars"
+    },
+    {
+      "Created": "2025-09-17T03:36:53Z",
+      "Title": "WinUI 3 ComboBox with SelectedValuePath and DisplayMemberPath does not show initial value",
+      "Tags": [
+        "c#",
+        "winui-3",
+        "winui",
+        "windows-app-sdk",
+        "winui-xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766856/winui-3-combobox-with-selectedvaluepath-and-displaymemberpath-does-not-show-init"
+    },
+    {
+      "Created": "2025-09-17T03:45:05Z",
+      "Title": "How to concate two objects, and if any keys are the same between the two objects, sum the elements [duplicate]",
+      "Tags": [
+        "javascript",
+        "object"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766860/how-to-concate-two-objects-and-if-any-keys-are-the-same-between-the-two-objects"
+    },
+    {
+      "Created": "2025-09-17T03:48:05Z",
+      "Title": "AES and SHA256 encryption/decription between C# and ruby",
+      "Tags": [
+        "c#",
+        "ruby",
+        "encryption",
+        "cryptography",
+        "aes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766864/aes-and-sha256-encryption-decription-between-c-sharp-and-ruby"
+    },
+    {
+      "Created": "2025-09-17T04:00:02Z",
+      "Title": "How to preprocess PDFs with math formulas (text \u002B images) for use in a RAG pipeline without losing formula accuracy?",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "extract",
+        "pdflatex",
+        "rag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766868/how-to-preprocess-pdfs-with-math-formulas-text-images-for-use-in-a-rag-pipel"
+    },
+    {
+      "Created": "2025-09-17T04:04:33Z",
+      "Title": "Can I pass boolean values through search params using Expo Router\u0027s useLocalSearchParams?",
+      "Tags": [
+        "typescript",
+        "react-native",
+        "expo",
+        "react-navigation",
+        "expo-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79766874/can-i-pass-boolean-values-through-search-params-using-expo-routers-uselocalsear"
+    }
+  ]
+}

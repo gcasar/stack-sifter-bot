@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-17T08:03:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T07:39:50Z",
+      "Title": "How to safely check a multiprocessing.Event in an asyncio loop without blocking?",
+      "Tags": [
+        "python",
+        "multiprocessing",
+        "python-asyncio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767008/how-to-safely-check-a-multiprocessing-event-in-an-asyncio-loop-without-blocking"
+    },
+    {
+      "Created": "2025-09-17T07:49:42Z",
+      "Title": "Responsive wrapping of legends section in vegalite charts",
+      "Tags": [
+        "vega-lite",
+        "vega",
+        "vega-lite-api",
+        "vega-embed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767017/responsive-wrapping-of-legends-section-in-vegalite-charts"
+    },
+    {
+      "Created": "2025-09-17T07:52:23Z",
+      "Title": "IntelliJ: Render JavaDoc for whole class",
+      "Tags": [
+        "intellij-idea",
+        "javadoc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767020/intellij-render-javadoc-for-whole-class"
+    },
+    {
+      "Created": "2025-09-17T07:55:48Z",
+      "Title": "I am getting segmentation fault on this x86 assembly program",
+      "Tags": [
+        "assembly",
+        "x86",
+        "segmentation-fault"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767023/i-am-getting-segmentation-fault-on-this-x86-assembly-program"
+    },
+    {
+      "Created": "2025-09-17T08:00:04Z",
+      "Title": "Who can explain the difference between (INT_MAX \u002B 1) \u003E 0 at compile and run-time?",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "compiler-specific"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767030/who-can-explain-the-difference-between-int-max-1-0-at-compile-and-run-time"
+    },
+    {
+      "Created": "2025-09-17T08:03:29Z",
+      "Title": "MariaDB / PDO / PHP 1020 error (\u0022Record has changed since last read in table\u0022)",
+      "Tags": [
+        "php",
+        "pdo",
+        "mariadb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767034/mariadb-pdo-php-1020-error-record-has-changed-since-last-read-in-table"
+    }
+  ]
+}

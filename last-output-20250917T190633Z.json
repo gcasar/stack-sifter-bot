@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-17T19:00:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T18:35:15Z",
+      "Title": "Explain a class that appears to extend itself",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767693/explain-a-class-that-appears-to-extend-itself"
+    },
+    {
+      "Created": "2025-09-17T18:42:59Z",
+      "Title": "How to Send Unicode DegreeC as a unicode value in a dictionary entry",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767699/how-to-send-unicode-degreec-as-a-unicode-value-in-a-dictionary-entry"
+    },
+    {
+      "Created": "2025-09-17T18:43:17Z",
+      "Title": "Even more portable alternative for \u0060sort -k x -u\u0060 for removing duplicated columns",
+      "Tags": [
+        "sh",
+        "posix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767700/even-more-portable-alternative-for-sort-k-x-u-for-removing-duplicated-column"
+    },
+    {
+      "Created": "2025-09-17T18:47:03Z",
+      "Title": "Current value not honored when using UPDATE and IF in MySQL",
+      "Tags": [
+        "sql",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767705/current-value-not-honored-when-using-update-and-if-in-mysql"
+    },
+    {
+      "Created": "2025-09-17T18:50:39Z",
+      "Title": "API call returns HTML (ERR_NGROK_6024) instead of JSON response",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "axios",
+        "ngrok"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767711/api-call-returns-html-err-ngrok-6024-instead-of-json-response"
+    },
+    {
+      "Created": "2025-09-17T18:51:40Z",
+      "Title": "Sense HAT joystick not probing in yocto",
+      "Tags": [
+        "raspberry-pi",
+        "linux-device-driver",
+        "dts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767713/sense-hat-joystick-not-probing-in-yocto"
+    },
+    {
+      "Created": "2025-09-17T18:56:45Z",
+      "Title": "How to update a vulnerability in my vuejs project",
+      "Tags": [
+        "vuejs2",
+        "npm-vulnerabilities"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767721/how-to-update-a-vulnerability-in-my-vuejs-project"
+    },
+    {
+      "Created": "2025-09-17T18:58:17Z",
+      "Title": "Count the total number of two different objects in an image",
+      "Tags": [
+        "python",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767723/count-the-total-number-of-two-different-objects-in-an-image"
+    },
+    {
+      "Created": "2025-09-17T19:00:42Z",
+      "Title": "How can I combine multiple \u0022=ARRAYFORMULA(SUM(IF(IMPORTRANGE()\u0022 formulas that evaluates multiple ranges?",
+      "Tags": [
+        "google-sheets",
+        "array-formulas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767727/how-can-i-combine-multiple-arrayformulasumifimportrange-formulas-that-ev"
+    }
+  ]
+}

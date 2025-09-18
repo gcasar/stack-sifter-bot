@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-18T11:01:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T10:50:12Z",
+      "Title": "Need help updating token in next auth. (next.js app router)",
+      "Tags": [
+        "authentication",
+        "session",
+        "next.js",
+        "jwt",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768324/need-help-updating-token-in-next-auth-next-js-app-router"
+    },
+    {
+      "Created": "2025-09-18T11:01:11Z",
+      "Title": "Cypress - Click On 2nd Span Element That Has Certain Text Inside?",
+      "Tags": [
+        "html",
+        "cypress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768332/cypress-click-on-2nd-span-element-that-has-certain-text-inside"
+    },
+    {
+      "Created": "2025-09-18T11:01:23Z",
+      "Title": "MSIX package - is digital sign required even if it to be published to Microsoft Store",
+      "Tags": [
+        "msix",
+        "microsoft-store",
+        "microsoft-partner-center"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768333/msix-package-is-digital-sign-required-even-if-it-to-be-published-to-microsoft"
+    }
+  ]
+}

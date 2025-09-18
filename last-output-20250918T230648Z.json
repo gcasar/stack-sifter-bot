@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-18T22:45:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T22:31:42Z",
+      "Title": "How to fire wxWidgets custom event outside of wxFrame",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "wxwidgets",
+        "custom-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768976/how-to-fire-wxwidgets-custom-event-outside-of-wxframe"
+    },
+    {
+      "Created": "2025-09-18T22:32:10Z",
+      "Title": "Vector of Vectors Insertion Impact",
+      "Tags": [
+        "c\u002B\u002B",
+        "performance",
+        "vector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768977/vector-of-vectors-insertion-impact"
+    },
+    {
+      "Created": "2025-09-18T22:35:03Z",
+      "Title": "Is it recommended in TypeScript to define event handler types separately and use them with const functions?",
+      "Tags": [
+        "javascript",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768979/is-it-recommended-in-typescript-to-define-event-handler-types-separately-and-use"
+    },
+    {
+      "Created": "2025-09-18T22:35:18Z",
+      "Title": "C Size of array is too big",
+      "Tags": [
+        "c",
+        "gcc",
+        "64-bit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768980/c-size-of-array-is-too-big"
+    },
+    {
+      "Created": "2025-09-18T22:39:59Z",
+      "Title": "Where can I get Sepolia testnet ETH without needing mainnet ETH in my wallet?",
+      "Tags": [
+        "ethereum",
+        "metamask",
+        "bitcoin-testnet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768982/where-can-i-get-sepolia-testnet-eth-without-needing-mainnet-eth-in-my-wallet"
+    },
+    {
+      "Created": "2025-09-18T22:45:30Z",
+      "Title": "How to pass fieldnames containing # to createMultipleInsertCommand without crashing?",
+      "Tags": [
+        "php",
+        "rdbms",
+        "yii1.x",
+        "limesurvey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768985/how-to-pass-fieldnames-containing-to-createmultipleinsertcommand-without-crash"
+    }
+  ]
+}

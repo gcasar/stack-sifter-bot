@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-18T19:02:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T18:27:09Z",
+      "Title": "Dart Flutter: Infinite scrolling not woking",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768805/dart-flutter-infinite-scrolling-not-woking"
+    },
+    {
+      "Created": "2025-09-18T18:31:57Z",
+      "Title": "Calculate for 95th-percentile in 15-minute windows on irregular time-series data?",
+      "Tags": [
+        "sql",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768807/calculate-for-95th-percentile-in-15-minute-windows-on-irregular-time-series-data"
+    },
+    {
+      "Created": "2025-09-18T18:54:18Z",
+      "Title": "How does Branch.io successfully deep link from Chrome iOS when custom domains fail?",
+      "Tags": [
+        "ios",
+        "google-chrome",
+        "wkwebview",
+        "deep-linking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768820/how-does-branch-io-successfully-deep-link-from-chrome-ios-when-custom-domains-fa"
+    },
+    {
+      "Created": "2025-09-18T19:00:49Z",
+      "Title": "Efficient ways to check if two binary trees are the same?",
+      "Tags": [
+        "python",
+        "algorithm",
+        "binary-search-tree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768826/efficient-ways-to-check-if-two-binary-trees-are-the-same"
+    },
+    {
+      "Created": "2025-09-18T19:02:42Z",
+      "Title": "Unnest a complex and inconsistent dataset using data.table",
+      "Tags": [
+        "r",
+        "data.table",
+        "data-manipulation",
+        "unnest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768827/unnest-a-complex-and-inconsistent-dataset-using-data-table"
+    }
+  ]
+}

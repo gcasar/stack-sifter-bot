@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-18T00:08:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-17T23:34:18Z",
+      "Title": "Getting error with opening/reading .CEL files \u0022Error in file(file, \u0022rt\u0022) : cannot open the connection\u0022",
+      "Tags": [
+        "r",
+        "macos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767880/getting-error-with-opening-reading-cel-files-error-in-filefile-rt-canno"
+    },
+    {
+      "Created": "2025-09-18T00:08:09Z",
+      "Title": "Should derived fields be sent by the server or regenerated on the client?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "server",
+        "client-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767892/should-derived-fields-be-sent-by-the-server-or-regenerated-on-the-client"
+    }
+  ]
+}

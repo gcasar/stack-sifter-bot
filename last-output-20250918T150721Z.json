@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-18T15:02:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T14:43:27Z",
+      "Title": "loading icon cannot re-render everytime when the fetched data changed",
+      "Tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768593/loading-icon-cannot-re-render-everytime-when-the-fetched-data-changed"
+    },
+    {
+      "Created": "2025-09-18T14:53:38Z",
+      "Title": "Google Groups API - is there a way to remove a non-google-account member?",
+      "Tags": [
+        "google-workspace",
+        "google-groups",
+        "google-groups-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768599/google-groups-api-is-there-a-way-to-remove-a-non-google-account-member"
+    },
+    {
+      "Created": "2025-09-18T14:57:38Z",
+      "Title": "List Literal vs List Multiplication storage and speed comparison",
+      "Tags": [
+        "python",
+        "pandas",
+        "unit-testing",
+        "pep8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768604/list-literal-vs-list-multiplication-storage-and-speed-comparison"
+    },
+    {
+      "Created": "2025-09-18T15:01:21Z",
+      "Title": "Firebase FCM Breaking BMDRM Video Player Fullscreen in Flutter",
+      "Tags": [
+        "firebase",
+        "dart",
+        "firebase-cloud-messaging",
+        "fullscreen",
+        "video-player"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768608/firebase-fcm-breaking-bmdrm-video-player-fullscreen-in-flutter"
+    },
+    {
+      "Created": "2025-09-18T15:02:09Z",
+      "Title": "Nested list hacker rank quetion",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768610/nested-list-hacker-rank-quetion"
+    },
+    {
+      "Created": "2025-09-18T15:02:16Z",
+      "Title": "MySQL 8 runs very slow when including a NOT IN in the where clause",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768612/mysql-8-runs-very-slow-when-including-a-not-in-in-the-where-clause"
+    },
+    {
+      "Created": "2025-09-18T15:02:42Z",
+      "Title": "Pine Script v6: How to make indicator legend background transparent to match pane background?",
+      "Tags": [
+        "legend",
+        "indicator",
+        "pine-script-v6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768613/pine-script-v6-how-to-make-indicator-legend-background-transparent-to-match-pan"
+    }
+  ]
+}

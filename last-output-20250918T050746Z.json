@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-18T04:52:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T04:34:34Z",
+      "Title": "Code Blocks code isn\u0027t properly running my code",
+      "Tags": [
+        "c\u002B\u002B17",
+        "codeblocks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767983/code-blocks-code-isnt-properly-running-my-code"
+    },
+    {
+      "Created": "2025-09-18T04:39:37Z",
+      "Title": "How to cast properly in C",
+      "Tags": [
+        "c",
+        "casting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767985/how-to-cast-properly-in-c"
+    },
+    {
+      "Created": "2025-09-18T04:43:42Z",
+      "Title": "How can I find out the actual price of an NFT gift in Telegram using Python?",
+      "Tags": [
+        "python",
+        "telegram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767986/how-can-i-find-out-the-actual-price-of-an-nft-gift-in-telegram-using-python"
+    },
+    {
+      "Created": "2025-09-18T04:45:32Z",
+      "Title": "Ensure unique condition across columns",
+      "Tags": [
+        "sql",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767989/ensure-unique-condition-across-columns"
+    },
+    {
+      "Created": "2025-09-18T04:52:16Z",
+      "Title": "Tanstack table cell components unmouting and remounting",
+      "Tags": [
+        "reactjs",
+        "react-hook-form",
+        "tanstack-table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767992/tanstack-table-cell-components-unmouting-and-remounting"
+    }
+  ]
+}

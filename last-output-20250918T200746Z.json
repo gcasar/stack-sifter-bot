@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-18T19:55:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T19:13:45Z",
+      "Title": "glDisable(GL_LIGHTING) not making a difference",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "glut",
+        "lighting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768840/gldisablegl-lighting-not-making-a-difference"
+    },
+    {
+      "Created": "2025-09-18T19:30:38Z",
+      "Title": "Adding subtotals to a pandas dataframe",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "subtotal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768855/adding-subtotals-to-a-pandas-dataframe"
+    },
+    {
+      "Created": "2025-09-18T19:48:55Z",
+      "Title": "How do you implement pdf.js in a vuejs application with web workers and standard fonts",
+      "Tags": [
+        "vue.js",
+        "pdf.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768867/how-do-you-implement-pdf-js-in-a-vuejs-application-with-web-workers-and-standard"
+    },
+    {
+      "Created": "2025-09-18T19:49:11Z",
+      "Title": "Enum mapping hell postgreSQL =\u003E EF9",
+      "Tags": [
+        ".net",
+        "postgresql",
+        "entity-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768868/enum-mapping-hell-postgresql-ef9"
+    },
+    {
+      "Created": "2025-09-18T19:53:32Z",
+      "Title": "insect behavior: 3 response types, response values are counts (0\u2013600), nnet::multinom(); vglm() with cbind\\ Recommend me method",
+      "Tags": [
+        "multinomial"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768871/insect-behavior-3-response-types-response-values-are-counts-0-600-nnetmul"
+    },
+    {
+      "Created": "2025-09-18T19:55:03Z",
+      "Title": "How to login to windows using replicated UPN from Active Directory [closed]",
+      "Tags": [
+        "microsoft-entra-id"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768874/how-to-login-to-windows-using-replicated-upn-from-active-directory"
+    }
+  ]
+}

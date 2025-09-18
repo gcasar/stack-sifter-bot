@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-18T10:04:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T09:40:56Z",
+      "Title": "Django WeasyPrint high memory usage with large datasets",
+      "Tags": [
+        "python",
+        "django",
+        "pdf-generation",
+        "weasyprint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768251/django-weasyprint-high-memory-usage-with-large-datasets"
+    },
+    {
+      "Created": "2025-09-18T09:54:11Z",
+      "Title": "Repository structure and CI/CD pipeline for SPFx WebParts",
+      "Tags": [
+        "git",
+        "sharepoint",
+        "pipeline",
+        "cicd",
+        "spfx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768271/repository-structure-and-ci-cd-pipeline-for-spfx-webparts"
+    },
+    {
+      "Created": "2025-09-18T09:54:56Z",
+      "Title": "How do I digitally sign a PDF file using a physical PKI card from Python?",
+      "Tags": [
+        "python",
+        "pdf",
+        "pkcs#11",
+        "pyhanko"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768272/how-do-i-digitally-sign-a-pdf-file-using-a-physical-pki-card-from-python"
+    },
+    {
+      "Created": "2025-09-18T09:56:12Z",
+      "Title": "Expo, Google authentication, Redirect uri mismatch shows wrong e-mail",
+      "Tags": [
+        "expo",
+        "google-oauth",
+        "expo-auth-session"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768273/expo-google-authentication-redirect-uri-mismatch-shows-wrong-e-mail"
+    },
+    {
+      "Created": "2025-09-18T10:04:04Z",
+      "Title": "Why does my log transformation output only black?",
+      "Tags": [
+        "python",
+        "numpy",
+        "image",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768280/why-does-my-log-transformation-output-only-black"
+    },
+    {
+      "Created": "2025-09-18T10:04:59Z",
+      "Title": "sqlpackage script with CDC enabled tables",
+      "Tags": [
+        "sql-server",
+        "dacpac",
+        "sqlpackage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768281/sqlpackage-script-with-cdc-enabled-tables"
+    }
+  ]
+}

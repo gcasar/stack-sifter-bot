@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-18T02:30:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T01:50:45Z",
+      "Title": "Typescript narrowing difference between if/else and switch for object with union discriminator",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767927/typescript-narrowing-difference-between-if-else-and-switch-for-object-with-union"
+    },
+    {
+      "Created": "2025-09-18T01:50:48Z",
+      "Title": "Buggy ScrollView \u002B LazyVStack animation - is it fixable?",
+      "Tags": [
+        "swift",
+        "scrollview",
+        "lazyvstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767928/buggy-scrollview-lazyvstack-animation-is-it-fixable"
+    },
+    {
+      "Created": "2025-09-18T01:52:08Z",
+      "Title": "How can I solve the \u0022undefined reference\u0022 error when implementing B_tree(Red Black Tree) as a template?",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "undefined-reference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767929/how-can-i-solve-the-undefined-reference-error-when-implementing-b-treered-bla"
+    },
+    {
+      "Created": "2025-09-18T02:30:16Z",
+      "Title": "std::this_thread::sleep_for(2ms) has a crash",
+      "Tags": [
+        "c",
+        "linux",
+        "arm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767940/stdthis-threadsleep-for2ms-has-a-crash"
+    }
+  ]
+}

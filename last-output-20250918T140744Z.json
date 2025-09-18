@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-18T14:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T13:30:49Z",
+      "Title": "How to trigger an event at a specific time (10 minutes later) without setTimeout, Redis, or cron?",
+      "Tags": [
+        "javascript",
+        "mysql",
+        "node.js",
+        "amazon-web-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768512/how-to-trigger-an-event-at-a-specific-time-10-minutes-later-without-settimeout"
+    },
+    {
+      "Created": "2025-09-18T13:38:33Z",
+      "Title": "Lost Array values once I go into the last DOS batch label for Curl loop",
+      "Tags": [
+        "arrays",
+        "batch-file",
+        "curl",
+        "dos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768523/lost-array-values-once-i-go-into-the-last-dos-batch-label-for-curl-loop"
+    },
+    {
+      "Created": "2025-09-18T13:56:10Z",
+      "Title": "Outlook addin with office.js giving Host error with code 5000 for item.sendAsync()",
+      "Tags": [
+        "javascript",
+        "outlook",
+        "office-js",
+        "outlook-addin",
+        "outlook-web-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768543/outlook-addin-with-office-js-giving-host-error-with-code-5000-for-item-sendasync"
+    },
+    {
+      "Created": "2025-09-18T14:03:12Z",
+      "Title": "Drawing my own stuff with OpenGL in Minecraft 1.21.8",
+      "Tags": [
+        "opengl",
+        "minecraft",
+        "minecraft-fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768549/drawing-my-own-stuff-with-opengl-in-minecraft-1-21-8"
+    },
+    {
+      "Created": "2025-09-18T14:04:07Z",
+      "Title": "\u0027go run\u0027 triggers Windows Defender",
+      "Tags": [
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768551/go-run-triggers-windows-defender"
+    }
+  ]
+}

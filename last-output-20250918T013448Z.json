@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-18T01:25:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T00:38:50Z",
+      "Title": "My .justfile is passing an argument to my Dockerfile and giving me an odd EOF error",
+      "Tags": [
+        "docker",
+        "shell",
+        "just"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767903/my-justfile-is-passing-an-argument-to-my-dockerfile-and-giving-me-an-odd-eof-er"
+    },
+    {
+      "Created": "2025-09-18T01:14:11Z",
+      "Title": "Modulenotfounderror When Installing Python Package from Github",
+      "Tags": [
+        "python",
+        "git",
+        "packaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767913/modulenotfounderror-when-installing-python-package-from-github"
+    },
+    {
+      "Created": "2025-09-18T01:25:19Z",
+      "Title": "How do I get the dropdown lists to update with new values to use as parameters in Power Query?",
+      "Tags": [
+        "sql-server",
+        "excel",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767919/how-do-i-get-the-dropdown-lists-to-update-with-new-values-to-use-as-parameters-i"
+    }
+  ]
+}

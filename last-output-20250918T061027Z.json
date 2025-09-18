@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-18T06:08:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T05:47:04Z",
+      "Title": "Appending formatted content to a \u0060std::string\u0060 without creating temporaries",
+      "Tags": [
+        "c\u002B\u002B",
+        "stdstring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768016/appending-formatted-content-to-a-stdstring-without-creating-temporaries"
+    },
+    {
+      "Created": "2025-09-18T05:50:36Z",
+      "Title": "How to achieve two-level dropdown (nested categories) in Flask-Admin?",
+      "Tags": [
+        "python",
+        "flask-admin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768020/how-to-achieve-two-level-dropdown-nested-categories-in-flask-admin"
+    },
+    {
+      "Created": "2025-09-18T05:54:58Z",
+      "Title": "Ngrx: The same selector in multiple components (\u0027parallel\u0027)",
+      "Tags": [
+        "angular",
+        "ngrx",
+        "ngrx-selectors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768023/ngrx-the-same-selector-in-multiple-components-parallel"
+    },
+    {
+      "Created": "2025-09-18T06:03:11Z",
+      "Title": "Fatal \u0022unsupported VMA range\u0022 when running aarch64 TSAN binaries via qemu",
+      "Tags": [
+        "qemu",
+        "arm64",
+        "thread-sanitizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768029/fatal-unsupported-vma-range-when-running-aarch64-tsan-binaries-via-qemu"
+    },
+    {
+      "Created": "2025-09-18T06:08:01Z",
+      "Title": "FirebaseAuthException ([firebase_auth/internal-error] An internal error has occurred, print and inspect the error details for more information.)",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "firebase-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768032/firebaseauthexception-firebase-auth-internal-error-an-internal-error-has-occu"
+    }
+  ]
+}

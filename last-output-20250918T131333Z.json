@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-18T13:12:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T12:53:35Z",
+      "Title": "When setting pattern property from a string in JavaScript, how to preserve the backslashes?",
+      "Tags": [
+        "javascript",
+        "perl",
+        "escaping",
+        "backslash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768458/when-setting-pattern-property-from-a-string-in-javascript-how-to-preserve-the-b"
+    },
+    {
+      "Created": "2025-09-18T12:56:09Z",
+      "Title": "Matching Shopware properties by the name / shortName in one single call",
+      "Tags": [
+        "shopware6",
+        "shopware6-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768463/matching-shopware-properties-by-the-name-shortname-in-one-single-call"
+    },
+    {
+      "Created": "2025-09-18T13:11:07Z",
+      "Title": "While Loop inside a For Loop",
+      "Tags": [
+        "for-loop",
+        "while-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768481/while-loop-inside-a-for-loop"
+    },
+    {
+      "Created": "2025-09-18T13:11:42Z",
+      "Title": "How would I go about altering the mouse\u0027s position upon moving over an object in WPF C#?",
+      "Tags": [
+        "c#",
+        "wpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768483/how-would-i-go-about-altering-the-mouses-position-upon-moving-over-an-object-in"
+    },
+    {
+      "Created": "2025-09-18T13:12:32Z",
+      "Title": "What are the differences between the 2 approaches that visually and programmatically uncheck my iCheck widget?",
+      "Tags": [
+        "jquery",
+        "icheck"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768485/what-are-the-differences-between-the-2-approaches-that-visually-and-programmatic"
+    }
+  ]
+}

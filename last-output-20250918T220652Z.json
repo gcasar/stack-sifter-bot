@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-18T22:03:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T21:41:27Z",
+      "Title": "Why composite types are slower in compare to regular int? How to make composite to work faster?",
+      "Tags": [
+        "postgresql",
+        "composite-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768947/why-composite-types-are-slower-in-compare-to-regular-int-how-to-make-composite"
+    },
+    {
+      "Created": "2025-09-18T21:47:29Z",
+      "Title": "ImageSharp and overloads",
+      "Tags": [
+        "imagesharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768951/imagesharp-and-overloads"
+    },
+    {
+      "Created": "2025-09-18T21:52:56Z",
+      "Title": "How is call/3 Working with a Prinipal Functor and One Argument?",
+      "Tags": [
+        "prolog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768956/how-is-call-3-working-with-a-prinipal-functor-and-one-argument"
+    },
+    {
+      "Created": "2025-09-18T21:55:00Z",
+      "Title": "Detect browser support for \u0022closedby\u0022 attribute",
+      "Tags": [
+        "javascript",
+        "feature-detection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768959/detect-browser-support-for-closedby-attribute"
+    },
+    {
+      "Created": "2025-09-18T22:03:29Z",
+      "Title": "PHP signed video URL with HMAC works initially but fails with 500 error after multiple downloads",
+      "Tags": [
+        "php",
+        "iis",
+        "ffmpeg",
+        "hmac",
+        "http-status-code-500"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768961/php-signed-video-url-with-hmac-works-initially-but-fails-with-500-error-after-mu"
+    }
+  ]
+}

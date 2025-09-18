@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-18T03:14:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T03:11:32Z",
+      "Title": "How can I drag the column width of a DataGridView on the designer page when using a custom designer with DesignSurface in a Windows Forms application?",
+      "Tags": [
+        "c#",
+        "winforms",
+        "design-surface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767949/how-can-i-drag-the-column-width-of-a-datagridview-on-the-designer-page-when-usin"
+    },
+    {
+      "Created": "2025-09-18T03:14:26Z",
+      "Title": "Duplicating clickable icon on pdf while using PdfFileAttachmentAnnotation from Itext7",
+      "Tags": [
+        "java",
+        "html",
+        "css",
+        "pdf",
+        "itext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79767953/duplicating-clickable-icon-on-pdf-while-using-pdffileattachmentannotation-from-i"
+    }
+  ]
+}

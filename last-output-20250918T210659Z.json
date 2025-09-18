@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-18T21:04:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T20:47:22Z",
+      "Title": "Sort each row of a pandas column consisting of delimited strings",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "list",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768902/sort-each-row-of-a-pandas-column-consisting-of-delimited-strings"
+    },
+    {
+      "Created": "2025-09-18T20:50:08Z",
+      "Title": "Broadcasting arrays in Eigen along rows and columns to create a rectangular array",
+      "Tags": [
+        "c\u002B\u002B",
+        "eigen",
+        "eigen3",
+        "array-broadcasting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768906/broadcasting-arrays-in-eigen-along-rows-and-columns-to-create-a-rectangular-arra"
+    },
+    {
+      "Created": "2025-09-18T20:57:35Z",
+      "Title": "Move built Android bundles to folder",
+      "Tags": [
+        "java",
+        "android",
+        "gradle",
+        "android-gradle-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768911/move-built-android-bundles-to-folder"
+    },
+    {
+      "Created": "2025-09-18T20:59:59Z",
+      "Title": "Vala class methods are present as \u003Cfunction\u003E, not as \u003Cmethod\u003E in generated .gir file created using g-ir-scanner",
+      "Tags": [
+        "c",
+        "vala",
+        "gobject",
+        "gobject-introspection",
+        "g-ir-scanner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768914/vala-class-methods-are-present-as-function-not-as-method-in-generated-gir"
+    },
+    {
+      "Created": "2025-09-18T21:01:03Z",
+      "Title": "Using Google VID/PID for custom ADB bridge",
+      "Tags": [
+        "android",
+        "adb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768918/using-google-vid-pid-for-custom-adb-bridge"
+    },
+    {
+      "Created": "2025-09-18T21:04:25Z",
+      "Title": "avg_prediction arguments, marginaleffect package",
+      "Tags": [
+        "r-marginaleffects"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768920/avg-prediction-arguments-marginaleffect-package"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-09-18T09:05:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T08:49:20Z",
+      "Title": "Can the compiler elide a const local copy of const\u0026 vector parameter?",
+      "Tags": [
+        "c\u002B\u002B",
+        "exception",
+        "memory-management",
+        "immutability",
+        "compiler-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768189/can-the-compiler-elide-a-const-local-copy-of-const-vector-parameter"
+    },
+    {
+      "Created": "2025-09-18T08:53:20Z",
+      "Title": "Enabling CORS in ASP.net Core WebAPI not working",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768194/enabling-cors-in-asp-net-core-webapi-not-working"
+    },
+    {
+      "Created": "2025-09-18T08:54:18Z",
+      "Title": "How to build a DIN A3 Book Template with groff and the mom macro package?",
+      "Tags": [
+        "groff",
+        "troff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768196/how-to-build-a-din-a3-book-template-with-groff-and-the-mom-macro-package"
+    },
+    {
+      "Created": "2025-09-18T08:56:41Z",
+      "Title": "PayFast cancel subscription (sandbox mode) in Python",
+      "Tags": [
+        "python",
+        "rest",
+        "authentication",
+        "request",
+        "payfast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768198/payfast-cancel-subscription-sandbox-mode-in-python"
+    },
+    {
+      "Created": "2025-09-18T08:57:32Z",
+      "Title": "Does std::find still guarantee first element with std::execution::par?",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "parallel-processing",
+        "stl",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768199/does-stdfind-still-guarantee-first-element-with-stdexecutionpar"
+    },
+    {
+      "Created": "2025-09-18T08:59:09Z",
+      "Title": "expression of multiplying numbers gets combined on plot",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768203/expression-of-multiplying-numbers-gets-combined-on-plot"
+    },
+    {
+      "Created": "2025-09-18T08:59:42Z",
+      "Title": "How to run Neo4j Docker container using Singularity on HPC without shutdown during data import?",
+      "Tags": [
+        "python",
+        "neo4j",
+        "hpc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768204/how-to-run-neo4j-docker-container-using-singularity-on-hpc-without-shutdown-duri"
+    },
+    {
+      "Created": "2025-09-18T09:00:15Z",
+      "Title": "Docling PPTX Image Extraction Issue - Missing Embedded Images from Placeholders",
+      "Tags": [
+        "python",
+        "markdown",
+        "powerpoint",
+        "image-extraction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768205/docling-pptx-image-extraction-issue-missing-embedded-images-from-placeholders"
+    },
+    {
+      "Created": "2025-09-18T09:00:50Z",
+      "Title": "Multi data source and Criteria building is not able to find Entity Manager",
+      "Tags": [
+        "spring-boot",
+        "hibernate",
+        "jpa",
+        "multi-database-connections"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768207/multi-data-source-and-criteria-building-is-not-able-to-find-entity-manager"
+    },
+    {
+      "Created": "2025-09-18T09:04:25Z",
+      "Title": "How to access event timestamp in @EventSourcingHandler in Axon Framework?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "axon",
+        "axon-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768212/how-to-access-event-timestamp-in-eventsourcinghandler-in-axon-framework"
+    },
+    {
+      "Created": "2025-09-18T09:05:28Z",
+      "Title": "Can we configure renovate bot to read GitLab variables and bump up the versions there?",
+      "Tags": [
+        "renovate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768216/can-we-configure-renovate-bot-to-read-gitlab-variables-and-bump-up-the-versions"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-18T17:28:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T17:28:17Z",
+      "Title": "Unexpected behavior of mypy with TypeVar, Generic, and decorators",
+      "Tags": [
+        "python",
+        "python-typing",
+        "mypy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768767/unexpected-behavior-of-mypy-with-typevar-generic-and-decorators"
+    }
+  ]
+}

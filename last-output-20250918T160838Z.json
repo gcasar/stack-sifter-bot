@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-18T16:07:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T15:38:11Z",
+      "Title": "Type hinting a type",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768658/type-hinting-a-type"
+    },
+    {
+      "Created": "2025-09-18T15:59:16Z",
+      "Title": "#[tauri::command] macro generates \u201Cdefined multiple times\u201D error when using lib.rs",
+      "Tags": [
+        "rust",
+        "tauri"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768679/tauricommand-macro-generates-defined-multiple-times-error-when-using-lib"
+    },
+    {
+      "Created": "2025-09-18T16:00:37Z",
+      "Title": "Unable to upload file using spark Java",
+      "Tags": [
+        "java",
+        "apache-spark",
+        "file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768684/unable-to-upload-file-using-spark-java"
+    },
+    {
+      "Created": "2025-09-18T16:02:07Z",
+      "Title": "Error: Cannot IFeatureDefinitionProvider in rider",
+      "Tags": [
+        "dependency-injection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768685/error-cannot-ifeaturedefinitionprovider-in-rider"
+    },
+    {
+      "Created": "2025-09-18T16:02:30Z",
+      "Title": "Splunk timechart query using metric dimensions",
+      "Tags": [
+        "splunk",
+        "splunk-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768686/splunk-timechart-query-using-metric-dimensions"
+    },
+    {
+      "Created": "2025-09-18T16:02:33Z",
+      "Title": "Can someone help me how to test with sys.exit if its possible with pytest?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768687/can-someone-help-me-how-to-test-with-sys-exit-if-its-possible-with-pytest"
+    },
+    {
+      "Created": "2025-09-18T16:07:05Z",
+      "Title": "Firebase Storage CORS error persists despite correct gsutil configuration and cache clearing",
+      "Tags": [
+        "javascript",
+        "firebase",
+        "cors",
+        "google-cloud-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768695/firebase-storage-cors-error-persists-despite-correct-gsutil-configuration-and-ca"
+    },
+    {
+      "Created": "2025-09-18T16:07:09Z",
+      "Title": "How to prevent dithering when rendering a 24 bpp bitmap with GDI\u002B?",
+      "Tags": [
+        "c\u002B\u002Bbuilder",
+        "gdi\u002B",
+        "vcl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768696/how-to-prevent-dithering-when-rendering-a-24-bpp-bitmap-with-gdi"
+    }
+  ]
+}

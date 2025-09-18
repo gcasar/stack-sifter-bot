@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-18T07:03:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T06:53:57Z",
+      "Title": "How to simultaneously display the conversion progress of multiple PDF files when using PDF Focus .Net?",
+      "Tags": [
+        "pdf",
+        "mvvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768078/how-to-simultaneously-display-the-conversion-progress-of-multiple-pdf-files-when"
+    },
+    {
+      "Created": "2025-09-18T07:00:05Z",
+      "Title": "How do I set the spdlog log level in a Catch2 unit test?",
+      "Tags": [
+        "c\u002B\u002B",
+        "unit-testing",
+        "catch2",
+        "spdlog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768083/how-do-i-set-the-spdlog-log-level-in-a-catch2-unit-test"
+    },
+    {
+      "Created": "2025-09-18T07:03:43Z",
+      "Title": "Perf probe fails because of missing symbol, although its listed under functions (clang)",
+      "Tags": [
+        "clang",
+        "llvm",
+        "perf",
+        "debug-symbols"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768085/perf-probe-fails-because-of-missing-symbol-although-its-listed-under-functions"
+    }
+  ]
+}

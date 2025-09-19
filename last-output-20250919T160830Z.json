@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-19T16:07:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T15:46:30Z",
+      "Title": "Is Unity rounding floats when copying arrays?",
+      "Tags": [
+        "arrays",
+        "floating-point",
+        "grid",
+        "copy",
+        "terrain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769711/is-unity-rounding-floats-when-copying-arrays"
+    },
+    {
+      "Created": "2025-09-19T15:54:47Z",
+      "Title": "Multi-line heading with horizontal line either side",
+      "Tags": [
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769715/multi-line-heading-with-horizontal-line-either-side"
+    },
+    {
+      "Created": "2025-09-19T15:57:41Z",
+      "Title": "Seek to binary string, go back N bytes and capture X bytes",
+      "Tags": [
+        "bash",
+        "awk",
+        "sed",
+        "grep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769720/seek-to-binary-string-go-back-n-bytes-and-capture-x-bytes"
+    },
+    {
+      "Created": "2025-09-19T16:00:28Z",
+      "Title": "Dentrix overlapping appointment slots",
+      "Tags": [
+        "integration",
+        "dentrix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769721/dentrix-overlapping-appointment-slots"
+    },
+    {
+      "Created": "2025-09-19T16:00:41Z",
+      "Title": "bitbake changes for ntp",
+      "Tags": [
+        "yocto",
+        "bitbake",
+        "ntp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769722/bitbake-changes-for-ntp"
+    },
+    {
+      "Created": "2025-09-19T16:02:10Z",
+      "Title": "can not update data using select statement for where condition",
+      "Tags": [
+        "laravel",
+        "laravel-10",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769723/can-not-update-data-using-select-statement-for-where-condition"
+    },
+    {
+      "Created": "2025-09-19T16:07:22Z",
+      "Title": "Store cow reference in struct",
+      "Tags": [
+        "rust",
+        "lifetime",
+        "cow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769726/store-cow-reference-in-struct"
+    }
+  ]
+}

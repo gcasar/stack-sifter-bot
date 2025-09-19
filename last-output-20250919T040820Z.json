@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-19T03:54:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T03:32:19Z",
+      "Title": "Cannot Read and Update to Firebase using HTML and Javascript",
+      "Tags": [
+        "javascript",
+        "firebase",
+        "firebase-realtime-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769090/cannot-read-and-update-to-firebase-using-html-and-javascript"
+    },
+    {
+      "Created": "2025-09-19T03:40:39Z",
+      "Title": "\u0060core-js\u0060 with \u0060@babel/preset-env\u0060 adds unnecessary polyfills and bloats bundle",
+      "Tags": [
+        "javascript",
+        "webpack",
+        "frontend",
+        "babeljs",
+        "core-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769094/core-js-with-babel-preset-env-adds-unnecessary-polyfills-and-bloats-bundle"
+    },
+    {
+      "Created": "2025-09-19T03:48:54Z",
+      "Title": "iOS Quick Start migration: How can I prevent my Core Data store from being transferred to a new device?",
+      "Tags": [
+        "ios",
+        "swift",
+        "core-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769097/ios-quick-start-migration-how-can-i-prevent-my-core-data-store-from-being-trans"
+    },
+    {
+      "Created": "2025-09-19T03:54:56Z",
+      "Title": "How do I prevent overriding queries?",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "postgresql-9.6",
+        "xtuple"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769100/how-do-i-prevent-overriding-queries"
+    }
+  ]
+}

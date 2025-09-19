@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-19T17:04:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T16:13:59Z",
+      "Title": "Need guidance for reverb processing in Korg LogueSDK",
+      "Tags": [
+        "c\u002B\u002B",
+        "signal-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769734/need-guidance-for-reverb-processing-in-korg-loguesdk"
+    },
+    {
+      "Created": "2025-09-19T16:34:45Z",
+      "Title": "DB2/LUW How to Perform Cross-database Query Comparison without Federation?",
+      "Tags": [
+        "stored-procedures",
+        "database-connection",
+        "db2-luw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769753/db2-luw-how-to-perform-cross-database-query-comparison-without-federation"
+    },
+    {
+      "Created": "2025-09-19T16:39:56Z",
+      "Title": "Preserving boolean expressions to methods",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769755/preserving-boolean-expressions-to-methods"
+    },
+    {
+      "Created": "2025-09-19T16:42:53Z",
+      "Title": "How to configure the Custom Action with WIX toolset to execute the action only on the first install",
+      "Tags": [
+        "wix",
+        "windows-installer",
+        "custom-action"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769759/how-to-configure-the-custom-action-with-wix-toolset-to-execute-the-action-only-o"
+    },
+    {
+      "Created": "2025-09-19T16:46:47Z",
+      "Title": "Symfony app crashes during XDebug session at EntityManager proxy, but manual evaluation works",
+      "Tags": [
+        "php",
+        "symfony",
+        "doctrine-orm",
+        "doctrine",
+        "xdebug"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769765/symfony-app-crashes-during-xdebug-session-at-entitymanager-proxy-but-manual-eva"
+    },
+    {
+      "Created": "2025-09-19T16:53:03Z",
+      "Title": "A Couple Questions About My Current Project: How do I get image_trim() to work? And am I approaching my for loop wrong?",
+      "Tags": [
+        "r",
+        "tesseract",
+        "magick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769770/a-couple-questions-about-my-current-project-how-do-i-get-image-trim-to-work"
+    },
+    {
+      "Created": "2025-09-19T16:58:12Z",
+      "Title": "I am having latency in box rendering in Yolo object detection",
+      "Tags": [
+        "android",
+        "flutter",
+        "machine-learning",
+        "yolo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769773/i-am-having-latency-in-box-rendering-in-yolo-object-detection"
+    },
+    {
+      "Created": "2025-09-19T17:04:11Z",
+      "Title": "Apache ManifoldCF 2.15 SharePoint Online connector failing after Basic Authentication deprecation (403 Forbidden)",
+      "Tags": [
+        "indexing",
+        "microsoft-graph-api",
+        "sharepoint-online",
+        "http-status-code-403",
+        "manifoldcf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769777/apache-manifoldcf-2-15-sharepoint-online-connector-failing-after-basic-authentic"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-19T13:12:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T12:53:22Z",
+      "Title": "Is there a way for JSDoc comments to be visible in HTML files?",
+      "Tags": [
+        "javascript",
+        "html",
+        "visual-studio-code",
+        "jsdoc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769526/is-there-a-way-for-jsdoc-comments-to-be-visible-in-html-files"
+    },
+    {
+      "Created": "2025-09-19T12:58:02Z",
+      "Title": "Github action is not finding mypy",
+      "Tags": [
+        "github-actions",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769533/github-action-is-not-finding-mypy"
+    },
+    {
+      "Created": "2025-09-19T12:58:33Z",
+      "Title": "How to Include External Libraries like ImGui in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "compilation",
+        "libraries",
+        "imgui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769535/how-to-include-external-libraries-like-imgui-in-c"
+    },
+    {
+      "Created": "2025-09-19T13:03:06Z",
+      "Title": "Simple aritmectic should be done using application or Database",
+      "Tags": [
+        "sql",
+        "typescript",
+        "postgresql",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769541/simple-aritmectic-should-be-done-using-application-or-database"
+    },
+    {
+      "Created": "2025-09-19T13:03:11Z",
+      "Title": "Python and multiple inheritance",
+      "Tags": [
+        "python",
+        "multiple-inheritance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769542/python-and-multiple-inheritance"
+    },
+    {
+      "Created": "2025-09-19T13:06:11Z",
+      "Title": "How to configure brittany in Visual Studio Code Windows?",
+      "Tags": [
+        "haskell",
+        "haskell-stack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769543/how-to-configure-brittany-in-visual-studio-code-windows"
+    },
+    {
+      "Created": "2025-09-19T13:06:40Z",
+      "Title": "Why the counter undefined coming in verifyauthenticationresponse in simplewebauthn/server even though the counter defined fingerprint authentication",
+      "Tags": [
+        "webauthn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769544/why-the-counter-undefined-coming-in-verifyauthenticationresponse-in-simplewebaut"
+    },
+    {
+      "Created": "2025-09-19T13:06:59Z",
+      "Title": "i don\u0027t know how to fix this",
+      "Tags": [
+        "arduino",
+        "led",
+        "gyroscope",
+        "pins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769545/i-dont-know-how-to-fix-this"
+    },
+    {
+      "Created": "2025-09-19T13:07:35Z",
+      "Title": "Time-Series Pagination: LIMIT/OFFSET vs keyset (seek by last timestamp) to avoid duplicates/skips while new rows arrive?",
+      "Tags": [
+        "sql",
+        "pagination",
+        "time-series",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769546/time-series-pagination-limit-offset-vs-keyset-seek-by-last-timestamp-to-avoid"
+    },
+    {
+      "Created": "2025-09-19T13:12:15Z",
+      "Title": "Spring Integration: how to read or publish concurrently with partitition key",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769550/spring-integration-how-to-read-or-publish-concurrently-with-partitition-key"
+    }
+  ]
+}

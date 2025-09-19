@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-19T00:26:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-18T23:05:45Z",
+      "Title": "Saving a figure with the name of passed dataframe",
+      "Tags": [
+        "python",
+        "pandas",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768990/saving-a-figure-with-the-name-of-passed-dataframe"
+    },
+    {
+      "Created": "2025-09-18T23:16:11Z",
+      "Title": "Mercado Pago Payment Brick: missing_payment_information error when only accepting credit/debit cards",
+      "Tags": [
+        "typescript",
+        "vue.js",
+        "frontend",
+        "payment",
+        "mercadopago"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768995/mercado-pago-payment-brick-missing-payment-information-error-when-only-acceptin"
+    },
+    {
+      "Created": "2025-09-18T23:36:53Z",
+      "Title": "audio preprocessing as a deep learning input features",
+      "Tags": [
+        "machine-learning",
+        "audio",
+        "deep-learning",
+        "data-preprocessing",
+        "feature-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79768999/audio-preprocessing-as-a-deep-learning-input-features"
+    },
+    {
+      "Created": "2025-09-18T23:50:31Z",
+      "Title": "Boost.Process fails to handle executable path containing spaces",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "filesystems",
+        "boost-process"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769001/boost-process-fails-to-handle-executable-path-containing-spaces"
+    },
+    {
+      "Created": "2025-09-19T00:12:48Z",
+      "Title": "pfSense OpenVPN with IPSec site-to-site VPN",
+      "Tags": [
+        "openvpn",
+        "ipsec",
+        "pfsense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769008/pfsense-openvpn-with-ipsec-site-to-site-vpn"
+    },
+    {
+      "Created": "2025-09-19T00:26:14Z",
+      "Title": "Yocto: Including Python Getpass Library",
+      "Tags": [
+        "python",
+        "yocto",
+        "bitbake",
+        "yocto-recipe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769013/yocto-including-python-getpass-library"
+    }
+  ]
+}

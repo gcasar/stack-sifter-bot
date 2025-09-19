@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-19T07:02:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T06:27:05Z",
+      "Title": "How to correctly set up an Apple Developer Organization account for React Native app distribution [closed]",
+      "Tags": [
+        "ios",
+        "xcode",
+        "react-native",
+        "app-store"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769190/how-to-correctly-set-up-an-apple-developer-organization-account-for-react-native"
+    },
+    {
+      "Created": "2025-09-19T06:47:09Z",
+      "Title": "Nightly Rust #[unsafe(naked)] function leads to undefined symbol linker error in --release mode on RISC-V",
+      "Tags": [
+        "rust",
+        "operating-system",
+        "linker-errors",
+        "riscv",
+        "osdev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769206/nightly-rust-unsafenaked-function-leads-to-undefined-symbol-linker-error-in"
+    },
+    {
+      "Created": "2025-09-19T06:57:08Z",
+      "Title": "GLib GVariantBuilder error: \u0022expected array GVariantBuilder but the built value has type \u0027(null)\u0027\u0022 when using g_variant_builder_end",
+      "Tags": [
+        "raspberry-pi",
+        "bluetooth",
+        "embedded",
+        "embedded-linux",
+        "glib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769212/glib-gvariantbuilder-error-expected-array-gvariantbuilder-but-the-built-value"
+    },
+    {
+      "Created": "2025-09-19T07:02:21Z",
+      "Title": "I tried to create a PDF file using PDF_Code128 , it works but i have a white page with one barcode..how can i correct that",
+      "Tags": [
+        "php",
+        "pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769216/i-tried-to-create-a-pdf-file-using-pdf-code128-it-works-but-i-have-a-white-pag"
+    }
+  ]
+}

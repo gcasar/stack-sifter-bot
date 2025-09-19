@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-19T17:55:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T17:32:39Z",
+      "Title": "Saving numpy arrays to postgresql efficiently",
+      "Tags": [
+        "python",
+        "numpy",
+        "psql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769803/saving-numpy-arrays-to-postgresql-efficiently"
+    },
+    {
+      "Created": "2025-09-19T17:53:35Z",
+      "Title": "Some pieces are missing in my Python First Fit Decreasing bar cutting algorithm",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769815/some-pieces-are-missing-in-my-python-first-fit-decreasing-bar-cutting-algorithm"
+    },
+    {
+      "Created": "2025-09-19T17:53:55Z",
+      "Title": "How to properly use $wpdb for custom database queries in WordPress?",
+      "Tags": [
+        "php",
+        "mysql",
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769816/how-to-properly-use-wpdb-for-custom-database-queries-in-wordpress"
+    },
+    {
+      "Created": "2025-09-19T17:55:16Z",
+      "Title": "ATTiny85 - Number of cycle to enter the IST0 vector?",
+      "Tags": [
+        "attiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769818/attiny85-number-of-cycle-to-enter-the-ist0-vector"
+    }
+  ]
+}

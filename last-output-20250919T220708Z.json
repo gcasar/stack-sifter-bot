@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-19T22:01:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T21:26:01Z",
+      "Title": "Calling exe with Start-Process is not getting arugments correct",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769973/calling-exe-with-start-process-is-not-getting-arugments-correct"
+    },
+    {
+      "Created": "2025-09-19T21:34:26Z",
+      "Title": "React Native Android App Crashes with OutOfMemoryError \u2013 Infinite Navigation Loop in Sentry Logs",
+      "Tags": [
+        "android",
+        "react-native",
+        "react-navigation",
+        "out-of-memory",
+        "react-native-sentry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769980/react-native-android-app-crashes-with-outofmemoryerror-infinite-navigation-loo"
+    },
+    {
+      "Created": "2025-09-19T21:37:16Z",
+      "Title": "UE5 - Python - how to pass \u0022Editor Utility Widget\u0022 root widget to \u0022Execute Python Script\u0022 node",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769983/ue5-python-how-to-pass-editor-utility-widget-root-widget-to-execute-pytho"
+    },
+    {
+      "Created": "2025-09-19T21:57:47Z",
+      "Title": "Problem with WebSocket notification from SpringBoot to frontend",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "websocket",
+        "stomp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769991/problem-with-websocket-notification-from-springboot-to-frontend"
+    },
+    {
+      "Created": "2025-09-19T22:01:47Z",
+      "Title": "Should i do something extra when i send post request with cellular data?",
+      "Tags": [
+        "ios",
+        "flutter",
+        "dart",
+        "post"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769996/should-i-do-something-extra-when-i-send-post-request-with-cellular-data"
+    }
+  ]
+}

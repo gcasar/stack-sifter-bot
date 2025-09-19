@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-19T10:02:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T09:35:55Z",
+      "Title": "How to emulate variadic template type parameters in Rust?",
+      "Tags": [
+        "rust",
+        "variadic-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769351/how-to-emulate-variadic-template-type-parameters-in-rust"
+    },
+    {
+      "Created": "2025-09-19T10:02:48Z",
+      "Title": "Programmatically downloading an Autodesk ACC model",
+      "Tags": [
+        "autodesk-forge",
+        "revit-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769379/programmatically-downloading-an-autodesk-acc-model"
+    },
+    {
+      "Created": "2025-09-19T10:02:54Z",
+      "Title": "Sql server partition table insertion slow performance",
+      "Tags": [
+        "sql-server",
+        "performance",
+        "partitioning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769380/sql-server-partition-table-insertion-slow-performance"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-09-19T14:04:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T13:32:24Z",
+      "Title": "USB printerport, to use as LPT for electronic outputs? [closed]",
+      "Tags": [
+        "parallel-port",
+        "lpt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769569/usb-printerport-to-use-as-lpt-for-electronic-outputs"
+    },
+    {
+      "Created": "2025-09-19T13:42:18Z",
+      "Title": "how to specialize a function template locally to a translation unit",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769583/how-to-specialize-a-function-template-locally-to-a-translation-unit"
+    },
+    {
+      "Created": "2025-09-19T13:46:03Z",
+      "Title": "How to implement Authentication/Authorization in Gateway level at Spring Boot?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-security",
+        "microservices",
+        "spring-cloud-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769586/how-to-implement-authentication-authorization-in-gateway-level-at-spring-boot"
+    },
+    {
+      "Created": "2025-09-19T13:46:19Z",
+      "Title": "The analytics_storage value in consent mode is recorded as null",
+      "Tags": [
+        "ios",
+        "firebase",
+        "google-bigquery",
+        "firebase-analytics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769587/the-analytics-storage-value-in-consent-mode-is-recorded-as-null"
+    },
+    {
+      "Created": "2025-09-19T13:50:34Z",
+      "Title": "VS Code Run button shows too much info in Terminal output or prompt",
+      "Tags": [
+        "visual-studio-code",
+        "terminal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769589/vs-code-run-button-shows-too-much-info-in-terminal-output-or-prompt"
+    },
+    {
+      "Created": "2025-09-19T13:50:37Z",
+      "Title": "How to make Android Studio code completion include all parameters for a function that accepts a trailing lambda?",
+      "Tags": [
+        "kotlin",
+        "android-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769590/how-to-make-android-studio-code-completion-include-all-parameters-for-a-function"
+    },
+    {
+      "Created": "2025-09-19T13:51:03Z",
+      "Title": "Convert.ToBase64String results in \u0022AccessViolationException\u0022 over a byte array produced by SKBitmap.Encode",
+      "Tags": [
+        "c#",
+        "skiasharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769591/convert-tobase64string-results-in-accessviolationexception-over-a-byte-array-p"
+    },
+    {
+      "Created": "2025-09-19T13:51:32Z",
+      "Title": "Crash after removing std::shared_ptr from vector [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "crash",
+        "stdvector",
+        "smart-pointers",
+        "raylib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769592/crash-after-removing-stdshared-ptr-from-vector"
+    },
+    {
+      "Created": "2025-09-19T13:58:38Z",
+      "Title": "Can\u0027t shutdown AWS instance from root crontab but can from user crontab",
+      "Tags": [
+        "amazon-web-services",
+        "cron",
+        "rhel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769600/cant-shutdown-aws-instance-from-root-crontab-but-can-from-user-crontab"
+    },
+    {
+      "Created": "2025-09-19T14:02:48Z",
+      "Title": "Incorrectly set up triangle render in OpenGL",
+      "Tags": [
+        "c",
+        "opengl-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769603/incorrectly-set-up-triangle-render-in-opengl"
+    },
+    {
+      "Created": "2025-09-19T14:04:13Z",
+      "Title": "PDF.js - Image Transform Related to TextContent.items transform",
+      "Tags": [
+        "pdf.js",
+        "pdfjs-dist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769604/pdf-js-image-transform-related-to-textcontent-items-transform"
+    }
+  ]
+}

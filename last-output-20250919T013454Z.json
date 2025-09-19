@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-19T01:28:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T00:49:34Z",
+      "Title": "sqlcmd cannot connect to LocalDB (MSSQLLocalDB) even though instance is running",
+      "Tags": [
+        "sql-server",
+        "sql-server-express",
+        "sqlcmd",
+        "localdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769019/sqlcmd-cannot-connect-to-localdb-mssqllocaldb-even-though-instance-is-running"
+    },
+    {
+      "Created": "2025-09-19T01:04:26Z",
+      "Title": "Page unresponsive when loading 10k\u002B rows into AG Grid pivot table (with row/column virtualization enabled)",
+      "Tags": [
+        "dom",
+        "pivot-table",
+        "ag-grid-angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769023/page-unresponsive-when-loading-10k-rows-into-ag-grid-pivot-table-with-row-colu"
+    },
+    {
+      "Created": "2025-09-19T01:26:00Z",
+      "Title": "Parse error: syntax error, unexpected string content \u0022\u0022, expecting \u0022-\u0022 or identifier or variable or number",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769029/parse-error-syntax-error-unexpected-string-content-expecting-or-identi"
+    },
+    {
+      "Created": "2025-09-19T01:28:20Z",
+      "Title": "How can I fetch the tinted folder icon in macOS Tahoe using Cocoa?",
+      "Tags": [
+        "swift",
+        "objective-c",
+        "macos",
+        "cocoa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769032/how-can-i-fetch-the-tinted-folder-icon-in-macos-tahoe-using-cocoa"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-19T06:05:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T05:29:35Z",
+      "Title": "mpc status | awk \u0027NR==1\u0027 save result as variable [duplicate]",
+      "Tags": [
+        "awk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769150/mpc-status-awk-nr-1-save-result-as-variable"
+    },
+    {
+      "Created": "2025-09-19T05:47:34Z",
+      "Title": "GridDB hourly true averages between two timestamps \u2014 TQL-only or SQL GROUP BY RANGE?",
+      "Tags": [
+        "sql",
+        "group-by",
+        "time-series",
+        "aggregation",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769157/griddb-hourly-true-averages-between-two-timestamps-tql-only-or-sql-group-by-ra"
+    },
+    {
+      "Created": "2025-09-19T05:48:55Z",
+      "Title": "The Date parameter value is not passed to Controller via Postman - RESTAPI",
+      "Tags": [
+        "c#",
+        "rest",
+        "postman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769158/the-date-parameter-value-is-not-passed-to-controller-via-postman-restapi"
+    },
+    {
+      "Created": "2025-09-19T05:56:00Z",
+      "Title": "What changed in sympy.diff( ) in 1.10? My diff code stopped working",
+      "Tags": [
+        "sympy",
+        "integration",
+        "calculus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769162/what-changed-in-sympy-diff-in-1-10-my-diff-code-stopped-working"
+    },
+    {
+      "Created": "2025-09-19T06:03:46Z",
+      "Title": "ViewCompat.setOnApplyWindowInsetsListener not working in andorid \u003C API 30 devices",
+      "Tags": [
+        "android",
+        "android-windowmanager",
+        "windowinsets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769166/viewcompat-setonapplywindowinsetslistener-not-working-in-andorid-api-30-device"
+    },
+    {
+      "Created": "2025-09-19T06:05:13Z",
+      "Title": "Correct Method for Data Capture and Filtering",
+      "Tags": [
+        "python",
+        "adc",
+        "digital-filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769168/correct-method-for-data-capture-and-filtering"
+    }
+  ]
+}

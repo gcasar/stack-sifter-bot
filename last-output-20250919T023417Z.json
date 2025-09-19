@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-19T02:16:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T01:49:43Z",
+      "Title": "Add Custom Ordered List to PayloadCMS RTE",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "richtext",
+        "rte",
+        "payload-cms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769041/add-custom-ordered-list-to-payloadcms-rte"
+    },
+    {
+      "Created": "2025-09-19T01:52:14Z",
+      "Title": "How to protect environment configuration files in Angular/React during build?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "angular",
+        "typescript",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769043/how-to-protect-environment-configuration-files-in-angular-react-during-build"
+    },
+    {
+      "Created": "2025-09-19T01:52:23Z",
+      "Title": "How can I generate Nx workspace files inside an existing cloned repo folder?",
+      "Tags": [
+        "reactjs",
+        "monorepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769044/how-can-i-generate-nx-workspace-files-inside-an-existing-cloned-repo-folder"
+    },
+    {
+      "Created": "2025-09-19T02:00:28Z",
+      "Title": "How to correctly configure the MapperConfiguration?",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "entity-framework-core",
+        "mocking",
+        "automapper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769046/how-to-correctly-configure-the-mapperconfiguration"
+    },
+    {
+      "Created": "2025-09-19T02:02:18Z",
+      "Title": "Jetpack Compose inside a Fragment: pass Fragment args directly to Composable or via ViewModel (SavedStateHandle)?",
+      "Tags": [
+        "android",
+        "android-fragments",
+        "android-jetpack-compose",
+        "android-viewmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769048/jetpack-compose-inside-a-fragment-pass-fragment-args-directly-to-composable-or"
+    },
+    {
+      "Created": "2025-09-19T02:08:41Z",
+      "Title": "Wrong camera -\u003E video orientation on website \u0022Added to Home Screen\u0022 on iPadOS 26: any workarounds?",
+      "Tags": [
+        "ipad",
+        "camera",
+        "html5-video",
+        "getusermedia",
+        "ipados26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769051/wrong-camera-video-orientation-on-website-added-to-home-screen-on-ipados-26"
+    },
+    {
+      "Created": "2025-09-19T02:16:13Z",
+      "Title": "Two peer clients calling one server with origin-based handling (can clients be stacked vertically?)",
+      "Tags": [
+        "markdown",
+        "sequence-diagram",
+        "mermaid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769053/two-peer-clients-calling-one-server-with-origin-based-handling-can-clients-be-s"
+    }
+  ]
+}

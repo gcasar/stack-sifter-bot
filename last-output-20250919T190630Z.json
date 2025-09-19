@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-19T19:01:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T18:53:48Z",
+      "Title": "How do I get image_trim() to trim the whole border of my image?",
+      "Tags": [
+        "r",
+        "magick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769853/how-do-i-get-image-trim-to-trim-the-whole-border-of-my-image"
+    },
+    {
+      "Created": "2025-09-19T18:54:09Z",
+      "Title": "Has Java Object Layout (JOL) been verified to work with Java 25 and Compact Object Headers enabled?",
+      "Tags": [
+        "java",
+        "jol",
+        "java-25"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769855/has-java-object-layout-jol-been-verified-to-work-with-java-25-and-compact-obje"
+    },
+    {
+      "Created": "2025-09-19T19:01:53Z",
+      "Title": "Clicking piece of text to open a paragraph",
+      "Tags": [
+        "toggle",
+        "visibility",
+        "paragraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769861/clicking-piece-of-text-to-open-a-paragraph"
+    }
+  ]
+}

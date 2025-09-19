@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-19T04:49:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T04:30:01Z",
+      "Title": "Can\u0027t build a project in Visual Studio Code when there are two build steps, cmake and make",
+      "Tags": [
+        "cmake",
+        "makefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769120/cant-build-a-project-in-visual-studio-code-when-there-are-two-build-steps-cmak"
+    },
+    {
+      "Created": "2025-09-19T04:40:20Z",
+      "Title": "\uFFFD Wrong characters in filenames with accents when transferring from french Windows to Linux using WinSCP [closed]",
+      "Tags": [
+        "encoding",
+        "winscp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769126/wrong-characters-in-filenames-with-accents-when-transferring-from-french-windo"
+    },
+    {
+      "Created": "2025-09-19T04:41:40Z",
+      "Title": "Boxtal Shipping API v3.1 \u2013 NoShippingOfferException when creating shipping order with Odoo integration",
+      "Tags": [
+        "python",
+        "odoo",
+        "integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769127/boxtal-shipping-api-v3-1-noshippingofferexception-when-creating-shipping-order"
+    },
+    {
+      "Created": "2025-09-19T04:49:03Z",
+      "Title": "Puppeteer Sharp not logging in to correct Chrome profile",
+      "Tags": [
+        "c#",
+        "google-chrome",
+        "puppeteer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769132/puppeteer-sharp-not-logging-in-to-correct-chrome-profile"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-19T09:05:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T08:32:47Z",
+      "Title": "Odd results in pointer arithmetic in C [duplicate]",
+      "Tags": [
+        "c",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769288/odd-results-in-pointer-arithmetic-in-c"
+    },
+    {
+      "Created": "2025-09-19T08:49:22Z",
+      "Title": "How to send fulfilled HTML form in the mail? [duplicate]",
+      "Tags": [
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769306/how-to-send-fulfilled-html-form-in-the-mail"
+    },
+    {
+      "Created": "2025-09-19T08:51:05Z",
+      "Title": "When using SET SQLFORMAT INSERT; is there a way to wrap each insert into its own block?",
+      "Tags": [
+        "oracle-database",
+        "plsql",
+        "oracle19c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769309/when-using-set-sqlformat-insert-is-there-a-way-to-wrap-each-insert-into-its-own"
+    },
+    {
+      "Created": "2025-09-19T08:56:31Z",
+      "Title": "Bouncy Castle PGP: \u0022checksum mismatch\u0022 error when decrypting files encrypted with older version",
+      "Tags": [
+        "encryption",
+        "migration",
+        "bouncycastle",
+        "java-17",
+        "pgp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769312/bouncy-castle-pgp-checksum-mismatch-error-when-decrypting-files-encrypted-wit"
+    },
+    {
+      "Created": "2025-09-19T08:57:43Z",
+      "Title": "Flutter iOS Build Fails After Xcode 26 Update: \u0022Unable to find module dependency: \u0027CTweetNacl\u0027\u0022",
+      "Tags": [
+        "swift",
+        "flutter",
+        "cocoapods",
+        "ios26",
+        "xcode26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769313/flutter-ios-build-fails-after-xcode-26-update-unable-to-find-module-dependency"
+    },
+    {
+      "Created": "2025-09-19T09:04:02Z",
+      "Title": "Chromium crashes when converting HTML to PDF in Windows Docker container (.NET 8.0)",
+      "Tags": [
+        "chromium",
+        "google-chrome-headless",
+        "docker-for-windows",
+        "html-to-pdf",
+        "blink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769320/chromium-crashes-when-converting-html-to-pdf-in-windows-docker-container-net-8"
+    },
+    {
+      "Created": "2025-09-19T09:04:31Z",
+      "Title": "What to put as Python type hint when any kind of iterable works?",
+      "Tags": [
+        "python-3.x",
+        "function",
+        "types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769321/what-to-put-as-python-type-hint-when-any-kind-of-iterable-works"
+    },
+    {
+      "Created": "2025-09-19T09:05:31Z",
+      "Title": "Is it legal to forward declare just some, but not all of the overloads?",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769322/is-it-legal-to-forward-declare-just-some-but-not-all-of-the-overloads"
+    }
+  ]
+}

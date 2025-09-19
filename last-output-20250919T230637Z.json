@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-19T22:43:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T22:33:44Z",
+      "Title": "Tomcat Maven Plugin alternative to reload web app after code changes?",
+      "Tags": [
+        "maven",
+        "tomcat",
+        "servlets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770006/tomcat-maven-plugin-alternative-to-reload-web-app-after-code-changes"
+    },
+    {
+      "Created": "2025-09-19T22:43:35Z",
+      "Title": "Automatically Converting Windows Shortcuts to Linux Links using Bash",
+      "Tags": [
+        "linux",
+        "bash",
+        "shell",
+        "symlink",
+        "shortcut-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770009/automatically-converting-windows-shortcuts-to-linux-links-using-bash"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-19T03:03:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T02:38:03Z",
+      "Title": "How can I programmatically convert multiple CSS files located in the ui.content module of my AEM codebase into DAM assets after deployment?",
+      "Tags": [
+        "content-management-system",
+        "aem",
+        "assets",
+        "aem-6",
+        "dam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769060/how-can-i-programmatically-convert-multiple-css-files-located-in-the-ui-content"
+    },
+    {
+      "Created": "2025-09-19T02:46:14Z",
+      "Title": "React Native Reanimated Android Build Fails on Windows with Long Path Error - SOLVED",
+      "Tags": [
+        "android",
+        "windows",
+        "react-native",
+        "build.gradle",
+        "react-native-reanimated"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769067/react-native-reanimated-android-build-fails-on-windows-with-long-path-error-so"
+    },
+    {
+      "Created": "2025-09-19T03:03:08Z",
+      "Title": "Spring Cloud Gateway Path Matching with Regex",
+      "Tags": [
+        "spring-cloud-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769071/spring-cloud-gateway-path-matching-with-regex"
+    }
+  ]
+}

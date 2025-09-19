@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-19T19:59:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T19:12:46Z",
+      "Title": "Spring Boot: How to get SNI hostname in custom filter bean",
+      "Tags": [
+        "spring-boot",
+        "sni"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769872/spring-boot-how-to-get-sni-hostname-in-custom-filter-bean"
+    },
+    {
+      "Created": "2025-09-19T19:24:35Z",
+      "Title": "Google Calendar API refresh token stops working after 1 hour \u2013 requires user to reconnect",
+      "Tags": [
+        "node.js",
+        "oauth-2.0",
+        "google-oauth",
+        "google-calendar-api",
+        "google-api-nodejs-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769879/google-calendar-api-refresh-token-stops-working-after-1-hour-requires-user-to"
+    },
+    {
+      "Created": "2025-09-19T19:43:42Z",
+      "Title": "Issue with expression using IIF with multiple parameters",
+      "Tags": [
+        "expression",
+        "multiple-conditions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769899/issue-with-expression-using-iif-with-multiple-parameters"
+    },
+    {
+      "Created": "2025-09-19T19:47:51Z",
+      "Title": "Seeking options for hosting private documentation web site",
+      "Tags": [
+        "github-pages",
+        "google-cloud-cdn",
+        "azure-static-website-hosting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769900/seeking-options-for-hosting-private-documentation-web-site"
+    },
+    {
+      "Created": "2025-09-19T19:48:09Z",
+      "Title": "Can\u0027t switch python interpreter in Spyder. How do I change the default? (\u0022same as Spyder\u0022)",
+      "Tags": [
+        "python",
+        "ide",
+        "spyder",
+        "environment",
+        "interpreter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769902/cant-switch-python-interpreter-in-spyder-how-do-i-change-the-default-same-a"
+    },
+    {
+      "Created": "2025-09-19T19:48:14Z",
+      "Title": "Python read matlab .mat file containing table",
+      "Tags": [
+        "python",
+        "matlab",
+        "matlab-table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769903/python-read-matlab-mat-file-containing-table"
+    },
+    {
+      "Created": "2025-09-19T19:55:25Z",
+      "Title": "VBA Conditional Calculations (sums)",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769906/vba-conditional-calculations-sums"
+    },
+    {
+      "Created": "2025-09-19T19:55:36Z",
+      "Title": "terra R package: problem with plet(col=\u2026). It seems no longer admits leaflet::colorNumeric output (map becomes flat color)",
+      "Tags": [
+        "dictionary",
+        "colors",
+        "terra",
+        "col"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769907/terra-r-package-problem-with-pletcol-it-seems-no-longer-admits-leafletco"
+    },
+    {
+      "Created": "2025-09-19T19:59:58Z",
+      "Title": "MFC Edit Control - define unique name",
+      "Tags": [
+        "mfc",
+        "ui-automation",
+        "appium-desktop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769910/mfc-edit-control-define-unique-name"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-19T12:02:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T11:31:30Z",
+      "Title": "Why does this count_divisors() function return 0 instead of the divisor count? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "for-loop",
+        "if-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769452/why-does-this-count-divisors-function-return-0-instead-of-the-divisor-count"
+    },
+    {
+      "Created": "2025-09-19T11:31:42Z",
+      "Title": "Why is my IconButton not updating when I click on it?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "kotlin-flow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769453/why-is-my-iconbutton-not-updating-when-i-click-on-it"
+    },
+    {
+      "Created": "2025-09-19T11:39:45Z",
+      "Title": "Paraview Python - Applying .pvsm and .xml to .vtk in python",
+      "Tags": [
+        "python",
+        "reactjs",
+        "paraview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769458/paraview-python-applying-pvsm-and-xml-to-vtk-in-python"
+    },
+    {
+      "Created": "2025-09-19T11:55:08Z",
+      "Title": "Google Spreadsheets: referencing a cell range",
+      "Tags": [
+        "google-sheets",
+        "google-sheets-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769467/google-spreadsheets-referencing-a-cell-range"
+    },
+    {
+      "Created": "2025-09-19T11:56:39Z",
+      "Title": "undo (flatten) tabulation",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769469/undo-flatten-tabulation"
+    },
+    {
+      "Created": "2025-09-19T11:57:00Z",
+      "Title": "TensorRT PWC-Net Causing 2.4km Trajectory Error in iSLAM - Original PyTorch Works Fine",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "machine-learning",
+        "nvidia",
+        "opticalflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769471/tensorrt-pwc-net-causing-2-4km-trajectory-error-in-islam-original-pytorch-work"
+    },
+    {
+      "Created": "2025-09-19T12:02:06Z",
+      "Title": "Random alignment when overlaying pdfs using pypdf",
+      "Tags": [
+        "python",
+        "pypdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79769478/random-alignment-when-overlaying-pdfs-using-pypdf"
+    }
+  ]
+}

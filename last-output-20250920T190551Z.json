@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-20T18:58:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T18:27:53Z",
+      "Title": "Why I can\u0027t capture Glib::Error exception in glibmm-2.4?",
+      "Tags": [
+        "c\u002B\u002B",
+        "glibmm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770496/why-i-cant-capture-gliberror-exception-in-glibmm-2-4"
+    },
+    {
+      "Created": "2025-09-20T18:56:19Z",
+      "Title": "How to highlight Tamil spelling mistakes in a Chrome Extension using JavaScript?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "string",
+        "text-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770507/how-to-highlight-tamil-spelling-mistakes-in-a-chrome-extension-using-javascript"
+    },
+    {
+      "Created": "2025-09-20T18:58:00Z",
+      "Title": "How do I properly track authentication across pages from pff.com Domain",
+      "Tags": [
+        "playwright",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770509/how-do-i-properly-track-authentication-across-pages-from-pff-com-domain"
+    }
+  ]
+}

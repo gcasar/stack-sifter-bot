@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-20T09:55:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T09:30:27Z",
+      "Title": "Slicing bash array indices",
+      "Tags": [
+        "bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770208/slicing-bash-array-indices"
+    },
+    {
+      "Created": "2025-09-20T09:32:36Z",
+      "Title": "Eclipse Build structure in \u0022target/classes\u0022 differs from that of exported Jar",
+      "Tags": [
+        "java",
+        "eclipse",
+        "maven"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770210/eclipse-build-structure-in-target-classes-differs-from-that-of-exported-jar"
+    },
+    {
+      "Created": "2025-09-20T09:41:24Z",
+      "Title": "PostgreSQL \u0022created_at\u0022 null constraint violation when using @ManyToMany in Spring Data JPA",
+      "Tags": [
+        "spring-boot",
+        "jpa",
+        "spring-data-jdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770213/postgresql-created-at-null-constraint-violation-when-using-manytomany-in-spri"
+    },
+    {
+      "Created": "2025-09-20T09:51:10Z",
+      "Title": "\u0022illegal target for annotation\u0022 in pygame [closed]",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770217/illegal-target-for-annotation-in-pygame"
+    },
+    {
+      "Created": "2025-09-20T09:54:00Z",
+      "Title": "In iPadOS 26 the showModalBottomSheet / showDialog do not adapt when window is resized \u2014 need guidance or adaptive approach",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter",
+        "ipados",
+        "ipados26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770219/in-ipados-26-the-showmodalbottomsheet-showdialog-do-not-adapt-when-window-is-r"
+    },
+    {
+      "Created": "2025-09-20T09:55:49Z",
+      "Title": "Create an HD video with ffmpeg with multiple non-HD images",
+      "Tags": [
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770221/create-an-hd-video-with-ffmpeg-with-multiple-non-hd-images"
+    }
+  ]
+}

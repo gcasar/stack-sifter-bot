@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-20T05:59:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T05:21:54Z",
+      "Title": "MUI X Date Pickers \u002B date-fns error: \u0022Package path ./_lib/format/longFormatters is not exported from package date-fns\u0022",
+      "Tags": [
+        "reactjs",
+        "material-ui",
+        "date-fns",
+        "craco",
+        "mui-x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770106/mui-x-date-pickers-date-fns-error-package-path-lib-format-longformatters"
+    },
+    {
+      "Created": "2025-09-20T05:56:02Z",
+      "Title": "What\u0027s the recommended way to handle form validation in a Next.js checkout page?",
+      "Tags": [
+        "next.js",
+        "tailwind-css",
+        "formik",
+        "react-hook-form",
+        "formvalidation-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770112/whats-the-recommended-way-to-handle-form-validation-in-a-next-js-checkout-page"
+    },
+    {
+      "Created": "2025-09-20T05:56:41Z",
+      "Title": "unsigned long disconnected:1; : why this code use unsigned long for 1bit",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "linux",
+        "kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770113/unsigned-long-disconnected1-why-this-code-use-unsigned-long-for-1bit"
+    },
+    {
+      "Created": "2025-09-20T05:59:59Z",
+      "Title": "Flutter app targeting API level 35 still rejected by Play Store with \u0022App must target Android API level 33 or higher\u0022 warning",
+      "Tags": [
+        "android",
+        "flutter",
+        "updates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770114/flutter-app-targeting-api-level-35-still-rejected-by-play-store-with-app-must-t"
+    }
+  ]
+}

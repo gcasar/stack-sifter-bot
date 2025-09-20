@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-20T20:45:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T20:01:43Z",
+      "Title": "Camoufox \u002B mitmproxy",
+      "Tags": [
+        "firefox",
+        "mitmproxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770538/camoufox-mitmproxy"
+    },
+    {
+      "Created": "2025-09-20T20:45:12Z",
+      "Title": "How to restore macOS routing table after VPN crash or routing changes?",
+      "Tags": [
+        "linux",
+        "macos",
+        "network-programming",
+        "routes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770547/how-to-restore-macos-routing-table-after-vpn-crash-or-routing-changes"
+    }
+  ]
+}

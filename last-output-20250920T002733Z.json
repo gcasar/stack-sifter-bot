@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-20T00:19:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-19T23:11:59Z",
+      "Title": "Can\u0027t export partial specialization from C\u002B\u002B20 module",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B-modules",
+        "partial-specialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770020/cant-export-partial-specialization-from-c20-module"
+    },
+    {
+      "Created": "2025-09-19T23:13:37Z",
+      "Title": "FFMPEG Dual-GPU broke hw_init_device etc",
+      "Tags": [
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770021/ffmpeg-dual-gpu-broke-hw-init-device-etc"
+    },
+    {
+      "Created": "2025-09-19T23:28:03Z",
+      "Title": "C\u002B\u002B ref qualfiers, method chaining and UB [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "undefined-behavior",
+        "dangling-pointer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770023/c-ref-qualfiers-method-chaining-and-ub"
+    },
+    {
+      "Created": "2025-09-19T23:31:17Z",
+      "Title": "Is it thread-safe to use std::atomic\u003Cbool\u003E to control access to a data structure in this way?",
+      "Tags": [
+        "c\u002B\u002B",
+        "thread-safety",
+        "lock-free",
+        "stdatomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770024/is-it-thread-safe-to-use-stdatomicbool-to-control-access-to-a-data-structure"
+    },
+    {
+      "Created": "2025-09-19T23:45:26Z",
+      "Title": "Do namespaces not count when loading a function from a dynamic library with dlsym? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "dynamic-linking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770026/do-namespaces-not-count-when-loading-a-function-from-a-dynamic-library-with-dlsy"
+    },
+    {
+      "Created": "2025-09-20T00:05:08Z",
+      "Title": "Why is my code for generating a curve fit of a cosine to a sum of gaussians working so poorly?",
+      "Tags": [
+        "python",
+        "numpy",
+        "function",
+        "scipy",
+        "scipy-optimize"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770032/why-is-my-code-for-generating-a-curve-fit-of-a-cosine-to-a-sum-of-gaussians-work"
+    },
+    {
+      "Created": "2025-09-20T00:19:59Z",
+      "Title": "RxJava Maybe.doFinally() executing much later than doOnSuccess() in high-throughput multithreaded environment",
+      "Tags": [
+        "java",
+        "rx-java",
+        "spring-webflux",
+        "reactive-programming",
+        "project-reactor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770036/rxjava-maybe-dofinally-executing-much-later-than-doonsuccess-in-high-through"
+    }
+  ]
+}

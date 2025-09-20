@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-20T16:03:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T15:33:26Z",
+      "Title": "I am having problem with Decompression part of my project [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "data-structures",
+        "huffman-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770394/i-am-having-problem-with-decompression-part-of-my-project"
+    },
+    {
+      "Created": "2025-09-20T15:42:36Z",
+      "Title": "Using JSS \u0060makeStyles\u0060/\u0060withStyles\u0060 during an incremental migration between MUI versions",
+      "Tags": [
+        "material-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770397/using-jss-makestyles-withstyles-during-an-incremental-migration-between-mui"
+    },
+    {
+      "Created": "2025-09-20T15:54:23Z",
+      "Title": "Deep Links in Banno Admin API Alerts (Python 3.12, requests)",
+      "Tags": [
+        "python-3.x",
+        "banno-digital-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770406/deep-links-in-banno-admin-api-alerts-python-3-12-requests"
+    },
+    {
+      "Created": "2025-09-20T16:00:13Z",
+      "Title": "C program for changing binary to signed integer doesn\u0027t work properly",
+      "Tags": [
+        "c",
+        "binary",
+        "signed-integer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770408/c-program-for-changing-binary-to-signed-integer-doesnt-work-properly"
+    },
+    {
+      "Created": "2025-09-20T16:03:01Z",
+      "Title": "NetBeans code templates - template for assigning variable name based on right side",
+      "Tags": [
+        "java",
+        "netbeans",
+        "code-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770411/netbeans-code-templates-template-for-assigning-variable-name-based-on-right-si"
+    }
+  ]
+}

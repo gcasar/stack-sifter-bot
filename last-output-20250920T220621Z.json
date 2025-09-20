@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-20T21:57:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T21:30:28Z",
+      "Title": "Touch Command Destroyed My Existing Files",
+      "Tags": [
+        "linux",
+        "bash",
+        "touch",
+        "delete-file",
+        "file-recovery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770553/touch-command-destroyed-my-existing-files"
+    },
+    {
+      "Created": "2025-09-20T21:37:15Z",
+      "Title": "How to make a TipGroup work in a sheet in SwiftUI?",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "tipkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770556/how-to-make-a-tipgroup-work-in-a-sheet-in-swiftui"
+    },
+    {
+      "Created": "2025-09-20T21:50:01Z",
+      "Title": "Woocommerce products batch update limitation: How to update more",
+      "Tags": [
+        "php",
+        "wordpress",
+        "rest",
+        "woocommerce",
+        "woocommerce-rest-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770560/woocommerce-products-batch-update-limitation-how-to-update-more"
+    },
+    {
+      "Created": "2025-09-20T21:57:38Z",
+      "Title": "How to pass information to a GLTFLoader callback function?",
+      "Tags": [
+        "javascript",
+        "three.js",
+        "callback"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770567/how-to-pass-information-to-a-gltfloader-callback-function"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-20T07:03:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T06:17:05Z",
+      "Title": "NullPointerException when adding elements to ArrayList in Java? [duplicate]",
+      "Tags": [
+        "java",
+        "oop",
+        "arraylist",
+        "nullpointerexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770120/nullpointerexception-when-adding-elements-to-arraylist-in-java"
+    },
+    {
+      "Created": "2025-09-20T06:31:32Z",
+      "Title": "c\u002B\u002B mutex and memory barrier",
+      "Tags": [
+        "c\u002B\u002B",
+        "mutex",
+        "race-condition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770133/c-mutex-and-memory-barrier"
+    },
+    {
+      "Created": "2025-09-20T06:40:12Z",
+      "Title": "I\u0027m able to get the Quill delta content, but I cannot pass it to string through IJSRuntime.InvokeVoidAsync",
+      "Tags": [
+        "c#",
+        "blazor",
+        "quill",
+        ".net-9.0",
+        "blazor-webapp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770138/im-able-to-get-the-quill-delta-content-but-i-cannot-pass-it-to-string-through"
+    },
+    {
+      "Created": "2025-09-20T06:43:51Z",
+      "Title": "Firing a button when its container is about to be hidden",
+      "Tags": [
+        "javascript",
+        "css",
+        "menu",
+        "event-handling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770143/firing-a-button-when-its-container-is-about-to-be-hidden"
+    },
+    {
+      "Created": "2025-09-20T06:46:59Z",
+      "Title": "How do I perform file I/O on Linux and Windows without using libc in ASM?",
+      "Tags": [
+        "linux",
+        "windows",
+        "assembly",
+        "cross-platform",
+        "system-calls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770145/how-do-i-perform-file-i-o-on-linux-and-windows-without-using-libc-in-asm"
+    },
+    {
+      "Created": "2025-09-20T06:47:19Z",
+      "Title": "LibGDX custom actor drawing and origin",
+      "Tags": [
+        "libgdx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770146/libgdx-custom-actor-drawing-and-origin"
+    },
+    {
+      "Created": "2025-09-20T06:52:03Z",
+      "Title": "c\u002B\u002B write full of text to memory location",
+      "Tags": [
+        "c\u002B\u002B",
+        "string",
+        "memory",
+        "text"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770149/c-write-full-of-text-to-memory-location"
+    },
+    {
+      "Created": "2025-09-20T06:52:22Z",
+      "Title": "StoreKit2 AppTransaction.shared verification on macOS",
+      "Tags": [
+        "mac-app-store",
+        "receipt-validation",
+        "storekit2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770150/storekit2-apptransaction-shared-verification-on-macos"
+    },
+    {
+      "Created": "2025-09-20T07:00:40Z",
+      "Title": "clickhouse quantilemerge p99, p90, p50 all return same value",
+      "Tags": [
+        "sql",
+        "clickhouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770153/clickhouse-quantilemerge-p99-p90-p50-all-return-same-value"
+    },
+    {
+      "Created": "2025-09-20T07:03:21Z",
+      "Title": "In a html document, How to make sure that body is the only scrollable ancestor?",
+      "Tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770154/in-a-html-document-how-to-make-sure-that-body-is-the-only-scrollable-ancestor"
+    }
+  ]
+}

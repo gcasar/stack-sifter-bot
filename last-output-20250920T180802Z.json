@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-20T18:04:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T17:31:25Z",
+      "Title": "why Python ERROR logging file is refelected in INFO logging file",
+      "Tags": [
+        "python",
+        "logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770481/why-python-error-logging-file-is-refelected-in-info-logging-file"
+    },
+    {
+      "Created": "2025-09-20T17:41:39Z",
+      "Title": "c\u002B\u002B mutex with different data in the critical section",
+      "Tags": [
+        "c\u002B\u002B",
+        "mutex",
+        "race-condition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770465/c-mutex-with-different-data-in-the-critical-section"
+    },
+    {
+      "Created": "2025-09-20T17:59:27Z",
+      "Title": "Odata $expand keyword not working in Synapse Copy Activity with azure devops analytics odata source",
+      "Tags": [
+        "azure-devops",
+        "azure-data-factory",
+        "azure-synapse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770480/odata-expand-keyword-not-working-in-synapse-copy-activity-with-azure-devops-ana"
+    },
+    {
+      "Created": "2025-09-20T18:04:51Z",
+      "Title": "Why does Asio TCP server crash after the first async_read?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770483/why-does-asio-tcp-server-crash-after-the-first-async-read"
+    }
+  ]
+}

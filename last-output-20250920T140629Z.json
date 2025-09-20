@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-20T14:02:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T13:29:54Z",
+      "Title": "::operator delete in multithreading",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "memory-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770320/operator-delete-in-multithreading"
+    },
+    {
+      "Created": "2025-09-20T13:37:54Z",
+      "Title": "How can I efficiently merge two sorted lists in Python without using merge() or heapq? [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770326/how-can-i-efficiently-merge-two-sorted-lists-in-python-without-using-merge-or"
+    },
+    {
+      "Created": "2025-09-20T13:40:15Z",
+      "Title": "Can\u0027t listen to \u0027http://127.0.0.100:50001/\u0027 with HttpListener on my machine, even tho port does not appear to be in use",
+      "Tags": [
+        "c#",
+        "port",
+        "dotnet-httpclient",
+        "httplistener"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770327/cant-listen-to-http-127-0-0-10050001-with-httplistener-on-my-machine-eve"
+    },
+    {
+      "Created": "2025-09-20T13:41:45Z",
+      "Title": "In Azure, how do I setup a scope for a User Assigned Manged Identity, so I can request an access token in C# with limited scope?",
+      "Tags": [
+        "azure",
+        "access-token",
+        "azure-api-management",
+        "azure-managed-identity",
+        "scopes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770328/in-azure-how-do-i-setup-a-scope-for-a-user-assigned-manged-identity-so-i-can-r"
+    },
+    {
+      "Created": "2025-09-20T13:49:23Z",
+      "Title": "Copying heap allocated memory in multiple threads... Is a mutex required or is it safe?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "mutex",
+        "memcpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770333/copying-heap-allocated-memory-in-multiple-threads-is-a-mutex-required-or-is-i"
+    },
+    {
+      "Created": "2025-09-20T14:02:22Z",
+      "Title": "Issue in connecting with MongoDB",
+      "Tags": [
+        "node.js",
+        "mongodb",
+        "express",
+        "dns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770346/issue-in-connecting-with-mongodb"
+    }
+  ]
+}

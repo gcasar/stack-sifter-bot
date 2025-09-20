@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-20T17:01:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T16:26:02Z",
+      "Title": "How do I implement a Python Protocol with one of two methods? [duplicate]",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770419/how-do-i-implement-a-python-protocol-with-one-of-two-methods"
+    },
+    {
+      "Created": "2025-09-20T16:30:56Z",
+      "Title": "Embedding Android Emulator into Pyside6 app with Win32?",
+      "Tags": [
+        "python",
+        "winapi",
+        "pywin32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770422/embedding-android-emulator-into-pyside6-app-with-win32"
+    },
+    {
+      "Created": "2025-09-20T16:32:41Z",
+      "Title": "How to make a call once callback in C\u002B\u002Bwinrt using smart pointers",
+      "Tags": [
+        "c\u002B\u002B",
+        "winrt-xaml",
+        "c\u002B\u002B-winrt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770424/how-to-make-a-call-once-callback-in-cwinrt-using-smart-pointers"
+    },
+    {
+      "Created": "2025-09-20T16:49:39Z",
+      "Title": "Regex not redirecting properly despite being valid",
+      "Tags": [
+        "nginx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770433/regex-not-redirecting-properly-despite-being-valid"
+    },
+    {
+      "Created": "2025-09-20T16:53:18Z",
+      "Title": "Best way to fetch OPC UA tag values every second (polling vs subscription) using Python",
+      "Tags": [
+        "python-3.x",
+        "opc-ua"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770435/best-way-to-fetch-opc-ua-tag-values-every-second-polling-vs-subscription-using"
+    },
+    {
+      "Created": "2025-09-20T16:54:55Z",
+      "Title": "Can anyone help me with this code block, I think Chatgpt is broke",
+      "Tags": [
+        "time-complexity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770438/can-anyone-help-me-with-this-code-block-i-think-chatgpt-is-broke"
+    },
+    {
+      "Created": "2025-09-20T17:01:24Z",
+      "Title": "Persistent I2C Remote I/O Error on Raspberry Pi with OLED Display?",
+      "Tags": [
+        "python",
+        "pi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770440/persistent-i2c-remote-i-o-error-on-raspberry-pi-with-oled-display"
+    }
+  ]
+}

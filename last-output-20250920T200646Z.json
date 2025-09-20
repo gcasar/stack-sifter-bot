@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-20T19:55:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T19:10:11Z",
+      "Title": "How do you close terminals on debug stop",
+      "Tags": [
+        "visual-studio-code",
+        "vscode-debugger",
+        "vscode-tasks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770514/how-do-you-close-terminals-on-debug-stop"
+    },
+    {
+      "Created": "2025-09-20T19:19:14Z",
+      "Title": "\u0060vkGetMemoryWin32HandleKHR\u0060 tries to dereference a null address",
+      "Tags": [
+        "c\u002B\u002B",
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770518/vkgetmemorywin32handlekhr-tries-to-dereference-a-null-address"
+    },
+    {
+      "Created": "2025-09-20T19:40:10Z",
+      "Title": "How do I play a recorded sound right after recording it using Expo-Audio module in react native?",
+      "Tags": [
+        "react-native",
+        "expo",
+        "expo-audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770522/how-do-i-play-a-recorded-sound-right-after-recording-it-using-expo-audio-module"
+    },
+    {
+      "Created": "2025-09-20T19:44:33Z",
+      "Title": "ESPAsyncWebServer Loading issue using the esp8266 d1 mini",
+      "Tags": [
+        "arduino-esp8266"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770527/espasyncwebserver-loading-issue-using-the-esp8266-d1-mini"
+    },
+    {
+      "Created": "2025-09-20T19:45:45Z",
+      "Title": "PPP_support.h error() function terminates program without printing custom message",
+      "Tags": [
+        "c\u002B\u002B",
+        "exception",
+        "error-handling",
+        "runtime-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770528/ppp-support-h-error-function-terminates-program-without-printing-custom-messag"
+    },
+    {
+      "Created": "2025-09-20T19:55:15Z",
+      "Title": "Use of Bookmark",
+      "Tags": [
+        "bookmarks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770533/use-of-bookmark"
+    }
+  ]
+}

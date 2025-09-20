@@ -1,0 +1,94 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-20T13:07:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T12:20:58Z",
+      "Title": "How to set up TapCallbacks specifically for a SpriteAnimationGroupComponent in flame?",
+      "Tags": [
+        "flutter",
+        "flame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770286/how-to-set-up-tapcallbacks-specifically-for-a-spriteanimationgroupcomponent-in-f"
+    },
+    {
+      "Created": "2025-09-20T12:27:06Z",
+      "Title": "How does fscanf behave in a while condition?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770288/how-does-fscanf-behave-in-a-while-condition"
+    },
+    {
+      "Created": "2025-09-20T12:40:59Z",
+      "Title": "React check component is mounted while fetching",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770294/react-check-component-is-mounted-while-fetching"
+    },
+    {
+      "Created": "2025-09-20T12:42:42Z",
+      "Title": "What are p-value ? and How to find the p-value?",
+      "Tags": [
+        "machine-learning",
+        "linear-regression",
+        "p-value",
+        "variance",
+        "hypothesis-test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770296/what-are-p-value-and-how-to-find-the-p-value"
+    },
+    {
+      "Created": "2025-09-20T12:44:00Z",
+      "Title": "Text as WidgetKit Control Label on watchOS",
+      "Tags": [
+        "swiftui",
+        "watchos",
+        "widgetkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770298/text-as-widgetkit-control-label-on-watchos"
+    },
+    {
+      "Created": "2025-09-20T12:49:07Z",
+      "Title": "How to remove substring using wildcards?",
+      "Tags": [
+        "string",
+        "bash",
+        "shell",
+        "sed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770300/how-to-remove-substring-using-wildcards"
+    },
+    {
+      "Created": "2025-09-20T12:52:48Z",
+      "Title": "Initializing OSM map",
+      "Tags": [
+        "java",
+        "openstreetmap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770304/initializing-osm-map"
+    },
+    {
+      "Created": "2025-09-20T12:53:18Z",
+      "Title": "Rendering and reconcilation [closed]",
+      "Tags": [
+        "reactjs",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770305/rendering-and-reconcilation"
+    },
+    {
+      "Created": "2025-09-20T13:07:06Z",
+      "Title": "Invalid Binary in IOS (Flutter application)",
+      "Tags": [
+        "ios",
+        "flutter",
+        "dart",
+        "flutter-dependencies",
+        "manifest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770309/invalid-binary-in-ios-flutter-application"
+    }
+  ]
+}

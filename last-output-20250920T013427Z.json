@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-20T01:19:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T00:40:01Z",
+      "Title": "User Friendly Duplicate value message",
+      "Tags": [
+        "vba",
+        "if-statement",
+        "ms-access",
+        "duplicates",
+        "record"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770039/user-friendly-duplicate-value-message"
+    },
+    {
+      "Created": "2025-09-20T01:04:33Z",
+      "Title": "SwiftUI ToolbarItem Button Not Expanding to Full Width Despite maxWidth: .infinity (iOS 26)",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770044/swiftui-toolbaritem-button-not-expanding-to-full-width-despite-maxwidth-infini"
+    },
+    {
+      "Created": "2025-09-20T01:19:10Z",
+      "Title": "Python Script for column creation",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770050/python-script-for-column-creation"
+    },
+    {
+      "Created": "2025-09-20T01:19:28Z",
+      "Title": "Should local user data be cleared if server logout fails in a web/mobile app?",
+      "Tags": [
+        "reactjs",
+        "authentication",
+        "security",
+        "session",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770051/should-local-user-data-be-cleared-if-server-logout-fails-in-a-web-mobile-app"
+    }
+  ]
+}

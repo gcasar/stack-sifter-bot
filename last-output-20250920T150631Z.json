@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-20T15:03:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T14:40:48Z",
+      "Title": "Tiingo Python Pandas Datetime",
+      "Tags": [
+        "python",
+        "pandas",
+        "tiingo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770363/tiingo-python-pandas-datetime"
+    },
+    {
+      "Created": "2025-09-20T14:49:03Z",
+      "Title": "Weird problem when creating a Map Chart using Bing Maps Services",
+      "Tags": [
+        "excel",
+        "vba",
+        "bing-maps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770367/weird-problem-when-creating-a-map-chart-using-bing-maps-services"
+    },
+    {
+      "Created": "2025-09-20T15:03:18Z",
+      "Title": "Hotwire Turbo Streams not refreshing when using Solid Queue as Active Job backend in Rails",
+      "Tags": [
+        "ruby-on-rails",
+        "hotwire-rails",
+        "solid-queue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770374/hotwire-turbo-streams-not-refreshing-when-using-solid-queue-as-active-job-backen"
+    }
+  ]
+}

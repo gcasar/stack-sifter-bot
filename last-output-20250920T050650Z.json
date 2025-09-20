@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-20T05:04:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T04:37:09Z",
+      "Title": "is there a more efficient way for recursive approach to check if a binary tree is symmetric in py?",
+      "Tags": [
+        "python",
+        "binary-tree",
+        "recursive-datastructures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770090/is-there-a-more-efficient-way-for-recursive-approach-to-check-if-a-binary-tree-i"
+    },
+    {
+      "Created": "2025-09-20T04:55:39Z",
+      "Title": "Google AppSheet - Capture different types of Input on a deck\\table\\something else?",
+      "Tags": [
+        "google-appsheet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770095/google-appsheet-capture-different-types-of-input-on-a-deck-table-something-els"
+    },
+    {
+      "Created": "2025-09-20T04:59:41Z",
+      "Title": "Should NDEBUG flag be removed in RelWithDebInfo build?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770096/should-ndebug-flag-be-removed-in-relwithdebinfo-build"
+    },
+    {
+      "Created": "2025-09-20T05:00:49Z",
+      "Title": "How do gcc optimisations work under the hood?",
+      "Tags": [
+        "c\u002B\u002B",
+        "debugging",
+        "gcc",
+        "optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770097/how-do-gcc-optimisations-work-under-the-hood"
+    },
+    {
+      "Created": "2025-09-20T05:04:58Z",
+      "Title": "HerdHelper installed but cannot be reached on Windows (port issue 5022)",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-herd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770100/herdhelper-installed-but-cannot-be-reached-on-windows-port-issue-5022"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-21T21:48:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T21:45:32Z",
+      "Title": "How to bind Ctrl\u002BY to accept a menu item selection in Visual Studio 2022?",
+      "Tags": [
+        "keyboard-shortcuts",
+        "visual-studio-2022",
+        "key-bindings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771102/how-to-bind-ctrly-to-accept-a-menu-item-selection-in-visual-studio-2022"
+    },
+    {
+      "Created": "2025-09-21T21:48:22Z",
+      "Title": "How to monitor Microsoft Sentinel data connector health and connection history using KQL or PowerShell?",
+      "Tags": [
+        "azure",
+        "kql",
+        "azure-data-explorer",
+        "sentinel",
+        "azure-sentinel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771104/how-to-monitor-microsoft-sentinel-data-connector-health-and-connection-history-u"
+    }
+  ]
+}

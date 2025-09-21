@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-21T00:57:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T00:47:34Z",
+      "Title": "Parse Error while parsing load file using pgloader",
+      "Tags": [
+        "postgresql",
+        "pgloader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770611/parse-error-while-parsing-load-file-using-pgloader"
+    },
+    {
+      "Created": "2025-09-21T00:50:31Z",
+      "Title": "Whatsapp Business API template creation fails due to \u0022SCAM\u0022",
+      "Tags": [
+        "metadata",
+        "whatsapp-cloud-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770612/whatsapp-business-api-template-creation-fails-due-to-scam"
+    },
+    {
+      "Created": "2025-09-21T00:57:19Z",
+      "Title": "Why do we omit \uD835\uDC5D ( \uD835\uDC4B \u2223 \uD835\uDF03 ) in discriminative MAP estimation?",
+      "Tags": [
+        "machine-learning",
+        "deep-learning",
+        "artificial-intelligence",
+        "classification",
+        "bayesian-networks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770616/why-do-we-omit-%e2%88%a3-in-discriminative-map-estimation"
+    }
+  ]
+}

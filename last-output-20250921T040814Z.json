@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-21T03:56:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T03:44:47Z",
+      "Title": "Error serializing numpy.int64 into JSON with Python",
+      "Tags": [
+        "json",
+        "python-3.x",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770654/error-serializing-numpy-int64-into-json-with-python"
+    },
+    {
+      "Created": "2025-09-21T03:45:08Z",
+      "Title": "How to access an image placed in a cell with VBA? (Microsoft 365 \u0022Place in Cell\u0022 feature)",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770655/how-to-access-an-image-placed-in-a-cell-with-vba-microsoft-365-place-in-cell"
+    },
+    {
+      "Created": "2025-09-21T03:56:31Z",
+      "Title": "The correct way to prompt for Playwright MCP to locate the element?",
+      "Tags": [
+        "playwright",
+        "model-context-protocol",
+        "playwright-mcp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770659/the-correct-way-to-prompt-for-playwright-mcp-to-locate-the-element"
+    }
+  ]
+}

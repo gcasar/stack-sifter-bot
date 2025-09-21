@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-21T18:03:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T17:30:36Z",
+      "Title": "Cupy with multiprocessing memory leak?",
+      "Tags": [
+        "python-multiprocessing",
+        "cupy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771006/cupy-with-multiprocessing-memory-leak"
+    },
+    {
+      "Created": "2025-09-21T17:33:26Z",
+      "Title": "Google Play Console 16 KB memory page size requirement \u2013 Which React Native CLI versions support it and project setup steps?",
+      "Tags": [
+        "android",
+        "react-native",
+        "gradle",
+        "android-ndk",
+        "google-play-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771008/google-play-console-16-kb-memory-page-size-requirement-which-react-native-cli"
+    },
+    {
+      "Created": "2025-09-21T17:54:56Z",
+      "Title": "The screen freezes when I open the edit dialog (shadcn/ui)",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "drop-down-menu",
+        "dialog",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771016/the-screen-freezes-when-i-open-the-edit-dialog-shadcn-ui"
+    },
+    {
+      "Created": "2025-09-21T18:03:21Z",
+      "Title": "Failed to send SMS: Firebase: Error (auth/argument-error) on Phone Auth React Native Expo",
+      "Tags": [
+        "reactjs",
+        "firebase",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771018/failed-to-send-sms-firebase-error-auth-argument-error-on-phone-auth-react-na"
+    }
+  ]
+}

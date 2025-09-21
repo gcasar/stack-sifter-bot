@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-21T00:24:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-20T23:45:33Z",
+      "Title": "Is there a way to enable unsafe sysctls in k3s?",
+      "Tags": [
+        "k3s",
+        "sysctl",
+        "kubeconfig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770596/is-there-a-way-to-enable-unsafe-sysctls-in-k3s"
+    },
+    {
+      "Created": "2025-09-21T00:10:21Z",
+      "Title": "Intercepting and manipulating via MITM but with generic TLS traffic, not https. And with Android as a target",
+      "Tags": [
+        "android",
+        "ssl",
+        "reverse-engineering",
+        "mitmproxy",
+        "burp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770602/intercepting-and-manipulating-via-mitm-but-with-generic-tls-traffic-not-https"
+    },
+    {
+      "Created": "2025-09-21T00:24:15Z",
+      "Title": "ACSL 2004-2005 Problem: Digital Deletions",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770605/acsl-2004-2005-problem-digital-deletions"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-21T03:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T02:40:41Z",
+      "Title": "Adding Tailwind hover class using classList.add in Javascript",
+      "Tags": [
+        "javascript",
+        "html",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770641/adding-tailwind-hover-class-using-classlist-add-in-javascript"
+    },
+    {
+      "Created": "2025-09-21T02:47:28Z",
+      "Title": "Socket connection at starting starts with TCP DUP ack and Retransmission - what socket options Should I set to resolve it",
+      "Tags": [
+        "c",
+        "sockets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770643/socket-connection-at-starting-starts-with-tcp-dup-ack-and-retransmission-what"
+    },
+    {
+      "Created": "2025-09-21T03:04:10Z",
+      "Title": "Why does \u003Ccstring\u003E cause \u0022the global scope has no \u0027strcmp\u0027\u0022 error in MSVC?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770646/why-does-cstring-cause-the-global-scope-has-no-strcmp-error-in-msvc"
+    }
+  ]
+}

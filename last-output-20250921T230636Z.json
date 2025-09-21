@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-21T22:46:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T22:12:25Z",
+      "Title": "Passing a string containg a \u00A3 sign to a command from a windows batch file",
+      "Tags": [
+        "windows",
+        "batch-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771112/passing-a-string-containg-a-%c2%a3-sign-to-a-command-from-a-windows-batch-file"
+    },
+    {
+      "Created": "2025-09-21T22:18:54Z",
+      "Title": "How to serialize the response of custom body extractor in rust actix-web?",
+      "Tags": [
+        "rust",
+        "actix-web"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771114/how-to-serialize-the-response-of-custom-body-extractor-in-rust-actix-web"
+    },
+    {
+      "Created": "2025-09-21T22:35:32Z",
+      "Title": "convert 2 docker container to single container",
+      "Tags": [
+        "docker",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771117/convert-2-docker-container-to-single-container"
+    },
+    {
+      "Created": "2025-09-21T22:46:25Z",
+      "Title": "Selenium WebDriver get stucked after .get() method",
+      "Tags": [
+        "java",
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771119/selenium-webdriver-get-stucked-after-get-method"
+    }
+  ]
+}

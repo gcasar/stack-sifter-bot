@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-21T20:56:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T20:11:09Z",
+      "Title": "Why does std::sort in C\u002B\u002B accept only the function name for a comparator?",
+      "Tags": [
+        "c\u002B\u002B",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771073/why-does-stdsort-in-c-accept-only-the-function-name-for-a-comparator"
+    },
+    {
+      "Created": "2025-09-21T20:17:11Z",
+      "Title": "How to Change Jetpack Compose Bom Version to Alpha in libs.versions.toml?",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "android-jetpack",
+        "android-compose-textfield"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771076/how-to-change-jetpack-compose-bom-version-to-alpha-in-libs-versions-toml"
+    },
+    {
+      "Created": "2025-09-21T20:20:45Z",
+      "Title": "Is it a problem if Git changes a LF to CRLF backing up a Minecraft Server?",
+      "Tags": [
+        "git",
+        "github",
+        "server",
+        "minecraft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771078/is-it-a-problem-if-git-changes-a-lf-to-crlf-backing-up-a-minecraft-server"
+    },
+    {
+      "Created": "2025-09-21T20:56:19Z",
+      "Title": "Nested reactivity with Svelte $derived",
+      "Tags": [
+        "svelte",
+        "svelte-5",
+        "svelte-runes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771090/nested-reactivity-with-svelte-derived"
+    }
+  ]
+}

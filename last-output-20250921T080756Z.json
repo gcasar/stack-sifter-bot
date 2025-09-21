@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-21T07:59:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T07:24:41Z",
+      "Title": "Need a reliable way to keep timer running for displaying server date/time",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770716/need-a-reliable-way-to-keep-timer-running-for-displaying-server-date-time"
+    },
+    {
+      "Created": "2025-09-21T07:36:48Z",
+      "Title": "Code is resulting in a messy output in a scientific calculator project. How do i fix it?",
+      "Tags": [
+        "python",
+        "output",
+        "scientific-computing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770725/code-is-resulting-in-a-messy-output-in-a-scientific-calculator-project-how-do-i"
+    },
+    {
+      "Created": "2025-09-21T07:49:41Z",
+      "Title": "Getting Access violation exception thrown when setting up raylib with visual studio 2022",
+      "Tags": [
+        "c\u002B\u002B",
+        "exception",
+        "visual-studio-2022",
+        "raylib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770729/getting-access-violation-exception-thrown-when-setting-up-raylib-with-visual-stu"
+    },
+    {
+      "Created": "2025-09-21T07:55:36Z",
+      "Title": "it seems like overflow but the code works",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770732/it-seems-like-overflow-but-the-code-works"
+    },
+    {
+      "Created": "2025-09-21T07:57:00Z",
+      "Title": "Recover the circumradius of a cyclic quadrilateral from its triangle areas",
+      "Tags": [
+        "math",
+        "geometry",
+        "computational-geometry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770734/recover-the-circumradius-of-a-cyclic-quadrilateral-from-its-triangle-areas"
+    },
+    {
+      "Created": "2025-09-21T07:59:11Z",
+      "Title": "how to upload products with sql query in wordpress",
+      "Tags": [
+        "sql",
+        "mysql",
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770735/how-to-upload-products-with-sql-query-in-wordpress"
+    }
+  ]
+}

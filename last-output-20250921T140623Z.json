@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-21T13:40:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T13:12:10Z",
+      "Title": "GCP Cloud Asset Inventory: List assets without storage and required IAM permissions",
+      "Tags": [
+        "google-cloud-platform",
+        "google-cloud-asset-inventory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770888/gcp-cloud-asset-inventory-list-assets-without-storage-and-required-iam-permissi"
+    },
+    {
+      "Created": "2025-09-21T13:15:00Z",
+      "Title": "Python3 GUI Zero is not detecting PIL, all packages have been detected and installed",
+      "Tags": [
+        "python",
+        "python-imaging-library",
+        "guizero"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770889/python3-gui-zero-is-not-detecting-pil-all-packages-have-been-detected-and-insta"
+    },
+    {
+      "Created": "2025-09-21T13:16:24Z",
+      "Title": "JWT Authentication for websockets in Springboot does not pass Principal for stomp commands other than connect",
+      "Tags": [
+        "javascript",
+        "authentication",
+        "jwt",
+        "spring-websocket",
+        "stomp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770891/jwt-authentication-for-websockets-in-springboot-does-not-pass-principal-for-stom"
+    },
+    {
+      "Created": "2025-09-21T13:18:08Z",
+      "Title": "Rust Macro to provide n None values",
+      "Tags": [
+        "rust",
+        "rust-macros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770893/rust-macro-to-provide-n-none-values"
+    },
+    {
+      "Created": "2025-09-21T13:37:33Z",
+      "Title": "changing text color in flutter",
+      "Tags": [
+        "flutter",
+        "flutter-theme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770897/changing-text-color-in-flutter"
+    },
+    {
+      "Created": "2025-09-21T13:40:42Z",
+      "Title": "How to use a lightweight PDF reader inside a Chrome Extension without exceeding the 5MB limit? [closed]",
+      "Tags": [
+        "javascript",
+        "google-chrome-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770899/how-to-use-a-lightweight-pdf-reader-inside-a-chrome-extension-without-exceeding"
+    }
+  ]
+}

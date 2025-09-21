@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-21T09:58:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T09:43:43Z",
+      "Title": "http 404 when switching to a different proxy",
+      "Tags": [
+        "ruby",
+        "cloud-foundry",
+        "faraday"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770782/http-404-when-switching-to-a-different-proxy"
+    },
+    {
+      "Created": "2025-09-21T09:45:52Z",
+      "Title": "creating a global variable on an angular project",
+      "Tags": [
+        "angular",
+        "typescript",
+        "global-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770784/creating-a-global-variable-on-an-angular-project"
+    },
+    {
+      "Created": "2025-09-21T09:58:12Z",
+      "Title": "How to perform mouse click on an item of SysTreeView32?",
+      "Tags": [
+        "c#",
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770787/how-to-perform-mouse-click-on-an-item-of-systreeview32"
+    },
+    {
+      "Created": "2025-09-21T09:58:14Z",
+      "Title": "How can I implement static analysis rules for units of measure using tuples of integers?",
+      "Tags": [
+        "types",
+        "compiler-construction",
+        "static-analysis",
+        "units-of-measurement",
+        "z-notation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770788/how-can-i-implement-static-analysis-rules-for-units-of-measure-using-tuples-of-i"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-21T04:40:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T04:26:10Z",
+      "Title": "How to set Adam\u0027s precision to 32 bit or 64 bit and train the mixed bits weights?",
+      "Tags": [
+        "pytorch",
+        "quantization",
+        "adam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770663/how-to-set-adams-precision-to-32-bit-or-64-bit-and-train-the-mixed-bits-weights"
+    },
+    {
+      "Created": "2025-09-21T04:40:34Z",
+      "Title": "Is there a way to fix my Clang prebuilt binary not being able to find standard header files like \u0022stdio.h\u0022?",
+      "Tags": [
+        "c",
+        "macos",
+        "clang",
+        "header-files",
+        "arm64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770665/is-there-a-way-to-fix-my-clang-prebuilt-binary-not-being-able-to-find-standard-h"
+    },
+    {
+      "Created": "2025-09-21T04:40:49Z",
+      "Title": "Why does MessageBox() appear in the background if the application\u0027s own windows are minimized on Windows 11? TaskDialog doesn\u0027t do this",
+      "Tags": [
+        "winapi",
+        "messagebox",
+        "windows-11",
+        "taskdialog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770666/why-does-messagebox-appear-in-the-background-if-the-applications-own-windows"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-21T16:39:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T16:12:35Z",
+      "Title": "Lighting seems flipped in my OpenGL scene",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "3d",
+        "glsl",
+        "glm-math"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770966/lighting-seems-flipped-in-my-opengl-scene"
+    },
+    {
+      "Created": "2025-09-21T16:22:17Z",
+      "Title": "Ball bounces off walls but not off tiles in PICO-8",
+      "Tags": [
+        "lua",
+        "collision-detection",
+        "game-physics",
+        "pico-8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770970/ball-bounces-off-walls-but-not-off-tiles-in-pico-8"
+    },
+    {
+      "Created": "2025-09-21T16:22:55Z",
+      "Title": "How rewrite field Backpack 6 for relation with array (1,2)?",
+      "Tags": [
+        "laravel-backpack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770971/how-rewrite-field-backpack-6-for-relation-with-array-1-2"
+    },
+    {
+      "Created": "2025-09-21T16:31:48Z",
+      "Title": "How to efficiently handle large image uploads (50MB\u002B) in Node.js without crashing the server?",
+      "Tags": [
+        "node.js",
+        "file-upload",
+        "mern",
+        "multer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770974/how-to-efficiently-handle-large-image-uploads-50mb-in-node-js-without-crashin"
+    },
+    {
+      "Created": "2025-09-21T16:36:21Z",
+      "Title": "http://localhost:5053/ not opening from Rider IDE on Linux Ubuntu",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770976/http-localhost5053-not-opening-from-rider-ide-on-linux-ubuntu"
+    },
+    {
+      "Created": "2025-09-21T16:39:20Z",
+      "Title": "Render font styles in TCPDF",
+      "Tags": [
+        "php",
+        "pdf-generation",
+        "tcpdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770979/render-font-styles-in-tcpdf"
+    }
+  ]
+}

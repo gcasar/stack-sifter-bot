@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-21T06:07:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T05:09:46Z",
+      "Title": "Jolt Physics. The character slides across the floor as if on ice",
+      "Tags": [
+        "c\u002B\u002B",
+        "game-physics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770672/jolt-physics-the-character-slides-across-the-floor-as-if-on-ice"
+    },
+    {
+      "Created": "2025-09-21T05:14:41Z",
+      "Title": "Is there a way to stop a keystroke from a physical keyboard in python?",
+      "Tags": [
+        "python",
+        "keyboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770675/is-there-a-way-to-stop-a-keystroke-from-a-physical-keyboard-in-python"
+    },
+    {
+      "Created": "2025-09-21T06:04:50Z",
+      "Title": "Align top/bottom ServiceCards with RangeBar steps and connector lines in React",
+      "Tags": [
+        "reactjs",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770685/align-top-bottom-servicecards-with-rangebar-steps-and-connector-lines-in-react"
+    },
+    {
+      "Created": "2025-09-21T06:07:35Z",
+      "Title": "Virtual environment in vscode (for trying out Django tutorial code)",
+      "Tags": [
+        "visual-studio-code",
+        "virtualenv",
+        "integrated-terminal-window"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770687/virtual-environment-in-vscode-for-trying-out-django-tutorial-code"
+    },
+    {
+      "Created": "2025-09-21T06:07:46Z",
+      "Title": "How does ECS Fargate\u0027s spread placement strategy tolerate AZ failure with 2 tasks vs 4 tasks?",
+      "Tags": [
+        "amazon-ecs",
+        "gremlin",
+        "aws-fargate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770688/how-does-ecs-fargates-spread-placement-strategy-tolerate-az-failure-with-2-task"
+    }
+  ]
+}

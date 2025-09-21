@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-21T06:42:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T06:11:00Z",
+      "Title": "Flask python generate a white web page",
+      "Tags": [
+        "javascript",
+        "python",
+        "html",
+        "css",
+        "flask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770693/flask-python-generate-a-white-web-page"
+    },
+    {
+      "Created": "2025-09-21T06:22:13Z",
+      "Title": "How to load DINOv3 weights with RoPE (rope_embed) into ViT models using absolute positional embedding (pos_embed)?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770697/how-to-load-dinov3-weights-with-rope-rope-embed-into-vit-models-using-absolute"
+    },
+    {
+      "Created": "2025-09-21T06:22:43Z",
+      "Title": "Building AOSP for Pixel 9",
+      "Tags": [
+        "android",
+        "pixel",
+        "android-source"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770698/building-aosp-for-pixel-9"
+    },
+    {
+      "Created": "2025-09-21T06:22:56Z",
+      "Title": "ESP32 with WiFiManager does not reconnect properly after first connection",
+      "Tags": [
+        "esp32",
+        "arduino-esp32",
+        "wifimanager",
+        "lvgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770700/esp32-with-wifimanager-does-not-reconnect-properly-after-first-connection"
+    },
+    {
+      "Created": "2025-09-21T06:30:22Z",
+      "Title": "How to replicate SMR from the SEER MP-SIR session",
+      "Tags": [
+        "r",
+        "statistics",
+        "methodology"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770701/how-to-replicate-smr-from-the-seer-mp-sir-session"
+    },
+    {
+      "Created": "2025-09-21T06:42:15Z",
+      "Title": "How to safely decompress gzip-encoded WebSocket messages in Python?",
+      "Tags": [
+        "websocket",
+        "gzip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770703/how-to-safely-decompress-gzip-encoded-websocket-messages-in-python"
+    }
+  ]
+}

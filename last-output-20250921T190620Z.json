@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-21T19:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T18:45:11Z",
+      "Title": "Why can\u0027t I find the installation path of nvm or use it in another shell script?",
+      "Tags": [
+        "shell",
+        "nvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771029/why-cant-i-find-the-installation-path-of-nvm-or-use-it-in-another-shell-script"
+    },
+    {
+      "Created": "2025-09-21T18:53:26Z",
+      "Title": "Can we force bootMer to ignore convergence warnings?",
+      "Tags": [
+        "lme4",
+        "convergence",
+        "glmmtmb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771033/can-we-force-bootmer-to-ignore-convergence-warnings"
+    },
+    {
+      "Created": "2025-09-21T18:54:01Z",
+      "Title": "Pino transport: apply ECS format only to Elasticsearch target",
+      "Tags": [
+        "node.js",
+        "elasticsearch",
+        "logging",
+        "pinojs",
+        "pino"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771034/pino-transport-apply-ecs-format-only-to-elasticsearch-target"
+    },
+    {
+      "Created": "2025-09-21T19:02:28Z",
+      "Title": "Can Media Session API be used to control Web Speech API spoken word playback?",
+      "Tags": [
+        "google-chrome",
+        "integration",
+        "webspeech-api",
+        "android-chrome",
+        "mediasession"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771045/can-media-session-api-be-used-to-control-web-speech-api-spoken-word-playback"
+    }
+  ]
+}

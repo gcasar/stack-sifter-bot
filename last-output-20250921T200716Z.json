@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-21T19:52:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T19:24:57Z",
+      "Title": "Why is asyncio.gather returning results in a different order than my tasks?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "asynchronous",
+        "concurrency",
+        "python-asyncio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771053/why-is-asyncio-gather-returning-results-in-a-different-order-than-my-tasks"
+    },
+    {
+      "Created": "2025-09-21T19:39:48Z",
+      "Title": "How to prevent C# Invalid Cast Exception when parsing XML data that contains comments",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "casting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771058/how-to-prevent-c-sharp-invalid-cast-exception-when-parsing-xml-data-that-contain"
+    },
+    {
+      "Created": "2025-09-21T19:43:57Z",
+      "Title": "The submit button is disabled until recaptcha is solved. But now the form doesn\u0027t validate until the recaptcha is solved",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771060/the-submit-button-is-disabled-until-recaptcha-is-solved-but-now-the-form-doesn"
+    },
+    {
+      "Created": "2025-09-21T19:52:54Z",
+      "Title": "How to optimize YouTube Data API v3 search requests to save quota units?",
+      "Tags": [
+        "php",
+        "rest",
+        "youtube"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771065/how-to-optimize-youtube-data-api-v3-search-requests-to-save-quota-units"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-21T02:12:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T02:12:09Z",
+      "Title": "Pyspark - Resolve nested json file into multiple columns uning inbult spark functions",
+      "Tags": [
+        "arrays",
+        "json",
+        "pyspark",
+        "explode",
+        "flatten"
+      ],
+      "Url": "https://stackoverflow.com/questions/79770635/pyspark-resolve-nested-json-file-into-multiple-columns-uning-inbult-spark-func"
+    }
+  ]
+}

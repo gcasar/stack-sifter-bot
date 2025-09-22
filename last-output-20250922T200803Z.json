@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-22T20:04:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T19:37:55Z",
+      "Title": "How to change the reference URL in an href with one main file being referenced",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771994/how-to-change-the-reference-url-in-an-href-with-one-main-file-being-referenced"
+    },
+    {
+      "Created": "2025-09-22T20:04:20Z",
+      "Title": "Android verify purchases. What permission for service worker?",
+      "Tags": [
+        "android",
+        "google-cloud-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772014/android-verify-purchases-what-permission-for-service-worker"
+    },
+    {
+      "Created": "2025-09-22T20:04:44Z",
+      "Title": "interactive matplotlib as webapplication",
+      "Tags": [
+        "matplotlib",
+        "graphics",
+        "plotly",
+        "streamlit",
+        "netgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772016/interactive-matplotlib-as-webapplication"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-22T04:01:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T03:25:45Z",
+      "Title": "How can I change images on click in a specfic order, with the final image being randomly selected from a folder?",
+      "Tags": [
+        "javascript",
+        "var"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771202/how-can-i-change-images-on-click-in-a-specfic-order-with-the-final-image-being"
+    },
+    {
+      "Created": "2025-09-22T03:27:01Z",
+      "Title": "Cannot Connect ESP32 to Google Cloud Run function",
+      "Tags": [
+        "google-cloud-platform",
+        "ssl-certificate",
+        "esp32",
+        "platformio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771203/cannot-connect-esp32-to-google-cloud-run-function"
+    },
+    {
+      "Created": "2025-09-22T03:29:42Z",
+      "Title": "Cypress .click({ force: true }) not working",
+      "Tags": [
+        "typescript",
+        "testing",
+        "continuous-integration",
+        "cypress",
+        "e2e-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771204/cypress-click-force-true-not-working"
+    },
+    {
+      "Created": "2025-09-22T03:32:45Z",
+      "Title": "How to block right mouse button and convert it to middle mouse button without delay (like AutoHotkey)?",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi",
+        "autohotkey",
+        "raw-input",
+        "mouse-hook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771205/how-to-block-right-mouse-button-and-convert-it-to-middle-mouse-button-without-de"
+    },
+    {
+      "Created": "2025-09-22T03:45:37Z",
+      "Title": "How to setup approriate configs for single-core rocket-chip Gemmini Accelerator?",
+      "Tags": [
+        "fpga",
+        "riscv",
+        "rocket-chip",
+        "soc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771212/how-to-setup-approriate-configs-for-single-core-rocket-chip-gemmini-accelerator"
+    },
+    {
+      "Created": "2025-09-22T03:57:34Z",
+      "Title": "How does AWS Global Accelerator differ from CloudFront in handling UDP traffic, and when would you use one over the other for a gaming application?",
+      "Tags": [
+        "amazon-web-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771214/how-does-aws-global-accelerator-differ-from-cloudfront-in-handling-udp-traffic"
+    },
+    {
+      "Created": "2025-09-22T04:01:18Z",
+      "Title": "In-place modification of large encrypted file",
+      "Tags": [
+        "javascript",
+        "encryption",
+        "stream-cipher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771215/in-place-modification-of-large-encrypted-file"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-22T06:06:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T05:30:56Z",
+      "Title": "Why would I choose an ESP32-S3 over a Raspberry Pi Zero 2 W for an IoT/ML project?",
+      "Tags": [
+        "machine-learning",
+        "raspberry-pi",
+        "iot",
+        "esp32",
+        "esp-idf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771253/why-would-i-choose-an-esp32-s3-over-a-raspberry-pi-zero-2-w-for-an-iot-ml-projec"
+    },
+    {
+      "Created": "2025-09-22T05:32:26Z",
+      "Title": "How to formally prove that the assertion never fails by citing corresponding rules",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "atomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771255/how-to-formally-prove-that-the-assertion-never-fails-by-citing-corresponding-rul"
+    },
+    {
+      "Created": "2025-09-22T05:49:15Z",
+      "Title": "Fix for ngx-translate Angular 20 getBrowserLang default text flash",
+      "Tags": [
+        "angular",
+        "browser",
+        "server",
+        "server-side-rendering",
+        "ngx-translate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771266/fix-for-ngx-translate-angular-20-getbrowserlang-default-text-flash"
+    },
+    {
+      "Created": "2025-09-22T06:06:04Z",
+      "Title": "Can CustomerIO call my webhook to notify me when a campaign or workflow or action is updated?",
+      "Tags": [
+        "webhooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771279/can-customerio-call-my-webhook-to-notify-me-when-a-campaign-or-workflow-or-actio"
+    }
+  ]
+}

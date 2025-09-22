@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-22T13:02:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T12:25:04Z",
+      "Title": "Multiple replaces between markers but not outside them",
+      "Tags": [
+        "regex",
+        "windows",
+        "performance",
+        "perl",
+        "cygwin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771602/multiple-replaces-between-markers-but-not-outside-them"
+    },
+    {
+      "Created": "2025-09-22T12:53:55Z",
+      "Title": "Not able to find submit URL in the bing webmaster tools via indexnow API",
+      "Tags": [
+        "postman",
+        "sitecore",
+        "webapi",
+        "bing",
+        "bing-webmaster-tools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771629/not-able-to-find-submit-url-in-the-bing-webmaster-tools-via-indexnow-api"
+    },
+    {
+      "Created": "2025-09-22T12:56:39Z",
+      "Title": "NGINX and Angular, custom locations",
+      "Tags": [
+        "angular",
+        "nginx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771631/nginx-and-angular-custom-locations"
+    },
+    {
+      "Created": "2025-09-22T13:02:39Z",
+      "Title": "Apache RewriteRule works for /test but not for /test/something",
+      "Tags": [
+        "wordpress",
+        ".htaccess",
+        "apache2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771638/apache-rewriterule-works-for-test-but-not-for-test-something"
+    }
+  ]
+}

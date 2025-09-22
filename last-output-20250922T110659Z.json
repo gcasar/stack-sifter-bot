@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-22T11:00:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T10:35:16Z",
+      "Title": "Why is maven build not able to retrieve ZK CE 7.0.3 from the main repository?",
+      "Tags": [
+        "zk",
+        "mvn-repo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771505/why-is-maven-build-not-able-to-retrieve-zk-ce-7-0-3-from-the-main-repository"
+    },
+    {
+      "Created": "2025-09-22T10:39:24Z",
+      "Title": "How to amend batch script to chage the filename sligtly",
+      "Tags": [
+        "batch-file",
+        "dos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771508/how-to-amend-batch-script-to-chage-the-filename-sligtly"
+    },
+    {
+      "Created": "2025-09-22T10:43:24Z",
+      "Title": "Google apps scripting - Referencing multiple columns in e.range.getColumn()",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771513/google-apps-scripting-referencing-multiple-columns-in-e-range-getcolumn"
+    },
+    {
+      "Created": "2025-09-22T10:47:24Z",
+      "Title": "Resolve promise in a typescript non async function",
+      "Tags": [
+        "typescript",
+        "asynchronous",
+        "async-await",
+        "angular-promise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771522/resolve-promise-in-a-typescript-non-async-function"
+    },
+    {
+      "Created": "2025-09-22T10:50:46Z",
+      "Title": "Cannot connect to PostgreSQL in Docker: user fails authentication by password",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771524/cannot-connect-to-postgresql-in-docker-user-fails-authentication-by-password"
+    },
+    {
+      "Created": "2025-09-22T10:57:42Z",
+      "Title": "How to intercept all HTTP requests from page",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771528/how-to-intercept-all-http-requests-from-page"
+    },
+    {
+      "Created": "2025-09-22T11:00:31Z",
+      "Title": "Query runs in SQL Developer but fails in Spring Boot with ORA-00910 (length too long for data type)",
+      "Tags": [
+        "java",
+        "spring",
+        "oracle-database",
+        "spring-boot",
+        "varchar2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771530/query-runs-in-sql-developer-but-fails-in-spring-boot-with-ora-00910-length-too"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-22T06:58:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T06:12:41Z",
+      "Title": "How to extract string between delimiters",
+      "Tags": [
+        "string",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771286/how-to-extract-string-between-delimiters"
+    },
+    {
+      "Created": "2025-09-22T06:54:33Z",
+      "Title": "Integration test for a mobile app connected to firebase firestore",
+      "Tags": [
+        "kotlin",
+        "junit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771315/integration-test-for-a-mobile-app-connected-to-firebase-firestore"
+    },
+    {
+      "Created": "2025-09-22T06:58:04Z",
+      "Title": "Why mime_type starts with application file download automatically when I clicked",
+      "Tags": [
+        "file",
+        "zip",
+        "mime-types",
+        "ui5-webcomponents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771320/why-mime-type-starts-with-application-file-download-automatically-when-i-clicked"
+    }
+  ]
+}

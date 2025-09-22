@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-22T13:59:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T13:25:43Z",
+      "Title": "DownloadButton in nested Shiny module UIOutput is inactive",
+      "Tags": [
+        "r",
+        "shiny",
+        "download",
+        "namespaces"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771662/downloadbutton-in-nested-shiny-module-uioutput-is-inactive"
+    },
+    {
+      "Created": "2025-09-22T13:52:21Z",
+      "Title": "MYSQL Trigger after insert",
+      "Tags": [
+        "mysql",
+        "triggers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771697/mysql-trigger-after-insert"
+    },
+    {
+      "Created": "2025-09-22T13:59:25Z",
+      "Title": "How to generalize a linked list node to store arbitrary data in C?",
+      "Tags": [
+        "c",
+        "memory-management",
+        "linked-list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771704/how-to-generalize-a-linked-list-node-to-store-arbitrary-data-in-c"
+    }
+  ]
+}

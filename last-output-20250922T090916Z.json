@@ -1,0 +1,109 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-09-22T09:07:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T08:41:34Z",
+      "Title": "flutter : the picture can\u0027t show in markdownwidget in ios",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter",
+        "markdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771411/flutter-the-picture-cant-show-in-markdownwidget-in-ios"
+    },
+    {
+      "Created": "2025-09-22T08:48:24Z",
+      "Title": "How does the declaration affect type narrowing?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771414/how-does-the-declaration-affect-type-narrowing"
+    },
+    {
+      "Created": "2025-09-22T08:48:51Z",
+      "Title": "Merging FHIR patients using Firely .Net",
+      "Tags": [
+        "c#",
+        "hl7-fhir"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771415/merging-fhir-patients-using-firely-net"
+    },
+    {
+      "Created": "2025-09-22T08:55:33Z",
+      "Title": "Axios interceptors behave differently between client and server components",
+      "Tags": [
+        "typescript",
+        "interceptor",
+        "nextjs14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771418/axios-interceptors-behave-differently-between-client-and-server-components"
+    },
+    {
+      "Created": "2025-09-22T08:56:53Z",
+      "Title": "How to digitally sign a PDF at a specific page/location in Python without paid libraries?",
+      "Tags": [
+        "python",
+        "pdf",
+        "pdf-generation",
+        "python-pdfkit",
+        "python-pdfreader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771419/how-to-digitally-sign-a-pdf-at-a-specific-page-location-in-python-without-paid-l"
+    },
+    {
+      "Created": "2025-09-22T08:58:51Z",
+      "Title": "How to fetch data from a CONDITION cell into an ACTION?",
+      "Tags": [
+        "drools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771423/how-to-fetch-data-from-a-condition-cell-into-an-action"
+    },
+    {
+      "Created": "2025-09-22T08:59:00Z",
+      "Title": "How to start learning the Frappe Framework (Python \u002B JS full-stack framework)? [closed]",
+      "Tags": [
+        "python",
+        "web-frameworks",
+        "erpnext",
+        "frappe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771424/how-to-start-learning-the-frappe-framework-python-js-full-stack-framework"
+    },
+    {
+      "Created": "2025-09-22T09:00:23Z",
+      "Title": "ExtJS - changing css class in another cell based on value and renderer",
+      "Tags": [
+        "javascript",
+        "css",
+        "extjs",
+        "extjs7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771426/extjs-changing-css-class-in-another-cell-based-on-value-and-renderer"
+    },
+    {
+      "Created": "2025-09-22T09:01:07Z",
+      "Title": "Can fluentbit write or pub to redis on output?",
+      "Tags": [
+        "logging",
+        "events",
+        "redis",
+        "fluentd",
+        "fluent-bit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771427/can-fluentbit-write-or-pub-to-redis-on-output"
+    },
+    {
+      "Created": "2025-09-22T09:07:35Z",
+      "Title": "Odin union question mark (.?) operator",
+      "Tags": [
+        "types",
+        "operators",
+        "union",
+        "odin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771431/odin-union-question-mark-operator"
+    }
+  ]
+}

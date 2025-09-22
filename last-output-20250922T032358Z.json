@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-22T03:14:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T02:46:59Z",
+      "Title": "Block all outgoing HTTP requests from page (javascript)",
+      "Tags": [
+        "javascript",
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771194/block-all-outgoing-http-requests-from-page-javascript"
+    },
+    {
+      "Created": "2025-09-22T02:49:20Z",
+      "Title": "Mouseleave animation not showing",
+      "Tags": [
+        "javascript",
+        "animation",
+        "interactive",
+        "mouseenter",
+        "mouseleave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771195/mouseleave-animation-not-showing"
+    },
+    {
+      "Created": "2025-09-22T02:50:39Z",
+      "Title": "Automatically bring up all interfaces using netplan?",
+      "Tags": [
+        "cloud-init",
+        "netplan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771196/automatically-bring-up-all-interfaces-using-netplan"
+    },
+    {
+      "Created": "2025-09-22T03:14:20Z",
+      "Title": "How can I change view by window.setAttributes smoothly?",
+      "Tags": [
+        "java",
+        "android",
+        "animation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771200/how-can-i-change-view-by-window-setattributes-smoothly"
+    }
+  ]
+}

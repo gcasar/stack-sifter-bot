@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-22T12:05:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T11:48:24Z",
+      "Title": "BufferedImage VS MatOfByte for converting an OpenCV matrix to a JavaFX Image",
+      "Tags": [
+        "java",
+        "image",
+        "opencv",
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771565/bufferedimage-vs-matofbyte-for-converting-an-opencv-matrix-to-a-javafx-image"
+    },
+    {
+      "Created": "2025-09-22T12:00:41Z",
+      "Title": "Fetching overridden events from Google Calendar",
+      "Tags": [
+        "javascript",
+        "google-apps-script",
+        "google-calendar-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771582/fetching-overridden-events-from-google-calendar"
+    },
+    {
+      "Created": "2025-09-22T12:03:48Z",
+      "Title": "Getting ImportError: cannot import name \u0027AgentNode\u0027 from \u0027langgraph.prebuilt\u0027 error",
+      "Tags": [
+        "python",
+        "langgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771585/getting-importerror-cannot-import-name-agentnode-from-langgraph-prebuilt-er"
+    },
+    {
+      "Created": "2025-09-22T12:05:17Z",
+      "Title": "How to update (upsert) Shopware 6 products or customers via product / customer number instead of IDs using Shopware API",
+      "Tags": [
+        "shopware6",
+        "shopware6-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771589/how-to-update-upsert-shopware-6-products-or-customers-via-product-customer-n"
+    },
+    {
+      "Created": "2025-09-22T12:05:41Z",
+      "Title": "How to automatically refresh access token when receiving 403 errors in Redux Toolkit async thunks?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "error-handling",
+        "jwt",
+        "redux-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771591/how-to-automatically-refresh-access-token-when-receiving-403-errors-in-redux-too"
+    }
+  ]
+}

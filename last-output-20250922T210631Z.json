@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-22T21:04:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T20:20:48Z",
+      "Title": "Successful mypy run interpreted as failure in pre-commit",
+      "Tags": [
+        "mypy",
+        "pre-commit-hook",
+        "pre-commit.com",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772027/successful-mypy-run-interpreted-as-failure-in-pre-commit"
+    },
+    {
+      "Created": "2025-09-22T20:29:02Z",
+      "Title": "std::format ouput signed value when formatted as hexadecimal",
+      "Tags": [
+        "c\u002B\u002B",
+        "fmt",
+        "stdformat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772032/stdformat-ouput-signed-value-when-formatted-as-hexadecimal"
+    },
+    {
+      "Created": "2025-09-22T20:35:48Z",
+      "Title": "How to check whether a name is a locally accessible function?",
+      "Tags": [
+        "function",
+        "matlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772037/how-to-check-whether-a-name-is-a-locally-accessible-function"
+    },
+    {
+      "Created": "2025-09-22T20:41:12Z",
+      "Title": "How do I get the approver information from a branch policy\u0027s required approver ID in Azure DevOps?",
+      "Tags": [
+        "rest",
+        "azure-devops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772039/how-do-i-get-the-approver-information-from-a-branch-policys-required-approver-i"
+    },
+    {
+      "Created": "2025-09-22T20:52:40Z",
+      "Title": "Scraping only user with username telegram",
+      "Tags": [
+        "python",
+        "telegram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772044/scraping-only-user-with-username-telegram"
+    },
+    {
+      "Created": "2025-09-22T20:56:20Z",
+      "Title": "Writing an eBPF bound check using embedded assembly",
+      "Tags": [
+        "ebpf",
+        "bpf",
+        "xdp-bpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772048/writing-an-ebpf-bound-check-using-embedded-assembly"
+    },
+    {
+      "Created": "2025-09-22T21:04:03Z",
+      "Title": "MLflow\u0027s GenAI tracing of questions \u0026 answers is different for different models. How can it be made to be the same?",
+      "Tags": [
+        "artificial-intelligence",
+        "mlflow",
+        "ml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772056/mlflows-genai-tracing-of-questions-answers-is-different-for-different-models"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-22T00:03:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-21T23:42:08Z",
+      "Title": "Is it possible to use a BroadcastReceiver class to detect android.media.RINGER_MODE_CHANGED?",
+      "Tags": [
+        "android",
+        "broadcastreceiver",
+        "foreground-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771132/is-it-possible-to-use-a-broadcastreceiver-class-to-detect-android-media-ringer-m"
+    },
+    {
+      "Created": "2025-09-21T23:49:21Z",
+      "Title": "OpenSearch get top n results by keyword field",
+      "Tags": [
+        "elasticsearch",
+        "search",
+        "rank",
+        "opensearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771136/opensearch-get-top-n-results-by-keyword-field"
+    },
+    {
+      "Created": "2025-09-22T00:03:16Z",
+      "Title": "Problem merging Crystal Reports in Wix Visual Studio C# project",
+      "Tags": [
+        "crystal-reports",
+        "wix",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771141/problem-merging-crystal-reports-in-wix-visual-studio-c-sharp-project"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-22T15:06:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T14:35:07Z",
+      "Title": "Is there a good way to differentiate local and remote paths with python pathlib?",
+      "Tags": [
+        "python",
+        "rpc",
+        "xml-rpc",
+        "pathlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771740/is-there-a-good-way-to-differentiate-local-and-remote-paths-with-python-pathlib"
+    },
+    {
+      "Created": "2025-09-22T14:49:58Z",
+      "Title": "Confluent Kafka and Gunicorn: creating a transactional id for multiple workers",
+      "Tags": [
+        "flask",
+        "apache-kafka",
+        "gunicorn",
+        "confluent-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771754/confluent-kafka-and-gunicorn-creating-a-transactional-id-for-multiple-workers"
+    },
+    {
+      "Created": "2025-09-22T14:52:51Z",
+      "Title": "Twitch API Utilization",
+      "Tags": [
+        "javascript",
+        "html",
+        "twitch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771760/twitch-api-utilization"
+    },
+    {
+      "Created": "2025-09-22T14:56:06Z",
+      "Title": "How to hide group-level navigation tabs (Code, Build, Deploy) for non-technical users in GitLab?",
+      "Tags": [
+        "user-interface",
+        "gitlab",
+        "gitlab-ci",
+        "gitlab-ce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771765/how-to-hide-group-level-navigation-tabs-code-build-deploy-for-non-technical"
+    },
+    {
+      "Created": "2025-09-22T15:02:18Z",
+      "Title": "Single Save with JPA CascadeType.PERSIST resulting to wrong order of insetion",
+      "Tags": [
+        "postgresql",
+        "spring-boot",
+        "hibernate",
+        "jpa",
+        "orm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771769/single-save-with-jpa-cascadetype-persist-resulting-to-wrong-order-of-insetion"
+    },
+    {
+      "Created": "2025-09-22T15:05:38Z",
+      "Title": "RevenueCat \u002B Google Play Billing: compra \u00FAnica disponible para todos los usuarios de mi app en el mismo dispositivo",
+      "Tags": [
+        "react-native",
+        "google-play-console",
+        "revenuecat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771773/revenuecat-google-play-billing-compra-%c3%banica-disponible-para-todos-los-usuario"
+    },
+    {
+      "Created": "2025-09-22T15:06:25Z",
+      "Title": "\u0022Internal Server Error\u0022 when sending email via Django using DigitalOcean",
+      "Tags": [
+        "django",
+        "digital-ocean"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771774/internal-server-error-when-sending-email-via-django-using-digitalocean"
+    }
+  ]
+}

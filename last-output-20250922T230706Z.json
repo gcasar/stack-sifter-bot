@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-22T22:45:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T22:18:21Z",
+      "Title": "Node.js Docker container crashes: Error: Cannot find addon \u0027.\u0027 imported from sodium-native",
+      "Tags": [
+        "node.js",
+        "docker",
+        "fastify",
+        "sodium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772097/node-js-docker-container-crashes-error-cannot-find-addon-imported-from-sod"
+    },
+    {
+      "Created": "2025-09-22T22:45:37Z",
+      "Title": "error C2280: \u0027CStringArray \u0026CStringArray::operator =(const CStringArray \u0026)\u0027: attempting to reference a deleted function",
+      "Tags": [
+        "c\u002B\u002B",
+        "mfc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772102/error-c2280-cstringarray-cstringarrayoperator-const-cstringarray-att"
+    }
+  ]
+}

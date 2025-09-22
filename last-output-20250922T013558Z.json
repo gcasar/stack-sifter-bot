@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-22T01:25:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T00:33:27Z",
+      "Title": "Apache Camel (4.14) - file not completing util app exit",
+      "Tags": [
+        "file",
+        "apache-camel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771153/apache-camel-4-14-file-not-completing-util-app-exit"
+    },
+    {
+      "Created": "2025-09-22T00:50:24Z",
+      "Title": "\u003Cdialog\u003E with position: fixed causes parent scrollbars on mobile \u2014 how to fix?",
+      "Tags": [
+        "android",
+        "html",
+        "css",
+        "ios",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771160/dialog-with-position-fixed-causes-parent-scrollbars-on-mobile-how-to-fix"
+    },
+    {
+      "Created": "2025-09-22T01:18:56Z",
+      "Title": "What\u0027s the idea behind forced include of a precompiled header being compulsory or the default?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "precompiled-headers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771166/whats-the-idea-behind-forced-include-of-a-precompiled-header-being-compulsory-o"
+    },
+    {
+      "Created": "2025-09-22T01:25:04Z",
+      "Title": "delphi encrypt using OpenSSL and RSA_public_encrypt",
+      "Tags": [
+        "delphi",
+        "encryption",
+        "openssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771167/delphi-encrypt-using-openssl-and-rsa-public-encrypt"
+    }
+  ]
+}

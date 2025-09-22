@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-22T04:49:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T04:21:19Z",
+      "Title": "Cache Benchmarking Program? [closed]",
+      "Tags": [
+        "c",
+        "caching",
+        "benchmarking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771224/cache-benchmarking-program"
+    },
+    {
+      "Created": "2025-09-22T04:29:45Z",
+      "Title": "How to real-time sync Firestore/Realtime Database to Cloud SQL?",
+      "Tags": [
+        "firebase",
+        "google-cloud-platform",
+        "google-cloud-firestore",
+        "google-cloud-dataflow",
+        "google-cloud-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771231/how-to-real-time-sync-firestore-realtime-database-to-cloud-sql"
+    },
+    {
+      "Created": "2025-09-22T04:49:32Z",
+      "Title": "Why don\u0027t rustc and cargo update when I update rustup?",
+      "Tags": [
+        "linux",
+        "rust",
+        "cargo",
+        "rustup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771239/why-dont-rustc-and-cargo-update-when-i-update-rustup"
+    }
+  ]
+}

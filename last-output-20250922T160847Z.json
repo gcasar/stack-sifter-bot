@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-22T16:03:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T15:08:20Z",
+      "Title": "Schema Guided Reasoning to dynamically force LLM to select one of the values from list",
+      "Tags": [
+        "openai-api",
+        "pydantic",
+        "large-language-model",
+        "typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771777/schema-guided-reasoning-to-dynamically-force-llm-to-select-one-of-the-values-fro"
+    },
+    {
+      "Created": "2025-09-22T15:51:16Z",
+      "Title": "Python PyQt and Psycopg2 give me ModuleNotFoundError: No module named \u0027psycopg2\u0027",
+      "Tags": [
+        "python",
+        "postgresql",
+        "qt",
+        "psycopg2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771810/python-pyqt-and-psycopg2-give-me-modulenotfounderror-no-module-named-psycopg2"
+    },
+    {
+      "Created": "2025-09-22T15:56:51Z",
+      "Title": "Is there a way to make AddUserSecrets take precedence over Configuration.AddAzureKeyVault?",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure-keyvault",
+        "configurationmanager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771818/is-there-a-way-to-make-addusersecrets-take-precedence-over-configuration-addazur"
+    },
+    {
+      "Created": "2025-09-22T16:00:06Z",
+      "Title": "Flutter plugin still compiles with SDK 33 after migrating app to compileSdk 36",
+      "Tags": [
+        "android",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771825/flutter-plugin-still-compiles-with-sdk-33-after-migrating-app-to-compilesdk-36"
+    },
+    {
+      "Created": "2025-09-22T16:01:25Z",
+      "Title": "NextJs useEffect not executing inside hook",
+      "Tags": [
+        "next.js",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771826/nextjs-useeffect-not-executing-inside-hook"
+    },
+    {
+      "Created": "2025-09-22T16:03:29Z",
+      "Title": "Rust core::arch::asm throwing error where type u64 doesn\u0027t fit into class reg",
+      "Tags": [
+        "assembly",
+        "rust",
+        "raspberry-pi4",
+        "bare-metal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771829/rust-corearchasm-throwing-error-where-type-u64-doesnt-fit-into-class-reg"
+    },
+    {
+      "Created": "2025-09-22T16:03:34Z",
+      "Title": "How can I evaluate VR drawings against target shapes more robustly?",
+      "Tags": [
+        "python",
+        "opencv",
+        "flask",
+        "image-processing",
+        "computer-vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771830/how-can-i-evaluate-vr-drawings-against-target-shapes-more-robustly"
+    }
+  ]
+}

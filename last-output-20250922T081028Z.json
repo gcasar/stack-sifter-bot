@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-22T08:02:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-22T07:40:56Z",
+      "Title": "Where should cursor rules go?",
+      "Tags": [
+        "cursor-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771363/where-should-cursor-rules-go"
+    },
+    {
+      "Created": "2025-09-22T08:02:06Z",
+      "Title": "ubuntu curl: (3) URL using bad/illegal format or missing URL",
+      "Tags": [
+        "shell",
+        "curl",
+        "sh",
+        "ubuntu-20.04"
+      ],
+      "Url": "https://stackoverflow.com/questions/79771376/ubuntu-curl-3-url-using-bad-illegal-format-or-missing-url"
+    }
+  ]
+}

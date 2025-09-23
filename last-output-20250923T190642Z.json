@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-23T18:57:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T18:26:06Z",
+      "Title": "Zero division bug Python sequential calculator",
+      "Tags": [
+        "python",
+        "debugging",
+        "project",
+        "calculator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772953/zero-division-bug-python-sequential-calculator"
+    },
+    {
+      "Created": "2025-09-23T18:41:40Z",
+      "Title": "Why we use PIN \u0026 (1\u003C\u003CPBx) to check if PIN is high?",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "avr",
+        "atmega"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772966/why-we-use-pin-1pbx-to-check-if-pin-is-high"
+    },
+    {
+      "Created": "2025-09-23T18:45:07Z",
+      "Title": "API access blocked (OAuthException code 200) for long-lived user token (FACEBOOK)",
+      "Tags": [
+        "python",
+        "rest",
+        "facebook",
+        "facebook-graph-api",
+        "facebook-ads-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772969/api-access-blocked-oauthexception-code-200-for-long-lived-user-token-facebook"
+    },
+    {
+      "Created": "2025-09-23T18:48:28Z",
+      "Title": "No PBE Algorithms on FIPS Enabled RHEL9 w/ OpenJDK1.8",
+      "Tags": [
+        "java",
+        "fips",
+        "jasypt",
+        "redhat-openjdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772971/no-pbe-algorithms-on-fips-enabled-rhel9-w-openjdk1-8"
+    },
+    {
+      "Created": "2025-09-23T18:53:46Z",
+      "Title": "In VSCode terminal, python socket.create_connection()\u0060 for IPv6 fails, but works in a normal terminal",
+      "Tags": [
+        "python-3.x",
+        "macos",
+        "sockets",
+        "visual-studio-code",
+        "ipv6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772974/in-vscode-terminal-python-socket-create-connection-for-ipv6-fails-but-works"
+    },
+    {
+      "Created": "2025-09-23T18:54:04Z",
+      "Title": "How can I concatenate 10 netcdf files along the time axis, while also retaining the attributes of each individual file",
+      "Tags": [
+        "python",
+        "python-xarray",
+        "netcdf",
+        "cdo-climate",
+        "nco"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772975/how-can-i-concatenate-10-netcdf-files-along-the-time-axis-while-also-retaining"
+    },
+    {
+      "Created": "2025-09-23T18:57:07Z",
+      "Title": "Output/Input coupling through groups",
+      "Tags": [
+        "openmdao"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772977/output-input-coupling-through-groups"
+    }
+  ]
+}

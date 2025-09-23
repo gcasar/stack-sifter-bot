@@ -1,0 +1,95 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-23T15:05:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T14:18:21Z",
+      "Title": "How to make randomizer of numbers with 3 conditions",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772714/how-to-make-randomizer-of-numbers-with-3-conditions"
+    },
+    {
+      "Created": "2025-09-23T14:41:53Z",
+      "Title": "Reverse an Array in C [closed]",
+      "Tags": [
+        "arrays",
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772739/reverse-an-array-in-c"
+    },
+    {
+      "Created": "2025-09-23T14:51:34Z",
+      "Title": "I am new to Stackoverflow and Odoo [closed]",
+      "Tags": [
+        "c#",
+        "asp.net-core-mvc",
+        ".net-8.0",
+        "odoo-18"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772755/i-am-new-to-stackoverflow-and-odoo"
+    },
+    {
+      "Created": "2025-09-23T14:56:00Z",
+      "Title": "How to handle actions that should last multiple steps in RL?",
+      "Tags": [
+        "artificial-intelligence",
+        "gymnasium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772762/how-to-handle-actions-that-should-last-multiple-steps-in-rl"
+    },
+    {
+      "Created": "2025-09-23T14:56:53Z",
+      "Title": "Mule ESB REST DB connection architecture in run time",
+      "Tags": [
+        "rest",
+        "jdbc",
+        "mule"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772765/mule-esb-rest-db-connection-architecture-in-run-time"
+    },
+    {
+      "Created": "2025-09-23T14:56:59Z",
+      "Title": "How can I build and publish a SPA web application in Azure Devops?",
+      "Tags": [
+        ".net-core",
+        "azure-devops",
+        "azure-pipelines",
+        "single-page-application"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772766/how-can-i-build-and-publish-a-spa-web-application-in-azure-devops"
+    },
+    {
+      "Created": "2025-09-23T15:02:43Z",
+      "Title": "Write tests that check the order in which actions are done",
+      "Tags": [
+        "tdd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772771/write-tests-that-check-the-order-in-which-actions-are-done"
+    },
+    {
+      "Created": "2025-09-23T15:04:58Z",
+      "Title": "React Native Expo-Audio Recording Fails To Start",
+      "Tags": [
+        "ios",
+        "react-native",
+        "expo",
+        "expo-av",
+        "expo-audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772775/react-native-expo-audio-recording-fails-to-start"
+    },
+    {
+      "Created": "2025-09-23T15:05:42Z",
+      "Title": "Django migration successfully applied, but the database is not modified",
+      "Tags": [
+        "python",
+        "django",
+        "sqlite",
+        "database-migration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772776/django-migration-successfully-applied-but-the-database-is-not-modified"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-23T13:58:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T13:24:22Z",
+      "Title": "Dynamically loading ComboBox entries in QML [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "user-interface",
+        "combobox",
+        "qt5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772657/dynamically-loading-combobox-entries-in-qml"
+    },
+    {
+      "Created": "2025-09-23T13:25:56Z",
+      "Title": "How to set up 3 update panels",
+      "Tags": [
+        "vb.net",
+        "updatepanel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772658/how-to-set-up-3-update-panels"
+    },
+    {
+      "Created": "2025-09-23T13:50:08Z",
+      "Title": "ASAN usage with Visual Studio 2022",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17",
+        "visual-studio-2022",
+        "address-sanitizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772680/asan-usage-with-visual-studio-2022"
+    },
+    {
+      "Created": "2025-09-23T13:55:35Z",
+      "Title": "$navigateTo error: Failed to resolve Frame",
+      "Tags": [
+        "nativescript",
+        "nativescript-vue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772689/navigateto-error-failed-to-resolve-frame"
+    },
+    {
+      "Created": "2025-09-23T13:56:14Z",
+      "Title": "Monitor 1000\u002B facebook channels for live streaming status [closed]",
+      "Tags": [
+        "web-scraping",
+        "live-streaming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772690/monitor-1000-facebook-channels-for-live-streaming-status"
+    },
+    {
+      "Created": "2025-09-23T13:56:28Z",
+      "Title": "How do I display all thoughts on the frontend using SSE with Laravel and Vue.js?",
+      "Tags": [
+        "php",
+        "laravel",
+        "vue.js",
+        "server-sent-events",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772691/how-do-i-display-all-thoughts-on-the-frontend-using-sse-with-laravel-and-vue-js"
+    },
+    {
+      "Created": "2025-09-23T13:58:48Z",
+      "Title": "Datadog dashboards \u2013 conditional widgets \u0026 transforming template variable values",
+      "Tags": [
+        "datadog",
+        "datadog-dashboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772695/datadog-dashboards-conditional-widgets-transforming-template-variable-values"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-23T02:14:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T02:02:07Z",
+      "Title": "React - My rating click keeps showing the wrong values when state is changed",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772154/react-my-rating-click-keeps-showing-the-wrong-values-when-state-is-changed"
+    },
+    {
+      "Created": "2025-09-23T02:08:46Z",
+      "Title": "C\u002B\u002B / WinAPI, How to determine if a Windows process starts running and detect when it closes without administrator permissions?",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772156/c-winapi-how-to-determine-if-a-windows-process-starts-running-and-detect-wh"
+    },
+    {
+      "Created": "2025-09-23T02:11:06Z",
+      "Title": "Autodesk APS Viewer 2D PDF functionality fails when CSP unsafe-eval is disabled",
+      "Tags": [
+        "autodesk-forge",
+        "content-security-policy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772157/autodesk-aps-viewer-2d-pdf-functionality-fails-when-csp-unsafe-eval-is-disabled"
+    },
+    {
+      "Created": "2025-09-23T02:14:12Z",
+      "Title": "How to inject a javascript code in a Next JS app WITHOUT modifying any project file?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "next.js",
+        "proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772159/how-to-inject-a-javascript-code-in-a-next-js-app-without-modifying-any-project-f"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-23T05:46:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T05:39:59Z",
+      "Title": "Generate Controllers for OpenAPI with connected services",
+      "Tags": [
+        "c#",
+        "openapi",
+        "openapi-generator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772247/generate-controllers-for-openapi-with-connected-services"
+    },
+    {
+      "Created": "2025-09-23T05:46:26Z",
+      "Title": "Cannot get stm32 usb microphone transfer working",
+      "Tags": [
+        "embedded",
+        "stm32",
+        "microcontroller",
+        "stm32f7",
+        "usb-audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772254/cannot-get-stm32-usb-microphone-transfer-working"
+    }
+  ]
+}

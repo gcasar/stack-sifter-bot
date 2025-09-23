@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-23T12:06:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T11:53:27Z",
+      "Title": "Aws::ShutdownAPI Crash when shared_ptr",
+      "Tags": [
+        "c\u002B\u002B",
+        "amazon-web-services",
+        "memory",
+        "crash",
+        "aws-sdk-cpp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772557/awsshutdownapi-crash-when-shared-ptr"
+    },
+    {
+      "Created": "2025-09-23T12:02:53Z",
+      "Title": "How To Scope Libraries Within Angular Micro Frontend With Nx",
+      "Tags": [
+        "angular",
+        "nrwl-nx",
+        "micro-frontend",
+        "webpack-module-federation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772571/how-to-scope-libraries-within-angular-micro-frontend-with-nx"
+    },
+    {
+      "Created": "2025-09-23T12:06:19Z",
+      "Title": "Why does printf(\u0022%d %d %d\u0022, i\u002B\u002B, i\u002B\u002B, i\u002B\u002B) produce different results than printf(\u0022%d %d %d\u0022, i\u002B\u002B, i, \u002B\u002Bi) in C?",
+      "Tags": [
+        "c",
+        "printf",
+        "undefined-behavior",
+        "sequence-points"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772573/why-does-printfd-d-d-i-i-i-produce-different-results-than-printf"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-23T20:03:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T19:04:20Z",
+      "Title": "MySQL BIT(1) values are assigned correctly to a database table but not being read from it [duplicate]",
+      "Tags": [
+        "mysql",
+        "tinyint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772985/mysql-bit1-values-are-assigned-correctly-to-a-database-table-but-not-being-rea"
+    },
+    {
+      "Created": "2025-09-23T19:33:00Z",
+      "Title": "command to shutdown windows at specific time",
+      "Tags": [
+        "windows",
+        "powershell",
+        "cmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773011/command-to-shutdown-windows-at-specific-time"
+    },
+    {
+      "Created": "2025-09-23T20:03:25Z",
+      "Title": "How to remove certain compiler flags, when compiling a Python extension through setup.py?",
+      "Tags": [
+        "python",
+        "setup.py"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773030/how-to-remove-certain-compiler-flags-when-compiling-a-python-extension-through"
+    }
+  ]
+}

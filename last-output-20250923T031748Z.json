@@ -1,0 +1,22 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-23T03:05:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T02:53:56Z",
+      "Title": "style css not working after uploading file to a server in laravel 12",
+      "Tags": [
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772173/style-css-not-working-after-uploading-file-to-a-server-in-laravel-12"
+    },
+    {
+      "Created": "2025-09-23T03:05:08Z",
+      "Title": "How to style quotes and chat posts for tumblr?",
+      "Tags": [
+        "tumblr-html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772177/how-to-style-quotes-and-chat-posts-for-tumblr"
+    }
+  ]
+}

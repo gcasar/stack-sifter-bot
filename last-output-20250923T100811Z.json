@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-23T10:04:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T09:36:33Z",
+      "Title": "Same fetch works on Swagger but doesn\u0027t work from web application",
+      "Tags": [
+        "javascript",
+        ".net",
+        "asp.net-web-api",
+        "cors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772430/same-fetch-works-on-swagger-but-doesnt-work-from-web-application"
+    },
+    {
+      "Created": "2025-09-23T09:43:53Z",
+      "Title": "xsdata dataclass generation from XSD with choice fields",
+      "Tags": [
+        "python",
+        "xsd",
+        "python-dataclasses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772437/xsdata-dataclass-generation-from-xsd-with-choice-fields"
+    },
+    {
+      "Created": "2025-09-23T09:46:45Z",
+      "Title": "Issue with passing parameters in capability through contract method",
+      "Tags": [
+        "kadena"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772438/issue-with-passing-parameters-in-capability-through-contract-method"
+    },
+    {
+      "Created": "2025-09-23T09:46:46Z",
+      "Title": "How to resolve iOS app validation error caused by Bitcode in PhonePePayment framework?",
+      "Tags": [
+        "ios",
+        "ionic-framework",
+        "hybrid-mobile-app"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772439/how-to-resolve-ios-app-validation-error-caused-by-bitcode-in-phonepepayment-fram"
+    },
+    {
+      "Created": "2025-09-23T09:51:47Z",
+      "Title": "How to include data files within the project, so that if I want to publish it or give it to the client, the client can perform ADO CRUD operations?",
+      "Tags": [
+        "c#",
+        "winforms",
+        "deployment",
+        "ado.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772444/how-to-include-data-files-within-the-project-so-that-if-i-want-to-publish-it-or"
+    },
+    {
+      "Created": "2025-09-23T09:59:18Z",
+      "Title": "keycloak-js with Nuxt: URL fragments not removed after login, authentication lost/blank page displayed on page reload with URL fragments",
+      "Tags": [
+        "vue.js",
+        "nuxt.js",
+        "keycloak",
+        "nuxt3.js",
+        "keycloak-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772450/keycloak-js-with-nuxt-url-fragments-not-removed-after-login-authentication-los"
+    },
+    {
+      "Created": "2025-09-23T09:59:43Z",
+      "Title": "wsl --install Ubuntu --name MyUbuntu --user root",
+      "Tags": [
+        "powershell",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772451/wsl-install-ubuntu-name-myubuntu-user-root"
+    },
+    {
+      "Created": "2025-09-23T10:04:05Z",
+      "Title": "ESCAPED BY in Python to MySQL",
+      "Tags": [
+        "python",
+        "mysql",
+        "escaping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772452/escaped-by-in-python-to-mysql"
+    }
+  ]
+}

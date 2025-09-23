@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-23T20:59:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T20:20:40Z",
+      "Title": "Best practices for SLURM job pipeline with wrapper scripts - avoiding complex job ID extraction",
+      "Tags": [
+        "slurm",
+        "hpc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773042/best-practices-for-slurm-job-pipeline-with-wrapper-scripts-avoiding-complex-jo"
+    },
+    {
+      "Created": "2025-09-23T20:50:54Z",
+      "Title": "Optuna: Selection of parameters during k-fold CV",
+      "Tags": [
+        "python",
+        "hyperparameters",
+        "optuna"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773065/optuna-selection-of-parameters-during-k-fold-cv"
+    },
+    {
+      "Created": "2025-09-23T20:51:07Z",
+      "Title": "Goldbach Conjecture but implementing sieve of eratosthenes",
+      "Tags": [
+        "python",
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773066/goldbach-conjecture-but-implementing-sieve-of-eratosthenes"
+    },
+    {
+      "Created": "2025-09-23T20:54:54Z",
+      "Title": "How could you host a SOCKS5 Proxy (UDP ASSOCIATE) behind NAT safely, as a SaaS for other people?",
+      "Tags": [
+        "security",
+        "network-programming",
+        "proxy",
+        "udp",
+        "socks5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773069/how-could-you-host-a-socks5-proxy-udp-associate-behind-nat-safely-as-a-saas-f"
+    },
+    {
+      "Created": "2025-09-23T20:59:40Z",
+      "Title": "Python: Find words on Google and Rename those files",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "google-chrome"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773070/python-find-words-on-google-and-rename-those-files"
+    }
+  ]
+}

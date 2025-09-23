@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-23T22:57:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T21:35:39Z",
+      "Title": "The type \u0060size_t\u0060 causes an issue for printing data",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773091/the-type-size-t-causes-an-issue-for-printing-data"
+    },
+    {
+      "Created": "2025-09-23T22:18:07Z",
+      "Title": "Understanding Metaclass Interaction with __init_subclass__ and Class Decorators",
+      "Tags": [
+        "python",
+        "inheritance",
+        "metaclass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773117/understanding-metaclass-interaction-with-init-subclass-and-class-decorators"
+    },
+    {
+      "Created": "2025-09-23T22:29:27Z",
+      "Title": "How do I change the corners of the code output to match the background?",
+      "Tags": [
+        "quarto",
+        "reveal.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773126/how-do-i-change-the-corners-of-the-code-output-to-match-the-background"
+    },
+    {
+      "Created": "2025-09-23T22:29:50Z",
+      "Title": "Golang concurrency safe map with only Read and Replace methods",
+      "Tags": [
+        "go",
+        "concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773127/golang-concurrency-safe-map-with-only-read-and-replace-methods"
+    },
+    {
+      "Created": "2025-09-23T22:36:36Z",
+      "Title": "SQL Alchemy - result not bein pulled",
+      "Tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773131/sql-alchemy-result-not-bein-pulled"
+    },
+    {
+      "Created": "2025-09-23T22:38:20Z",
+      "Title": "Server Error The booking service is currently unavailable. Please try again later or contact support",
+      "Tags": [
+        "php",
+        "portfolio",
+        "server-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773132/server-error-the-booking-service-is-currently-unavailable-please-try-again-late"
+    },
+    {
+      "Created": "2025-09-23T22:42:21Z",
+      "Title": "What are the difference of JavaScript, Javascript \u002B React Compiler,JavaScript \u002B SWC when creating a Vite project?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773134/what-are-the-difference-of-javascript-javascript-react-compiler-javascript"
+    },
+    {
+      "Created": "2025-09-23T22:49:11Z",
+      "Title": "KMP Navigation error: could not find any NavType for argument SearchType (works on Android, crashes on iOS in Xcode)",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773140/kmp-navigation-error-could-not-find-any-navtype-for-argument-searchtype-works"
+    },
+    {
+      "Created": "2025-09-23T22:57:14Z",
+      "Title": "Security onion wifi connectivity [closed]",
+      "Tags": [
+        "soc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773144/security-onion-wifi-connectivity"
+    }
+  ]
+}

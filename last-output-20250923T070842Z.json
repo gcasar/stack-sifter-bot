@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-23T07:06:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T06:28:17Z",
+      "Title": "Is there a way to keep the hidden Git files out of the managed directory, for multiple repositories within the same folder?",
+      "Tags": [
+        "git",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772277/is-there-a-way-to-keep-the-hidden-git-files-out-of-the-managed-directory-for-mu"
+    },
+    {
+      "Created": "2025-09-23T06:31:43Z",
+      "Title": "How to use glmulti in R when some variables have to be in all comparing models?",
+      "Tags": [
+        "r",
+        "glm",
+        "glmulti"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772281/how-to-use-glmulti-in-r-when-some-variables-have-to-be-in-all-comparing-models"
+    },
+    {
+      "Created": "2025-09-23T06:45:31Z",
+      "Title": "How to use the Nvidia GeForce RTX 50 series graphics card to compile the computer vision library OpenCV",
+      "Tags": [
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772287/how-to-use-the-nvidia-geforce-rtx-50-series-graphics-card-to-compile-the-compute"
+    },
+    {
+      "Created": "2025-09-23T06:58:59Z",
+      "Title": "How to check WatchConnectivity between Flutter iOS app and Watch app in debug mode?",
+      "Tags": [
+        "flutter",
+        "xcode",
+        "swiftui",
+        "watchkit",
+        "apple-watch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772294/how-to-check-watchconnectivity-between-flutter-ios-app-and-watch-app-in-debug-mo"
+    },
+    {
+      "Created": "2025-09-23T07:01:03Z",
+      "Title": "Flutter Hybrid Development: Solving \u0022Package Does Not Exist\u0022 Error in Release Build",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772296/flutter-hybrid-development-solving-package-does-not-exist-error-in-release-bu"
+    },
+    {
+      "Created": "2025-09-23T07:06:42Z",
+      "Title": "Azure Log Analyics - How to reduce Azure Log Analytics cost (AppTraces, AppRequests, AppDependencies) while retaining 30 days of logs?",
+      "Tags": [
+        "azure",
+        "azure-application-insights",
+        "azure-log-analytics",
+        "azure-monitor",
+        "azure-cost-calculation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772301/azure-log-analyics-how-to-reduce-azure-log-analytics-cost-apptraces-appreque"
+    }
+  ]
+}

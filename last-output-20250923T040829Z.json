@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-23T04:02:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T03:18:31Z",
+      "Title": "Show progress bar when reading files with globbing with polars",
+      "Tags": [
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772181/show-progress-bar-when-reading-files-with-globbing-with-polars"
+    },
+    {
+      "Created": "2025-09-23T03:33:13Z",
+      "Title": "Using STM32H7 DCMI \u002B DMA with AD9240 ADC",
+      "Tags": [
+        "c",
+        "embedded",
+        "stm32",
+        "microcontroller",
+        "stm32h7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772188/using-stm32h7-dcmi-dma-with-ad9240-adc"
+    },
+    {
+      "Created": "2025-09-23T03:34:04Z",
+      "Title": "Does the Copilot agent search documents and its content in the SharePoint library using its metadata column?",
+      "Tags": [
+        "microsoft-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772189/does-the-copilot-agent-search-documents-and-its-content-in-the-sharepoint-librar"
+    },
+    {
+      "Created": "2025-09-23T03:46:06Z",
+      "Title": "Is there an alternative to \u0060all\u0060 that returns Result instead of bool?",
+      "Tags": [
+        "rust",
+        "iteration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772195/is-there-an-alternative-to-all-that-returns-result-instead-of-bool"
+    },
+    {
+      "Created": "2025-09-23T04:02:01Z",
+      "Title": "How can I visualize a JSON Schema in a clear and interactive way?",
+      "Tags": [
+        "json",
+        "rest",
+        "scheme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772202/how-can-i-visualize-a-json-schema-in-a-clear-and-interactive-way"
+    }
+  ]
+}

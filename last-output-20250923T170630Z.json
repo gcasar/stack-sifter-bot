@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-23T16:57:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T16:20:52Z",
+      "Title": "Need a VBA code to automatically generate sequential unique IDs",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772846/need-a-vba-code-to-automatically-generate-sequential-unique-ids"
+    },
+    {
+      "Created": "2025-09-23T16:29:50Z",
+      "Title": "Calling into a member function of a foreign C\u002B\u002B DLL with mangled names from Python",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "windows",
+        "dll",
+        "interop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772860/calling-into-a-member-function-of-a-foreign-c-dll-with-mangled-names-from-pyth"
+    },
+    {
+      "Created": "2025-09-23T16:46:44Z",
+      "Title": "How to minimize passenger ride time in OR-Tools Vehicle Routing Problem for school bus?",
+      "Tags": [
+        "python",
+        "optimization",
+        "or-tools",
+        "constraint-programming",
+        "vehicle-routing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772875/how-to-minimize-passenger-ride-time-in-or-tools-vehicle-routing-problem-for-scho"
+    },
+    {
+      "Created": "2025-09-23T16:49:47Z",
+      "Title": "Unable to install Prefect package in pycharm",
+      "Tags": [
+        "python",
+        "pycharm",
+        "prefect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772876/unable-to-install-prefect-package-in-pycharm"
+    },
+    {
+      "Created": "2025-09-23T16:54:39Z",
+      "Title": "Magento 2.4.4 \u2194 Mautic Sync Issues (Magefan v2.1.11)",
+      "Tags": [
+        "magento2",
+        "mautic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772881/magento-2-4-4-%e2%86%94-mautic-sync-issues-magefan-v2-1-11"
+    },
+    {
+      "Created": "2025-09-23T16:57:50Z",
+      "Title": "Arguments imply differing number of rows with did_multiplegt_dyn",
+      "Tags": [
+        "r",
+        "dataframe",
+        "controls",
+        "r-package",
+        "causality"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772885/arguments-imply-differing-number-of-rows-with-did-multiplegt-dyn"
+    }
+  ]
+}

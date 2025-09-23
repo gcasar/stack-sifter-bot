@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-23T13:05:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T13:01:40Z",
+      "Title": "Get and set input value to dynamically generated input element in angular",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772635/get-and-set-input-value-to-dynamically-generated-input-element-in-angular"
+    },
+    {
+      "Created": "2025-09-23T13:02:35Z",
+      "Title": "Forcing KProperty type compiler errors [duplicate]",
+      "Tags": [
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772636/forcing-kproperty-type-compiler-errors"
+    },
+    {
+      "Created": "2025-09-23T13:05:30Z",
+      "Title": "Platform.exit() in Dialogue is not exiting JavaFX",
+      "Tags": [
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772640/platform-exit-in-dialogue-is-not-exiting-javafx"
+    }
+  ]
+}

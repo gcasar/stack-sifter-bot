@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-23T09:05:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T08:51:47Z",
+      "Title": "How to format a vocabulary list into a table using Python for Google Sheets",
+      "Tags": [
+        "python",
+        "csv",
+        "file-io",
+        "text-processing",
+        "pdfminer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772397/how-to-format-a-vocabulary-list-into-a-table-using-python-for-google-sheets"
+    },
+    {
+      "Created": "2025-09-23T08:52:49Z",
+      "Title": "J-Link connect SysView via SWD",
+      "Tags": [
+        "trace",
+        "freertos",
+        "jtag",
+        "swd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772400/j-link-connect-sysview-via-swd"
+    },
+    {
+      "Created": "2025-09-23T09:00:05Z",
+      "Title": "I get an IllegalStateException error after updating a ListView",
+      "Tags": [
+        "java",
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772406/i-get-an-illegalstateexception-error-after-updating-a-listview"
+    },
+    {
+      "Created": "2025-09-23T09:05:15Z",
+      "Title": "Merging dict with TypedDict casts dict[str,object]?",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79772410/merging-dict-with-typeddict-casts-dictstr-object"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-24T06:04:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T05:40:12Z",
+      "Title": "LangGraph agent, built using create_react_agent, ignores the outputs from callable tools",
+      "Tags": [
+        "artificial-intelligence",
+        "langchain",
+        "agent",
+        "langgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773298/langgraph-agent-built-using-create-react-agent-ignores-the-outputs-from-callab"
+    },
+    {
+      "Created": "2025-09-24T05:59:38Z",
+      "Title": "Using Envoy proxy for Redis cluster causes invalid request error with redis-cli --pipe and RESP file input",
+      "Tags": [
+        "envoyproxy",
+        "redis-cluster"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773305/using-envoy-proxy-for-redis-cluster-causes-invalid-request-error-with-redis-cli"
+    },
+    {
+      "Created": "2025-09-24T06:00:09Z",
+      "Title": "How to establish a real-time socket connection between Laravel (PHP) and Python?",
+      "Tags": [
+        "python",
+        "php",
+        "laravel",
+        "flutter",
+        "websocket"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773306/how-to-establish-a-real-time-socket-connection-between-laravel-php-and-python"
+    },
+    {
+      "Created": "2025-09-24T06:02:51Z",
+      "Title": "Kivy - kv layout doesn\u0027t update widgets injected into MainApp",
+      "Tags": [
+        "python",
+        "kivy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773307/kivy-kv-layout-doesnt-update-widgets-injected-into-mainapp"
+    },
+    {
+      "Created": "2025-09-24T06:04:37Z",
+      "Title": "Interface without Jakarta Validation Annotation for Validation in Implementation Class",
+      "Tags": [
+        "java",
+        "rest",
+        "annotations",
+        "jakarta-validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773310/interface-without-jakarta-validation-annotation-for-validation-in-implementation"
+    }
+  ]
+}

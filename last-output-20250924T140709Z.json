@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-24T14:04:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T13:19:37Z",
+      "Title": "How to control neighbor connectivity in ImageJ Analyze Particles?",
+      "Tags": [
+        "image-processing",
+        "imagej",
+        "roi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773762/how-to-control-neighbor-connectivity-in-imagej-analyze-particles"
+    },
+    {
+      "Created": "2025-09-24T13:21:54Z",
+      "Title": "I\u0027m trying to figure out how to convert a regular number into a roman numeral in C\u002B\u002B [duplicate]",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773766/im-trying-to-figure-out-how-to-convert-a-regular-number-into-a-roman-numeral-in"
+    },
+    {
+      "Created": "2025-09-24T13:48:15Z",
+      "Title": "only magnitude in corrplot()",
+      "Tags": [
+        "r",
+        "r-corrplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773810/only-magnitude-in-corrplot"
+    },
+    {
+      "Created": "2025-09-24T13:59:36Z",
+      "Title": "CSP Violation when including iframe in web page",
+      "Tags": [
+        "asp.net-mvc",
+        "web-config",
+        "content-security-policy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773829/csp-violation-when-including-iframe-in-web-page"
+    },
+    {
+      "Created": "2025-09-24T14:04:48Z",
+      "Title": "Can I impersonate a gMSA (managed service account) with LogonUser/WindowsIdentity to test folder write access?",
+      "Tags": [
+        "c#",
+        ".net",
+        "wpf",
+        "impersonation",
+        "windows-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773834/can-i-impersonate-a-gmsa-managed-service-account-with-logonuser-windowsidentit"
+    }
+  ]
+}

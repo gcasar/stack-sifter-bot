@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-24T18:00:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T17:07:14Z",
+      "Title": "Windows 11 upgrade from 10 broke my connection to our SQL server",
+      "Tags": [
+        "sql-server",
+        "excel",
+        "vba",
+        "adodb",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773995/windows-11-upgrade-from-10-broke-my-connection-to-our-sql-server"
+    },
+    {
+      "Created": "2025-09-24T17:07:29Z",
+      "Title": "Import readline while using input() in the gdb session",
+      "Tags": [
+        "python",
+        "scripting",
+        "gdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773997/import-readline-while-using-input-in-the-gdb-session"
+    },
+    {
+      "Created": "2025-09-24T17:46:57Z",
+      "Title": "Which implementation of \u0060strrchr\u0060 is better? [closed]",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774025/which-implementation-of-strrchr-is-better"
+    },
+    {
+      "Created": "2025-09-24T17:58:32Z",
+      "Title": "How to make a copy of stdout that does not close?",
+      "Tags": [
+        "python",
+        "stream",
+        "stdout",
+        "python-3.7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774032/how-to-make-a-copy-of-stdout-that-does-not-close"
+    },
+    {
+      "Created": "2025-09-24T18:00:23Z",
+      "Title": "Modeling Technique",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "statistics",
+        "artificial-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774034/modeling-technique"
+    }
+  ]
+}

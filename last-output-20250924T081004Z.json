@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-24T08:04:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T07:37:39Z",
+      "Title": "Nested table inside a TableObject cell ignores assigned width in FastReport",
+      "Tags": [
+        "c#",
+        "fastreport"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773408/nested-table-inside-a-tableobject-cell-ignores-assigned-width-in-fastreport"
+    },
+    {
+      "Created": "2025-09-24T08:03:11Z",
+      "Title": "Assembly for little-endian xtensa?",
+      "Tags": [
+        "assembly",
+        "gcc",
+        "xtensa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773431/assembly-for-little-endian-xtensa"
+    },
+    {
+      "Created": "2025-09-24T08:04:41Z",
+      "Title": "How to mimic @onblur=\u0022MethodBlur\u0022 behavior and integrate it with QuillJS editor?",
+      "Tags": [
+        "javascript",
+        "c#",
+        "quill",
+        ".net-9.0",
+        "blazor-webapp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773433/how-to-mimic-onblur-methodblur-behavior-and-integrate-it-with-quilljs-editor"
+    }
+  ]
+}

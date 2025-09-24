@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-24T00:28:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-23T23:30:14Z",
+      "Title": "Type conversion in expression may affect \u0022SeekPlan\u0022 in query plan choice",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773151/type-conversion-in-expression-may-affect-seekplan-in-query-plan-choice"
+    },
+    {
+      "Created": "2025-09-23T23:41:27Z",
+      "Title": "How to pass special chars to nodemailer?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "encoding",
+        "character-encoding",
+        "nodemailer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773160/how-to-pass-special-chars-to-nodemailer"
+    },
+    {
+      "Created": "2025-09-23T23:49:13Z",
+      "Title": "How to update AudioUnitSetProperty with URL argument for iOS 26?",
+      "Tags": [
+        "ios",
+        "swift",
+        "core-audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773165/how-to-update-audiounitsetproperty-with-url-argument-for-ios-26"
+    },
+    {
+      "Created": "2025-09-23T23:56:55Z",
+      "Title": "automatic screen recognition not working under X11 on Raspberry pi os bookworm",
+      "Tags": [
+        "raspberry-pi-os"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773169/automatic-screen-recognition-not-working-under-x11-on-raspberry-pi-os-bookworm"
+    },
+    {
+      "Created": "2025-09-24T00:02:01Z",
+      "Title": "Why does dialog\u0027s returnValue show old value when it is cancelled with by pressing Esc on Firefox?",
+      "Tags": [
+        "javascript",
+        "html",
+        "modal-dialog",
+        "return-value"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773171/why-does-dialogs-returnvalue-show-old-value-when-it-is-cancelled-with-by-pressi"
+    },
+    {
+      "Created": "2025-09-24T00:09:47Z",
+      "Title": "Helm Chart: Iteration doesn\u0027t work for scalar blocks",
+      "Tags": [
+        "kubernetes-helm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773174/helm-chart-iteration-doesnt-work-for-scalar-blocks"
+    },
+    {
+      "Created": "2025-09-24T00:20:54Z",
+      "Title": "Modify JavaScript class for all future instances",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773179/modify-javascript-class-for-all-future-instances"
+    },
+    {
+      "Created": "2025-09-24T00:28:42Z",
+      "Title": "How to read text from an attached PDF to a Salesforce Opportunity using Copado Robotic Testing?",
+      "Tags": [
+        "browser",
+        "automation",
+        "automated-tests",
+        "ui-automation",
+        "build-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773181/how-to-read-text-from-an-attached-pdf-to-a-salesforce-opportunity-using-copado-r"
+    }
+  ]
+}

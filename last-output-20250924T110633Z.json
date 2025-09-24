@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-24T10:44:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T10:09:12Z",
+      "Title": "This program with inline assembly works in CLANG with optimization enabled but does not work in GCC. Does GCC ignore \u0060volatile\u0060 on global variables? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "x86-64",
+        "inline-assembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773570/this-program-with-inline-assembly-works-in-clang-with-optimization-enabled-but-d"
+    },
+    {
+      "Created": "2025-09-24T10:36:34Z",
+      "Title": "Is there anything like \u0060tail -f\u0060 but that can follow multiple files and show which file each line came from?",
+      "Tags": [
+        "c",
+        "linux",
+        "bash",
+        "command-line",
+        "tail"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773605/is-there-anything-like-tail-f-but-that-can-follow-multiple-files-and-show-whi"
+    },
+    {
+      "Created": "2025-09-24T10:38:41Z",
+      "Title": "C\u002B\u002B acess vector datatable editing, check value exist",
+      "Tags": [
+        "c\u002B\u002B",
+        "vector",
+        "indexing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773613/c-acess-vector-datatable-editing-check-value-exist"
+    },
+    {
+      "Created": "2025-09-24T10:44:43Z",
+      "Title": "How to allocate and set specific elements in an array in c",
+      "Tags": [
+        "arrays",
+        "c",
+        "malloc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773618/how-to-allocate-and-set-specific-elements-in-an-array-in-c"
+    }
+  ]
+}

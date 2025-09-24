@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-24T10:06:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T09:58:53Z",
+      "Title": "Remapping side keys in bluetooth mouse (Ubuntu, Wayland)",
+      "Tags": [
+        "mouseevent",
+        "wayland"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773556/remapping-side-keys-in-bluetooth-mouse-ubuntu-wayland"
+    },
+    {
+      "Created": "2025-09-24T09:59:20Z",
+      "Title": "Spring Boot \u002B JdbcTemplate: Large Oracle CLOB streaming breaks connection with ORA-17002 / SQLSTATE 08006",
+      "Tags": [
+        "oracle-database",
+        "spring-boot",
+        "streaming",
+        "hikaricp",
+        "clob"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773559/spring-boot-jdbctemplate-large-oracle-clob-streaming-breaks-connection-with-o"
+    },
+    {
+      "Created": "2025-09-24T10:03:22Z",
+      "Title": "Accessing Variables from a Prototype function",
+      "Tags": [
+        "javascript",
+        "prototype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773562/accessing-variables-from-a-prototype-function"
+    },
+    {
+      "Created": "2025-09-24T10:05:35Z",
+      "Title": "How to create an opacity with mask with rectangular gradient in AvaloniaUI (.axaml)?",
+      "Tags": [
+        "avaloniaui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773564/how-to-create-an-opacity-with-mask-with-rectangular-gradient-in-avaloniaui-axa"
+    },
+    {
+      "Created": "2025-09-24T10:06:31Z",
+      "Title": "how to replace basecolor imge in a psd file",
+      "Tags": [
+        "jsx",
+        "photoshop",
+        "psd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773565/how-to-replace-basecolor-imge-in-a-psd-file"
+    },
+    {
+      "Created": "2025-09-24T10:06:54Z",
+      "Title": "PromQL query to Count and group in Grafana",
+      "Tags": [
+        "grafana",
+        "promql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773567/promql-query-to-count-and-group-in-grafana"
+    }
+  ]
+}

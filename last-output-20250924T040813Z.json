@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-24T03:48:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T03:32:14Z",
+      "Title": "How do I make an HTML page that properly reads a json and displays it [duplicate]",
+      "Tags": [
+        "javascript",
+        "html",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773235/how-do-i-make-an-html-page-that-properly-reads-a-json-and-displays-it"
+    },
+    {
+      "Created": "2025-09-24T03:38:54Z",
+      "Title": "MudBlazor MudTable OnRowClick Event - examples in documentation don\u0027t work",
+      "Tags": [
+        "events",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773239/mudblazor-mudtable-onrowclick-event-examples-in-documentation-dont-work"
+    },
+    {
+      "Created": "2025-09-24T03:39:58Z",
+      "Title": "C\u002B\u002B: Using QtCreator on macOS without XCode",
+      "Tags": [
+        "c\u002B\u002B",
+        "xcode",
+        "zsh",
+        "qt-creator",
+        "macos-sonoma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773242/c-using-qtcreator-on-macos-without-xcode"
+    },
+    {
+      "Created": "2025-09-24T03:48:34Z",
+      "Title": "React \u002B Capacitor Android app cannot reach local Node backend over HTTP, but browser",
+      "Tags": [
+        "android",
+        "reactjs",
+        "android-studio",
+        "frontend",
+        "capacitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773249/react-capacitor-android-app-cannot-reach-local-node-backend-over-http-but-bro"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-24T19:03:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T18:55:08Z",
+      "Title": "Get a Tk widget\u0027s associated CGContext",
+      "Tags": [
+        "c",
+        "macos",
+        "cocoa",
+        "tcl",
+        "tk-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774074/get-a-tk-widgets-associated-cgcontext"
+    },
+    {
+      "Created": "2025-09-24T19:02:06Z",
+      "Title": "How to switch from CocoaPods to Swift Package Manager in a Kotlin Multiplatform (KMP) project to use Google Maps?",
+      "Tags": [
+        "ios",
+        "swift",
+        "kotlin",
+        "cocoapods",
+        "kotlin-multiplatform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774081/how-to-switch-from-cocoapods-to-swift-package-manager-in-a-kotlin-multiplatform"
+    },
+    {
+      "Created": "2025-09-24T19:03:33Z",
+      "Title": "WITHOUT \u0060NULL\u0060 ANY syntax no longer works after upgrading Apache IoTDB from 0.13 to 1.3.4 - How to filter rows with \u0060null\u0060 values?",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774082/without-null-any-syntax-no-longer-works-after-upgrading-apache-iotdb-from-0-13"
+    }
+  ]
+}

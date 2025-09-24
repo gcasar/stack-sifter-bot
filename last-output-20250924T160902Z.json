@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-24T16:06:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T15:50:29Z",
+      "Title": "How can I fix my Git merge that I broke by interrupting it in the middle of said merge?",
+      "Tags": [
+        "git",
+        "git-merge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773938/how-can-i-fix-my-git-merge-that-i-broke-by-interrupting-it-in-the-middle-of-said"
+    },
+    {
+      "Created": "2025-09-24T15:53:02Z",
+      "Title": "withObservationTracking Between Two Observable Objects",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773940/withobservationtracking-between-two-observable-objects"
+    },
+    {
+      "Created": "2025-09-24T16:00:50Z",
+      "Title": "Installation \u0026 setup questions for VS code, miniforge, and python",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773951/installation-setup-questions-for-vs-code-miniforge-and-python"
+    },
+    {
+      "Created": "2025-09-24T16:01:21Z",
+      "Title": "Question regarding branch and bound algorithm for finding critical DFA\u0027s",
+      "Tags": [
+        "algorithm",
+        "implementation",
+        "automata",
+        "finite-automata",
+        "automata-theory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773952/question-regarding-branch-and-bound-algorithm-for-finding-critical-dfas"
+    },
+    {
+      "Created": "2025-09-24T16:06:08Z",
+      "Title": "Get *all* columns from an SQLAlchemy model\u0027s underlying table, including those that aren\u0027t mapped",
+      "Tags": [
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773954/get-all-columns-from-an-sqlalchemy-models-underlying-table-including-those-t"
+    }
+  ]
+}

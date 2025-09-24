@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-24T04:58:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T04:43:32Z",
+      "Title": "How to check if Elementor Atomic Elements are enabled in PHP?",
+      "Tags": [
+        "wordpress",
+        "elementor",
+        "wordpress-rest-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773266/how-to-check-if-elementor-atomic-elements-are-enabled-in-php"
+    },
+    {
+      "Created": "2025-09-24T04:53:03Z",
+      "Title": "iOS subscriptions: Allow purchase of two separate subscriptions OR upgrade to both",
+      "Tags": [
+        "ios",
+        "subscription"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773273/ios-subscriptions-allow-purchase-of-two-separate-subscriptions-or-upgrade-to-bo"
+    },
+    {
+      "Created": "2025-09-24T04:58:01Z",
+      "Title": "How to make dynamic meta tags work with social media crawlers in React dynamic routes?",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773276/how-to-make-dynamic-meta-tags-work-with-social-media-crawlers-in-react-dynamic-r"
+    }
+  ]
+}

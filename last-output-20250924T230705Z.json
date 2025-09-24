@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-24T23:02:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T22:07:12Z",
+      "Title": "table Style in VS code",
+      "Tags": [
+        "visual-studio-code",
+        "jupyter-notebook",
+        "data-science-experience"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774223/table-style-in-vs-code"
+    },
+    {
+      "Created": "2025-09-24T22:22:40Z",
+      "Title": "How do I stop Visual Studio 2022 from breaking on CAUGHT exceptions?",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774230/how-do-i-stop-visual-studio-2022-from-breaking-on-caught-exceptions"
+    },
+    {
+      "Created": "2025-09-24T22:34:55Z",
+      "Title": "Accessing json with various key names in python",
+      "Tags": [
+        "python",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774236/accessing-json-with-various-key-names-in-python"
+    },
+    {
+      "Created": "2025-09-24T23:02:55Z",
+      "Title": "Can you use a pointer representing a virtual object as the key in bsearch?",
+      "Tags": [
+        "c",
+        "c23",
+        "bsearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774248/can-you-use-a-pointer-representing-a-virtual-object-as-the-key-in-bsearch"
+    }
+  ]
+}

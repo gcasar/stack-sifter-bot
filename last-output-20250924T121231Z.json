@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-24T12:06:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T11:06:00Z",
+      "Title": "Does \u0022cmd | getline\u0022 have a limit for the passed data?",
+      "Tags": [
+        "macos",
+        "awk",
+        "macos-ventura"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773634/does-cmd-getline-have-a-limit-for-the-passed-data"
+    },
+    {
+      "Created": "2025-09-24T11:25:40Z",
+      "Title": "Can\u0027t run cursor in PostgreSQL",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773654/cant-run-cursor-in-postgresql"
+    },
+    {
+      "Created": "2025-09-24T11:57:40Z",
+      "Title": "How do you decode a JSON boolean to a Perl boolean?",
+      "Tags": [
+        "json",
+        "perl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773680/how-do-you-decode-a-json-boolean-to-a-perl-boolean"
+    },
+    {
+      "Created": "2025-09-24T11:58:53Z",
+      "Title": "Is it possible to access USB video cameras from the VSCode extension?",
+      "Tags": [
+        "visual-studio-code",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773683/is-it-possible-to-access-usb-video-cameras-from-the-vscode-extension"
+    },
+    {
+      "Created": "2025-09-24T12:06:38Z",
+      "Title": "Building a Python extension with a local C\u002B\u002B library dependency using setuptools and build",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "setuptools",
+        "python-c-api",
+        "pyproject.toml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773690/building-a-python-extension-with-a-local-c-library-dependency-using-setuptools"
+    }
+  ]
+}

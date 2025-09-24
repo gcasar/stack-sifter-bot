@@ -1,0 +1,99 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-24T15:03:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T14:09:17Z",
+      "Title": "A timeout problem in a number guessing game",
+      "Tags": [
+        "c\u002B\u002B",
+        "while-loop",
+        "timeout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773838/a-timeout-problem-in-a-number-guessing-game"
+    },
+    {
+      "Created": "2025-09-24T14:16:04Z",
+      "Title": "React Router : How to navigate from a table \u201CView\u201D button and pass an id to the detail component?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "axios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773845/react-router-how-to-navigate-from-a-table-view-button-and-pass-an-id-to-the"
+    },
+    {
+      "Created": "2025-09-24T14:44:06Z",
+      "Title": "Spring boot 3.4 app not respecting hikari max conn pool limit",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "hikaricp",
+        "oracle19c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773877/spring-boot-3-4-app-not-respecting-hikari-max-conn-pool-limit"
+    },
+    {
+      "Created": "2025-09-24T14:56:43Z",
+      "Title": "UUID Fails and I am Getting an Invalid Token Error",
+      "Tags": [
+        "javascript",
+        "uuid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773886/uuid-fails-and-i-am-getting-an-invalid-token-error"
+    },
+    {
+      "Created": "2025-09-24T14:58:16Z",
+      "Title": "How do I fetch ACF custom fields via REST API in a custom WordPress theme?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "rest",
+        "advanced-custom-fields",
+        "custom-fields"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773890/how-do-i-fetch-acf-custom-fields-via-rest-api-in-a-custom-wordpress-theme"
+    },
+    {
+      "Created": "2025-09-24T15:00:25Z",
+      "Title": "What are efficient ways to remove bias in AI models used for recruitment? [closed]",
+      "Tags": [
+        "machine-learning",
+        "artificial-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773892/what-are-efficient-ways-to-remove-bias-in-ai-models-used-for-recruitment"
+    },
+    {
+      "Created": "2025-09-24T15:02:02Z",
+      "Title": "Tuples index when using Ellipsis in a numpy array",
+      "Tags": [
+        "python",
+        "numpy",
+        "tuples"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773893/tuples-index-when-using-ellipsis-in-a-numpy-array"
+    },
+    {
+      "Created": "2025-09-24T15:02:46Z",
+      "Title": "How to dynamically override all Bootstrap 5 primary/secondary colors at runtime in Angular without rebuilding SCSS?",
+      "Tags": [
+        "css",
+        "angular",
+        "sass",
+        "bootstrap-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773894/how-to-dynamically-override-all-bootstrap-5-primary-secondary-colors-at-runtime"
+    },
+    {
+      "Created": "2025-09-24T15:03:33Z",
+      "Title": "Nginx on Windows (OnlyOffice DocumentServer): X-Frame-Options: DENY appears on / redirect but not on /welcome/ \u2014 how to remove DENY?",
+      "Tags": [
+        "nginx",
+        "iframe",
+        "x-frame-options",
+        "onlyoffice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773895/nginx-on-windows-onlyoffice-documentserver-x-frame-options-deny-appears-on"
+    }
+  ]
+}

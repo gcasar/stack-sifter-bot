@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-24T21:05:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T20:17:18Z",
+      "Title": "How Does getopt() function exactly work in C?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774134/how-does-getopt-function-exactly-work-in-c"
+    },
+    {
+      "Created": "2025-09-24T20:36:15Z",
+      "Title": "What is making my class properties main actor isolated?",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774151/what-is-making-my-class-properties-main-actor-isolated"
+    },
+    {
+      "Created": "2025-09-24T20:55:58Z",
+      "Title": "How to specify component ancestors in a pom.xml?",
+      "Tags": [
+        "java",
+        "pom.xml",
+        "owasp",
+        "sbom",
+        "cyclonedx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774179/how-to-specify-component-ancestors-in-a-pom-xml"
+    },
+    {
+      "Created": "2025-09-24T20:56:27Z",
+      "Title": "Grails 2.5.6 - \u0022Method on class was used outside of a Grails application\u0022 error",
+      "Tags": [
+        "groovy",
+        "grails",
+        "grails-controller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774180/grails-2-5-6-method-on-class-was-used-outside-of-a-grails-application-error"
+    },
+    {
+      "Created": "2025-09-24T20:59:18Z",
+      "Title": "WebSupergoo AbcPDF 13",
+      "Tags": [
+        "asp.net",
+        "windows",
+        "pdf",
+        "abcpdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774185/websupergoo-abcpdf-13"
+    },
+    {
+      "Created": "2025-09-24T21:05:22Z",
+      "Title": "How to get react \u002B capacitor app to run on http instead of https?",
+      "Tags": [
+        "android",
+        "reactjs",
+        "http",
+        "https",
+        "capacitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774189/how-to-get-react-capacitor-app-to-run-on-http-instead-of-https"
+    }
+  ]
+}

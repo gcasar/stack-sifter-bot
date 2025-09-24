@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-24T21:58:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T21:31:19Z",
+      "Title": "How to select rows of a data.table using a vector when vector name and column name are the same?",
+      "Tags": [
+        "r",
+        "data.table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774204/how-to-select-rows-of-a-data-table-using-a-vector-when-vector-name-and-column-na"
+    },
+    {
+      "Created": "2025-09-24T21:35:59Z",
+      "Title": "How to force footer component to re-render?",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774207/how-to-force-footer-component-to-re-render"
+    },
+    {
+      "Created": "2025-09-24T21:58:17Z",
+      "Title": "How should I be storing types before sending custom Json data to DynamoDB",
+      "Tags": [
+        "json",
+        "amazon-web-services",
+        "amazon-dynamodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774221/how-should-i-be-storing-types-before-sending-custom-json-data-to-dynamodb"
+    }
+  ]
+}

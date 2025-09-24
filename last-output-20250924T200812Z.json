@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-24T20:04:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T19:37:50Z",
+      "Title": "CMakeLists with PRIVATE linkage, include cannot be found",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774098/cmakelists-with-private-linkage-include-cannot-be-found"
+    },
+    {
+      "Created": "2025-09-24T19:55:27Z",
+      "Title": "libreact_featureflagsjni.so Not Found \u2013 React Native App Crashes on Startup",
+      "Tags": [
+        "android",
+        "react-native",
+        "expo",
+        "crash",
+        "16kb-page-size"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774115/libreact-featureflagsjni-so-not-found-react-native-app-crashes-on-startup"
+    },
+    {
+      "Created": "2025-09-24T19:56:28Z",
+      "Title": "Getting element using re.compile with bs4?",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "beautifulsoup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774117/getting-element-using-re-compile-with-bs4"
+    },
+    {
+      "Created": "2025-09-24T20:01:17Z",
+      "Title": "Is kotlin coroutine Job\u0027s status is reliable for concurrency control?",
+      "Tags": [
+        "kotlin-coroutines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774121/is-kotlin-coroutine-jobs-status-is-reliable-for-concurrency-control"
+    },
+    {
+      "Created": "2025-09-24T20:04:37Z",
+      "Title": "How to verify extracted road length data (primary, secondary, tertiary roads) from Open street map(OSM) with real maps?",
+      "Tags": [
+        "openstreetmap",
+        "verification",
+        "osmnx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774125/how-to-verify-extracted-road-length-data-primary-secondary-tertiary-roads-fr"
+    }
+  ]
+}

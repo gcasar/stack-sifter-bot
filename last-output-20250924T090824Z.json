@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-24T09:05:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T08:47:31Z",
+      "Title": "Guidance Request: Predicting Clinker Quality (Free Lime - FCaO) with Machine Learning from Raw Mix Chemistry and Process Parameters [closed]",
+      "Tags": [
+        "machine-learning",
+        "model",
+        "prediction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773484/guidance-request-predicting-clinker-quality-free-lime-fcao-with-machine-lea"
+    },
+    {
+      "Created": "2025-09-24T08:54:22Z",
+      "Title": "MUI elements overlapping react-smart-print PDF footer",
+      "Tags": [
+        "reactjs",
+        "material-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773487/mui-elements-overlapping-react-smart-print-pdf-footer"
+    },
+    {
+      "Created": "2025-09-24T08:57:45Z",
+      "Title": "How to delete .git blob?",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773488/how-to-delete-git-blob"
+    },
+    {
+      "Created": "2025-09-24T09:00:40Z",
+      "Title": "How to add Signature Policy and Signer Role to XAdES-B Signature with DSS Java Library?",
+      "Tags": [
+        "java",
+        "xml",
+        "digital-signature",
+        "xades"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773489/how-to-add-signature-policy-and-signer-role-to-xades-b-signature-with-dss-java-l"
+    },
+    {
+      "Created": "2025-09-24T09:03:03Z",
+      "Title": "understanding socket() function args (c programming)",
+      "Tags": [
+        "c",
+        "sockets",
+        "network-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773491/understanding-socket-function-args-c-programming"
+    },
+    {
+      "Created": "2025-09-24T09:05:44Z",
+      "Title": "Flutter in_app_purchase (iOS) \u2013 intercept before StoreKit sheet, detect UPI cancellations, and handle event timing",
+      "Tags": [
+        "ios",
+        "flutter",
+        "dart",
+        "in-app-purchase",
+        "payment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773494/flutter-in-app-purchase-ios-intercept-before-storekit-sheet-detect-upi-canc"
+    }
+  ]
+}

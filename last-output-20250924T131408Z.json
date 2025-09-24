@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-24T13:08:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-24T12:44:52Z",
+      "Title": "Google Sheets - Range selection and clear script not working",
+      "Tags": [
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773725/google-sheets-range-selection-and-clear-script-not-working"
+    },
+    {
+      "Created": "2025-09-24T12:57:07Z",
+      "Title": "What if we connect 2 databases with one program will it opens connection on both if one is called?",
+      "Tags": [
+        "server",
+        "connection",
+        "max",
+        "limit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773733/what-if-we-connect-2-databases-with-one-program-will-it-opens-connection-on-both"
+    },
+    {
+      "Created": "2025-09-24T13:06:50Z",
+      "Title": "Langchain: How to let an AgentExecutor Propagate RunnableConfig[\u0022configurable\u0022] to @tool?",
+      "Tags": [
+        "py-langchain",
+        "langchain-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773741/langchain-how-to-let-an-agentexecutor-propagate-runnableconfigconfigurable"
+    },
+    {
+      "Created": "2025-09-24T13:07:29Z",
+      "Title": "Restricting Gemini Web Search to a Single Domain \u2013 Possible?",
+      "Tags": [
+        "google-api",
+        "openai-api",
+        "gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773742/restricting-gemini-web-search-to-a-single-domain-possible"
+    },
+    {
+      "Created": "2025-09-24T13:07:38Z",
+      "Title": "What connector can be used for Google Cloud pubsub along with Cloud dataproc ( Spark 3.5.x )",
+      "Tags": [
+        "apache-spark",
+        "google-cloud-pubsub",
+        "google-cloud-dataproc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773743/what-connector-can-be-used-for-google-cloud-pubsub-along-with-cloud-dataproc-s"
+    },
+    {
+      "Created": "2025-09-24T13:08:09Z",
+      "Title": "Graceful shutdown of Ktor (Koin) server",
+      "Tags": [
+        "ktor",
+        "koin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773744/graceful-shutdown-of-ktor-koin-server"
+    },
+    {
+      "Created": "2025-09-24T13:08:40Z",
+      "Title": "How can I force EF6 to create a test database from the current model, bypassing migrations?",
+      "Tags": [
+        "c#",
+        "mysql",
+        "unit-testing",
+        "entity-framework-6",
+        "integration-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79773747/how-can-i-force-ef6-to-create-a-test-database-from-the-current-model-bypassing"
+    }
+  ]
+}

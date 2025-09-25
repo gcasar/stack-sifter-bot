@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-25T10:05:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T09:20:01Z",
+      "Title": "Calculated font size returns smaller than div height",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "font-size"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774623/calculated-font-size-returns-smaller-than-div-height"
+    },
+    {
+      "Created": "2025-09-25T09:50:23Z",
+      "Title": "How to mock HttpPostedFile in ASP.NET",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "asp.net-mvc-4",
+        "moq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774650/how-to-mock-httppostedfile-in-asp-net"
+    },
+    {
+      "Created": "2025-09-25T09:50:49Z",
+      "Title": "How to append each line of a file to the corresponding line of another file?",
+      "Tags": [
+        "bash",
+        "sed",
+        "sh",
+        "zsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774651/how-to-append-each-line-of-a-file-to-the-corresponding-line-of-another-file"
+    },
+    {
+      "Created": "2025-09-25T09:51:12Z",
+      "Title": "mat-select option stays open after click (blur not triggered?)",
+      "Tags": [
+        "angular",
+        "angular-material",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774653/mat-select-option-stays-open-after-click-blur-not-triggered"
+    },
+    {
+      "Created": "2025-09-25T09:58:16Z",
+      "Title": "Is it possible to make the output of gtsummary in TXT format as complete as it is in RTF format?",
+      "Tags": [
+        "gtsummary",
+        "r-flextable",
+        "huxtable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774658/is-it-possible-to-make-the-output-of-gtsummary-in-txt-format-as-complete-as-it-i"
+    },
+    {
+      "Created": "2025-09-25T10:04:15Z",
+      "Title": "Getting Error: It looks like you are using Playwright Sync API inside the asyncio loop. Please use the Async API instead",
+      "Tags": [
+        "python",
+        "playwright",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774667/getting-error-it-looks-like-you-are-using-playwright-sync-api-inside-the-asynci"
+    },
+    {
+      "Created": "2025-09-25T10:05:11Z",
+      "Title": "How can I modify this C code for ordinal patterns (used in R) to print intermediate results for debugging?",
+      "Tags": [
+        "r",
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774668/how-can-i-modify-this-c-code-for-ordinal-patterns-used-in-r-to-print-intermedi"
+    }
+  ]
+}

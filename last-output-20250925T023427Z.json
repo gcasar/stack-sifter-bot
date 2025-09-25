@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-25T02:18:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T01:42:10Z",
+      "Title": "Assuming the Distance (i)",
+      "Tags": [
+        "arrays",
+        "algorithm",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774306/assuming-the-distance-i"
+    },
+    {
+      "Created": "2025-09-25T02:00:03Z",
+      "Title": "Why does PIL Image use inverse of affine transformation matrix as argument?",
+      "Tags": [
+        "graphics",
+        "python-imaging-library",
+        "affinetransform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774314/why-does-pil-image-use-inverse-of-affine-transformation-matrix-as-argument"
+    },
+    {
+      "Created": "2025-09-25T02:18:53Z",
+      "Title": "Databricks Cleanroom: Does Invited Collaborator have capability to adjust Timeout Error Timer?",
+      "Tags": [
+        "python",
+        "pandas",
+        "pyspark",
+        "databricks",
+        "azure-databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774320/databricks-cleanroom-does-invited-collaborator-have-capability-to-adjust-timeou"
+    }
+  ]
+}

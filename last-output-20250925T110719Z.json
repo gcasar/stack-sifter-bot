@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-25T11:01:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T10:08:32Z",
+      "Title": "Nginx proxy pass with application redirect",
+      "Tags": [
+        "nginx",
+        "reverse-proxy",
+        "nginx-reverse-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774672/nginx-proxy-pass-with-application-redirect"
+    },
+    {
+      "Created": "2025-09-25T10:48:45Z",
+      "Title": "Keyboard Shortcut to collapse (un-collapse) the code outline in VSCode",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774707/keyboard-shortcut-to-collapse-un-collapse-the-code-outline-in-vscode"
+    },
+    {
+      "Created": "2025-09-25T10:55:08Z",
+      "Title": "Converting an OpenCV mat to a JavaFX image not working when using ByteBuffer and PixelFormat",
+      "Tags": [
+        "java",
+        "image",
+        "opencv",
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774713/converting-an-opencv-mat-to-a-javafx-image-not-working-when-using-bytebuffer-and"
+    },
+    {
+      "Created": "2025-09-25T10:56:26Z",
+      "Title": "Verify Google enterprise recaptcha in a C# web project, using GoogleCredential from a json string",
+      "Tags": [
+        "c#",
+        ".net-4.8",
+        "recaptcha-enterprise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774714/verify-google-enterprise-recaptcha-in-a-c-sharp-web-project-using-googlecredent"
+    },
+    {
+      "Created": "2025-09-25T11:01:28Z",
+      "Title": "I\u2019m getting the following error when trying to use the \u0060shared_preferences\u0060 package in a Flutter desktop app (with multiple windows /secondary engine)",
+      "Tags": [
+        "flutter",
+        "injectable",
+        "flutter-sharedpreference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774719/i-m-getting-the-following-error-when-trying-to-use-the-shared-preferences-pack"
+    }
+  ]
+}

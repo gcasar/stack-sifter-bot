@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-25T16:55:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T16:19:01Z",
+      "Title": "Ansible platform to pass variable into python script",
+      "Tags": [
+        "ansible",
+        "ansible-automation-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775086/ansible-platform-to-pass-variable-into-python-script"
+    },
+    {
+      "Created": "2025-09-25T16:55:37Z",
+      "Title": "How do services like Otter.ai programmatically join Google Meet without browser automation?",
+      "Tags": [
+        "javascript",
+        "google-chrome",
+        "automation",
+        "bots",
+        "video-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775117/how-do-services-like-otter-ai-programmatically-join-google-meet-without-browser"
+    },
+    {
+      "Created": "2025-09-25T16:55:56Z",
+      "Title": "Password reset link is not clickable ( NodeJs \u002B Nodemailer \u002B Flutter )",
+      "Tags": [
+        "node.js",
+        "flutter",
+        "deep-linking",
+        "nodemailer",
+        "reset-password"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775119/password-reset-link-is-not-clickable-nodejs-nodemailer-flutter"
+    }
+  ]
+}

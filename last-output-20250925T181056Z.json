@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-25T18:08:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T17:06:46Z",
+      "Title": "How to launch a Windows process separate from the current terminal session?",
+      "Tags": [
+        "windows",
+        "git-bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775123/how-to-launch-a-windows-process-separate-from-the-current-terminal-session"
+    },
+    {
+      "Created": "2025-09-25T17:53:57Z",
+      "Title": "Why does ffmpeg not produce data in a NodeJS child_process?",
+      "Tags": [
+        "node.js",
+        "ffmpeg",
+        "child-process",
+        "output-buffering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775159/why-does-ffmpeg-not-produce-data-in-a-nodejs-child-process"
+    },
+    {
+      "Created": "2025-09-25T17:54:31Z",
+      "Title": "Why does cld() in emmeans switch Tukey to Sidak when comparing adjusted means?",
+      "Tags": [
+        "r",
+        "emmeans",
+        "tukey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775160/why-does-cld-in-emmeans-switch-tukey-to-sidak-when-comparing-adjusted-means"
+    },
+    {
+      "Created": "2025-09-25T17:56:48Z",
+      "Title": "Why am I getting this Razor Type error in my Blazor Server Project?",
+      "Tags": [
+        ".net-core",
+        "razor",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775164/why-am-i-getting-this-razor-type-error-in-my-blazor-server-project"
+    },
+    {
+      "Created": "2025-09-25T17:57:10Z",
+      "Title": "How can I run JavaScript code in VS Code?",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775165/how-can-i-run-javascript-code-in-vs-code"
+    },
+    {
+      "Created": "2025-09-25T18:02:54Z",
+      "Title": "How to enforce type constraints on generic types at runtime beyond standard type hints?",
+      "Tags": [
+        "python",
+        "generics",
+        "type-hinting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775169/how-to-enforce-type-constraints-on-generic-types-at-runtime-beyond-standard-type"
+    },
+    {
+      "Created": "2025-09-25T18:06:40Z",
+      "Title": "Why does VS Code launch in \u0022URL Handler\u0022 mode on my Linux system?",
+      "Tags": [
+        "linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775176/why-does-vs-code-launch-in-url-handler-mode-on-my-linux-system"
+    },
+    {
+      "Created": "2025-09-25T18:08:49Z",
+      "Title": "MassTransit Exponential Retry doesn\u0027t work",
+      "Tags": [
+        "c#",
+        ".net",
+        "rabbitmq",
+        "masstransit",
+        "consumer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775179/masstransit-exponential-retry-doesnt-work"
+    }
+  ]
+}

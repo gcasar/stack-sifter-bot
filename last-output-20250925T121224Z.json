@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-25T12:09:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T11:49:50Z",
+      "Title": "Lexer Challenge on New Markup Lang",
+      "Tags": [
+        "antlr",
+        "antlr4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774774/lexer-challenge-on-new-markup-lang"
+    },
+    {
+      "Created": "2025-09-25T11:57:59Z",
+      "Title": "How do I get a blending mode to apply to my ScrollView while not affecting the background on latest SwiftUI?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774779/how-do-i-get-a-blending-mode-to-apply-to-my-scrollview-while-not-affecting-the-b"
+    },
+    {
+      "Created": "2025-09-25T12:01:06Z",
+      "Title": "How to embed a video sequence in another with Manim?",
+      "Tags": [
+        "embed",
+        "manim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774781/how-to-embed-a-video-sequence-in-another-with-manim"
+    },
+    {
+      "Created": "2025-09-25T12:04:41Z",
+      "Title": "Why removing new_alien.x = x_position causes the system to create fewer ships in 13.4.1?",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774784/why-removing-new-alien-x-x-position-causes-the-system-to-create-fewer-ships-in"
+    },
+    {
+      "Created": "2025-09-25T12:06:12Z",
+      "Title": "Is it possible to collect code coverage for a shared library (.so) without using an executable file in LLVM?",
+      "Tags": [
+        "android",
+        "clang",
+        "code-coverage",
+        "test-coverage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774785/is-it-possible-to-collect-code-coverage-for-a-shared-library-so-without-using"
+    },
+    {
+      "Created": "2025-09-25T12:06:27Z",
+      "Title": "How to detect if a widget starts under the AppBar or below it in Flutter?",
+      "Tags": [
+        "flutter",
+        "flutter-appbar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774786/how-to-detect-if-a-widget-starts-under-the-appbar-or-below-it-in-flutter"
+    },
+    {
+      "Created": "2025-09-25T12:07:49Z",
+      "Title": "legendry::guide_axis_nested instead of ggh4x text only shows below line",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "ggh4x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774787/legendryguide-axis-nested-instead-of-ggh4x-text-only-shows-below-line"
+    },
+    {
+      "Created": "2025-09-25T12:08:35Z",
+      "Title": "Print Support App | How to register print support extension background task",
+      "Tags": [
+        "printing",
+        "uwp",
+        "background",
+        "background-task",
+        "appx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774789/print-support-app-how-to-register-print-support-extension-background-task"
+    },
+    {
+      "Created": "2025-09-25T12:09:27Z",
+      "Title": "Trying to implement drag and drop in my React project via my Kanban component",
+      "Tags": [
+        "typescript",
+        "drag-and-drop",
+        "react-tsx",
+        "kanban",
+        "dnd-kit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774790/trying-to-implement-drag-and-drop-in-my-react-project-via-my-kanban-component"
+    }
+  ]
+}

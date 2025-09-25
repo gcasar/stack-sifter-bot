@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-25T04:02:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T03:26:53Z",
+      "Title": "Neovim with LaTeX, changed tabstop and shiftwidth leads to error while indenting in .tex files",
+      "Tags": [
+        "neovim",
+        "neovim-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774333/neovim-with-latex-changed-tabstop-and-shiftwidth-leads-to-error-while-indenting"
+    },
+    {
+      "Created": "2025-09-25T03:41:59Z",
+      "Title": "Does a global \u0060vi.mock\u0060 interfere with other test files",
+      "Tags": [
+        "reactjs",
+        "vitest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774339/does-a-global-vi-mock-interfere-with-other-test-files"
+    },
+    {
+      "Created": "2025-09-25T03:42:20Z",
+      "Title": "Problem in my code sending range of cells to outlook using vba",
+      "Tags": [
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774340/problem-in-my-code-sending-range-of-cells-to-outlook-using-vba"
+    },
+    {
+      "Created": "2025-09-25T03:56:30Z",
+      "Title": "How to see events and reports in GA4 only from the one app source",
+      "Tags": [
+        "firebase",
+        "google-analytics",
+        "crashlytics",
+        "google-analytics-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774343/how-to-see-events-and-reports-in-ga4-only-from-the-one-app-source"
+    },
+    {
+      "Created": "2025-09-25T04:01:34Z",
+      "Title": "pyautogui having trouble finding the given image",
+      "Tags": [
+        "python",
+        "pyautogui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774345/pyautogui-having-trouble-finding-the-given-image"
+    },
+    {
+      "Created": "2025-09-25T04:02:01Z",
+      "Title": "Extract \u0026 coalesce deeply nested values that may not exist using Polars for Python",
+      "Tags": [
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774346/extract-coalesce-deeply-nested-values-that-may-not-exist-using-polars-for-pyth"
+    }
+  ]
+}

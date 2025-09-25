@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-25T01:24:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T00:43:23Z",
+      "Title": "Optimizing ps1 Script that deletes files/folders",
+      "Tags": [
+        "optimization",
+        "powershell-4.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774285/optimizing-ps1-script-that-deletes-files-folders"
+    },
+    {
+      "Created": "2025-09-25T00:50:32Z",
+      "Title": "Running flake8 linter in JupyterLab, getting E303 false positives",
+      "Tags": [
+        "python",
+        "jupyter-notebook",
+        "flake8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774289/running-flake8-linter-in-jupyterlab-getting-e303-false-positives"
+    },
+    {
+      "Created": "2025-09-25T00:53:21Z",
+      "Title": "Why does a default list argument keep growing between function calls in Python? [duplicate]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774291/why-does-a-default-list-argument-keep-growing-between-function-calls-in-python"
+    },
+    {
+      "Created": "2025-09-25T00:55:16Z",
+      "Title": "How to create a CQ to aggregate data over a fixed daily \u0060time\u0060 window in Apache IoTDB?",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774292/how-to-create-a-cq-to-aggregate-data-over-a-fixed-daily-time-window-in-apache"
+    },
+    {
+      "Created": "2025-09-25T00:59:10Z",
+      "Title": "Batch job using Spring-batch@5 not triggered with @Scheduled annotation",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-batch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774294/batch-job-using-spring-batch5-not-triggered-with-scheduled-annotation"
+    },
+    {
+      "Created": "2025-09-25T01:09:21Z",
+      "Title": "Strange Strapi Issue: PUT Request Fails with 404 Not Found, Despite the ID Existing",
+      "Tags": [
+        "javascript",
+        "next.js",
+        "strapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774297/strange-strapi-issue-put-request-fails-with-404-not-found-despite-the-id-exist"
+    },
+    {
+      "Created": "2025-09-25T01:24:13Z",
+      "Title": "Why does Java\u0027s X22519 Lib works with some inputs but not others",
+      "Tags": [
+        "java",
+        "ssl",
+        "encryption",
+        "public-key-encryption",
+        "x25519"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774299/why-does-javas-x22519-lib-works-with-some-inputs-but-not-others"
+    }
+  ]
+}

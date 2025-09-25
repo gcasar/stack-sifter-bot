@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-25T19:54:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T19:05:17Z",
+      "Title": "Using Nuget SDK inside IIS Project - Access Denied Error",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "nuget"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775222/using-nuget-sdk-inside-iis-project-access-denied-error"
+    },
+    {
+      "Created": "2025-09-25T19:54:11Z",
+      "Title": "Dag-evaluation error in a Snakemake Snakefile",
+      "Tags": [
+        "snakemake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775258/dag-evaluation-error-in-a-snakemake-snakefile"
+    }
+  ]
+}

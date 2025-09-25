@@ -1,0 +1,93 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-25T16:03:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T15:26:56Z",
+      "Title": "Controlling color of menus in ncurses",
+      "Tags": [
+        "c",
+        "colors",
+        "menu",
+        "ncurses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775039/controlling-color-of-menus-in-ncurses"
+    },
+    {
+      "Created": "2025-09-25T15:51:46Z",
+      "Title": "How to create a composite row key in GridDB using NewSQL?",
+      "Tags": [
+        "sql",
+        "composite-primary-key",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775059/how-to-create-a-composite-row-key-in-griddb-using-newsql"
+    },
+    {
+      "Created": "2025-09-25T15:51:58Z",
+      "Title": "How to extract data from DWORD in windows registry",
+      "Tags": [
+        "windows",
+        "powershell",
+        "registry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775060/how-to-extract-data-from-dword-in-windows-registry"
+    },
+    {
+      "Created": "2025-09-25T16:00:41Z",
+      "Title": "Stream PipeWire ScreenCast over WebRTC with GStreamer",
+      "Tags": [
+        "python",
+        "webrtc",
+        "gstreamer",
+        "vp8",
+        "pipewire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775067/stream-pipewire-screencast-over-webrtc-with-gstreamer"
+    },
+    {
+      "Created": "2025-09-25T16:00:43Z",
+      "Title": "For ITfoxtec.Identity.Saml2.Mvc, why the constraint on non-existent Microsoft.Web.Infrastructure 2.0.1?",
+      "Tags": [
+        "itfoxtec-identity-saml2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775068/for-itfoxtec-identity-saml2-mvc-why-the-constraint-on-non-existent-microsoft-we"
+    },
+    {
+      "Created": "2025-09-25T16:00:59Z",
+      "Title": "Why is a JSON list parsed by Ansible Jinja not an interable",
+      "Tags": [
+        "ansible",
+        "jinja2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775070/why-is-a-json-list-parsed-by-ansible-jinja-not-an-interable"
+    },
+    {
+      "Created": "2025-09-25T16:02:59Z",
+      "Title": "What\u0027s the difference between using map() with a lambda function versus a regular def function for element-wise list transformation?",
+      "Tags": [
+        "python",
+        "function",
+        "lambda",
+        "list-comprehension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775071/whats-the-difference-between-using-map-with-a-lambda-function-versus-a-regula"
+    },
+    {
+      "Created": "2025-09-25T16:03:43Z",
+      "Title": "sbt crash when lauching on ubuntu24 : \u0022sbt.InvalidComponent: Could not find required component \u0027xsbti\u0027\u0022",
+      "Tags": [
+        "sbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775072/sbt-crash-when-lauching-on-ubuntu24-sbt-invalidcomponent-could-not-find-requ"
+    },
+    {
+      "Created": "2025-09-25T16:03:49Z",
+      "Title": "Icon instance swap shows asset reference instead of string for all icons except for the default",
+      "Tags": [
+        "figma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775073/icon-instance-swap-shows-asset-reference-instead-of-string-for-all-icons-except"
+    }
+  ]
+}

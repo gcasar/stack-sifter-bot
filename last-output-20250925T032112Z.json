@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-25T03:15:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T02:43:37Z",
+      "Title": "How to properly implement a singleton class in objective-c?",
+      "Tags": [
+        "objective-c",
+        "cocoa",
+        "design-patterns",
+        "singleton"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774324/how-to-properly-implement-a-singleton-class-in-objective-c"
+    },
+    {
+      "Created": "2025-09-25T02:53:01Z",
+      "Title": "Python openapi-python-client runtime error when deserializing",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "openapi-generator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774326/python-openapi-python-client-runtime-error-when-deserializing"
+    },
+    {
+      "Created": "2025-09-25T03:04:36Z",
+      "Title": "sql_mode=only_full_group_by Error doing an SQL query",
+      "Tags": [
+        "sql",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774329/sql-mode-only-full-group-by-error-doing-an-sql-query"
+    },
+    {
+      "Created": "2025-09-25T03:15:05Z",
+      "Title": "Is it possible to undo the effect of the .req directive in ARM GNU Assembly?",
+      "Tags": [
+        "arm",
+        "stm32",
+        "gnu-assembler",
+        "stm32cubeide",
+        "stm32f3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774331/is-it-possible-to-undo-the-effect-of-the-req-directive-in-arm-gnu-assembly"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-25T21:49:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T21:23:33Z",
+      "Title": "Hello guys, I want to understand that code [closed]",
+      "Tags": [
+        "python",
+        "list",
+        "function",
+        "dictionary",
+        "tuples"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775313/hello-guys-i-want-to-understand-that-code"
+    },
+    {
+      "Created": "2025-09-25T21:25:37Z",
+      "Title": "How to integrate N-Genius payment inline (on WooCommerce checkout) without redirecting to N-Genius page?",
+      "Tags": [
+        "php",
+        "wordpress",
+        "woocommerce",
+        "payment-gateway",
+        "hook-woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775317/how-to-integrate-n-genius-payment-inline-on-woocommerce-checkout-without-redir"
+    },
+    {
+      "Created": "2025-09-25T21:33:43Z",
+      "Title": "How to ensure that an object contains properties passed as arguments",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775320/how-to-ensure-that-an-object-contains-properties-passed-as-arguments"
+    },
+    {
+      "Created": "2025-09-25T21:39:05Z",
+      "Title": "YouTube API to get a list of all channels I am a manager of",
+      "Tags": [
+        "youtube",
+        "youtube-api",
+        "youtube-data-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775325/youtube-api-to-get-a-list-of-all-channels-i-am-a-manager-of"
+    },
+    {
+      "Created": "2025-09-25T21:39:11Z",
+      "Title": "Why does my custom lock-free queue implementation in C\u002B\u002B occasionally lose elements under high concurrency despite using std::atomic?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "concurrency",
+        "atomic",
+        "lock-free"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775326/why-does-my-custom-lock-free-queue-implementation-in-c-occasionally-lose-eleme"
+    },
+    {
+      "Created": "2025-09-25T21:49:32Z",
+      "Title": "VBA formula stored as a variable but received Run-time error \u00271004\u0027: Application-defined or object-defined error at Activecell",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775331/vba-formula-stored-as-a-variable-but-received-run-time-error-1004-application"
+    }
+  ]
+}

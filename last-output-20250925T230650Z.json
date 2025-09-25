@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-25T22:48:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T22:35:22Z",
+      "Title": "how to use syntax like key=data.get/. A detailed question about the dict and list",
+      "Tags": [
+        "list",
+        "dictionary",
+        "key"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775354/how-to-use-syntax-like-key-data-get-a-detailed-question-about-the-dict-and-lis"
+    },
+    {
+      "Created": "2025-09-25T22:36:05Z",
+      "Title": "Load X509 from PEM with OpenSSL 3 and a dedicated OSSL_LIB_CTX",
+      "Tags": [
+        "c\u002B\u002B",
+        "openssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775355/load-x509-from-pem-with-openssl-3-and-a-dedicated-ossl-lib-ctx"
+    },
+    {
+      "Created": "2025-09-25T22:36:41Z",
+      "Title": "Owin security could not handle callback \u0022signin-oidc\u0022, Error 404 On Asp.net Mvc",
+      "Tags": [
+        "asp.net",
+        "asp.net-mvc",
+        "asp.net-identity",
+        "keycloak",
+        "openid-connect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775357/owin-security-could-not-handle-callback-signin-oidc-error-404-on-asp-net-mvc"
+    },
+    {
+      "Created": "2025-09-25T22:47:58Z",
+      "Title": "c# IDE Public to Private suggestions",
+      "Tags": [
+        "c#",
+        "json",
+        "private",
+        "public",
+        "rider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775362/c-sharp-ide-public-to-private-suggestions"
+    },
+    {
+      "Created": "2025-09-25T22:48:39Z",
+      "Title": "Better-auth not passing cookie after signIn using Google",
+      "Tags": [
+        "cookies",
+        "expo",
+        "hono",
+        "better-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775363/better-auth-not-passing-cookie-after-signin-using-google"
+    }
+  ]
+}

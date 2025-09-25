@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-25T13:09:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T12:58:13Z",
+      "Title": "PHP/Apache proxy somehow tells browser the content is mixed",
+      "Tags": [
+        "php",
+        "apache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774856/php-apache-proxy-somehow-tells-browser-the-content-is-mixed"
+    },
+    {
+      "Created": "2025-09-25T12:58:32Z",
+      "Title": "Why does WITH SECURITY_ENFORCED throw \u0022Insufficient permissions\u0022 when querying EmailTemplate in Salesforce?",
+      "Tags": [
+        "security",
+        "permissions",
+        "salesforce",
+        "pmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774857/why-does-with-security-enforced-throw-insufficient-permissions-when-querying-e"
+    },
+    {
+      "Created": "2025-09-25T13:08:06Z",
+      "Title": "How to refer a function inside a method of the same name?",
+      "Tags": [
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774864/how-to-refer-a-function-inside-a-method-of-the-same-name"
+    },
+    {
+      "Created": "2025-09-25T13:08:46Z",
+      "Title": "How to debug cuda kernels in python, using vscode (linux)",
+      "Tags": [
+        "python",
+        "debugging",
+        "cuda",
+        "cupy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774865/how-to-debug-cuda-kernels-in-python-using-vscode-linux"
+    },
+    {
+      "Created": "2025-09-25T13:09:05Z",
+      "Title": "Share a child component service to parent Angular",
+      "Tags": [
+        "angular",
+        "dependency-injection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774867/share-a-child-component-service-to-parent-angular"
+    }
+  ]
+}

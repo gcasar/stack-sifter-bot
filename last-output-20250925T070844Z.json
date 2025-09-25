@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-25T07:06:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T06:40:37Z",
+      "Title": "springdoc ignores @Parameter(hidden = true) on @QuerydslPredicate",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "openapi",
+        "springdoc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774441/springdoc-ignores-parameterhidden-true-on-querydslpredicate"
+    },
+    {
+      "Created": "2025-09-25T06:51:42Z",
+      "Title": "For loop that concatenates characters into nested list of strings",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774454/for-loop-that-concatenates-characters-into-nested-list-of-strings"
+    },
+    {
+      "Created": "2025-09-25T06:52:15Z",
+      "Title": "XDCAM formatting SDK",
+      "Tags": [
+        "c#",
+        "formatting",
+        "media"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774456/xdcam-formatting-sdk"
+    },
+    {
+      "Created": "2025-09-25T06:57:12Z",
+      "Title": "How can I fix the CS1661 and CS1678 errors about wrong delegate parameter?",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "lambda",
+        "delegates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774461/how-can-i-fix-the-cs1661-and-cs1678-errors-about-wrong-delegate-parameter"
+    },
+    {
+      "Created": "2025-09-25T07:01:40Z",
+      "Title": "How to export a Jupyter Notebook with plots and rich formatting to PDF without losing formatting?",
+      "Tags": [
+        "python",
+        "pandas",
+        "matplotlib",
+        "pdf",
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774466/how-to-export-a-jupyter-notebook-with-plots-and-rich-formatting-to-pdf-without-l"
+    },
+    {
+      "Created": "2025-09-25T07:04:50Z",
+      "Title": "RowTimeRangeBoundedPrecedingFunction event-time cleanup timer never clears state in continuous streaming",
+      "Tags": [
+        "apache-flink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774469/rowtimerangeboundedprecedingfunction-event-time-cleanup-timer-never-clears-state"
+    },
+    {
+      "Created": "2025-09-25T07:06:12Z",
+      "Title": "How to stereo calibrate two cameras from different vendors with different image sizes?",
+      "Tags": [
+        "python",
+        "opencv",
+        "camera-calibration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774471/how-to-stereo-calibrate-two-cameras-from-different-vendors-with-different-image"
+    }
+  ]
+}

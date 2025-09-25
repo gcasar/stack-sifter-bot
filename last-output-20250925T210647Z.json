@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-25T20:51:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T20:26:41Z",
+      "Title": "How to find the right number of arguments [closed]",
+      "Tags": [
+        "c#",
+        "reflection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775285/how-to-find-the-right-number-of-arguments"
+    },
+    {
+      "Created": "2025-09-25T20:44:38Z",
+      "Title": "Issue opening external urls in PWABuilder iOS app",
+      "Tags": [
+        "ios",
+        "swift",
+        "progressive-web-apps",
+        "pwabuilder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775294/issue-opening-external-urls-in-pwabuilder-ios-app"
+    },
+    {
+      "Created": "2025-09-25T20:48:31Z",
+      "Title": "TypeError: useAnimatedGestureHandler is not a function after upgrading to Expo SDK 54 with react-native-reanimated and @gorhom/bottom-sheet",
+      "Tags": [
+        "reactjs",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775297/typeerror-useanimatedgesturehandler-is-not-a-function-after-upgrading-to-expo-s"
+    },
+    {
+      "Created": "2025-09-25T20:51:28Z",
+      "Title": "PWA content-security-policy Failed to execute importScripts on WorkerGlobalScope",
+      "Tags": [
+        "progressive-web-apps",
+        "service-worker",
+        "content-security-policy",
+        "script-src"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775299/pwa-content-security-policy-failed-to-execute-importscripts-on-workerglobalscope"
+    }
+  ]
+}

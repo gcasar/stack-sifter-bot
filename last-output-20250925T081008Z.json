@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-25T07:59:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T07:09:49Z",
+      "Title": "Python to copy a sheet from one Excel file to another, sheet names are the same",
+      "Tags": [
+        "python",
+        "excel",
+        "pandas",
+        "openpyxl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774477/python-to-copy-a-sheet-from-one-excel-file-to-another-sheet-names-are-the-same"
+    },
+    {
+      "Created": "2025-09-25T07:55:23Z",
+      "Title": "Does New in Delphi zero-initialize a record with managed fields?",
+      "Tags": [
+        "delphi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774530/does-new-in-delphi-zero-initialize-a-record-with-managed-fields"
+    },
+    {
+      "Created": "2025-09-25T07:59:07Z",
+      "Title": "Can OSHI fetch hardware information on ChromeOS (Chromebook) in a desktop Java application?",
+      "Tags": [
+        "java",
+        "linux",
+        "desktop-application",
+        "chromebook",
+        "oshi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774531/can-oshi-fetch-hardware-information-on-chromeos-chromebook-in-a-desktop-java-a"
+    },
+    {
+      "Created": "2025-09-25T07:59:16Z",
+      "Title": "Django Celery Beat sending many-per-hour tasks but not daily tasks",
+      "Tags": [
+        "django",
+        "celerybeat",
+        "django-celery-beat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774532/django-celery-beat-sending-many-per-hour-tasks-but-not-daily-tasks"
+    }
+  ]
+}

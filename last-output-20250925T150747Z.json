@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-25T15:03:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T14:25:12Z",
+      "Title": "How to safely switch Python version on macOS?",
+      "Tags": [
+        "python",
+        "macos",
+        "zsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774960/how-to-safely-switch-python-version-on-macos"
+    },
+    {
+      "Created": "2025-09-25T14:49:15Z",
+      "Title": "Form setSafeArea(true) Affects Status Bar",
+      "Tags": [
+        "codenameone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774993/form-setsafeareatrue-affects-status-bar"
+    },
+    {
+      "Created": "2025-09-25T14:50:26Z",
+      "Title": "How to manage multiple packages with different wheels but have the same name to support different platform?",
+      "Tags": [
+        "python",
+        "pytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79774995/how-to-manage-multiple-packages-with-different-wheels-but-have-the-same-name-to"
+    },
+    {
+      "Created": "2025-09-25T14:59:37Z",
+      "Title": "FilePond Image Preview Not Working \u0026 MIME Type Error in LWC and LWR Site",
+      "Tags": [
+        "file-upload",
+        "image-upload",
+        "filepond",
+        "salesforce-communities",
+        "salesforce-service-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775006/filepond-image-preview-not-working-mime-type-error-in-lwc-and-lwr-site"
+    },
+    {
+      "Created": "2025-09-25T14:59:56Z",
+      "Title": "How to stop ChatGPT Realtime from speaking JSON when using both text (JSON) and audio (TTS) in the same response?",
+      "Tags": [
+        "openai-api",
+        "chatgpt-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775007/how-to-stop-chatgpt-realtime-from-speaking-json-when-using-both-text-json-and"
+    },
+    {
+      "Created": "2025-09-25T15:03:46Z",
+      "Title": "\u0417\u0430\u0447\u0435\u043C \u043D\u0443\u0436\u043D\u044B enum, \u0435\u0441\u043B\u0438 \u0435\u0441\u0442\u044C \u0441\u0442\u0440\u043E\u043A\u043E\u0432\u044B\u0435 \u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u044B? [closed]",
+      "Tags": [
+        "kotlin",
+        "enums"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775010/%d0%97%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d1%8b-enum-%d0%b5%d1%81%d0%bb%d0%b8-%d0%b5%d1%81%d1%82%d1%8c-%d1%81%d1%82%d1%80%d0%be%d0%ba%d0%be%d0%b2%d1%8b%d0%b5-%d0%ba%d0%be%d0%bd%d1%81%d1%82%d0%b0%d0%bd%d1%82%d1%8b"
+    }
+  ]
+}

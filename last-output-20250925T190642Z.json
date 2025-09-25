@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-25T19:04:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-25T18:53:38Z",
+      "Title": "How i persist email after navigating from current page and returning back?",
+      "Tags": [
+        "android-jetpack-compose",
+        "android-viewmodel",
+        "jetpack-compose-navigation",
+        "android-savedstate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775213/how-i-persist-email-after-navigating-from-current-page-and-returning-back"
+    },
+    {
+      "Created": "2025-09-25T18:58:11Z",
+      "Title": "How can I secure WebSocket communication over TLS in a real-time application?\u201D",
+      "Tags": [
+        "google-home"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775217/how-can-i-secure-websocket-communication-over-tls-in-a-real-time-application"
+    },
+    {
+      "Created": "2025-09-25T19:01:04Z",
+      "Title": "Youtube api v3 Channel filtering videos",
+      "Tags": [
+        "youtube-api",
+        "youtube-data-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775219/youtube-api-v3-channel-filtering-videos"
+    },
+    {
+      "Created": "2025-09-25T19:04:16Z",
+      "Title": "Eclipse P2: Updating the plugin with a custom Provisioning Action",
+      "Tags": [
+        "eclipse",
+        "eclipse-plugin",
+        "rcp",
+        "p2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775221/eclipse-p2-updating-the-plugin-with-a-custom-provisioning-action"
+    }
+  ]
+}

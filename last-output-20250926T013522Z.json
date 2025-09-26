@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-26T01:29:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T01:00:44Z",
+      "Title": "how can i get mypy to not crash constantly? or what alternatives are there?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "mypy",
+        "typechecking",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775400/how-can-i-get-mypy-to-not-crash-constantly-or-what-alternatives-are-there"
+    },
+    {
+      "Created": "2025-09-26T01:06:37Z",
+      "Title": "How does Docker mount files into a container",
+      "Tags": [
+        "docker",
+        "namespaces",
+        "overlay",
+        "mount"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775402/how-does-docker-mount-files-into-a-container"
+    },
+    {
+      "Created": "2025-09-26T01:29:47Z",
+      "Title": "Is it safe to update an UnsafeCell while holding an \u0026T reference?",
+      "Tags": [
+        "rust",
+        "rust-tokio",
+        "unsafe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775412/is-it-safe-to-update-an-unsafecell-while-holding-an-t-reference"
+    }
+  ]
+}

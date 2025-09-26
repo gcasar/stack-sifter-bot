@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-26T17:02:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T16:26:29Z",
+      "Title": "The C \u0027Array-to-Pointer Decay\u0027 Paradox: Why do these function declarations behave identically? void func(char\u00A0a[10]) vs void func(char\u00A0*a)",
+      "Tags": [
+        "arrays",
+        "c",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776186/the-c-array-to-pointer-decay-paradox-why-do-these-function-declarations-behav"
+    },
+    {
+      "Created": "2025-09-26T16:35:09Z",
+      "Title": "Are arrays of simd vectors naturally inefficient?",
+      "Tags": [
+        "c\u002B\u002B",
+        "assembly",
+        "x86",
+        "simd",
+        "sse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776189/are-arrays-of-simd-vectors-naturally-inefficient"
+    },
+    {
+      "Created": "2025-09-26T17:00:04Z",
+      "Title": "Where is the \u0022Calculate code metrics\u0022 tool in Visual Studio 2026?",
+      "Tags": [
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776212/where-is-the-calculate-code-metrics-tool-in-visual-studio-2026"
+    },
+    {
+      "Created": "2025-09-26T17:02:18Z",
+      "Title": "How to run untrusted code on linux server side? [closed]",
+      "Tags": [
+        "php",
+        "linux",
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776214/how-to-run-untrusted-code-on-linux-server-side"
+    }
+  ]
+}

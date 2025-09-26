@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-26T09:00:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T08:27:31Z",
+      "Title": "How to handle Android UI events in C\u002B\u002B without blocking the main thread but keeping execution order?",
+      "Tags": [
+        "android",
+        "asynchronous",
+        "event-handling",
+        "uievent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775635/how-to-handle-android-ui-events-in-c-without-blocking-the-main-thread-but-keep"
+    },
+    {
+      "Created": "2025-09-26T08:36:29Z",
+      "Title": "How to calculate correlation between two sets of columns pandas",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775650/how-to-calculate-correlation-between-two-sets-of-columns-pandas"
+    },
+    {
+      "Created": "2025-09-26T08:51:36Z",
+      "Title": "PyVisa remove old resources",
+      "Tags": [
+        "python",
+        "pyvisa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775666/pyvisa-remove-old-resources"
+    },
+    {
+      "Created": "2025-09-26T08:52:02Z",
+      "Title": "React Aria FileTrigger onSelect not firing on first file selection in Chrome iOS, subsequent selections trigger cancel event",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "web",
+        "input",
+        "upload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775667/react-aria-filetrigger-onselect-not-firing-on-first-file-selection-in-chrome-ios"
+    },
+    {
+      "Created": "2025-09-26T09:00:59Z",
+      "Title": "How can I get the star rating for a Vuforia Image Target without uploading to the Cloud?",
+      "Tags": [
+        "vuforia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775677/how-can-i-get-the-star-rating-for-a-vuforia-image-target-without-uploading-to-th"
+    }
+  ]
+}

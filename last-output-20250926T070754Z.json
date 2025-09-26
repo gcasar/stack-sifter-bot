@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-26T07:06:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T06:17:51Z",
+      "Title": "Getting error while distribute app to firebase using Azure pipeline",
+      "Tags": [
+        "ios",
+        "firebase",
+        "azure-devops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775531/getting-error-while-distribute-app-to-firebase-using-azure-pipeline"
+    },
+    {
+      "Created": "2025-09-26T06:23:07Z",
+      "Title": "Play Feature Delivery module installed but not listed in getInstalledModules() on Android 10 and below [closed]",
+      "Tags": [
+        "java",
+        "android",
+        "google-play",
+        "cocos2d-x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775533/play-feature-delivery-module-installed-but-not-listed-in-getinstalledmodules-o"
+    },
+    {
+      "Created": "2025-09-26T06:56:22Z",
+      "Title": "Does Database Size Impact Query Performance When Querying Recent Data in ClickHouse",
+      "Tags": [
+        "clickhouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775554/does-database-size-impact-query-performance-when-querying-recent-data-in-clickho"
+    },
+    {
+      "Created": "2025-09-26T06:59:08Z",
+      "Title": "Issue with Boost Serialization Involving Pointer to Vector Member",
+      "Tags": [
+        "c\u002B\u002B",
+        "serialization",
+        "crash",
+        "boost-serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775558/issue-with-boost-serialization-involving-pointer-to-vector-member"
+    },
+    {
+      "Created": "2025-09-26T07:06:19Z",
+      "Title": "How can I get these custom contrasts in modelbased?",
+      "Tags": [
+        "compare-contrast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775564/how-can-i-get-these-custom-contrasts-in-modelbased"
+    }
+  ]
+}

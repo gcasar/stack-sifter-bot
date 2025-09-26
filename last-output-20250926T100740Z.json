@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-26T10:06:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T09:38:03Z",
+      "Title": "React Native / Expo APK crashes immediately on launch but works fine in Expo Go (expo-updates disabled in AndroidManifest)",
+      "Tags": [
+        "android",
+        "react-native",
+        "expo",
+        "apk",
+        "expo-updates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775723/react-native-expo-apk-crashes-immediately-on-launch-but-works-fine-in-expo-go"
+    },
+    {
+      "Created": "2025-09-26T09:49:46Z",
+      "Title": "Update a table from another (with inner join)",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "inner-join"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775729/update-a-table-from-another-with-inner-join"
+    },
+    {
+      "Created": "2025-09-26T09:50:01Z",
+      "Title": "How to manage existing Azure Virtual Machines with Terraform?",
+      "Tags": [
+        "azure",
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775731/how-to-manage-existing-azure-virtual-machines-with-terraform"
+    },
+    {
+      "Created": "2025-09-26T09:57:09Z",
+      "Title": "Pydantic and differences between class and instance attributes",
+      "Tags": [
+        "python",
+        "oop",
+        "pydantic",
+        "instance-variables",
+        "class-attributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775738/pydantic-and-differences-between-class-and-instance-attributes"
+    },
+    {
+      "Created": "2025-09-26T10:05:25Z",
+      "Title": "Integration React Native as SDK with New Architecture and turbo modules",
+      "Tags": [
+        "android",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775749/integration-react-native-as-sdk-with-new-architecture-and-turbo-modules"
+    },
+    {
+      "Created": "2025-09-26T10:06:22Z",
+      "Title": "How to stop the WARN log message \u0022File not applicable to be shipped based on modified time.\u0022",
+      "Tags": [
+        "artifactory",
+        "jfrog-cli",
+        "artifactory-query-lang",
+        "jfrog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775750/how-to-stop-the-warn-log-message-file-not-applicable-to-be-shipped-based-on-mod"
+    }
+  ]
+}

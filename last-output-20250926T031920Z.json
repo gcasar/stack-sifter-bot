@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-26T03:06:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T02:36:29Z",
+      "Title": "How do I get a certain character from a string of numbers and or characters?",
+      "Tags": [
+        "assembly",
+        "syntax",
+        "x86-64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775435/how-do-i-get-a-certain-character-from-a-string-of-numbers-and-or-characters"
+    },
+    {
+      "Created": "2025-09-26T02:57:41Z",
+      "Title": "Compose: Fixed width child within Box",
+      "Tags": [
+        "android",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775447/compose-fixed-width-child-within-box"
+    },
+    {
+      "Created": "2025-09-26T03:06:01Z",
+      "Title": "Calling stored procedure using Entity Framework Core is throwing error",
+      "Tags": [
+        "c#",
+        "sql",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775453/calling-stored-procedure-using-entity-framework-core-is-throwing-error"
+    }
+  ]
+}

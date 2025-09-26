@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-26T12:58:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T12:32:42Z",
+      "Title": "Measure to average all rows in Power Bi matrix",
+      "Tags": [
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775933/measure-to-average-all-rows-in-power-bi-matrix"
+    },
+    {
+      "Created": "2025-09-26T12:53:48Z",
+      "Title": "Should I store icons in /public or in /src/assets? What are the trade-offs?",
+      "Tags": [
+        "reactjs",
+        "image",
+        "next.js",
+        "assets",
+        "nextjs-image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775965/should-i-store-icons-in-public-or-in-src-assets-what-are-the-trade-offs"
+    },
+    {
+      "Created": "2025-09-26T12:57:09Z",
+      "Title": "Calculating higher-order derivatives for functions that are defined by a differential equation using \u0060jax.experimental.jet\u0060",
+      "Tags": [
+        "python",
+        "jax",
+        "automatic-differentiation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775968/calculating-higher-order-derivatives-for-functions-that-are-defined-by-a-differe"
+    },
+    {
+      "Created": "2025-09-26T12:58:27Z",
+      "Title": "Why does this query slow down this much over time",
+      "Tags": [
+        "php",
+        "sql-server",
+        "query-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775969/why-does-this-query-slow-down-this-much-over-time"
+    }
+  ]
+}

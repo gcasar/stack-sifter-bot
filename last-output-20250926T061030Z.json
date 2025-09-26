@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-26T06:09:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T05:49:01Z",
+      "Title": "iOS 26 - Gradient in Liquid Glass effect",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "ios26",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775513/ios-26-gradient-in-liquid-glass-effect"
+    },
+    {
+      "Created": "2025-09-26T06:00:39Z",
+      "Title": "Slice direction of unconstrained std_logic_vector",
+      "Tags": [
+        "vhdl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775519/slice-direction-of-unconstrained-std-logic-vector"
+    },
+    {
+      "Created": "2025-09-26T06:09:16Z",
+      "Title": "Adding a custom view to screen via WINDOW_MANAGER with animating WRAP_CONTENT",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "android-view",
+        "android-custom-view",
+        "android-windowmanager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775525/adding-a-custom-view-to-screen-via-window-manager-with-animating-wrap-content"
+    }
+  ]
+}

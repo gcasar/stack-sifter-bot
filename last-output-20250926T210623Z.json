@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-26T20:55:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T20:43:10Z",
+      "Title": "Algorithms Efficiency",
+      "Tags": [
+        "algorithm",
+        "performance",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776366/algorithms-efficiency"
+    },
+    {
+      "Created": "2025-09-26T20:48:13Z",
+      "Title": "Optional library without dlopen/LoadLibrary",
+      "Tags": [
+        "c",
+        "dynamic-library",
+        "weak-symbol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776370/optional-library-without-dlopen-loadlibrary"
+    },
+    {
+      "Created": "2025-09-26T20:51:54Z",
+      "Title": "How i navigate from email message to my Jetpack compose app?",
+      "Tags": [
+        "android",
+        "spring-boot",
+        "android-jetpack-compose",
+        "android-deep-link"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776375/how-i-navigate-from-email-message-to-my-jetpack-compose-app"
+    },
+    {
+      "Created": "2025-09-26T20:52:01Z",
+      "Title": "Why does my export from cloud hasura have \u0060restrict\u0060 and \u0060unrestrict\u0060 in up.sql",
+      "Tags": [
+        "hasura",
+        "hasura-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776376/why-does-my-export-from-cloud-hasura-have-restrict-and-unrestrict-in-up-sql"
+    },
+    {
+      "Created": "2025-09-26T20:54:33Z",
+      "Title": "Way to eliminate using global variables whilst allowing a wrapper to modify these varibales?",
+      "Tags": [
+        "python",
+        "python-decorators"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776379/way-to-eliminate-using-global-variables-whilst-allowing-a-wrapper-to-modify-thes"
+    },
+    {
+      "Created": "2025-09-26T20:54:56Z",
+      "Title": "How can a Windows 11 application prevent DLL injection via SetWindowsHookEx from another application",
+      "Tags": [
+        "windows",
+        "winapi",
+        "hook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776381/how-can-a-windows-11-application-prevent-dll-injection-via-setwindowshookex-from"
+    },
+    {
+      "Created": "2025-09-26T20:55:31Z",
+      "Title": "git clone failing with \u0022remote end hung up unexpectedly\u0022 - intermittent issue, other repos work",
+      "Tags": [
+        "windows",
+        "git",
+        "git-bash",
+        "git-clone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776382/git-clone-failing-with-remote-end-hung-up-unexpectedly-intermittent-issue-o"
+    }
+  ]
+}

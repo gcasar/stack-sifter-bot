@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-26T18:03:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T17:39:23Z",
+      "Title": "MSDeploy onto IIS server: Can\u0027t resolve Web Deploy 4\u0027s SQL Management Objects requirement in 2025",
+      "Tags": [
+        "iis",
+        "visual-studio-2022",
+        "entity-framework-migrations",
+        "webdeploy",
+        "smo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776238/msdeploy-onto-iis-server-cant-resolve-web-deploy-4s-sql-management-objects-re"
+    },
+    {
+      "Created": "2025-09-26T17:40:48Z",
+      "Title": "Bluez D-Bus: Bluetooth speaker play/pause/next/prev/volume up/down handling in python?",
+      "Tags": [
+        "python",
+        "dbus",
+        "bluez",
+        "avrcp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776239/bluez-d-bus-bluetooth-speaker-play-pause-next-prev-volume-up-down-handling-in-p"
+    },
+    {
+      "Created": "2025-09-26T17:45:10Z",
+      "Title": "GridDB TimeSeries: after ALTER TABLE \u2026 ADD COLUMN, what do existing rows return and how to backfill safely (Cloud/SQL)?",
+      "Tags": [
+        "sql",
+        "time-series",
+        "schema",
+        "ddl",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776242/griddb-timeseries-after-alter-table-add-column-what-do-existing-rows-return"
+    },
+    {
+      "Created": "2025-09-26T17:58:34Z",
+      "Title": "Authenticated Socks5 With OkHttpClient",
+      "Tags": [
+        "java",
+        "okhttp",
+        "socks5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776247/authenticated-socks5-with-okhttpclient"
+    },
+    {
+      "Created": "2025-09-26T18:03:17Z",
+      "Title": "Databricks IDE does not respect pyproject.toml flake8 declarations",
+      "Tags": [
+        "databricks",
+        "flake8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776249/databricks-ide-does-not-respect-pyproject-toml-flake8-declarations"
+    }
+  ]
+}

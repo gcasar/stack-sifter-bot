@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-26T08:08:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T07:36:24Z",
+      "Title": "Source lines included in C/C\u002B\u002B application",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "gcc",
+        "code-coverage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775583/source-lines-included-in-c-c-application"
+    },
+    {
+      "Created": "2025-09-26T07:58:39Z",
+      "Title": "Firebase Push Notification Not Working, APNs token is null on iOS",
+      "Tags": [
+        "ios",
+        "flutter",
+        "firebase",
+        "firebase-cloud-messaging",
+        "apple-push-notifications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775604/firebase-push-notification-not-working-apns-token-is-null-on-ios"
+    },
+    {
+      "Created": "2025-09-26T07:58:43Z",
+      "Title": "What is the best way in pandas (or Python) to \u201Cexplode\u201D the list of cities into separate rows?",
+      "Tags": [
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775605/what-is-the-best-way-in-pandas-or-python-to-explode-the-list-of-cities-into"
+    },
+    {
+      "Created": "2025-09-26T08:08:09Z",
+      "Title": "Error encountered for the routine for opening a worksheet for each row in the selection",
+      "Tags": [
+        "excel",
+        "vba",
+        "macros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775620/error-encountered-for-the-routine-for-opening-a-worksheet-for-each-row-in-the-se"
+    }
+  ]
+}

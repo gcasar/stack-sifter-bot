@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-26T20:02:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T19:24:28Z",
+      "Title": "Why don\u2019t pointers appear in Python Tutor\u2019s memory visualization in C?",
+      "Tags": [
+        "c",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776310/why-don-t-pointers-appear-in-python-tutor-s-memory-visualization-in-c"
+    },
+    {
+      "Created": "2025-09-26T19:45:35Z",
+      "Title": "Bottom sheets are broken with UIDesignRequiresCompatibility enabled in iOS 26",
+      "Tags": [
+        "ios",
+        "swift",
+        "xcode",
+        "swiftui",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776328/bottom-sheets-are-broken-with-uidesignrequirescompatibility-enabled-in-ios-26"
+    },
+    {
+      "Created": "2025-09-26T19:56:57Z",
+      "Title": "What prevents Java primitive data types from being deprecated after the wrapper class was introduced?",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776335/what-prevents-java-primitive-data-types-from-being-deprecated-after-the-wrapper"
+    },
+    {
+      "Created": "2025-09-26T20:00:28Z",
+      "Title": "Stripe Embedded Checkout: Default discount code that user can remove?",
+      "Tags": [
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776339/stripe-embedded-checkout-default-discount-code-that-user-can-remove"
+    },
+    {
+      "Created": "2025-09-26T20:02:20Z",
+      "Title": "Define and use a probabilistic distribution within a shiny flexdashboard app in R",
+      "Tags": [
+        "r",
+        "shiny",
+        "flexdashboard",
+        "gamma-distribution",
+        "fitdistrplus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776341/define-and-use-a-probabilistic-distribution-within-a-shiny-flexdashboard-app-in"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-26T21:59:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T21:59:15Z",
+      "Title": "Jinja2 and JSON with colons in keys",
+      "Tags": [
+        "json",
+        "python-3.x",
+        "dictionary",
+        "jinja2",
+        "xml-namespaces"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776420/jinja2-and-json-with-colons-in-keys"
+    }
+  ]
+}

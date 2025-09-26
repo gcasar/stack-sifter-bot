@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-26T16:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T15:09:14Z",
+      "Title": "C# interactive console: how to fix error CS0234: The type or namespace name \u0027RSA\u0027 does not exist in the namespace \u0027System.Security.Cryptography\u0027?",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "visual-studio-2022",
+        "read-eval-print-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776105/c-sharp-interactive-console-how-to-fix-error-cs0234-the-type-or-namespace-name"
+    },
+    {
+      "Created": "2025-09-26T15:13:13Z",
+      "Title": "How to convert (SQL) VARBINARY hashed pasword and salt columns to String for ASP.NET Core Web API",
+      "Tags": [
+        "c#",
+        "hash",
+        "asp.net-core-webapi",
+        ".net-9.0",
+        "varbinary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776111/how-to-convert-sql-varbinary-hashed-pasword-and-salt-columns-to-string-for-asp"
+    },
+    {
+      "Created": "2025-09-26T15:17:43Z",
+      "Title": "React Hook Form add global on change before (or override setValue)",
+      "Tags": [
+        "reactjs",
+        "react-hook-form"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776118/react-hook-form-add-global-on-change-before-or-override-setvalue"
+    },
+    {
+      "Created": "2025-09-26T15:53:05Z",
+      "Title": "Evaluating a resampled imbalanced dataset using cross_validate",
+      "Tags": [
+        "classification",
+        "cross-validation",
+        "resampling",
+        "imbalanced-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776150/evaluating-a-resampled-imbalanced-dataset-using-cross-validate"
+    },
+    {
+      "Created": "2025-09-26T15:59:52Z",
+      "Title": "Need advice on learning C# for unity [closed]",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776156/need-advice-on-learning-c-sharp-for-unity"
+    },
+    {
+      "Created": "2025-09-26T16:03:16Z",
+      "Title": "*Cookies* sent by server is not Visible from frontEnd (CORS applicable)",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "http"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776158/cookies-sent-by-server-is-not-visible-from-frontend-cors-applicable"
+    },
+    {
+      "Created": "2025-09-26T16:04:10Z",
+      "Title": "GitLab asking for Creating a Merge Request with no commits in it",
+      "Tags": [
+        "git",
+        "merge",
+        "gitlab",
+        "version-control"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776159/gitlab-asking-for-creating-a-merge-request-with-no-commits-in-it"
+    }
+  ]
+}

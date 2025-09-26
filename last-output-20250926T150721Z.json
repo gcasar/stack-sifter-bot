@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-26T14:48:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T14:43:31Z",
+      "Title": "sequelize relationships Cannot read properties of undefined (reading \u0027hasMany\u0027)",
+      "Tags": [
+        "node.js",
+        "postgresql",
+        "sequelize.js",
+        "node-modules",
+        "sequelize-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776078/sequelize-relationships-cannot-read-properties-of-undefined-reading-hasmany"
+    },
+    {
+      "Created": "2025-09-26T14:47:05Z",
+      "Title": "Apache serves domain name virtual host for requests to other domains or IPs",
+      "Tags": [
+        "apache",
+        "virtualhost"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776084/apache-serves-domain-name-virtual-host-for-requests-to-other-domains-or-ips"
+    },
+    {
+      "Created": "2025-09-26T14:48:17Z",
+      "Title": "Using TYPO3 site settings in TCA leads to error",
+      "Tags": [
+        "sql",
+        "typo3",
+        "typo3-11.x",
+        "tca"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776085/using-typo3-site-settings-in-tca-leads-to-error"
+    }
+  ]
+}

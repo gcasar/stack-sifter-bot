@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-26T03:53:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T03:17:18Z",
+      "Title": "GrapesJS Custom Dynamic List Freezes After Binding Array and Expanding Rows to Match Length",
+      "Tags": [
+        "vue.js",
+        "freeze",
+        "grapesjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775457/grapesjs-custom-dynamic-list-freezes-after-binding-array-and-expanding-rows-to-m"
+    },
+    {
+      "Created": "2025-09-26T03:46:47Z",
+      "Title": "How to limit QComboBox popup height without showing scrollbars or arrow indicators?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qcombobox",
+        "qlistview",
+        "qtwidgets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775464/how-to-limit-qcombobox-popup-height-without-showing-scrollbars-or-arrow-indicato"
+    },
+    {
+      "Created": "2025-09-26T03:53:13Z",
+      "Title": "How to run parallel UI automation tests for multiple WPF apps with isolated UI and database environments?",
+      "Tags": [
+        "c#",
+        "database",
+        "wpf",
+        "parallel-processing",
+        "ui-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79775465/how-to-run-parallel-ui-automation-tests-for-multiple-wpf-apps-with-isolated-ui-a"
+    }
+  ]
+}

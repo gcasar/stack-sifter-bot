@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-27T02:46:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T02:34:10Z",
+      "Title": "Steam inventory API returns 403 when fetching user\u2019s CS:GO inventory from backend",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "passport.js",
+        "steam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776496/steam-inventory-api-returns-403-when-fetching-user-s-csgo-inventory-from-backen"
+    },
+    {
+      "Created": "2025-09-27T02:46:07Z",
+      "Title": "Some values is not saved in .ini even though I already tell it to save",
+      "Tags": [
+        "c#",
+        "config",
+        "ini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776497/some-values-is-not-saved-in-ini-even-though-i-already-tell-it-to-save"
+    }
+  ]
+}

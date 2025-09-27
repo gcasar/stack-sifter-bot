@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-27T16:00:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T15:34:13Z",
+      "Title": "Multimodel for image captioning with CNN and LSTM over flickr30k does not learn. How to fuse image features and word embeddings?",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "keras",
+        "deep-learning",
+        "lstm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776858/multimodel-for-image-captioning-with-cnn-and-lstm-over-flickr30k-does-not-learn"
+    },
+    {
+      "Created": "2025-09-27T15:53:33Z",
+      "Title": "How do I place the output of a command in the search pattern section of sed?",
+      "Tags": [
+        "linux",
+        "shell",
+        "sed",
+        "zsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776866/how-do-i-place-the-output-of-a-command-in-the-search-pattern-section-of-sed"
+    },
+    {
+      "Created": "2025-09-27T15:58:58Z",
+      "Title": "How can I convert \u002701/04/51\u0027 from string to \u002701/04/1951\u0027 in mysql",
+      "Tags": [
+        "sql",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776867/how-can-i-convert-01-04-51-from-string-to-01-04-1951-in-mysql"
+    },
+    {
+      "Created": "2025-09-27T16:00:29Z",
+      "Title": "TMDb API Error: signal timed out when fetching popular movies",
+      "Tags": [
+        "javascript",
+        "next.js",
+        "fetch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776869/tmdb-api-error-signal-timed-out-when-fetching-popular-movies"
+    }
+  ]
+}

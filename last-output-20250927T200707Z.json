@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-27T19:51:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T19:10:29Z",
+      "Title": "DLookup with Multi Criteria assistance?",
+      "Tags": [
+        "dlookup",
+        "dcount"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776958/dlookup-with-multi-criteria-assistance"
+    },
+    {
+      "Created": "2025-09-27T19:33:35Z",
+      "Title": "How are you supposed to normalize a fixed point signed number?",
+      "Tags": [
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776964/how-are-you-supposed-to-normalize-a-fixed-point-signed-number"
+    },
+    {
+      "Created": "2025-09-27T19:51:05Z",
+      "Title": "is there a way to combine replacing byte-strings with regex strings? [duplicate]",
+      "Tags": [
+        "python",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776967/is-there-a-way-to-combine-replacing-byte-strings-with-regex-strings"
+    },
+    {
+      "Created": "2025-09-27T19:51:53Z",
+      "Title": "Frontend Development Without JavaScript - Is It Possible?",
+      "Tags": [
+        "javascript",
+        "frontend",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776968/frontend-development-without-javascript-is-it-possible"
+    }
+  ]
+}

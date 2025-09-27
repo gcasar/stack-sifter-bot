@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-27T22:58:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T22:07:43Z",
+      "Title": "Dynamic index a polar column",
+      "Tags": [
+        "python",
+        "indexing",
+        "dynamic",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777027/dynamic-index-a-polar-column"
+    },
+    {
+      "Created": "2025-09-27T22:27:34Z",
+      "Title": "Trait object taking ownership self",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777031/trait-object-taking-ownership-self"
+    },
+    {
+      "Created": "2025-09-27T22:48:27Z",
+      "Title": "Symfony API Platform subresource POST/PUT operations are not working as expected",
+      "Tags": [
+        "php",
+        "rest",
+        "symfony",
+        "api-platform.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777037/symfony-api-platform-subresource-post-put-operations-are-not-working-as-expected"
+    },
+    {
+      "Created": "2025-09-27T22:55:45Z",
+      "Title": "\u0060ModuleNotFoundError: No module named \u0027bs4\u0027\u0060 using Scrapy on macOS",
+      "Tags": [
+        "python",
+        "macos",
+        "scrapy",
+        "homebrew"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777039/modulenotfounderror-no-module-named-bs4-using-scrapy-on-macos"
+    },
+    {
+      "Created": "2025-09-27T22:55:58Z",
+      "Title": "python http.server can\u0027t connect from different device",
+      "Tags": [
+        "python",
+        "http"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777041/python-http-server-cant-connect-from-different-device"
+    },
+    {
+      "Created": "2025-09-27T22:58:47Z",
+      "Title": "Bundle doesn\u0027t find JSON resource in XCode Project",
+      "Tags": [
+        "xcode",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777043/bundle-doesnt-find-json-resource-in-xcode-project"
+    }
+  ]
+}

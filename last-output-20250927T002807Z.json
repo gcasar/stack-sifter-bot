@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-27T00:15:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-26T23:32:54Z",
+      "Title": "How to use shared, private, task, single, critical pragmas? What are good thumbrules when using them?",
+      "Tags": [
+        "c\u002B\u002B",
+        "parallel-processing",
+        "openmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776452/how-to-use-shared-private-task-single-critical-pragmas-what-are-good-thumbr"
+    },
+    {
+      "Created": "2025-09-26T23:57:17Z",
+      "Title": "Ordinal day of month in kotlin",
+      "Tags": [
+        "kotlin",
+        "date",
+        "simpledateformat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776460/ordinal-day-of-month-in-kotlin"
+    },
+    {
+      "Created": "2025-09-26T23:59:04Z",
+      "Title": "whenn calling function it says 0 positional arguments but 1 was given",
+      "Tags": [
+        "python",
+        "function",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776461/whenn-calling-function-it-says-0-positional-arguments-but-1-was-given"
+    },
+    {
+      "Created": "2025-09-27T00:15:59Z",
+      "Title": "How to properly handle multiple NavigationStacks in TabView with nested navigation paths in SwiftUI?",
+      "Tags": [
+        "swiftui",
+        "tabview",
+        "swiftui-navigationstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776464/how-to-properly-handle-multiple-navigationstacks-in-tabview-with-nested-navigati"
+    }
+  ]
+}

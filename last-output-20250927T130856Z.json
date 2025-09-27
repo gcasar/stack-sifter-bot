@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-27T12:58:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T12:14:05Z",
+      "Title": "Advice needed for getting lots of map data",
+      "Tags": [
+        "algorithm",
+        "google-maps",
+        "bigdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776746/advice-needed-for-getting-lots-of-map-data"
+    },
+    {
+      "Created": "2025-09-27T12:19:34Z",
+      "Title": "How to find printed document in image",
+      "Tags": [
+        "opencv",
+        "image-processing",
+        "imagemagick",
+        "tesseract",
+        "bounding-box"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776751/how-to-find-printed-document-in-image"
+    },
+    {
+      "Created": "2025-09-27T12:36:29Z",
+      "Title": "How can I fix the \u0022Calling format_html() without passing args or kwargs is deprecated.\u0022 in PyCharm?",
+      "Tags": [
+        "python",
+        "django",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776764/how-can-i-fix-the-calling-format-html-without-passing-args-or-kwargs-is-depre"
+    },
+    {
+      "Created": "2025-09-27T12:55:42Z",
+      "Title": "How to force Trino to always fetch data from source (no buffering/caching)?",
+      "Tags": [
+        "caching",
+        "trino"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776770/how-to-force-trino-to-always-fetch-data-from-source-no-buffering-caching"
+    },
+    {
+      "Created": "2025-09-27T12:58:06Z",
+      "Title": "How is the memory allocation done for vectors declared static",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776773/how-is-the-memory-allocation-done-for-vectors-declared-static"
+    },
+    {
+      "Created": "2025-09-27T12:58:14Z",
+      "Title": "Have I written incorrect code for rendering a block element in the Slate.js editor?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "slate.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776774/have-i-written-incorrect-code-for-rendering-a-block-element-in-the-slate-js-edit"
+    },
+    {
+      "Created": "2025-09-27T12:58:24Z",
+      "Title": "PyQt6 transparent overlay for FF7 Remake minigame won\u2019t catch hotkeys (Q / F1\u2013F9 ignored)",
+      "Tags": [
+        "python",
+        "keyboard",
+        "hotkeys",
+        "pyqt6",
+        "atexit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776775/pyqt6-transparent-overlay-for-ff7-remake-minigame-won-t-catch-hotkeys-q-f1-f9"
+    }
+  ]
+}

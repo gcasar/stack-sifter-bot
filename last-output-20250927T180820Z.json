@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-27T18:01:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T17:47:45Z",
+      "Title": "I\u0027m looking for a always-on mechanism for server to communicate with embededd devices",
+      "Tags": [
+        "architecture",
+        "grpc",
+        "mqtt",
+        "system-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776922/im-looking-for-a-always-on-mechanism-for-server-to-communicate-with-embededd-de"
+    },
+    {
+      "Created": "2025-09-27T17:54:15Z",
+      "Title": "XSS Attack : Is storing both Access and Refresh tokens in httpOnly cookie kinda pointless?",
+      "Tags": [
+        "single-sign-on",
+        "xss",
+        "access-token",
+        "refresh-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776926/xss-attack-is-storing-both-access-and-refresh-tokens-in-httponly-cookie-kinda"
+    },
+    {
+      "Created": "2025-09-27T18:01:30Z",
+      "Title": "The inside of an expo-radio-button RadioButtonItem is square since an update of my Expo SDK",
+      "Tags": [
+        "react-native",
+        "expo",
+        "radio-button",
+        "styles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776927/the-inside-of-an-expo-radio-button-radiobuttonitem-is-square-since-an-update-of"
+    }
+  ]
+}

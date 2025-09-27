@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-27T06:05:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T05:07:38Z",
+      "Title": "Flutter iOS build crashes with EXC_BAD_ACCESS in PathProviderPlugin",
+      "Tags": [
+        "ios",
+        "flutter",
+        "path-provider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776535/flutter-ios-build-crashes-with-exc-bad-access-in-pathproviderplugin"
+    },
+    {
+      "Created": "2025-09-27T06:05:02Z",
+      "Title": "dropdown menu not working on jquery in vite laravel 12",
+      "Tags": [
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776546/dropdown-menu-not-working-on-jquery-in-vite-laravel-12"
+    }
+  ]
+}

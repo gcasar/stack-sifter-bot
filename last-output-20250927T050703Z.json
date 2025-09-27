@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-27T04:57:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T04:08:06Z",
+      "Title": "Why does my dynamic form component in React lose focus when updating nested state with arrays of objects?",
+      "Tags": [
+        "reactjs",
+        "forms",
+        "hook",
+        "state-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776516/why-does-my-dynamic-form-component-in-react-lose-focus-when-updating-nested-stat"
+    },
+    {
+      "Created": "2025-09-27T04:09:21Z",
+      "Title": "OTA update fails: checksum/SHA256 mismatch when downloading .bin file over HTTP",
+      "Tags": [
+        "embedded",
+        "esp32",
+        "sha256",
+        "ethernet",
+        "ota"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776519/ota-update-fails-checksum-sha256-mismatch-when-downloading-bin-file-over-http"
+    },
+    {
+      "Created": "2025-09-27T04:09:41Z",
+      "Title": "Langchain-based model memory",
+      "Tags": [
+        "langchain",
+        "langchain-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776520/langchain-based-model-memory"
+    },
+    {
+      "Created": "2025-09-27T04:57:31Z",
+      "Title": "How to achieve per-phrase leading and alignment in OpenPDF ColumnText with inline rendering?",
+      "Tags": [
+        "java",
+        "itext",
+        "openpdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776532/how-to-achieve-per-phrase-leading-and-alignment-in-openpdf-columntext-with-inlin"
+    }
+  ]
+}

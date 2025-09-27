@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-27T20:58:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T20:31:04Z",
+      "Title": "Conda can\u0027t install python",
+      "Tags": [
+        "conda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776982/conda-cant-install-python"
+    },
+    {
+      "Created": "2025-09-27T20:32:04Z",
+      "Title": "How to merge two different git repos into one?",
+      "Tags": [
+        "git",
+        "github",
+        "git-merge",
+        "git-remote",
+        "git-mirror"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776983/how-to-merge-two-different-git-repos-into-one"
+    },
+    {
+      "Created": "2025-09-27T20:32:45Z",
+      "Title": "In JJ how do I find the most recent ancestor with commit message that matches regex?",
+      "Tags": [
+        "jujutsu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776984/in-jj-how-do-i-find-the-most-recent-ancestor-with-commit-message-that-matches-re"
+    },
+    {
+      "Created": "2025-09-27T20:38:46Z",
+      "Title": "Dynamic column drop per file in Azure Data Factory Data Flow (no merge/union)",
+      "Tags": [
+        "json",
+        "ssis",
+        "azure-data-factory",
+        "dynamic-columns",
+        "azure-mapping-data-flow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776990/dynamic-column-drop-per-file-in-azure-data-factory-data-flow-no-merge-union"
+    },
+    {
+      "Created": "2025-09-27T20:44:35Z",
+      "Title": "FluentValidation with ASP.NET Core MVC: DTOs without DataAnnotations still trigger default \u0022is required\u0022 messages",
+      "Tags": [
+        "asp.net-core",
+        "fluentvalidation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776992/fluentvalidation-with-asp-net-core-mvc-dtos-without-dataannotations-still-trigg"
+    },
+    {
+      "Created": "2025-09-27T20:45:26Z",
+      "Title": "Static factory methods return smart pointers vs plain type",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776993/static-factory-methods-return-smart-pointers-vs-plain-type"
+    },
+    {
+      "Created": "2025-09-27T20:51:22Z",
+      "Title": "Supabase GoTrue Ignores Custom Email Templates on Docker / Coolify",
+      "Tags": [
+        "supabase",
+        "supabase-flutter",
+        "coolify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776997/supabase-gotrue-ignores-custom-email-templates-on-docker-coolify"
+    },
+    {
+      "Created": "2025-09-27T20:58:34Z",
+      "Title": "JWT Sign Overloading error with typescript",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "jwt",
+        "overloading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777002/jwt-sign-overloading-error-with-typescript"
+    }
+  ]
+}

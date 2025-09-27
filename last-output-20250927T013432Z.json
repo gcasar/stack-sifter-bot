@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-27T01:21:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T00:55:20Z",
+      "Title": "OpenMP tasks not working in a Fortran code with asymmetric loads",
+      "Tags": [
+        "fortran",
+        "openmp",
+        "gfortran",
+        "fortran90"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776469/openmp-tasks-not-working-in-a-fortran-code-with-asymmetric-loads"
+    },
+    {
+      "Created": "2025-09-27T01:05:54Z",
+      "Title": "The undesired horizontal stretch when an item container enclosed by a grid item has grid item around it",
+      "Tags": [
+        "material-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776475/the-undesired-horizontal-stretch-when-an-item-container-enclosed-by-a-grid-item"
+    },
+    {
+      "Created": "2025-09-27T01:21:24Z",
+      "Title": "EF Core 9 \u002B CosmosDB with inheritance hierarchy: how can I perform point reads when querying by ID and partition key?",
+      "Tags": [
+        "c#",
+        "inheritance",
+        "entity-framework-core",
+        "azure-cosmosdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776480/ef-core-9-cosmosdb-with-inheritance-hierarchy-how-can-i-perform-point-reads-w"
+    }
+  ]
+}

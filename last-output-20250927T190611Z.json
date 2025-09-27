@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-27T18:56:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T18:12:44Z",
+      "Title": "GraphQL Codegen \u002B Apollo Client v4: Generated file uses skipToken import incorrectly in Next.js App Router",
+      "Tags": [
+        "javascript",
+        "next.js",
+        "graphql",
+        "apollo-client",
+        "graphql-codegen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776931/graphql-codegen-apollo-client-v4-generated-file-uses-skiptoken-import-incorre"
+    },
+    {
+      "Created": "2025-09-27T18:45:05Z",
+      "Title": "How to implement background notifications with action buttons (Accept/Decline) in iOS Flutter app?",
+      "Tags": [
+        "flutter",
+        "firebase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776947/how-to-implement-background-notifications-with-action-buttons-accept-decline-i"
+    },
+    {
+      "Created": "2025-09-27T18:51:09Z",
+      "Title": "How to use Enchantments in recipes (Fabric, MC 1.21.1)",
+      "Tags": [
+        "java",
+        "minecraft",
+        "fabric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776949/how-to-use-enchantments-in-recipes-fabric-mc-1-21-1"
+    },
+    {
+      "Created": "2025-09-27T18:56:59Z",
+      "Title": "Flutter InAppWebView \u002B Google Login: How to persist accounts across sessions without hitting CookieMismatch?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-inappwebview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776952/flutter-inappwebview-google-login-how-to-persist-accounts-across-sessions-wit"
+    }
+  ]
+}

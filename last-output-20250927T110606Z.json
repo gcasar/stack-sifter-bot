@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-09-27T10:55:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T10:55:33Z",
+      "Title": "How to use Better-Auth with Django Rest Framework and apply role-based actions (admin vs user)?",
+      "Tags": [
+        "django",
+        "django-rest-framework-simplejwt",
+        "next.js15",
+        "better-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776713/how-to-use-better-auth-with-django-rest-framework-and-apply-role-based-actions"
+    }
+  ]
+}

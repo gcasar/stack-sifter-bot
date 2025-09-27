@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-27T09:02:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T08:30:12Z",
+      "Title": "Issue with Safari tab bar background and modal dimming in iOS 26 (Liquid Glass design bottom bar)",
+      "Tags": [
+        "web",
+        "modal-dialog",
+        "mobile-safari",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776619/issue-with-safari-tab-bar-background-and-modal-dimming-in-ios-26-liquid-glass-d"
+    },
+    {
+      "Created": "2025-09-27T08:32:22Z",
+      "Title": "How to Fix a script by checking all input characters against all list elements, not just the first, using conditions?",
+      "Tags": [
+        "python",
+        "list",
+        "if-statement",
+        "input"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776620/how-to-fix-a-script-by-checking-all-input-characters-against-all-list-elements"
+    },
+    {
+      "Created": "2025-09-27T08:38:52Z",
+      "Title": "Error 405: Moved Temporarily from Google Apps Script even though server still accepts the payload",
+      "Tags": [
+        "javascript",
+        "google-sheets",
+        "google-apps-script",
+        "curl",
+        "http-status-code-405"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776622/error-405-moved-temporarily-from-google-apps-script-even-though-server-still-ac"
+    },
+    {
+      "Created": "2025-09-27T08:44:01Z",
+      "Title": "Prevent \u003Ciframe\u003E from reloading on component re-render in a tabbed Next.js dashboard",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "iframe",
+        "rerender"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776625/prevent-iframe-from-reloading-on-component-re-render-in-a-tabbed-next-js-dashb"
+    },
+    {
+      "Created": "2025-09-27T09:02:14Z",
+      "Title": "Tailwind CSS not applying cursor-pointer automatically to \u003Ca\u003E and \u003Cbutton\u003E in React \u002B Vite",
+      "Tags": [
+        "css",
+        "reactjs",
+        "hyperlink",
+        "tailwind-css",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776628/tailwind-css-not-applying-cursor-pointer-automatically-to-a-and-button-in-re"
+    },
+    {
+      "Created": "2025-09-27T09:02:39Z",
+      "Title": "Python 3.12 Generic syntax and undefined variables",
+      "Tags": [
+        "python",
+        "python-typing",
+        "python-3.12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776629/python-3-12-generic-syntax-and-undefined-variables"
+    }
+  ]
+}

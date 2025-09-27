@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-27T07:58:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T07:19:32Z",
+      "Title": "Why does useEffect with async/await in React sometimes cause double API calls in development?",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "async-await",
+        "mern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776581/why-does-useeffect-with-async-await-in-react-sometimes-cause-double-api-calls-in"
+    },
+    {
+      "Created": "2025-09-27T07:36:06Z",
+      "Title": "Why Do Signs Differ Between Joint Models with Interaction Terms and Separate Regressions in Group Comparisons?",
+      "Tags": [
+        "regression",
+        "stata",
+        "interaction",
+        "group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776591/why-do-signs-differ-between-joint-models-with-interaction-terms-and-separate-reg"
+    },
+    {
+      "Created": "2025-09-27T07:52:11Z",
+      "Title": "Gemini CLI crashes with TypeError: fetch failed from undici on macOS",
+      "Tags": [
+        "node.js",
+        "macos",
+        "npm",
+        "google-gemini",
+        "gemini-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776595/gemini-cli-crashes-with-typeerror-fetch-failed-from-undici-on-macos"
+    },
+    {
+      "Created": "2025-09-27T07:58:32Z",
+      "Title": "File uploading with \u0027ember-file-upload\u0027",
+      "Tags": [
+        "ember.js",
+        "upload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776598/file-uploading-with-ember-file-upload"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-27T12:07:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T11:39:44Z",
+      "Title": "Why does dotnet restore on a .sln ignore \u0060DownloadContentFiles\u0060 tasks in .csproj projects?",
+      "Tags": [
+        "c#",
+        ".net",
+        "msbuild",
+        "csproj",
+        "sln-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776731/why-does-dotnet-restore-on-a-sln-ignore-downloadcontentfiles-tasks-in-csproj"
+    },
+    {
+      "Created": "2025-09-27T12:05:06Z",
+      "Title": "List value is changing randomly",
+      "Tags": [
+        "python",
+        "list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776735/list-value-is-changing-randomly"
+    },
+    {
+      "Created": "2025-09-27T12:05:49Z",
+      "Title": "OpenGL ES 3.0 Android C\u002B\u002B/JNI texture rendering shows black screen",
+      "Tags": [
+        "opengl-es"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776736/opengl-es-3-0-android-c-jni-texture-rendering-shows-black-screen"
+    },
+    {
+      "Created": "2025-09-27T12:07:57Z",
+      "Title": "How to use data pre-computed in previous ETL SSIS Nodes?",
+      "Tags": [
+        "sql-server",
+        "ssis",
+        "etl",
+        "data-warehouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776739/how-to-use-data-pre-computed-in-previous-etl-ssis-nodes"
+    }
+  ]
+}

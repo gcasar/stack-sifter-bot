@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-27T06:52:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T06:35:41Z",
+      "Title": "Touch Sensing on STM32",
+      "Tags": [
+        "embedded",
+        "stm32",
+        "knx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776562/touch-sensing-on-stm32"
+    },
+    {
+      "Created": "2025-09-27T06:44:10Z",
+      "Title": "How can I calculate XIRR from irregular cash flows in Python and validate results against Excel\u2019s XIRR function?",
+      "Tags": [
+        "python",
+        "pandas",
+        "finance",
+        "xirr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776565/how-can-i-calculate-xirr-from-irregular-cash-flows-in-python-and-validate-result"
+    },
+    {
+      "Created": "2025-09-27T06:52:35Z",
+      "Title": "react-native-pdf on Android 15\u002B shows 16\u202FKB page size warning \u2013 how to fix?",
+      "Tags": [
+        "react-native",
+        "react-native-pdf",
+        "16kb-page-size"
+      ],
+      "Url": "https://stackoverflow.com/questions/79776569/react-native-pdf-on-android-15-shows-16-kb-page-size-warning-how-to-fix"
+    }
+  ]
+}

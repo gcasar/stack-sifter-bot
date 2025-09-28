@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-28T16:55:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T16:08:29Z",
+      "Title": "Prevent button to move when adding second button",
+      "Tags": [
+        "macos",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777437/prevent-button-to-move-when-adding-second-button"
+    },
+    {
+      "Created": "2025-09-28T16:36:58Z",
+      "Title": "React Native Video Subtitle doesnt show",
+      "Tags": [
+        "react-native",
+        "expo",
+        "react-native-video",
+        "video-subtitles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777449/react-native-video-subtitle-doesnt-show"
+    },
+    {
+      "Created": "2025-09-28T16:46:50Z",
+      "Title": "Globally override __mul__ in Python (coercion difficulties in Sagemath)",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "sage",
+        "magic-methods"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777455/globally-override-mul-in-python-coercion-difficulties-in-sagemath"
+    },
+    {
+      "Created": "2025-09-28T16:50:43Z",
+      "Title": "esp32 dmx packet having spikes on signal",
+      "Tags": [
+        "c\u002B\u002B",
+        "task",
+        "espressif-idf",
+        "dmx512"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777456/esp32-dmx-packet-having-spikes-on-signal"
+    },
+    {
+      "Created": "2025-09-28T16:53:12Z",
+      "Title": "HLSL Texture2DArray.Load can only load pixel of first texture",
+      "Tags": [
+        "hlsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777460/hlsl-texture2darray-load-can-only-load-pixel-of-first-texture"
+    },
+    {
+      "Created": "2025-09-28T16:55:15Z",
+      "Title": "LocalCUDACluster raises pynvml NVMLError",
+      "Tags": [
+        "cuda",
+        "windows-subsystem-for-linux",
+        "dask",
+        "distributed",
+        "ubuntu-22.04"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777461/localcudacluster-raises-pynvml-nvmlerror"
+    }
+  ]
+}

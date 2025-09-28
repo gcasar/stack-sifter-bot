@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-28T22:02:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T21:07:38Z",
+      "Title": "How to retrieve data from a select HTML form to Flask [duplicate]",
+      "Tags": [
+        "python",
+        "sqlite",
+        "flask",
+        "jinja2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777599/how-to-retrieve-data-from-a-select-html-form-to-flask"
+    },
+    {
+      "Created": "2025-09-28T21:59:20Z",
+      "Title": "Implicit type casting within parathensis and literals in C",
+      "Tags": [
+        "c",
+        "types",
+        "type-conversion",
+        "bit-manipulation",
+        "bit-shift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777612/implicit-type-casting-within-parathensis-and-literals-in-c"
+    },
+    {
+      "Created": "2025-09-28T22:02:32Z",
+      "Title": "Is my interpretation of working with Hamming SEC code correct?",
+      "Tags": [
+        "binary",
+        "hamming-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777615/is-my-interpretation-of-working-with-hamming-sec-code-correct"
+    }
+  ]
+}

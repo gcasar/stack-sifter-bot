@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-28T00:29:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-27T23:23:38Z",
+      "Title": "How do I send a string to this unmanaged C\u002B\u002B function?",
+      "Tags": [
+        "c#",
+        "pinvoke",
+        "marshalling",
+        "dllimport"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777051/how-do-i-send-a-string-to-this-unmanaged-c-function"
+    },
+    {
+      "Created": "2025-09-28T00:29:16Z",
+      "Title": "How do i optimize my AgentAI and make the IF node work?",
+      "Tags": [
+        "node.js",
+        "n8n",
+        "openai-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777064/how-do-i-optimize-my-agentai-and-make-the-if-node-work"
+    }
+  ]
+}

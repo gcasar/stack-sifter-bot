@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-28T12:08:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T11:48:45Z",
+      "Title": "Transfer learning on MobileNetV3 never learn at all",
+      "Tags": [
+        "tensorflow",
+        "keras",
+        "transfer-learning",
+        "mobilenet",
+        "python-3.13"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777300/transfer-learning-on-mobilenetv3-never-learn-at-all"
+    },
+    {
+      "Created": "2025-09-28T11:54:58Z",
+      "Title": "read data in hid(linux/hid.h)",
+      "Tags": [
+        "linux",
+        "linux-device-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777302/read-data-in-hidlinux-hid-h"
+    },
+    {
+      "Created": "2025-09-28T12:04:25Z",
+      "Title": "Parquet writing in Java",
+      "Tags": [
+        "java",
+        "parquet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777306/parquet-writing-in-java"
+    },
+    {
+      "Created": "2025-09-28T12:06:48Z",
+      "Title": "Access denied for user \u0027student\u0027@\u0027172.21.0.1\u0027 (using password: YES) in docker compose",
+      "Tags": [
+        "mysql",
+        "docker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777307/access-denied-for-user-student172-21-0-1-using-password-yes-in-docker-co"
+    },
+    {
+      "Created": "2025-09-28T12:08:17Z",
+      "Title": "Adobe Acrobat Folder Level script ( Redact Specific word)",
+      "Tags": [
+        "javascript",
+        "acrobat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777308/adobe-acrobat-folder-level-script-redact-specific-word"
+    }
+  ]
+}

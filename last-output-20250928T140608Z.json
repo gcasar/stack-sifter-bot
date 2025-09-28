@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-28T13:56:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T13:22:15Z",
+      "Title": "Why would a firebase HTTP function deploy as a Cloud Run url?",
+      "Tags": [
+        "firebase",
+        "google-cloud-functions",
+        "google-cloud-run"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777348/why-would-a-firebase-http-function-deploy-as-a-cloud-run-url"
+    },
+    {
+      "Created": "2025-09-28T13:39:27Z",
+      "Title": "Transfer subscription from one of my stripe customers to another [closed]",
+      "Tags": [
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777357/transfer-subscription-from-one-of-my-stripe-customers-to-another"
+    },
+    {
+      "Created": "2025-09-28T13:41:35Z",
+      "Title": "Tables are not getting create with dynamic schema name",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777358/tables-are-not-getting-create-with-dynamic-schema-name"
+    },
+    {
+      "Created": "2025-09-28T13:53:45Z",
+      "Title": "Why doesn\u2019t browser_evaluate bind ref to an element in Playwright MCP 0.0.40?",
+      "Tags": [
+        "playwright",
+        "model-context-protocol",
+        "playwright-mcp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777362/why-doesn-t-browser-evaluate-bind-ref-to-an-element-in-playwright-mcp-0-0-40"
+    },
+    {
+      "Created": "2025-09-28T13:56:40Z",
+      "Title": "How to implement multi-frame joint conditional GAN with timestamps and random variable \uD835\uDC67 z?",
+      "Tags": [
+        "image",
+        "image-processing",
+        "pytorch",
+        "generative-adversarial-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777363/how-to-implement-multi-frame-joint-conditional-gan-with-timestamps-and-random-va"
+    }
+  ]
+}

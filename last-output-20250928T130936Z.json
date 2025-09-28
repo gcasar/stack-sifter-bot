@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-28T13:01:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T12:27:31Z",
+      "Title": "Google Play Billing: purchaseState is always 0 in license test mode. Expected?",
+      "Tags": [
+        "android",
+        "in-app-purchase",
+        "in-app-billing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777317/google-play-billing-purchasestate-is-always-0-in-license-test-mode-expected"
+    },
+    {
+      "Created": "2025-09-28T12:39:52Z",
+      "Title": "How to use FIXED_LIST instead of MULTICAST in griddb using jdbc driver",
+      "Tags": [
+        "java",
+        "jdbc",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777322/how-to-use-fixed-list-instead-of-multicast-in-griddb-using-jdbc-driver"
+    },
+    {
+      "Created": "2025-09-28T12:48:16Z",
+      "Title": "MedusaJS cookies not set with SameSite=None for cross-subdomain admin panel (Nginx \u002B VPS)",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "express",
+        "medusajs",
+        "medusa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777327/medusajs-cookies-not-set-with-samesite-none-for-cross-subdomain-admin-panel-ngi"
+    },
+    {
+      "Created": "2025-09-28T12:58:43Z",
+      "Title": "agora media push apis to support passing text as a label",
+      "Tags": [
+        "node.js",
+        "backend",
+        "streaming",
+        "agora.io",
+        "agora"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777332/agora-media-push-apis-to-support-passing-text-as-a-label"
+    },
+    {
+      "Created": "2025-09-28T13:01:57Z",
+      "Title": "TypeError: Cannot read properties of undefined (reading \u0027retrieveSecret\u0027)",
+      "Tags": [
+        "typescript",
+        "azure",
+        "azure-pipelines",
+        "azure-pipelines-build-task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777334/typeerror-cannot-read-properties-of-undefined-reading-retrievesecret"
+    }
+  ]
+}

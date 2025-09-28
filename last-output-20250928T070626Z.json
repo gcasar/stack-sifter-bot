@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-28T06:59:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T06:48:55Z",
+      "Title": "Requesting a RegEx pattern recommendation to match text in XML tags that spans multiple lines?",
+      "Tags": [
+        "regex",
+        "xml",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777175/requesting-a-regex-pattern-recommendation-to-match-text-in-xml-tags-that-spans-m"
+    },
+    {
+      "Created": "2025-09-28T06:59:33Z",
+      "Title": "Why is there a difference between viewer state from Autodesk Construction Cloud Issues and the Forge Viewer getState() cutplanes?",
+      "Tags": [
+        "autodesk-viewer",
+        "autodesk-bim360",
+        "autodesk-construction-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777182/why-is-there-a-difference-between-viewer-state-from-autodesk-construction-cloud"
+    }
+  ]
+}

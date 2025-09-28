@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-28T06:01:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T05:29:32Z",
+      "Title": "\u0022HiveServer2 fails to start on Windows due to Unable to create directory file:\\C:\\hive\\tmp\\resources despite correct hive-site.xml configuration\u0022",
+      "Tags": [
+        "java",
+        "mysql",
+        "apache-spark",
+        "hadoop",
+        "hive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777140/hiveserver2-fails-to-start-on-windows-due-to-unable-to-create-directory-file-c"
+    },
+    {
+      "Created": "2025-09-28T05:37:54Z",
+      "Title": "OptaPlanner: Solver Config XML does not exist as a classpath resource",
+      "Tags": [
+        "java",
+        "optaplanner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777142/optaplanner-solver-config-xml-does-not-exist-as-a-classpath-resource"
+    },
+    {
+      "Created": "2025-09-28T05:58:17Z",
+      "Title": "AEM forms add a row between two existing rows",
+      "Tags": [
+        "forms",
+        "aem"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777150/aem-forms-add-a-row-between-two-existing-rows"
+    },
+    {
+      "Created": "2025-09-28T06:01:55Z",
+      "Title": "Performance Issues with DevExtreme Angular Components (v25.1): Inefficient Hover Class Manipulation on DOM Elements",
+      "Tags": [
+        "angular",
+        "typescript",
+        "devexpress",
+        "devextreme"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777153/performance-issues-with-devextreme-angular-components-v25-1-inefficient-hover"
+    }
+  ]
+}

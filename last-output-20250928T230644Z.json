@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-28T22:54:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T22:40:34Z",
+      "Title": "How can I know the tangents of the start and end points of these two Hermite curves in MATLAB?",
+      "Tags": [
+        "matlab",
+        "vector",
+        "curve",
+        "bezier",
+        "hermite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777629/how-can-i-know-the-tangents-of-the-start-and-end-points-of-these-two-hermite-cur"
+    },
+    {
+      "Created": "2025-09-28T22:41:16Z",
+      "Title": "Insert text overlay in image using GraphicsMagick",
+      "Tags": [
+        "linux",
+        "image",
+        "text",
+        "graphicsmagick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777631/insert-text-overlay-in-image-using-graphicsmagick"
+    },
+    {
+      "Created": "2025-09-28T22:54:28Z",
+      "Title": "Type hinting for dynamically modified variable type through __setattr__",
+      "Tags": [
+        "python",
+        "casting",
+        "mypy",
+        "pyright",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777635/type-hinting-for-dynamically-modified-variable-type-through-setattr"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-28T03:18:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T02:46:49Z",
+      "Title": "Consuming message from weblogic jms queue in wso2 mi",
+      "Tags": [
+        "wso2",
+        "wso2-enterprise-integrator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777086/consuming-message-from-weblogic-jms-queue-in-wso2-mi"
+    },
+    {
+      "Created": "2025-09-28T03:18:54Z",
+      "Title": "How to get room availability from opera OHIP apis?",
+      "Tags": [
+        "java",
+        "opera"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777097/how-to-get-room-availability-from-opera-ohip-apis"
+    }
+  ]
+}

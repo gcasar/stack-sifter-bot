@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-28T16:03:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T15:24:08Z",
+      "Title": "Mosquitto connection",
+      "Tags": [
+        "python",
+        "mqtt",
+        "mosquitto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777413/mosquitto-connection"
+    },
+    {
+      "Created": "2025-09-28T15:28:36Z",
+      "Title": "Confusing write-problem on a Ubuntu-server with PostgreSQL",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777414/confusing-write-problem-on-a-ubuntu-server-with-postgresql"
+    },
+    {
+      "Created": "2025-09-28T15:30:36Z",
+      "Title": "Why multiple KafkaTemplate object with different generic types don\u0027t cause NoUniqueBeanDefinitionException in Spring Boot?",
+      "Tags": [
+        "generics",
+        "spring-kafka",
+        "spring-autoconfiguration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777415/why-multiple-kafkatemplate-object-with-different-generic-types-dont-cause-nouni"
+    },
+    {
+      "Created": "2025-09-28T15:37:30Z",
+      "Title": "Failing to succesfully create the Dear Imgui Multi ViewPort example with MinGW",
+      "Tags": [
+        "c\u002B\u002B",
+        "mingw",
+        "imgui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777418/failing-to-succesfully-create-the-dear-imgui-multi-viewport-example-with-mingw"
+    },
+    {
+      "Created": "2025-09-28T16:00:23Z",
+      "Title": "macOS/iOS app CloudKit only syncs after app is force quite, or device is locked and unlocked",
+      "Tags": [
+        "ios",
+        "swift",
+        "macos",
+        "cloudkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777432/macos-ios-app-cloudkit-only-syncs-after-app-is-force-quite-or-device-is-locked"
+    },
+    {
+      "Created": "2025-09-28T16:03:19Z",
+      "Title": "Installing Gtkada 2025 for windows 11",
+      "Tags": [
+        "installation",
+        "gtkada"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777434/installing-gtkada-2025-for-windows-11"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-28T03:59:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T03:25:45Z",
+      "Title": "Looking for advice on how to work with json files that sort data in atypical format",
+      "Tags": [
+        "r",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777101/looking-for-advice-on-how-to-work-with-json-files-that-sort-data-in-atypical-for"
+    },
+    {
+      "Created": "2025-09-28T03:59:28Z",
+      "Title": "Split-Plot Design Analysis using Base R",
+      "Tags": [
+        "anova"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777115/split-plot-design-analysis-using-base-r"
+    }
+  ]
+}

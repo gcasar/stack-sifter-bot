@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-28T07:58:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T07:16:58Z",
+      "Title": "How can I quickly view and remove EXIF metadata (like GPS location) from multiple images?",
+      "Tags": [
+        "exif",
+        "exiftool"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777192/how-can-i-quickly-view-and-remove-exif-metadata-like-gps-location-from-multipl"
+    },
+    {
+      "Created": "2025-09-28T07:20:54Z",
+      "Title": "c# Overriding listview view property",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "overriding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777196/c-sharp-overriding-listview-view-property"
+    },
+    {
+      "Created": "2025-09-28T07:45:17Z",
+      "Title": "how can i make my file_maker() function print \u0022list1\u0022 from the input() function?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "list",
+        "click"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777209/how-can-i-make-my-file-maker-function-print-list1-from-the-input-function"
+    },
+    {
+      "Created": "2025-09-28T07:58:31Z",
+      "Title": "VS Code: Disable color decorators for all files EXCEPT CSS",
+      "Tags": [
+        "visual-studio-code",
+        "settings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777216/vs-code-disable-color-decorators-for-all-files-except-css"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-28T19:48:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T19:06:51Z",
+      "Title": "How to concatenate aliases as string in a docker compose file",
+      "Tags": [
+        "docker",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777542/how-to-concatenate-aliases-as-string-in-a-docker-compose-file"
+    },
+    {
+      "Created": "2025-09-28T19:20:51Z",
+      "Title": "scipy.linalg.eig(L) gives imaginary parts that shouldn\u0027t be there",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "scipy",
+        "linear-algebra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777547/scipy-linalg-eigl-gives-imaginary-parts-that-shouldnt-be-there"
+    },
+    {
+      "Created": "2025-09-28T19:29:53Z",
+      "Title": "how to implement syscalls with newlib nano",
+      "Tags": [
+        "c",
+        "arm",
+        "printf",
+        "stm32",
+        "newlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777553/how-to-implement-syscalls-with-newlib-nano"
+    },
+    {
+      "Created": "2025-09-28T19:40:26Z",
+      "Title": "(Kotlin) Exception in thread \u0022main\u0022 java.lang.NoClassDefFoundError: org/lwjgl/glfw/GLFW",
+      "Tags": [
+        "kotlin",
+        "jvm",
+        "lwjgl",
+        "glfw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777557/kotlin-exception-in-thread-main-java-lang-noclassdeffounderror-org-lwjgl-gl"
+    },
+    {
+      "Created": "2025-09-28T19:41:00Z",
+      "Title": "How can I avoid a bootstrap deadlock in a Melos project with a dynamically generated package?",
+      "Tags": [
+        "flutter",
+        "architecture",
+        "dependencies",
+        "openapi-generator",
+        "melos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777558/how-can-i-avoid-a-bootstrap-deadlock-in-a-melos-project-with-a-dynamically-gener"
+    },
+    {
+      "Created": "2025-09-28T19:48:17Z",
+      "Title": "Difference between interpolation (pandas) and linear space (numpy)",
+      "Tags": [
+        "python",
+        "pandas",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777562/difference-between-interpolation-pandas-and-linear-space-numpy"
+    }
+  ]
+}

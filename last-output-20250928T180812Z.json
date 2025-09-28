@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-28T17:59:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T17:30:45Z",
+      "Title": "API Platform 4.1: Subresource POST Operations Not Creating Multiple Entries",
+      "Tags": [
+        "php",
+        "rest",
+        "symfony",
+        "api-platform.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777480/api-platform-4-1-subresource-post-operations-not-creating-multiple-entries"
+    },
+    {
+      "Created": "2025-09-28T17:35:40Z",
+      "Title": "I can not get the storms to appear on graph and it is not plotting right",
+      "Tags": [
+        "python",
+        "pandas",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777484/i-can-not-get-the-storms-to-appear-on-graph-and-it-is-not-plotting-right"
+    },
+    {
+      "Created": "2025-09-28T17:44:50Z",
+      "Title": "Helicopter view (elevated looking down at an angle)?",
+      "Tags": [
+        "leaflet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777489/helicopter-view-elevated-looking-down-at-an-angle"
+    },
+    {
+      "Created": "2025-09-28T17:49:01Z",
+      "Title": "How to call .NET Core 8.0.20 C# code from Excel VBA through a native C\u002B\u002B DLL host?",
+      "Tags": [
+        "c\u002B\u002B",
+        "dll",
+        "c#-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777493/how-to-call-net-core-8-0-20-c-sharp-code-from-excel-vba-through-a-native-c-dl"
+    },
+    {
+      "Created": "2025-09-28T17:59:00Z",
+      "Title": "If I want a string of text to print if a variable is less than a number how can I do this?",
+      "Tags": [
+        "python",
+        "function",
+        "variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777501/if-i-want-a-string-of-text-to-print-if-a-variable-is-less-than-a-number-how-can"
+    }
+  ]
+}

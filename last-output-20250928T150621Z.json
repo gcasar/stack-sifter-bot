@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-28T15:00:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T14:24:31Z",
+      "Title": "I use Swiper that have two custom navigations. The first works, but the second does not\u2014why?",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "slider",
+        "swiper.js",
+        "nextjs-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777374/i-use-swiper-that-have-two-custom-navigations-the-first-works-but-the-second-d"
+    },
+    {
+      "Created": "2025-09-28T14:34:31Z",
+      "Title": "Can\u0027t click on the button in modal window of electron app",
+      "Tags": [
+        "python",
+        "electron",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777377/cant-click-on-the-button-in-modal-window-of-electron-app"
+    },
+    {
+      "Created": "2025-09-28T14:36:35Z",
+      "Title": "Basic userscript: /little customization (for hotkeying buttons on a website)",
+      "Tags": [
+        "javascript",
+        "html",
+        "tampermonkey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777379/basic-userscript-little-customization-for-hotkeying-buttons-on-a-website"
+    },
+    {
+      "Created": "2025-09-28T14:40:45Z",
+      "Title": "UnauthorizedAccessException not being caught in FakeItEasy test",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xunit.net",
+        "fluent-assertions",
+        "fakeiteasy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777381/unauthorizedaccessexception-not-being-caught-in-fakeiteasy-test"
+    },
+    {
+      "Created": "2025-09-28T14:47:03Z",
+      "Title": "Play a sound clip on first button tap on mobile?",
+      "Tags": [
+        "reactjs",
+        "audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777388/play-a-sound-clip-on-first-button-tap-on-mobile"
+    },
+    {
+      "Created": "2025-09-28T14:55:05Z",
+      "Title": "How can built a multiple array based on a existing one",
+      "Tags": [
+        "arrays",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777395/how-can-built-a-multiple-array-based-on-a-existing-one"
+    },
+    {
+      "Created": "2025-09-28T14:59:36Z",
+      "Title": "I want to recreate these curves using Flutter",
+      "Tags": [
+        "flutter",
+        "user-interface",
+        "mobile",
+        "flutter-animation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777397/i-want-to-recreate-these-curves-using-flutter"
+    },
+    {
+      "Created": "2025-09-28T15:00:42Z",
+      "Title": "Preventing GPU memory leak due to a custom neural network layer",
+      "Tags": [
+        "deep-learning",
+        "pytorch",
+        "neural-network",
+        "computer-vision",
+        "semantic-segmentation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777399/preventing-gpu-memory-leak-due-to-a-custom-neural-network-layer"
+    }
+  ]
+}

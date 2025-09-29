@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-29T20:01:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T19:24:28Z",
+      "Title": "Databricks model serving endpoint returns 403 \u0022Unauthorized access to workspace\u0022 when using service principal",
+      "Tags": [
+        "python",
+        "oauth",
+        "databricks",
+        "azure-service-principal",
+        "databricks-rest-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778479/databricks-model-serving-endpoint-returns-403-unauthorized-access-to-workspace"
+    },
+    {
+      "Created": "2025-09-29T19:45:22Z",
+      "Title": "Alternative to getSVGForLocalExport in Highcharts 12.4.0?",
+      "Tags": [
+        "javascript",
+        "highcharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778487/alternative-to-getsvgforlocalexport-in-highcharts-12-4-0"
+    },
+    {
+      "Created": "2025-09-29T19:48:19Z",
+      "Title": "Problems with running local Hedera node on M4 Mac [closed]",
+      "Tags": [
+        "docker",
+        "hedera-hashgraph",
+        "hashgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778490/problems-with-running-local-hedera-node-on-m4-mac"
+    },
+    {
+      "Created": "2025-09-29T20:01:52Z",
+      "Title": "User-mode program for the kernel driver crashes when startet instand of doing his function",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "winapi",
+        "driver",
+        "windows-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778497/user-mode-program-for-the-kernel-driver-crashes-when-startet-instand-of-doing-hi"
+    }
+  ]
+}

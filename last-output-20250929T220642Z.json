@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-29T22:05:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T21:31:58Z",
+      "Title": "Cannot instantiate singleton class implemented by metaclass with default value",
+      "Tags": [
+        "python-3.x",
+        "singleton",
+        "metaclass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778549/cannot-instantiate-singleton-class-implemented-by-metaclass-with-default-value"
+    },
+    {
+      "Created": "2025-09-29T21:33:20Z",
+      "Title": "40 second disconnect between \u003EEP32c3 and React Native App",
+      "Tags": [
+        "react-native",
+        "arduino-esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778550/40-second-disconnect-between-ep32c3-and-react-native-app"
+    },
+    {
+      "Created": "2025-09-29T21:39:27Z",
+      "Title": "Qt6 - Clipping a child rectangle to a parent rectangle with a radius using MultiEffect QML type",
+      "Tags": [
+        "qt",
+        "qml",
+        "qtquick2",
+        "qt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778553/qt6-clipping-a-child-rectangle-to-a-parent-rectangle-with-a-radius-using-multi"
+    },
+    {
+      "Created": "2025-09-29T21:49:04Z",
+      "Title": "Problem starting Docker Desktop after update",
+      "Tags": [
+        "windows",
+        "docker",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778554/problem-starting-docker-desktop-after-update"
+    },
+    {
+      "Created": "2025-09-29T21:51:49Z",
+      "Title": "How to configure GNU binutils for barel-metal ELF targets with additional PE/COFF support",
+      "Tags": [
+        "configuration",
+        "gnu",
+        "binutils"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778555/how-to-configure-gnu-binutils-for-barel-metal-elf-targets-with-additional-pe-cof"
+    },
+    {
+      "Created": "2025-09-29T21:55:39Z",
+      "Title": "What does the parameter encoding mean in pd.read_csv()?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778556/what-does-the-parameter-encoding-mean-in-pd-read-csv"
+    },
+    {
+      "Created": "2025-09-29T22:05:27Z",
+      "Title": "FFMPEG: set creation_time for split wav files based on original file creation_time",
+      "Tags": [
+        "ffmpeg",
+        "wav"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778563/ffmpeg-set-creation-time-for-split-wav-files-based-on-original-file-creation-ti"
+    }
+  ]
+}

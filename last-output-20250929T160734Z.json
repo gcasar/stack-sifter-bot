@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-29T16:05:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T15:29:30Z",
+      "Title": "Shiny interactive plot (clicking) suddenly does not work with ggplot anymore",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "shiny",
+        "brush",
+        "clicking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778305/shiny-interactive-plot-clicking-suddenly-does-not-work-with-ggplot-anymore"
+    },
+    {
+      "Created": "2025-09-29T15:42:02Z",
+      "Title": "Python unittest.mock fails when using pydantic.BaseModel",
+      "Tags": [
+        "mocking",
+        "pytest",
+        "python-unittest",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778318/python-unittest-mock-fails-when-using-pydantic-basemodel"
+    },
+    {
+      "Created": "2025-09-29T15:50:31Z",
+      "Title": "pycharm seems to load some modules BEFORE my own code",
+      "Tags": [
+        "python",
+        "import",
+        "module",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778324/pycharm-seems-to-load-some-modules-before-my-own-code"
+    },
+    {
+      "Created": "2025-09-29T15:53:52Z",
+      "Title": "how to have a tick mark on a d3 x-axis for every year rather than every other",
+      "Tags": [
+        "javascript",
+        "d3.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778326/how-to-have-a-tick-mark-on-a-d3-x-axis-for-every-year-rather-than-every-other"
+    },
+    {
+      "Created": "2025-09-29T15:58:09Z",
+      "Title": "Broken Sudo access on server and facing tty issues [closed]",
+      "Tags": [
+        "bind",
+        "sudo",
+        "tty",
+        "chroot",
+        "pts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778327/broken-sudo-access-on-server-and-facing-tty-issues"
+    },
+    {
+      "Created": "2025-09-29T15:58:26Z",
+      "Title": "Python not running in VSCode using WSL remote",
+      "Tags": [
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778328/python-not-running-in-vscode-using-wsl-remote"
+    },
+    {
+      "Created": "2025-09-29T15:59:10Z",
+      "Title": "Efficient way to extract substrings (like date and strike price) from filenames in Pandas",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778330/efficient-way-to-extract-substrings-like-date-and-strike-price-from-filenames"
+    },
+    {
+      "Created": "2025-09-29T16:05:08Z",
+      "Title": "Assertion failed: (self-\u003Eu.Consumer.rkqu) for confluence python kafka",
+      "Tags": [
+        "python-3.x",
+        "apache-kafka",
+        "confluence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778333/assertion-failed-self-u-consumer-rkqu-for-confluence-python-kafka"
+    }
+  ]
+}

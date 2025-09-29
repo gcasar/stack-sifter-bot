@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-29T13:14:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T13:04:15Z",
+      "Title": "command to reduce local git history equivalent to: git rev-parse HEAD \u003E.git/shallow",
+      "Tags": [
+        "git",
+        "shallow-clone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778125/command-to-reduce-local-git-history-equivalent-to-git-rev-parse-head-git-shal"
+    },
+    {
+      "Created": "2025-09-29T13:06:43Z",
+      "Title": "Pug html loader \u0026 Webpack loader Error in Aurelia project",
+      "Tags": [
+        "node.js",
+        "webpack",
+        "aurelia",
+        "pug-loader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778133/pug-html-loader-webpack-loader-error-in-aurelia-project"
+    },
+    {
+      "Created": "2025-09-29T13:09:42Z",
+      "Title": "Having trouble with Go Templates - wanting to display base/index.html layout across all pages",
+      "Tags": [
+        "html",
+        "go",
+        "go-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778138/having-trouble-with-go-templates-wanting-to-display-base-index-html-layout-acr"
+    },
+    {
+      "Created": "2025-09-29T13:14:01Z",
+      "Title": "Navigation issue missing or incorrect back button behavior",
+      "Tags": [
+        "react-navigation",
+        "expo-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778141/navigation-issue-missing-or-incorrect-back-button-behavior"
+    }
+  ]
+}

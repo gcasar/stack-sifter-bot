@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-29T12:07:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T11:06:16Z",
+      "Title": "Can\u2019t import package",
+      "Tags": [
+        "go",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778034/can-t-import-package"
+    },
+    {
+      "Created": "2025-09-29T11:52:16Z",
+      "Title": "How to get the parent of an issue using the GitLab API on Python?",
+      "Tags": [
+        "python",
+        "gitlab-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778068/how-to-get-the-parent-of-an-issue-using-the-gitlab-api-on-python"
+    },
+    {
+      "Created": "2025-09-29T11:53:38Z",
+      "Title": "multiple targets in Makefile",
+      "Tags": [
+        "gnu-make"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778069/multiple-targets-in-makefile"
+    },
+    {
+      "Created": "2025-09-29T12:07:03Z",
+      "Title": "Get Dual Bound of a QP with CPlex",
+      "Tags": [
+        "optimization",
+        "cplex",
+        "quadratic-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778077/get-dual-bound-of-a-qp-with-cplex"
+    },
+    {
+      "Created": "2025-09-29T12:07:53Z",
+      "Title": "append to file and remove first lines if more than N",
+      "Tags": [
+        "bash",
+        "sed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778080/append-to-file-and-remove-first-lines-if-more-than-n"
+    }
+  ]
+}

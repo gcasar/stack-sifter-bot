@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-29T23:04:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T22:54:10Z",
+      "Title": "How to remove background from all sides of bill photo",
+      "Tags": [
+        "opencv",
+        ".net-core",
+        "image-processing",
+        "edge-detection",
+        "canny-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778584/how-to-remove-background-from-all-sides-of-bill-photo"
+    },
+    {
+      "Created": "2025-09-29T22:57:23Z",
+      "Title": "Strict data/visual separation in game architecture: GameObjects with zero state - practical or over-engineered?",
+      "Tags": [
+        "unity-game-engine",
+        "architecture",
+        "game-development",
+        "multiplayer",
+        "separation-of-concerns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778587/strict-data-visual-separation-in-game-architecture-gameobjects-with-zero-state"
+    },
+    {
+      "Created": "2025-09-29T23:04:21Z",
+      "Title": "How is extension for python impacted from older setup.py to newer package distribution tool",
+      "Tags": [
+        "python-3.x",
+        "pip",
+        "setuptools",
+        "pyproject.toml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778592/how-is-extension-for-python-impacted-from-older-setup-py-to-newer-package-distri"
+    }
+  ]
+}

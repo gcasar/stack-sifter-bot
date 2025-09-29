@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-29T15:05:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T14:02:48Z",
+      "Title": "java.lang.NoSuchMethodError: kotlinx.coroutines.AbstractTimeSource when building Android library with C\u002B\u002B",
+      "Tags": [
+        "android",
+        "c\u002B\u002B",
+        "cmake",
+        "android-ndk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778206/java-lang-nosuchmethoderror-kotlinx-coroutines-abstracttimesource-when-building"
+    },
+    {
+      "Created": "2025-09-29T14:11:47Z",
+      "Title": "checking is double value rational",
+      "Tags": [
+        "java",
+        "rational-number"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778218/checking-is-double-value-rational"
+    },
+    {
+      "Created": "2025-09-29T14:56:36Z",
+      "Title": "I\u0027m getting a dtype error for Pytorch\u0027s CrossEntropyLoss() Expecting a float",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "deep-learning",
+        "pytorch",
+        "neural-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778268/im-getting-a-dtype-error-for-pytorchs-crossentropyloss-expecting-a-float"
+    },
+    {
+      "Created": "2025-09-29T15:00:17Z",
+      "Title": "Other ways to use Snowflake Semantic Views beyond Cortex Analyst",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "business-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778272/other-ways-to-use-snowflake-semantic-views-beyond-cortex-analyst"
+    },
+    {
+      "Created": "2025-09-29T15:04:21Z",
+      "Title": "Can Anthos Kubernetes be configured to only scale up (never remove a pod)",
+      "Tags": [
+        "kubernetes",
+        "google-anthos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778277/can-anthos-kubernetes-be-configured-to-only-scale-up-never-remove-a-pod"
+    },
+    {
+      "Created": "2025-09-29T15:05:04Z",
+      "Title": "MuPDF error: library error: zlib error: incorrect header check",
+      "Tags": [
+        "pymupdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778278/mupdf-error-library-error-zlib-error-incorrect-header-check"
+    }
+  ]
+}

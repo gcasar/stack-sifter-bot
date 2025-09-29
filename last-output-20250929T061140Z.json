@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-29T06:07:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T05:19:44Z",
+      "Title": "MutableLiveData Variable keeps resetting to default after 2nd try",
+      "Tags": [
+        "android",
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777763/mutablelivedata-variable-keeps-resetting-to-default-after-2nd-try"
+    },
+    {
+      "Created": "2025-09-29T05:37:53Z",
+      "Title": "Why am I getting a CORS error with Apollo Client using credentials: \u0022include\u0022?",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "cors",
+        "apollo-client",
+        "apollo-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777767/why-am-i-getting-a-cors-error-with-apollo-client-using-credentials-include"
+    },
+    {
+      "Created": "2025-09-29T05:47:54Z",
+      "Title": "Is there a way to make my tabs appear 4 in a row for large screens, 3 in a row for medium screens, and stack atop each other for small screens?",
+      "Tags": [
+        "php",
+        "html",
+        "css",
+        "flexbox",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777769/is-there-a-way-to-make-my-tabs-appear-4-in-a-row-for-large-screens-3-in-a-row-f"
+    },
+    {
+      "Created": "2025-09-29T05:57:47Z",
+      "Title": "Swiper Grid not showing data in proper sequence",
+      "Tags": [
+        "html",
+        "css",
+        "angular",
+        "swiper.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777776/swiper-grid-not-showing-data-in-proper-sequence"
+    },
+    {
+      "Created": "2025-09-29T06:07:31Z",
+      "Title": "Solid and curve intersections",
+      "Tags": [
+        "intersection",
+        "curve",
+        "solid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777785/solid-and-curve-intersections"
+    }
+  ]
+}

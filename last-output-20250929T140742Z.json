@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-29T14:02:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T13:28:34Z",
+      "Title": ".NET MAUI AndroidManifest entry for RECEIVE_BOOT_COMPLETED Receiver",
+      "Tags": [
+        "android",
+        "maui",
+        "broadcastreceiver",
+        "android-manifest",
+        "bootcompleted"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778162/net-maui-androidmanifest-entry-for-receive-boot-completed-receiver"
+    },
+    {
+      "Created": "2025-09-29T13:37:59Z",
+      "Title": "How to connect to Dask Gateway Server from inside a Docker container?",
+      "Tags": [
+        "docker",
+        "network-programming",
+        "localhost",
+        "dask",
+        "dask-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778174/how-to-connect-to-dask-gateway-server-from-inside-a-docker-container"
+    },
+    {
+      "Created": "2025-09-29T13:50:56Z",
+      "Title": "undefined reference to \u0060__imp_CoCreateInstance\u0027 on mingw-w64 [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi",
+        "mingw-w64",
+        "undefined-reference",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778188/undefined-reference-to-imp-cocreateinstance-on-mingw-w64"
+    },
+    {
+      "Created": "2025-09-29T13:53:12Z",
+      "Title": "How to escape a shell script in Jenkinsfile?",
+      "Tags": [
+        "jenkins-pipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778193/how-to-escape-a-shell-script-in-jenkinsfile"
+    },
+    {
+      "Created": "2025-09-29T14:00:37Z",
+      "Title": "How to return an anonymous list type [duplicate]",
+      "Tags": [
+        "c#",
+        ".net",
+        ".net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778199/how-to-return-an-anonymous-list-type"
+    },
+    {
+      "Created": "2025-09-29T14:02:34Z",
+      "Title": "Timing issue in systemverilog",
+      "Tags": [
+        "verilog",
+        "system-verilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778205/timing-issue-in-systemverilog"
+    }
+  ]
+}

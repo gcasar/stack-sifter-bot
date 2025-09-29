@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-29T00:20:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-28T22:56:59Z",
+      "Title": "Where are the built-in shell aliases stored? (zsh/oh-my-zsh) [closed]",
+      "Tags": [
+        "alias",
+        "oh-my-zsh",
+        "zshrc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777637/where-are-the-built-in-shell-aliases-stored-zsh-oh-my-zsh"
+    },
+    {
+      "Created": "2025-09-28T23:05:58Z",
+      "Title": "Github Pages Custom Domain (With Subdomain and Subdirectory)",
+      "Tags": [
+        "github",
+        "dns",
+        "github-pages",
+        "cname"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777641/github-pages-custom-domain-with-subdomain-and-subdirectory"
+    },
+    {
+      "Created": "2025-09-28T23:11:57Z",
+      "Title": "CMake can\u0027t find nmake? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "nmake",
+        "raylib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777644/cmake-cant-find-nmake"
+    },
+    {
+      "Created": "2025-09-28T23:45:23Z",
+      "Title": "python function that sometimes returns a tuple and sometimes just a float",
+      "Tags": [
+        "python",
+        "return-type"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777654/python-function-that-sometimes-returns-a-tuple-and-sometimes-just-a-float"
+    },
+    {
+      "Created": "2025-09-29T00:07:34Z",
+      "Title": "C# Sqlite Nuget package fail",
+      "Tags": [
+        "c#",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777659/c-sharp-sqlite-nuget-package-fail"
+    },
+    {
+      "Created": "2025-09-29T00:20:18Z",
+      "Title": "Render Texture Triangle From Vertexes and Uvs",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "graphics",
+        "rendering",
+        "sprite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777667/render-texture-triangle-from-vertexes-and-uvs"
+    }
+  ]
+}

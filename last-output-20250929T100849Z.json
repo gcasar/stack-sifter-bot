@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-29T10:07:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T09:15:32Z",
+      "Title": "How does the interpolation method \u0060NPPI_INTER_SUPER\u0060 work?",
+      "Tags": [
+        "cuda",
+        "gpu",
+        "npp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777940/how-does-the-interpolation-method-nppi-inter-super-work"
+    },
+    {
+      "Created": "2025-09-29T09:41:40Z",
+      "Title": "How to find all maximal rectangles contained in a rectilinear shape on a discrete grid",
+      "Tags": [
+        "performance",
+        "shapes",
+        "grid-layout",
+        "rectangles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777965/how-to-find-all-maximal-rectangles-contained-in-a-rectilinear-shape-on-a-discret"
+    },
+    {
+      "Created": "2025-09-29T09:48:55Z",
+      "Title": "Wamp: Apache crashes and restarts when making a https call with GuzzleHttp",
+      "Tags": [
+        "apache",
+        "ssl",
+        "wamp",
+        "guzzle",
+        "connection-reset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777971/wamp-apache-crashes-and-restarts-when-making-a-https-call-with-guzzlehttp"
+    },
+    {
+      "Created": "2025-09-29T09:49:53Z",
+      "Title": "Vibration is blocked by cameraX on motorola moto g04",
+      "Tags": [
+        "android",
+        "kotlin",
+        "vibration",
+        "motorola",
+        "android-vibration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777972/vibration-is-blocked-by-camerax-on-motorola-moto-g04"
+    },
+    {
+      "Created": "2025-09-29T09:56:54Z",
+      "Title": "PyCharm \u0022view as DataFrame\u0022 shows nothing for polars DataFrames",
+      "Tags": [
+        "python",
+        "debugging",
+        "pycharm",
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777976/pycharm-view-as-dataframe-shows-nothing-for-polars-dataframes"
+    },
+    {
+      "Created": "2025-09-29T09:59:41Z",
+      "Title": "Get left-most match instead of right-most [duplicate]",
+      "Tags": [
+        "c#",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777978/get-left-most-match-instead-of-right-most"
+    },
+    {
+      "Created": "2025-09-29T10:04:41Z",
+      "Title": "Headless browser testing at scale for ecommerce? [closed]",
+      "Tags": [
+        "automation",
+        "e-commerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777981/headless-browser-testing-at-scale-for-ecommerce"
+    },
+    {
+      "Created": "2025-09-29T10:07:45Z",
+      "Title": "What are the benefits of using H100 GPU Cloud for enterprises",
+      "Tags": [
+        "server",
+        "cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777983/what-are-the-benefits-of-using-h100-gpu-cloud-for-enterprises"
+    }
+  ]
+}

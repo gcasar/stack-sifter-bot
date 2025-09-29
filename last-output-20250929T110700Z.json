@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-29T10:53:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T10:17:45Z",
+      "Title": "How to declare prototype function in Next.js, React, Typescript, so server side and client side can see it?",
+      "Tags": [
+        "typescript",
+        "next.js",
+        "react-typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777994/how-to-declare-prototype-function-in-next-js-react-typescript-so-server-side"
+    },
+    {
+      "Created": "2025-09-29T10:20:59Z",
+      "Title": "Flutter widget does not rebuild whenever i changed profile picture",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777998/flutter-widget-does-not-rebuild-whenever-i-changed-profile-picture"
+    },
+    {
+      "Created": "2025-09-29T10:42:31Z",
+      "Title": "Save to JSON but keep 1 field as array? jsonlite",
+      "Tags": [
+        "r",
+        "json",
+        "jsonlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778015/save-to-json-but-keep-1-field-as-array-jsonlite"
+    },
+    {
+      "Created": "2025-09-29T10:47:46Z",
+      "Title": "Why is 0.1*0.1 not equal to 1e-2 in Python? [duplicate]",
+      "Tags": [
+        "python",
+        "floating-point",
+        "rounding",
+        "ieee-754"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778019/why-is-0-10-1-not-equal-to-1e-2-in-python"
+    },
+    {
+      "Created": "2025-09-29T10:52:01Z",
+      "Title": "What is the use of the context passed to batch callbacks in Open telemetry Go?",
+      "Tags": [
+        "open-telemetry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778020/what-is-the-use-of-the-context-passed-to-batch-callbacks-in-open-telemetry-go"
+    },
+    {
+      "Created": "2025-09-29T10:52:45Z",
+      "Title": "Best practice to setup gunicorn based python webapp with systemd",
+      "Tags": [
+        "python",
+        "linux",
+        "gunicorn",
+        "systemd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778023/best-practice-to-setup-gunicorn-based-python-webapp-with-systemd"
+    },
+    {
+      "Created": "2025-09-29T10:52:51Z",
+      "Title": "Python GridDB Cloud client failing with \u0022Failed to import \u0027org.apache\u0027\u0022 using JPype",
+      "Tags": [
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778024/python-griddb-cloud-client-failing-with-failed-to-import-org-apache-using-jp"
+    },
+    {
+      "Created": "2025-09-29T10:53:33Z",
+      "Title": "Riverpod 3.0.0 migration: Listeners inside widgets that are not visible are now paused",
+      "Tags": [
+        "flutter",
+        "riverpod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778025/riverpod-3-0-0-migration-listeners-inside-widgets-that-are-not-visible-are-now"
+    }
+  ]
+}

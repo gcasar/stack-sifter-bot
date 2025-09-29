@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-29T09:04:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T08:26:51Z",
+      "Title": "Moq: how to create a HttpRequest object containing a HttpPostedFile?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "unit-testing",
+        "moq",
+        "xunit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777886/moq-how-to-create-a-httprequest-object-containing-a-httppostedfile"
+    },
+    {
+      "Created": "2025-09-29T08:57:07Z",
+      "Title": "Is there a way to compliment / supplement a stubs package with additional type information in a stubs file?",
+      "Tags": [
+        "python",
+        "pandas",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777919/is-there-a-way-to-compliment-supplement-a-stubs-package-with-additional-type-i"
+    },
+    {
+      "Created": "2025-09-29T08:57:09Z",
+      "Title": "Combining ARRAYFORMULA with QUERY on a filtered dataset when a specific condition is met (Google Sheet)",
+      "Tags": [
+        "google-sheets",
+        "google-sheets-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777920/combining-arrayformula-with-query-on-a-filtered-dataset-when-a-specific-conditio"
+    },
+    {
+      "Created": "2025-09-29T09:01:41Z",
+      "Title": "Will Microsoft Graph Authentication to Windows Authentication work?",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "authentication",
+        "microsoft-graph-api",
+        "windows-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777925/will-microsoft-graph-authentication-to-windows-authentication-work"
+    },
+    {
+      "Created": "2025-09-29T09:04:15Z",
+      "Title": "Qt ain\u0027t detecting MSVC compiler while installation",
+      "Tags": [
+        "qt",
+        "visual-c\u002B\u002B",
+        "compiler-errors",
+        "linker-errors",
+        "qt-installer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777930/qt-aint-detecting-msvc-compiler-while-installation"
+    }
+  ]
+}

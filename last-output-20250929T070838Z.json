@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-09-29T07:07:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T06:13:14Z",
+      "Title": "Entity Framework code-first error when using version control branches and a shared database: \u0022The model backing the \u0027xyzContext\u0027 context has changed\u0022",
+      "Tags": [
+        "c#",
+        "git",
+        "entity-framework",
+        "migration",
+        "git-flow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777786/entity-framework-code-first-error-when-using-version-control-branches-and-a-shar"
+    },
+    {
+      "Created": "2025-09-29T06:17:02Z",
+      "Title": "how to avoid \u0022borrow of moved value\u0022 with subpattern match",
+      "Tags": [
+        "rust",
+        "pattern-matching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777789/how-to-avoid-borrow-of-moved-value-with-subpattern-match"
+    },
+    {
+      "Created": "2025-09-29T06:19:58Z",
+      "Title": "What type should be used to represent a writable range of char?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777791/what-type-should-be-used-to-represent-a-writable-range-of-char"
+    },
+    {
+      "Created": "2025-09-29T06:57:43Z",
+      "Title": "How to import pre-generated labels to CVAT in CVAT XML format?",
+      "Tags": [
+        "cvat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777819/how-to-import-pre-generated-labels-to-cvat-in-cvat-xml-format"
+    },
+    {
+      "Created": "2025-09-29T06:58:45Z",
+      "Title": "MongoDB Atlas and Firebase Cloud Function Peering Network Access setup but still not working",
+      "Tags": [
+        "firebase",
+        "google-cloud-platform",
+        "mongodb-atlas",
+        "vpc",
+        "vpc-peering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777820/mongodb-atlas-and-firebase-cloud-function-peering-network-access-setup-but-still"
+    },
+    {
+      "Created": "2025-09-29T07:03:38Z",
+      "Title": "Why does the Prometheus \u0022up\u0022 metric return 0 for different instances, when only one instance is down?",
+      "Tags": [
+        "prometheus",
+        "monitoring",
+        "promql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777827/why-does-the-prometheus-up-metric-return-0-for-different-instances-when-only"
+    },
+    {
+      "Created": "2025-09-29T07:04:51Z",
+      "Title": "Wordpress Unsafe SQL calls",
+      "Tags": [
+        "php",
+        "wordpress",
+        "plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777828/wordpress-unsafe-sql-calls"
+    },
+    {
+      "Created": "2025-09-29T07:07:16Z",
+      "Title": "Python, extract outlook meetings between two date with pywin32",
+      "Tags": [
+        "python",
+        "outlook",
+        "pywin32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777830/python-extract-outlook-meetings-between-two-date-with-pywin32"
+    }
+  ]
+}

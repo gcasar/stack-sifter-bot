@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-29T02:30:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T01:39:43Z",
+      "Title": "In PHP, should a child class redeclare constructor dependencies if the parent constructor already defines them, or can it omit them entirely?",
+      "Tags": [
+        "php",
+        "constructor",
+        "dependencies"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777684/in-php-should-a-child-class-redeclare-constructor-dependencies-if-the-parent-co"
+    },
+    {
+      "Created": "2025-09-29T01:54:38Z",
+      "Title": "How do I turn on logs when using Gevent with Gunicorn?",
+      "Tags": [
+        "python",
+        "flask",
+        "gunicorn",
+        "gevent",
+        "render.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777690/how-do-i-turn-on-logs-when-using-gevent-with-gunicorn"
+    },
+    {
+      "Created": "2025-09-29T02:01:43Z",
+      "Title": "In K, is there a way to make an anonymous that takes the left argument and the right argument?",
+      "Tags": [
+        "anonymous-function",
+        "k"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777691/in-k-is-there-a-way-to-make-an-anonymous-that-takes-the-left-argument-and-the-r"
+    },
+    {
+      "Created": "2025-09-29T02:08:29Z",
+      "Title": "Android Accessibility Node Info Disconnected Node Error",
+      "Tags": [
+        "java",
+        "android",
+        "accessibilityservice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777692/android-accessibility-node-info-disconnected-node-error"
+    },
+    {
+      "Created": "2025-09-29T02:14:59Z",
+      "Title": "Shopify data and dashboard",
+      "Tags": [
+        "python",
+        "postgresql",
+        "shopify-api",
+        "shopify-api-node"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777696/shopify-data-and-dashboard"
+    },
+    {
+      "Created": "2025-09-29T02:30:41Z",
+      "Title": "Replacing the IServiceProvider in ASP.NET Minimal API\u0027s",
+      "Tags": [
+        "asp.net-core",
+        "castle-windsor",
+        "minimal-apis",
+        "asp.net-minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777703/replacing-the-iserviceprovider-in-asp-net-minimal-apis"
+    }
+  ]
+}

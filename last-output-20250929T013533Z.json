@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-29T01:32:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T00:41:18Z",
+      "Title": "Jest hangs when publishing to @google-cloud/pubsub in integration test (only in one test file)",
+      "Tags": [
+        "node.js",
+        "google-cloud-platform",
+        "jestjs",
+        "google-cloud-pubsub",
+        "google-cloud-pubsub-emulator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777670/jest-hangs-when-publishing-to-google-cloud-pubsub-in-integration-test-only-in"
+    },
+    {
+      "Created": "2025-09-29T01:02:23Z",
+      "Title": "How can I add columns to an excel sheet when the other data is referenced from another sheet?",
+      "Tags": [
+        "excel",
+        "excel-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777675/how-can-i-add-columns-to-an-excel-sheet-when-the-other-data-is-referenced-from-a"
+    },
+    {
+      "Created": "2025-09-29T01:18:58Z",
+      "Title": "DISAS_NORETURNs causing errors while attempting to intercept QEMU syscalls by tweaking the ecall() function",
+      "Tags": [
+        "architecture",
+        "system-calls",
+        "qemu",
+        "riscv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777677/disas-noreturns-causing-errors-while-attempting-to-intercept-qemu-syscalls-by-tw"
+    },
+    {
+      "Created": "2025-09-29T01:23:35Z",
+      "Title": "Using \u0060ForEach\u0060 in a view, issues with identifiable struct [duplicate]",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777679/using-foreach-in-a-view-issues-with-identifiable-struct"
+    },
+    {
+      "Created": "2025-09-29T01:31:05Z",
+      "Title": "How can I make my container be connected to the bridge network and to a custom network?",
+      "Tags": [
+        "docker",
+        "docker-compose",
+        "docker-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777680/how-can-i-make-my-container-be-connected-to-the-bridge-network-and-to-a-custom-n"
+    },
+    {
+      "Created": "2025-09-29T01:32:36Z",
+      "Title": "How do I remove escape characters from a string?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79777681/how-do-i-remove-escape-characters-from-a-string"
+    }
+  ]
+}

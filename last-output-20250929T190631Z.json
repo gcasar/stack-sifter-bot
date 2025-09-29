@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-29T18:47:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T18:42:27Z",
+      "Title": "Adding global attributes to existing netCDF file in Xarray",
+      "Tags": [
+        "attributes",
+        "global",
+        "python-xarray",
+        "netcdf",
+        "updating"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778444/adding-global-attributes-to-existing-netcdf-file-in-xarray"
+    },
+    {
+      "Created": "2025-09-29T18:47:42Z",
+      "Title": "Override dependency in dev environment",
+      "Tags": [
+        "python",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778453/override-dependency-in-dev-environment"
+    }
+  ]
+}

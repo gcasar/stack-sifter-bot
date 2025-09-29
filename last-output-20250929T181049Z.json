@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-29T17:53:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T17:45:37Z",
+      "Title": "Switching from registering Service Providers in configuration to providers.php when upgrading to Laravel 11",
+      "Tags": [
+        "laravel",
+        "laravel-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778406/switching-from-registering-service-providers-in-configuration-to-providers-php-w"
+    },
+    {
+      "Created": "2025-09-29T17:46:24Z",
+      "Title": "How to set up WebGPU work groups with fully independent tasks?",
+      "Tags": [
+        "gpu",
+        "compute-shader",
+        "webgpu",
+        "wgpu-rs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778407/how-to-set-up-webgpu-work-groups-with-fully-independent-tasks"
+    },
+    {
+      "Created": "2025-09-29T17:50:39Z",
+      "Title": "How to refresh the badge value in a ToolbarItem without reloading the entire screen",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778409/how-to-refresh-the-badge-value-in-a-toolbaritem-without-reloading-the-entire-scr"
+    },
+    {
+      "Created": "2025-09-29T17:53:34Z",
+      "Title": "Manually configure build toolchain from scratch in Eclipse CDT",
+      "Tags": [
+        "eclipse",
+        "build",
+        "eclipse-cdt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778415/manually-configure-build-toolchain-from-scratch-in-eclipse-cdt"
+    }
+  ]
+}

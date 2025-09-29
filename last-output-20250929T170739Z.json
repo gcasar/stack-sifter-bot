@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-29T17:04:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T16:39:02Z",
+      "Title": "Why is there no newline being presented here?",
+      "Tags": [
+        "php",
+        "email",
+        "stream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778359/why-is-there-no-newline-being-presented-here"
+    },
+    {
+      "Created": "2025-09-29T16:48:08Z",
+      "Title": "Docker containers(Mac \u0026 Raspberry Pi OS) with ROS2 do not see each other",
+      "Tags": [
+        "docker",
+        "macos",
+        "raspberry-pi",
+        "ros2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778367/docker-containersmac-raspberry-pi-os-with-ros2-do-not-see-each-other"
+    },
+    {
+      "Created": "2025-09-29T16:52:30Z",
+      "Title": "Regenerate covariance matrix with less WSSIZE used in APL",
+      "Tags": [
+        "size",
+        "apl",
+        "covariance-matrix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778371/regenerate-covariance-matrix-with-less-wssize-used-in-apl"
+    },
+    {
+      "Created": "2025-09-29T16:57:40Z",
+      "Title": "How to decide the data size handled by each processor/core in SIMD?",
+      "Tags": [
+        "performance",
+        "parallel-processing",
+        "cpu-architecture",
+        "simd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778373/how-to-decide-the-data-size-handled-by-each-processor-core-in-simd"
+    },
+    {
+      "Created": "2025-09-29T17:04:44Z",
+      "Title": "How to send POST request to external API using Python?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778379/how-to-send-post-request-to-external-api-using-python"
+    },
+    {
+      "Created": "2025-09-29T17:04:48Z",
+      "Title": "Spring Boot MissingServletRequestPartException for \u0027occurrence\u0027 despite correct @RequestPart in List MultipartFile upload",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778380/spring-boot-missingservletrequestpartexception-for-occurrence-despite-correct"
+    }
+  ]
+}

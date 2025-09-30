@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-30T09:02:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T08:25:08Z",
+      "Title": "Problem to set up conan project so that library can be found in search path",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "clion",
+        "conan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778873/problem-to-set-up-conan-project-so-that-library-can-be-found-in-search-path"
+    },
+    {
+      "Created": "2025-09-30T08:51:06Z",
+      "Title": "Decryption of AES-ECB? [closed]",
+      "Tags": [
+        "aes",
+        "ecb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778897/decryption-of-aes-ecb"
+    },
+    {
+      "Created": "2025-09-30T08:51:25Z",
+      "Title": "Application still prints Logback logs instead of Log4j2 after migration",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "logging",
+        "log4j2",
+        "logback"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778898/application-still-prints-logback-logs-instead-of-log4j2-after-migration"
+    },
+    {
+      "Created": "2025-09-30T08:53:56Z",
+      "Title": "How to determine exact format for YUV AImage in Android?",
+      "Tags": [
+        "android",
+        "android-ndk",
+        "vlc",
+        "android-mediacodec",
+        "yuv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778899/how-to-determine-exact-format-for-yuv-aimage-in-android"
+    },
+    {
+      "Created": "2025-09-30T08:57:20Z",
+      "Title": "Modern Rich text editor is not enabled in prod",
+      "Tags": [
+        "dynamic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778903/modern-rich-text-editor-is-not-enabled-in-prod"
+    },
+    {
+      "Created": "2025-09-30T09:02:35Z",
+      "Title": "ValueError: Only instances of keras.Layer can be added to a Sequential model when using TensorFlow Hub KerasLayer",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "keras",
+        "deep-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778907/valueerror-only-instances-of-keras-layer-can-be-added-to-a-sequential-model-whe"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-30T04:07:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T03:39:45Z",
+      "Title": "Parsing file using vroom",
+      "Tags": [
+        "r",
+        "ehcache-bigmemory",
+        "vroom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778679/parsing-file-using-vroom"
+    },
+    {
+      "Created": "2025-09-30T03:44:43Z",
+      "Title": "python: type hinting for a generator function that asserts sorted",
+      "Tags": [
+        "python",
+        "python-typing",
+        "mypy",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778680/python-type-hinting-for-a-generator-function-that-asserts-sorted"
+    },
+    {
+      "Created": "2025-09-30T04:07:08Z",
+      "Title": "pygame project (solar system simulation)",
+      "Tags": [
+        "pygame",
+        "project"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778690/pygame-project-solar-system-simulation"
+    }
+  ]
+}

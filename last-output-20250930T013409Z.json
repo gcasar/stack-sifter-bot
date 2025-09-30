@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-09-30T01:21:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T00:31:22Z",
+      "Title": "Can I use Jinja macros and variables in template to change navbar div class?",
+      "Tags": [
+        "python",
+        "html",
+        "jinja2",
+        "pelican"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778624/can-i-use-jinja-macros-and-variables-in-template-to-change-navbar-div-class"
+    },
+    {
+      "Created": "2025-09-30T00:34:25Z",
+      "Title": "SwiftUI: reset @State before re-rendering the view",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "binding",
+        "state"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778625/swiftui-reset-state-before-re-rendering-the-view"
+    },
+    {
+      "Created": "2025-09-30T00:46:31Z",
+      "Title": "Via python IQR based outlier exclusion not consistently right, but not sure why? Code design error?",
+      "Tags": [
+        "python",
+        "statistics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778626/via-python-iqr-based-outlier-exclusion-not-consistently-right-but-not-sure-why"
+    },
+    {
+      "Created": "2025-09-30T01:12:16Z",
+      "Title": "In React, why does useRef need .current but useState doesn\u0027t?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778630/in-react-why-does-useref-need-current-but-usestate-doesnt"
+    },
+    {
+      "Created": "2025-09-30T01:21:46Z",
+      "Title": "Triggering onClick() and keyup() automatically when using an onscreen keyboards",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778633/triggering-onclick-and-keyup-automatically-when-using-an-onscreen-keyboards"
+    }
+  ]
+}

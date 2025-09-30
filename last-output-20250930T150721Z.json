@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-30T15:03:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T14:56:54Z",
+      "Title": "SymXchange findBy API",
+      "Tags": [
+        "jackhenry-jxchange"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779248/symxchange-findby-api"
+    },
+    {
+      "Created": "2025-09-30T14:57:59Z",
+      "Title": "Orphane process complete the task?",
+      "Tags": [
+        "c\u002B\u002B",
+        "process",
+        "fork",
+        "pid",
+        "fork-join"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779251/orphane-process-complete-the-task"
+    },
+    {
+      "Created": "2025-09-30T15:01:21Z",
+      "Title": "Proper HTTP status code for failing in finding optimal solution",
+      "Tags": [
+        "rest",
+        "http",
+        "http-status-codes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779255/proper-http-status-code-for-failing-in-finding-optimal-solution"
+    },
+    {
+      "Created": "2025-09-30T15:03:59Z",
+      "Title": "mui-x charts: How to meet WCAG accessibility requirements?",
+      "Tags": [
+        "reactjs",
+        "material-ui",
+        "accessibility",
+        "mui-x-charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779258/mui-x-charts-how-to-meet-wcag-accessibility-requirements"
+    }
+  ]
+}

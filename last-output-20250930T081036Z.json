@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-30T08:06:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T07:47:08Z",
+      "Title": "Custom exception is logged twice by Laravel",
+      "Tags": [
+        "laravel",
+        "logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778849/custom-exception-is-logged-twice-by-laravel"
+    },
+    {
+      "Created": "2025-09-30T07:48:37Z",
+      "Title": "MapLibre React Native addCustomHeader(\u0027Authorization\u0027, \u0027Bearer \u2026\u0027) is not attached to vector tile requests in release builds; works in local dev",
+      "Tags": [
+        "ios",
+        "swift",
+        "react-native",
+        "expo",
+        "maplibre-gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778850/maplibre-react-native-addcustomheaderauthorization-bearer-is-not-attach"
+    },
+    {
+      "Created": "2025-09-30T07:54:14Z",
+      "Title": "Rust macro with #[no_mangle] function triggers \u0027unsafe attribute\u0027 error when applied to a struct",
+      "Tags": [
+        "rust",
+        "macros"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778853/rust-macro-with-no-mangle-function-triggers-unsafe-attribute-error-when-app"
+    },
+    {
+      "Created": "2025-09-30T08:01:56Z",
+      "Title": "Slurm slurmd -C detects only 8 CPUs instead of 20 (Intel Ultra 7 265K, hwloc 2.10)",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "debian",
+        "cpu",
+        "slurm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778854/slurm-slurmd-c-detects-only-8-cpus-instead-of-20-intel-ultra-7-265k-hwloc-2-1"
+    },
+    {
+      "Created": "2025-09-30T08:03:25Z",
+      "Title": "How to provide near real-time analytics when data warehouse sync has 30\u201360 min delay?",
+      "Tags": [
+        "database-design",
+        "architecture",
+        "etl",
+        "azure-synapse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778857/how-to-provide-near-real-time-analytics-when-data-warehouse-sync-has-30-60-min-d"
+    },
+    {
+      "Created": "2025-09-30T08:06:00Z",
+      "Title": "excel equivalent of pandas slice?",
+      "Tags": [
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778859/excel-equivalent-of-pandas-slice"
+    },
+    {
+      "Created": "2025-09-30T08:06:59Z",
+      "Title": "Why does URL Pattern API accept wildcard at the beginning of pathname?",
+      "Tags": [
+        "javascript",
+        "url-pattern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778861/why-does-url-pattern-api-accept-wildcard-at-the-beginning-of-pathname"
+    }
+  ]
+}

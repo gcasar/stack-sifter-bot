@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-30T13:11:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T12:30:11Z",
+      "Title": "MySQL #1215 - Can\u0027t add foreign key constraint when altering table [duplicate]",
+      "Tags": [
+        "mysql",
+        "phpmyadmin",
+        "foreign-keys"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779094/mysql-1215-cant-add-foreign-key-constraint-when-altering-table"
+    },
+    {
+      "Created": "2025-09-30T12:46:36Z",
+      "Title": "Check out a copy of a directory at a particular commit",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779109/check-out-a-copy-of-a-directory-at-a-particular-commit"
+    },
+    {
+      "Created": "2025-09-30T12:49:23Z",
+      "Title": "What are the current technical limitations of Expo compared to React Native CLI in 2025? [closed]",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779110/what-are-the-current-technical-limitations-of-expo-compared-to-react-native-cli"
+    },
+    {
+      "Created": "2025-09-30T13:02:36Z",
+      "Title": "Alternative pseudo-random number generator [closed]",
+      "Tags": [
+        "random"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779118/alternative-pseudo-random-number-generator"
+    },
+    {
+      "Created": "2025-09-30T13:08:11Z",
+      "Title": "How to make it so that the arrays inside the array don\u0027t get changed?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "for-loop",
+        "multidimensional-array",
+        "rgb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779127/how-to-make-it-so-that-the-arrays-inside-the-array-dont-get-changed"
+    },
+    {
+      "Created": "2025-09-30T13:08:31Z",
+      "Title": "How to design extensible data aggregation code to avoid manual updates in multiple places?",
+      "Tags": [
+        "javascript",
+        "code-maintainability"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779128/how-to-design-extensible-data-aggregation-code-to-avoid-manual-updates-in-multip"
+    },
+    {
+      "Created": "2025-09-30T13:11:08Z",
+      "Title": "How to learn AI and C\u002B\u002B? [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779130/how-to-learn-ai-and-c"
+    }
+  ]
+}

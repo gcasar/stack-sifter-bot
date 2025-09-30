@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-30T10:59:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T10:34:09Z",
+      "Title": "Get all product and product variations but not the parent product via SQL",
+      "Tags": [
+        "sql",
+        "wordpress",
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778997/get-all-product-and-product-variations-but-not-the-parent-product-via-sql"
+    },
+    {
+      "Created": "2025-09-30T10:39:08Z",
+      "Title": "How to Fix swagger_dart_code_generator Generating List\u003Cint\u003E Instead of MultipartFile for File Uploads in Flutter",
+      "Tags": [
+        "file-upload",
+        "multipartform-data",
+        "code-generation",
+        "swagger-codegen",
+        "build-runner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779003/how-to-fix-swagger-dart-code-generator-generating-listint-instead-of-multipart"
+    },
+    {
+      "Created": "2025-09-30T10:41:23Z",
+      "Title": "qt mouse area doesnt act correctly [closed]",
+      "Tags": [
+        "qt",
+        "mousearea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779006/qt-mouse-area-doesnt-act-correctly"
+    },
+    {
+      "Created": "2025-09-30T10:50:24Z",
+      "Title": "Can the GitHub Actions bot be bypassed from signing commits by the GitHub Terraform provider?",
+      "Tags": [
+        "github",
+        "terraform",
+        "github-actions",
+        "terraform-provider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779010/can-the-github-actions-bot-be-bypassed-from-signing-commits-by-the-github-terraf"
+    },
+    {
+      "Created": "2025-09-30T10:53:38Z",
+      "Title": "SecurityFilterChain bean from the library conflicts with managementSecurityFilterChain bean from ManagementWebSecurityAutoConfiguration",
+      "Tags": [
+        "java",
+        "spring",
+        "kotlin",
+        "spring-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779012/securityfilterchain-bean-from-the-library-conflicts-with-managementsecurityfilte"
+    },
+    {
+      "Created": "2025-09-30T10:59:03Z",
+      "Title": "C\u002B\u002BBuilder 12 problem with XML and prefix / property Text from IXMLNode is always empty",
+      "Tags": [
+        "xml",
+        "c\u002B\u002Bbuilder",
+        "xml-namespaces",
+        "prefix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779017/cbuilder-12-problem-with-xml-and-prefix-property-text-from-ixmlnode-is-alway"
+    }
+  ]
+}

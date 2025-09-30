@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-09-30T02:23:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T02:20:24Z",
+      "Title": "STM32L476 I2C Driver Fails to Read Second Byte in Multi-Byte or Consecutive Single-Byte Reads",
+      "Tags": [
+        "driver",
+        "stm32",
+        "i2c",
+        "bare-metal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778650/stm32l476-i2c-driver-fails-to-read-second-byte-in-multi-byte-or-consecutive-sing"
+    },
+    {
+      "Created": "2025-09-30T02:23:20Z",
+      "Title": "Catch mouse enter and leave signals from AppplicationWindow in GTK4 Python",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "events",
+        "signals",
+        "gtk4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778653/catch-mouse-enter-and-leave-signals-from-appplicationwindow-in-gtk4-python"
+    }
+  ]
+}

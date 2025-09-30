@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-30T06:08:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T05:47:21Z",
+      "Title": "ModuleNotFoundError: No module named \u0027airbyte_cdk.sources.declarative.manifest_declarative_source\u0027",
+      "Tags": [
+        "python-3.x",
+        "python-poetry",
+        "airbyte"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778734/modulenotfounderror-no-module-named-airbyte-cdk-sources-declarative-manifest-d"
+    },
+    {
+      "Created": "2025-09-30T05:49:19Z",
+      "Title": "Gmail API draft creation: Subject with UTF-8 accents (\u00E9, \u00E8, \u2026) shows as mojibake (\u201C\u00C3\u00A9\u201D)",
+      "Tags": [
+        "email",
+        "encoding",
+        "utf-8",
+        "gmail",
+        "subject"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778736/gmail-api-draft-creation-subject-with-utf-8-accents-%c3%a9-%c3%a8-shows-as-mojibake"
+    },
+    {
+      "Created": "2025-09-30T06:08:12Z",
+      "Title": "Django migrations error: psycopg2.errors.InsufficientPrivilege: permission denied for schema public. How to resolve this error?",
+      "Tags": [
+        "database",
+        "postgresql",
+        "localhost",
+        "backend",
+        "psycopg2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778744/django-migrations-error-psycopg2-errors-insufficientprivilege-permission-denie"
+    }
+  ]
+}

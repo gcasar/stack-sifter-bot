@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-30T14:04:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T13:51:27Z",
+      "Title": "How to do you ask for contact permission after a few seconds in Android browser?",
+      "Tags": [
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779177/how-to-do-you-ask-for-contact-permission-after-a-few-seconds-in-android-browser"
+    },
+    {
+      "Created": "2025-09-30T13:55:12Z",
+      "Title": "Excel - vba code to create new tabs identical to another between two dates",
+      "Tags": [
+        "excel",
+        "vba",
+        "time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779183/excel-vba-code-to-create-new-tabs-identical-to-another-between-two-dates"
+    },
+    {
+      "Created": "2025-09-30T13:55:49Z",
+      "Title": "How can a colleague approve a Gitea pull request via a script?",
+      "Tags": [
+        "automation",
+        "pull-request",
+        "gitea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779184/how-can-a-colleague-approve-a-gitea-pull-request-via-a-script"
+    },
+    {
+      "Created": "2025-09-30T13:56:33Z",
+      "Title": "Terraform: Inconsistent dependency lock file with local provider on Windows",
+      "Tags": [
+        "terraform-template-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779185/terraform-inconsistent-dependency-lock-file-with-local-provider-on-windows"
+    },
+    {
+      "Created": "2025-09-30T13:57:04Z",
+      "Title": "HTML ID behavior in JavaScript and CSS",
+      "Tags": [
+        "javascript",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779186/html-id-behavior-in-javascript-and-css"
+    },
+    {
+      "Created": "2025-09-30T13:57:12Z",
+      "Title": "Google Generative AI: 404 \u0022models/gemini-1.5-flash is not found\u0022 error when calling generateContent",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779187/google-generative-ai-404-models-gemini-1-5-flash-is-not-found-error-when-call"
+    },
+    {
+      "Created": "2025-09-30T14:04:54Z",
+      "Title": "Create a calculated column with if statement power query",
+      "Tags": [
+        "powerbi",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779194/create-a-calculated-column-with-if-statement-power-query"
+    }
+  ]
+}

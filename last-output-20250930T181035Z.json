@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-30T18:04:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T17:54:46Z",
+      "Title": "ggplot2 geom_point() points minimum size",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "geom-point"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779391/ggplot2-geom-point-points-minimum-size"
+    },
+    {
+      "Created": "2025-09-30T18:01:16Z",
+      "Title": "image map with random image on page load",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779395/image-map-with-random-image-on-page-load"
+    },
+    {
+      "Created": "2025-09-30T18:02:19Z",
+      "Title": "Why does VHDL 2008 require an additional bit be added to the result of a unary negation applied to the RHS of an operator assigning sfixed to sfixed?",
+      "Tags": [
+        "vhdl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779396/why-does-vhdl-2008-require-an-additional-bit-be-added-to-the-result-of-a-unary-n"
+    },
+    {
+      "Created": "2025-09-30T18:04:40Z",
+      "Title": "Azure Search Python SDK SSL Certificate Verification Failed in Open web ui (Docker) - Works in Windows Jupyter",
+      "Tags": [
+        "python",
+        "azure",
+        "ssl-certificate",
+        "docker-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779399/azure-search-python-sdk-ssl-certificate-verification-failed-in-open-web-ui-dock"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-09-30T19:04:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T18:19:19Z",
+      "Title": "Call to undefined function readline()",
+      "Tags": [
+        "php",
+        "readline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779410/call-to-undefined-function-readline"
+    },
+    {
+      "Created": "2025-09-30T18:38:49Z",
+      "Title": "CPU-GPU producer-consumer pattern using unified memory but GPU is in spin loop",
+      "Tags": [
+        "cuda",
+        "gpu",
+        "nvidia",
+        "cuda-gdb",
+        "cuda-streams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779428/cpu-gpu-producer-consumer-pattern-using-unified-memory-but-gpu-is-in-spin-loop"
+    },
+    {
+      "Created": "2025-09-30T18:39:52Z",
+      "Title": "tecPATH_DRY on XRPLedger",
+      "Tags": [
+        "blockchain",
+        "xrp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779429/tecpath-dry-on-xrpledger"
+    },
+    {
+      "Created": "2025-09-30T18:49:54Z",
+      "Title": "How can I run airflow db clean command using BashOperator with Airlfow 3\u002B",
+      "Tags": [
+        "python",
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779432/how-can-i-run-airflow-db-clean-command-using-bashoperator-with-airlfow-3"
+    },
+    {
+      "Created": "2025-09-30T18:54:53Z",
+      "Title": "How to fake a second function call using FakeItEasy?",
+      "Tags": [
+        "c#",
+        ".net",
+        "unit-testing",
+        "fakeiteasy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779435/how-to-fake-a-second-function-call-using-fakeiteasy"
+    },
+    {
+      "Created": "2025-09-30T19:01:35Z",
+      "Title": "Django Testing in microservices with more than 1 db running",
+      "Tags": [
+        "django",
+        "unit-testing",
+        "testing",
+        "django-rest-framework",
+        "microservices"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779440/django-testing-in-microservices-with-more-than-1-db-running"
+    },
+    {
+      "Created": "2025-09-30T19:04:18Z",
+      "Title": "Confused about internal mechanism of DAA instruction in 8085",
+      "Tags": [
+        "assembly",
+        "bcd",
+        "8085"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779441/confused-about-internal-mechanism-of-daa-instruction-in-8085"
+    }
+  ]
+}

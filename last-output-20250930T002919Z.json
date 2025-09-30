@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-30T00:21:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-29T23:46:04Z",
+      "Title": "Win32 - MCI looping cuts off first note",
+      "Tags": [
+        "c\u002B\u002B",
+        "winapi",
+        "midi",
+        "mci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778603/win32-mci-looping-cuts-off-first-note"
+    },
+    {
+      "Created": "2025-09-29T23:52:48Z",
+      "Title": "NestJs e2e Testing issue overriding provider",
+      "Tags": [
+        "testing",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778607/nestjs-e2e-testing-issue-overriding-provider"
+    },
+    {
+      "Created": "2025-09-29T23:55:00Z",
+      "Title": "Vue VS Code and official Vue extension \u002B TypeScript giving error when binding refs without \u0060.value\u0060",
+      "Tags": [
+        "typescript",
+        "vue.js",
+        "volar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778609/vue-vs-code-and-official-vue-extension-typescript-giving-error-when-binding-re"
+    },
+    {
+      "Created": "2025-09-29T23:58:11Z",
+      "Title": "Tried to change window icon, throws: \u0022_tkinter.TclError: couldn\u0027t open \u0022icon.jpg\u0022: no such file or directory\u0022",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778611/tried-to-change-window-icon-throws-tkinter-tclerror-couldnt-open-icon-jpg"
+    },
+    {
+      "Created": "2025-09-29T23:59:39Z",
+      "Title": "Show info message in plugin settings page when deleting rows from table in database wordpress",
+      "Tags": [
+        "wordpress",
+        "plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778612/show-info-message-in-plugin-settings-page-when-deleting-rows-from-table-in-datab"
+    },
+    {
+      "Created": "2025-09-30T00:21:40Z",
+      "Title": "Google Calendar API fails to update recurrence rule for some events",
+      "Tags": [
+        "google-calendar-api",
+        "rrule"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778622/google-calendar-api-fails-to-update-recurrence-rule-for-some-events"
+    }
+  ]
+}

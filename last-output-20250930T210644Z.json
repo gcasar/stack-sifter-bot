@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-09-30T20:59:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T20:41:03Z",
+      "Title": "How can I detect when the AG Grid filter dialog closes?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "ag-grid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779498/how-can-i-detect-when-the-ag-grid-filter-dialog-closes"
+    },
+    {
+      "Created": "2025-09-30T20:54:28Z",
+      "Title": "Minimum set of values that would achieve coverage using the equivalence partitioning technique [closed]",
+      "Tags": [
+        "testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779508/minimum-set-of-values-that-would-achieve-coverage-using-the-equivalence-partitio"
+    },
+    {
+      "Created": "2025-09-30T20:59:51Z",
+      "Title": "How does one \u0022get\u0022 the information of a root type as interval in julia",
+      "Tags": [
+        "julia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779511/how-does-one-get-the-information-of-a-root-type-as-interval-in-julia"
+    }
+  ]
+}

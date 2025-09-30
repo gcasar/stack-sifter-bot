@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-30T21:37:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T21:09:47Z",
+      "Title": "why my filter command did not filter out the records as expected",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779517/why-my-filter-command-did-not-filter-out-the-records-as-expected"
+    },
+    {
+      "Created": "2025-09-30T21:20:32Z",
+      "Title": "What is the best approach for data anomaly detection in griddb/griddb cloud?",
+      "Tags": [
+        "sql",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779527/what-is-the-best-approach-for-data-anomaly-detection-in-griddb-griddb-cloud"
+    },
+    {
+      "Created": "2025-09-30T21:33:41Z",
+      "Title": "Escaping weird path names with sqlite json_extract",
+      "Tags": [
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779530/escaping-weird-path-names-with-sqlite-json-extract"
+    },
+    {
+      "Created": "2025-09-30T21:37:39Z",
+      "Title": "Factory approach for constructing objects with different parameters",
+      "Tags": [
+        "c\u002B\u002B",
+        "factory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779533/factory-approach-for-constructing-objects-with-different-parameters"
+    }
+  ]
+}

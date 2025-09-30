@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-09-30T20:02:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T19:31:13Z",
+      "Title": "CollectionView with RemainingItemsThreshold and groups",
+      "Tags": [
+        "c#",
+        "maui",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779457/collectionview-with-remainingitemsthreshold-and-groups"
+    },
+    {
+      "Created": "2025-09-30T19:34:30Z",
+      "Title": "How to detect C\u002B\u002B20 mode of compilation?",
+      "Tags": [
+        "c\u002B\u002B",
+        "macros",
+        "c\u002B\u002B20",
+        "clang\u002B\u002B",
+        "openvdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779460/how-to-detect-c20-mode-of-compilation"
+    },
+    {
+      "Created": "2025-09-30T19:41:13Z",
+      "Title": "Nuxt 4 \u002B shadcn/vue Overriding component You can specify a priority option when calling addComponent to avoid this warning warnings for all components",
+      "Tags": [
+        "vue.js",
+        "nuxt.js",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779466/nuxt-4-shadcn-vue-overriding-component-you-can-specify-a-priority-option-when"
+    },
+    {
+      "Created": "2025-09-30T19:43:29Z",
+      "Title": "How to use Temporal pydantic_data_converter while not causing a workflow validation failure?",
+      "Tags": [
+        "python",
+        "pydantic",
+        "deterministic",
+        "temporal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779468/how-to-use-temporal-pydantic-data-converter-while-not-causing-a-workflow-validat"
+    },
+    {
+      "Created": "2025-09-30T19:44:40Z",
+      "Title": "Is it possible to have GCC inline vectorized trig functions?",
+      "Tags": [
+        "c",
+        "optimization",
+        "linker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779469/is-it-possible-to-have-gcc-inline-vectorized-trig-functions"
+    },
+    {
+      "Created": "2025-09-30T20:02:41Z",
+      "Title": "Can\u0027t install libtinfo5 on Ubuntu 24.04",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "kivy",
+        "buildozer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779476/cant-install-libtinfo5-on-ubuntu-24-04"
+    }
+  ]
+}

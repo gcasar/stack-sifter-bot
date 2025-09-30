@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-09-30T09:59:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T09:09:46Z",
+      "Title": "Using the fill prop in Next Image but the images are not showing",
+      "Tags": [
+        "javascript",
+        "css",
+        "next.js",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778914/using-the-fill-prop-in-next-image-but-the-images-are-not-showing"
+    },
+    {
+      "Created": "2025-09-30T09:28:57Z",
+      "Title": "Cross-compiled executable for arm64: \u0022No such file or directory\u0022",
+      "Tags": [
+        "android",
+        "android-ndk",
+        "cross-compiling",
+        "arm64",
+        "avr-gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778935/cross-compiled-executable-for-arm64-no-such-file-or-directory"
+    },
+    {
+      "Created": "2025-09-30T09:52:35Z",
+      "Title": "EF Core populating its navigation although it shouldn\u0027t",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "linq",
+        "navigation-properties"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778964/ef-core-populating-its-navigation-although-it-shouldnt"
+    },
+    {
+      "Created": "2025-09-30T09:59:12Z",
+      "Title": "How do I read an FTDI device with my Android App?",
+      "Tags": [
+        "android",
+        "ftdi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778968/how-do-i-read-an-ftdi-device-with-my-android-app"
+    }
+  ]
+}

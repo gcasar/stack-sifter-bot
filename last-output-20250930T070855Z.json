@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-09-30T07:02:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T06:27:24Z",
+      "Title": "How to prevent the touch keyboard in Windows from opening for the Touch machines?",
+      "Tags": [
+        "xaml",
+        "winui-3",
+        "winui",
+        "windows-app-sdk",
+        "winui-xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778761/how-to-prevent-the-touch-keyboard-in-windows-from-opening-for-the-touch-machines"
+    },
+    {
+      "Created": "2025-09-30T06:29:40Z",
+      "Title": "Error when importing agents module from parent directory",
+      "Tags": [
+        "python",
+        "subdirectory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778763/error-when-importing-agents-module-from-parent-directory"
+    },
+    {
+      "Created": "2025-09-30T06:44:20Z",
+      "Title": "how is the ref-safe-context determined in c# when ref assigning to local variables",
+      "Tags": [
+        "c#",
+        ".net",
+        "scope",
+        "clr",
+        "ref"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778779/how-is-the-ref-safe-context-determined-in-c-sharp-when-ref-assigning-to-local-va"
+    },
+    {
+      "Created": "2025-09-30T06:46:44Z",
+      "Title": "How can i change my Spark session in Databricks Community Edition?",
+      "Tags": [
+        "apache-spark",
+        "pyspark",
+        "databricks",
+        "databricks-community-edition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778783/how-can-i-change-my-spark-session-in-databricks-community-edition"
+    },
+    {
+      "Created": "2025-09-30T06:49:37Z",
+      "Title": "How can I include the file name (or origin) where a function is executed?",
+      "Tags": [
+        "javascript",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778789/how-can-i-include-the-file-name-or-origin-where-a-function-is-executed"
+    },
+    {
+      "Created": "2025-09-30T06:56:45Z",
+      "Title": "Trying to extract all files in folder and subfolders using API Graph",
+      "Tags": [
+        "file",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778797/trying-to-extract-all-files-in-folder-and-subfolders-using-api-graph"
+    },
+    {
+      "Created": "2025-09-30T06:57:06Z",
+      "Title": "How to access DbSet properties at runtime",
+      "Tags": [
+        "c#",
+        "generics",
+        "entity-framework-core",
+        "architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778798/how-to-access-dbset-properties-at-runtime"
+    },
+    {
+      "Created": "2025-09-30T07:01:26Z",
+      "Title": "AMP deprecated code doesn\u0027t compile with lambdas",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778802/amp-deprecated-code-doesnt-compile-with-lambdas"
+    },
+    {
+      "Created": "2025-09-30T07:02:06Z",
+      "Title": "React - How to render footer after content has loaded using createBrowserRouter",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79778803/react-how-to-render-footer-after-content-has-loaded-using-createbrowserrouter"
+    }
+  ]
+}

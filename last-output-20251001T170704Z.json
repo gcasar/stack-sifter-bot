@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-01T16:56:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T16:28:16Z",
+      "Title": "C\u002B\u002B: std::array invalid array assignment",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays",
+        "stdarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780285/c-stdarray-invalid-array-assignment"
+    },
+    {
+      "Created": "2025-10-01T16:51:09Z",
+      "Title": "Is let property is guaranteed to be initialized only once in SwiftUI?",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780297/is-let-property-is-guaranteed-to-be-initialized-only-once-in-swiftui"
+    },
+    {
+      "Created": "2025-10-01T16:51:27Z",
+      "Title": "Is it possible to have the right organization Id but be unable to fetch posts concerning that organization on LinkedIn?",
+      "Tags": [
+        "python",
+        "linkedin-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780298/is-it-possible-to-have-the-right-organization-id-but-be-unable-to-fetch-posts-co"
+    },
+    {
+      "Created": "2025-10-01T16:55:23Z",
+      "Title": "Avoiding importing the same function twice in python",
+      "Tags": [
+        "python",
+        "basic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780301/avoiding-importing-the-same-function-twice-in-python"
+    },
+    {
+      "Created": "2025-10-01T16:55:51Z",
+      "Title": "Reliable way for a WinForms app to register its own file association?",
+      "Tags": [
+        "winforms",
+        "file-association"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780302/reliable-way-for-a-winforms-app-to-register-its-own-file-association"
+    },
+    {
+      "Created": "2025-10-01T16:56:56Z",
+      "Title": "Databricks writing to parquet and facing OutOfMemoryError",
+      "Tags": [
+        "pyspark",
+        "databricks",
+        "parquet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780303/databricks-writing-to-parquet-and-facing-outofmemoryerror"
+    }
+  ]
+}

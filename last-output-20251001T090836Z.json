@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-01T09:01:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T08:23:46Z",
+      "Title": "PyInstaller doesn\u0027t include numpy for Plotly Express",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "pyinstaller",
+        "plotly-express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779794/pyinstaller-doesnt-include-numpy-for-plotly-express"
+    },
+    {
+      "Created": "2025-10-01T08:40:54Z",
+      "Title": "Using conditional type to change a param property of a method if a constructor value exists",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779813/using-conditional-type-to-change-a-param-property-of-a-method-if-a-constructor-v"
+    },
+    {
+      "Created": "2025-10-01T08:55:06Z",
+      "Title": "Is it possible in Android Auto to customize the \u0027Queue\u0027 button on Now Playing Screen",
+      "Tags": [
+        "android-auto",
+        "android-automotive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779832/is-it-possible-in-android-auto-to-customize-the-queue-button-on-now-playing-sc"
+    },
+    {
+      "Created": "2025-10-01T08:59:30Z",
+      "Title": "Why does my stored procedure run very slow or timeout only on the 1st of each month in SSRS, but works in SSMS?",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "dataset",
+        "ssms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779838/why-does-my-stored-procedure-run-very-slow-or-timeout-only-on-the-1st-of-each-mo"
+    },
+    {
+      "Created": "2025-10-01T08:59:48Z",
+      "Title": "How to restrict authenticated user from updating other users\u0027 info?",
+      "Tags": [
+        "authentication",
+        "content-management-system",
+        "strapi",
+        "verification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779840/how-to-restrict-authenticated-user-from-updating-other-users-info"
+    },
+    {
+      "Created": "2025-10-01T09:01:17Z",
+      "Title": "Custom font is not working in SwiftUI but working in UIKit",
+      "Tags": [
+        "swiftui",
+        "fonts",
+        "uikit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779844/custom-font-is-not-working-in-swiftui-but-working-in-uikit"
+    }
+  ]
+}

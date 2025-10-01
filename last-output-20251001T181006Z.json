@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-01T18:06:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T17:45:57Z",
+      "Title": "Recorded audio playback no longer audible after few seconds",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-sound"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780330/recorded-audio-playback-no-longer-audible-after-few-seconds"
+    },
+    {
+      "Created": "2025-10-01T17:46:32Z",
+      "Title": "Why does glBufferSubData on a Draw Indirect Buffer cause a crash",
+      "Tags": [
+        "c\u002B\u002B",
+        "graphics",
+        "rendering",
+        "renderer",
+        "opengl-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780331/why-does-glbuffersubdata-on-a-draw-indirect-buffer-cause-a-crash"
+    },
+    {
+      "Created": "2025-10-01T17:53:50Z",
+      "Title": "Collection View inside of Table View Error - Expected dequeued view to be returned to the collection view in preparation for display",
+      "Tags": [
+        "swift",
+        "uitableview",
+        "uicollectionview",
+        "deque"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780333/collection-view-inside-of-table-view-error-expected-dequeued-view-to-be-return"
+    },
+    {
+      "Created": "2025-10-01T18:00:35Z",
+      "Title": "Decompress compressed value of type varchar with UTF-8 collation in SQL server",
+      "Tags": [
+        "sql-server",
+        "utf-8",
+        "compression",
+        "collate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780337/decompress-compressed-value-of-type-varchar-with-utf-8-collation-in-sql-server"
+    },
+    {
+      "Created": "2025-10-01T18:05:35Z",
+      "Title": "Why does my system message content contain \u0022image\u0022: None when mapping conversation dataset?",
+      "Tags": [
+        "python",
+        "huggingface",
+        "huggingface-datasets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780338/why-does-my-system-message-content-contain-image-none-when-mapping-conversati"
+    },
+    {
+      "Created": "2025-10-01T18:06:29Z",
+      "Title": "How should I model the external entity and actor in my DFDs and UC Diagram for an app used by the QA officer (and possibly other staff) in an agency?",
+      "Tags": [
+        "uml",
+        "use-case",
+        "use-case-diagram",
+        "dfd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780339/how-should-i-model-the-external-entity-and-actor-in-my-dfds-and-uc-diagram-for-a"
+    }
+  ]
+}

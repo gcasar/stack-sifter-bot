@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-01T15:00:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T14:50:36Z",
+      "Title": "Why do we add void as a parameter inside main function in C? [duplicate]",
+      "Tags": [
+        "c",
+        "parameters"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780205/why-do-we-add-void-as-a-parameter-inside-main-function-in-c"
+    },
+    {
+      "Created": "2025-10-01T15:00:37Z",
+      "Title": "SwiftUI ViewModifier should accept Theme explicitly or read it from Environment \u2014 why does any Protocol fail?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "swift-protocols"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780213/swiftui-viewmodifier-should-accept-theme-explicitly-or-read-it-from-environment"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-01T15:59:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T15:33:21Z",
+      "Title": "How can I package a portable compiler with my Python script to generate Windows EXEs (x86/x64/ARM64) offline?",
+      "Tags": [
+        "python",
+        "c#",
+        "c",
+        "compilation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780241/how-can-i-package-a-portable-compiler-with-my-python-script-to-generate-windows"
+    },
+    {
+      "Created": "2025-10-01T15:34:25Z",
+      "Title": "Vision face landmarks (DetectFaceLandmarksRequest) shifted on iOS 26 but correct on iOS 18 with same code and image",
+      "Tags": [
+        "ios",
+        "swift",
+        "vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780243/vision-face-landmarks-detectfacelandmarksrequest-shifted-on-ios-26-but-correct"
+    },
+    {
+      "Created": "2025-10-01T15:47:24Z",
+      "Title": "Overhead of instantiating a flax model",
+      "Tags": [
+        "python",
+        "jax",
+        "flax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780256/overhead-of-instantiating-a-flax-model"
+    },
+    {
+      "Created": "2025-10-01T15:59:34Z",
+      "Title": "What is the order of the stack frame when parameters are passed in?",
+      "Tags": [
+        "c\u002B\u002B",
+        "stack-frame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780269/what-is-the-order-of-the-stack-frame-when-parameters-are-passed-in"
+    }
+  ]
+}

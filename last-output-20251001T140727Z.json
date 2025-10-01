@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-01T14:04:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T12:45:14Z",
+      "Title": "Deserialize a JSON property to a string/numeric/boolean type with Jackson",
+      "Tags": [
+        "java",
+        "json",
+        "jackson"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780060/deserialize-a-json-property-to-a-string-numeric-boolean-type-with-jackson"
+    },
+    {
+      "Created": "2025-10-01T12:53:53Z",
+      "Title": "How to log information indicating that the camel JpaComponent started",
+      "Tags": [
+        "java",
+        "spring",
+        "jpa",
+        "logging",
+        "apache-camel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780075/how-to-log-information-indicating-that-the-camel-jpacomponent-started"
+    },
+    {
+      "Created": "2025-10-01T13:22:00Z",
+      "Title": "When does socket::is_open return false?",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780111/when-does-socketis-open-return-false"
+    },
+    {
+      "Created": "2025-10-01T13:29:53Z",
+      "Title": "How to merge a branch into another with a different project structure?",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780118/how-to-merge-a-branch-into-another-with-a-different-project-structure"
+    },
+    {
+      "Created": "2025-10-01T13:36:51Z",
+      "Title": "No Tests Found/ My playwright test script does not run",
+      "Tags": [
+        "automation",
+        "playwright",
+        "playwright-typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780127/no-tests-found-my-playwright-test-script-does-not-run"
+    },
+    {
+      "Created": "2025-10-01T13:55:20Z",
+      "Title": "mkdocstrings - resolve variable type hint into actual type hints",
+      "Tags": [
+        "python-3.x",
+        "mkdocs",
+        "mkdocstrings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780141/mkdocstrings-resolve-variable-type-hint-into-actual-type-hints"
+    },
+    {
+      "Created": "2025-10-01T13:57:02Z",
+      "Title": "Listener for opening a section in Elementor edit panel",
+      "Tags": [
+        "javascript",
+        "wordpress",
+        "elementor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780142/listener-for-opening-a-section-in-elementor-edit-panel"
+    },
+    {
+      "Created": "2025-10-01T14:04:24Z",
+      "Title": "Use EndXl Down to Copy Down to Everything but the last row (total row)",
+      "Tags": [
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780151/use-endxl-down-to-copy-down-to-everything-but-the-last-row-total-row"
+    }
+  ]
+}

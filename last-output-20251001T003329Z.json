@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-01T00:14:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-09-30T23:07:13Z",
+      "Title": "why does it keep saying my list is empty when my code was just working? [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779566/why-does-it-keep-saying-my-list-is-empty-when-my-code-was-just-working"
+    },
+    {
+      "Created": "2025-10-01T00:00:15Z",
+      "Title": "Is sequentially consistent memory ordering strictly necessary in this C\u002B\u002B example?",
+      "Tags": [
+        "c\u002B\u002B",
+        "memory-barriers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779582/is-sequentially-consistent-memory-ordering-strictly-necessary-in-this-c-exampl"
+    },
+    {
+      "Created": "2025-10-01T00:02:28Z",
+      "Title": "How to make dd ignore empty lines but yank to system clipboard and delete non-empty lines in IdeaVim?",
+      "Tags": [
+        "intellij-idea",
+        "vim",
+        "jetbrains-ide",
+        "ideavim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779584/how-to-make-dd-ignore-empty-lines-but-yank-to-system-clipboard-and-delete-non-em"
+    },
+    {
+      "Created": "2025-10-01T00:14:07Z",
+      "Title": "Computational Thinking _ Set Theories [closed]",
+      "Tags": [
+        "python",
+        "set-theory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779588/computational-thinking-set-theories"
+    }
+  ]
+}

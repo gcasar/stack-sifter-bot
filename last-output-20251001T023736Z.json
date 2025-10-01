@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-01T02:27:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T01:39:57Z",
+      "Title": "Same notebooks, but different result from GPU Vs CPU run",
+      "Tags": [
+        "jupyter-notebook",
+        "gpu",
+        "cpu",
+        "tensorflow-probability",
+        "bayesian-deep-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779602/same-notebooks-but-different-result-from-gpu-vs-cpu-run"
+    },
+    {
+      "Created": "2025-10-01T01:50:16Z",
+      "Title": "In Genesis (Embodied-AI), how can I dynamically change the color of a cube?",
+      "Tags": [
+        "robotics",
+        "genesis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779606/in-genesis-embodied-ai-how-can-i-dynamically-change-the-color-of-a-cube"
+    },
+    {
+      "Created": "2025-10-01T01:59:15Z",
+      "Title": "Jackson (de)serialization with redisTemplate",
+      "Tags": [
+        "java",
+        "redis",
+        "jackson",
+        "hashset",
+        "jackson-databind"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779608/jackson-deserialization-with-redistemplate"
+    },
+    {
+      "Created": "2025-10-01T01:59:18Z",
+      "Title": "SwiftUI Menu with glassEffect button shows rectangular artifact on dismiss",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779609/swiftui-menu-with-glasseffect-button-shows-rectangular-artifact-on-dismiss"
+    },
+    {
+      "Created": "2025-10-01T02:09:26Z",
+      "Title": "Bitwise operations act outside of type width in C; Compiler Bug or Within Spec?",
+      "Tags": [
+        "c",
+        "linux",
+        "gcc",
+        "bitwise-operators",
+        "undefined-behavior"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779612/bitwise-operations-act-outside-of-type-width-in-c-compiler-bug-or-within-spec"
+    },
+    {
+      "Created": "2025-10-01T02:19:21Z",
+      "Title": "How to get security_lower_tf 1hr data from previous 1D candle, not current",
+      "Tags": [
+        "pine-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779617/how-to-get-security-lower-tf-1hr-data-from-previous-1d-candle-not-current"
+    },
+    {
+      "Created": "2025-10-01T02:23:19Z",
+      "Title": "Python Nuitka exe file to Shellcode",
+      "Tags": [
+        "python",
+        "shellcode",
+        "nuitka",
+        "donut"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779619/python-nuitka-exe-file-to-shellcode"
+    },
+    {
+      "Created": "2025-10-01T02:27:01Z",
+      "Title": "SSL Verification Error in Supabase SQL Alchemy App",
+      "Tags": [
+        "ssl",
+        "sqlalchemy",
+        "fastapi",
+        "google-cloud-run",
+        "supabase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779622/ssl-verification-error-in-supabase-sql-alchemy-app"
+    }
+  ]
+}

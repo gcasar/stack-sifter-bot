@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-01T06:07:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T05:25:02Z",
+      "Title": "How to schedule reminder/alarm notification in Flutter for iOS when the app is killed (like attendance reminder)?",
+      "Tags": [
+        "ios",
+        "flutter",
+        "flutter-dependencies",
+        "alarm",
+        "reminders"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779685/how-to-schedule-reminder-alarm-notification-in-flutter-for-ios-when-the-app-is-k"
+    },
+    {
+      "Created": "2025-10-01T05:59:42Z",
+      "Title": "first argument of printf effects the second argument",
+      "Tags": [
+        "c",
+        "variadic-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779696/first-argument-of-printf-effects-the-second-argument"
+    },
+    {
+      "Created": "2025-10-01T06:01:12Z",
+      "Title": "Jenkins Allure commandline tool issue",
+      "Tags": [
+        "jenkins",
+        "jenkins-pipeline",
+        "jenkins-plugins",
+        "allure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779697/jenkins-allure-commandline-tool-issue"
+    },
+    {
+      "Created": "2025-10-01T06:04:17Z",
+      "Title": "How to persist uploaded photos in a multi-step React form across page refresh?",
+      "Tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779699/how-to-persist-uploaded-photos-in-a-multi-step-react-form-across-page-refresh"
+    },
+    {
+      "Created": "2025-10-01T06:07:29Z",
+      "Title": "How to restrict public access to student search system while allowing universities to verify student data?",
+      "Tags": [
+        "wordpress",
+        "plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779700/how-to-restrict-public-access-to-student-search-system-while-allowing-universiti"
+    }
+  ]
+}

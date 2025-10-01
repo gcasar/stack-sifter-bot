@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-01T12:06:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T11:54:46Z",
+      "Title": "How to set custom colors for items in angular-calendar-timeline?",
+      "Tags": [
+        "angular",
+        "angular-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780006/how-to-set-custom-colors-for-items-in-angular-calendar-timeline"
+    },
+    {
+      "Created": "2025-10-01T12:01:17Z",
+      "Title": "Update total in Stripe payments upon shipping rate change (Amazon, Google Pay etc)",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "events",
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780013/update-total-in-stripe-payments-upon-shipping-rate-change-amazon-google-pay-et"
+    },
+    {
+      "Created": "2025-10-01T12:05:11Z",
+      "Title": "Android Glance AppWidget: How to make layout reliable across screen densities and user font scales?",
+      "Tags": [
+        "android",
+        "glance-appwidget"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780018/android-glance-appwidget-how-to-make-layout-reliable-across-screen-densities-an"
+    },
+    {
+      "Created": "2025-10-01T12:06:58Z",
+      "Title": "Google Sheets Formulas",
+      "Tags": [
+        "google-sheets",
+        "google-sheets-formula",
+        "spreadsheet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780022/google-sheets-formulas"
+    }
+  ]
+}

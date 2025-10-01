@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-01T04:48:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T04:10:01Z",
+      "Title": "Google Earth Engine ui.Chart.image.series mislabels bands when not selected in alphabetical order",
+      "Tags": [
+        "google-earth-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779656/google-earth-engine-ui-chart-image-series-mislabels-bands-when-not-selected-in-a"
+    },
+    {
+      "Created": "2025-10-01T04:13:08Z",
+      "Title": "How can I merge multiple PDFs in Google Apps Script without copying pages individually?",
+      "Tags": [
+        "google-apps-script",
+        "pdf",
+        "pdflib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779658/how-can-i-merge-multiple-pdfs-in-google-apps-script-without-copying-pages-indivi"
+    },
+    {
+      "Created": "2025-10-01T04:20:47Z",
+      "Title": "Structured binding for std::views::enumerate of std::map",
+      "Tags": [
+        "c\u002B\u002B",
+        "stdmap",
+        "std-ranges",
+        "structured-bindings",
+        "range-based-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779663/structured-binding-for-stdviewsenumerate-of-stdmap"
+    },
+    {
+      "Created": "2025-10-01T04:21:46Z",
+      "Title": "Efficient multicore for loop in Julia",
+      "Tags": [
+        "julia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779665/efficient-multicore-for-loop-in-julia"
+    },
+    {
+      "Created": "2025-10-01T04:22:23Z",
+      "Title": "React Native 0.80.1 with AGP 8.3.2 and Gradle 8.2 - Kotlin compilation failure in gradle-plugin",
+      "Tags": [
+        "reactjs",
+        "react-native",
+        "version"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779666/react-native-0-80-1-with-agp-8-3-2-and-gradle-8-2-kotlin-compilation-failure-i"
+    },
+    {
+      "Created": "2025-10-01T04:31:29Z",
+      "Title": "How cloudbees calculates casc bundle checksum",
+      "Tags": [
+        "jenkins",
+        "cloudbees"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779672/how-cloudbees-calculates-casc-bundle-checksum"
+    },
+    {
+      "Created": "2025-10-01T04:48:19Z",
+      "Title": "Core Library \u0026 API: Global Knowledge of Variable Inertia",
+      "Tags": [
+        "python",
+        "java",
+        "c#",
+        "go",
+        "c\u002B\u002B-winrt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779679/core-library-api-global-knowledge-of-variable-inertia"
+    }
+  ]
+}

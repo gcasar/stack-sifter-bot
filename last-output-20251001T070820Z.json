@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-01T07:06:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T06:36:19Z",
+      "Title": "using polylang , how to move all the translation po files directly (using a plugin) instead of migrating them manually",
+      "Tags": [
+        "php",
+        "wordpress",
+        "plugins",
+        "translation",
+        "multilingual"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779715/using-polylang-how-to-move-all-the-translation-po-files-directly-using-a-plug"
+    },
+    {
+      "Created": "2025-10-01T06:50:10Z",
+      "Title": "Google OAuth app verification stuck for 3\u002B weeks \u2013 any way to follow up?",
+      "Tags": [
+        "oauth",
+        "google-oauth",
+        "google-app-verification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779723/google-oauth-app-verification-stuck-for-3-weeks-any-way-to-follow-up"
+    },
+    {
+      "Created": "2025-10-01T06:53:41Z",
+      "Title": "Order of execution in FastaPI async context manager",
+      "Tags": [
+        "python",
+        "fastapi",
+        "contextmanager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779724/order-of-execution-in-fastapi-async-context-manager"
+    },
+    {
+      "Created": "2025-10-01T07:00:24Z",
+      "Title": "How can I detect and merge semantic duplicates in a large pandas DataFrame automatically?",
+      "Tags": [
+        "python",
+        "pandas",
+        "data-cleaning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779727/how-can-i-detect-and-merge-semantic-duplicates-in-a-large-pandas-dataframe-autom"
+    },
+    {
+      "Created": "2025-10-01T07:00:25Z",
+      "Title": "\u0022Client is not entitled\u0022 Error (Code=4) with PKAddShareablePassConfiguration.forPassMetaData Despite Correct Entitlements",
+      "Tags": [
+        "ios",
+        "xcode",
+        "apple-m1"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779728/client-is-not-entitled-error-code-4-with-pkaddshareablepassconfiguration-for"
+    },
+    {
+      "Created": "2025-10-01T07:06:58Z",
+      "Title": "Python gdal open layer from bytes",
+      "Tags": [
+        "python",
+        "gdal",
+        "ogr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779732/python-gdal-open-layer-from-bytes"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-01T20:04:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T19:36:14Z",
+      "Title": "Powershell captures array function result with single element as just the element",
+      "Tags": [
+        "arrays",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780408/powershell-captures-array-function-result-with-single-element-as-just-the-elemen"
+    },
+    {
+      "Created": "2025-10-01T19:50:47Z",
+      "Title": "Wix quite custom action not working when running exe with arguments",
+      "Tags": [
+        "installation",
+        "wix",
+        "windows-installer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780419/wix-quite-custom-action-not-working-when-running-exe-with-arguments"
+    },
+    {
+      "Created": "2025-10-01T19:53:41Z",
+      "Title": "How to insert an image from Google Drive inside a Google Sheet Cell programmatically (via API)?",
+      "Tags": [
+        "google-sheets-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780423/how-to-insert-an-image-from-google-drive-inside-a-google-sheet-cell-programmatic"
+    },
+    {
+      "Created": "2025-10-01T20:04:03Z",
+      "Title": "Get the 8th element of a string divided by \u0022/\u0022 character",
+      "Tags": [
+        "sql",
+        "regex",
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780430/get-the-8th-element-of-a-string-divided-by-character"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-01T03:22:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T02:52:51Z",
+      "Title": "Kafka Streams main consumer fetch rate stays low after GlobalKTable (RocksDB) restore",
+      "Tags": [
+        "java",
+        "apache-kafka",
+        "apache-kafka-streams",
+        "rocksdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779626/kafka-streams-main-consumer-fetch-rate-stays-low-after-globalktable-rocksdb-re"
+    },
+    {
+      "Created": "2025-10-01T02:57:26Z",
+      "Title": "Struggling to understand how to print numerous columns with similar data",
+      "Tags": [
+        "c\u002B\u002B",
+        "format"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779629/struggling-to-understand-how-to-print-numerous-columns-with-similar-data"
+    },
+    {
+      "Created": "2025-10-01T03:17:26Z",
+      "Title": "Grokipedia API Python integration \u2013 how to fetch data?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779633/grokipedia-api-python-integration-how-to-fetch-data"
+    },
+    {
+      "Created": "2025-10-01T03:19:50Z",
+      "Title": "Listen to midi messages from arduino in Ableton using Python MIDI Remote script",
+      "Tags": [
+        "python",
+        "ableton-live"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779635/listen-to-midi-messages-from-arduino-in-ableton-using-python-midi-remote-script"
+    },
+    {
+      "Created": "2025-10-01T03:22:12Z",
+      "Title": "How to parse multiple email addresses from json data in Ansible via map(regex_search) filter",
+      "Tags": [
+        "regex",
+        "ansible",
+        "json-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779637/how-to-parse-multiple-email-addresses-from-json-data-in-ansible-via-mapregex-se"
+    }
+  ]
+}

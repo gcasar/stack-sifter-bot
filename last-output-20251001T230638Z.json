@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-01T23:02:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T22:20:13Z",
+      "Title": "I get a \u0022Server error. Please try again later\u0022 error when calling the Gmail API",
+      "Tags": [
+        "javascript",
+        "google-apps-script",
+        "gmail-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780512/i-get-a-server-error-please-try-again-later-error-when-calling-the-gmail-api"
+    },
+    {
+      "Created": "2025-10-01T22:28:16Z",
+      "Title": "How to provide the safe certificate required by Nextcloud sync client version 3.17 for Windows?",
+      "Tags": [
+        "windows",
+        "ssl",
+        "raspberry-pi",
+        "synchronization",
+        "nextcloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780517/how-to-provide-the-safe-certificate-required-by-nextcloud-sync-client-version-3"
+    },
+    {
+      "Created": "2025-10-01T22:28:39Z",
+      "Title": "R arrange after grouping",
+      "Tags": [
+        "r",
+        "group-by"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780518/r-arrange-after-grouping"
+    },
+    {
+      "Created": "2025-10-01T22:55:00Z",
+      "Title": "Mineflayer assistance with block interactions",
+      "Tags": [
+        "javascript",
+        "mineflayer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780529/mineflayer-assistance-with-block-interactions"
+    },
+    {
+      "Created": "2025-10-01T23:02:33Z",
+      "Title": "Xcode project in iCloud Drive causes \u201CThe file \u2018Documents\u2019 doesn\u2019t exist\u201D error loop",
+      "Tags": [
+        "xcode",
+        "macos",
+        "icloud",
+        "xcode-project"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780530/xcode-project-in-icloud-drive-causes-the-file-documents-doesn-t-exist-error"
+    }
+  ]
+}

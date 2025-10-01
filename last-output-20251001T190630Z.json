@@ -1,0 +1,133 @@
+{
+  "TotalProcessed": 13,
+  "LastCreated": "2025-10-01T19:02:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T18:21:46Z",
+      "Title": "I need to sort a list of coordinate pairs by y decreasing then x increasing",
+      "Tags": [
+        "python",
+        "sorting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780349/i-need-to-sort-a-list-of-coordinate-pairs-by-y-decreasing-then-x-increasing"
+    },
+    {
+      "Created": "2025-10-01T18:22:23Z",
+      "Title": "MSBuild - Publishing a WebForms project with references to other WebForms project",
+      "Tags": [
+        "asp.net",
+        "webforms",
+        "msbuild",
+        "publish-profiles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780350/msbuild-publishing-a-webforms-project-with-references-to-other-webforms-projec"
+    },
+    {
+      "Created": "2025-10-01T18:38:08Z",
+      "Title": "Executable killed by the system on Android, but executable via \u0022adb shell\u0022",
+      "Tags": [
+        "android",
+        "gcc",
+        "process",
+        "strace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780367/executable-killed-by-the-system-on-android-but-executable-via-adb-shell"
+    },
+    {
+      "Created": "2025-10-01T18:38:20Z",
+      "Title": "how to fix lifetimes when returning and iterator over borrowed data",
+      "Tags": [
+        "rust",
+        "lifetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780368/how-to-fix-lifetimes-when-returning-and-iterator-over-borrowed-data"
+    },
+    {
+      "Created": "2025-10-01T18:39:11Z",
+      "Title": "Converting DateTime calculation from SQL Server to Postgres",
+      "Tags": [
+        "timezone-offset",
+        "postgresql-18"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780370/converting-datetime-calculation-from-sql-server-to-postgres"
+    },
+    {
+      "Created": "2025-10-01T18:39:32Z",
+      "Title": "Pandas dataFrame standard deviation issue",
+      "Tags": [
+        "python-3.x",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780371/pandas-dataframe-standard-deviation-issue"
+    },
+    {
+      "Created": "2025-10-01T18:40:42Z",
+      "Title": "What is the correct syntax for selecting data between NOW() and the previous hour in griddb/griddbCloud?",
+      "Tags": [
+        "sql",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780374/what-is-the-correct-syntax-for-selecting-data-between-now-and-the-previous-hou"
+    },
+    {
+      "Created": "2025-10-01T18:41:39Z",
+      "Title": "How to reproduce C\u002B\u002B deleting destructor for a custom allocator?",
+      "Tags": [
+        "c\u002B\u002B",
+        "memory-management",
+        "polymorphism",
+        "delete-operator",
+        "self-destruction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780376/how-to-reproduce-c-deleting-destructor-for-a-custom-allocator"
+    },
+    {
+      "Created": "2025-10-01T18:57:57Z",
+      "Title": "Looking for an open source model or toolkit that predicts attacks and attack chains from CVEs and NVD data (graph/ML/rule-based)",
+      "Tags": [
+        "security",
+        "machine-learning",
+        "graph",
+        "knowledge-graph",
+        "network-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780383/looking-for-an-open-source-model-or-toolkit-that-predicts-attacks-and-attack-cha"
+    },
+    {
+      "Created": "2025-10-01T18:58:04Z",
+      "Title": "I have installation error uv python install, What should I do?",
+      "Tags": [
+        "manim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780384/i-have-installation-error-uv-python-install-what-should-i-do"
+    },
+    {
+      "Created": "2025-10-01T18:59:06Z",
+      "Title": "Filament v4 migration \u2013 Livewire SupportValidation error and login redirect not working",
+      "Tags": [
+        "php",
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780386/filament-v4-migration-livewire-supportvalidation-error-and-login-redirect-not"
+    },
+    {
+      "Created": "2025-10-01T18:59:17Z",
+      "Title": "ASP.Net - Microsoft Word Interop COM Exception",
+      "Tags": [
+        "asp.net",
+        "office-interop",
+        "comexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780387/asp-net-microsoft-word-interop-com-exception"
+    },
+    {
+      "Created": "2025-10-01T19:02:38Z",
+      "Title": "Low-quality cropped images result when using Flutter image package",
+      "Tags": [
+        "android",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780389/low-quality-cropped-images-result-when-using-flutter-image-package"
+    }
+  ]
+}

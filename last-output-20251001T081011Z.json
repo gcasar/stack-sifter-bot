@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-01T08:09:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T07:38:35Z",
+      "Title": "How to configure model with two principals related to the same child?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "entity-relationship"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779755/how-to-configure-model-with-two-principals-related-to-the-same-child"
+    },
+    {
+      "Created": "2025-10-01T07:54:29Z",
+      "Title": "How to reuse an loaded script in another loaded script in Jenkins without using libraries",
+      "Tags": [
+        "jenkins",
+        "groovy",
+        "jenkins-groovy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779763/how-to-reuse-an-loaded-script-in-another-loaded-script-in-jenkins-without-using"
+    },
+    {
+      "Created": "2025-10-01T07:54:38Z",
+      "Title": "Put words seperated by whitespace on new lines",
+      "Tags": [
+        "neovim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779764/put-words-seperated-by-whitespace-on-new-lines"
+    },
+    {
+      "Created": "2025-10-01T07:58:02Z",
+      "Title": "Paginating URIs when using CORB tool in Marklogic",
+      "Tags": [
+        "xquery",
+        "marklogic",
+        "marklogic-10",
+        "marklogic-corb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779767/paginating-uris-when-using-corb-tool-in-marklogic"
+    },
+    {
+      "Created": "2025-10-01T07:58:05Z",
+      "Title": "What will happen if Node.js cannot read a directory (or a part of a file) due to bad/problematic sectors on disk or corrupted file system?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "file",
+        "directory",
+        "node.js-fs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779768/what-will-happen-if-node-js-cannot-read-a-directory-or-a-part-of-a-file-due-to"
+    },
+    {
+      "Created": "2025-10-01T08:08:41Z",
+      "Title": "Refreshing access token from Snapchat",
+      "Tags": [
+        "android",
+        "kotlin",
+        "authentication",
+        "oauth-2.0",
+        "snapchat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779780/refreshing-access-token-from-snapchat"
+    },
+    {
+      "Created": "2025-10-01T08:09:18Z",
+      "Title": "R: Minimum values with multiple criteria in a data.table",
+      "Tags": [
+        "r",
+        "data.table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779782/r-minimum-values-with-multiple-criteria-in-a-data-table"
+    }
+  ]
+}

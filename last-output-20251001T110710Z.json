@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-01T11:02:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T10:42:36Z",
+      "Title": "How to achieve an \u201Cinset carved\u201D gallery card effect inside an image container with CSS clip-path or masks? [closed]",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779931/how-to-achieve-an-inset-carved-gallery-card-effect-inside-an-image-container-w"
+    },
+    {
+      "Created": "2025-10-01T10:50:43Z",
+      "Title": "Next mask backend errors",
+      "Tags": [
+        "typescript",
+        "next.js",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779942/next-mask-backend-errors"
+    },
+    {
+      "Created": "2025-10-01T10:55:31Z",
+      "Title": "python REPL: is it possible to combine -i and -m asyncio?",
+      "Tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779946/python-repl-is-it-possible-to-combine-i-and-m-asyncio"
+    },
+    {
+      "Created": "2025-10-01T11:02:10Z",
+      "Title": "Updating data in imitation model from the Anylogic (or external) database during the simulation (without model recompilling)",
+      "Tags": [
+        "java",
+        "database",
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779952/updating-data-in-imitation-model-from-the-anylogic-or-external-database-during"
+    }
+  ]
+}

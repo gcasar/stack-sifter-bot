@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-01T21:01:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T20:37:39Z",
+      "Title": "this pointer in multiple inheritance of C\u002B\u002B class",
+      "Tags": [
+        "c\u002B\u002B",
+        "multiple-inheritance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780452/this-pointer-in-multiple-inheritance-of-c-class"
+    },
+    {
+      "Created": "2025-10-01T20:50:11Z",
+      "Title": "steam integration kit unreal engine 5",
+      "Tags": [
+        "steam",
+        "unreal-engine5",
+        "blueprint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780460/steam-integration-kit-unreal-engine-5"
+    },
+    {
+      "Created": "2025-10-01T20:52:18Z",
+      "Title": "How do I refer to current path in Git config using GNU bash?",
+      "Tags": [
+        "windows",
+        "git",
+        "git-bash",
+        "pwd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780463/how-do-i-refer-to-current-path-in-git-config-using-gnu-bash"
+    },
+    {
+      "Created": "2025-10-01T20:58:22Z",
+      "Title": "AttributedString: Mixed attributes get overwritten",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780469/attributedstring-mixed-attributes-get-overwritten"
+    },
+    {
+      "Created": "2025-10-01T21:01:01Z",
+      "Title": "In Jenkins, how do I import some, but not all, functions from shared library vars folder?",
+      "Tags": [
+        "jenkins",
+        "jenkins-shared-libraries"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780473/in-jenkins-how-do-i-import-some-but-not-all-functions-from-shared-library-var"
+    }
+  ]
+}

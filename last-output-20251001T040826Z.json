@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-01T03:37:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T03:37:17Z",
+      "Title": "How can i read mi HCE applicaction with PN532?",
+      "Tags": [
+        "android",
+        "arduino",
+        "hce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779644/how-can-i-read-mi-hce-applicaction-with-pn532"
+    },
+    {
+      "Created": "2025-10-01T03:37:54Z",
+      "Title": "Redis GETRANGE command strange behavior with negative indexes",
+      "Tags": [
+        "redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779645/redis-getrange-command-strange-behavior-with-negative-indexes"
+    }
+  ]
+}

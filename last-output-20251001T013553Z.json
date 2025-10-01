@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-01T00:59:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T00:29:40Z",
+      "Title": "Select each cr/lf delimited value from a column as a separate output line [duplicate]",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779591/select-each-cr-lf-delimited-value-from-a-column-as-a-separate-output-line"
+    },
+    {
+      "Created": "2025-10-01T00:53:54Z",
+      "Title": "The output of an Github action is always empty when used as job output",
+      "Tags": [
+        "github",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779596/the-output-of-an-github-action-is-always-empty-when-used-as-job-output"
+    },
+    {
+      "Created": "2025-10-01T00:59:03Z",
+      "Title": "Mailjet - can\u0027t insert a mailto: link any more",
+      "Tags": [
+        "mailjet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79779597/mailjet-cant-insert-a-mailto-link-any-more"
+    }
+  ]
+}

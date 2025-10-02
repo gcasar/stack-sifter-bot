@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-02T09:02:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T08:40:27Z",
+      "Title": "Failure to resolve OidcDevJsonRpcService when starting an application in dev after upgrade to Quarkus 3.26.4",
+      "Tags": [
+        "quarkus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780740/failure-to-resolve-oidcdevjsonrpcservice-when-starting-an-application-in-dev-aft"
+    },
+    {
+      "Created": "2025-10-02T08:45:23Z",
+      "Title": "How to add borderRadius to top and bottom of Highchart bar with something like Curvilinear Square shape?",
+      "Tags": [
+        "highcharts",
+        "react-highcharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780741/how-to-add-borderradius-to-top-and-bottom-of-highchart-bar-with-something-like-c"
+    },
+    {
+      "Created": "2025-10-02T09:01:15Z",
+      "Title": "Pass mixed references to function: value for small types, and reference for large types",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "pass-by-reference",
+        "pass-by-value"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780748/pass-mixed-references-to-function-value-for-small-types-and-reference-for-larg"
+    },
+    {
+      "Created": "2025-10-02T09:01:18Z",
+      "Title": "Using IDLE: destroy() called from menu item not terminating mainloop(), but works OK when called from a Button or WM_DELETE_WINDOW",
+      "Tags": [
+        "python",
+        "tkinter",
+        "pycharm",
+        "destroy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780749/using-idle-destroy-called-from-menu-item-not-terminating-mainloop-but-work"
+    },
+    {
+      "Created": "2025-10-02T09:02:40Z",
+      "Title": "How to add a border to tkinter frame?",
+      "Tags": [
+        "python",
+        "user-interface",
+        "tkinter",
+        "border"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780750/how-to-add-a-border-to-tkinter-frame"
+    }
+  ]
+}

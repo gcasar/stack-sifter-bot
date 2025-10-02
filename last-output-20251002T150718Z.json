@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-02T14:59:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T14:51:39Z",
+      "Title": "Azure Pipelines and Angular SSR for Azure Web Apps",
+      "Tags": [
+        "azure-devops",
+        "azure-web-app-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781031/azure-pipelines-and-angular-ssr-for-azure-web-apps"
+    },
+    {
+      "Created": "2025-10-02T14:53:40Z",
+      "Title": "Problems with making a brick breaker",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781035/problems-with-making-a-brick-breaker"
+    },
+    {
+      "Created": "2025-10-02T14:55:10Z",
+      "Title": "Simulate a custom screen in a window with python",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "windows",
+        "graphics",
+        "window"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781038/simulate-a-custom-screen-in-a-window-with-python"
+    },
+    {
+      "Created": "2025-10-02T14:55:31Z",
+      "Title": "Kafka cluster with \u0060default.replication.factor=3\u0060 and \u0060min.insync.replicas=2\u0060. A producer with \u0060acks=all\u0060 and 1 replica fails. What\u0027s the effect?",
+      "Tags": [
+        "apache-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781040/kafka-cluster-with-default-replication-factor-3-and-min-insync-replicas-2-a"
+    },
+    {
+      "Created": "2025-10-02T14:59:08Z",
+      "Title": "What is the proper way to retrieve items from the initial stock of a \u0022storage system\u0022 in Anylogic?",
+      "Tags": [
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781045/what-is-the-proper-way-to-retrieve-items-from-the-initial-stock-of-a-storage-sy"
+    },
+    {
+      "Created": "2025-10-02T14:59:18Z",
+      "Title": "How to make my Win32 application not DPI-aware but also prevent Windows 10/11 from stretching the application window in blurry form?",
+      "Tags": [
+        "winapi",
+        "windows-10",
+        "dpi",
+        "hidpi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781046/how-to-make-my-win32-application-not-dpi-aware-but-also-prevent-windows-10-11-fr"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-02T05:59:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T05:20:05Z",
+      "Title": "Connect to external IP from k8s service [closed]",
+      "Tags": [
+        "kubernetes",
+        "routes",
+        "endpoint",
+        "ingress-controller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780638/connect-to-external-ip-from-k8s-service"
+    },
+    {
+      "Created": "2025-10-02T05:57:57Z",
+      "Title": "why do my forEach results change every time the page loads",
+      "Tags": [
+        "javascript",
+        "html",
+        "arrays",
+        "foreach"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780646/why-do-my-foreach-results-change-every-time-the-page-loads"
+    },
+    {
+      "Created": "2025-10-02T05:58:36Z",
+      "Title": "Enable DataAssets in Flutter project",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780647/enable-dataassets-in-flutter-project"
+    },
+    {
+      "Created": "2025-10-02T05:59:35Z",
+      "Title": "Svelte \u002B Routify: Carbon Pagination always resets to page 1 instead of syncing with URL",
+      "Tags": [
+        "datatable",
+        "pagination",
+        "carbon-components-svelte",
+        "carbon-components"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780648/svelte-routify-carbon-pagination-always-resets-to-page-1-instead-of-syncing-w"
+    }
+  ]
+}

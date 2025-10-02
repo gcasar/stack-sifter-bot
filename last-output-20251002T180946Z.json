@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-02T18:01:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T17:40:30Z",
+      "Title": "How to implement a memory-efficient infinite scroll with API pagination in Flutter using GetX?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "pagination",
+        "infinite-scroll",
+        "flutter-getx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781172/how-to-implement-a-memory-efficient-infinite-scroll-with-api-pagination-in-flutt"
+    },
+    {
+      "Created": "2025-10-02T17:40:34Z",
+      "Title": "Images are not displaying on blog, after deploying on pythonanywhere",
+      "Tags": [
+        "python",
+        "django",
+        "deployment",
+        "pythonanywhere",
+        "django-staticfiles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781173/images-are-not-displaying-on-blog-after-deploying-on-pythonanywhere"
+    },
+    {
+      "Created": "2025-10-02T17:43:18Z",
+      "Title": "Clickhouse - Aggregate ReplacingMergeTree table using incremental view",
+      "Tags": [
+        "clickhouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781177/clickhouse-aggregate-replacingmergetree-table-using-incremental-view"
+    },
+    {
+      "Created": "2025-10-02T17:43:52Z",
+      "Title": "Why does for...in include inherited properties but Object.keys() does not in JavaScript?",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781178/why-does-for-in-include-inherited-properties-but-object-keys-does-not-in-jav"
+    },
+    {
+      "Created": "2025-10-02T17:59:53Z",
+      "Title": "How to update a PyQt5 QTableWidget after changes to the backend database",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "pyqt5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781182/how-to-update-a-pyqt5-qtablewidget-after-changes-to-the-backend-database"
+    },
+    {
+      "Created": "2025-10-02T18:01:18Z",
+      "Title": "Remote Command Execution and Cleanup",
+      "Tags": [
+        "linux",
+        "bash",
+        "ssh",
+        "remote-server",
+        "nohup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781183/remote-command-execution-and-cleanup"
+    }
+  ]
+}

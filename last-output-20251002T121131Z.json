@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-02T12:06:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T11:51:26Z",
+      "Title": "Is this a Google.Cloud.Speech.V2 client package bug related to PhraseSets or am I using it wrong?",
+      "Tags": [
+        "c#",
+        "google-cloud-speech"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780884/is-this-a-google-cloud-speech-v2-client-package-bug-related-to-phrasesets-or-am"
+    },
+    {
+      "Created": "2025-10-02T11:55:54Z",
+      "Title": "Gitea pod CrashLoopBackOff: \u201Cinvalid leveldb connection string: redis\u002Bcluster://\u2026\u201D after disabling Redis",
+      "Tags": [
+        "kubernetes",
+        "redis",
+        "kubernetes-helm",
+        "gitea",
+        "crashloopbackoff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780887/gitea-pod-crashloopbackoff-invalid-leveldb-connection-string-rediscluster"
+    },
+    {
+      "Created": "2025-10-02T12:05:22Z",
+      "Title": "i686 compiler with GNU and SDL3 failing to claim window",
+      "Tags": [
+        "g\u002B\u002B",
+        "gpu",
+        "sdl",
+        "vulkan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780898/i686-compiler-with-gnu-and-sdl3-failing-to-claim-window"
+    },
+    {
+      "Created": "2025-10-02T12:06:23Z",
+      "Title": "How can I make impactful open-source contributions in Python as a student?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780899/how-can-i-make-impactful-open-source-contributions-in-python-as-a-student"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-02T07:03:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T06:10:13Z",
+      "Title": "Google Pixel 9 keeps switching to the wide lens camera when trying to scan barcodes",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-camera2",
+        "android-camerax",
+        "google-pixel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780652/google-pixel-9-keeps-switching-to-the-wide-lens-camera-when-trying-to-scan-barco"
+    },
+    {
+      "Created": "2025-10-02T06:39:19Z",
+      "Title": "Even though it gives the right output but still there is error TS2532",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780665/even-though-it-gives-the-right-output-but-still-there-is-error-ts2532"
+    },
+    {
+      "Created": "2025-10-02T06:49:28Z",
+      "Title": "NativeWind styles not hot-reloading in Expo 54 project (changes only appear after expo start -c)",
+      "Tags": [
+        "typescript",
+        "react-native",
+        "expo",
+        "tailwind-css",
+        "nativewind"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780669/nativewind-styles-not-hot-reloading-in-expo-54-project-changes-only-appear-afte"
+    },
+    {
+      "Created": "2025-10-02T06:55:06Z",
+      "Title": "How does pac4j handle existing profiles vs client list in DefaultSecurityLogic",
+      "Tags": [
+        "pac4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780673/how-does-pac4j-handle-existing-profiles-vs-client-list-in-defaultsecuritylogic"
+    },
+    {
+      "Created": "2025-10-02T07:03:10Z",
+      "Title": "In C\u002B\u002B, when you call a class constructor without an object, why is it different from calling an object\u0027s constructor?",
+      "Tags": [
+        "c\u002B\u002B",
+        "raylib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780677/in-c-when-you-call-a-class-constructor-without-an-object-why-is-it-different"
+    }
+  ]
+}

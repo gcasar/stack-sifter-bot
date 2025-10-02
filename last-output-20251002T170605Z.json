@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-02T16:57:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T16:31:57Z",
+      "Title": "primeNG InputMask v.17 mask allowing 2-3 digits not working",
+      "Tags": [
+        "primeng",
+        "input-mask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781133/primeng-inputmask-v-17-mask-allowing-2-3-digits-not-working"
+    },
+    {
+      "Created": "2025-10-02T16:51:09Z",
+      "Title": "How to add properties to a $Form = [system.windows.forms.form]@{} created object, after creation",
+      "Tags": [
+        "powershell-5.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781139/how-to-add-properties-to-a-form-system-windows-forms-form-created-object"
+    },
+    {
+      "Created": "2025-10-02T16:52:18Z",
+      "Title": "Singularity build process gets Killed when building from local Docker image",
+      "Tags": [
+        "docker",
+        "ubuntu",
+        "hpc",
+        "docker-build",
+        "singularity-container"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781141/singularity-build-process-gets-killed-when-building-from-local-docker-image"
+    },
+    {
+      "Created": "2025-10-02T16:55:06Z",
+      "Title": "Filtering Out Null Keys in JSON Output Using Apache AGE Cypher Query with json_object_agg",
+      "Tags": [
+        "json",
+        "postgresql",
+        "cypher",
+        "where-clause",
+        "apache-age"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781144/filtering-out-null-keys-in-json-output-using-apache-age-cypher-query-with-json-o"
+    },
+    {
+      "Created": "2025-10-02T16:57:44Z",
+      "Title": "I have a challenge my products are querried but not going through,",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "dart",
+        "cubit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781149/i-have-a-challenge-my-products-are-querried-but-not-going-through"
+    }
+  ]
+}

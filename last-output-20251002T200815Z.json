@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-02T20:06:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T20:04:56Z",
+      "Title": "Can\u0027t erase an associative array element in bash in x64 but can in aarch",
+      "Tags": [
+        "bash",
+        "associative-array"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781263/cant-erase-an-associative-array-element-in-bash-in-x64-but-can-in-aarch"
+    },
+    {
+      "Created": "2025-10-02T20:06:27Z",
+      "Title": "do a USB-UART bridge need baud rate configuration?",
+      "Tags": [
+        "esp32",
+        "uart",
+        "usbserial"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781264/do-a-usb-uart-bridge-need-baud-rate-configuration"
+    }
+  ]
+}

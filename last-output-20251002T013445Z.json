@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-02T01:22:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T00:53:13Z",
+      "Title": "Python cannot install torch",
+      "Tags": [
+        "python",
+        "pip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780565/python-cannot-install-torch"
+    },
+    {
+      "Created": "2025-10-02T01:03:02Z",
+      "Title": "Are extension properties subject to being displayed in the debugger by default?",
+      "Tags": [
+        "c#",
+        "debugging",
+        ".net-10.0",
+        "c#-14.0",
+        "extension-members"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780567/are-extension-properties-subject-to-being-displayed-in-the-debugger-by-default"
+    },
+    {
+      "Created": "2025-10-02T01:11:38Z",
+      "Title": "Vue form elements desync from computed refs",
+      "Tags": [
+        "vue.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780570/vue-form-elements-desync-from-computed-refs"
+    },
+    {
+      "Created": "2025-10-02T01:22:21Z",
+      "Title": "Where does Xcode store watchOS simulator runtimes and how to install a downloaded .simruntime file?",
+      "Tags": [
+        "xcode",
+        "simulator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780572/where-does-xcode-store-watchos-simulator-runtimes-and-how-to-install-a-downloade"
+    },
+    {
+      "Created": "2025-10-02T01:22:43Z",
+      "Title": "Platform Independent unifying ViewRepresentable template to minimize #if #else #endif in SwiftUI code",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780573/platform-independent-unifying-viewrepresentable-template-to-minimize-if-else"
+    }
+  ]
+}

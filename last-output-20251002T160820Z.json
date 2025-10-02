@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-02T16:06:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T15:51:00Z",
+      "Title": "Unexpected ifelse result",
+      "Tags": [
+        "r",
+        "if-statement",
+        "conditional-statements"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781096/unexpected-ifelse-result"
+    },
+    {
+      "Created": "2025-10-02T15:53:02Z",
+      "Title": "Forwarding calls of functions with any number of parameters and return type",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781098/forwarding-calls-of-functions-with-any-number-of-parameters-and-return-type"
+    },
+    {
+      "Created": "2025-10-02T16:03:15Z",
+      "Title": "Returning a reference from and into self violates ownership",
+      "Tags": [
+        "rust",
+        "reference",
+        "ownership"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781111/returning-a-reference-from-and-into-self-violates-ownership"
+    },
+    {
+      "Created": "2025-10-02T16:03:44Z",
+      "Title": "Gunicorn with worker 1 not able to call local API",
+      "Tags": [
+        "python",
+        "rest",
+        "flask",
+        "timeout",
+        "gunicorn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781113/gunicorn-with-worker-1-not-able-to-call-local-api"
+    },
+    {
+      "Created": "2025-10-02T16:05:07Z",
+      "Title": "Hazelcast-spring embedded hz cluster with staggered restarts",
+      "Tags": [
+        "spring-boot",
+        "hazelcast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781117/hazelcast-spring-embedded-hz-cluster-with-staggered-restarts"
+    },
+    {
+      "Created": "2025-10-02T16:06:44Z",
+      "Title": "How to automatically extract AWS Lambda configurations to Terraform for GCP migration?",
+      "Tags": [
+        "aws-lambda",
+        "terraform",
+        "infrastructure-as-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781118/how-to-automatically-extract-aws-lambda-configurations-to-terraform-for-gcp-migr"
+    }
+  ]
+}

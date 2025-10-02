@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-02T00:11:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-01T23:24:30Z",
+      "Title": "In streamlit how do I create a one time touch button",
+      "Tags": [
+        "python",
+        "html",
+        "streamlit",
+        "web-development-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780536/in-streamlit-how-do-i-create-a-one-time-touch-button"
+    },
+    {
+      "Created": "2025-10-01T23:38:40Z",
+      "Title": "GoRouter redirect to initialLocation after riverpod rebuild",
+      "Tags": [
+        "flutter",
+        "riverpod",
+        "gorouter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780541/gorouter-redirect-to-initiallocation-after-riverpod-rebuild"
+    },
+    {
+      "Created": "2025-10-01T23:49:06Z",
+      "Title": "Recycler view does not update until scrolled when using DiffUtil and submitList() with a reversed Array List",
+      "Tags": [
+        "java",
+        "android",
+        "android-recyclerview",
+        "listadapter",
+        "android-diffutils"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780544/recycler-view-does-not-update-until-scrolled-when-using-diffutil-and-submitlist"
+    },
+    {
+      "Created": "2025-10-01T23:50:21Z",
+      "Title": "How to access fields in a generic struct?",
+      "Tags": [
+        "go",
+        "generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780546/how-to-access-fields-in-a-generic-struct"
+    },
+    {
+      "Created": "2025-10-01T23:55:47Z",
+      "Title": "VB.NET: \u0027535: 5.7.3 Authentication unsuccessful\u0027 error when trying to send mails using OAuth from an Outlook free account",
+      "Tags": [
+        "vb.net",
+        "outlook",
+        "oauth",
+        "microsoft-graph-api",
+        "mailkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780549/vb-net-535-5-7-3-authentication-unsuccessful-error-when-trying-to-send-mails"
+    },
+    {
+      "Created": "2025-10-02T00:01:38Z",
+      "Title": "What is an alternative to the curve() function in R for modeling and simulation?",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "plot",
+        "simulation",
+        "modeling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780551/what-is-an-alternative-to-the-curve-function-in-r-for-modeling-and-simulation"
+    },
+    {
+      "Created": "2025-10-02T00:11:53Z",
+      "Title": "Difficultly reading volatile memory",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "volatile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780552/difficultly-reading-volatile-memory"
+    }
+  ]
+}

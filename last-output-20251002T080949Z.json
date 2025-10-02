@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-02T08:07:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T07:42:31Z",
+      "Title": "PyInstaller build on Jenkins: ValueError: Invalid async_mode specified with Flask-SocketIO \u002B gevent",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780701/pyinstaller-build-on-jenkins-valueerror-invalid-async-mode-specified-with-flas"
+    },
+    {
+      "Created": "2025-10-02T07:53:33Z",
+      "Title": "Poor Matplotlib performance",
+      "Tags": [
+        "pandas",
+        "matplotlib",
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780707/poor-matplotlib-performance"
+    },
+    {
+      "Created": "2025-10-02T08:02:10Z",
+      "Title": "Firebase Messaging IOS causing issue with userNotificationCenter",
+      "Tags": [
+        "ios",
+        "swift",
+        "flutter",
+        "firebase",
+        "firebase-cloud-messaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780713/firebase-messaging-ios-causing-issue-with-usernotificationcenter"
+    },
+    {
+      "Created": "2025-10-02T08:02:48Z",
+      "Title": "Email with attachment \u003E 3 MB remains stuck in Outbox when sent via MFMailComposeViewController on iPadOS 26.0.1",
+      "Tags": [
+        "email",
+        "mfmailcomposeviewcontroller",
+        "messageui",
+        "ios26",
+        "ipados26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780714/email-with-attachment-3-mb-remains-stuck-in-outbox-when-sent-via-mfmailcompose"
+    },
+    {
+      "Created": "2025-10-02T08:05:27Z",
+      "Title": "Postgres Tree Structure To Array",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780715/postgres-tree-structure-to-array"
+    },
+    {
+      "Created": "2025-10-02T08:07:16Z",
+      "Title": "DataprocSparkSession package in python error - \u0022RuntimeError: Error while creating Dataproc Session\u0022",
+      "Tags": [
+        "apache-spark",
+        "google-cloud-platform",
+        "bigdata",
+        "google-cloud-dataproc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780717/dataprocsparksession-package-in-python-error-runtimeerror-error-while-creati"
+    }
+  ]
+}

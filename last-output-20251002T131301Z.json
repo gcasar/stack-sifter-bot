@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-02T13:00:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T12:52:11Z",
+      "Title": "Why does using the %n conversion/format specifier cause a C/C\u002B\u002B program built with VC\u002B\u002B (MSVC) to crash?",
+      "Tags": [
+        "c",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780933/why-does-using-the-n-conversion-format-specifier-cause-a-c-c-program-built-wi"
+    },
+    {
+      "Created": "2025-10-02T12:57:31Z",
+      "Title": "Can a threadpool be locked by a large number of threaded functions that also thread functions?",
+      "Tags": [
+        "c\u002B\u002B",
+        "threadpool"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780941/can-a-threadpool-be-locked-by-a-large-number-of-threaded-functions-that-also-thr"
+    },
+    {
+      "Created": "2025-10-02T12:58:13Z",
+      "Title": "How to create test cases in Polygon for Python program with random values?",
+      "Tags": [
+        "python",
+        "unit-testing",
+        "random",
+        "polygon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780944/how-to-create-test-cases-in-polygon-for-python-program-with-random-values"
+    },
+    {
+      "Created": "2025-10-02T12:59:29Z",
+      "Title": "Laravel \u002B Laragon: wrong .env being used for API requests across multiple projects",
+      "Tags": [
+        "php",
+        "laravel",
+        "apache",
+        "laragon",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780945/laravel-laragon-wrong-env-being-used-for-api-requests-across-multiple-projec"
+    },
+    {
+      "Created": "2025-10-02T13:00:01Z",
+      "Title": "Button loads only for specific parts of the extension",
+      "Tags": [
+        "javascript",
+        "button",
+        "google-chrome-extension",
+        "domcontentloaded"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780947/button-loads-only-for-specific-parts-of-the-extension"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-02T13:52:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T13:20:11Z",
+      "Title": "Create a Single Window App but keep the File menu",
+      "Tags": [
+        "macos",
+        "swiftui",
+        "menu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780956/create-a-single-window-app-but-keep-the-file-menu"
+    },
+    {
+      "Created": "2025-10-02T13:49:10Z",
+      "Title": "ImageSharp AutoLevel not available",
+      "Tags": [
+        "imagesharp",
+        "sixlabors.imagesharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780985/imagesharp-autolevel-not-available"
+    },
+    {
+      "Created": "2025-10-02T13:52:46Z",
+      "Title": "How to handle CoreNFC session timeout when APDU exchange exceeds 20 seconds?",
+      "Tags": [
+        "ios",
+        "xamarin.ios",
+        "apdu",
+        "core-nfc",
+        "iso-7816-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780986/how-to-handle-corenfc-session-timeout-when-apdu-exchange-exceeds-20-seconds"
+    }
+  ]
+}

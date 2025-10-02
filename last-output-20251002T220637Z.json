@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-02T22:02:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T21:43:09Z",
+      "Title": "IDML or INDD into HTML using indesin server (or anything)",
+      "Tags": [
+        "indesign-server",
+        "idml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781310/idml-or-indd-into-html-using-indesin-server-or-anything"
+    },
+    {
+      "Created": "2025-10-02T21:44:33Z",
+      "Title": "Switching with generator and conditional continue does not generate expected result",
+      "Tags": [
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781312/switching-with-generator-and-conditional-continue-does-not-generate-expected-res"
+    },
+    {
+      "Created": "2025-10-02T21:45:29Z",
+      "Title": "Control memory of systemd sd_journal_open()?",
+      "Tags": [
+        "c",
+        "systemd",
+        "systemd-journald"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781314/control-memory-of-systemd-sd-journal-open"
+    },
+    {
+      "Created": "2025-10-02T21:57:19Z",
+      "Title": "Weird failure in Selenium",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "google-chrome",
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781320/weird-failure-in-selenium"
+    },
+    {
+      "Created": "2025-10-02T21:59:24Z",
+      "Title": "Token storage media on AWS",
+      "Tags": [
+        "amazon-web-services",
+        "aws-lambda",
+        "amazon-dynamodb",
+        "aws-ssm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781321/token-storage-media-on-aws"
+    },
+    {
+      "Created": "2025-10-02T22:02:57Z",
+      "Title": "Configure IntelliJ to generate Java 25\u002B code to use \u0060IO.\u0060 rather than \u0060System.out.\u0060/\u0060System.in.\u0060",
+      "Tags": [
+        "java",
+        "intellij-idea",
+        "console",
+        "console-application",
+        "println"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781322/configure-intellij-to-generate-java-25-code-to-use-io-rather-than-system-ou"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-02T04:24:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T04:10:32Z",
+      "Title": "VBA in Excel to auto send emails skip over recipients without attachments",
+      "Tags": [
+        "excel",
+        "vba",
+        "email",
+        "automation",
+        "outlook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780616/vba-in-excel-to-auto-send-emails-skip-over-recipients-without-attachments"
+    },
+    {
+      "Created": "2025-10-02T04:24:21Z",
+      "Title": "Access to external IP from docker container via Linux VM via host Windows 11 using Vagrant",
+      "Tags": [
+        "linux",
+        "windows",
+        "docker",
+        "vagrant",
+        "virtualbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780620/access-to-external-ip-from-docker-container-via-linux-vm-via-host-windows-11-usi"
+    }
+  ]
+}

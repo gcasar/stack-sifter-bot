@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-02T21:02:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T20:28:36Z",
+      "Title": "R crashes using National Volume Estimator Library Fortran DLL in loop",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781279/r-crashes-using-national-volume-estimator-library-fortran-dll-in-loop"
+    },
+    {
+      "Created": "2025-10-02T21:02:13Z",
+      "Title": "Linux: why is there a CPU% output difference between \u0022top -H -p \u003Cpid\u003E\u0022 and \u0022mpstat\u0022 for CPU-bound multi-thread app?",
+      "Tags": [
+        "linux",
+        "cpu-usage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781287/linux-why-is-there-a-cpu-output-difference-between-top-h-p-pid-and-mpst"
+    },
+    {
+      "Created": "2025-10-02T21:02:55Z",
+      "Title": "setting TransactionScope in C# causes Implicit distributed transactions error",
+      "Tags": [
+        "entity-framework",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781288/setting-transactionscope-in-c-sharp-causes-implicit-distributed-transactions-err"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-02T18:56:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T18:21:10Z",
+      "Title": "What does \u0022Link with runtime packages\u0022 mean in Delphi Project Options?",
+      "Tags": [
+        "delphi",
+        "bpl",
+        "delphi-ide",
+        "runtime-packages",
+        "delphi-13-florence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781198/what-does-link-with-runtime-packages-mean-in-delphi-project-options"
+    },
+    {
+      "Created": "2025-10-02T18:43:08Z",
+      "Title": "Why does Paths.get throw nullpointer exception in javafx?",
+      "Tags": [
+        "java",
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781210/why-does-paths-get-throw-nullpointer-exception-in-javafx"
+    },
+    {
+      "Created": "2025-10-02T18:45:31Z",
+      "Title": "Buildozer giving build failed error message mentioning gradle",
+      "Tags": [
+        "android",
+        "ubuntu",
+        "kivy",
+        "buildozer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781212/buildozer-giving-build-failed-error-message-mentioning-gradle"
+    },
+    {
+      "Created": "2025-10-02T18:45:49Z",
+      "Title": "Error during stream recording with ffmpeg due to subtitle type not supported",
+      "Tags": [
+        "ffmpeg",
+        "streaming",
+        "m3u8",
+        "mkv",
+        "video-subtitles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781213/error-during-stream-recording-with-ffmpeg-due-to-subtitle-type-not-supported"
+    },
+    {
+      "Created": "2025-10-02T18:56:44Z",
+      "Title": "Variadic tuple type parameter",
+      "Tags": [
+        "python",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781221/variadic-tuple-type-parameter"
+    }
+  ]
+}

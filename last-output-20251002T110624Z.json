@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-02T10:58:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T10:12:06Z",
+      "Title": "What to use when malloc array length in c",
+      "Tags": [
+        "c",
+        "malloc",
+        "sizeof"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780803/what-to-use-when-malloc-array-length-in-c"
+    },
+    {
+      "Created": "2025-10-02T10:39:36Z",
+      "Title": "FormAssembly Quick Publish embed script only works in index.html, not when dynamically loaded in Angular component",
+      "Tags": [
+        "angular",
+        "forms",
+        "web"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780824/formassembly-quick-publish-embed-script-only-works-in-index-html-not-when-dynam"
+    },
+    {
+      "Created": "2025-10-02T10:43:10Z",
+      "Title": "How can I grab media:thumbnail node from RSS XML Link with c#?",
+      "Tags": [
+        "c#",
+        "xml",
+        "razor",
+        "rss",
+        "feed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780828/how-can-i-grab-mediathumbnail-node-from-rss-xml-link-with-c"
+    },
+    {
+      "Created": "2025-10-02T10:50:20Z",
+      "Title": "MyBatis error: The error occurred while setting parameters",
+      "Tags": [
+        "java",
+        "postgresql",
+        "spring-boot",
+        "jdbc",
+        "mybatis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780836/mybatis-error-the-error-occurred-while-setting-parameters"
+    },
+    {
+      "Created": "2025-10-02T10:51:38Z",
+      "Title": "Changing a saved image in a gallery by setting state",
+      "Tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780838/changing-a-saved-image-in-a-gallery-by-setting-state"
+    },
+    {
+      "Created": "2025-10-02T10:52:16Z",
+      "Title": "How to show outputs from the cli package in Shiny?",
+      "Tags": [
+        "r",
+        "shiny",
+        "command-line-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780839/how-to-show-outputs-from-the-cli-package-in-shiny"
+    },
+    {
+      "Created": "2025-10-02T10:58:13Z",
+      "Title": "questao de matrizes em logica na linguagem C [closed]",
+      "Tags": [
+        "c",
+        "matrix",
+        "terminal",
+        "logic",
+        "dev-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780843/questao-de-matrizes-em-logica-na-linguagem-c"
+    }
+  ]
+}

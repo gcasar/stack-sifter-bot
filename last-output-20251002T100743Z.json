@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-02T10:00:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T09:12:55Z",
+      "Title": "Typed property App\\Entity\\X:X must not be accessed before initialization",
+      "Tags": [
+        "php",
+        "symfony",
+        "php-8",
+        "symfony6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780756/typed-property-app-entity-xx-must-not-be-accessed-before-initialization"
+    },
+    {
+      "Created": "2025-10-02T09:26:10Z",
+      "Title": "Set-Cookie header disappears after some time when using HttpClient with DelegatingHandler in ASP.NET Core",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "cookies",
+        "http-headers",
+        "httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780765/set-cookie-header-disappears-after-some-time-when-using-httpclient-with-delegati"
+    },
+    {
+      "Created": "2025-10-02T09:45:23Z",
+      "Title": "Are there any approaches to validate the content of a ZIP archive and its files in a Postman Tests script?",
+      "Tags": [
+        "postman",
+        "postman-testcase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780779/are-there-any-approaches-to-validate-the-content-of-a-zip-archive-and-its-files"
+    },
+    {
+      "Created": "2025-10-02T09:47:43Z",
+      "Title": "what is this error \u0022terminate called after throwing an instance of \u0027std::length_error\u0027 what(): basic_string::_M_replace_aux Aborted\u0022",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780782/what-is-this-error-terminate-called-after-throwing-an-instance-of-stdlength"
+    },
+    {
+      "Created": "2025-10-02T09:56:06Z",
+      "Title": "How to save global variable in Spring application",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "session",
+        "global-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780788/how-to-save-global-variable-in-spring-application"
+    },
+    {
+      "Created": "2025-10-02T10:00:19Z",
+      "Title": "Dagster - Multiple Code Locations Materialize All Problem",
+      "Tags": [
+        "dagster"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780791/dagster-multiple-code-locations-materialize-all-problem"
+    },
+    {
+      "Created": "2025-10-02T10:00:53Z",
+      "Title": "How can I update the capacity of a finetuned GPT model on Azure using Python?",
+      "Tags": [
+        "python",
+        "azure",
+        "azure-openai",
+        "gpt-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780792/how-can-i-update-the-capacity-of-a-finetuned-gpt-model-on-azure-using-python"
+    }
+  ]
+}

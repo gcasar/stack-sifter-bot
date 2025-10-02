@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-02T04:05:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T03:17:04Z",
+      "Title": "Sudden Issues Debugging Azure Functions in VS Code",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "visual-studio-code",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780602/sudden-issues-debugging-azure-functions-in-vs-code"
+    },
+    {
+      "Created": "2025-10-02T03:20:26Z",
+      "Title": "How to Get YouTube Data (Title, Links, Playlist, Thumbnail) Without an API Key",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "youtube",
+        "youtube-data-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780604/how-to-get-youtube-data-title-links-playlist-thumbnail-without-an-api-key"
+    },
+    {
+      "Created": "2025-10-02T03:21:11Z",
+      "Title": "Adding custom div to compose window with InboxSDK makes issues with height when going to fullscreen mode of compose window",
+      "Tags": [
+        "css",
+        "dom",
+        "google-chrome-extension",
+        "gmail",
+        "inboxsdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780605/adding-custom-div-to-compose-window-with-inboxsdk-makes-issues-with-height-when"
+    },
+    {
+      "Created": "2025-10-02T03:24:25Z",
+      "Title": "How to retrieve all permission details including resources, policies, and scopes from Keycloak?",
+      "Tags": [
+        "rest",
+        "next.js",
+        "permissions",
+        "authorization",
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780607/how-to-retrieve-all-permission-details-including-resources-policies-and-scopes"
+    },
+    {
+      "Created": "2025-10-02T03:31:33Z",
+      "Title": "Why conda deactivate isn\u0027t taken into account, and java version used is still the one it offers and not the default one of my system?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "conda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780608/why-conda-deactivate-isnt-taken-into-account-and-java-version-used-is-still-th"
+    },
+    {
+      "Created": "2025-10-02T03:43:39Z",
+      "Title": "What is wrong with python subprocess?",
+      "Tags": [
+        "python",
+        "subprocess"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780611/what-is-wrong-with-python-subprocess"
+    },
+    {
+      "Created": "2025-10-02T04:05:53Z",
+      "Title": "Self-Hosting Map Server for Real-Time Tracker Web App",
+      "Tags": [
+        "server",
+        "self-hosting",
+        "mapserver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780615/self-hosting-map-server-for-real-time-tracker-web-app"
+    }
+  ]
+}

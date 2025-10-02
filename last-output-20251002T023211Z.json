@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-02T02:29:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T02:18:50Z",
+      "Title": "How to debug ISO image loading via iPXE\u0026HTTP?",
+      "Tags": [
+        "linux",
+        "kernel",
+        "iso",
+        "ipxe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780584/how-to-debug-iso-image-loading-via-ipxehttp"
+    },
+    {
+      "Created": "2025-10-02T02:29:29Z",
+      "Title": "Does Xero not provide an API or built-in function to fetch daily data?",
+      "Tags": [
+        "php",
+        "xero-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79780587/does-xero-not-provide-an-api-or-built-in-function-to-fetch-daily-data"
+    }
+  ]
+}

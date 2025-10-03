@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-03T18:59:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T18:09:56Z",
+      "Title": "How can I automatically add user\u0027s info to a model in Django?",
+      "Tags": [
+        "django",
+        "database",
+        "orm",
+        "model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782054/how-can-i-automatically-add-users-info-to-a-model-in-django"
+    },
+    {
+      "Created": "2025-10-03T18:39:20Z",
+      "Title": "Node version mismatch when running npm programmatically on Azure App Service, but works manually",
+      "Tags": [
+        "node.js",
+        ".net",
+        "azure",
+        "npm",
+        "azure-devops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782073/node-version-mismatch-when-running-npm-programmatically-on-azure-app-service-bu"
+    },
+    {
+      "Created": "2025-10-03T18:44:51Z",
+      "Title": "Migrating SSIS from using Microsoft Connector for oracle to ADO.Net",
+      "Tags": [
+        "sql-server",
+        "ssis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782074/migrating-ssis-from-using-microsoft-connector-for-oracle-to-ado-net"
+    },
+    {
+      "Created": "2025-10-03T18:45:12Z",
+      "Title": "ta.dev is expecting a bool input?",
+      "Tags": [
+        "pine-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782075/ta-dev-is-expecting-a-bool-input"
+    },
+    {
+      "Created": "2025-10-03T18:45:19Z",
+      "Title": "Predict morphometric patterns on moths images? [closed]",
+      "Tags": [
+        "machine-learning",
+        "image-processing",
+        "pattern-matching",
+        "mathematical-morphology",
+        "morphological-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782076/predict-morphometric-patterns-on-moths-images"
+    },
+    {
+      "Created": "2025-10-03T18:59:29Z",
+      "Title": "Angular guard issue",
+      "Tags": [
+        "angular",
+        "jquery-cookie",
+        "ngx-cookie-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782082/angular-guard-issue"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-03T08:01:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T07:09:33Z",
+      "Title": "How to create search functionality in Java using rsyntaxtextarea",
+      "Tags": [
+        "java",
+        "swing",
+        "rsyntaxtextarea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781516/how-to-create-search-functionality-in-java-using-rsyntaxtextarea"
+    },
+    {
+      "Created": "2025-10-03T07:19:57Z",
+      "Title": "How to introduce an option to specify the outputdir/publishdir in a nexflow pipeline?",
+      "Tags": [
+        "installation",
+        "parameters",
+        "nextflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781522/how-to-introduce-an-option-to-specify-the-outputdir-publishdir-in-a-nexflow-pipe"
+    },
+    {
+      "Created": "2025-10-03T07:44:18Z",
+      "Title": "HttpClient.SendAsync throws InvalidOperationException: Could not create getter for System.Threading.ExecutionContext\u0026 Context",
+      "Tags": [
+        "c#",
+        ".net",
+        "httpclient",
+        "diagnostics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781537/httpclient-sendasync-throws-invalidoperationexception-could-not-create-getter-f"
+    },
+    {
+      "Created": "2025-10-03T07:46:29Z",
+      "Title": "Keycloak custom LDAP storage provider - registered but not identified as LDAP provider",
+      "Tags": [
+        "java",
+        "ldap",
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781541/keycloak-custom-ldap-storage-provider-registered-but-not-identified-as-ldap-pr"
+    },
+    {
+      "Created": "2025-10-03T07:52:37Z",
+      "Title": "How to target both \u0060.net8.0-windows\u0060 and \u0060.net8.0\u0060 in Azure DevOps Pipeline for NuGet Package Creation",
+      "Tags": [
+        "windows",
+        "azure",
+        "azure-pipelines",
+        "nuget-package",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781547/how-to-target-both-net8-0-windows-and-net8-0-in-azure-devops-pipeline-for"
+    },
+    {
+      "Created": "2025-10-03T08:01:58Z",
+      "Title": "How to setup different behaviour when dealing with ViewModifier and iOS availability?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781551/how-to-setup-different-behaviour-when-dealing-with-viewmodifier-and-ios-availabi"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-03T00:18:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-02T23:14:59Z",
+      "Title": "How can I best fix this JComboBox bug on macOS that wasn\u0027t fixed until Java 20?",
+      "Tags": [
+        "macos",
+        "swing",
+        "java-17"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781353/how-can-i-best-fix-this-jcombobox-bug-on-macos-that-wasnt-fixed-until-java-20"
+    },
+    {
+      "Created": "2025-10-02T23:31:45Z",
+      "Title": "How to obtain predicted probabilities from a binomial GLMM?",
+      "Tags": [
+        "r",
+        "predict"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781359/how-to-obtain-predicted-probabilities-from-a-binomial-glmm"
+    },
+    {
+      "Created": "2025-10-02T23:45:17Z",
+      "Title": "Copying DLLs from transitive nuget dependency that uses non-standard folder layout",
+      "Tags": [
+        "c#",
+        "nuget",
+        "nuget-package"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781366/copying-dlls-from-transitive-nuget-dependency-that-uses-non-standard-folder-layo"
+    },
+    {
+      "Created": "2025-10-03T00:18:14Z",
+      "Title": "html part of message is ignored when sending an e-mail with attachment using mail() as cron job",
+      "Tags": [
+        "php",
+        "email",
+        "cron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781374/html-part-of-message-is-ignored-when-sending-an-e-mail-with-attachment-using-mai"
+    }
+  ]
+}

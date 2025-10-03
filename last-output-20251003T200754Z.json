@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-03T19:57:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T19:12:31Z",
+      "Title": "Proper way to share source from jenkins for build on host in vm",
+      "Tags": [
+        "docker",
+        "jenkins",
+        "continuous-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782092/proper-way-to-share-source-from-jenkins-for-build-on-host-in-vm"
+    },
+    {
+      "Created": "2025-10-03T19:38:40Z",
+      "Title": "If a clear-text HTTP/2 (h2c) server supports the Upgrade: h2c mechanism, does it also have to accept HTTP/2 \u201Cprior knowledge\u201D connections?",
+      "Tags": [
+        "grpc",
+        "http2",
+        "h2c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782112/if-a-clear-text-http-2-h2c-server-supports-the-upgrade-h2c-mechanism-does-it"
+    },
+    {
+      "Created": "2025-10-03T19:44:11Z",
+      "Title": "APS Design Automation: PackageContents.xml not being read from AppBundle in AutoCAD\u002B25_1",
+      "Tags": [
+        "autodesk-forge",
+        "autocad",
+        "autodesk-designautomation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782116/aps-design-automation-packagecontents-xml-not-being-read-from-appbundle-in-auto"
+    },
+    {
+      "Created": "2025-10-03T19:47:27Z",
+      "Title": "how to bind data to a listening rectangle in a d3 line chart",
+      "Tags": [
+        "javascript",
+        "d3.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782119/how-to-bind-data-to-a-listening-rectangle-in-a-d3-line-chart"
+    },
+    {
+      "Created": "2025-10-03T19:48:02Z",
+      "Title": "How to log graphql response time info?",
+      "Tags": [
+        "graphql",
+        "quarkus",
+        "smallrye"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782120/how-to-log-graphql-response-time-info"
+    },
+    {
+      "Created": "2025-10-03T19:48:59Z",
+      "Title": "TanStack Start: what is the purpose of Server Routes, except for specifying pages",
+      "Tags": [
+        "reactjs",
+        "tanstack",
+        "tanstack-start"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782121/tanstack-start-what-is-the-purpose-of-server-routes-except-for-specifying-page"
+    },
+    {
+      "Created": "2025-10-03T19:57:39Z",
+      "Title": "Reading floats (and other basic types) from binary files in C\u002B\u002B (equivalent to Java\u0027s DataInputStream)",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B03"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782126/reading-floats-and-other-basic-types-from-binary-files-in-c-equivalent-to-j"
+    }
+  ]
+}

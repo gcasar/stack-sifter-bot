@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-03T09:03:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T08:43:44Z",
+      "Title": "Drag gesture driven slider with x and y offsets animated by different curves results in animation conflicts that cause nib to separate from slider [duplicate]",
+      "Tags": [
+        "ios",
+        "animation",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781579/drag-gesture-driven-slider-with-x-and-y-offsets-animated-by-different-curves-res"
+    },
+    {
+      "Created": "2025-10-03T08:50:15Z",
+      "Title": "What is the correct way to send continuous data from a Foreground Service to a ViewModel?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781582/what-is-the-correct-way-to-send-continuous-data-from-a-foreground-service-to-a-v"
+    },
+    {
+      "Created": "2025-10-03T08:50:46Z",
+      "Title": "JBoss server won\u0027t start on command line - Maybe I\u0027m missing some parameter",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "jboss",
+        "war"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781583/jboss-server-wont-start-on-command-line-maybe-im-missing-some-parameter"
+    },
+    {
+      "Created": "2025-10-03T08:53:13Z",
+      "Title": "RediSearch: How to perform prefix search on email addresses with dots and special characters?",
+      "Tags": [
+        "redis",
+        "redisearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781585/redisearch-how-to-perform-prefix-search-on-email-addresses-with-dots-and-specia"
+    },
+    {
+      "Created": "2025-10-03T08:55:08Z",
+      "Title": "Track Player component briefly visible on Android at app launch",
+      "Tags": [
+        "android",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781587/track-player-component-briefly-visible-on-android-at-app-launch"
+    },
+    {
+      "Created": "2025-10-03T09:03:46Z",
+      "Title": "Is Importing Server Types Directly into a Client Workspace Acceptable in a Monorepo?",
+      "Tags": [
+        "monorepo",
+        "monorepository"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781597/is-importing-server-types-directly-into-a-client-workspace-acceptable-in-a-monor"
+    }
+  ]
+}

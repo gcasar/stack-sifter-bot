@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-03T10:06:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T09:35:42Z",
+      "Title": "How to send a message to all tabs in chrome extension manifest v3?",
+      "Tags": [
+        "google-chrome-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781624/how-to-send-a-message-to-all-tabs-in-chrome-extension-manifest-v3"
+    },
+    {
+      "Created": "2025-10-03T09:53:48Z",
+      "Title": "How to understand Atomicity Axiom in RVWMO?",
+      "Tags": [
+        "riscv",
+        "memory-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781636/how-to-understand-atomicity-axiom-in-rvwmo"
+    },
+    {
+      "Created": "2025-10-03T09:58:52Z",
+      "Title": "Azure App Service \u0026 Angular SSR, cannot start server",
+      "Tags": [
+        "angular",
+        "azure-web-app-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781639/azure-app-service-angular-ssr-cannot-start-server"
+    },
+    {
+      "Created": "2025-10-03T10:02:40Z",
+      "Title": "Cannot add address settings via Artemis Core API",
+      "Tags": [
+        "java",
+        "activemq-artemis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781642/cannot-add-address-settings-via-artemis-core-api"
+    },
+    {
+      "Created": "2025-10-03T10:04:52Z",
+      "Title": "How to detect visiblty of left navigation bar with behaviour - BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE?",
+      "Tags": [
+        "android",
+        "android-studio",
+        "navigationbar",
+        "insets",
+        "windowinsets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781645/how-to-detect-visiblty-of-left-navigation-bar-with-behaviour-behavior-show-tra"
+    },
+    {
+      "Created": "2025-10-03T10:06:39Z",
+      "Title": "change behavior of function depending on type in python",
+      "Tags": [
+        "python",
+        "higher-order-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781647/change-behavior-of-function-depending-on-type-in-python"
+    }
+  ]
+}

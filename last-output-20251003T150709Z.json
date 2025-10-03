@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-03T15:04:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T14:17:42Z",
+      "Title": "How to fetch Jira issues via Python from Jira Cloud?",
+      "Tags": [
+        "python",
+        "python-requests",
+        "jira"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781860/how-to-fetch-jira-issues-via-python-from-jira-cloud"
+    },
+    {
+      "Created": "2025-10-03T14:19:37Z",
+      "Title": "Windows user profile folder blocked in Visual Studio Code",
+      "Tags": [
+        "windows",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781865/windows-user-profile-folder-blocked-in-visual-studio-code"
+    },
+    {
+      "Created": "2025-10-03T14:24:18Z",
+      "Title": "How do I assign someone as an administrator in a Telegram group using pyrogram?",
+      "Tags": [
+        "python",
+        "telegram",
+        "pyrogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781869/how-do-i-assign-someone-as-an-administrator-in-a-telegram-group-using-pyrogram"
+    },
+    {
+      "Created": "2025-10-03T14:34:42Z",
+      "Title": "C# IVI VISA (e.g.: NI VISA) TCP Keep Alive",
+      "Tags": [
+        "c#",
+        "wireshark",
+        "visa",
+        "tcp-keepalive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781879/c-sharp-ivi-visa-e-g-ni-visa-tcp-keep-alive"
+    },
+    {
+      "Created": "2025-10-03T14:36:02Z",
+      "Title": "Bluetooth LE Device Connects Then Immediately Disconnects on First Attempt",
+      "Tags": [
+        "c#",
+        "android",
+        "unity-game-engine",
+        "bluetooth-lowenergy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781881/bluetooth-le-device-connects-then-immediately-disconnects-on-first-attempt"
+    },
+    {
+      "Created": "2025-10-03T14:45:11Z",
+      "Title": "How to implement touch detection and highlight specific SVG body parts in Flutter CustomPainter?",
+      "Tags": [
+        "flutter",
+        "svg",
+        "widget"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781889/how-to-implement-touch-detection-and-highlight-specific-svg-body-parts-in-flutte"
+    },
+    {
+      "Created": "2025-10-03T15:00:10Z",
+      "Title": "Unable to log in to Guest VM shell in Teaclave TrustZone SDK Docker dev environment",
+      "Tags": [
+        "rust",
+        "sdk",
+        "trustzone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781901/unable-to-log-in-to-guest-vm-shell-in-teaclave-trustzone-sdk-docker-dev-environm"
+    },
+    {
+      "Created": "2025-10-03T15:00:12Z",
+      "Title": "Making dendrograms with 16S data: raw data vs relative abundance? What about the taxonomic level?",
+      "Tags": [
+        "r",
+        "dendrogram",
+        "phyloseq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781902/making-dendrograms-with-16s-data-raw-data-vs-relative-abundance-what-about-the"
+    },
+    {
+      "Created": "2025-10-03T15:04:37Z",
+      "Title": "PyQt5 Parent/Child GraphicsItem Hover Behavior",
+      "Tags": [
+        "pyqt5",
+        "hover",
+        "parent-child",
+        "qgraphicsitem"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781905/pyqt5-parent-child-graphicsitem-hover-behavior"
+    }
+  ]
+}

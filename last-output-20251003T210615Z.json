@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-03T21:02:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T20:29:24Z",
+      "Title": "How to add tar.gz archive to an ar archive? [closed]",
+      "Tags": [
+        "command-line-interface",
+        "gnu",
+        "tar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782139/how-to-add-tar-gz-archive-to-an-ar-archive"
+    },
+    {
+      "Created": "2025-10-03T20:36:30Z",
+      "Title": "R marginaleffects::comparisons not generating expected outputs",
+      "Tags": [
+        "r",
+        "marginal-effects",
+        "r-marginaleffects"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782144/r-marginaleffectscomparisons-not-generating-expected-outputs"
+    },
+    {
+      "Created": "2025-10-03T20:41:07Z",
+      "Title": "Session may have been active during a vendor upgrade on SQL Server",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782151/session-may-have-been-active-during-a-vendor-upgrade-on-sql-server"
+    },
+    {
+      "Created": "2025-10-03T20:51:45Z",
+      "Title": "XmlTextAttribute Breaks Formatting When Serializing",
+      "Tags": [
+        "c#",
+        "xml",
+        "serialization",
+        "xmlserializer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782158/xmltextattribute-breaks-formatting-when-serializing"
+    },
+    {
+      "Created": "2025-10-03T20:52:18Z",
+      "Title": "Vue 3 Payment Success Page API Called Twice in Production After Stripe Redirect",
+      "Tags": [
+        "javascript",
+        "vuejs3",
+        "vuex",
+        "vue-router",
+        "vue-router4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782159/vue-3-payment-success-page-api-called-twice-in-production-after-stripe-redirect"
+    },
+    {
+      "Created": "2025-10-03T21:02:09Z",
+      "Title": "FastAPI HTML sanitization",
+      "Tags": [
+        "python",
+        "fastapi",
+        "xss",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782165/fastapi-html-sanitization"
+    }
+  ]
+}

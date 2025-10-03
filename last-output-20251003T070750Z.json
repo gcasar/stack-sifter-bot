@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-03T06:54:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T06:48:37Z",
+      "Title": "My App Flutter app isn\u0027t producing the required products in the widget, i\u0027m using cubit for state management",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "dart",
+        "cubit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781502/my-app-flutter-app-isnt-producing-the-required-products-in-the-widget-im-usin"
+    },
+    {
+      "Created": "2025-10-03T06:54:43Z",
+      "Title": "C# WinUI3 Is it possible to use ffmpeg to decode using hardware and then render using win2d?",
+      "Tags": [
+        "ffmpeg",
+        "h.264",
+        "win2d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781506/c-sharp-winui3-is-it-possible-to-use-ffmpeg-to-decode-using-hardware-and-then-re"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-03T13:10:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T12:31:29Z",
+      "Title": "Receiving FOREIGN KEY constraint error when trying to update database in the EF Core",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781770/receiving-foreign-key-constraint-error-when-trying-to-update-database-in-the-ef"
+    },
+    {
+      "Created": "2025-10-03T12:46:03Z",
+      "Title": "Firebase onCall function returning null even though await is there",
+      "Tags": [
+        "javascript",
+        "firebase",
+        "google-cloud-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781784/firebase-oncall-function-returning-null-even-though-await-is-there"
+    },
+    {
+      "Created": "2025-10-03T13:04:20Z",
+      "Title": "Is it possible for a column to have a foreign key to the union of two other columns?",
+      "Tags": [
+        "sql",
+        "database-design",
+        "foreign-keys"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781799/is-it-possible-for-a-column-to-have-a-foreign-key-to-the-union-of-two-other-colu"
+    },
+    {
+      "Created": "2025-10-03T13:07:35Z",
+      "Title": "Why if else operator does work incorrect or smth another?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "if-statement",
+        "intersection-observer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781802/why-if-else-operator-does-work-incorrect-or-smth-another"
+    },
+    {
+      "Created": "2025-10-03T13:10:30Z",
+      "Title": "Can\u0027t read ICMP packages in golang from Windows",
+      "Tags": [
+        "go",
+        "icmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781806/cant-read-icmp-packages-in-golang-from-windows"
+    }
+  ]
+}

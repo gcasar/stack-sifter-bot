@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-03T01:21:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T00:33:05Z",
+      "Title": "Remove project (repo) from Pycharm\u0027s git tool window (branches pane)",
+      "Tags": [
+        "git",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781379/remove-project-repo-from-pycharms-git-tool-window-branches-pane"
+    },
+    {
+      "Created": "2025-10-03T00:35:02Z",
+      "Title": "Ionic Local Notifications not working consistently on lock screen (iOS \u0026 Android)",
+      "Tags": [
+        "ios",
+        "angular",
+        "cordova",
+        "ionic-framework",
+        "localnotification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781382/ionic-local-notifications-not-working-consistently-on-lock-screen-ios-android"
+    },
+    {
+      "Created": "2025-10-03T00:51:50Z",
+      "Title": "I need help making the program choose a random symbol everytime the user enters their number, and then do the calculations with the computer input",
+      "Tags": [
+        "python",
+        "random",
+        "module"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781384/i-need-help-making-the-program-choose-a-random-symbol-everytime-the-user-enters"
+    },
+    {
+      "Created": "2025-10-03T01:21:16Z",
+      "Title": "Searchkick hanging on postgres schema calls during BulkReindexJob",
+      "Tags": [
+        "ruby-on-rails",
+        "postgresql",
+        "elasticsearch",
+        "sidekiq",
+        "searchkick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781388/searchkick-hanging-on-postgres-schema-calls-during-bulkreindexjob"
+    }
+  ]
+}

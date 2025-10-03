@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-03T02:15:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T01:47:25Z",
+      "Title": "array.pop(\u0027name\u0027) results in error: \u0022str object cannot be interpreted as an integer\u0022",
+      "Tags": [
+        "python",
+        "arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781395/array-popname-results-in-error-str-object-cannot-be-interpreted-as-an-inte"
+    },
+    {
+      "Created": "2025-10-03T02:13:40Z",
+      "Title": "(SDL2 / C99) Bounds Checking for pixels sub member array",
+      "Tags": [
+        "sdl",
+        "c99"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781402/sdl2-c99-bounds-checking-for-pixels-sub-member-array"
+    },
+    {
+      "Created": "2025-10-03T02:15:21Z",
+      "Title": "Error when trying a boolean flag with zsh\u0027s zparseopts",
+      "Tags": [
+        "zsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781403/error-when-trying-a-boolean-flag-with-zshs-zparseopts"
+    }
+  ]
+}

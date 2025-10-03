@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-03T03:40:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T03:20:48Z",
+      "Title": "Flutter iOS app stuck on splash screen on real device (release build)",
+      "Tags": [
+        "ios",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781421/flutter-ios-app-stuck-on-splash-screen-on-real-device-release-build"
+    },
+    {
+      "Created": "2025-10-03T03:24:16Z",
+      "Title": "Is it possible to reuse label names in ARM GNU Assembly?",
+      "Tags": [
+        "assembly",
+        "arm",
+        "stm32",
+        "gnu-assembler",
+        "stm32cubeide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781422/is-it-possible-to-reuse-label-names-in-arm-gnu-assembly"
+    },
+    {
+      "Created": "2025-10-03T03:34:02Z",
+      "Title": "How to prevent auth token from being stolen on the Nextjs client side of socket.io?",
+      "Tags": [
+        "next.js",
+        "socket.io",
+        "cookie-httponly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781424/how-to-prevent-auth-token-from-being-stolen-on-the-nextjs-client-side-of-socket"
+    },
+    {
+      "Created": "2025-10-03T03:40:04Z",
+      "Title": "How can I get the page number within a group of pages - getAliasNumPage()?",
+      "Tags": [
+        "php",
+        "html",
+        "tcpdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781426/how-can-i-get-the-page-number-within-a-group-of-pages-getaliasnumpage"
+    }
+  ]
+}

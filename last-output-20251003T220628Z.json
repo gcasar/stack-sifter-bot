@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-03T21:53:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T21:36:05Z",
+      "Title": "Temporarily expand collapsed top app bar in jetpack compose",
+      "Tags": [
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782176/temporarily-expand-collapsed-top-app-bar-in-jetpack-compose"
+    },
+    {
+      "Created": "2025-10-03T21:36:06Z",
+      "Title": "When I choose to edit patch during \u0060git add -p\u0060, how to delete the last line from sources?",
+      "Tags": [
+        "git",
+        "git-add",
+        "git-patch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782177/when-i-choose-to-edit-patch-during-git-add-p-how-to-delete-the-last-line-fro"
+    },
+    {
+      "Created": "2025-10-03T21:44:59Z",
+      "Title": "Why can\u0027t I use @JsExport in commonMain? Workaround with expect/actual seems to work fine",
+      "Tags": [
+        "kotlin",
+        "kotlin-multiplatform",
+        "kotlin-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782181/why-cant-i-use-jsexport-in-commonmain-workaround-with-expect-actual-seems-to"
+    },
+    {
+      "Created": "2025-10-03T21:53:23Z",
+      "Title": "Chrome Extension =\u003E Safari web/iOS Extension",
+      "Tags": [
+        "ios",
+        "google-chrome-extension",
+        "safari",
+        "safari-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782186/chrome-extension-safari-web-ios-extension"
+    },
+    {
+      "Created": "2025-10-03T21:53:48Z",
+      "Title": "How do I modify this variable in a function using another function?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782187/how-do-i-modify-this-variable-in-a-function-using-another-function"
+    }
+  ]
+}

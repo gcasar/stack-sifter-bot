@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-03T16:57:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T16:45:27Z",
+      "Title": "Docker not waiting for network before starting containers (debian 13)",
+      "Tags": [
+        "docker",
+        "docker-compose",
+        "debian",
+        "startup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781988/docker-not-waiting-for-network-before-starting-containers-debian-13"
+    },
+    {
+      "Created": "2025-10-03T16:52:11Z",
+      "Title": "lightning-input of type date behaving strangely in lwr sites",
+      "Tags": [
+        "date",
+        "user-experience",
+        "lwc",
+        "lightning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781996/lightning-input-of-type-date-behaving-strangely-in-lwr-sites"
+    },
+    {
+      "Created": "2025-10-03T16:53:36Z",
+      "Title": "Specifying a trailing return type affects template parameter deduction",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "template-argument-deduction",
+        "forwarding-reference",
+        "return-type-deduction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781997/specifying-a-trailing-return-type-affects-template-parameter-deduction"
+    },
+    {
+      "Created": "2025-10-03T16:54:19Z",
+      "Title": "Why does the client send the first TCP RST, while subsequent RSTs come from the server when scanning with randomized source ports?",
+      "Tags": [
+        "network-programming",
+        "tcp",
+        "wireshark",
+        "scapy",
+        "packet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782000/why-does-the-client-send-the-first-tcp-rst-while-subsequent-rsts-come-from-the"
+    },
+    {
+      "Created": "2025-10-03T16:57:15Z",
+      "Title": "How to solve the fatal: failed to run repack git error?",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782003/how-to-solve-the-fatal-failed-to-run-repack-git-error"
+    }
+  ]
+}

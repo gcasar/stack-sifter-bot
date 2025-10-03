@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-03T23:04:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T22:21:22Z",
+      "Title": "Can\u0027t get the x axis tick label to appear",
+      "Tags": [
+        "python",
+        "plot",
+        "graph",
+        "networkx",
+        "axis-labels"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782196/cant-get-the-x-axis-tick-label-to-appear"
+    },
+    {
+      "Created": "2025-10-03T22:41:32Z",
+      "Title": "Variables not populating from PHP Script to mail message",
+      "Tags": [
+        "php",
+        "html",
+        "forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782206/variables-not-populating-from-php-script-to-mail-message"
+    },
+    {
+      "Created": "2025-10-03T22:50:28Z",
+      "Title": "FancyArrowPatch in 3D with curve (connectionstyle)",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "matplotlib-3d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782209/fancyarrowpatch-in-3d-with-curve-connectionstyle"
+    },
+    {
+      "Created": "2025-10-03T23:04:02Z",
+      "Title": "Decompress multiple mydumper generated zstd / gzip files into a single tar file for streaming to backup progam stdin",
+      "Tags": [
+        "bash",
+        "compression",
+        "tar",
+        "zstd",
+        "cpio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782215/decompress-multiple-mydumper-generated-zstd-gzip-files-into-a-single-tar-file"
+    }
+  ]
+}

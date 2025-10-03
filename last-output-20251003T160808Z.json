@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-03T15:57:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T15:28:22Z",
+      "Title": "RTSP stream not working with Imou ranger 2 WiFi camera on Mac Mini M4 for AI processing [closed]",
+      "Tags": [
+        "network-programming",
+        "rtsp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781927/rtsp-stream-not-working-with-imou-ranger-2-wifi-camera-on-mac-mini-m4-for-ai-pro"
+    },
+    {
+      "Created": "2025-10-03T15:52:38Z",
+      "Title": "How to remove the last line of the patch?",
+      "Tags": [
+        "git-patch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781944/how-to-remove-the-last-line-of-the-patch"
+    },
+    {
+      "Created": "2025-10-03T15:57:12Z",
+      "Title": "Works in regex simulator but not R with stringR?",
+      "Tags": [
+        "r",
+        "regex",
+        "stringr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781951/works-in-regex-simulator-but-not-r-with-stringr"
+    }
+  ]
+}

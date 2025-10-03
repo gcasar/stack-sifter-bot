@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-03T12:09:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T11:59:58Z",
+      "Title": "Is there a way to debug xaml file in visual studio?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781746/is-there-a-way-to-debug-xaml-file-in-visual-studio"
+    },
+    {
+      "Created": "2025-10-03T12:08:02Z",
+      "Title": "Weaviate Docker Swarm Cluster Fails to Bootstrap with i/o timeout Errors",
+      "Tags": [
+        "docker",
+        "weaviate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781752/weaviate-docker-swarm-cluster-fails-to-bootstrap-with-i-o-timeout-errors"
+    },
+    {
+      "Created": "2025-10-03T12:09:56Z",
+      "Title": "How DynamoDb console maintains pagination along with filtering",
+      "Tags": [
+        "pagination",
+        "amazon-dynamodb",
+        "dynamodb-queries"
+      ],
+      "Url": "https://stackoverflow.com/questions/79781754/how-dynamodb-console-maintains-pagination-along-with-filtering"
+    }
+  ]
+}

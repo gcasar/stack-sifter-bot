@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-04T15:54:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T15:22:13Z",
+      "Title": "How do I process IP addresses with Python 3 in Kali Linux?",
+      "Tags": [
+        "python-3.x",
+        "listener"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782542/how-do-i-process-ip-addresses-with-python-3-in-kali-linux"
+    },
+    {
+      "Created": "2025-10-04T15:26:07Z",
+      "Title": "Can we Use Strict Fields with gt in FastAPI?",
+      "Tags": [
+        "python",
+        "fastapi",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782543/can-we-use-strict-fields-with-gt-in-fastapi"
+    },
+    {
+      "Created": "2025-10-04T15:27:55Z",
+      "Title": "MariaDB on duplicate key update and LAST_INSERT_ID",
+      "Tags": [
+        "mariadb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782544/mariadb-on-duplicate-key-update-and-last-insert-id"
+    },
+    {
+      "Created": "2025-10-04T15:47:14Z",
+      "Title": "Hang in NSTableView / NSArrayController bindings under Tahoe",
+      "Tags": [
+        "swift",
+        "nstableview",
+        "nsarraycontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782553/hang-in-nstableview-nsarraycontroller-bindings-under-tahoe"
+    },
+    {
+      "Created": "2025-10-04T15:48:09Z",
+      "Title": "ISUP Option Not Showing on New Hikvision Cameras (DeviceGateway for AI Tennis Coach): Firmware Issue?",
+      "Tags": [
+        "ip-camera",
+        "firmware",
+        "hikvision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782554/isup-option-not-showing-on-new-hikvision-cameras-devicegateway-for-ai-tennis-co"
+    },
+    {
+      "Created": "2025-10-04T15:48:20Z",
+      "Title": "tqdm progress bar in PyTorch training loop does not advance or update .set_postfix() in Jupyter",
+      "Tags": [
+        "python",
+        "tqdm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782555/tqdm-progress-bar-in-pytorch-training-loop-does-not-advance-or-update-set-postf"
+    },
+    {
+      "Created": "2025-10-04T15:54:06Z",
+      "Title": "FFMPEG and Python, make video from PIL image-objects",
+      "Tags": [
+        "python",
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782557/ffmpeg-and-python-make-video-from-pil-image-objects"
+    }
+  ]
+}

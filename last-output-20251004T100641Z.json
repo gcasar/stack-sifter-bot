@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-04T09:59:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T09:17:42Z",
+      "Title": "Listing root child controls from uiautomation GetRootControl() stuck after the last item for 3\u002B minutes",
+      "Tags": [
+        "python",
+        "ui-automation",
+        "microsoft-ui-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782389/listing-root-child-controls-from-uiautomation-getrootcontrol-stuck-after-the-l"
+    },
+    {
+      "Created": "2025-10-04T09:41:41Z",
+      "Title": "Android ExoPlayer Seek Resets to 0 When Streaming Through Cloudflare Tunnel",
+      "Tags": [
+        "android",
+        "kotlin",
+        "exoplayer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782394/android-exoplayer-seek-resets-to-0-when-streaming-through-cloudflare-tunnel"
+    },
+    {
+      "Created": "2025-10-04T09:45:51Z",
+      "Title": "Subscription upgrade flow issue: paywall skipped when upgrading from Signature to Premium",
+      "Tags": [
+        "ios",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782398/subscription-upgrade-flow-issue-paywall-skipped-when-upgrading-from-signature-t"
+    },
+    {
+      "Created": "2025-10-04T09:58:04Z",
+      "Title": "Why does this Qt program with cross-thread signaling crash unless I reset a dead local variable?",
+      "Tags": [
+        "python",
+        "multithreading",
+        "pyqt5",
+        "crash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782403/why-does-this-qt-program-with-cross-thread-signaling-crash-unless-i-reset-a-dead"
+    },
+    {
+      "Created": "2025-10-04T09:58:17Z",
+      "Title": "Scraping booking.com with PHP Curl",
+      "Tags": [
+        "php",
+        "web-scraping",
+        "curl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782405/scraping-booking-com-with-php-curl"
+    },
+    {
+      "Created": "2025-10-04T09:59:47Z",
+      "Title": "Segmentation fault on a x86-64 push instruction",
+      "Tags": [
+        "assembly",
+        "x86-64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782407/segmentation-fault-on-a-x86-64-push-instruction"
+    }
+  ]
+}

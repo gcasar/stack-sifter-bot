@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-04T00:18:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-03T23:14:27Z",
+      "Title": "How remove duplicate objects by lower index from array",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782220/how-remove-duplicate-objects-by-lower-index-from-array"
+    },
+    {
+      "Created": "2025-10-03T23:32:30Z",
+      "Title": "Get previous and next data from glob based on timestamp",
+      "Tags": [
+        "php",
+        "foreach",
+        "glob",
+        "usort"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782231/get-previous-and-next-data-from-glob-based-on-timestamp"
+    },
+    {
+      "Created": "2025-10-03T23:41:52Z",
+      "Title": "ggforce combine geom_link with geom_point to have the same scale",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "ggforce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782234/ggforce-combine-geom-link-with-geom-point-to-have-the-same-scale"
+    },
+    {
+      "Created": "2025-10-03T23:52:58Z",
+      "Title": "How is the \u0060feedId\u0060 calculated for Chainlink report schemas?",
+      "Tags": [
+        "go",
+        "blockchain",
+        "ethereum",
+        "chainlink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782238/how-is-the-feedid-calculated-for-chainlink-report-schemas"
+    },
+    {
+      "Created": "2025-10-04T00:18:43Z",
+      "Title": "How can I view the actual INSERT/SELECT SQL used by OWB/ODI-generated packages (e.g., LOAD_MST_GPA, LOAD_MST_GENRL_STDNT_STEP_2) in Oracle?",
+      "Tags": [
+        "oracle-database",
+        "banner",
+        "ods"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782244/how-can-i-view-the-actual-insert-select-sql-used-by-owb-odi-generated-packages"
+    }
+  ]
+}

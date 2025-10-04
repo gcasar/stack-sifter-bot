@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-04T05:54:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T05:32:00Z",
+      "Title": "Command binding in Custom Control in WPF",
+      "Tags": [
+        "c#",
+        "wpf",
+        "binding",
+        "command"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782318/command-binding-in-custom-control-in-wpf"
+    },
+    {
+      "Created": "2025-10-04T05:34:22Z",
+      "Title": "ROBLOX/Lua - How can I change the camera\u0027s CFrame while still having standard camera controls?",
+      "Tags": [
+        "lua",
+        "camera",
+        "roblox",
+        "client-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782319/roblox-lua-how-can-i-change-the-cameras-cframe-while-still-having-standard-ca"
+    },
+    {
+      "Created": "2025-10-04T05:36:48Z",
+      "Title": "Multi-file and multi-threaded copy in python affects network speed",
+      "Tags": [
+        "python",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782321/multi-file-and-multi-threaded-copy-in-python-affects-network-speed"
+    },
+    {
+      "Created": "2025-10-04T05:54:55Z",
+      "Title": "How can I use web search with GPT on Azure using Python?",
+      "Tags": [
+        "python",
+        "azure",
+        "azure-cognitive-services",
+        "web-search",
+        "gpt-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782328/how-can-i-use-web-search-with-gpt-on-azure-using-python"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-04T11:01:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T10:29:58Z",
+      "Title": "Cannot use external HWND function",
+      "Tags": [
+        "c",
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782420/cannot-use-external-hwnd-function"
+    },
+    {
+      "Created": "2025-10-04T10:32:50Z",
+      "Title": "String created for \u0027exec\u0027 works on command line, but not in \u0027exec\u0027",
+      "Tags": [
+        "tcl",
+        "exec",
+        "forfiles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782422/string-created-for-exec-works-on-command-line-but-not-in-exec"
+    },
+    {
+      "Created": "2025-10-04T10:41:00Z",
+      "Title": "Assignment makes pointer from integer without cast, implicit declaration of function",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782427/assignment-makes-pointer-from-integer-without-cast-implicit-declaration-of-func"
+    },
+    {
+      "Created": "2025-10-04T10:45:54Z",
+      "Title": "Transforming tensorflow v1 graph and weights into saved model",
+      "Tags": [
+        "python",
+        "c",
+        "tensorflow",
+        "c-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782429/transforming-tensorflow-v1-graph-and-weights-into-saved-model"
+    },
+    {
+      "Created": "2025-10-04T10:50:23Z",
+      "Title": "How can I control whether a u64 is encoded as varint or standard in bincode?",
+      "Tags": [
+        "rust",
+        "bincode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782435/how-can-i-control-whether-a-u64-is-encoded-as-varint-or-standard-in-bincode"
+    },
+    {
+      "Created": "2025-10-04T11:01:38Z",
+      "Title": "How to Make My AI Model Run Fast on a Raspberry Pi without Losing Accuracy?",
+      "Tags": [
+        "python",
+        "raspberry-pi",
+        "artificial-intelligence",
+        "yolo",
+        "raspberry-pi5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782442/how-to-make-my-ai-model-run-fast-on-a-raspberry-pi-without-losing-accuracy"
+    }
+  ]
+}

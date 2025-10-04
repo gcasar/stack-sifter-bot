@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-04T02:23:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T01:38:30Z",
+      "Title": "Tidypolars - strange error with inequality join",
+      "Tags": [
+        "r",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782259/tidypolars-strange-error-with-inequality-join"
+    },
+    {
+      "Created": "2025-10-04T02:00:39Z",
+      "Title": "Indexed DB code does not run inside a click event?",
+      "Tags": [
+        "javascript",
+        "indexeddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782263/indexed-db-code-does-not-run-inside-a-click-event"
+    },
+    {
+      "Created": "2025-10-04T02:23:13Z",
+      "Title": "How to initialize codenameone javase app so it nearly fills the screen on a mac or a windows PC",
+      "Tags": [
+        "codenameone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782267/how-to-initialize-codenameone-javase-app-so-it-nearly-fills-the-screen-on-a-mac"
+    }
+  ]
+}

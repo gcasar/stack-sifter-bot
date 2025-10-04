@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-04T23:00:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T22:27:26Z",
+      "Title": "Why am I getting a different HTTP response for a seemingly same request between curl, C# HttpClient Win10 and C# HttpClient Win11",
+      "Tags": [
+        "c#",
+        "http",
+        "curl",
+        "dotnet-httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782707/why-am-i-getting-a-different-http-response-for-a-seemingly-same-request-between"
+    },
+    {
+      "Created": "2025-10-04T22:29:57Z",
+      "Title": "How to properly install llama-cpp-python on windows 11 with GPU support",
+      "Tags": [
+        "python",
+        "llama-cpp-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782708/how-to-properly-install-llama-cpp-python-on-windows-11-with-gpu-support"
+    },
+    {
+      "Created": "2025-10-04T22:34:22Z",
+      "Title": "Spring Cloud Stream: spring.cloud.stream.kafka.bindings.\u003Cbinding-name\u003E.producer properties are ignored for Kafka producer bindings",
+      "Tags": [
+        "spring-cloud-stream",
+        "spring-cloud-stream-binder-kafka",
+        "spring-cloud-stream-binder",
+        "spring-cloud-stream-binder-kinesis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782709/spring-cloud-stream-spring-cloud-stream-kafka-bindings-binding-name-producer"
+    },
+    {
+      "Created": "2025-10-04T22:38:19Z",
+      "Title": "Is it possible to use the \u0022/\u0022 route for a controller in Laravel with Inertia?",
+      "Tags": [
+        "php",
+        "laravel",
+        "vite",
+        "inertiajs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782710/is-it-possible-to-use-the-route-for-a-controller-in-laravel-with-inertia"
+    },
+    {
+      "Created": "2025-10-04T23:00:28Z",
+      "Title": "ArtemisMQ MessageGrouping: Groups are NOT sticking to instances",
+      "Tags": [
+        "spring-batch",
+        "activemq-artemis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782719/artemismq-messagegrouping-groups-are-not-sticking-to-instances"
+    }
+  ]
+}

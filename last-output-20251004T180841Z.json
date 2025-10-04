@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-04T17:49:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T17:43:16Z",
+      "Title": "Intel RealSense L515 Not Detected in Python pyrealsense2 on Ubuntu 22.04 (Works in RealSense Viewer)",
+      "Tags": [
+        "python",
+        "realsense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782590/intel-realsense-l515-not-detected-in-python-pyrealsense2-on-ubuntu-22-04-works"
+    },
+    {
+      "Created": "2025-10-04T17:47:34Z",
+      "Title": "clang-format ignores SpaceBeforeCpp11BracedList and Cpp11BracedListStyle",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang-format"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782594/clang-format-ignores-spacebeforecpp11bracedlist-and-cpp11bracedliststyle"
+    },
+    {
+      "Created": "2025-10-04T17:49:07Z",
+      "Title": "Symbolicate iOS crash reports on Linux",
+      "Tags": [
+        "ios",
+        "crash-reports",
+        "symbolicate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782596/symbolicate-ios-crash-reports-on-linux"
+    }
+  ]
+}

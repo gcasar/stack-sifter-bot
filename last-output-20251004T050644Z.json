@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-04T04:56:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T04:36:17Z",
+      "Title": "RAG vs. Fine-Tuning: What\u2019s Better for Searching Specialized Tajik Legal Texts?",
+      "Tags": [
+        "python",
+        "vector",
+        "nlp",
+        "embedding",
+        "ml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782304/rag-vs-fine-tuning-what-s-better-for-searching-specialized-tajik-legal-texts"
+    },
+    {
+      "Created": "2025-10-04T04:48:22Z",
+      "Title": "What does the uvw command do?",
+      "Tags": [
+        "python",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782307/what-does-the-uvw-command-do"
+    },
+    {
+      "Created": "2025-10-04T04:56:58Z",
+      "Title": "How to reduce latency in a context-aware chatbot with chart \u002B dataset inputs",
+      "Tags": [
+        "chatbot",
+        "openai-api",
+        "prompt",
+        "large-language-model",
+        "chatgpt-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782309/how-to-reduce-latency-in-a-context-aware-chatbot-with-chart-dataset-inputs"
+    }
+  ]
+}

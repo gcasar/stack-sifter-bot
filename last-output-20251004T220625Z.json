@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-04T22:01:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T21:06:54Z",
+      "Title": "Windows dll will not use PATH to find another windows dll",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "windows",
+        "dll",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782685/windows-dll-will-not-use-path-to-find-another-windows-dll"
+    },
+    {
+      "Created": "2025-10-04T21:51:22Z",
+      "Title": "boost::json::serialize returning \u003CNULL\u003E from a non-empty boost::json::object in Google tests",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "googletest",
+        "boost-json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782695/boostjsonserialize-returning-null-from-a-non-empty-boostjsonobject-in"
+    },
+    {
+      "Created": "2025-10-04T22:01:33Z",
+      "Title": "How to resolve circular dependencies in this scenario",
+      "Tags": [
+        "angular",
+        "typescript",
+        "circular-dependency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782700/how-to-resolve-circular-dependencies-in-this-scenario"
+    }
+  ]
+}

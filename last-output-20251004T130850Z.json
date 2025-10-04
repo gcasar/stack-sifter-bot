@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-04T12:39:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T12:26:37Z",
+      "Title": "Visual Studio Code Multiple C file compile [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782475/visual-studio-code-multiple-c-file-compile"
+    },
+    {
+      "Created": "2025-10-04T12:33:48Z",
+      "Title": "Why doesn\u0027t this compile? Default member initializer required before the end of its enclosing class",
+      "Tags": [
+        "c\u002B\u002B",
+        "static-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782477/why-doesnt-this-compile-default-member-initializer-required-before-the-end-of"
+    },
+    {
+      "Created": "2025-10-04T12:39:10Z",
+      "Title": "Hide sensitive data on watchOS with WidgetKit",
+      "Tags": [
+        "swiftui",
+        "watchos",
+        "widgetkit",
+        "apple-watch-complication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782479/hide-sensitive-data-on-watchos-with-widgetkit"
+    }
+  ]
+}

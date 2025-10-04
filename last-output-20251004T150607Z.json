@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-04T15:00:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T14:49:49Z",
+      "Title": "\u0027Generic\u0027 enum mapper with Mapster",
+      "Tags": [
+        "c#",
+        "mapster"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782533/generic-enum-mapper-with-mapster"
+    },
+    {
+      "Created": "2025-10-04T14:53:01Z",
+      "Title": "Why is my parameter seen as a NoneType when I set it as an integer?",
+      "Tags": [
+        "python",
+        "function",
+        "typeerror",
+        "panda3d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782535/why-is-my-parameter-seen-as-a-nonetype-when-i-set-it-as-an-integer"
+    },
+    {
+      "Created": "2025-10-04T14:55:09Z",
+      "Title": "SwiftUI List: how to make scrollable background using pattern image?",
+      "Tags": [
+        "ios",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782536/swiftui-list-how-to-make-scrollable-background-using-pattern-image"
+    },
+    {
+      "Created": "2025-10-04T15:00:14Z",
+      "Title": "\u201CError building thesis template with pdflatex: fontspec requires XeTeX or LuaTeX\u201D",
+      "Tags": [
+        "visual-studio-code",
+        "latex",
+        "pdflatex",
+        "xelatex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782537/error-building-thesis-template-with-pdflatex-fontspec-requires-xetex-or-luatex"
+    }
+  ]
+}

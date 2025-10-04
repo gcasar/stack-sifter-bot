@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-04T20:51:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T20:40:30Z",
+      "Title": "Query upcoming birthday date",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "datediff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782665/query-upcoming-birthday-date"
+    },
+    {
+      "Created": "2025-10-04T20:43:10Z",
+      "Title": "Is (de)serializing \u0060usize\u0060 with Serde platform-dependent?",
+      "Tags": [
+        "rust",
+        "serde"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782666/is-deserializing-usize-with-serde-platform-dependent"
+    },
+    {
+      "Created": "2025-10-04T20:51:00Z",
+      "Title": "How to set the Backcolor in a DataGridViewComboBoxCell?",
+      "Tags": [
+        "c#",
+        "datagridview",
+        "combobox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782673/how-to-set-the-backcolor-in-a-datagridviewcomboboxcell"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-04T19:53:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T19:11:09Z",
+      "Title": "Why doesn\u2019t my v-model show the initial value in Vue 3?",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "frontend",
+        "vuejs3",
+        "v-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782622/why-doesn-t-my-v-model-show-the-initial-value-in-vue-3"
+    },
+    {
+      "Created": "2025-10-04T19:25:50Z",
+      "Title": "Query Django Users by get_username method",
+      "Tags": [
+        "python",
+        "django",
+        "django-models"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782632/query-django-users-by-get-username-method"
+    },
+    {
+      "Created": "2025-10-04T19:42:15Z",
+      "Title": "How to approach filtering prices for items from different currencies",
+      "Tags": [
+        "postgresql",
+        "currency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782637/how-to-approach-filtering-prices-for-items-from-different-currencies"
+    },
+    {
+      "Created": "2025-10-04T19:46:01Z",
+      "Title": "Grayskull slow in GitLab CI with local sdist",
+      "Tags": [
+        "python",
+        "conda",
+        "packaging",
+        "pypi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782638/grayskull-slow-in-gitlab-ci-with-local-sdist"
+    },
+    {
+      "Created": "2025-10-04T19:52:33Z",
+      "Title": "Terraform google_certificate_manager_certificate_issuance_config fails with \u0022Config validation failed\u0022 for cross-project CA pool in GCP",
+      "Tags": [
+        "google-cloud-platform",
+        "terraform-provider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782639/terraform-google-certificate-manager-certificate-issuance-config-fails-with-con"
+    },
+    {
+      "Created": "2025-10-04T19:53:05Z",
+      "Title": "Does reading one stream that is a copy of another stream affect the original stream position",
+      "Tags": [
+        "c#",
+        ".net",
+        "file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782640/does-reading-one-stream-that-is-a-copy-of-another-stream-affect-the-original-str"
+    }
+  ]
+}

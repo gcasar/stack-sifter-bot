@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-04T16:51:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T16:11:17Z",
+      "Title": "How to send messages between agents on the same node in Unetstack",
+      "Tags": [
+        "groovy",
+        "message",
+        "agent",
+        "behavior",
+        "unetstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782559/how-to-send-messages-between-agents-on-the-same-node-in-unetstack"
+    },
+    {
+      "Created": "2025-10-04T16:51:28Z",
+      "Title": "Amazon SP-API \u2014 \u201Cexternally_assigned_product_identifier is a required property\u201D even for GTIN-Exempt product (category SHIRT)",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-selling-partner-api",
+        "amazonsellercentral",
+        "amazon-marketplace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782573/amazon-sp-api-externally-assigned-product-identifier-is-a-required-property"
+    }
+  ]
+}

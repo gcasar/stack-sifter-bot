@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-04T18:50:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T18:01:32Z",
+      "Title": "How to apply CSS Style to an \u003Cobject\u003E child",
+      "Tags": [
+        "html",
+        "jquery",
+        "css",
+        "pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782600/how-to-apply-css-style-to-an-object-child"
+    },
+    {
+      "Created": "2025-10-04T18:41:10Z",
+      "Title": "How do I change the Google PlaceAutocompleteElement width?",
+      "Tags": [
+        "javascript",
+        "google-maps",
+        "google-places-autocomplete"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782612/how-do-i-change-the-google-placeautocompleteelement-width"
+    },
+    {
+      "Created": "2025-10-04T18:50:11Z",
+      "Title": "TypeError: layer_norm(): argument \u0027input\u0027 (position 1) must be Tensor, not BaseModelOutput",
+      "Tags": [
+        "python",
+        "pytorch",
+        "kaggle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782616/typeerror-layer-norm-argument-input-position-1-must-be-tensor-not-basem"
+    },
+    {
+      "Created": "2025-10-04T18:50:57Z",
+      "Title": "ptrace PT_SETREGS issue",
+      "Tags": [
+        "arm64",
+        "freebsd",
+        "ptrace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782617/ptrace-pt-setregs-issue"
+    }
+  ]
+}

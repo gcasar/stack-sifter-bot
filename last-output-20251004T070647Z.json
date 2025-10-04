@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-04T07:00:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T06:29:30Z",
+      "Title": "Will file logging race conditions in multi-process Flask app crash the Python script?",
+      "Tags": [
+        "python",
+        "flask",
+        "logging",
+        "gunicorn",
+        "race-condition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782333/will-file-logging-race-conditions-in-multi-process-flask-app-crash-the-python-sc"
+    },
+    {
+      "Created": "2025-10-04T06:44:56Z",
+      "Title": "Is syncing PencilKit data via CloudKit good practice? (client oplock error / data size concerns)",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "cloudkit",
+        "pencilkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782337/is-syncing-pencilkit-data-via-cloudkit-good-practice-client-oplock-error-dat"
+    },
+    {
+      "Created": "2025-10-04T06:46:52Z",
+      "Title": "pyexiv2 blocks on some images",
+      "Tags": [
+        "python",
+        "freeze",
+        "pyexiv2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782339/pyexiv2-blocks-on-some-images"
+    },
+    {
+      "Created": "2025-10-04T06:55:18Z",
+      "Title": "How do you make an image the same size of the window fit the whole window?",
+      "Tags": [
+        "python",
+        "pgzero"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782342/how-do-you-make-an-image-the-same-size-of-the-window-fit-the-whole-window"
+    },
+    {
+      "Created": "2025-10-04T07:00:36Z",
+      "Title": "SQLite ALTER TABLE RENAME COLUMN not working on Android 10 device using SQLiteOpenHelper",
+      "Tags": [
+        "android",
+        "sqlite",
+        "android-sqlite",
+        "sqliteopenhelper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782344/sqlite-alter-table-rename-column-not-working-on-android-10-device-using-sqliteop"
+    }
+  ]
+}

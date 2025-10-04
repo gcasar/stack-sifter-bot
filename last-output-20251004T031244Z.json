@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-04T03:04:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T02:51:54Z",
+      "Title": "Are spelling variations of encoding identifiers for \u0022setlocale\u0022 standardized or documented?",
+      "Tags": [
+        "c",
+        "character-encoding",
+        "locale",
+        "standard-library",
+        "setlocale"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782271/are-spelling-variations-of-encoding-identifiers-for-setlocale-standardized-or"
+    },
+    {
+      "Created": "2025-10-04T03:04:38Z",
+      "Title": "How to get struct fn to accept different data types depending on a struct id",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782274/how-to-get-struct-fn-to-accept-different-data-types-depending-on-a-struct-id"
+    }
+  ]
+}

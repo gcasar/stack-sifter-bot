@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-05T14:01:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T13:01:13Z",
+      "Title": "How to make a Liquid Glass Next button as a Circle in SwiftUI?",
+      "Tags": [
+        "swiftui",
+        "swiftui-button",
+        "swiftui-toolbar",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782991/how-to-make-a-liquid-glass-next-button-as-a-circle-in-swiftui"
+    },
+    {
+      "Created": "2025-10-05T13:25:44Z",
+      "Title": "Unable to install ssdeep on Windows: \u0022Cannot open include file: \u0027fuzzy.h\u0027\u0022",
+      "Tags": [
+        "python-3.x",
+        "windows",
+        "powershell",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783001/unable-to-install-ssdeep-on-windows-cannot-open-include-file-fuzzy-h"
+    },
+    {
+      "Created": "2025-10-05T13:34:35Z",
+      "Title": "How do I add more enemies in my Godot project?",
+      "Tags": [
+        "godot",
+        "gdscript",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783004/how-do-i-add-more-enemies-in-my-godot-project"
+    },
+    {
+      "Created": "2025-10-05T13:39:33Z",
+      "Title": "Why did my Shell script got into an eternal loop?",
+      "Tags": [
+        "shell",
+        "for-loop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783005/why-did-my-shell-script-got-into-an-eternal-loop"
+    },
+    {
+      "Created": "2025-10-05T13:52:06Z",
+      "Title": "Spring data elasticsearch how to print the elasticsearch JSON representation of the query",
+      "Tags": [
+        "elasticsearch",
+        "spring-data-elasticsearch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783008/spring-data-elasticsearch-how-to-print-the-elasticsearch-json-representation-of"
+    },
+    {
+      "Created": "2025-10-05T14:01:53Z",
+      "Title": "Kohya-SS SDXL LoRA Training Resets Steps Despite Successful State Loading",
+      "Tags": [
+        "python",
+        "deep-learning",
+        "stable-diffusion",
+        "lora",
+        "resuming-training"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783011/kohya-ss-sdxl-lora-training-resets-steps-despite-successful-state-loading"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-05T12:07:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T11:38:25Z",
+      "Title": "How to validate incoming data from multiple sources in Python before ETL?",
+      "Tags": [
+        "python",
+        "data-quality"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782957/how-to-validate-incoming-data-from-multiple-sources-in-python-before-etl"
+    },
+    {
+      "Created": "2025-10-05T11:57:32Z",
+      "Title": "What happens to renamed registers during an Interrupt/Exception?",
+      "Tags": [
+        "x86",
+        "arm",
+        "cpu-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782964/what-happens-to-renamed-registers-during-an-interrupt-exception"
+    },
+    {
+      "Created": "2025-10-05T12:07:25Z",
+      "Title": "Drupal Twig in View Global Text date_modify Fails",
+      "Tags": [
+        "drupal-views",
+        "twig-filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782969/drupal-twig-in-view-global-text-date-modify-fails"
+    }
+  ]
+}

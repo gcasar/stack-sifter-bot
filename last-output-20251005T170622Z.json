@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-05T16:57:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T16:45:01Z",
+      "Title": "PrimeVue DataTable missing \u0022clean filter button\u0022",
+      "Tags": [
+        "primevue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783086/primevue-datatable-missing-clean-filter-button"
+    },
+    {
+      "Created": "2025-10-05T16:54:34Z",
+      "Title": "Gagal Solve hCaptcha Enterprise (type: \u0022hsw\u0022) dengan 2Captcha, Selalu ERROR_METHOD_CALL",
+      "Tags": [
+        "python",
+        "hcaptcha"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783091/gagal-solve-hcaptcha-enterprise-type-hsw-dengan-2captcha-selalu-error-meth"
+    },
+    {
+      "Created": "2025-10-05T16:57:28Z",
+      "Title": "Failed to Solve hCaptcha Enterprise (type: \u0022hsw\u0022) with 2Captcha, Always Gets ERROR_METHOD_CALL",
+      "Tags": [
+        "python",
+        "captcha",
+        "hcaptcha"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783095/failed-to-solve-hcaptcha-enterprise-type-hsw-with-2captcha-always-gets-err"
+    }
+  ]
+}

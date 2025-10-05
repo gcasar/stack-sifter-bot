@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-05T03:56:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T03:39:22Z",
+      "Title": "Switching to semantic versioning causes MSVC linker to throw an LNK1117 error",
+      "Tags": [
+        "visual-c\u002B\u002B",
+        "versioning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782771/switching-to-semantic-versioning-causes-msvc-linker-to-throw-an-lnk1117-error"
+    },
+    {
+      "Created": "2025-10-05T03:56:40Z",
+      "Title": "to clear this issuse i tried deleting files having this issue and create new one still i have this issuse",
+      "Tags": [
+        "android",
+        "windows",
+        "react-native",
+        "gradle",
+        "ssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782773/to-clear-this-issuse-i-tried-deleting-files-having-this-issue-and-create-new-one"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-05T21:03:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T20:43:17Z",
+      "Title": "Weird errors while trying to connect to Mega.NZ from Python via https://pypi.org/project/mega.py/",
+      "Tags": [
+        "python-3.x",
+        "pypi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783199/weird-errors-while-trying-to-connect-to-mega-nz-from-python-via-https-pypi-org"
+    },
+    {
+      "Created": "2025-10-05T20:46:13Z",
+      "Title": "generating public token via server action and set it on cookies on client component forward by router refresh sometimes not available sever actions",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783201/generating-public-token-via-server-action-and-set-it-on-cookies-on-client-compon"
+    },
+    {
+      "Created": "2025-10-05T20:49:10Z",
+      "Title": "Draggable Item not updated correctly when adding second camera to the world in flutter flame",
+      "Tags": [
+        "flutter",
+        "flame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783203/draggable-item-not-updated-correctly-when-adding-second-camera-to-the-world-in-f"
+    },
+    {
+      "Created": "2025-10-05T20:55:15Z",
+      "Title": "in C\u002B\u002B is it faster to use a map than to do quicksort?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783206/in-c-is-it-faster-to-use-a-map-than-to-do-quicksort"
+    },
+    {
+      "Created": "2025-10-05T21:03:33Z",
+      "Title": "What does it take to have system default menus show up when programmatically constructing an application in AppKit for macOS Tahoe?",
+      "Tags": [
+        "objective-c",
+        "macos",
+        "appkit",
+        "menubar",
+        "macos-tahoe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783207/what-does-it-take-to-have-system-default-menus-show-up-when-programmatically-con"
+    }
+  ]
+}

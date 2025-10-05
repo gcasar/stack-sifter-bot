@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-05T08:44:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T08:28:24Z",
+      "Title": "Problem: C# (.NET 9.0) client authentication fails with certificate chain",
+      "Tags": [
+        "c#",
+        "certificate",
+        "client",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782875/problem-c-sharp-net-9-0-client-authentication-fails-with-certificate-chain"
+    },
+    {
+      "Created": "2025-10-05T08:44:46Z",
+      "Title": "API Gateway Timeout Error in mern project",
+      "Tags": [
+        "mern",
+        "monorepo",
+        "api-gateway",
+        "connection-timeout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782883/api-gateway-timeout-error-in-mern-project"
+    }
+  ]
+}

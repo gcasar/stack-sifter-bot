@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-05T04:58:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T04:15:53Z",
+      "Title": "playing sound file when bash script is ran by cron task",
+      "Tags": [
+        "cron",
+        "cron-task",
+        "zenity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782775/playing-sound-file-when-bash-script-is-ran-by-cron-task"
+    },
+    {
+      "Created": "2025-10-05T04:24:41Z",
+      "Title": "Webscrape links to download WHO pdfs in R based on word in page html",
+      "Tags": [
+        "html",
+        "r",
+        "web-scraping",
+        "pdf",
+        "web-crawler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782779/webscrape-links-to-download-who-pdfs-in-r-based-on-word-in-page-html"
+    },
+    {
+      "Created": "2025-10-05T04:29:16Z",
+      "Title": "APS Model Coordination: job fails if definition list exceeds 50 items",
+      "Tags": [
+        "autodesk-forge",
+        "autodesk-construction-cloud"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782780/aps-model-coordination-job-fails-if-definition-list-exceeds-50-items"
+    },
+    {
+      "Created": "2025-10-05T04:32:21Z",
+      "Title": "Automatic shader PDB resolution in PIX (compiled via dxcompiler.dll)",
+      "Tags": [
+        "directx",
+        "dxc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782782/automatic-shader-pdb-resolution-in-pix-compiled-via-dxcompiler-dll"
+    },
+    {
+      "Created": "2025-10-05T04:58:48Z",
+      "Title": "PLSQL Merge \u0022WHEN MATCHED\u0022 with \u0022AND\u0022",
+      "Tags": [
+        "oracle-database",
+        "plsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782787/plsql-merge-when-matched-with-and"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-05T08:03:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T07:31:00Z",
+      "Title": "C\u002B\u002B error: lvalue required as left operand of assignment",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782846/c-error-lvalue-required-as-left-operand-of-assignment"
+    },
+    {
+      "Created": "2025-10-05T07:45:48Z",
+      "Title": "Trouble implementing app version expiry (forced updates) in C# WPF on .NET 5",
+      "Tags": [
+        "c#",
+        "wpf",
+        "msbuild",
+        ".net-5",
+        "csproj"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782855/trouble-implementing-app-version-expiry-forced-updates-in-c-sharp-wpf-on-net"
+    },
+    {
+      "Created": "2025-10-05T07:49:07Z",
+      "Title": "Map Lamda to Method",
+      "Tags": [
+        "java",
+        "setter",
+        "functional-interface",
+        "jdk-24"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782856/map-lamda-to-method"
+    },
+    {
+      "Created": "2025-10-05T07:53:27Z",
+      "Title": "Unable to connect to GridDB Cloud using Python requests \u2014 getting connection error",
+      "Tags": [
+        "python",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782858/unable-to-connect-to-griddb-cloud-using-python-requests-getting-connection-err"
+    },
+    {
+      "Created": "2025-10-05T07:59:04Z",
+      "Title": "How to configure Gradle to pickup ArchUnit tests via @Tag annotation?",
+      "Tags": [
+        "java",
+        "gradle",
+        "junit5",
+        "archunit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782860/how-to-configure-gradle-to-pickup-archunit-tests-via-tag-annotation"
+    },
+    {
+      "Created": "2025-10-05T08:03:04Z",
+      "Title": "Locate return address into EXE from DllMain",
+      "Tags": [
+        "windows",
+        "dll",
+        "stack",
+        "64-bit",
+        "dllmain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782863/locate-return-address-into-exe-from-dllmain"
+    }
+  ]
+}

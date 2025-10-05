@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-05T03:20:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T02:42:59Z",
+      "Title": "How do deal with \u0027setImmediate()\u0027 function when migrating callback function to async await?",
+      "Tags": [
+        "async-await",
+        "callback",
+        "node-promisify",
+        "setimmediate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782760/how-do-deal-with-setimmediate-function-when-migrating-callback-function-to-a"
+    },
+    {
+      "Created": "2025-10-05T02:42:59Z",
+      "Title": "How do deal with \u0027setImmediate()\u0027 function when migrating callback function to async await?",
+      "Tags": [
+        "async-await",
+        "callback",
+        "node-promisify",
+        "setimmediate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782759/how-do-deal-with-setimmediate-function-when-migrating-callback-function-to-a"
+    },
+    {
+      "Created": "2025-10-05T02:52:03Z",
+      "Title": "How can I access and use the device\u2019s native camera in a React Native app using Expo?",
+      "Tags": [
+        "react-native",
+        "mobile",
+        "permissions",
+        "expo",
+        "camera"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782763/how-can-i-access-and-use-the-device-s-native-camera-in-a-react-native-app-using"
+    },
+    {
+      "Created": "2025-10-05T03:04:04Z",
+      "Title": "Python 3.13 cuda torch 2.8 support",
+      "Tags": [
+        "python",
+        "pip",
+        "cuda",
+        "torch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782765/python-3-13-cuda-torch-2-8-support"
+    },
+    {
+      "Created": "2025-10-05T03:20:27Z",
+      "Title": "TradingView Self-managing alerts delay",
+      "Tags": [
+        "pine-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782770/tradingview-self-managing-alerts-delay"
+    }
+  ]
+}

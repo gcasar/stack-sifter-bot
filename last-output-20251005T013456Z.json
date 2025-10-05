@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-05T01:14:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T01:06:21Z",
+      "Title": "Laravel installation with community starter kit",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782741/laravel-installation-with-community-starter-kit"
+    },
+    {
+      "Created": "2025-10-05T01:09:30Z",
+      "Title": "google console fails to detect my Billing Library version",
+      "Tags": [
+        "android",
+        "in-app-purchase",
+        "capacitor",
+        "android-inapp-purchase",
+        "cordova-plugin-purchase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782742/google-console-fails-to-detect-my-billing-library-version"
+    },
+    {
+      "Created": "2025-10-05T01:14:36Z",
+      "Title": "How to handle simultaneous data from multiple ESP32 devices without mixing data in Django \u002B DRF?",
+      "Tags": [
+        "django",
+        "django-rest-framework",
+        "iot",
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782743/how-to-handle-simultaneous-data-from-multiple-esp32-devices-without-mixing-data"
+    }
+  ]
+}

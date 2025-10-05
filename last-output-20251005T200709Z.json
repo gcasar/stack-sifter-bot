@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-05T20:03:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T19:48:09Z",
+      "Title": "How can I create a RegEx pattern that matches strings in both directions?",
+      "Tags": [
+        "javascript",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783172/how-can-i-create-a-regex-pattern-that-matches-strings-in-both-directions"
+    },
+    {
+      "Created": "2025-10-05T20:01:38Z",
+      "Title": "Spring Cloud Gateway as a resource server",
+      "Tags": [
+        "spring-boot",
+        "spring-security",
+        "microservices",
+        "spring-cloud-gateway",
+        "oauth2resourceserver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783181/spring-cloud-gateway-as-a-resource-server"
+    },
+    {
+      "Created": "2025-10-05T20:03:46Z",
+      "Title": "Nx/NestJS - Empty dependencies list on package.json after build",
+      "Tags": [
+        "node.js",
+        "webpack",
+        "nestjs",
+        "monorepo",
+        "nx-monorepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783183/nx-nestjs-empty-dependencies-list-on-package-json-after-build"
+    }
+  ]
+}

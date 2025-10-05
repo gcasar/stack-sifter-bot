@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-05T18:01:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T17:43:30Z",
+      "Title": "Creating a C chrome.dll forward-only wrapper give STATUS_STACK_BUFFER_OVERRUN",
+      "Tags": [
+        "c",
+        "google-chrome",
+        "dll",
+        "chromium",
+        "dynamic-dll-import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783112/creating-a-c-chrome-dll-forward-only-wrapper-give-status-stack-buffer-overrun"
+    },
+    {
+      "Created": "2025-10-05T17:46:58Z",
+      "Title": "Which of the following correctly represents a float constant in C?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783113/which-of-the-following-correctly-represents-a-float-constant-in-c"
+    },
+    {
+      "Created": "2025-10-05T17:54:53Z",
+      "Title": "SFML Window fails to initialise",
+      "Tags": [
+        "c\u002B\u002B",
+        "sfml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783117/sfml-window-fails-to-initialise"
+    },
+    {
+      "Created": "2025-10-05T17:59:43Z",
+      "Title": "Google Play console auto converting $1 USD to $.99 USD",
+      "Tags": [
+        "android",
+        "google-play",
+        "google-play-console",
+        "android-inapp-purchase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783119/google-play-console-auto-converting-1-usd-to-99-usd"
+    },
+    {
+      "Created": "2025-10-05T18:01:15Z",
+      "Title": "How many segments can be stored in win16 executable format? (very strange and unaccountable format)",
+      "Tags": [
+        "windows",
+        "file",
+        "exe",
+        "executable",
+        "16-bit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783121/how-many-segments-can-be-stored-in-win16-executable-format-very-strange-and-un"
+    }
+  ]
+}

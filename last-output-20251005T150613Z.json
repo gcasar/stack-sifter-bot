@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-05T14:51:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T14:41:58Z",
+      "Title": "Overflow error when calculating stock return using Do While Loop in VBA",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783023/overflow-error-when-calculating-stock-return-using-do-while-loop-in-vba"
+    },
+    {
+      "Created": "2025-10-05T14:48:39Z",
+      "Title": "Which is better: React Router object-based routing with loaders/actions, or traditional route-based configuration?",
+      "Tags": [
+        "reactjs",
+        "routes",
+        "action",
+        "loader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783026/which-is-better-react-router-object-based-routing-with-loaders-actions-or-trad"
+    },
+    {
+      "Created": "2025-10-05T14:51:15Z",
+      "Title": "Unable to scrape all Amazon reviews for a product due to sign-in page",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "analysis",
+        "review",
+        "amazon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783027/unable-to-scrape-all-amazon-reviews-for-a-product-due-to-sign-in-page"
+    }
+  ]
+}

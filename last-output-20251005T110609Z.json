@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-05T10:45:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T10:14:19Z",
+      "Title": "In flutter Flame, I am trying to build strategy game and want to have mini camera for the map",
+      "Tags": [
+        "flutter",
+        "flame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782917/in-flutter-flame-i-am-trying-to-build-strategy-game-and-want-to-have-mini-camer"
+    },
+    {
+      "Created": "2025-10-05T10:40:31Z",
+      "Title": "Merging 2 excel template files using python",
+      "Tags": [
+        "python",
+        "excel",
+        "pandas",
+        "openpyxl",
+        "xlrd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782928/merging-2-excel-template-files-using-python"
+    },
+    {
+      "Created": "2025-10-05T10:45:12Z",
+      "Title": "python str.find() equivalent that accepts regex [duplicate]",
+      "Tags": [
+        "python",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782931/python-str-find-equivalent-that-accepts-regex"
+    },
+    {
+      "Created": "2025-10-05T10:45:58Z",
+      "Title": "Reverse an array using only one pointer in C",
+      "Tags": [
+        "c",
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782932/reverse-an-array-using-only-one-pointer-in-c"
+    }
+  ]
+}

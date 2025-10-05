@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-05T12:36:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T12:36:57Z",
+      "Title": "Rust axum with loco-rs and nginx running production gets 404",
+      "Tags": [
+        "nginx",
+        "rust",
+        "debian"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782979/rust-axum-with-loco-rs-and-nginx-running-production-gets-404"
+    }
+  ]
+}

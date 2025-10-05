@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-05T18:51:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T18:19:09Z",
+      "Title": "Usage of Django [closed]",
+      "Tags": [
+        "django",
+        "django-rest-framework",
+        "django-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783129/usage-of-django"
+    },
+    {
+      "Created": "2025-10-05T18:39:51Z",
+      "Title": "K8S restrict access to secret",
+      "Tags": [
+        "kubernetes",
+        "environment-variables",
+        "rbac"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783138/k8s-restrict-access-to-secret"
+    },
+    {
+      "Created": "2025-10-05T18:40:16Z",
+      "Title": "How do I load multiple folders in one Astro content collection?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "markdown",
+        "astrojs",
+        "mdxjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783139/how-do-i-load-multiple-folders-in-one-astro-content-collection"
+    },
+    {
+      "Created": "2025-10-05T18:41:33Z",
+      "Title": "502 Gateway Timeout when generating large Excel reports (60MB\u002B) with ExcelJS and AWS \u2014 works for 1 month, fails for 2-3 months range",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "excel",
+        "typescript",
+        "express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783140/502-gateway-timeout-when-generating-large-excel-reports-60mb-with-exceljs-and"
+    },
+    {
+      "Created": "2025-10-05T18:51:14Z",
+      "Title": "What is data affinity in terms of SQL and how it is related to partitioning?",
+      "Tags": [
+        "sql",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783146/what-is-data-affinity-in-terms-of-sql-and-how-it-is-related-to-partitioning"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-05T00:20:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-04T23:57:30Z",
+      "Title": "Strange error using python sympy solve function",
+      "Tags": [
+        "python",
+        "sympy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782729/strange-error-using-python-sympy-solve-function"
+    },
+    {
+      "Created": "2025-10-05T00:07:39Z",
+      "Title": "Creating generic of type where the type uses pointer receiver",
+      "Tags": [
+        "go"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782733/creating-generic-of-type-where-the-type-uses-pointer-receiver"
+    },
+    {
+      "Created": "2025-10-05T00:13:21Z",
+      "Title": "System.AccessViolationException occurs when running a C# Godot unit test for Node2D object",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "xunit",
+        "godot",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782735/system-accessviolationexception-occurs-when-running-a-c-sharp-godot-unit-test-fo"
+    },
+    {
+      "Created": "2025-10-05T00:20:43Z",
+      "Title": "Is there a way to create a function in C wherein one variable can refer to one of any other variables depending on user input?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79782736/is-there-a-way-to-create-a-function-in-c-wherein-one-variable-can-refer-to-one-o"
+    }
+  ]
+}

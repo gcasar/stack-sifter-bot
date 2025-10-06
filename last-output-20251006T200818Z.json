@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-06T20:05:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T19:23:47Z",
+      "Title": "How to Make the Divisor Divide Evenly by Adding a Prime x Times to the Dividend?",
+      "Tags": [
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784011/how-to-make-the-divisor-divide-evenly-by-adding-a-prime-x-times-to-the-dividend"
+    },
+    {
+      "Created": "2025-10-06T19:46:40Z",
+      "Title": "Python Mandelbrot Scatter Plot Only Shows Curve",
+      "Tags": [
+        "python",
+        "plot",
+        "scatter-plot",
+        "fractals",
+        "mandelbrot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784023/python-mandelbrot-scatter-plot-only-shows-curve"
+    },
+    {
+      "Created": "2025-10-06T19:49:33Z",
+      "Title": "WKWebView subclass crashes with EXC_BREAKPOINT in URL.unconditionallyBridgeFromObjectiveC when calling loadHTMLString from Swift",
+      "Tags": [
+        "swift",
+        "wkwebview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784024/wkwebview-subclass-crashes-with-exc-breakpoint-in-url-unconditionallybridgefromo"
+    },
+    {
+      "Created": "2025-10-06T19:54:58Z",
+      "Title": "How do I get the pixels in an Image object that contribute to the pixel in the ImageView object at a particular location in the imageview object",
+      "Tags": [
+        "java",
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784030/how-do-i-get-the-pixels-in-an-image-object-that-contribute-to-the-pixel-in-the-i"
+    },
+    {
+      "Created": "2025-10-06T20:01:38Z",
+      "Title": "Tensorflow gradient returns None",
+      "Tags": [
+        "tensorflow",
+        "keras",
+        "tensorflow2.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784032/tensorflow-gradient-returns-none"
+    },
+    {
+      "Created": "2025-10-06T20:05:39Z",
+      "Title": "Cannot resolve method \u0027builder\u0027",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784035/cannot-resolve-method-builder"
+    }
+  ]
+}

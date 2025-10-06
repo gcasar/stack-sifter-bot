@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-06T03:16:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T02:43:31Z",
+      "Title": "How to completely disable build-time HTML generation for a pure SPA?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-router",
+        "vite",
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783331/how-to-completely-disable-build-time-html-generation-for-a-pure-spa"
+    },
+    {
+      "Created": "2025-10-06T03:16:01Z",
+      "Title": "Inconsistent behavior of route helpers with friendly_id",
+      "Tags": [
+        "ruby-on-rails",
+        "friendly-id"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783337/inconsistent-behavior-of-route-helpers-with-friendly-id"
+    }
+  ]
+}

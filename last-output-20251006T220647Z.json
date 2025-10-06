@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-06T21:54:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T21:29:32Z",
+      "Title": "python virtualenv without losing apt-installed modules",
+      "Tags": [
+        "python",
+        "debian",
+        "virtualenv",
+        "apt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784092/python-virtualenv-without-losing-apt-installed-modules"
+    },
+    {
+      "Created": "2025-10-06T21:40:39Z",
+      "Title": "How to expose kotlin package \u0060import kotlin.test.Test\u0060 for a bazel \u0060kt_jvm_test\u0060",
+      "Tags": [
+        "kotlin",
+        "unit-testing",
+        "bazel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784098/how-to-expose-kotlin-package-import-kotlin-test-test-for-a-bazel-kt-jvm-test"
+    },
+    {
+      "Created": "2025-10-06T21:54:47Z",
+      "Title": "Stat automizer with ocr issues",
+      "Tags": [
+        "python",
+        "pandas",
+        "google-sheets",
+        "ocr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784105/stat-automizer-with-ocr-issues"
+    }
+  ]
+}

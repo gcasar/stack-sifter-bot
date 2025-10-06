@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-06T13:12:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T12:15:52Z",
+      "Title": "Daylight Savings Time function in Postgres",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783671/daylight-savings-time-function-in-postgres"
+    },
+    {
+      "Created": "2025-10-06T13:03:50Z",
+      "Title": "Asio\u0027s signal handling under multithreaded scenarios",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost-asio",
+        "asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783721/asios-signal-handling-under-multithreaded-scenarios"
+    },
+    {
+      "Created": "2025-10-06T13:11:00Z",
+      "Title": "Pronounciation of numbers in eSpeak has unexplainable quirks",
+      "Tags": [
+        "espeak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783724/pronounciation-of-numbers-in-espeak-has-unexplainable-quirks"
+    },
+    {
+      "Created": "2025-10-06T13:11:05Z",
+      "Title": "Fullcalendar add hours to timezone",
+      "Tags": [
+        "fullcalendar",
+        "fullcalendar-6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783725/fullcalendar-add-hours-to-timezone"
+    },
+    {
+      "Created": "2025-10-06T13:12:06Z",
+      "Title": "spml model summary to modelsummary",
+      "Tags": [
+        "r",
+        "spatial",
+        "modelsummary",
+        "spml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783728/spml-model-summary-to-modelsummary"
+    }
+  ]
+}

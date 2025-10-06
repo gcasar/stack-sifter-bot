@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-06T12:06:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T11:50:17Z",
+      "Title": "MSIX Uninstall Failure: Why Isn\u0027t Migrated AppData Being Deleted?",
+      "Tags": [
+        "msix",
+        "windows-app-sdk",
+        "microsoft-store"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783650/msix-uninstall-failure-why-isnt-migrated-appdata-being-deleted"
+    },
+    {
+      "Created": "2025-10-06T12:06:33Z",
+      "Title": "pytest RunTimeError: There is no current event loop in thread \u0027MainThread\u0027",
+      "Tags": [
+        "python",
+        "pytest",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783662/pytest-runtimeerror-there-is-no-current-event-loop-in-thread-mainthread"
+    }
+  ]
+}

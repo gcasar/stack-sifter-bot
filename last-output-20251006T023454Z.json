@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-06T01:57:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T01:57:54Z",
+      "Title": "performAction function in WebdriverIO for iOS is executing but the gesture is not performed. Why and how to make the gesture executed?",
+      "Tags": [
+        "javascript",
+        "ios",
+        "npm",
+        "appium",
+        "webdriver-io-v4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783314/performaction-function-in-webdriverio-for-ios-is-executing-but-the-gesture-is-no"
+    }
+  ]
+}

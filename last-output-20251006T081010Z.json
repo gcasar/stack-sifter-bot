@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-06T07:57:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T07:10:57Z",
+      "Title": "Getting CORS error when calling ResMan API from frontend using jQuery and React/Axios",
+      "Tags": [
+        "javascript",
+        "cors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783424/getting-cors-error-when-calling-resman-api-from-frontend-using-jquery-and-react"
+    },
+    {
+      "Created": "2025-10-06T07:29:28Z",
+      "Title": "C\u002B\u002B/Qt: QODBC always ignores first row",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "odbc",
+        "qt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783433/c-qt-qodbc-always-ignores-first-row"
+    },
+    {
+      "Created": "2025-10-06T07:44:07Z",
+      "Title": "Expo react-native app on Android touch events not registered on samsung when screen magnification set to 1x",
+      "Tags": [
+        "android",
+        "react-native",
+        "expo",
+        "touch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783443/expo-react-native-app-on-android-touch-events-not-registered-on-samsung-when-scr"
+    },
+    {
+      "Created": "2025-10-06T07:57:26Z",
+      "Title": "How to correctly configure a Cloudflare Worker as a reverse proxy for Webflow and a WordPress subdirectory?",
+      "Tags": [
+        "wordpress",
+        "reverse-proxy",
+        "cloudflare",
+        "cloudflare-workers",
+        "webflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783450/how-to-correctly-configure-a-cloudflare-worker-as-a-reverse-proxy-for-webflow-an"
+    }
+  ]
+}

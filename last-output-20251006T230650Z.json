@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-06T23:04:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T22:13:06Z",
+      "Title": "How to correctly pass a filename with a single quote to ffmpeg\u0027s subtitles filter in Python?",
+      "Tags": [
+        "python",
+        "ffmpeg",
+        "subprocess",
+        "escaping",
+        "command-line-arguments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784113/how-to-correctly-pass-a-filename-with-a-single-quote-to-ffmpegs-subtitles-filte"
+    },
+    {
+      "Created": "2025-10-06T22:40:06Z",
+      "Title": "ModuleNotFoundError for installed module",
+      "Tags": [
+        "google-colaboratory",
+        "biopython"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784118/modulenotfounderror-for-installed-module"
+    },
+    {
+      "Created": "2025-10-06T22:42:02Z",
+      "Title": "No Audio in QEMU Virtual Machines under Fedora Host [closed]",
+      "Tags": [
+        "virtual-machine",
+        "fedora",
+        "qemu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784119/no-audio-in-qemu-virtual-machines-under-fedora-host"
+    },
+    {
+      "Created": "2025-10-06T23:04:16Z",
+      "Title": "How to retrieve Azerbaijani embeddings and answer in the user\u2019s language without normalizing input?",
+      "Tags": [
+        "nlp",
+        "multilingual",
+        "openai-api",
+        "openaiembeddings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784128/how-to-retrieve-azerbaijani-embeddings-and-answer-in-the-user-s-language-without"
+    }
+  ]
+}

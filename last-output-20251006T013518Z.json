@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-06T01:25:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T00:37:47Z",
+      "Title": "Unable to connect to bluetooth remote from Raspberry Pi Zero 2 W",
+      "Tags": [
+        "raspberry-pi",
+        "bluetooth",
+        "raspberry-pi-zero",
+        "raspberry-os"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783295/unable-to-connect-to-bluetooth-remote-from-raspberry-pi-zero-2-w"
+    },
+    {
+      "Created": "2025-10-06T00:39:00Z",
+      "Title": "How to use clang libraries in qtcreator?",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt-creator",
+        "libclang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783296/how-to-use-clang-libraries-in-qtcreator"
+    },
+    {
+      "Created": "2025-10-06T00:40:06Z",
+      "Title": "Subscribed to InterfaceAdded But no signal from dbus connection",
+      "Tags": [
+        "c",
+        "bluetooth",
+        "dbus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783297/subscribed-to-interfaceadded-but-no-signal-from-dbus-connection"
+    },
+    {
+      "Created": "2025-10-06T00:54:03Z",
+      "Title": "How do I effectively set up a variable file path in python, when the file needs to be read by a function?",
+      "Tags": [
+        "python",
+        "file",
+        "variables",
+        "hash",
+        "path"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783301/how-do-i-effectively-set-up-a-variable-file-path-in-python-when-the-file-needs"
+    },
+    {
+      "Created": "2025-10-06T00:56:55Z",
+      "Title": "How to prevent electron app from disappearing from the taskbar in windows when listening to \u0060window-all-closed\u0060 event in windows?",
+      "Tags": [
+        "node.js",
+        "terminal",
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783302/how-to-prevent-electron-app-from-disappearing-from-the-taskbar-in-windows-when-l"
+    },
+    {
+      "Created": "2025-10-06T01:06:32Z",
+      "Title": "Why does a cookie set with document.cookie in Safari show an expiration longer than 7 days under ITP?",
+      "Tags": [
+        "javascript",
+        "cookies",
+        "safari",
+        "privacy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783305/why-does-a-cookie-set-with-document-cookie-in-safari-show-an-expiration-longer-t"
+    },
+    {
+      "Created": "2025-10-06T01:19:28Z",
+      "Title": "uv is building projects without a [build-system] definition in the pyproject.toml",
+      "Tags": [
+        "python",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783307/uv-is-building-projects-without-a-build-system-definition-in-the-pyproject-tom"
+    },
+    {
+      "Created": "2025-10-06T01:25:35Z",
+      "Title": "Jump to single link from Python traceback",
+      "Tags": [
+        "python",
+        "hyperlink",
+        "traceback"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783308/jump-to-single-link-from-python-traceback"
+    }
+  ]
+}

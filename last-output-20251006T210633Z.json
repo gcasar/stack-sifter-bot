@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-06T21:00:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T20:24:42Z",
+      "Title": "Jitter points next to boxplot",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "plot",
+        "boxplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784045/jitter-points-next-to-boxplot"
+    },
+    {
+      "Created": "2025-10-06T20:44:12Z",
+      "Title": "Python virtual environment activated with incorrect path windows",
+      "Tags": [
+        "python",
+        "python-venv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784060/python-virtual-environment-activated-with-incorrect-path-windows"
+    },
+    {
+      "Created": "2025-10-06T20:51:48Z",
+      "Title": "Is It Possible to Accept Card Payments Online Without Using a Payment Gateway?",
+      "Tags": [
+        "payment-gateway",
+        "finance",
+        "payment-processing",
+        "banking",
+        "merchant-account"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784069/is-it-possible-to-accept-card-payments-online-without-using-a-payment-gateway"
+    },
+    {
+      "Created": "2025-10-06T20:53:47Z",
+      "Title": "How can I shortcut the unlimited-time SymPy expansion of all (a \u002B b*z**k) given some z(n,k)?",
+      "Tags": [
+        "python",
+        "math",
+        "sympy",
+        "mathematical-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784071/how-can-i-shortcut-the-unlimited-time-sympy-expansion-of-all-a-bzk-given"
+    },
+    {
+      "Created": "2025-10-06T21:00:00Z",
+      "Title": "Efficient way to build a histogram from a very large dataset (50GB, 600M rows) in Python or R",
+      "Tags": [
+        "python",
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784073/efficient-way-to-build-a-histogram-from-a-very-large-dataset-50gb-600m-rows-i"
+    },
+    {
+      "Created": "2025-10-06T21:00:42Z",
+      "Title": "Migrating from SVN to Perforce but files in the repo have @ signs",
+      "Tags": [
+        "svn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784074/migrating-from-svn-to-perforce-but-files-in-the-repo-have-signs"
+    }
+  ]
+}

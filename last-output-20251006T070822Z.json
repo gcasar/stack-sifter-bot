@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-06T06:57:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T06:34:16Z",
+      "Title": "videoElement freezes or glitches in WebKit WebView",
+      "Tags": [
+        "canvas",
+        "wkwebview",
+        "mediapipe",
+        "offscreen-canvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783407/videoelement-freezes-or-glitches-in-webkit-webview"
+    },
+    {
+      "Created": "2025-10-06T06:35:47Z",
+      "Title": "Qt Creator exits immediately without asking for confirmation",
+      "Tags": [
+        "qt-creator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783409/qt-creator-exits-immediately-without-asking-for-confirmation"
+    },
+    {
+      "Created": "2025-10-06T06:57:45Z",
+      "Title": "Is going from pyarrow chunkedarray to pyarrow table a zero-copy operation? How to check?",
+      "Tags": [
+        "python",
+        "pyarrow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783418/is-going-from-pyarrow-chunkedarray-to-pyarrow-table-a-zero-copy-operation-how-t"
+    }
+  ]
+}

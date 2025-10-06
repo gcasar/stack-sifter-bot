@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-06T14:02:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T13:50:25Z",
+      "Title": "Uncaught Error: [$injector:modulerr] received while attempting to run angular app",
+      "Tags": [
+        "html",
+        "angularjs",
+        "forms",
+        "rest",
+        "sharepoint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783764/uncaught-error-injectormodulerr-received-while-attempting-to-run-angular-ap"
+    },
+    {
+      "Created": "2025-10-06T13:53:42Z",
+      "Title": "Rust Sea-Orm get Model from ActiveModel::insert",
+      "Tags": [
+        "rust",
+        "sea-orm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783767/rust-sea-orm-get-model-from-activemodelinsert"
+    },
+    {
+      "Created": "2025-10-06T14:02:18Z",
+      "Title": "Can i set slurm job array size using another job file?",
+      "Tags": [
+        "cluster-computing",
+        "slurm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783772/can-i-set-slurm-job-array-size-using-another-job-file"
+    },
+    {
+      "Created": "2025-10-06T14:02:42Z",
+      "Title": "Submitted an API request, poll for job status updates then observed an issue where the job status never updates from \u0022pending\u0022",
+      "Tags": [
+        "json",
+        "rest",
+        "jenkins",
+        "logging",
+        "oauth-2.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783773/submitted-an-api-request-poll-for-job-status-updates-then-observed-an-issue-whe"
+    }
+  ]
+}

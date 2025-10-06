@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-05T23:58:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-05T23:26:42Z",
+      "Title": "Apache reverse proxy for Metabase Docker container with Laravel app on same VM \u2014 /metabase shows Laravel 404",
+      "Tags": [
+        "php",
+        "laravel",
+        "docker",
+        "apache",
+        "metabase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783273/apache-reverse-proxy-for-metabase-docker-container-with-laravel-app-on-same-vm"
+    },
+    {
+      "Created": "2025-10-05T23:42:17Z",
+      "Title": "Can a channel\u0027s Drop omit Acquire ordering, as in the Rust Atomics and Locks book?",
+      "Tags": [
+        "multithreading",
+        "rust",
+        "atomic",
+        "channel",
+        "memory-barriers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783279/can-a-channels-drop-omit-acquire-ordering-as-in-the-rust-atomics-and-locks-boo"
+    },
+    {
+      "Created": "2025-10-05T23:50:44Z",
+      "Title": "Integer overflow in dynamic programming - why is the answer still correct?",
+      "Tags": [
+        "java",
+        "recursion",
+        "dynamic-programming",
+        "memoization",
+        "integer-overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783282/integer-overflow-in-dynamic-programming-why-is-the-answer-still-correct"
+    },
+    {
+      "Created": "2025-10-05T23:58:52Z",
+      "Title": "Quick close-reopen of Android app with service, causes app to get stuck on splash screen",
+      "Tags": [
+        "java",
+        "android",
+        "mobile-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783285/quick-close-reopen-of-android-app-with-service-causes-app-to-get-stuck-on-splas"
+    }
+  ]
+}

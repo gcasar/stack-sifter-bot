@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-06T10:03:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T09:07:53Z",
+      "Title": "C# .NET DLL gives file access denied when called from third-party application",
+      "Tags": [
+        "c#",
+        ".net",
+        "scada"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783498/c-sharp-net-dll-gives-file-access-denied-when-called-from-third-party-applicati"
+    },
+    {
+      "Created": "2025-10-06T09:26:26Z",
+      "Title": "Automation - python \u002B selenium [closed]",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "automation",
+        "uvicorn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783514/automation-python-selenium"
+    },
+    {
+      "Created": "2025-10-06T09:47:28Z",
+      "Title": "Cannot emulate AR Scene using SceneView on M1 Pro macOS Tahoe in Android Studio",
+      "Tags": [
+        "kotlin",
+        "android-jetpack-compose",
+        "augmented-reality",
+        "sceneview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783532/cannot-emulate-ar-scene-using-sceneview-on-m1-pro-macos-tahoe-in-android-studio"
+    },
+    {
+      "Created": "2025-10-06T09:49:48Z",
+      "Title": "Python - Class Declaring error when the code is run, not sure what is the issue",
+      "Tags": [
+        "python-3.x",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783536/python-class-declaring-error-when-the-code-is-run-not-sure-what-is-the-issue"
+    },
+    {
+      "Created": "2025-10-06T09:54:12Z",
+      "Title": "xsl:try / xsl:catch - how to abort after the 10th error?",
+      "Tags": [
+        "xslt",
+        "xslt-3.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783540/xsltry-xslcatch-how-to-abort-after-the-10th-error"
+    },
+    {
+      "Created": "2025-10-06T09:57:13Z",
+      "Title": "Issue Importing Employee Data from Active Directory into ERP (Error: Object Reference Not Set to an Instance of an Object)",
+      "Tags": [
+        "dynamics-crm",
+        "microsoft-dynamics",
+        "crm",
+        "erp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783542/issue-importing-employee-data-from-active-directory-into-erp-error-object-refe"
+    },
+    {
+      "Created": "2025-10-06T10:00:23Z",
+      "Title": "Make.com automation creates duplicate rows in Google Sheets after parsing CSV",
+      "Tags": [
+        "csv",
+        "google-sheets",
+        "automation",
+        "make.com"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783546/make-com-automation-creates-duplicate-rows-in-google-sheets-after-parsing-csv"
+    },
+    {
+      "Created": "2025-10-06T10:03:35Z",
+      "Title": "Read/write to USB serial device while it\u0027s in use",
+      "Tags": [
+        "c#",
+        "serial-port",
+        "usb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783550/read-write-to-usb-serial-device-while-its-in-use"
+    }
+  ]
+}

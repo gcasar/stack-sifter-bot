@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-06T15:05:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T14:35:02Z",
+      "Title": "How to connect Blazor Azure Static Web App to on-premise SQL Server cost-effectively?",
+      "Tags": [
+        "sql-server",
+        "azure",
+        "azure-functions",
+        "blazor",
+        "vpn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783804/how-to-connect-blazor-azure-static-web-app-to-on-premise-sql-server-cost-effecti"
+    },
+    {
+      "Created": "2025-10-06T14:42:41Z",
+      "Title": "What is the advantage of cobalt::generator over cppcoro::async_generator?",
+      "Tags": [
+        "c\u002B\u002B-coroutine",
+        "cppcoro",
+        "boost-cobalt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783814/what-is-the-advantage-of-cobaltgenerator-over-cppcoroasync-generator"
+    },
+    {
+      "Created": "2025-10-06T14:50:42Z",
+      "Title": "Asio\u0027s child agents example [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost-asio",
+        "asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783815/asios-child-agents-example"
+    },
+    {
+      "Created": "2025-10-06T14:58:31Z",
+      "Title": "How can I use navigationDestination for cross linking in a NavigationSplitView",
+      "Tags": [
+        "swiftui",
+        "swiftui-navigationlink",
+        "swiftui-navigationstack",
+        "swiftui-navigationsplitview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783819/how-can-i-use-navigationdestination-for-cross-linking-in-a-navigationsplitview"
+    },
+    {
+      "Created": "2025-10-06T15:03:37Z",
+      "Title": "Is there any way to setup azure function/triggers progmatically without the Function/Trigger attributes?",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783823/is-there-any-way-to-setup-azure-function-triggers-progmatically-without-the-func"
+    },
+    {
+      "Created": "2025-10-06T15:05:17Z",
+      "Title": "How to automatically delete local .mp4 files from pod filesystem every 5 minutes (without shared PVC)?",
+      "Tags": [
+        "kubernetes",
+        "sftp",
+        "kubernetes-cronjob",
+        "sidecar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783826/how-to-automatically-delete-local-mp4-files-from-pod-filesystem-every-5-minutes"
+    }
+  ]
+}

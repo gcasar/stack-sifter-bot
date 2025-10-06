@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-06T18:54:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T18:10:58Z",
+      "Title": "How do I get polars.Expr.str.json_decode to decode simple map to List(Struct({\u0027key\u0027: String, \u0027value\u0027: Int32}))?",
+      "Tags": [
+        "python",
+        "dataframe",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783956/how-do-i-get-polars-expr-str-json-decode-to-decode-simple-map-to-liststructk"
+    },
+    {
+      "Created": "2025-10-06T18:41:29Z",
+      "Title": "CS50 Finance: check50 fails \u0022buy handles valid purchase\u0022 with expected to find \u0022112.00\u0022",
+      "Tags": [
+        "python",
+        "flask",
+        "jinja2",
+        "cs50"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783975/cs50-finance-check50-fails-buy-handles-valid-purchase-with-expected-to-find"
+    },
+    {
+      "Created": "2025-10-06T18:45:42Z",
+      "Title": "Injecting script tags using javascript",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783980/injecting-script-tags-using-javascript"
+    },
+    {
+      "Created": "2025-10-06T18:54:00Z",
+      "Title": "How to forbid to read from secondary",
+      "Tags": [
+        "mongodb",
+        "mongodb-replica-set"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783988/how-to-forbid-to-read-from-secondary"
+    }
+  ]
+}

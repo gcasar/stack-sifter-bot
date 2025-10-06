@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-06T04:43:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T04:30:55Z",
+      "Title": "Why does mouse look feel jittery in winit \u002B wgpu despite smooth frame rendering?",
+      "Tags": [
+        "rust",
+        "graphics",
+        "3d",
+        "wgpu-rs",
+        "winit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783359/why-does-mouse-look-feel-jittery-in-winit-wgpu-despite-smooth-frame-rendering"
+    },
+    {
+      "Created": "2025-10-06T04:43:33Z",
+      "Title": "How to stream responses token-by-token from OpenAI ChatGPT API using Python?",
+      "Tags": [
+        "python",
+        "openai-api",
+        "chatgpt-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783362/how-to-stream-responses-token-by-token-from-openai-chatgpt-api-using-python"
+    }
+  ]
+}

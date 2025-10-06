@@ -1,0 +1,128 @@
+{
+  "TotalProcessed": 12,
+  "LastCreated": "2025-10-06T18:03:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T17:08:22Z",
+      "Title": "Python synchronous generators with async/await",
+      "Tags": [
+        "python",
+        "async-await"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783923/python-synchronous-generators-with-async-await"
+    },
+    {
+      "Created": "2025-10-06T17:21:06Z",
+      "Title": "py-irt library clib.pyx folder not found",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783930/py-irt-library-clib-pyx-folder-not-found"
+    },
+    {
+      "Created": "2025-10-06T17:23:24Z",
+      "Title": "Pyserial script working on Windows but not on linux on /dev/ttyACM*",
+      "Tags": [
+        "linux",
+        "raspberry-pi",
+        "embedded",
+        "pyserial"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783932/pyserial-script-working-on-windows-but-not-on-linux-on-dev-ttyacm"
+    },
+    {
+      "Created": "2025-10-06T17:23:57Z",
+      "Title": "How to accept both compressed and uncompressed data from a pipe?",
+      "Tags": [
+        "c",
+        "pipe",
+        "zlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783933/how-to-accept-both-compressed-and-uncompressed-data-from-a-pipe"
+    },
+    {
+      "Created": "2025-10-06T17:33:13Z",
+      "Title": "How to write data to a MIFARE DESFire card (OSS-SO) using Python-DESFire and an ACS ACR1281 1S reader?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "linux",
+        "mifare",
+        "desfire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783935/how-to-write-data-to-a-mifare-desfire-card-oss-so-using-python-desfire-and-an"
+    },
+    {
+      "Created": "2025-10-06T17:35:04Z",
+      "Title": "Change backspace to x08 instead of x7f before login prompt",
+      "Tags": [
+        "linux",
+        "backspace",
+        "rhel9"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783936/change-backspace-to-x08-instead-of-x7f-before-login-prompt"
+    },
+    {
+      "Created": "2025-10-06T17:37:03Z",
+      "Title": "Why does len in python give me the wrong length",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783938/why-does-len-in-python-give-me-the-wrong-length"
+    },
+    {
+      "Created": "2025-10-06T17:51:38Z",
+      "Title": "Setting up vscode for debugging containers",
+      "Tags": [
+        "asp.net-core",
+        "debugging",
+        "containers",
+        "vscode-debugger",
+        "vscode-devcontainer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783947/setting-up-vscode-for-debugging-containers"
+    },
+    {
+      "Created": "2025-10-06T17:52:26Z",
+      "Title": "Why can\u0027t I establish a connection in between winsock and socket in a cross-platform setting?",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "windows",
+        "network-programming",
+        "tcp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783948/why-cant-i-establish-a-connection-in-between-winsock-and-socket-in-a-cross-plat"
+    },
+    {
+      "Created": "2025-10-06T17:59:42Z",
+      "Title": "Python Release - Creating windows installer (exe or msi) from tgz package",
+      "Tags": [
+        "python",
+        "windows-installer",
+        "exe",
+        "python-3.12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783952/python-release-creating-windows-installer-exe-or-msi-from-tgz-package"
+    },
+    {
+      "Created": "2025-10-06T18:02:33Z",
+      "Title": "How to predict customer satisfaction for a tattoo studio using machine learning?",
+      "Tags": [
+        "python",
+        "machine-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783954/how-to-predict-customer-satisfaction-for-a-tattoo-studio-using-machine-learning"
+    },
+    {
+      "Created": "2025-10-06T18:03:59Z",
+      "Title": "Empty excel of mean values of gray matter volumes in cat12",
+      "Tags": [
+        "matlab",
+        "export-to-csv",
+        "mri"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783955/empty-excel-of-mean-values-of-gray-matter-volumes-in-cat12"
+    }
+  ]
+}

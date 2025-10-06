@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-06T09:06:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T08:27:38Z",
+      "Title": "Fatal Python error: Segmentation fault for MACOS 15.6.1 for correct code",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "macos",
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783472/fatal-python-error-segmentation-fault-for-macos-15-6-1-for-correct-code"
+    },
+    {
+      "Created": "2025-10-06T08:52:10Z",
+      "Title": "Overriding Browser\u0027s Keyboard Shortcuts 2",
+      "Tags": [
+        "javascript",
+        "event-handling",
+        "listener",
+        "keyboard-shortcuts",
+        "preventdefault"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783483/overriding-browsers-keyboard-shortcuts-2"
+    },
+    {
+      "Created": "2025-10-06T08:54:28Z",
+      "Title": "Why is this regex just returning the part in brackets? [duplicate]",
+      "Tags": [
+        "regex",
+        "ruby"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783486/why-is-this-regex-just-returning-the-part-in-brackets"
+    },
+    {
+      "Created": "2025-10-06T08:55:39Z",
+      "Title": "Reusing a fixture many times in a single class",
+      "Tags": [
+        "python",
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783487/reusing-a-fixture-many-times-in-a-single-class"
+    },
+    {
+      "Created": "2025-10-06T09:01:34Z",
+      "Title": "Why does the switch statement not just automatically \u0022break\u0022 after each \u0022case\u0022? [duplicate]",
+      "Tags": [
+        "javascript",
+        "switch-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783491/why-does-the-switch-statement-not-just-automatically-break-after-each-case"
+    },
+    {
+      "Created": "2025-10-06T09:06:43Z",
+      "Title": "CLion remote development: source environment variables before running remote or building",
+      "Tags": [
+        "clion",
+        "jetbrains-ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783496/clion-remote-development-source-environment-variables-before-running-remote-or"
+    }
+  ]
+}

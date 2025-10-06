@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-06T06:10:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-06T05:09:54Z",
+      "Title": "luarocks init not injecting project tree into lua wrapper package.path",
+      "Tags": [
+        "lua",
+        "luarocks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783370/luarocks-init-not-injecting-project-tree-into-lua-wrapper-package-path"
+    },
+    {
+      "Created": "2025-10-06T05:59:07Z",
+      "Title": "How to fit content to visible area of zoomed mobile browser?",
+      "Tags": [
+        "html",
+        "css",
+        "mobile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783383/how-to-fit-content-to-visible-area-of-zoomed-mobile-browser"
+    },
+    {
+      "Created": "2025-10-06T06:02:33Z",
+      "Title": "avr-gcc: error: -fuse-linker-plugin is not supported in this configuration",
+      "Tags": [
+        "gcc",
+        "linker",
+        "avr-gcc",
+        "lto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783388/avr-gcc-error-fuse-linker-plugin-is-not-supported-in-this-configuration"
+    },
+    {
+      "Created": "2025-10-06T06:05:49Z",
+      "Title": "Enterprise Architect And Database Management",
+      "Tags": [
+        "database",
+        "diagram",
+        "enterprise-architect",
+        "traceability"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783393/enterprise-architect-and-database-management"
+    },
+    {
+      "Created": "2025-10-06T06:10:13Z",
+      "Title": "How to check if a BroadcastReceiver exists in another app?",
+      "Tags": [
+        "android",
+        "android-intent",
+        "broadcastreceiver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79783395/how-to-check-if-a-broadcastreceiver-exists-in-another-app"
+    }
+  ]
+}

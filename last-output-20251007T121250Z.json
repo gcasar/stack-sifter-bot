@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-07T12:09:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T11:53:20Z",
+      "Title": "How to shade every other y-axis label row (including labels \u002B points)?",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784506/how-to-shade-every-other-y-axis-label-row-including-labels-points"
+    },
+    {
+      "Created": "2025-10-07T11:58:17Z",
+      "Title": "Can\u0027t install self-hosted runner in organization globally",
+      "Tags": [
+        "github-actions",
+        "failed-installation",
+        "github-actions-self-hosted-runners"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784509/cant-install-self-hosted-runner-in-organization-globally"
+    },
+    {
+      "Created": "2025-10-07T12:01:16Z",
+      "Title": "How do I transform this ESLint setup to fully support TypeScript files",
+      "Tags": [
+        "typescript",
+        "eslint",
+        "typescript-eslint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784511/how-do-i-transform-this-eslint-setup-to-fully-support-typescript-files"
+    },
+    {
+      "Created": "2025-10-07T12:03:25Z",
+      "Title": "Arabic text gets corrupted to \u0022E1-(\u0027 (\u0027D9\u0027DE\u0022 when creating PDF annotations with @iwater/annotpdf library",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript",
+        "pdf",
+        "unicode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784513/arabic-text-gets-corrupted-to-e1-d9de-when-creating-pdf-annotations-with"
+    },
+    {
+      "Created": "2025-10-07T12:08:51Z",
+      "Title": "C# array[i] where i is IBinaryInteger\u003CT\u003E?",
+      "Tags": [
+        "arrays",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784520/c-sharp-arrayi-where-i-is-ibinaryintegert"
+    },
+    {
+      "Created": "2025-10-07T12:09:22Z",
+      "Title": "Why do my labels and highlight points plot far from the data in tidyplots boxplot?",
+      "Tags": [
+        "r",
+        "plot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784521/why-do-my-labels-and-highlight-points-plot-far-from-the-data-in-tidyplots-boxplo"
+    }
+  ]
+}

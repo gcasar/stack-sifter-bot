@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-07T03:15:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T02:41:49Z",
+      "Title": "RealityKit hitTest gives wrong result when changing field of view",
+      "Tags": [
+        "ios",
+        "realitykit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784180/realitykit-hittest-gives-wrong-result-when-changing-field-of-view"
+    },
+    {
+      "Created": "2025-10-07T03:01:18Z",
+      "Title": "How to link with static version of zlib in CMake?",
+      "Tags": [
+        "windows",
+        "cmake",
+        "zlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784185/how-to-link-with-static-version-of-zlib-in-cmake"
+    },
+    {
+      "Created": "2025-10-07T03:15:56Z",
+      "Title": "How to invoke showdialog in asynchronous contexts?",
+      "Tags": [
+        "flutter",
+        "dart",
+        "async-await"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784187/how-to-invoke-showdialog-in-asynchronous-contexts"
+    }
+  ]
+}

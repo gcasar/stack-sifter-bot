@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-07T04:51:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T04:12:41Z",
+      "Title": "Tailscale private HTTPS setup with single certificate \u2013 subdomains not resolving",
+      "Tags": [
+        "ssl",
+        "dns",
+        "tailscale",
+        "coolify",
+        "cert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784205/tailscale-private-https-setup-with-single-certificate-subdomains-not-resolving"
+    },
+    {
+      "Created": "2025-10-07T04:19:14Z",
+      "Title": "Toggle the inclusion/Exclusion of different series from Vega charts through Legends",
+      "Tags": [
+        "vega-lite",
+        "vega",
+        "vega-lite-api",
+        "vega-embed"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784207/toggle-the-inclusion-exclusion-of-different-series-from-vega-charts-through-lege"
+    },
+    {
+      "Created": "2025-10-07T04:28:11Z",
+      "Title": "inherit generic class and use concrete parameters",
+      "Tags": [
+        "c#",
+        "generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784209/inherit-generic-class-and-use-concrete-parameters"
+    },
+    {
+      "Created": "2025-10-07T04:36:13Z",
+      "Title": "Kaspersky Security Center 12.2 upgrade to version 15 fails \u2014 SQL Server error in Event [closed]",
+      "Tags": [
+        "sql-server",
+        "installation",
+        "windows-10",
+        "upgrade",
+        "kaspersky"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784211/kaspersky-security-center-12-2-upgrade-to-version-15-fails-sql-server-error-in"
+    },
+    {
+      "Created": "2025-10-07T04:39:44Z",
+      "Title": "Find Previous Non-Null Value in table with many products",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784212/find-previous-non-null-value-in-table-with-many-products"
+    },
+    {
+      "Created": "2025-10-07T04:51:23Z",
+      "Title": "how to use cordova-plugin-purchase to enable in app purchases in android for React DOM \u002B Capacitor",
+      "Tags": [
+        "reactjs",
+        "in-app-purchase",
+        "capacitor",
+        "android-inapp-purchase",
+        "cordova-plugin-purchase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784214/how-to-use-cordova-plugin-purchase-to-enable-in-app-purchases-in-android-for-rea"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-07T16:51:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T16:32:13Z",
+      "Title": "The postgres update in docker compose broke the database",
+      "Tags": [
+        "linux",
+        "postgresql",
+        "docker",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784758/the-postgres-update-in-docker-compose-broke-the-database"
+    },
+    {
+      "Created": "2025-10-07T16:37:07Z",
+      "Title": "How to directly test ActionController::RoutingError for an invalid path in Ruby-on-Rails-7.1?",
+      "Tags": [
+        "ruby-on-rails",
+        "unit-testing",
+        "testing",
+        "routes",
+        "ruby-on-rails-7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784762/how-to-directly-test-actioncontrollerroutingerror-for-an-invalid-path-in-ruby"
+    },
+    {
+      "Created": "2025-10-07T16:46:21Z",
+      "Title": "Is there a faster way to find whether a graph contains another as a subgraph than sage\u0027s subgraph_search?",
+      "Tags": [
+        "python",
+        "networkx",
+        "graph-theory",
+        "sage",
+        "graph-tool"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784765/is-there-a-faster-way-to-find-whether-a-graph-contains-another-as-a-subgraph-tha"
+    },
+    {
+      "Created": "2025-10-07T16:49:23Z",
+      "Title": "MariaBackup --prepare keeps state at \u0022log-applied\u0022, not \u0022full-prepared\u0022",
+      "Tags": [
+        "mysql",
+        "mariadb",
+        "backup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784768/mariabackup-prepare-keeps-state-at-log-applied-not-full-prepared"
+    },
+    {
+      "Created": "2025-10-07T16:51:08Z",
+      "Title": "How to calculate average score per module in Pentaho Data Integration (PDI)?",
+      "Tags": [
+        "etl",
+        "pentaho",
+        "data-warehouse",
+        "pentaho-spoon",
+        "pentaho-data-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784769/how-to-calculate-average-score-per-module-in-pentaho-data-integration-pdi"
+    }
+  ]
+}

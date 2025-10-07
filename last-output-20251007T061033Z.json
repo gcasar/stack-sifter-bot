@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-07T06:02:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T05:33:55Z",
+      "Title": "Spring Cloud Stream: Application not consuming from second topic with multiple input bindings",
+      "Tags": [
+        "spring-boot",
+        "apache-kafka",
+        "spring-cloud-stream",
+        "spring-cloud-stream-binder-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784229/spring-cloud-stream-application-not-consuming-from-second-topic-with-multiple-i"
+    },
+    {
+      "Created": "2025-10-07T05:46:52Z",
+      "Title": "Netty Cleanup Spring Boot Tomcat WAR",
+      "Tags": [
+        "spring-boot",
+        "tomcat",
+        "netty"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784235/netty-cleanup-spring-boot-tomcat-war"
+    },
+    {
+      "Created": "2025-10-07T05:52:07Z",
+      "Title": "NFS: How to fix libnfsidmap1 in ubuntu [closed]",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "package",
+        "apt",
+        "nfs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784237/nfs-how-to-fix-libnfsidmap1-in-ubuntu"
+    },
+    {
+      "Created": "2025-10-07T06:02:46Z",
+      "Title": "How to deal with too many singular values smaller than machine epsilon when finding lambda using L-curve?",
+      "Tags": [
+        "svd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784239/how-to-deal-with-too-many-singular-values-smaller-than-machine-epsilon-when-find"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-07T00:20:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T00:12:00Z",
+      "Title": "Why does Stripe CLI return \u0022unknown flag: --card.number\u0022?",
+      "Tags": [
+        "stripe-payments",
+        "card",
+        "payment-method"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784148/why-does-stripe-cli-return-unknown-flag-card-number"
+    },
+    {
+      "Created": "2025-10-07T00:20:24Z",
+      "Title": "How to add List-Unsubscribe header using Classic ASP and CDOSYS",
+      "Tags": [
+        "asp-classic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784151/how-to-add-list-unsubscribe-header-using-classic-asp-and-cdosys"
+    }
+  ]
+}

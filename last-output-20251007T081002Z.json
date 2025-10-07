@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-07T08:05:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T07:33:04Z",
+      "Title": "How do I extract symptoms from a list of texts that are not in an existing database?",
+      "Tags": [
+        "python",
+        "pandas",
+        "nlp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784296/how-do-i-extract-symptoms-from-a-list-of-texts-that-are-not-in-an-existing-datab"
+    },
+    {
+      "Created": "2025-10-07T07:42:50Z",
+      "Title": "Moving forward in git history (reverse of git blame)",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784302/moving-forward-in-git-history-reverse-of-git-blame"
+    },
+    {
+      "Created": "2025-10-07T08:02:10Z",
+      "Title": "Hardhat3: How to deploy smartcontract in script on localhost?",
+      "Tags": [
+        "javascript",
+        "smartcontracts",
+        "hardhat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784312/hardhat3-how-to-deploy-smartcontract-in-script-on-localhost"
+    },
+    {
+      "Created": "2025-10-07T08:04:57Z",
+      "Title": "Why does str.split() without arguments collapse multiple spaces, but str.split(\u0027 \u0027) produces empty strings?",
+      "Tags": [
+        "python",
+        "string",
+        "split",
+        "whitespace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784315/why-does-str-split-without-arguments-collapse-multiple-spaces-but-str-split"
+    },
+    {
+      "Created": "2025-10-07T08:05:04Z",
+      "Title": "Add a ZPL II label printing feature",
+      "Tags": [
+        "odoo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784316/add-a-zpl-ii-label-printing-feature"
+    },
+    {
+      "Created": "2025-10-07T08:05:18Z",
+      "Title": "Right way to Load preloaded items in Paging3",
+      "Tags": [
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784317/right-way-to-load-preloaded-items-in-paging3"
+    }
+  ]
+}

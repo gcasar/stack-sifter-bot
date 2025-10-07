@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-07T10:54:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T10:18:20Z",
+      "Title": "Can\u0027t pipeline array with one element",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784443/cant-pipeline-array-with-one-element"
+    },
+    {
+      "Created": "2025-10-07T10:50:56Z",
+      "Title": "How to implement inbound PSTN calls to Matrix rooms using a Node.js App Service with LiveKit SIP",
+      "Tags": [
+        "node.js",
+        "matrix",
+        "element",
+        "livekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784462/how-to-implement-inbound-pstn-calls-to-matrix-rooms-using-a-node-js-app-service"
+    },
+    {
+      "Created": "2025-10-07T10:53:11Z",
+      "Title": "PostgreSQL correlated query ignore WHERE clause (runnable example)",
+      "Tags": [
+        "sql",
+        "database",
+        "postgresql",
+        "subquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784467/postgresql-correlated-query-ignore-where-clause-runnable-example"
+    },
+    {
+      "Created": "2025-10-07T10:54:12Z",
+      "Title": "How to migrate metadata from Airflow 2.0.x to 3.0.x?",
+      "Tags": [
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784468/how-to-migrate-metadata-from-airflow-2-0-x-to-3-0-x"
+    }
+  ]
+}

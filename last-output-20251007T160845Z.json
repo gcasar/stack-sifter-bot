@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-07T16:03:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T15:20:47Z",
+      "Title": "how to use the win32gui.findwindows when the name of the titlebar your searching for is always changing",
+      "Tags": [
+        "python",
+        "pywin32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784701/how-to-use-the-win32gui-findwindows-when-the-name-of-the-titlebar-your-searching"
+    },
+    {
+      "Created": "2025-10-07T15:43:13Z",
+      "Title": "Plotly Subplots - Overlaying xaxis in a plot in a particular column",
+      "Tags": [
+        "python",
+        "plotly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784715/plotly-subplots-overlaying-xaxis-in-a-plot-in-a-particular-column"
+    },
+    {
+      "Created": "2025-10-07T15:46:23Z",
+      "Title": "Microsoft Graph API: 400 InvalidRequest \u201CCould not process subscription creation payload\u201D when creating SharePoint List subscription via n8n",
+      "Tags": [
+        "sharepoint",
+        "microsoft-graph-api",
+        "webhooks",
+        "subscribe",
+        "n8n"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784717/microsoft-graph-api-400-invalidrequest-could-not-process-subscription-creation"
+    },
+    {
+      "Created": "2025-10-07T15:46:34Z",
+      "Title": "Can Cronet be configured to allow HTTP requests?",
+      "Tags": [
+        "android",
+        "mobile",
+        "configuration",
+        "cronet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784718/can-cronet-be-configured-to-allow-http-requests"
+    },
+    {
+      "Created": "2025-10-07T15:50:26Z",
+      "Title": "Can no longer upload more than four videos a day with YouTube Data API v3 despite having massive quota [closed]",
+      "Tags": [
+        "youtube-api",
+        "youtube-data-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784720/can-no-longer-upload-more-than-four-videos-a-day-with-youtube-data-api-v3-despit"
+    },
+    {
+      "Created": "2025-10-07T15:51:42Z",
+      "Title": "mutate(across(map())): Any way to include the column name in a .progress message from map()?",
+      "Tags": [
+        "r",
+        "dplyr",
+        "purrr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784722/mutateacrossmap-any-way-to-include-the-column-name-in-a-progress-message"
+    },
+    {
+      "Created": "2025-10-07T16:03:03Z",
+      "Title": "Highlight affected lung regions in chest X-rays using Python, Django, and CNN in a web-based pneumonia detection app",
+      "Tags": [
+        "python",
+        "django",
+        "deep-learning",
+        "computer-vision",
+        "conv-neural-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784736/highlight-affected-lung-regions-in-chest-x-rays-using-python-django-and-cnn-in"
+    }
+  ]
+}

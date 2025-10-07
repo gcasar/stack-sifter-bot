@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-07T22:56:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T22:11:42Z",
+      "Title": "Is there a way to directly write to local CSV files using a browser exetntion or somehow make it communicate with a local program",
+      "Tags": [
+        "javascript",
+        "csv",
+        "browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784965/is-there-a-way-to-directly-write-to-local-csv-files-using-a-browser-exetntion-or"
+    },
+    {
+      "Created": "2025-10-07T22:34:07Z",
+      "Title": "Wrap \u0060jax.lax.fori_loop\u0060 to systematically override \u0060upper\u003C=lower\u0060 tracing behavior",
+      "Tags": [
+        "python",
+        "for-loop",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784971/wrap-jax-lax-fori-loop-to-systematically-override-upper-lower-tracing-behav"
+    },
+    {
+      "Created": "2025-10-07T22:40:30Z",
+      "Title": "Calculate Duration in SQLite from M/D/YYYY H:MM:SS Text and Format as h:mm:ss",
+      "Tags": [
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784972/calculate-duration-in-sqlite-from-m-d-yyyy-hmmss-text-and-format-as-hmmss"
+    },
+    {
+      "Created": "2025-10-07T22:46:34Z",
+      "Title": "Where am I wrong with writing transition from protected mode to IA-32e mode?",
+      "Tags": [
+        "assembly",
+        "kernel",
+        "x86-64",
+        "nasm",
+        "bootloader"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784975/where-am-i-wrong-with-writing-transition-from-protected-mode-to-ia-32e-mode"
+    },
+    {
+      "Created": "2025-10-07T22:56:52Z",
+      "Title": "Importing a table from a webpage as a dataframe in Python",
+      "Tags": [
+        "python",
+        "pandas",
+        "web-scraping"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784978/importing-a-table-from-a-webpage-as-a-dataframe-in-python"
+    }
+  ]
+}

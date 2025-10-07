@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-07T18:07:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T17:14:02Z",
+      "Title": "a git defect has caused git to mark moved files as deleted, how to force git to rescan the project to correct this error?",
+      "Tags": [
+        "git",
+        "delta",
+        "git-stage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784782/a-git-defect-has-caused-git-to-mark-moved-files-as-deleted-how-to-force-git-to"
+    },
+    {
+      "Created": "2025-10-07T17:32:36Z",
+      "Title": "Resolve ingress rule hosts inside/outside cluster",
+      "Tags": [
+        "kubernetes",
+        "dns",
+        "kubernetes-ingress",
+        "nginx-ingress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784791/resolve-ingress-rule-hosts-inside-outside-cluster"
+    },
+    {
+      "Created": "2025-10-07T17:51:01Z",
+      "Title": "Does excessive use of [[likely]] and [[unlikely]] really degrade program performance in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "likely-unlikely"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784809/does-excessive-use-of-likely-and-unlikely-really-degrade-program-perform"
+    },
+    {
+      "Created": "2025-10-07T17:53:40Z",
+      "Title": "External TCP port ingress stopped working for Azure Container App (Mailcatcher)",
+      "Tags": [
+        "smtp",
+        "azure-container-apps",
+        "mailcatcher"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784810/external-tcp-port-ingress-stopped-working-for-azure-container-app-mailcatcher"
+    },
+    {
+      "Created": "2025-10-07T18:01:25Z",
+      "Title": "Deploying an Azure Python Webjob on Linux",
+      "Tags": [
+        "python",
+        "linux",
+        "azure",
+        "azure-web-app-service",
+        "azure-webjobs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784814/deploying-an-azure-python-webjob-on-linux"
+    },
+    {
+      "Created": "2025-10-07T18:04:41Z",
+      "Title": "Django runserver returns ERR_CONNECTION_RESET on Windows 11 (no errors in terminal)",
+      "Tags": [
+        "python",
+        "django",
+        "windows",
+        "localhost"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784815/django-runserver-returns-err-connection-reset-on-windows-11-no-errors-in-termin"
+    },
+    {
+      "Created": "2025-10-07T18:07:26Z",
+      "Title": "Scala spark: Why does DataFrame.transform calling a transform hang?",
+      "Tags": [
+        "dataframe",
+        "scala",
+        "apache-spark",
+        "apache-spark-sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784816/scala-spark-why-does-dataframe-transform-calling-a-transform-hang"
+    }
+  ]
+}

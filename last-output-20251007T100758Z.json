@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-07T10:03:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T09:33:56Z",
+      "Title": "Issue with generics in Java extending another class and Spring ParameterizedTypeReference",
+      "Tags": [
+        "spring-boot",
+        "generics",
+        "spring-restclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784394/issue-with-generics-in-java-extending-another-class-and-spring-parameterizedtype"
+    },
+    {
+      "Created": "2025-10-07T09:49:57Z",
+      "Title": "Reduex tool kit and zustand in the same project",
+      "Tags": [
+        "frontend",
+        "redux-toolkit",
+        "zustand"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784413/reduex-tool-kit-and-zustand-in-the-same-project"
+    },
+    {
+      "Created": "2025-10-07T10:03:43Z",
+      "Title": "Openpyxl conditional formatting if cell among list values",
+      "Tags": [
+        "python",
+        "excel",
+        "openpyxl",
+        "conditional-formatting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784428/openpyxl-conditional-formatting-if-cell-among-list-values"
+    },
+    {
+      "Created": "2025-10-07T10:03:50Z",
+      "Title": "polars-u64-idx not available for latest version",
+      "Tags": [
+        "python",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784429/polars-u64-idx-not-available-for-latest-version"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-07T21:03:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T20:46:14Z",
+      "Title": "Filter input element allow number and / only",
+      "Tags": [
+        "html",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784924/filter-input-element-allow-number-and-only"
+    },
+    {
+      "Created": "2025-10-07T20:47:48Z",
+      "Title": "Why does ggplot legend not display some categories when color is mapped conditionally?",
+      "Tags": [
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784925/why-does-ggplot-legend-not-display-some-categories-when-color-is-mapped-conditio"
+    },
+    {
+      "Created": "2025-10-07T20:51:35Z",
+      "Title": "how to see full error message from emacs verilog-batch-auto",
+      "Tags": [
+        "emacs",
+        "verilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784929/how-to-see-full-error-message-from-emacs-verilog-batch-auto"
+    },
+    {
+      "Created": "2025-10-07T21:03:35Z",
+      "Title": "Numpy random normal test",
+      "Tags": [
+        "python",
+        "numpy",
+        "p-value",
+        "seed",
+        "scipy.stats"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784932/numpy-random-normal-test"
+    }
+  ]
+}

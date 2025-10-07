@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-07T03:45:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T03:16:03Z",
+      "Title": "call CreateUserComand handler",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "mediator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784188/call-createusercomand-handler"
+    },
+    {
+      "Created": "2025-10-07T03:20:44Z",
+      "Title": "Agora Flutter video call works on Android but crashes instantly on iOS",
+      "Tags": [
+        "flutter",
+        "dart",
+        "video-streaming",
+        "agora.io",
+        "agora"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784189/agora-flutter-video-call-works-on-android-but-crashes-instantly-on-ios"
+    },
+    {
+      "Created": "2025-10-07T03:23:16Z",
+      "Title": "React safe way to render children",
+      "Tags": [
+        "react-hooks",
+        "package",
+        "render",
+        "children"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784190/react-safe-way-to-render-children"
+    },
+    {
+      "Created": "2025-10-07T03:30:39Z",
+      "Title": "Spring Data JDBC inserts varchar into Postgres jsonb column even with custom PGobject converter",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "spring-data",
+        "spring-data-jdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784193/spring-data-jdbc-inserts-varchar-into-postgres-jsonb-column-even-with-custom-pgo"
+    },
+    {
+      "Created": "2025-10-07T03:41:37Z",
+      "Title": "What does \u201Cplanning an API\u201D mean before starting backend development? [closed]",
+      "Tags": [
+        "node.js",
+        "rest",
+        "backend",
+        "mern",
+        "api-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784198/what-does-planning-an-api-mean-before-starting-backend-development"
+    },
+    {
+      "Created": "2025-10-07T03:45:56Z",
+      "Title": "Google Firebase GenKit testing input in the local UI",
+      "Tags": [
+        "firebase-genkit",
+        "genkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784200/google-firebase-genkit-testing-input-in-the-local-ui"
+    }
+  ]
+}

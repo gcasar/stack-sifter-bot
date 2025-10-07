@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-07T21:20:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T21:20:43Z",
+      "Title": "godot asteroids clone spawns too many asteroids when hit. sometimes the bullets collide with nothing and spawn asteroids that only grow when hit",
+      "Tags": [
+        "godot",
+        "2d-games",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784945/godot-asteroids-clone-spawns-too-many-asteroids-when-hit-sometimes-the-bullets"
+    }
+  ]
+}

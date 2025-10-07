@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-07T14:05:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T13:49:46Z",
+      "Title": "How to insert into postgres temporal tables with kyselyjs?",
+      "Tags": [
+        "typescript",
+        "postgresql",
+        "zod",
+        "kysely"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784613/how-to-insert-into-postgres-temporal-tables-with-kyselyjs"
+    },
+    {
+      "Created": "2025-10-07T13:52:44Z",
+      "Title": "Python encoding in windows. No output",
+      "Tags": [
+        "python",
+        "powershell",
+        "encoding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784616/python-encoding-in-windows-no-output"
+    },
+    {
+      "Created": "2025-10-07T13:53:06Z",
+      "Title": "Are there any tools that automatically sync a C\u002B\u002B header with its implementation? [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "automation",
+        "header",
+        "implementation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784617/are-there-any-tools-that-automatically-sync-a-c-header-with-its-implementation"
+    },
+    {
+      "Created": "2025-10-07T13:56:52Z",
+      "Title": "Oracle SubProcedure",
+      "Tags": [
+        "plsql",
+        "oracle-sqldeveloper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784622/oracle-subprocedure"
+    },
+    {
+      "Created": "2025-10-07T13:59:19Z",
+      "Title": "nrf91 / nrf connect sdk - cJSON not working when file is cpp instead of c",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "compiler-errors",
+        "nrf-connect",
+        "nrf91"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784623/nrf91-nrf-connect-sdk-cjson-not-working-when-file-is-cpp-instead-of-c"
+    },
+    {
+      "Created": "2025-10-07T14:05:04Z",
+      "Title": "What options are there to share an azure workbook with other users?",
+      "Tags": [
+        "azure",
+        "powerbi",
+        "azure-monitor-workbooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784630/what-options-are-there-to-share-an-azure-workbook-with-other-users"
+    }
+  ]
+}

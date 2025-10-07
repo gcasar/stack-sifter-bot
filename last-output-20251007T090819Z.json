@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-07T09:04:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T08:39:04Z",
+      "Title": "Helm push to JFrog Artifactory fails: invalid repository",
+      "Tags": [
+        "kubernetes-helm",
+        "artifactory",
+        "jfrog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784349/helm-push-to-jfrog-artifactory-fails-invalid-repository"
+    },
+    {
+      "Created": "2025-10-07T08:50:18Z",
+      "Title": "Reduce vertice count of 3D mesh from pointcloud and smooth edges in Python",
+      "Tags": [
+        "python",
+        "3d",
+        "blender",
+        "mesh",
+        "point-clouds"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784359/reduce-vertice-count-of-3d-mesh-from-pointcloud-and-smooth-edges-in-python"
+    },
+    {
+      "Created": "2025-10-07T08:59:27Z",
+      "Title": "iOS 26. The problem with displaying the UISplitViewController",
+      "Tags": [
+        "swift",
+        "interface",
+        "uikit",
+        "uisplitviewcontroller",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784364/ios-26-the-problem-with-displaying-the-uisplitviewcontroller"
+    },
+    {
+      "Created": "2025-10-07T09:02:37Z",
+      "Title": "How to add session ID to Cookies once for seleniumbase test session?",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "pytest",
+        "seleniumbase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784366/how-to-add-session-id-to-cookies-once-for-seleniumbase-test-session"
+    },
+    {
+      "Created": "2025-10-07T09:04:20Z",
+      "Title": "setColumns() causes scroll reset in Angular-Slickgrid after column update",
+      "Tags": [
+        "slickgrid",
+        "vertical-scrolling",
+        "angular-slickgrid",
+        "slickgriduniversal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784368/setcolumns-causes-scroll-reset-in-angular-slickgrid-after-column-update"
+    }
+  ]
+}

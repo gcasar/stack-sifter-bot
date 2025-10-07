@@ -1,0 +1,102 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-07T07:05:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-07T06:14:11Z",
+      "Title": "Mock jsdom Location using @jest/environment-jsdom-abstract",
+      "Tags": [
+        "jestjs",
+        "jsdom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784243/mock-jsdom-location-using-jest-environment-jsdom-abstract"
+    },
+    {
+      "Created": "2025-10-07T06:14:40Z",
+      "Title": "Unexplained values of f1_score when invalid labels are created",
+      "Tags": [
+        "python",
+        "pytorch",
+        "torchmetrics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784245/unexplained-values-of-f1-score-when-invalid-labels-are-created"
+    },
+    {
+      "Created": "2025-10-07T06:23:50Z",
+      "Title": "The threeSumClosest algorithm does not return the expected closest sum",
+      "Tags": [
+        "python",
+        "arrays",
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784249/the-threesumclosest-algorithm-does-not-return-the-expected-closest-sum"
+    },
+    {
+      "Created": "2025-10-07T06:47:05Z",
+      "Title": "Why is total row count of a table built by dbt core in click house less than it is suppose to be and is inconsistent every time the dbt model is run?",
+      "Tags": [
+        "clickhouse",
+        "dbt",
+        "union-all"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784260/why-is-total-row-count-of-a-table-built-by-dbt-core-in-click-house-less-than-it"
+    },
+    {
+      "Created": "2025-10-07T06:53:01Z",
+      "Title": "How to migrate a live RAID1 root filesystem to another server (dd image fails to mount) [closed]",
+      "Tags": [
+        "linux",
+        "migration",
+        "smarty",
+        "root",
+        "raid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784264/how-to-migrate-a-live-raid1-root-filesystem-to-another-server-dd-image-fails-to"
+    },
+    {
+      "Created": "2025-10-07T06:58:02Z",
+      "Title": "What is the correct way to get AppDbContext from a class implementing IEndpointFilter?",
+      "Tags": [
+        "c#",
+        "asp.net-minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784266/what-is-the-correct-way-to-get-appdbcontext-from-a-class-implementing-iendpointf"
+    },
+    {
+      "Created": "2025-10-07T06:58:27Z",
+      "Title": "How to skip the Maven plugin when building locally",
+      "Tags": [
+        "java",
+        "spring",
+        "maven",
+        "plugins",
+        "boot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784267/how-to-skip-the-maven-plugin-when-building-locally"
+    },
+    {
+      "Created": "2025-10-07T07:01:46Z",
+      "Title": "Got a https licence for my webapp and reconfigured the frontend for it, but now the backend no longer works, no matter what I do?",
+      "Tags": [
+        "http",
+        "ssl",
+        "https",
+        "frontend",
+        "backend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784271/got-a-https-licence-for-my-webapp-and-reconfigured-the-frontend-for-it-but-now"
+    },
+    {
+      "Created": "2025-10-07T07:05:40Z",
+      "Title": "Is there a way to link zot and keycloak via OIDC?",
+      "Tags": [
+        "docker-compose",
+        "keycloak",
+        "openid-connect",
+        "redhat",
+        "system-administration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79784275/is-there-a-way-to-link-zot-and-keycloak-via-oidc"
+    }
+  ]
+}

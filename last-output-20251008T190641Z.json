@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-08T19:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T19:01:13Z",
+      "Title": "Best pattern for create vs edit form in React \u002B Ionic Framework",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "forms",
+        "ionic-framework",
+        "design-patterns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785784/best-pattern-for-create-vs-edit-form-in-react-ionic-framework"
+    },
+    {
+      "Created": "2025-10-08T19:02:28Z",
+      "Title": "NestJS hot reload stuck in infinite loop on Windows with TypeScript 5.9.2",
+      "Tags": [
+        "typescript",
+        "windows",
+        "nestjs",
+        "hot-reload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785788/nestjs-hot-reload-stuck-in-infinite-loop-on-windows-with-typescript-5-9-2"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-08T13:08:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T12:31:04Z",
+      "Title": "Link a symbol in C\u002B\u002B to a metadata-defined address",
+      "Tags": [
+        "c\u002B\u002B",
+        "linker",
+        "llvm",
+        "reverse-engineering",
+        "low-level"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785454/link-a-symbol-in-c-to-a-metadata-defined-address"
+    },
+    {
+      "Created": "2025-10-08T12:36:47Z",
+      "Title": "Why does multiprocess with \u0022fork\u0022 fail under Python 3.14 but work in 3.13 (works only with \u0022spawn\u0022)?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "python-asyncio",
+        "multiprocess",
+        "python-3.14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785458/why-does-multiprocess-with-fork-fail-under-python-3-14-but-work-in-3-13-works"
+    },
+    {
+      "Created": "2025-10-08T13:01:32Z",
+      "Title": "How to fix Apollo Client v4 in Expo?",
+      "Tags": [
+        "expo",
+        "apollo-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785479/how-to-fix-apollo-client-v4-in-expo"
+    },
+    {
+      "Created": "2025-10-08T13:04:27Z",
+      "Title": "How to handle Chrome autoplay policy in a call center web application?",
+      "Tags": [
+        "javascript",
+        "google-chrome",
+        "webrtc",
+        "html5-audio",
+        "autoplay"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785484/how-to-handle-chrome-autoplay-policy-in-a-call-center-web-application"
+    },
+    {
+      "Created": "2025-10-08T13:05:05Z",
+      "Title": "library handle in fortran",
+      "Tags": [
+        "linux",
+        "fortran",
+        "intel-fortran"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785485/library-handle-in-fortran"
+    },
+    {
+      "Created": "2025-10-08T13:05:12Z",
+      "Title": "Is it possible to customize the CarPlay Now Playing \u0022Up Next\u0022 queue button appearance and behavior beyond title text?",
+      "Tags": [
+        "ios",
+        "swift",
+        "carplay"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785486/is-it-possible-to-customize-the-carplay-now-playing-up-next-queue-button-appea"
+    },
+    {
+      "Created": "2025-10-08T13:05:27Z",
+      "Title": "How to manage environment variables if I initialize Bun \u002B React project using \u0022bun init\u0022 then select \u0022React\u0022?",
+      "Tags": [
+        "reactjs",
+        "bun"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785487/how-to-manage-environment-variables-if-i-initialize-bun-react-project-using-b"
+    },
+    {
+      "Created": "2025-10-08T13:06:34Z",
+      "Title": "How to skip unsupported syntax/commercial features with JOOQ parser?",
+      "Tags": [
+        "java",
+        "jooq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785489/how-to-skip-unsupported-syntax-commercial-features-with-jooq-parser"
+    },
+    {
+      "Created": "2025-10-08T13:08:17Z",
+      "Title": "Is there a performance difference between writing bytes to RAM instead of longs?",
+      "Tags": [
+        "performance",
+        "memory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785490/is-there-a-performance-difference-between-writing-bytes-to-ram-instead-of-longs"
+    }
+  ]
+}

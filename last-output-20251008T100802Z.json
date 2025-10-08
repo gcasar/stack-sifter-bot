@@ -1,0 +1,97 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-08T09:59:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T09:27:14Z",
+      "Title": "Accept a JavaScript value and return a JSON compatible value, and vice versa",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "unit-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785283/accept-a-javascript-value-and-return-a-json-compatible-value-and-vice-versa"
+    },
+    {
+      "Created": "2025-10-08T09:30:35Z",
+      "Title": "What types are required for numpy.abs()?",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785289/what-types-are-required-for-numpy-abs"
+    },
+    {
+      "Created": "2025-10-08T09:41:04Z",
+      "Title": "How to copy the new value of a data attribute?",
+      "Tags": [
+        "jquery",
+        "input",
+        "clipboard",
+        "attr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785297/how-to-copy-the-new-value-of-a-data-attribute"
+    },
+    {
+      "Created": "2025-10-08T09:44:49Z",
+      "Title": "What is the global object inside a module in Node.js?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "global"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785300/what-is-the-global-object-inside-a-module-in-node-js"
+    },
+    {
+      "Created": "2025-10-08T09:46:19Z",
+      "Title": "How to add an extension command line in VSCode open source?",
+      "Tags": [
+        "visual-studio-code",
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785302/how-to-add-an-extension-command-line-in-vscode-open-source"
+    },
+    {
+      "Created": "2025-10-08T09:49:39Z",
+      "Title": "Adding Python modules to Eclipse",
+      "Tags": [
+        "python",
+        "eclipse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785306/adding-python-modules-to-eclipse"
+    },
+    {
+      "Created": "2025-10-08T09:53:30Z",
+      "Title": "Badge 3: Data Application Builders HASH(ingredients) returning NULL or unexpected values in Snowflake even though ingredients is defined as an ARRAY?",
+      "Tags": [
+        "arrays",
+        "hash",
+        "snowflake-cloud-data-platform",
+        "streamlit",
+        "data-integrity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785309/badge-3-data-application-builders-hashingredients-returning-null-or-unexpecte"
+    },
+    {
+      "Created": "2025-10-08T09:57:43Z",
+      "Title": "loging without year:mont:day but with hour:min:sec,miliseconds in python",
+      "Tags": [
+        "python",
+        "logging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785313/loging-without-yearmontday-but-with-hourminsec-miliseconds-in-python"
+    },
+    {
+      "Created": "2025-10-08T09:59:27Z",
+      "Title": "OSRM Indian map extraction fails on 32GB RAM system, partitioned zones still can\u2019t create cross-zone routes",
+      "Tags": [
+        "performance",
+        "routes",
+        "maps",
+        "openstreetmap",
+        "osrm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785314/osrm-indian-map-extraction-fails-on-32gb-ram-system-partitioned-zones-still-can"
+    }
+  ]
+}

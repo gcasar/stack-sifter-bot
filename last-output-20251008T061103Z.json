@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-08T06:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T05:52:16Z",
+      "Title": "Custom postgres dialect isn\u0027t being picked up by spring",
+      "Tags": [
+        "java",
+        "spring",
+        "postgresql",
+        "hibernate",
+        "dialect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785110/custom-postgres-dialect-isnt-being-picked-up-by-spring"
+    },
+    {
+      "Created": "2025-10-08T05:53:22Z",
+      "Title": "Google Cloud Gemini API returns 404 Not Found for all models",
+      "Tags": [
+        "google-cloud-platform",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785112/google-cloud-gemini-api-returns-404-not-found-for-all-models"
+    },
+    {
+      "Created": "2025-10-08T05:56:18Z",
+      "Title": "C\u002B\u002B Compiler Optimization: Removing Redundant Memory Fences From A Loop",
+      "Tags": [
+        "c\u002B\u002B",
+        "atomic",
+        "compiler-optimization",
+        "memory-barriers",
+        "stdatomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785113/c-compiler-optimization-removing-redundant-memory-fences-from-a-loop"
+    },
+    {
+      "Created": "2025-10-08T06:02:12Z",
+      "Title": "PrimeVue DataTable MultiSelect Filter Shows Incorrect Selected Count When Pre-selecting Values",
+      "Tags": [
+        "vue.js",
+        "filter",
+        "datatable",
+        "primevue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785116/primevue-datatable-multiselect-filter-shows-incorrect-selected-count-when-pre-se"
+    },
+    {
+      "Created": "2025-10-08T06:02:47Z",
+      "Title": "Converting React native component into html",
+      "Tags": [
+        "javascript",
+        "html",
+        "react-native",
+        "react-native-gifted-charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785119/converting-react-native-component-into-html"
+    }
+  ]
+}

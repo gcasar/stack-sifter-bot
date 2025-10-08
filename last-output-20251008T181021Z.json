@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-08T18:05:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T17:17:39Z",
+      "Title": "How to enforce type-safe property assignment between two different objects in Typescript",
+      "Tags": [
+        "typescript",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785710/how-to-enforce-type-safe-property-assignment-between-two-different-objects-in-ty"
+    },
+    {
+      "Created": "2025-10-08T17:37:51Z",
+      "Title": "How to achieve private stage view for custom team app in meeting",
+      "Tags": [
+        "microsoft-teams",
+        "microsoft-teams-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785725/how-to-achieve-private-stage-view-for-custom-team-app-in-meeting"
+    },
+    {
+      "Created": "2025-10-08T17:48:01Z",
+      "Title": "XCFramework update not recognized during Expo.dev build (\u0027MyClass\u0027 has no member \u0027validateToken\u0027)",
+      "Tags": [
+        "ios",
+        "swift",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785736/xcframework-update-not-recognized-during-expo-dev-build-myclass-has-no-member"
+    },
+    {
+      "Created": "2025-10-08T17:52:22Z",
+      "Title": "How to identify code causing CPU spikes and heat issues in an Android application?",
+      "Tags": [
+        "android",
+        "performance",
+        "kotlin",
+        "rx-java",
+        "cpu-usage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785739/how-to-identify-code-causing-cpu-spikes-and-heat-issues-in-an-android-applicatio"
+    },
+    {
+      "Created": "2025-10-08T17:53:16Z",
+      "Title": "Mobile Game Update - Convert old apk(32bit) to (64bit)",
+      "Tags": [
+        "android",
+        "google-play",
+        "64-bit",
+        "adt",
+        "android-app-bundle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785741/mobile-game-update-convert-old-apk32bit-to-64bit"
+    },
+    {
+      "Created": "2025-10-08T18:05:41Z",
+      "Title": ".NET MAUI project - Why is .pdb file not getting deployed?",
+      "Tags": [
+        "msbuild",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785745/net-maui-project-why-is-pdb-file-not-getting-deployed"
+    }
+  ]
+}

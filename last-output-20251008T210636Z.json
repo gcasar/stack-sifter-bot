@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-08T21:02:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T20:45:07Z",
+      "Title": "SELECT statement on Join example",
+      "Tags": [
+        "sql",
+        "select"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785853/select-statement-on-join-example"
+    },
+    {
+      "Created": "2025-10-08T20:47:52Z",
+      "Title": "Bash Hackerrank Challenge solution is working on bash version 3.2 on computer but not on Hackerrank Bash IDE",
+      "Tags": [
+        "bash",
+        "scripting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785854/bash-hackerrank-challenge-solution-is-working-on-bash-version-3-2-on-computer-bu"
+    },
+    {
+      "Created": "2025-10-08T20:51:08Z",
+      "Title": "Riot API Summoner V4 returns JSON without id for valid account on EUNE",
+      "Tags": [
+        "c#",
+        ".net",
+        "riot-games-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785856/riot-api-summoner-v4-returns-json-without-id-for-valid-account-on-eune"
+    },
+    {
+      "Created": "2025-10-08T20:52:35Z",
+      "Title": "How to download a reactive dataframe where the data is not in JSON format using drop downs as inputs in Shiny?",
+      "Tags": [
+        "r",
+        "shiny",
+        "dt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785859/how-to-download-a-reactive-dataframe-where-the-data-is-not-in-json-format-using"
+    },
+    {
+      "Created": "2025-10-08T20:53:42Z",
+      "Title": "Anaconda: PackagesNotFoundError: \u0022-package name\u0022 missing",
+      "Tags": [
+        "python",
+        "macos",
+        "conda",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785860/anaconda-packagesnotfounderror-package-name-missing"
+    },
+    {
+      "Created": "2025-10-08T20:58:27Z",
+      "Title": "Speeding up application compilation in Anylogic",
+      "Tags": [
+        "java",
+        "performance",
+        "compilation",
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785863/speeding-up-application-compilation-in-anylogic"
+    },
+    {
+      "Created": "2025-10-08T20:58:44Z",
+      "Title": "Payload CMS: Internal links are not rendered correctly",
+      "Tags": [
+        "next.js",
+        "payload-cms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785864/payload-cms-internal-links-are-not-rendered-correctly"
+    },
+    {
+      "Created": "2025-10-08T21:02:10Z",
+      "Title": "How to add top toolbar to lightweight charts chart?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "lightweight-charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785865/how-to-add-top-toolbar-to-lightweight-charts-chart"
+    }
+  ]
+}

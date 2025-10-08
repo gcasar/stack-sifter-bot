@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-08T15:05:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T14:20:06Z",
+      "Title": "How to convert numerical text to a decimal number and use to calculate values in delphi 12",
+      "Tags": [
+        "sqlite",
+        "delphi",
+        "numeric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785556/how-to-convert-numerical-text-to-a-decimal-number-and-use-to-calculate-values-in"
+    },
+    {
+      "Created": "2025-10-08T14:51:43Z",
+      "Title": "How to sort products by custom field in WooCommerce product collection block",
+      "Tags": [
+        "php",
+        "wordpress",
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785581/how-to-sort-products-by-custom-field-in-woocommerce-product-collection-block"
+    },
+    {
+      "Created": "2025-10-08T14:53:45Z",
+      "Title": "Assign object to shape text that is currently selected",
+      "Tags": [
+        "vba",
+        "powerpoint",
+        "shapes",
+        "textrange"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785582/assign-object-to-shape-text-that-is-currently-selected"
+    },
+    {
+      "Created": "2025-10-08T14:56:42Z",
+      "Title": "swagger editor API",
+      "Tags": [
+        "swagger",
+        "openapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785584/swagger-editor-api"
+    },
+    {
+      "Created": "2025-10-08T15:03:44Z",
+      "Title": "Polymorphic function in class and polymorphic instance: how to bind parameter types?",
+      "Tags": [
+        "haskell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785591/polymorphic-function-in-class-and-polymorphic-instance-how-to-bind-parameter-ty"
+    },
+    {
+      "Created": "2025-10-08T15:04:13Z",
+      "Title": "Why doesn\u0027t readFile block on unix pipe in which no write has happened yet?",
+      "Tags": [
+        "haskell",
+        "functional-programming",
+        "pipe",
+        "blocking",
+        "mkfifo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785592/why-doesnt-readfile-block-on-unix-pipe-in-which-no-write-has-happened-yet"
+    },
+    {
+      "Created": "2025-10-08T15:05:03Z",
+      "Title": "How can I controll a LCD2004 using a Pi Pico2W",
+      "Tags": [
+        "arduino",
+        "i2c",
+        "raspberry-pi-pico",
+        "lcd",
+        "platformio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785593/how-can-i-controll-a-lcd2004-using-a-pi-pico2w"
+    }
+  ]
+}

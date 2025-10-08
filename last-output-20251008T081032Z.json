@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-08T08:07:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T07:57:05Z",
+      "Title": "Image won\u0027t display in jsp page if inside \u003Ca\u003E tags",
+      "Tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "jsp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785201/image-wont-display-in-jsp-page-if-inside-a-tags"
+    },
+    {
+      "Created": "2025-10-08T07:57:18Z",
+      "Title": "Is there a way to avoid the mask-image property from affecting the text inside the container?",
+      "Tags": [
+        "html",
+        "css",
+        "maskedtextbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785202/is-there-a-way-to-avoid-the-mask-image-property-from-affecting-the-text-inside-t"
+    },
+    {
+      "Created": "2025-10-08T08:07:14Z",
+      "Title": "Is there a way to navigate from a CSS class or ID to its corresponding HTML element in VS Code?",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785210/is-there-a-way-to-navigate-from-a-css-class-or-id-to-its-corresponding-html-elem"
+    }
+  ]
+}

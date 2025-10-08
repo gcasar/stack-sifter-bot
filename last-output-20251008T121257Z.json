@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-08T12:09:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T12:04:17Z",
+      "Title": "Notification about network adapter rename",
+      "Tags": [
+        "c#",
+        "c\u002B\u002B",
+        "network-programming",
+        "winapi",
+        "wmi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785431/notification-about-network-adapter-rename"
+    },
+    {
+      "Created": "2025-10-08T12:09:02Z",
+      "Title": "Unable to debug Teams Meeting Tab app after moving the scope from groupChat, team to personal",
+      "Tags": [
+        "microsoft-teams",
+        "teams-toolkit",
+        "microsoft-teams-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785437/unable-to-debug-teams-meeting-tab-app-after-moving-the-scope-from-groupchat-tea"
+    },
+    {
+      "Created": "2025-10-08T12:09:09Z",
+      "Title": "Jenkins Pipelines in Docker: Failed to rm container",
+      "Tags": [
+        "docker",
+        "jenkins",
+        "jenkins-pipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785438/jenkins-pipelines-in-docker-failed-to-rm-container"
+    }
+  ]
+}

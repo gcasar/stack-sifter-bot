@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-08T03:02:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T02:48:19Z",
+      "Title": "Mapping request to comand to domain class in DDD",
+      "Tags": [
+        "spring",
+        "domain-driven-design",
+        "hexagonal-architecture",
+        "spring-modulith"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785052/mapping-request-to-comand-to-domain-class-in-ddd"
+    },
+    {
+      "Created": "2025-10-08T03:02:15Z",
+      "Title": "Is it possible to style this tr only when it\u0027s hovered from td with no rowspan?",
+      "Tags": [
+        "html",
+        "css",
+        "styling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785057/is-it-possible-to-style-this-tr-only-when-its-hovered-from-td-with-no-rowspan"
+    }
+  ]
+}

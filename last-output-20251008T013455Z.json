@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-08T01:31:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T00:30:12Z",
+      "Title": "Is it possible to compile Drake with SNOPT 7.7 (full version) or is 7.4/7.6 required?",
+      "Tags": [
+        "drake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785015/is-it-possible-to-compile-drake-with-snopt-7-7-full-version-or-is-7-4-7-6-requ"
+    },
+    {
+      "Created": "2025-10-08T00:42:50Z",
+      "Title": "Brave browser no longer blocking sites blocked by Freedom app [closed]",
+      "Tags": [
+        "proxy",
+        "brave",
+        "webfiltering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785020/brave-browser-no-longer-blocking-sites-blocked-by-freedom-app"
+    },
+    {
+      "Created": "2025-10-08T00:59:21Z",
+      "Title": "How to integrate OpenAI GPT API in Django REST Framework project?",
+      "Tags": [
+        "python",
+        "django",
+        "django-rest-framework",
+        "openai-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785023/how-to-integrate-openai-gpt-api-in-django-rest-framework-project"
+    },
+    {
+      "Created": "2025-10-08T01:26:57Z",
+      "Title": "Requesting a specific symbol table when resolving an unknown variable in exprtk",
+      "Tags": [
+        "c\u002B\u002B",
+        "symbol-table",
+        "exprtk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785031/requesting-a-specific-symbol-table-when-resolving-an-unknown-variable-in-exprtk"
+    },
+    {
+      "Created": "2025-10-08T01:26:57Z",
+      "Title": "What does \u0022\u003Eh\u0022 do in the K language when h is an IPC handle?",
+      "Tags": [
+        "kdb\u002B",
+        "k"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785030/what-does-h-do-in-the-k-language-when-h-is-an-ipc-handle"
+    },
+    {
+      "Created": "2025-10-08T01:31:13Z",
+      "Title": "How to select the validation pop-up messages displayed by the browser when a user enters incorrect data",
+      "Tags": [
+        "java",
+        "selenium-webdriver",
+        "testing",
+        "automation",
+        "javascriptexecutor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785033/how-to-select-the-validation-pop-up-messages-displayed-by-the-browser-when-a-use"
+    }
+  ]
+}

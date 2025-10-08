@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-08T05:03:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T04:35:11Z",
+      "Title": "Connection is closed when accessing minimal web api",
+      "Tags": [
+        "c#",
+        "httpwebrequest",
+        "minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785084/connection-is-closed-when-accessing-minimal-web-api"
+    },
+    {
+      "Created": "2025-10-08T04:49:43Z",
+      "Title": "Django Generics custom quering",
+      "Tags": [
+        "generics",
+        "django-rest-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785088/django-generics-custom-quering"
+    },
+    {
+      "Created": "2025-10-08T05:03:13Z",
+      "Title": "Trying to dockerize TanStack application",
+      "Tags": [
+        "reactjs",
+        "tanstack",
+        "nitro",
+        "tanstack-start"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785095/trying-to-dockerize-tanstack-application"
+    }
+  ]
+}

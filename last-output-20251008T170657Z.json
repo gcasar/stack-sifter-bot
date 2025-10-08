@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-08T17:05:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T16:19:51Z",
+      "Title": "Shape of sliced array from shape of array and slice",
+      "Tags": [
+        "python",
+        "numpy",
+        "numpy-slicing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785678/shape-of-sliced-array-from-shape-of-array-and-slice"
+    },
+    {
+      "Created": "2025-10-08T16:23:14Z",
+      "Title": "MiKTeX crashes with EPS",
+      "Tags": [
+        "latex",
+        "tex",
+        "miktex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785680/miktex-crashes-with-eps"
+    },
+    {
+      "Created": "2025-10-08T16:55:05Z",
+      "Title": "AVX-512 MD5 implementation: unexplained performance regression on Zen 4",
+      "Tags": [
+        "performance",
+        "x86",
+        "md5",
+        "amd-processor",
+        "avx512"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785695/avx-512-md5-implementation-unexplained-performance-regression-on-zen-4"
+    },
+    {
+      "Created": "2025-10-08T16:56:36Z",
+      "Title": "Flashing modified KERNEL.img on Huawei breaks boot \u2014 SELinux remains enforcing, cannot use Frida",
+      "Tags": [
+        "android",
+        "root",
+        "android-kernel",
+        "fastboot",
+        "flashing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785696/flashing-modified-kernel-img-on-huawei-breaks-boot-selinux-remains-enforcing"
+    },
+    {
+      "Created": "2025-10-08T17:01:37Z",
+      "Title": "LWC Quick Action Not Visible in Feed on Case Object",
+      "Tags": [
+        "case",
+        "feed",
+        "salesforce-lightning",
+        "lwc",
+        "salesforce-chatter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785699/lwc-quick-action-not-visible-in-feed-on-case-object"
+    },
+    {
+      "Created": "2025-10-08T17:05:46Z",
+      "Title": "Using embedded-hal-bus MutexDevice when using multiple threads",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785702/using-embedded-hal-bus-mutexdevice-when-using-multiple-threads"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-08T20:03:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T19:17:51Z",
+      "Title": "Compiler can\u0027t find VAO.h?",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "include"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785795/compiler-cant-find-vao-h"
+    },
+    {
+      "Created": "2025-10-08T19:27:42Z",
+      "Title": "Interface presentation",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785804/interface-presentation"
+    },
+    {
+      "Created": "2025-10-08T19:37:14Z",
+      "Title": "WebGL rendering incorrect on OffscreenCanvas",
+      "Tags": [
+        "javascript",
+        "webgl",
+        "web-worker",
+        "offscreen-canvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785808/webgl-rendering-incorrect-on-offscreencanvas"
+    },
+    {
+      "Created": "2025-10-08T19:38:50Z",
+      "Title": "OpenMDAO: parallel derivative coloring",
+      "Tags": [
+        "openmdao"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785811/openmdao-parallel-derivative-coloring"
+    },
+    {
+      "Created": "2025-10-08T19:40:28Z",
+      "Title": "Container reachable when launch as root, but not whith non-root user",
+      "Tags": [
+        "podman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785813/container-reachable-when-launch-as-root-but-not-whith-non-root-user"
+    },
+    {
+      "Created": "2025-10-08T19:48:41Z",
+      "Title": "Is it faster to multiply bool state into a for loop, or faster to put multiple for loops inside an if/else?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785817/is-it-faster-to-multiply-bool-state-into-a-for-loop-or-faster-to-put-multiple-f"
+    },
+    {
+      "Created": "2025-10-08T19:50:19Z",
+      "Title": "Creating the target array from an array of randomly inputted characters",
+      "Tags": [
+        "arrays",
+        "c",
+        "loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785818/creating-the-target-array-from-an-array-of-randomly-inputted-characters"
+    },
+    {
+      "Created": "2025-10-08T19:55:21Z",
+      "Title": "argument \u0022..1\u0022 is missing, with no default",
+      "Tags": [
+        "r",
+        "data.table",
+        "r6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785819/argument-1-is-missing-with-no-default"
+    },
+    {
+      "Created": "2025-10-08T20:03:12Z",
+      "Title": "How to load a value from ROM",
+      "Tags": [
+        "assembly",
+        "pic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785824/how-to-load-a-value-from-rom"
+    }
+  ]
+}

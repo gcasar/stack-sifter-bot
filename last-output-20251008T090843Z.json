@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-08T09:02:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T08:47:20Z",
+      "Title": "How to install GCC-Toolset 15 in Oracle Linux 8?",
+      "Tags": [
+        "linux",
+        "gcc",
+        "oraclelinux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785247/how-to-install-gcc-toolset-15-in-oracle-linux-8"
+    },
+    {
+      "Created": "2025-10-08T08:52:04Z",
+      "Title": "DDL in dbt post_hook executes before materialization if done in macro",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "dbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785250/ddl-in-dbt-post-hook-executes-before-materialization-if-done-in-macro"
+    },
+    {
+      "Created": "2025-10-08T08:54:49Z",
+      "Title": "How to get a exisiting RowVersion value from a table to be used when updating the same record?",
+      "Tags": [
+        "sql-server",
+        "vb.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785253/how-to-get-a-exisiting-rowversion-value-from-a-table-to-be-used-when-updating-th"
+    },
+    {
+      "Created": "2025-10-08T08:58:51Z",
+      "Title": "Gemini API still says \u201Cquota exceeded \u2026 free_tier_requests limit: 0\u201D even though my billing and Tier 1 plan are active",
+      "Tags": [
+        "google-cloud-platform",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785257/gemini-api-still-says-quota-exceeded-free-tier-requests-limit-0-even-though"
+    },
+    {
+      "Created": "2025-10-08T09:01:19Z",
+      "Title": "Is there a way to inspect the actual STM32CubeProgrammer invocation during the launch sequences in STM32CubeIDE?",
+      "Tags": [
+        "stm32",
+        "stm32cubeide",
+        "gdbserver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785260/is-there-a-way-to-inspect-the-actual-stm32cubeprogrammer-invocation-during-the-l"
+    },
+    {
+      "Created": "2025-10-08T09:02:16Z",
+      "Title": "fill in certain cells if checkbox is clicked",
+      "Tags": [
+        "excel-365"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785262/fill-in-certain-cells-if-checkbox-is-clicked"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-08T02:22:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T01:59:53Z",
+      "Title": "How to implement InputConnection for a custom document editor on Android?",
+      "Tags": [
+        "android",
+        "ime",
+        "inputconnection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785037/how-to-implement-inputconnection-for-a-custom-document-editor-on-android"
+    },
+    {
+      "Created": "2025-10-08T02:04:10Z",
+      "Title": "modpost GPL error using ktime_* - what to use instead?",
+      "Tags": [
+        "linux",
+        "time",
+        "kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785038/modpost-gpl-error-using-ktime-what-to-use-instead"
+    },
+    {
+      "Created": "2025-10-08T02:14:18Z",
+      "Title": "Why are my Daily MA50/100/200 lines jagged instead of smooth even with smoothing turned off?",
+      "Tags": [
+        "pine-script",
+        "tradingview-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785042/why-are-my-daily-ma50-100-200-lines-jagged-instead-of-smooth-even-with-smoothing"
+    },
+    {
+      "Created": "2025-10-08T02:15:48Z",
+      "Title": "How to securely store JWT in Kotlin Multiplatform (KMP) app for Android and iOS",
+      "Tags": [
+        "android",
+        "kotlin",
+        "jwt",
+        "android-jetpack-compose",
+        "kotlin-multiplatform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785043/how-to-securely-store-jwt-in-kotlin-multiplatform-kmp-app-for-android-and-ios"
+    },
+    {
+      "Created": "2025-10-08T02:22:51Z",
+      "Title": "Create Proper MeessageBox with only installed Software from the list",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785045/create-proper-meessagebox-with-only-installed-software-from-the-list"
+    }
+  ]
+}

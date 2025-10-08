@@ -1,0 +1,113 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-10-08T11:03:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T10:13:17Z",
+      "Title": "Replace NA values in R dataframe across multiple columns using truncated names of other columns",
+      "Tags": [
+        "r",
+        "dataframe",
+        "dplyr",
+        "na",
+        "truncate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785332/replace-na-values-in-r-dataframe-across-multiple-columns-using-truncated-names-o"
+    },
+    {
+      "Created": "2025-10-08T10:45:46Z",
+      "Title": "How can I programmatically detect and handle poor data quality (missing, inconsistent, or outlier values) in a large dataset using Python?",
+      "Tags": [
+        "python",
+        "pandas",
+        "validation",
+        "data-cleaning",
+        "data-quality"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785367/how-can-i-programmatically-detect-and-handle-poor-data-quality-missing-inconsi"
+    },
+    {
+      "Created": "2025-10-08T10:47:19Z",
+      "Title": "How to create chained selection fields in Odoo using API data?",
+      "Tags": [
+        "odoo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785369/how-to-create-chained-selection-fields-in-odoo-using-api-data"
+    },
+    {
+      "Created": "2025-10-08T10:47:57Z",
+      "Title": "PDF link opens to exact page on Windows but not on mobile or tablet",
+      "Tags": [
+        "pdf",
+        "sharepoint",
+        "cross-browser",
+        "mobile-browser",
+        "url-fragment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785370/pdf-link-opens-to-exact-page-on-windows-but-not-on-mobile-or-tablet"
+    },
+    {
+      "Created": "2025-10-08T10:49:31Z",
+      "Title": "Union of tiny dataframes exhausts resource. (memory error, Databricks, Pyspark)",
+      "Tags": [
+        "python",
+        "pyspark",
+        "databricks",
+        "out-of-memory",
+        "union"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785372/union-of-tiny-dataframes-exhausts-resource-memory-error-databricks-pyspark"
+    },
+    {
+      "Created": "2025-10-08T10:50:58Z",
+      "Title": "Firebase Hosting site flagged as malware [closed]",
+      "Tags": [
+        "firebase",
+        "google-app-engine",
+        "firebase-hosting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785374/firebase-hosting-site-flagged-as-malware"
+    },
+    {
+      "Created": "2025-10-08T10:55:12Z",
+      "Title": "How to Customise Keyboard Navigation of AgGrid in an Angular application",
+      "Tags": [
+        "ag-grid",
+        "ag-grid-angular",
+        "keyboard-navigation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785378/how-to-customise-keyboard-navigation-of-aggrid-in-an-angular-application"
+    },
+    {
+      "Created": "2025-10-08T10:56:49Z",
+      "Title": "How bad is a \u0022controlled\u0022 signed int overflow and can it even be \u0022controlled\u0022?",
+      "Tags": [
+        "c",
+        "compilation",
+        "overflow",
+        "atoi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785380/how-bad-is-a-controlled-signed-int-overflow-and-can-it-even-be-controlled"
+    },
+    {
+      "Created": "2025-10-08T10:57:58Z",
+      "Title": "Pre-commit fails with SSL error on macOS (Zscaler network) when using yamlfmt hook",
+      "Tags": [
+        "pre-commit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785382/pre-commit-fails-with-ssl-error-on-macos-zscaler-network-when-using-yamlfmt-ho"
+    },
+    {
+      "Created": "2025-10-08T11:03:02Z",
+      "Title": "How to reference entries in the secret scope when creating a unity catalog connection?",
+      "Tags": [
+        "azure",
+        "databricks",
+        "azure-databricks",
+        "azure-keyvault",
+        "databricks-unity-catalog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785386/how-to-reference-entries-in-the-secret-scope-when-creating-a-unity-catalog-conne"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-08T06:52:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T06:49:13Z",
+      "Title": "\u0022Insert Python\u0022 in Excel\u0027s Formula section, to read another Excel file",
+      "Tags": [
+        "python",
+        "excel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785146/insert-python-in-excels-formula-section-to-read-another-excel-file"
+    },
+    {
+      "Created": "2025-10-08T06:52:17Z",
+      "Title": "Is it feasible to create a custom Media Selector that opens Kentico 13 Media Libraries",
+      "Tags": [
+        "asp.net-core",
+        "model-view-controller",
+        "widget",
+        "kentico-13"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785150/is-it-feasible-to-create-a-custom-media-selector-that-opens-kentico-13-media-lib"
+    }
+  ]
+}

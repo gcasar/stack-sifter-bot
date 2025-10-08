@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-08T22:44:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-08T22:24:18Z",
+      "Title": "I can\u0027t get a triangle to draw in OpenGL",
+      "Tags": [
+        "c",
+        "opengl",
+        "3d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785894/i-cant-get-a-triangle-to-draw-in-opengl"
+    },
+    {
+      "Created": "2025-10-08T22:26:34Z",
+      "Title": "Reconfigure a Pandas Dataframe",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "data-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785896/reconfigure-a-pandas-dataframe"
+    },
+    {
+      "Created": "2025-10-08T22:26:46Z",
+      "Title": "VBA Autofilter does not return correct number of rows",
+      "Tags": [
+        "excel",
+        "vba",
+        "macros",
+        "autofilter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785897/vba-autofilter-does-not-return-correct-number-of-rows"
+    },
+    {
+      "Created": "2025-10-08T22:31:26Z",
+      "Title": "What\u0027s the best between Data Protection API and DEK/KEK method for data encryption?",
+      "Tags": [
+        "asp.net",
+        ".net",
+        "security",
+        "encryption"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785898/whats-the-best-between-data-protection-api-and-dek-kek-method-for-data-encrypti"
+    },
+    {
+      "Created": "2025-10-08T22:44:15Z",
+      "Title": "Win32 C\u002B\u002B: WM_DESTROY can\u0027t end a thread which sends a custom WM_ message on completion",
+      "Tags": [
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785904/win32-c-wm-destroy-cant-end-a-thread-which-sends-a-custom-wm-message-on-com"
+    }
+  ]
+}

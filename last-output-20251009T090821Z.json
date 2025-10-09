@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-09T09:03:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T08:43:40Z",
+      "Title": "How to apply Liquid Glass effect to Widget background in iOS 26?",
+      "Tags": [
+        "swiftui",
+        "widgetkit",
+        "ios26",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786193/how-to-apply-liquid-glass-effect-to-widget-background-in-ios-26"
+    },
+    {
+      "Created": "2025-10-09T09:03:02Z",
+      "Title": "confluent-kafka receive messages from last x days",
+      "Tags": [
+        "python",
+        "confluent-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786206/confluent-kafka-receive-messages-from-last-x-days"
+    }
+  ]
+}

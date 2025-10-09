@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-09T04:04:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T03:47:40Z",
+      "Title": "What is the difference between a value and a memory address in x86_64 AT\u0026T assembly language?",
+      "Tags": [
+        "assembly",
+        "x86-64",
+        "memory-address",
+        "att"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786012/what-is-the-difference-between-a-value-and-a-memory-address-in-x86-64-att-assem"
+    },
+    {
+      "Created": "2025-10-09T03:55:48Z",
+      "Title": "Why does your output file compiled from the flex tokenizer print multiple new lines even when you never wrote a code for it to do so?",
+      "Tags": [
+        "c\u002B\u002B",
+        "token",
+        "tokenize",
+        "flex-lexer",
+        "lex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786016/why-does-your-output-file-compiled-from-the-flex-tokenizer-print-multiple-new-li"
+    },
+    {
+      "Created": "2025-10-09T04:04:01Z",
+      "Title": "Android Auto MediaSession Queue Button Customization - Is it possible to modify appearance or behavior?",
+      "Tags": [
+        "android",
+        "android-auto",
+        "android-automotive",
+        "mediasession",
+        "mediabrowserservice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786018/android-auto-mediasession-queue-button-customization-is-it-possible-to-modify"
+    }
+  ]
+}

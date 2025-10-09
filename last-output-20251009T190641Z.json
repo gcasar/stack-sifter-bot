@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-09T19:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T18:27:38Z",
+      "Title": "Visual C\u002B\u002B: very high process memory usage",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B",
+        "visual-studio-2017"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786739/visual-c-very-high-process-memory-usage"
+    },
+    {
+      "Created": "2025-10-09T18:33:43Z",
+      "Title": "How can I detect if a user\u2019s device is in Low Power Mode (macOS, iOS, Android, Windows) using JavaScript in the browser? [duplicate]",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786743/how-can-i-detect-if-a-user-s-device-is-in-low-power-mode-macos-ios-android-w"
+    },
+    {
+      "Created": "2025-10-09T18:37:37Z",
+      "Title": "In a gradle project that contains both Kotlin and Scala code, what\u0027s the easiest way to make Kotlin compilation to depend on Scala bytecode?",
+      "Tags": [
+        "scala",
+        "kotlin",
+        "gradle",
+        "gradle-task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786744/in-a-gradle-project-that-contains-both-kotlin-and-scala-code-whats-the-easiest"
+    },
+    {
+      "Created": "2025-10-09T18:39:22Z",
+      "Title": "Answering Microsoft Teams incoming call with a headphone button",
+      "Tags": [
+        "autohotkey-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786745/answering-microsoft-teams-incoming-call-with-a-headphone-button"
+    },
+    {
+      "Created": "2025-10-09T18:42:25Z",
+      "Title": "Builing with cmake - output is one or many lines",
+      "Tags": [
+        "cmake",
+        "cmakelists-options"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786748/builing-with-cmake-output-is-one-or-many-lines"
+    },
+    {
+      "Created": "2025-10-09T18:50:32Z",
+      "Title": "Svelte 5: Typescript and rest props issue \u0022\u0027prop\u0027 is specified more than once\u0022",
+      "Tags": [
+        "typescript",
+        "svelte",
+        "svelte-component",
+        "svelte-5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786751/svelte-5-typescript-and-rest-props-issue-prop-is-specified-more-than-once"
+    },
+    {
+      "Created": "2025-10-09T18:59:46Z",
+      "Title": "Is it a good idea to check at the start of a Bash script whether all required utilities are installed?",
+      "Tags": [
+        "bash",
+        "shell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786761/is-it-a-good-idea-to-check-at-the-start-of-a-bash-script-whether-all-required-ut"
+    },
+    {
+      "Created": "2025-10-09T19:01:25Z",
+      "Title": "Keyword keeps getting appended to file even when it is present. How can I fix this in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786764/keyword-keeps-getting-appended-to-file-even-when-it-is-present-how-can-i-fix-th"
+    },
+    {
+      "Created": "2025-10-09T19:04:07Z",
+      "Title": "How to stay undetected after deploying puppeteer",
+      "Tags": [
+        "node.js",
+        "web-scraping",
+        "puppeteer",
+        "captcha",
+        "chrome-devtools-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786766/how-to-stay-undetected-after-deploying-puppeteer"
+    }
+  ]
+}

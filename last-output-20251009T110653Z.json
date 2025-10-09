@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-09T10:58:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T10:15:02Z",
+      "Title": "Installing appium doctor in appium 3 and Android",
+      "Tags": [
+        "automated-tests",
+        "appium",
+        "webdriver-io",
+        "appium-ios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786281/installing-appium-doctor-in-appium-3-and-android"
+    },
+    {
+      "Created": "2025-10-09T10:34:14Z",
+      "Title": "jOOQ removes SQL inside ignore comments during execution",
+      "Tags": [
+        "java",
+        "sql",
+        "jooq",
+        "sql-parser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786299/jooq-removes-sql-inside-ignore-comments-during-execution"
+    },
+    {
+      "Created": "2025-10-09T10:51:11Z",
+      "Title": "Angular \u002B Spring Boot: file download blocks until fully received (needs \u201Csave as\u201D first, then stream in background)",
+      "Tags": [
+        "java",
+        "angular",
+        "spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786308/angular-spring-boot-file-download-blocks-until-fully-received-needs-save-as"
+    },
+    {
+      "Created": "2025-10-09T10:51:23Z",
+      "Title": "Why this code for 0/1 knapsack problem works for some examples?",
+      "Tags": [
+        "dynamic-programming",
+        "knapsack-problem"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786309/why-this-code-for-0-1-knapsack-problem-works-for-some-examples"
+    },
+    {
+      "Created": "2025-10-09T10:52:04Z",
+      "Title": "Why is this python/pygame code not working? (video system initialization and background colour)",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786311/why-is-this-python-pygame-code-not-working-video-system-initialization-and-bac"
+    },
+    {
+      "Created": "2025-10-09T10:58:49Z",
+      "Title": "Sequelize limit insert or create in 100 rows",
+      "Tags": [
+        "node.js",
+        "sequelize.js",
+        "upsert",
+        "bulk-create"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786315/sequelize-limit-insert-or-create-in-100-rows"
+    }
+  ]
+}

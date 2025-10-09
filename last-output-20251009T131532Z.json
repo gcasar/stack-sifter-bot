@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-09T13:04:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T12:34:14Z",
+      "Title": "Which version of ktlint is being used by ktlint-gradle? Is there a command I can run to find out?",
+      "Tags": [
+        "kotlin",
+        "ktlint",
+        "jujutsu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786413/which-version-of-ktlint-is-being-used-by-ktlint-gradle-is-there-a-command-i-can"
+    },
+    {
+      "Created": "2025-10-09T12:50:05Z",
+      "Title": "attrs subclass from non-attrs class not respecting initializer arguments",
+      "Tags": [
+        "python",
+        "python-attrs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786435/attrs-subclass-from-non-attrs-class-not-respecting-initializer-arguments"
+    },
+    {
+      "Created": "2025-10-09T13:01:49Z",
+      "Title": "Search custom ckan resource metadata",
+      "Tags": [
+        "search",
+        "indexing",
+        "solr",
+        "configuration",
+        "ckan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786447/search-custom-ckan-resource-metadata"
+    },
+    {
+      "Created": "2025-10-09T13:04:25Z",
+      "Title": "Regex to split on %[A..Za..z]",
+      "Tags": [
+        "regex",
+        "split"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786448/regex-to-split-on-a-za-z"
+    }
+  ]
+}

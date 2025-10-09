@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-09T22:02:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T21:20:37Z",
+      "Title": "What\u0027s wrong with my code, trying to print based on true/false? [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786860/whats-wrong-with-my-code-trying-to-print-based-on-true-false"
+    },
+    {
+      "Created": "2025-10-09T21:34:12Z",
+      "Title": "How to connect tch-rs to CUDA?",
+      "Tags": [
+        "rust",
+        "cuda",
+        "torch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786863/how-to-connect-tch-rs-to-cuda"
+    },
+    {
+      "Created": "2025-10-09T21:39:35Z",
+      "Title": "RemoteEntryNotFoundError with downloading models from Hugging Face in Kaggle",
+      "Tags": [
+        "python",
+        "huggingface-transformers",
+        "kaggle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786866/remoteentrynotfounderror-with-downloading-models-from-hugging-face-in-kaggle"
+    },
+    {
+      "Created": "2025-10-09T21:40:31Z",
+      "Title": "Token Problem in next auth and express js",
+      "Tags": [
+        "javascript",
+        "jwt",
+        "token",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786867/token-problem-in-next-auth-and-express-js"
+    },
+    {
+      "Created": "2025-10-09T21:42:39Z",
+      "Title": "How to optimize writing all of an class\u0027s methods to a plain object?",
+      "Tags": [
+        "javascript",
+        "json",
+        "class",
+        "serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786869/how-to-optimize-writing-all-of-an-classs-methods-to-a-plain-object"
+    },
+    {
+      "Created": "2025-10-09T22:02:17Z",
+      "Title": "How strong is the as-if rule in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11",
+        "as-if"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786874/how-strong-is-the-as-if-rule-in-c"
+    }
+  ]
+}

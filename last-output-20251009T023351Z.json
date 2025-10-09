@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-09T02:26:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T02:04:55Z",
+      "Title": "Chicken and egg puzzle in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "reference",
+        "lifetime",
+        "puzzle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785980/chicken-and-egg-puzzle-in-c"
+    },
+    {
+      "Created": "2025-10-09T02:12:39Z",
+      "Title": "Python - Appending throws a str cannot be appened",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "casting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785981/python-appending-throws-a-str-cannot-be-appened"
+    },
+    {
+      "Created": "2025-10-09T02:13:27Z",
+      "Title": "MMKV not available on iOS Simulator with Ignite starter and Expo 54 - memory fallback warning",
+      "Tags": [
+        "ios",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785982/mmkv-not-available-on-ios-simulator-with-ignite-starter-and-expo-54-memory-fal"
+    },
+    {
+      "Created": "2025-10-09T02:26:11Z",
+      "Title": "Generalize a self referential struct construction using a variadic template",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "constructor",
+        "c\u002B\u002B20",
+        "variadic-templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785987/generalize-a-self-referential-struct-construction-using-a-variadic-template"
+    }
+  ]
+}

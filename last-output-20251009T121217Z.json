@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-09T12:07:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T11:41:24Z",
+      "Title": "Next.js 15 Build Error: Type \u0027OmitWithTag\u003C{ reportId: string; }, keyof PageProps, \u0022default\u0022\u003E\u0027 does not satisfy constraint",
+      "Tags": [
+        "typescript",
+        "next.js",
+        "build",
+        "eslint",
+        "app-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786356/next-js-15-build-error-type-omitwithtag-reportid-string-keyof-pageprops"
+    },
+    {
+      "Created": "2025-10-09T12:07:11Z",
+      "Title": "How to optimize dynamic calculator performance using JavaScript and lightweight backend APIs?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786381/how-to-optimize-dynamic-calculator-performance-using-javascript-and-lightweight"
+    }
+  ]
+}

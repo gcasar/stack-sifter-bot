@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-09T03:03:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T02:40:45Z",
+      "Title": "Mathematical expressions not rendering properly in chat widget with marked.js and KaTeX - Need all math formatted",
+      "Tags": [
+        "javascript",
+        "math",
+        "latex",
+        "markdown",
+        "katex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785993/mathematical-expressions-not-rendering-properly-in-chat-widget-with-marked-js-an"
+    },
+    {
+      "Created": "2025-10-09T02:43:53Z",
+      "Title": "Unable to make python virtual env work with jupyter",
+      "Tags": [
+        "python",
+        "jupyter-notebook",
+        "jupyter",
+        "virtualenv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785994/unable-to-make-python-virtual-env-work-with-jupyter"
+    },
+    {
+      "Created": "2025-10-09T02:50:43Z",
+      "Title": "Using embedded youtube playlist index to cycle through array",
+      "Tags": [
+        "javascript",
+        "html",
+        "arrays",
+        "youtube-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785997/using-embedded-youtube-playlist-index-to-cycle-through-array"
+    },
+    {
+      "Created": "2025-10-09T02:56:54Z",
+      "Title": "Type hinting for a decorator to enforce matching signature as decorated",
+      "Tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785999/type-hinting-for-a-decorator-to-enforce-matching-signature-as-decorated"
+    },
+    {
+      "Created": "2025-10-09T03:03:22Z",
+      "Title": "EF Core Attach method not updating related entities",
+      "Tags": [
+        "asp.net-core",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786002/ef-core-attach-method-not-updating-related-entities"
+    }
+  ]
+}

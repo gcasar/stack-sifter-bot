@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-09T16:55:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T16:12:55Z",
+      "Title": "Is there a remote, administrative way to force mobile Firebase Email Sign In links to use a custom domain?",
+      "Tags": [
+        "android",
+        "ios",
+        "firebase",
+        "firebase-authentication",
+        "firebase-dynamic-links"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786634/is-there-a-remote-administrative-way-to-force-mobile-firebase-email-sign-in-lin"
+    },
+    {
+      "Created": "2025-10-09T16:30:30Z",
+      "Title": "How to prefix a specific series of lines (multiple)?",
+      "Tags": [
+        "linux",
+        "terminal",
+        "timestamp",
+        "text-files",
+        "data-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786650/how-to-prefix-a-specific-series-of-lines-multiple"
+    },
+    {
+      "Created": "2025-10-09T16:35:24Z",
+      "Title": "\u0022Debug the current line or selection\u0022 not working properly in Spyder on Mac",
+      "Tags": [
+        "macos",
+        "debugging",
+        "spyder"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786653/debug-the-current-line-or-selection-not-working-properly-in-spyder-on-mac"
+    },
+    {
+      "Created": "2025-10-09T16:43:53Z",
+      "Title": "PHP LDAP sessions (how to preserve password for subsequent bind calls)",
+      "Tags": [
+        "php",
+        "ldap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786661/php-ldap-sessions-how-to-preserve-password-for-subsequent-bind-calls"
+    },
+    {
+      "Created": "2025-10-09T16:43:54Z",
+      "Title": "Why use a delay time less than portMAX_DELAY when waiting for a semaphore/mutex/queue FreeRTOS?",
+      "Tags": [
+        "mutex",
+        "semaphore",
+        "freertos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786662/why-use-a-delay-time-less-than-portmax-delay-when-waiting-for-a-semaphore-mutex"
+    },
+    {
+      "Created": "2025-10-09T16:54:21Z",
+      "Title": "Can\u0027t set headerTransparent true on stream-chat",
+      "Tags": [
+        "react-native",
+        "expo",
+        "getstream-chat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786668/cant-set-headertransparent-true-on-stream-chat"
+    },
+    {
+      "Created": "2025-10-09T16:55:17Z",
+      "Title": "MQL5 SocketConnect fails with error 4014 connecting to local TCP server",
+      "Tags": [
+        "sockets",
+        "network-programming",
+        "tcp",
+        "mql5",
+        "metatrader5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786669/mql5-socketconnect-fails-with-error-4014-connecting-to-local-tcp-server"
+    }
+  ]
+}

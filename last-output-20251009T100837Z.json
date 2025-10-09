@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-09T10:03:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T09:36:04Z",
+      "Title": "how to scrape different infos from web with same div class name",
+      "Tags": [
+        "python",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786238/how-to-scrape-different-infos-from-web-with-same-div-class-name"
+    },
+    {
+      "Created": "2025-10-09T09:39:02Z",
+      "Title": "Is there a mechanism in socat or netcat to port forward and write to a file at the same time?",
+      "Tags": [
+        "netcat",
+        "socat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786241/is-there-a-mechanism-in-socat-or-netcat-to-port-forward-and-write-to-a-file-at-t"
+    },
+    {
+      "Created": "2025-10-09T09:50:09Z",
+      "Title": "Writing PACT tests using cucumber framework in Java",
+      "Tags": [
+        "java",
+        "cucumber",
+        "cucumber-java",
+        "pact"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786253/writing-pact-tests-using-cucumber-framework-in-java"
+    },
+    {
+      "Created": "2025-10-09T09:51:14Z",
+      "Title": "When must I pass System.AccessToken to a task in a yaml pipeline",
+      "Tags": [
+        "azure",
+        "azure-pipelines-yaml",
+        "azure-pipelines-build-task",
+        "serviceconnection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786254/when-must-i-pass-system-accesstoken-to-a-task-in-a-yaml-pipeline"
+    },
+    {
+      "Created": "2025-10-09T09:51:34Z",
+      "Title": "Looking for a Git workflow for my document",
+      "Tags": [
+        "git",
+        "git-workflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786255/looking-for-a-git-workflow-for-my-document"
+    },
+    {
+      "Created": "2025-10-09T09:58:16Z",
+      "Title": "Network error when attempting to fetch resources on KaiOS when uploading images (FormData \u0026 Base64)",
+      "Tags": [
+        "upload",
+        "general-network-error",
+        "kaios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786262/network-error-when-attempting-to-fetch-resources-on-kaios-when-uploading-images"
+    },
+    {
+      "Created": "2025-10-09T10:03:26Z",
+      "Title": "How to define a generic type with \u0060new(...args)\u0060 in TypeScript?",
+      "Tags": [
+        "typescript",
+        "generics",
+        "inheritance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786267/how-to-define-a-generic-type-with-new-args-in-typescript"
+    }
+  ]
+}

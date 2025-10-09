@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-09T04:55:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T04:37:34Z",
+      "Title": "SpringBatch: Why does TaskExecutor threads not add up?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-batch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786026/springbatch-why-does-taskexecutor-threads-not-add-up"
+    },
+    {
+      "Created": "2025-10-09T04:48:07Z",
+      "Title": "Closing a spinner after 3 videos have loaded 2 second worth of content each?",
+      "Tags": [
+        "javascript",
+        "html",
+        "video-streaming",
+        "html5-video",
+        "preload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786032/closing-a-spinner-after-3-videos-have-loaded-2-second-worth-of-content-each"
+    },
+    {
+      "Created": "2025-10-09T04:54:27Z",
+      "Title": "Enable edge to edge display is not working if Shell has Flyout behavior in MAUI app",
+      "Tags": [
+        "android",
+        "maui",
+        ".net-maui.shell",
+        "edge-to-edge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786036/enable-edge-to-edge-display-is-not-working-if-shell-has-flyout-behavior-in-maui"
+    },
+    {
+      "Created": "2025-10-09T04:55:05Z",
+      "Title": "Google ADC for fastify running in docker",
+      "Tags": [
+        "docker",
+        "google-cloud-platform",
+        "credentials",
+        "service-accounts",
+        "fastify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786038/google-adc-for-fastify-running-in-docker"
+    }
+  ]
+}

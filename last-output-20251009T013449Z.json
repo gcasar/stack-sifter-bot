@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-09T01:33:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T01:02:24Z",
+      "Title": "WEB API\u002BEF: How to convert the list of entities to queryable?",
+      "Tags": [
+        "sql",
+        "entity-framework",
+        "async-await",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785960/web-apief-how-to-convert-the-list-of-entities-to-queryable"
+    },
+    {
+      "Created": "2025-10-09T01:13:04Z",
+      "Title": "curl_ws_send, using curl multi handle: Requires curl_multi_perform?",
+      "Tags": [
+        "websocket",
+        "libcurl",
+        "curl-multi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785963/curl-ws-send-using-curl-multi-handle-requires-curl-multi-perform"
+    },
+    {
+      "Created": "2025-10-09T01:33:26Z",
+      "Title": "django getting 530, 5.7.0 Authentication Required despite using google\u0027s App Paswords",
+      "Tags": [
+        "python",
+        "django",
+        "django-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79785972/django-getting-530-5-7-0-authentication-required-despite-using-googles-app-pas"
+    }
+  ]
+}

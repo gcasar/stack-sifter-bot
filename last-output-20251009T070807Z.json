@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-09T07:05:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T06:33:16Z",
+      "Title": "Sum input fields values when checkbox are checked",
+      "Tags": [
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786093/sum-input-fields-values-when-checkbox-are-checked"
+    },
+    {
+      "Created": "2025-10-09T06:39:06Z",
+      "Title": "MUI - Round border radius FormControl",
+      "Tags": [
+        "css",
+        "reactjs",
+        "material-ui",
+        "jsx",
+        "tsx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786100/mui-round-border-radius-formcontrol"
+    },
+    {
+      "Created": "2025-10-09T06:40:16Z",
+      "Title": "Can a backend using Multer for file uploads recognize an image sent as a byte[] in the request?",
+      "Tags": [
+        "javascript",
+        "java",
+        "android",
+        "node.js",
+        "multer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786102/can-a-backend-using-multer-for-file-uploads-recognize-an-image-sent-as-a-byte"
+    },
+    {
+      "Created": "2025-10-09T06:48:49Z",
+      "Title": "Does system level changes in andorid (eg. Auto brightness or any broadcusts), triggers Recompose in running android app?",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "kotlin-android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786105/does-system-level-changes-in-andorid-eg-auto-brightness-or-any-broadcusts-tr"
+    },
+    {
+      "Created": "2025-10-09T07:04:00Z",
+      "Title": "Inference issues with implicit parameters to lambdas in Agda",
+      "Tags": [
+        "agda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786111/inference-issues-with-implicit-parameters-to-lambdas-in-agda"
+    },
+    {
+      "Created": "2025-10-09T07:05:41Z",
+      "Title": "GraphDB 11.1 Talk to your graph (TTYG) external integration",
+      "Tags": [
+        "graphdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786113/graphdb-11-1-talk-to-your-graph-ttyg-external-integration"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-09T21:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T20:38:16Z",
+      "Title": "\u003Cstdalign.h\u003E and C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "language-lawyer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786833/stdalign-h-and-c"
+    },
+    {
+      "Created": "2025-10-09T20:49:25Z",
+      "Title": "Python Dashboard calculations",
+      "Tags": [
+        "python",
+        "function",
+        "dashboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786839/python-dashboard-calculations"
+    },
+    {
+      "Created": "2025-10-09T20:50:00Z",
+      "Title": "Is it valid to join a transform view whose elements are temporary containers?",
+      "Tags": [
+        "c\u002B\u002B",
+        "std-ranges"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786840/is-it-valid-to-join-a-transform-view-whose-elements-are-temporary-containers"
+    },
+    {
+      "Created": "2025-10-09T20:52:14Z",
+      "Title": "Using PS as input to a clocking wizard that supplies clock to several AXI standard and custom IPs",
+      "Tags": [
+        "fpga",
+        "clock",
+        "processor",
+        "vivado",
+        "zynq-ultrascale\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786842/using-ps-as-input-to-a-clocking-wizard-that-supplies-clock-to-several-axi-standa"
+    },
+    {
+      "Created": "2025-10-09T21:00:06Z",
+      "Title": "Vercel AI-SDK not streaming with Capacitor",
+      "Tags": [
+        "streaming",
+        "sse",
+        "capacitor",
+        "ai-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786843/vercel-ai-sdk-not-streaming-with-capacitor"
+    },
+    {
+      "Created": "2025-10-09T21:04:07Z",
+      "Title": "Creating my own IDE for educative and commercial purposes",
+      "Tags": [
+        "python",
+        "java",
+        "ide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786848/creating-my-own-ide-for-educative-and-commercial-purposes"
+    }
+  ]
+}

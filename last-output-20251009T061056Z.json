@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-09T06:08:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T05:34:49Z",
+      "Title": "Why does changing a DataFrame in one Jupyter cell also change another variable? [duplicate]",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "jupyter-notebook",
+        "copy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786055/why-does-changing-a-dataframe-in-one-jupyter-cell-also-change-another-variable"
+    },
+    {
+      "Created": "2025-10-09T05:50:10Z",
+      "Title": "Is there is bug in below method (Data Structures \u0026 Algorithms by Robert Lafore)",
+      "Tags": [
+        "java",
+        "arrays",
+        "data-structures",
+        "bubble-sort"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786061/is-there-is-bug-in-below-method-data-structures-algorithms-by-robert-lafore"
+    },
+    {
+      "Created": "2025-10-09T06:05:55Z",
+      "Title": "Incorrect Transcription from AWS Transcribe in cases which include the digit \u00227\u0022",
+      "Tags": [
+        "python",
+        "amazon-web-services",
+        "sockets",
+        "speech-to-text",
+        "amazon-transcribe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786075/incorrect-transcription-from-aws-transcribe-in-cases-which-include-the-digit-7"
+    },
+    {
+      "Created": "2025-10-09T06:08:43Z",
+      "Title": "How to detect any defects except selected areas from an image using Python?",
+      "Tags": [
+        "python",
+        "object-detection",
+        "yolo",
+        "anomaly-detection",
+        "template-matching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786076/how-to-detect-any-defects-except-selected-areas-from-an-image-using-python"
+    }
+  ]
+}

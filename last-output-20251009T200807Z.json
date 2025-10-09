@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-09T20:05:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T19:25:06Z",
+      "Title": "NameError: cannot access free variable \u0027marquee\u0027 where it is not associated with a value in enclosing scope?",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786784/nameerror-cannot-access-free-variable-marquee-where-it-is-not-associated-with"
+    },
+    {
+      "Created": "2025-10-09T19:36:48Z",
+      "Title": "React state sync problem - setState in render or in useEffect",
+      "Tags": [
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786794/react-state-sync-problem-setstate-in-render-or-in-useeffect"
+    },
+    {
+      "Created": "2025-10-09T19:47:05Z",
+      "Title": "React Native Expo App not working on Android 13 and below after blocking storage permissions",
+      "Tags": [
+        "android",
+        "react-native",
+        "google-play-console",
+        "android-13"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786804/react-native-expo-app-not-working-on-android-13-and-below-after-blocking-storage"
+    },
+    {
+      "Created": "2025-10-09T19:52:37Z",
+      "Title": ".NET MAUI - How to calculate the pixel location based on the scale of the underlying image?",
+      "Tags": [
+        "uwp",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786808/net-maui-how-to-calculate-the-pixel-location-based-on-the-scale-of-the-underl"
+    },
+    {
+      "Created": "2025-10-09T20:05:52Z",
+      "Title": "TQDM progress bar stopping progress until a key is presseed",
+      "Tags": [
+        "python",
+        "user-interface",
+        "progress-bar",
+        "tqdm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786820/tqdm-progress-bar-stopping-progress-until-a-key-is-presseed"
+    }
+  ]
+}

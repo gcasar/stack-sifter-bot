@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-09T16:04:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T15:35:33Z",
+      "Title": "How to ensure webhook requests are routed to the same FastAPI worker that initiated the request",
+      "Tags": [
+        "python",
+        "asynchronous",
+        "twilio",
+        "fastapi",
+        "uvicorn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786596/how-to-ensure-webhook-requests-are-routed-to-the-same-fastapi-worker-that-initia"
+    },
+    {
+      "Created": "2025-10-09T15:44:54Z",
+      "Title": "Why does \u0027chatkit\u0027 not exist on OpenAI object?",
+      "Tags": [
+        "python",
+        "openai-api",
+        "chatkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786607/why-does-chatkit-not-exist-on-openai-object"
+    },
+    {
+      "Created": "2025-10-09T15:53:24Z",
+      "Title": "How to access the actual Google Maps 3D canvas? (Needed for streaming)",
+      "Tags": [
+        "javascript",
+        "google-maps-api-3",
+        "html5-canvas",
+        "capturestream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786615/how-to-access-the-actual-google-maps-3d-canvas-needed-for-streaming"
+    },
+    {
+      "Created": "2025-10-09T15:59:40Z",
+      "Title": "How do I get intellisense working, at least minimally, for clang-cl in Visual Studio 2022?",
+      "Tags": [
+        "c\u002B\u002B",
+        "clang",
+        "visual-studio-2022",
+        "simd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786621/how-do-i-get-intellisense-working-at-least-minimally-for-clang-cl-in-visual-st"
+    },
+    {
+      "Created": "2025-10-09T16:02:01Z",
+      "Title": "Sql injection protection when sending json as a sql function parameter",
+      "Tags": [
+        "node.js",
+        "postgresql",
+        "sql-injection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786624/sql-injection-protection-when-sending-json-as-a-sql-function-parameter"
+    },
+    {
+      "Created": "2025-10-09T16:04:17Z",
+      "Title": "Could the reason why I cant select any kernels in VS Code be this error? If so how do I resolve it",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "jupyter-notebook",
+        "miniconda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786628/could-the-reason-why-i-cant-select-any-kernels-in-vs-code-be-this-error-if-so-h"
+    }
+  ]
+}

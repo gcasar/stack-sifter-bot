@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-09T17:59:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-09T16:58:46Z",
+      "Title": "Why is mapAsync internal buffer not getting garbage collected?",
+      "Tags": [
+        "scala",
+        "akka",
+        "akka-stream",
+        "pekko",
+        "pekko-stream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786671/why-is-mapasync-internal-buffer-not-getting-garbage-collected"
+    },
+    {
+      "Created": "2025-10-09T17:06:06Z",
+      "Title": "Can Login and Logout be optional in a UML Use Case diagram?",
+      "Tags": [
+        "uml",
+        "data-modeling",
+        "use-case"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786676/can-login-and-logout-be-optional-in-a-uml-use-case-diagram"
+    },
+    {
+      "Created": "2025-10-09T17:36:57Z",
+      "Title": "Comparing ping commands of hexadecimal packets for linux and windows systems",
+      "Tags": [
+        "bash",
+        "batch-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786703/comparing-ping-commands-of-hexadecimal-packets-for-linux-and-windows-systems"
+    },
+    {
+      "Created": "2025-10-09T17:55:41Z",
+      "Title": "The blade not calling a function in the component",
+      "Tags": [
+        "laravel",
+        "laravel-blade",
+        "laravel-livewire",
+        "livewire-3",
+        "laravel-livewire-wiremodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786718/the-blade-not-calling-a-function-in-the-component"
+    },
+    {
+      "Created": "2025-10-09T17:59:57Z",
+      "Title": "Selecting a \u0022representative\u0022 subset from a larger set",
+      "Tags": [
+        "python",
+        "mathematical-optimization",
+        "mixed-integer-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786725/selecting-a-representative-subset-from-a-larger-set"
+    }
+  ]
+}

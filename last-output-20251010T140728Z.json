@@ -1,0 +1,81 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-10T14:03:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T13:31:18Z",
+      "Title": "Setting std::function callback in polymorphic type",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787395/setting-stdfunction-callback-in-polymorphic-type"
+    },
+    {
+      "Created": "2025-10-10T13:55:25Z",
+      "Title": "warning comparison of integer expressions of different signedness int and std __cxx11 basic_string char size_type aka long unsigned int -Wsign-compare [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "compiler-errors"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787414/warning-comparison-of-integer-expressions-of-different-signedness-int-and-std"
+    },
+    {
+      "Created": "2025-10-10T13:56:03Z",
+      "Title": "Is it possible to use the AngularNodeAppEngine and dynamically provide the CSP nonce to Angular?",
+      "Tags": [
+        "angular",
+        "typescript",
+        "server-side-rendering",
+        "angular-ssr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787415/is-it-possible-to-use-the-angularnodeappengine-and-dynamically-provide-the-csp-n"
+    },
+    {
+      "Created": "2025-10-10T13:58:07Z",
+      "Title": "solution for the below problem in c language [closed]",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787422/solution-for-the-below-problem-in-c-language"
+    },
+    {
+      "Created": "2025-10-10T13:58:07Z",
+      "Title": "How to convert String Literal Json into Json",
+      "Tags": [
+        "json",
+        "jinja2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787421/how-to-convert-string-literal-json-into-json"
+    },
+    {
+      "Created": "2025-10-10T13:59:41Z",
+      "Title": "Visualize gradients and weights in tensorboard",
+      "Tags": [
+        "tensorflow",
+        "keras",
+        "tensorboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787424/visualize-gradients-and-weights-in-tensorboard"
+    },
+    {
+      "Created": "2025-10-10T14:01:48Z",
+      "Title": "Expo SDK 54 \u002B React Native 0.76.5: Kotlin compilation errors with expo-modules-core and react-native-gesture-handler",
+      "Tags": [
+        "react-native",
+        "kotlin",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787426/expo-sdk-54-react-native-0-76-5-kotlin-compilation-errors-with-expo-modules-c"
+    },
+    {
+      "Created": "2025-10-10T14:03:24Z",
+      "Title": "How can I split a full webpage screenshot into separate UI blocks (PHP library or API)?",
+      "Tags": [
+        "php",
+        "screenshot",
+        "webpage-screenshot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787428/how-can-i-split-a-full-webpage-screenshot-into-separate-ui-blocks-php-library-o"
+    }
+  ]
+}

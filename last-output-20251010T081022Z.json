@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-10T07:58:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T07:22:46Z",
+      "Title": "Best implementation for NullPointerException when two threads one access and the other clear the same list sometimes",
+      "Tags": [
+        "java",
+        "list",
+        "multithreading",
+        "synchronization",
+        "thread-safety"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787082/best-implementation-for-nullpointerexception-when-two-threads-one-access-and-the"
+    },
+    {
+      "Created": "2025-10-10T07:23:55Z",
+      "Title": "How to get DBeaver to stop saying syntax error to correct SQL code?",
+      "Tags": [
+        "dbeaver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787083/how-to-get-dbeaver-to-stop-saying-syntax-error-to-correct-sql-code"
+    },
+    {
+      "Created": "2025-10-10T07:38:28Z",
+      "Title": "Type hints for concurrent.futures.Executor subclasses",
+      "Tags": [
+        "python",
+        "pylance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787097/type-hints-for-concurrent-futures-executor-subclasses"
+    },
+    {
+      "Created": "2025-10-10T07:55:08Z",
+      "Title": "How to create a searchable dropdown/autocomplete TextField in Jetpack Compose without the suggestion list stealing focus?",
+      "Tags": [
+        "kotlin",
+        "material-ui",
+        "android-jetpack-compose",
+        "kotlin-multiplatform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787109/how-to-create-a-searchable-dropdown-autocomplete-textfield-in-jetpack-compose-wi"
+    },
+    {
+      "Created": "2025-10-10T07:58:07Z",
+      "Title": "Referencing a non-existing column in a CTE",
+      "Tags": [
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787110/referencing-a-non-existing-column-in-a-cte"
+    }
+  ]
+}

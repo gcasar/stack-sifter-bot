@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-10T01:23:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T00:49:06Z",
+      "Title": "A global sync.Mutex don\u0027t work with multiple client packages?",
+      "Tags": [
+        "go",
+        "concurrency",
+        "package",
+        "integration-testing",
+        "mutex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786936/a-global-sync-mutex-dont-work-with-multiple-client-packages"
+    },
+    {
+      "Created": "2025-10-10T00:54:19Z",
+      "Title": "How do I get my SPA application authentication to return the correct audience?",
+      "Tags": [
+        "reactjs",
+        "authentication",
+        "single-page-application",
+        "audience"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786938/how-do-i-get-my-spa-application-authentication-to-return-the-correct-audience"
+    },
+    {
+      "Created": "2025-10-10T00:58:14Z",
+      "Title": "ServiceBusRuleManager timeing out",
+      "Tags": [
+        "azureservicebus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786939/servicebusrulemanager-timeing-out"
+    },
+    {
+      "Created": "2025-10-10T01:20:29Z",
+      "Title": "How to open a JSON and apend to it idependently to whether it exists or not?",
+      "Tags": [
+        "json",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786944/how-to-open-a-json-and-apend-to-it-idependently-to-whether-it-exists-or-not"
+    },
+    {
+      "Created": "2025-10-10T01:23:13Z",
+      "Title": "React HeadlessUI Dialog re-renders with null state during exit transition",
+      "Tags": [
+        "reactjs",
+        "headless-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786945/react-headlessui-dialog-re-renders-with-null-state-during-exit-transition"
+    }
+  ]
+}

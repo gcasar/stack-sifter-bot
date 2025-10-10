@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-10T16:56:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T16:18:47Z",
+      "Title": "Subtlety in initializing attributes with methods in modules from the \u0060equinox\u0060 \u0060jax\u0060 library",
+      "Tags": [
+        "python",
+        "class",
+        "constructor",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787529/subtlety-in-initializing-attributes-with-methods-in-modules-from-the-equinox"
+    },
+    {
+      "Created": "2025-10-10T16:48:39Z",
+      "Title": "Unused short circuit result with side effects",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "language-lawyer",
+        "short-circuiting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787548/unused-short-circuit-result-with-side-effects"
+    },
+    {
+      "Created": "2025-10-10T16:55:17Z",
+      "Title": "ggplot: how to fix converting the numeric value on x-axis",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787558/ggplot-how-to-fix-converting-the-numeric-value-on-x-axis"
+    },
+    {
+      "Created": "2025-10-10T16:56:48Z",
+      "Title": "macOS Automator Quick Action (Zsh script) using cpdf completes with success message but creates no output files",
+      "Tags": [
+        "macos",
+        "shell",
+        "zsh",
+        "tcpdf",
+        "automator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787560/macos-automator-quick-action-zsh-script-using-cpdf-completes-with-success-mess"
+    }
+  ]
+}

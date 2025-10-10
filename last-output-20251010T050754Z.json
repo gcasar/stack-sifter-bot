@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-10T05:00:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T04:20:24Z",
+      "Title": "C - initialize char array with alphabet",
+      "Tags": [
+        "c",
+        "char",
+        "strcpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786988/c-initialize-char-array-with-alphabet"
+    },
+    {
+      "Created": "2025-10-10T04:42:19Z",
+      "Title": "Can you implement a PrimeNG SelectItem as a menu item that retains focus?",
+      "Tags": [
+        "html",
+        "angular",
+        "primeng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786995/can-you-implement-a-primeng-selectitem-as-a-menu-item-that-retains-focus"
+    },
+    {
+      "Created": "2025-10-10T04:46:02Z",
+      "Title": "How to emulate aspect ratio change using CSS animation?",
+      "Tags": [
+        "javascript",
+        "css",
+        "animation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786996/how-to-emulate-aspect-ratio-change-using-css-animation"
+    },
+    {
+      "Created": "2025-10-10T04:58:46Z",
+      "Title": "Google Ads API Node.js MCC Setup: TypeError \u0027Cannot read properties of undefined (reading get)\u0027 in customer.report",
+      "Tags": [
+        "google-ads-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787002/google-ads-api-node-js-mcc-setup-typeerror-cannot-read-properties-of-undefined"
+    },
+    {
+      "Created": "2025-10-10T05:00:40Z",
+      "Title": "How to get hierarchical structure from a single table in griddb/griddb cloud?",
+      "Tags": [
+        "sql",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787003/how-to-get-hierarchical-structure-from-a-single-table-in-griddb-griddb-cloud"
+    }
+  ]
+}

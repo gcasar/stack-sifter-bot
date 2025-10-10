@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-10T04:00:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T03:26:50Z",
+      "Title": "Compiler does not recognise contents of header file C\u002B\u002B [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "linker-errors",
+        "header-files"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786976/compiler-does-not-recognise-contents-of-header-file-c"
+    },
+    {
+      "Created": "2025-10-10T03:44:04Z",
+      "Title": "The matrittr pipe does not apply st_set_crs",
+      "Tags": [
+        "r",
+        "gis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786980/the-matrittr-pipe-does-not-apply-st-set-crs"
+    },
+    {
+      "Created": "2025-10-10T04:00:00Z",
+      "Title": "vue-i18n v10 \u2013 how to translate in a specific locale per call (3rd argument no longer works)",
+      "Tags": [
+        "vue.js",
+        "vue-i18n"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786982/vue-i18n-v10-how-to-translate-in-a-specific-locale-per-call-3rd-argument-no-l"
+    }
+  ]
+}

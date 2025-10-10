@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-10T03:17:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T02:41:25Z",
+      "Title": "Gmail API 403 \u0022Delegation denied\u0022 error using Service Account DWD (Apps Script) despite Super Admin role",
+      "Tags": [
+        "rest",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786964/gmail-api-403-delegation-denied-error-using-service-account-dwd-apps-script"
+    },
+    {
+      "Created": "2025-10-10T02:57:11Z",
+      "Title": "Selenium using chromium can\u0027t access a domain mapped to localhost",
+      "Tags": [
+        "google-chrome",
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786970/selenium-using-chromium-cant-access-a-domain-mapped-to-localhost"
+    },
+    {
+      "Created": "2025-10-10T02:57:12Z",
+      "Title": "Google Cloud Run service fails to connect to Cloud SQL despite all correct configurations and successful network tests",
+      "Tags": [
+        "google-cloud-platform",
+        "google-cloud-sql",
+        "google-cloud-run"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786971/google-cloud-run-service-fails-to-connect-to-cloud-sql-despite-all-correct-confi"
+    },
+    {
+      "Created": "2025-10-10T03:17:35Z",
+      "Title": "deleting nullptr before creating the object",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786973/deleting-nullptr-before-creating-the-object"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-10T02:19:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T02:04:26Z",
+      "Title": "Python POST API formatting questions",
+      "Tags": [
+        "python",
+        "json",
+        "post",
+        "python-requests"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786955/python-post-api-formatting-questions"
+    },
+    {
+      "Created": "2025-10-10T02:19:47Z",
+      "Title": "fpdf and fpdf2 don\u0027t have the table attribute",
+      "Tags": [
+        "python-3.x",
+        "fpdf",
+        "fpdf2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786958/fpdf-and-fpdf2-dont-have-the-table-attribute"
+    }
+  ]
+}

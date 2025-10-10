@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-10T14:56:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T14:11:31Z",
+      "Title": "how to verify Confluent Kafka JsonSchema Serialized message?",
+      "Tags": [
+        "apache-kafka",
+        "jsonschema",
+        "confluent-platform",
+        "confluent-schema-registry",
+        "json-schema-validator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787435/how-to-verify-confluent-kafka-jsonschema-serialized-message"
+    },
+    {
+      "Created": "2025-10-10T14:41:40Z",
+      "Title": "fixing subplot of imshow with colorbar unequal axes and spacing",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "axis",
+        "colorbar",
+        "imshow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787463/fixing-subplot-of-imshow-with-colorbar-unequal-axes-and-spacing"
+    },
+    {
+      "Created": "2025-10-10T14:56:54Z",
+      "Title": "How to disable or modify Supported headers (100rel/timer) in PJSUA2 before sending INVITE",
+      "Tags": [
+        "c\u002B\u002B",
+        "sip",
+        "pjsip",
+        "pjsua2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787474/how-to-disable-or-modify-supported-headers-100rel-timer-in-pjsua2-before-sendi"
+    }
+  ]
+}

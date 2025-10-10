@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-10T20:52:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T20:45:21Z",
+      "Title": "How to get different webp \u0022quality\u0022 results using PHP Imagick? setImageCompressionQuality has no effect",
+      "Tags": [
+        "php",
+        "imagick"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787679/how-to-get-different-webp-quality-results-using-php-imagick-setimagecompressi"
+    },
+    {
+      "Created": "2025-10-10T20:52:57Z",
+      "Title": "Database connections prematurely dropped/stale after upgrading AWS EC2 instance",
+      "Tags": [
+        "amazon-web-services",
+        "spring-boot",
+        "amazon-ec2",
+        "hikaricp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787683/database-connections-prematurely-dropped-stale-after-upgrading-aws-ec2-instance"
+    }
+  ]
+}

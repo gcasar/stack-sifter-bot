@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-10T10:07:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T09:51:03Z",
+      "Title": "SwiftUI TextField with number format ignores environment locale",
+      "Tags": [
+        "ios",
+        "swiftui",
+        "locale",
+        "textfield",
+        "number-formatting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787202/swiftui-textfield-with-number-format-ignores-environment-locale"
+    },
+    {
+      "Created": "2025-10-10T09:56:35Z",
+      "Title": "Python handles blackboard writing with erased traces",
+      "Tags": [
+        "python",
+        "python-imaging-library",
+        "blackboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787209/python-handles-blackboard-writing-with-erased-traces"
+    },
+    {
+      "Created": "2025-10-10T09:58:53Z",
+      "Title": "EntityFramework Core (9.0.9) is not respecting my entity configurations",
+      "Tags": [
+        ".net",
+        "postgresql",
+        "entity-framework-core",
+        "ef-fluent-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787210/entityframework-core-9-0-9-is-not-respecting-my-entity-configurations"
+    },
+    {
+      "Created": "2025-10-10T10:00:13Z",
+      "Title": "Recommended method of restarting Docker containers from CI/CD",
+      "Tags": [
+        "azure",
+        "docker",
+        "continuous-integration",
+        "azure-pipelines",
+        "continuous-deployment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787214/recommended-method-of-restarting-docker-containers-from-ci-cd"
+    },
+    {
+      "Created": "2025-10-10T10:01:19Z",
+      "Title": "Tailwind\u0027s gradient from and to properties colors are not applying but color of via is showing",
+      "Tags": [
+        "css",
+        "reactjs",
+        "frontend",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787215/tailwinds-gradient-from-and-to-properties-colors-are-not-applying-but-color-of"
+    },
+    {
+      "Created": "2025-10-10T10:07:01Z",
+      "Title": "Epson TM-m30III don\u0027t print the \u00A3 symbol",
+      "Tags": [
+        "c#",
+        "printing",
+        "printers",
+        "epson",
+        "pointofservice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787222/epson-tm-m30iii-dont-print-the-%c2%a3-symbol"
+    }
+  ]
+}

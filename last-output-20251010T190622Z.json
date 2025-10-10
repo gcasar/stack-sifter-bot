@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-10T19:03:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T18:38:02Z",
+      "Title": "how to set orientation to landscape for multiple pages with pdfHTML",
+      "Tags": [
+        "c#",
+        "html",
+        "css",
+        "itext",
+        "pdfhtml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787622/how-to-set-orientation-to-landscape-for-multiple-pages-with-pdfhtml"
+    },
+    {
+      "Created": "2025-10-10T18:41:44Z",
+      "Title": "spdlog prints to debug and info sink",
+      "Tags": [
+        "c\u002B\u002B",
+        "spdlog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787625/spdlog-prints-to-debug-and-info-sink"
+    },
+    {
+      "Created": "2025-10-10T18:44:31Z",
+      "Title": "javax.sql.rowset.serial.SerialClob cannot be cast to oracle.sql.CLOB while using preparedStatement.setClob",
+      "Tags": [
+        "java",
+        "oracle-database",
+        "jdbc",
+        "ojdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787628/javax-sql-rowset-serial-serialclob-cannot-be-cast-to-oracle-sql-clob-while-using"
+    },
+    {
+      "Created": "2025-10-10T19:03:50Z",
+      "Title": "How to convert T To INumber\u003CT\u003E",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787632/how-to-convert-t-to-inumbert"
+    }
+  ]
+}

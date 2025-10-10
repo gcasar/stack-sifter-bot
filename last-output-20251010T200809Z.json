@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-10T19:42:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T19:38:43Z",
+      "Title": "What is the size of std::arary\u003CT,0\u003E?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11",
+        "stl",
+        "sizeof",
+        "stdarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787647/what-is-the-size-of-stdararyt-0"
+    },
+    {
+      "Created": "2025-10-10T19:42:33Z",
+      "Title": "Constructor initializer issue - CS8862 [duplicate]",
+      "Tags": [
+        "c#",
+        "primary-constructor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787649/constructor-initializer-issue-cs8862"
+    }
+  ]
+}

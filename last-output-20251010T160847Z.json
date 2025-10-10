@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-10T16:01:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T15:46:41Z",
+      "Title": "Using ITaskService set up \u0022Basic\u0022 Event instead of \u0022Custom\u0022 c\u002B\u002B/mfc",
+      "Tags": [
+        "c\u002B\u002B",
+        "mfc",
+        "scheduler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787505/using-itaskservice-set-up-basic-event-instead-of-custom-c-mfc"
+    },
+    {
+      "Created": "2025-10-10T16:01:06Z",
+      "Title": "new verison of chromedriver returns org.openqa.selenium.SessionNotCreatedException: Could not start a new session",
+      "Tags": [
+        "java",
+        "google-chrome",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787515/new-verison-of-chromedriver-returns-org-openqa-selenium-sessionnotcreatedexcepti"
+    }
+  ]
+}

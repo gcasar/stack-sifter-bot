@@ -1,0 +1,104 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-10T06:08:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T05:31:09Z",
+      "Title": "Input data gets disappear as the Next Button is clicked in Selenium Python Automation",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787016/input-data-gets-disappear-as-the-next-button-is-clicked-in-selenium-python-autom"
+    },
+    {
+      "Created": "2025-10-10T05:31:22Z",
+      "Title": "How do I make the same button play AND pause the video with jquery?",
+      "Tags": [
+        "html",
+        "jquery",
+        "button",
+        "controls",
+        "html5-video"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787017/how-do-i-make-the-same-button-play-and-pause-the-video-with-jquery"
+    },
+    {
+      "Created": "2025-10-10T05:42:18Z",
+      "Title": "Communications link failure when connecting Java (JDBC) to local MySQL database [closed]",
+      "Tags": [
+        "java",
+        "mysql",
+        "jdbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787020/communications-link-failure-when-connecting-java-jdbc-to-local-mysql-database"
+    },
+    {
+      "Created": "2025-10-10T05:42:35Z",
+      "Title": "Is there a way to limit or define which classes are included in a Jar in IntelliJ?",
+      "Tags": [
+        "maven",
+        "intellij-idea",
+        "javafx",
+        "jar",
+        "artifact"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787021/is-there-a-way-to-limit-or-define-which-classes-are-included-in-a-jar-in-intelli"
+    },
+    {
+      "Created": "2025-10-10T05:54:22Z",
+      "Title": "HiveServer2 fails to start \u2014 no listener on port 10000 (Docker Hadoop-Hive setup)",
+      "Tags": [
+        "docker",
+        "hadoop",
+        "docker-compose",
+        "hive",
+        "hue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787027/hiveserver2-fails-to-start-no-listener-on-port-10000-docker-hadoop-hive-setup"
+    },
+    {
+      "Created": "2025-10-10T06:05:50Z",
+      "Title": "How do I crop my image in .jsx so that my image is not \u0027cut off\u0027",
+      "Tags": [
+        "jsx",
+        "photoshop-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787036/how-do-i-crop-my-image-in-jsx-so-that-my-image-is-not-cut-off"
+    },
+    {
+      "Created": "2025-10-10T06:06:15Z",
+      "Title": "Angular Reactive Form still includes empty values in form.value even after applying validators",
+      "Tags": [
+        "validation",
+        "angular-reactive-forms",
+        "angular-forms",
+        "angular-formbuilder",
+        "angular20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787037/angular-reactive-form-still-includes-empty-values-in-form-value-even-after-apply"
+    },
+    {
+      "Created": "2025-10-10T06:08:01Z",
+      "Title": "Best Practices for a Large Next.js App\u0027s Structure \u0026 Performance",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "pagespeed-insights",
+        "nextjs14",
+        "web-performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787038/best-practices-for-a-large-next-js-apps-structure-performance"
+    },
+    {
+      "Created": "2025-10-10T06:08:36Z",
+      "Title": "Error: TypeError: \u0027coroutine\u0027 object is not subscriptable",
+      "Tags": [
+        "python",
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787039/error-typeerror-coroutine-object-is-not-subscriptable"
+    }
+  ]
+}

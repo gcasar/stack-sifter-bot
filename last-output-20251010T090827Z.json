@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-10T09:06:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T08:26:45Z",
+      "Title": "Deploy will take place \u0022exclusively\u0022 outside the Play Store (sideloading): can I use Google Cloud, App Engine and Play Billing? [closed]",
+      "Tags": [
+        "google-cloud-platform",
+        "google-app-engine",
+        "deployment",
+        "google-play",
+        "sideloading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787132/deploy-will-take-place-exclusively-outside-the-play-store-sideloading-can-i"
+    },
+    {
+      "Created": "2025-10-10T08:50:43Z",
+      "Title": "TypeError: layoutState.get is not a function (it is undefined) This error is located at: at BottomSheet",
+      "Tags": [
+        "expo",
+        "bottom-sheet",
+        "gorhom-bottom-sheet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787151/typeerror-layoutstate-get-is-not-a-function-it-is-undefined-this-error-is-loc"
+    },
+    {
+      "Created": "2025-10-10T08:52:50Z",
+      "Title": "Connection declined when scanning QR to connect wallet in TON web client tutorial",
+      "Tags": [
+        "typescript",
+        "blockchain",
+        "telegram",
+        "ton"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787154/connection-declined-when-scanning-qr-to-connect-wallet-in-ton-web-client-tutoria"
+    },
+    {
+      "Created": "2025-10-10T08:54:14Z",
+      "Title": "How to define dynamic schema for a topic with different objects in an array?",
+      "Tags": [
+        "json",
+        "kafka-topic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787157/how-to-define-dynamic-schema-for-a-topic-with-different-objects-in-an-array"
+    },
+    {
+      "Created": "2025-10-10T08:56:22Z",
+      "Title": "How do you configure GitKraken to use VS2022 as its external editor?",
+      "Tags": [
+        "visual-studio",
+        "gitkraken"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787159/how-do-you-configure-gitkraken-to-use-vs2022-as-its-external-editor"
+    },
+    {
+      "Created": "2025-10-10T09:03:06Z",
+      "Title": "Export sheet changing empty string (\u0022\u0022) with BLANK()",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787165/export-sheet-changing-empty-string-with-blank"
+    },
+    {
+      "Created": "2025-10-10T09:04:41Z",
+      "Title": "How to hide / show slides?",
+      "Tags": [
+        "javascript",
+        "powerpoint-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787166/how-to-hide-show-slides"
+    },
+    {
+      "Created": "2025-10-10T09:06:51Z",
+      "Title": "How do i connect a java app to connect to a DBISAM database (CRUD functionalities)",
+      "Tags": [
+        "java",
+        "maven",
+        "netbeans",
+        "pom.xml",
+        "dbisam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787167/how-do-i-connect-a-java-app-to-connect-to-a-dbisam-database-crud-functionalitie"
+    },
+    {
+      "Created": "2025-10-10T09:06:58Z",
+      "Title": "How to fix \u0022ModuleNotFoundError\u0022 when importing a custom Python file?",
+      "Tags": [
+        "python",
+        "import",
+        "module",
+        "path"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787168/how-to-fix-modulenotfounderror-when-importing-a-custom-python-file"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-10T10:58:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T10:32:25Z",
+      "Title": "GAMS csv importing and load issue",
+      "Tags": [
+        "csv",
+        "import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787241/gams-csv-importing-and-load-issue"
+    },
+    {
+      "Created": "2025-10-10T10:40:43Z",
+      "Title": "How can I add meta tags with custom attributes like itemprop, http-equiv, or data-* in Next.js 15.4.3 (App Router)?",
+      "Tags": [
+        "next.js",
+        "seo",
+        "html-meta"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787245/how-can-i-add-meta-tags-with-custom-attributes-like-itemprop-http-equiv-or-dat"
+    },
+    {
+      "Created": "2025-10-10T10:46:29Z",
+      "Title": "NextJS Dynamic Routes and Slugs not working on production",
+      "Tags": [
+        "next.js",
+        "nextjs-dynamic-routing",
+        "nextjs-15"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787246/nextjs-dynamic-routes-and-slugs-not-working-on-production"
+    },
+    {
+      "Created": "2025-10-10T10:49:32Z",
+      "Title": "CSV Export Filter - How to Preserve Large Integer Values Without Affecting Dates and Decimals?",
+      "Tags": [
+        "libreoffice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787249/csv-export-filter-how-to-preserve-large-integer-values-without-affecting-dates"
+    },
+    {
+      "Created": "2025-10-10T10:56:46Z",
+      "Title": "ESLint core now provides this functionality via \u0060defineConfig()\u0060 (\u0060config\u0060 is deprecated)",
+      "Tags": [
+        "eslint",
+        "typescript-eslint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787255/eslint-core-now-provides-this-functionality-via-defineconfig-config-is-de"
+    },
+    {
+      "Created": "2025-10-10T10:58:02Z",
+      "Title": "Sending JSON and File with 1 curl request?",
+      "Tags": [
+        "curl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787257/sending-json-and-file-with-1-curl-request"
+    }
+  ]
+}

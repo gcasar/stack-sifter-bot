@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-10T00:27:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T00:04:29Z",
+      "Title": "Why must classes be defined in order of appearance in python module?",
+      "Tags": [
+        "python",
+        "class",
+        "attributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786917/why-must-classes-be-defined-in-order-of-appearance-in-python-module"
+    },
+    {
+      "Created": "2025-10-10T00:13:26Z",
+      "Title": "Get list of files from external snowflake stage based on where condition on timestamp column",
+      "Tags": [
+        "sql",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786921/get-list-of-files-from-external-snowflake-stage-based-on-where-condition-on-time"
+    },
+    {
+      "Created": "2025-10-10T00:26:34Z",
+      "Title": "Can you remove empty elements from input xml by configuring the MvcBuilder?",
+      "Tags": [
+        "c#",
+        "asp.net-mvc-4",
+        "xml-deserialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786926/can-you-remove-empty-elements-from-input-xml-by-configuring-the-mvcbuilder"
+    },
+    {
+      "Created": "2025-10-10T00:27:00Z",
+      "Title": "Is it possible to develop an application with both IOS and Android compatibility backend logic at the same time?",
+      "Tags": [
+        "android",
+        "ios",
+        "oop",
+        "mobile",
+        "scalability"
+      ],
+      "Url": "https://stackoverflow.com/questions/79786927/is-it-possible-to-develop-an-application-with-both-ios-and-android-compatibility"
+    }
+  ]
+}

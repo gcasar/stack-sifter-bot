@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-10T12:10:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T11:23:03Z",
+      "Title": "Does SONAR\u0027s cpp:S5213 rule imply that functions accepting lambdas must be implemented in the .h file?",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "lambda",
+        "sonarqube",
+        "sonarlint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787280/does-sonars-cpps5213-rule-imply-that-functions-accepting-lambdas-must-be-imple"
+    },
+    {
+      "Created": "2025-10-10T11:38:42Z",
+      "Title": "How to display SVG using QuickLookUI inside app?",
+      "Tags": [
+        "objective-c",
+        "macos",
+        "svg",
+        "cocoa",
+        "quicklook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787292/how-to-display-svg-using-quicklookui-inside-app"
+    },
+    {
+      "Created": "2025-10-10T11:44:02Z",
+      "Title": "How to replace a patterned string efficiently with PHP e.g. ((1)), ((2)) for footnotes",
+      "Tags": [
+        "javascript",
+        "php",
+        "jquery",
+        "regex",
+        "wordpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787299/how-to-replace-a-patterned-string-efficiently-with-php-e-g-1-2-for-foo"
+    },
+    {
+      "Created": "2025-10-10T11:56:15Z",
+      "Title": "VSCODE Toggle selection endpoints",
+      "Tags": [
+        "visual-studio-code",
+        "key-bindings",
+        "vscode-keybinding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787312/vscode-toggle-selection-endpoints"
+    },
+    {
+      "Created": "2025-10-10T11:57:26Z",
+      "Title": "When performing SHAP analysis with the kernelshap package, errors persistently occur when dealing with factor-type independent variables",
+      "Tags": [
+        "r",
+        "shap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787316/when-performing-shap-analysis-with-the-kernelshap-package-errors-persistently-o"
+    },
+    {
+      "Created": "2025-10-10T12:00:42Z",
+      "Title": "How can I mutate a MainActor\u202F\u2011isolated property from a Sendable closure I don\u2019t control in Swift concurrency?",
+      "Tags": [
+        "swift",
+        "swift-concurrency",
+        "mainactor",
+        "sendable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787319/how-can-i-mutate-a-mainactor-isolated-property-from-a-sendable-closure-i-don-t"
+    },
+    {
+      "Created": "2025-10-10T12:10:18Z",
+      "Title": "React Native Release APK works locally but breaks on Play Store with \u0022undefined is not a function\u0022 Apollo Client error",
+      "Tags": [
+        "android",
+        "react-native",
+        "apollo",
+        "apollo-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787330/react-native-release-apk-works-locally-but-breaks-on-play-store-with-undefined"
+    }
+  ]
+}

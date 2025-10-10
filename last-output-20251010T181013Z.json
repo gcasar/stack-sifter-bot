@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-10T18:04:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T17:06:36Z",
+      "Title": "Triple Fault When Running a User-Mode Program",
+      "Tags": [
+        "c",
+        "assembly",
+        "x86",
+        "osdev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787571/triple-fault-when-running-a-user-mode-program"
+    },
+    {
+      "Created": "2025-10-10T17:26:23Z",
+      "Title": "How to combine multiple rows of Pandas dataframe into one row using a key [duplicate]",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "csv",
+        "group-by"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787585/how-to-combine-multiple-rows-of-pandas-dataframe-into-one-row-using-a-key"
+    },
+    {
+      "Created": "2025-10-10T17:58:05Z",
+      "Title": "widget tests for .isExecuting failing",
+      "Tags": [
+        "flutter",
+        "dart",
+        "widget-test-flutter",
+        "dart-test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787598/widget-tests-for-isexecuting-failing"
+    },
+    {
+      "Created": "2025-10-10T18:04:16Z",
+      "Title": "Cannot access n8n Docker instance over LAN \u2013 \u0022secure cookie\u0022 error even with N8N_SECURE_COOKIE=false",
+      "Tags": [
+        "docker",
+        "traefik",
+        "n8n"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787603/cannot-access-n8n-docker-instance-over-lan-secure-cookie-error-even-with-n8n"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-10T22:01:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T21:32:15Z",
+      "Title": "Access parameters from rockspec",
+      "Tags": [
+        "lua",
+        "luarocks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787698/access-parameters-from-rockspec"
+    },
+    {
+      "Created": "2025-10-10T21:49:20Z",
+      "Title": "XCUITest uninstall stalls with iOS 26",
+      "Tags": [
+        "ios",
+        "xcode",
+        "ios26",
+        "xcode26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787703/xcuitest-uninstall-stalls-with-ios-26"
+    },
+    {
+      "Created": "2025-10-10T21:51:51Z",
+      "Title": "Expo development Android build fails: could not determine the dependencies of task \u0027:app:compileDebugJavaWithJavac\u0027",
+      "Tags": [
+        "android",
+        "gradle",
+        "build",
+        "expo",
+        "expo-dev-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787705/expo-development-android-build-fails-could-not-determine-the-dependencies-of-ta"
+    },
+    {
+      "Created": "2025-10-10T21:56:07Z",
+      "Title": "Overwrite previously-injected services in Singletons",
+      "Tags": [
+        "typescript",
+        "inversifyjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787706/overwrite-previously-injected-services-in-singletons"
+    },
+    {
+      "Created": "2025-10-10T21:56:36Z",
+      "Title": "Transformer model outputs degrade after ONNX export \u2014 what could be causing this?",
+      "Tags": [
+        "artificial-intelligence",
+        "bert-language-model",
+        "onnx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787707/transformer-model-outputs-degrade-after-onnx-export-what-could-be-causing-this"
+    },
+    {
+      "Created": "2025-10-10T21:58:22Z",
+      "Title": "Python multiprocessing shared memory seems to hang or crash when interacting with small numpy arrays",
+      "Tags": [
+        "python",
+        "numpy",
+        "multiprocessing",
+        "numpy-ndarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787708/python-multiprocessing-shared-memory-seems-to-hang-or-crash-when-interacting-wit"
+    },
+    {
+      "Created": "2025-10-10T22:01:52Z",
+      "Title": "Is there a way to mask parts of an image being located with pyautogui?",
+      "Tags": [
+        "python",
+        "python-imaging-library",
+        "pyautogui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787710/is-there-a-way-to-mask-parts-of-an-image-being-located-with-pyautogui"
+    }
+  ]
+}

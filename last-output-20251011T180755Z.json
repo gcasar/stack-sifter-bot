@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-11T18:03:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T17:40:48Z",
+      "Title": "How do I make a jQuery form fire success and failure code?",
+      "Tags": [
+        "jquery",
+        "ajax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788151/how-do-i-make-a-jquery-form-fire-success-and-failure-code"
+    },
+    {
+      "Created": "2025-10-11T17:42:04Z",
+      "Title": "Spring Boot \u002B JWT: How to get only logged-in user\u2019s todos?",
+      "Tags": [
+        "spring-boot",
+        "hibernate",
+        "spring-security",
+        "spring-data-jpa",
+        "jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788152/spring-boot-jwt-how-to-get-only-logged-in-user-s-todos"
+    },
+    {
+      "Created": "2025-10-11T17:42:47Z",
+      "Title": "OpenGL/OpenTK Directional Shadow Maps not working",
+      "Tags": [
+        "c#",
+        "opengl",
+        "opentk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788153/opengl-opentk-directional-shadow-maps-not-working"
+    },
+    {
+      "Created": "2025-10-11T17:49:03Z",
+      "Title": "spring boot web sqlserver interaction",
+      "Tags": [
+        "sql-server",
+        "spring-boot",
+        "unauthorized"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788155/spring-boot-web-sqlserver-interaction"
+    },
+    {
+      "Created": "2025-10-11T17:55:56Z",
+      "Title": "OSM Buildings viewer.remove() and viewer.destroy() not working propperly",
+      "Tags": [
+        "javascript",
+        "html",
+        "openstreetmap",
+        "osmbonuspack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788160/osm-buildings-viewer-remove-and-viewer-destroy-not-working-propperly"
+    },
+    {
+      "Created": "2025-10-11T18:03:20Z",
+      "Title": "FFT in swift/Accelerate gives strange result",
+      "Tags": [
+        "swift",
+        "fft"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788162/fft-in-swift-accelerate-gives-strange-result"
+    }
+  ]
+}

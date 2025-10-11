@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-11T03:03:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T02:32:49Z",
+      "Title": "Matching PyTorch and ONNX outputs layer-wise for debugging inference drift",
+      "Tags": [
+        "pytorch",
+        "artificial-intelligence",
+        "onnx",
+        "ml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787781/matching-pytorch-and-onnx-outputs-layer-wise-for-debugging-inference-drift"
+    },
+    {
+      "Created": "2025-10-11T02:42:30Z",
+      "Title": "How to get the location of tables in PDFs?",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "artificial-intelligence",
+        "extract"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787784/how-to-get-the-location-of-tables-in-pdfs"
+    },
+    {
+      "Created": "2025-10-11T03:03:18Z",
+      "Title": "How to replace \u0060head!\u0060 with \u0060head\u0060 in a recursive function in Lean 4",
+      "Tags": [
+        "theorem-proving",
+        "lean"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787785/how-to-replace-head-with-head-in-a-recursive-function-in-lean-4"
+    }
+  ]
+}

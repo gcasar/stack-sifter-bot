@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-10T23:50:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-10T23:12:18Z",
+      "Title": "CS8765 - Nullability of type of parameter doesn\u0027t match overridden member (possibly because of nullability attributes)",
+      "Tags": [
+        "c#",
+        ".net-core",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787733/cs8765-nullability-of-type-of-parameter-doesnt-match-overridden-member-possi"
+    },
+    {
+      "Created": "2025-10-10T23:18:17Z",
+      "Title": "VBA Loop Through Sub Folders and Copy Files - \u0022Object Required\u0022 Error",
+      "Tags": [
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787737/vba-loop-through-sub-folders-and-copy-files-object-required-error"
+    },
+    {
+      "Created": "2025-10-10T23:47:06Z",
+      "Title": "Understanding on XSLT For Each Loop",
+      "Tags": [
+        "xslt",
+        "xslt-1.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787743/understanding-on-xslt-for-each-loop"
+    },
+    {
+      "Created": "2025-10-10T23:50:04Z",
+      "Title": "How to parse through an object only when it\u0027s been defined",
+      "Tags": [
+        "reactjs",
+        "asynchronous",
+        "next.js",
+        "async-await",
+        "supabase-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787744/how-to-parse-through-an-object-only-when-its-been-defined"
+    }
+  ]
+}

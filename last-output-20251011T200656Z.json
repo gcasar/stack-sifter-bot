@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-11T19:35:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T19:23:14Z",
+      "Title": "Methods or functions in Go",
+      "Tags": [
+        "function",
+        "go",
+        "methods"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788190/methods-or-functions-in-go"
+    },
+    {
+      "Created": "2025-10-11T19:29:30Z",
+      "Title": "Send array of objects to .NET controller action",
+      "Tags": [
+        "javascript",
+        "c#",
+        ".net",
+        "ajax",
+        "model-view-controller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788193/send-array-of-objects-to-net-controller-action"
+    },
+    {
+      "Created": "2025-10-11T19:35:21Z",
+      "Title": "GLSL \u0022GL_RGBA\u0022 and \u0022GL_UNSIGNED_INT\u0022 undeclared identifiers",
+      "Tags": [
+        "glsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788196/glsl-gl-rgba-and-gl-unsigned-int-undeclared-identifiers"
+    }
+  ]
+}

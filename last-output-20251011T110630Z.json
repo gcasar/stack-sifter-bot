@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-11T10:50:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T09:20:19Z",
+      "Title": "Removing gridlines from scanned forms",
+      "Tags": [
+        "python",
+        "opencv",
+        "image-processing",
+        "ocr",
+        "scikit-image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787931/removing-gridlines-from-scanned-forms"
+    },
+    {
+      "Created": "2025-10-11T09:59:36Z",
+      "Title": "How do I add and use Crystal Reports in my C# WinForms application?",
+      "Tags": [
+        "c#",
+        "winforms",
+        "crystal-reports",
+        "reporting",
+        "desktop-application"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787942/how-do-i-add-and-use-crystal-reports-in-my-c-sharp-winforms-application"
+    },
+    {
+      "Created": "2025-10-11T10:16:24Z",
+      "Title": "Cloudflare detection passes but target site still detects me when using puppeteer-real-browser",
+      "Tags": [
+        "puppeteer",
+        "cloudflare"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787950/cloudflare-detection-passes-but-target-site-still-detects-me-when-using-puppetee"
+    },
+    {
+      "Created": "2025-10-11T10:40:29Z",
+      "Title": "Does GitHub copilot in VS Code support MCP Sampling?",
+      "Tags": [
+        "github-copilot",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787958/does-github-copilot-in-vs-code-support-mcp-sampling"
+    },
+    {
+      "Created": "2025-10-11T10:50:28Z",
+      "Title": "Void function doesn\u0027t print elements of matrix C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "function",
+        "class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787964/void-function-doesnt-print-elements-of-matrix-c"
+    }
+  ]
+}

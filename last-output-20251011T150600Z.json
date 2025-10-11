@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-11T14:52:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T14:22:09Z",
+      "Title": "Why does this function return the HAL_BUSY?",
+      "Tags": [
+        "i2c",
+        "stm32f4",
+        "hal",
+        "sda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788065/why-does-this-function-return-the-hal-busy"
+    },
+    {
+      "Created": "2025-10-11T14:36:59Z",
+      "Title": "Is this Visual Studio 2026 Item Template supposed to be here?",
+      "Tags": [
+        "visual-studio",
+        "templates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788073/is-this-visual-studio-2026-item-template-supposed-to-be-here"
+    },
+    {
+      "Created": "2025-10-11T14:37:12Z",
+      "Title": "What causes the failure to display all article comments i my Laravel 8 blogging application?",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788075/what-causes-the-failure-to-display-all-article-comments-i-my-laravel-8-blogging"
+    },
+    {
+      "Created": "2025-10-11T14:42:47Z",
+      "Title": "AttributeError: \u0027Rect\u0027 object has no attribute \u0027get_area\u0027 in PyMuPDF 1.26.5 (works in 1.26.4)",
+      "Tags": [
+        "pdf",
+        "docx",
+        "python-docx",
+        "pymupdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788079/attributeerror-rect-object-has-no-attribute-get-area-in-pymupdf-1-26-5-wor"
+    },
+    {
+      "Created": "2025-10-11T14:43:05Z",
+      "Title": "Empty Product Titles Warning Despite Adding App Store Localizations - Apple Review Rejected and Error 23",
+      "Tags": [
+        "ios",
+        "app-store-connect",
+        "revenuecat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788080/empty-product-titles-warning-despite-adding-app-store-localizations-apple-revi"
+    },
+    {
+      "Created": "2025-10-11T14:43:08Z",
+      "Title": "GCC -O3: Why does a 32-bit write to a uint64_t appear to be ignored?",
+      "Tags": [
+        "c",
+        "gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788081/gcc-o3-why-does-a-32-bit-write-to-a-uint64-t-appear-to-be-ignored"
+    },
+    {
+      "Created": "2025-10-11T14:44:11Z",
+      "Title": "Why are the JNI implementations of currentTimeMillis and identityHashCode handled differently?",
+      "Tags": [
+        "java",
+        "java-native-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788082/why-are-the-jni-implementations-of-currenttimemillis-and-identityhashcode-handle"
+    },
+    {
+      "Created": "2025-10-11T14:52:20Z",
+      "Title": "Which approaches are recommended to load 14k files and performing searches in a vector database [closed]",
+      "Tags": [
+        "python",
+        "langchain",
+        "large-language-model",
+        "pgvector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788083/which-approaches-are-recommended-to-load-14k-files-and-performing-searches-in-a"
+    }
+  ]
+}

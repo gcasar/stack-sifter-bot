@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-11T02:20:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T01:52:53Z",
+      "Title": "React Native Android - Adding new ReactActivity to run another js bundle",
+      "Tags": [
+        "java",
+        "android",
+        "react-native",
+        "react-android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787770/react-native-android-adding-new-reactactivity-to-run-another-js-bundle"
+    },
+    {
+      "Created": "2025-10-11T02:09:42Z",
+      "Title": "Issue with Python Program Termination on KeyboardInterrupt When Calling a Multi-threaded C\u002B\u002B Library",
+      "Tags": [
+        "python",
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787773/issue-with-python-program-termination-on-keyboardinterrupt-when-calling-a-multi"
+    },
+    {
+      "Created": "2025-10-11T02:16:16Z",
+      "Title": "After upgrading to sbt 2, assigning file paths to Compile/unmanagedClasspath fails",
+      "Tags": [
+        "sbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787776/after-upgrading-to-sbt-2-assigning-file-paths-to-compile-unmanagedclasspath-fai"
+    },
+    {
+      "Created": "2025-10-11T02:20:41Z",
+      "Title": "Seastar: per-shard TCP listeners not binding or exiting silently on non-0 shards",
+      "Tags": [
+        "c\u002B\u002B",
+        "asynchronous",
+        "network-programming",
+        "tcp",
+        "seastar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787777/seastar-per-shard-tcp-listeners-not-binding-or-exiting-silently-on-non-0-shards"
+    }
+  ]
+}

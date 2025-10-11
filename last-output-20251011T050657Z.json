@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-11T05:05:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T04:06:56Z",
+      "Title": "how to handle errors that occur between in app purchase and server validation of the purchase?",
+      "Tags": [
+        "android",
+        "ios",
+        "in-app-purchase",
+        "in-app-billing",
+        "android-inapp-purchase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787798/how-to-handle-errors-that-occur-between-in-app-purchase-and-server-validation-of"
+    },
+    {
+      "Created": "2025-10-11T04:11:00Z",
+      "Title": "print method showing more arguments error on compile",
+      "Tags": [
+        "zig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787799/print-method-showing-more-arguments-error-on-compile"
+    },
+    {
+      "Created": "2025-10-11T04:22:10Z",
+      "Title": "Is circular linked list needed for \u0022Circular\u0022 queue?/",
+      "Tags": [
+        "data-structures",
+        "linked-list",
+        "queue",
+        "circular-queue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787802/is-circular-linked-list-needed-for-circular-queue"
+    },
+    {
+      "Created": "2025-10-11T04:35:58Z",
+      "Title": "How to change window title of the base workspace of MATLAB Desktop GUI of R2025a onwards on Windows",
+      "Tags": [
+        "windows",
+        "matlab",
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787809/how-to-change-window-title-of-the-base-workspace-of-matlab-desktop-gui-of-r2025a"
+    },
+    {
+      "Created": "2025-10-11T05:04:58Z",
+      "Title": "Issue of Microsoft Graph API webhook multiple triggers",
+      "Tags": [
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787814/issue-of-microsoft-graph-api-webhook-multiple-triggers"
+    },
+    {
+      "Created": "2025-10-11T05:05:48Z",
+      "Title": "RAG (embedding - GRAPHS vectoring - postchunking) \u002B RERANKER",
+      "Tags": [
+        "tensorflow",
+        "computer-vision",
+        "large-language-model",
+        "mle",
+        "rag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787815/rag-embedding-graphs-vectoring-postchunking-reranker"
+    }
+  ]
+}

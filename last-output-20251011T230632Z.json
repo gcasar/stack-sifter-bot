@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-11T23:02:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T22:11:38Z",
+      "Title": "Invoking Enter-VsDevShell with pytest prints both sucessful AND failed output...?",
+      "Tags": [
+        "python",
+        "powershell",
+        "visual-studio",
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788256/invoking-enter-vsdevshell-with-pytest-prints-both-sucessful-and-failed-output"
+    },
+    {
+      "Created": "2025-10-11T22:44:55Z",
+      "Title": "Getting \u0022Headers are read-only, response has already started.\u0022 when calling SignInManager.PasswordSignInAsync using the latest version of Blazor",
+      "Tags": [
+        "c#",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788280/getting-headers-are-read-only-response-has-already-started-when-calling-sign"
+    },
+    {
+      "Created": "2025-10-11T22:52:09Z",
+      "Title": "Incorrect report of SO_TIMESTAMP on macOS UDP socket with recvmsg()",
+      "Tags": [
+        "macos",
+        "sockets",
+        "udp",
+        "recvmsg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788284/incorrect-report-of-so-timestamp-on-macos-udp-socket-with-recvmsg"
+    },
+    {
+      "Created": "2025-10-11T22:59:59Z",
+      "Title": "RmlUi: TGA image appears torn or split into parts when rendered",
+      "Tags": [
+        "c\u002B\u002B",
+        "user-interface",
+        "distortion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788287/rmlui-tga-image-appears-torn-or-split-into-parts-when-rendered"
+    },
+    {
+      "Created": "2025-10-11T23:02:31Z",
+      "Title": "Used \u0022Save as\u0022 to make a Copy of cpp. Visual Studio 2022 wil only compile the original cpp",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "project",
+        "solution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788288/used-save-as-to-make-a-copy-of-cpp-visual-studio-2022-wil-only-compile-the-or"
+    }
+  ]
+}

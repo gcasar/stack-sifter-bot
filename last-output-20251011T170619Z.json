@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-11T16:43:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T16:17:23Z",
+      "Title": "Does UIDevice.current.identifierForVendor change after iCloud backup and restore on another iOS device?",
+      "Tags": [
+        "ios",
+        "swift",
+        "icloud",
+        "uidevice",
+        "apple-identifier-for-vendor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788118/does-uidevice-current-identifierforvendor-change-after-icloud-backup-and-restore"
+    },
+    {
+      "Created": "2025-10-11T16:35:43Z",
+      "Title": "Ffmpeg wasm type conversion outputs empty files",
+      "Tags": [
+        "ffmpeg-wasm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788125/ffmpeg-wasm-type-conversion-outputs-empty-files"
+    },
+    {
+      "Created": "2025-10-11T16:43:49Z",
+      "Title": "Trouble acquiring OBO token for Azure AI Foundry using MSAL Python",
+      "Tags": [
+        "python",
+        "azure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788129/trouble-acquiring-obo-token-for-azure-ai-foundry-using-msal-python"
+    }
+  ]
+}

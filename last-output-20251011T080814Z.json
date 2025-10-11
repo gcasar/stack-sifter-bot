@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-11T08:02:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T07:32:09Z",
+      "Title": "GitHub CoPilot Coding Agent Secrets Management",
+      "Tags": [
+        "github-actions",
+        "cicd",
+        "github-copilot",
+        "github-secret"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787876/github-copilot-coding-agent-secrets-management"
+    },
+    {
+      "Created": "2025-10-11T07:45:05Z",
+      "Title": "System.Data.SQLite.dll doesnt generate after building",
+      "Tags": [
+        "c#",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787882/system-data-sqlite-dll-doesnt-generate-after-building"
+    },
+    {
+      "Created": "2025-10-11T07:46:33Z",
+      "Title": "Not receiving VoIP push notifications when the app is in the background or terminated",
+      "Tags": [
+        "ios",
+        "apple-push-notifications",
+        "voip",
+        "callkit",
+        "pushkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787884/not-receiving-voip-push-notifications-when-the-app-is-in-the-background-or-termi"
+    },
+    {
+      "Created": "2025-10-11T08:02:05Z",
+      "Title": "Why does st.html in streamlit doesn\u0027t reflect when the style changes",
+      "Tags": [
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787895/why-does-st-html-in-streamlit-doesnt-reflect-when-the-style-changes"
+    }
+  ]
+}

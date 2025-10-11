@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-11T13:58:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T13:50:06Z",
+      "Title": "Selenium script marks all search results as \u201Cnot found\u201D because details load only after clicking a link",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping",
+        "selenium-chromedriver",
+        "webdriverwait"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788049/selenium-script-marks-all-search-results-as-not-found-because-details-load-onl"
+    },
+    {
+      "Created": "2025-10-11T13:58:07Z",
+      "Title": "Is there a simple way for someone new to C programming in general to compile an EFI program?",
+      "Tags": [
+        "c",
+        "uefi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788053/is-there-a-simple-way-for-someone-new-to-c-programming-in-general-to-compile-an"
+    }
+  ]
+}

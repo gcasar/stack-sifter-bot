@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-11T21:02:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T20:37:33Z",
+      "Title": "Can\u0027t build Dockerfile on Windows",
+      "Tags": [
+        "c#",
+        "windows",
+        "docker",
+        ".net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788223/cant-build-dockerfile-on-windows"
+    },
+    {
+      "Created": "2025-10-11T20:38:03Z",
+      "Title": "Custom timer implemented as foreground service experiments delay after background",
+      "Tags": [
+        "android",
+        "timer",
+        "background",
+        "foreground-service",
+        "android-16"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788225/custom-timer-implemented-as-foreground-service-experiments-delay-after-backgroun"
+    },
+    {
+      "Created": "2025-10-11T20:53:32Z",
+      "Title": "Trying to remove assents from translated var in Coldfusion",
+      "Tags": [
+        "coldfusion",
+        "google-translate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788231/trying-to-remove-assents-from-translated-var-in-coldfusion"
+    },
+    {
+      "Created": "2025-10-11T20:54:42Z",
+      "Title": "VS Code venv requiring a change in execution policy. Normal? Safe to change the policy from restricted to unrestricted?",
+      "Tags": [
+        "python",
+        "windows",
+        "powershell",
+        "visual-studio-code",
+        "terminal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788232/vs-code-venv-requiring-a-change-in-execution-policy-normal-safe-to-change-the"
+    },
+    {
+      "Created": "2025-10-11T21:02:39Z",
+      "Title": "Do I need .repeat() or steps_per_epoch when training on a finite TFRecord dataset in Keras?",
+      "Tags": [
+        "tensorflow",
+        "keras"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788233/do-i-need-repeat-or-steps-per-epoch-when-training-on-a-finite-tfrecord-datase"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-11T01:16:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T00:31:06Z",
+      "Title": "Multiplication issue with custom fixed point number, solution or alternative",
+      "Tags": [
+        "math",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787753/multiplication-issue-with-custom-fixed-point-number-solution-or-alternative"
+    },
+    {
+      "Created": "2025-10-11T00:52:04Z",
+      "Title": "mailman-web asks for password and none work [closed]",
+      "Tags": [
+        "import",
+        "permissions",
+        "mailman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787758/mailman-web-asks-for-password-and-none-work"
+    },
+    {
+      "Created": "2025-10-11T00:52:22Z",
+      "Title": "How to access non-OpenAI models on Azure AI Foundry with LangChain?",
+      "Tags": [
+        "python-3.x",
+        "azure",
+        "langchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787759/how-to-access-non-openai-models-on-azure-ai-foundry-with-langchain"
+    },
+    {
+      "Created": "2025-10-11T01:06:17Z",
+      "Title": "Changing Delimeter of Multiple Items Returned by a osascript/javascript File Select Dialog",
+      "Tags": [
+        "javascript",
+        "macos",
+        "zsh",
+        "osascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787761/changing-delimeter-of-multiple-items-returned-by-a-osascript-javascript-file-sel"
+    },
+    {
+      "Created": "2025-10-11T01:16:19Z",
+      "Title": "CORS error when sending Axios POST request from Vue.js 3 to Laravel 10 API",
+      "Tags": [
+        "laravel",
+        "vue.js",
+        "axios",
+        "laravel-10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787762/cors-error-when-sending-axios-post-request-from-vue-js-3-to-laravel-10-api"
+    }
+  ]
+}

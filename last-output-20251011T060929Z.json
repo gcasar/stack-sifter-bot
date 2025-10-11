@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-11T05:48:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T05:13:04Z",
+      "Title": "An object with a Redis object in its attribute can\u0027t be serialized. How to modify it for serialization without delaying the connection?",
+      "Tags": [
+        "python",
+        "serialization",
+        "redis",
+        "child-process"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787818/an-object-with-a-redis-object-in-its-attribute-cant-be-serialized-how-to-modif"
+    },
+    {
+      "Created": "2025-10-11T05:14:16Z",
+      "Title": "Is it possible to intercept network requests from an iframe?",
+      "Tags": [
+        "html",
+        "iframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787819/is-it-possible-to-intercept-network-requests-from-an-iframe"
+    },
+    {
+      "Created": "2025-10-11T05:20:09Z",
+      "Title": "VS Code API: embed native editor \u002B WebView in one tab, or clickable gutter icons?",
+      "Tags": [
+        "vscode-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787822/vs-code-api-embed-native-editor-webview-in-one-tab-or-clickable-gutter-icons"
+    },
+    {
+      "Created": "2025-10-11T05:39:52Z",
+      "Title": "VSCode Copilot: How to disable autoComplete unless shortcut key is pressed?",
+      "Tags": [
+        "visual-studio-code",
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787827/vscode-copilot-how-to-disable-autocomplete-unless-shortcut-key-is-pressed"
+    },
+    {
+      "Created": "2025-10-11T05:48:21Z",
+      "Title": "Why does my Python game pauses everytime tkSnack plays an audio file?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "tkinter",
+        "audio",
+        "game-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787828/why-does-my-python-game-pauses-everytime-tksnack-plays-an-audio-file"
+    }
+  ]
+}

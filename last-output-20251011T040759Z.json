@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-11T04:01:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T03:38:59Z",
+      "Title": "Local Variable in C File Overwrites Memory Address Previuosly Aquired in (ARM GNU) Assembly File",
+      "Tags": [
+        "assembly",
+        "arm",
+        "stm32",
+        "gnu-assembler",
+        "stm32cubeide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787789/local-variable-in-c-file-overwrites-memory-address-previuosly-aquired-in-arm-gn"
+    },
+    {
+      "Created": "2025-10-11T03:46:06Z",
+      "Title": "Should dynamic memory allocation (new/malloc) be done in interrupt?",
+      "Tags": [
+        "c\u002B\u002B",
+        "embedded"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787791/should-dynamic-memory-allocation-new-malloc-be-done-in-interrupt"
+    },
+    {
+      "Created": "2025-10-11T03:49:19Z",
+      "Title": "Best way to implement User Progress and Tracking their Progress?",
+      "Tags": [
+        "php",
+        "database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787793/best-way-to-implement-user-progress-and-tracking-their-progress"
+    },
+    {
+      "Created": "2025-10-11T03:58:29Z",
+      "Title": "\u0027throw new Error\u0027 doesn\u0027t throw error in before() hook in cypress",
+      "Tags": [
+        "typescript",
+        "cypress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787795/throw-new-error-doesnt-throw-error-in-before-hook-in-cypress"
+    },
+    {
+      "Created": "2025-10-11T04:01:28Z",
+      "Title": "How to perform asof join (aj) with strict inequality (\u003C) instead of default (\u2264)",
+      "Tags": [
+        "sql",
+        "time-series",
+        "quantitative-finance",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79787796/how-to-perform-asof-join-aj-with-strict-inequality-instead-of-default-%e2%89%a4"
+    }
+  ]
+}

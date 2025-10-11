@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-11T18:59:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T18:56:11Z",
+      "Title": "Why Android package activities destroy after switching options in coarse/fine location permission?",
+      "Tags": [
+        "android",
+        "android-activity",
+        "location",
+        "android-permissions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788176/why-android-package-activities-destroy-after-switching-options-in-coarse-fine-lo"
+    },
+    {
+      "Created": "2025-10-11T18:56:20Z",
+      "Title": "react-native-webrtc IOS: Mic is enabled even if only consuming",
+      "Tags": [
+        "react-native",
+        "webrtc",
+        "mediasoup",
+        "react-native-webrtc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788177/react-native-webrtc-ios-mic-is-enabled-even-if-only-consuming"
+    },
+    {
+      "Created": "2025-10-11T18:59:48Z",
+      "Title": "How to fix \u201CAccess denied for user \u0027root\u0027@\u0027localhost\u0027\u201D in MySQL?",
+      "Tags": [
+        "php",
+        "mysql",
+        "database",
+        "xampp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788182/how-to-fix-access-denied-for-user-rootlocalhost-in-mysql"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-11T16:00:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-11T15:50:29Z",
+      "Title": "Mutual SSL authentication for APIs not working in WSO2 API Manager 4.5.0",
+      "Tags": [
+        "wso2",
+        "wso2-api-manager",
+        "wso2-identity-server",
+        "wso2-enterprise-integrator",
+        "mtls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788104/mutual-ssl-authentication-for-apis-not-working-in-wso2-api-manager-4-5-0"
+    },
+    {
+      "Created": "2025-10-11T15:53:53Z",
+      "Title": "How to implement an AI agent in Node.js that reads user emails and raises tickets via APIs using OpenAI GPT-4o-mini? [closed]",
+      "Tags": [
+        "node.js",
+        "artificial-intelligence",
+        "openai-api",
+        "openai-agents"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788105/how-to-implement-an-ai-agent-in-node-js-that-reads-user-emails-and-raises-ticket"
+    },
+    {
+      "Created": "2025-10-11T15:55:53Z",
+      "Title": "The scanf function in C language uses a width specifier for char",
+      "Tags": [
+        "c",
+        "scanf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788107/the-scanf-function-in-c-language-uses-a-width-specifier-for-char"
+    },
+    {
+      "Created": "2025-10-11T16:00:14Z",
+      "Title": "Is Swift generic SIMD code much slower than direct SIMD",
+      "Tags": [
+        "swift",
+        "generics",
+        "simd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788110/is-swift-generic-simd-code-much-slower-than-direct-simd"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-12T19:02:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T18:08:15Z",
+      "Title": "Declaring an array of weak referenced protocols in Swift gives error: \u0027Weak\u0027 requires that \u0027any LocationSendingDelegate\u0027 be a class type",
+      "Tags": [
+        "swift",
+        "generics",
+        "weak-references"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788705/declaring-an-array-of-weak-referenced-protocols-in-swift-gives-error-weak-req"
+    },
+    {
+      "Created": "2025-10-12T18:30:46Z",
+      "Title": "Partial specialization for a wrapper type",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "partial-specialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788715/partial-specialization-for-a-wrapper-type"
+    },
+    {
+      "Created": "2025-10-12T18:53:13Z",
+      "Title": "cmake escape question in execute_process for git log -1 --format",
+      "Tags": [
+        "git",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788726/cmake-escape-question-in-execute-process-for-git-log-1-format"
+    },
+    {
+      "Created": "2025-10-12T19:02:00Z",
+      "Title": "What is the best way to start learning DataScience/ML/DL? [closed]",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "deep-learning",
+        "artificial-intelligence",
+        "data-science"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788730/what-is-the-best-way-to-start-learning-datascience-ml-dl"
+    },
+    {
+      "Created": "2025-10-12T19:02:59Z",
+      "Title": "Training data format for SpanCategorizer when using custom suggester function",
+      "Tags": [
+        "python",
+        "spacy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788731/training-data-format-for-spancategorizer-when-using-custom-suggester-function"
+    }
+  ]
+}

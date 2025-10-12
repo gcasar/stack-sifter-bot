@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-12T11:46:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T11:24:29Z",
+      "Title": "\u0022error in style$numFmt : $ operator is invalid for atomic vectors\u0022 when using createStyle() function of openxlsx package",
+      "Tags": [
+        "r",
+        "openxlsx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788529/error-in-stylenumfmt-operator-is-invalid-for-atomic-vectors-when-using-cr"
+    },
+    {
+      "Created": "2025-10-12T11:41:48Z",
+      "Title": "Azure SQL S0 Tier \u2013 Slow Update Performance During Peak IoT Data Processing",
+      "Tags": [
+        "sql-server",
+        "azure-sql-database",
+        "query-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788537/azure-sql-s0-tier-slow-update-performance-during-peak-iot-data-processing"
+    },
+    {
+      "Created": "2025-10-12T11:42:49Z",
+      "Title": "Winrm cannot complete the operation from one server to another, but can connect to others",
+      "Tags": [
+        "powershell",
+        "windows-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788538/winrm-cannot-complete-the-operation-from-one-server-to-another-but-can-connect"
+    },
+    {
+      "Created": "2025-10-12T11:46:01Z",
+      "Title": "Unable to setup Kapt for dagger in kotlin multiplatform",
+      "Tags": [
+        "android",
+        "dagger-2",
+        "kotlin-multiplatform",
+        "kapt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788539/unable-to-setup-kapt-for-dagger-in-kotlin-multiplatform"
+    }
+  ]
+}

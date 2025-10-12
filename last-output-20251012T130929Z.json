@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-12T12:50:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T12:13:50Z",
+      "Title": "perspective transform code is causing the image to go out of frame -- where is the error?",
+      "Tags": [
+        "python",
+        "opencv",
+        "image-processing",
+        "computer-vision",
+        "aruco"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788547/perspective-transform-code-is-causing-the-image-to-go-out-of-frame-where-is-t"
+    },
+    {
+      "Created": "2025-10-12T12:20:14Z",
+      "Title": "blocking display when called in function called in a display",
+      "Tags": [
+        "io",
+        "fortran",
+        "gfortran"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788551/blocking-display-when-called-in-function-called-in-a-display"
+    },
+    {
+      "Created": "2025-10-12T12:33:50Z",
+      "Title": "How can I make dlopen find symbols defined in the main executable? [duplicate]",
+      "Tags": [
+        "c",
+        "gcc",
+        "dlopen",
+        "hot-reload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788558/how-can-i-make-dlopen-find-symbols-defined-in-the-main-executable"
+    },
+    {
+      "Created": "2025-10-12T12:47:51Z",
+      "Title": "nestjs use i18n in decorators of class-validator without indicate one by one",
+      "Tags": [
+        "nestjs",
+        "internationalization",
+        "dto",
+        "class-validator",
+        "nestjs-i18n"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788561/nestjs-use-i18n-in-decorators-of-class-validator-without-indicate-one-by-one"
+    },
+    {
+      "Created": "2025-10-12T12:50:43Z",
+      "Title": "mDNS (multicast_dns) not discovering Android TV on real iOS device but works in iOS Simulator",
+      "Tags": [
+        "ios",
+        "flutter",
+        "dart",
+        "mdns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788563/mdns-multicast-dns-not-discovering-android-tv-on-real-ios-device-but-works-in"
+    }
+  ]
+}

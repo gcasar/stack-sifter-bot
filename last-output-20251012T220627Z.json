@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-12T21:48:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T21:07:42Z",
+      "Title": "changing the lenght of the title string gives: [Errno 2] No such file or directory (matplotlib)",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788794/changing-the-lenght-of-the-title-string-gives-errno-2-no-such-file-or-directo"
+    },
+    {
+      "Created": "2025-10-12T21:39:50Z",
+      "Title": "Nuxt 4 \u002B nuxt-seo: \u0060defineOgImageComponent\u0060 throws \u0022client-only context\u0022 error",
+      "Tags": [
+        "nuxt.js",
+        "seo",
+        "nuxt-content"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788804/nuxt-4-nuxt-seo-defineogimagecomponent-throws-client-only-context-error"
+    },
+    {
+      "Created": "2025-10-12T21:48:12Z",
+      "Title": "Can a Python desktop app meet enterprise requirements on Windows?",
+      "Tags": [
+        "python",
+        "c#",
+        ".net",
+        "windows",
+        "pyinstaller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788807/can-a-python-desktop-app-meet-enterprise-requirements-on-windows"
+    }
+  ]
+}

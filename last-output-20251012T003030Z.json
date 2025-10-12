@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-12T00:20:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T00:04:23Z",
+      "Title": "How to give Snowflake NativeApp Permission to use SNOWFLAKE.ACCOUNT_USAGE.QUERY_HISTORY?",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "snowflake-schema"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788299/how-to-give-snowflake-nativeapp-permission-to-use-snowflake-account-usage-query"
+    },
+    {
+      "Created": "2025-10-12T00:06:26Z",
+      "Title": "Can\u0027t find DLLs for linking OpenCV to project",
+      "Tags": [
+        "c\u002B\u002B",
+        "opencv",
+        "cmake",
+        "c\u002B\u002B20",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788301/cant-find-dlls-for-linking-opencv-to-project"
+    },
+    {
+      "Created": "2025-10-12T00:09:53Z",
+      "Title": "Are there any real difference between GlobalScope and CoroutineScope?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "kotlin-coroutines",
+        "cancellation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788304/are-there-any-real-difference-between-globalscope-and-coroutinescope"
+    },
+    {
+      "Created": "2025-10-12T00:20:04Z",
+      "Title": "Ransack filtering with EAV structure: how to AND multiple conditions on different associated rows?",
+      "Tags": [
+        "ruby-on-rails",
+        "ransack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788307/ransack-filtering-with-eav-structure-how-to-and-multiple-conditions-on-differen"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-12T13:58:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T12:52:54Z",
+      "Title": "Keycloak behind Traefik reverse proxy: Mixed Content error and HTTP/HTTPS mismatch in Docker Compose setup",
+      "Tags": [
+        "docker-compose",
+        "https",
+        "keycloak",
+        "reverse-proxy",
+        "traefik"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788564/keycloak-behind-traefik-reverse-proxy-mixed-content-error-and-http-https-mismat"
+    },
+    {
+      "Created": "2025-10-12T13:29:27Z",
+      "Title": "MatPlotLib on ThinkPad, running Ubuntu 22.04.5",
+      "Tags": [
+        "python",
+        "numpy",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788584/matplotlib-on-thinkpad-running-ubuntu-22-04-5"
+    },
+    {
+      "Created": "2025-10-12T13:36:52Z",
+      "Title": "How to handle custom date format (dd/mm/yyyy) in query params with inherited model?",
+      "Tags": [
+        "python",
+        "fastapi",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788585/how-to-handle-custom-date-format-dd-mm-yyyy-in-query-params-with-inherited-mod"
+    },
+    {
+      "Created": "2025-10-12T13:58:18Z",
+      "Title": "Using OpenSSL provider to outsource TLS_PSK_WITH_NULL_SHA256 key operations to TZ or TPM",
+      "Tags": [
+        "openssl",
+        "cryptography",
+        "provider",
+        "tpm",
+        "trustzone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788597/using-openssl-provider-to-outsource-tls-psk-with-null-sha256-key-operations-to-t"
+    }
+  ]
+}

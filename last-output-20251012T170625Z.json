@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-12T17:03:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T16:58:21Z",
+      "Title": "How add extra librarie using crosstool-ng in Ubuntu 22.04?",
+      "Tags": [
+        "ubuntu",
+        "crosstool-ng",
+        "libimobiledevice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788674/how-add-extra-librarie-using-crosstool-ng-in-ubuntu-22-04"
+    },
+    {
+      "Created": "2025-10-12T16:59:43Z",
+      "Title": "argparse positional argument destination name",
+      "Tags": [
+        "python",
+        "argparse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788676/argparse-positional-argument-destination-name"
+    },
+    {
+      "Created": "2025-10-12T17:03:22Z",
+      "Title": "Why does the error \u0022patterns require matching on different types\u0022 when using lazy lists Nil and (::)?",
+      "Tags": [
+        "idris2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788679/why-does-the-error-patterns-require-matching-on-different-types-when-using-laz"
+    }
+  ]
+}

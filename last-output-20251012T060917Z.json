@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-12T06:06:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T05:12:57Z",
+      "Title": "Axios request fails with error status code 500: Internal Server error",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "axios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788383/axios-request-fails-with-error-status-code-500-internal-server-error"
+    },
+    {
+      "Created": "2025-10-12T05:34:55Z",
+      "Title": "Torch Conv2d results in both dimensions convolved",
+      "Tags": [
+        "deep-learning",
+        "pytorch",
+        "neural-network",
+        "conv-neural-network",
+        "convolution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788392/torch-conv2d-results-in-both-dimensions-convolved"
+    },
+    {
+      "Created": "2025-10-12T05:37:08Z",
+      "Title": "Why does PostgreSQL prefer hash join when using explicit JOIN instead of a subquery?",
+      "Tags": [
+        "sql",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788393/why-does-postgresql-prefer-hash-join-when-using-explicit-join-instead-of-a-subqu"
+    },
+    {
+      "Created": "2025-10-12T06:03:29Z",
+      "Title": "How to detect only printing issues ignoring other surface defects on camera image using python?",
+      "Tags": [
+        "python",
+        "opencv",
+        "machine-learning",
+        "image-processing",
+        "computer-vision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788397/how-to-detect-only-printing-issues-ignoring-other-surface-defects-on-camera-imag"
+    },
+    {
+      "Created": "2025-10-12T06:06:06Z",
+      "Title": "Python 3.14 removes GIL. What possibilities of data races can happen in Python now? And how to handle them?",
+      "Tags": [
+        "python",
+        "concurrency",
+        "data-race",
+        "python-3.14"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788398/python-3-14-removes-gil-what-possibilities-of-data-races-can-happen-in-python-n"
+    }
+  ]
+}

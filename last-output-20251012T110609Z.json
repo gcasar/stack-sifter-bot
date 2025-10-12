@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-12T10:57:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T10:43:11Z",
+      "Title": "Manually repeating the USB data transfer captured with usbmon does not have the same effect on the device",
+      "Tags": [
+        "linux",
+        "usb",
+        "reverse-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788515/manually-repeating-the-usb-data-transfer-captured-with-usbmon-does-not-have-the"
+    },
+    {
+      "Created": "2025-10-12T10:51:01Z",
+      "Title": "Detection rule Domain Admin login",
+      "Tags": [
+        "security",
+        "active-directory",
+        "splunk",
+        "detection",
+        "splunk-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788517/detection-rule-domain-admin-login"
+    },
+    {
+      "Created": "2025-10-12T10:54:55Z",
+      "Title": "exception handling on different architectures",
+      "Tags": [
+        "exception",
+        "assembly",
+        "operating-system",
+        "powerpc",
+        "mips32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788519/exception-handling-on-different-architectures"
+    },
+    {
+      "Created": "2025-10-12T10:57:55Z",
+      "Title": "Background music stops when playing click sound using audioplayers",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788521/background-music-stops-when-playing-click-sound-using-audioplayers"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-12T19:57:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T19:20:56Z",
+      "Title": "AHK2 overlay only stays visible above taskbar when a file write triggers a refresh \u2014 any better alternatives?",
+      "Tags": [
+        "shell",
+        "winapi",
+        "overlay",
+        "autohotkey",
+        "taskbar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788735/ahk2-overlay-only-stays-visible-above-taskbar-when-a-file-write-triggers-a-refre"
+    },
+    {
+      "Created": "2025-10-12T19:26:30Z",
+      "Title": "i keep getting a twitter login error using seleium",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "twitter",
+        "selenium-chromedriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788738/i-keep-getting-a-twitter-login-error-using-seleium"
+    },
+    {
+      "Created": "2025-10-12T19:26:46Z",
+      "Title": "PrismarineJS mineflayer-pathfinder - Bot ignores movement rules for first few seconds of goal",
+      "Tags": [
+        "javascript",
+        "mineflayer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788739/prismarinejs-mineflayer-pathfinder-bot-ignores-movement-rules-for-first-few-se"
+    },
+    {
+      "Created": "2025-10-12T19:29:56Z",
+      "Title": "How to decode the bidirectional DShot eRPM telemetry waveform from an ESC?",
+      "Tags": [
+        "signal-processing",
+        "stm32",
+        "waveform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788742/how-to-decode-the-bidirectional-dshot-erpm-telemetry-waveform-from-an-esc"
+    },
+    {
+      "Created": "2025-10-12T19:34:10Z",
+      "Title": "Azure Logic App GET to Google Custom Search returns 400 INVALID_ARGUMENT though same URL works in browser",
+      "Tags": [
+        "google-api",
+        "azure-functions",
+        "azure-logic-apps",
+        "google-custom-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788744/azure-logic-app-get-to-google-custom-search-returns-400-invalid-argument-though"
+    },
+    {
+      "Created": "2025-10-12T19:45:36Z",
+      "Title": "Why doesn\u0027t SqlModel preform insert query in Llamaindex tool",
+      "Tags": [
+        "sqlalchemy",
+        "fastapi",
+        "llama-index",
+        "sqlmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788748/why-doesnt-sqlmodel-preform-insert-query-in-llamaindex-tool"
+    },
+    {
+      "Created": "2025-10-12T19:50:22Z",
+      "Title": "Shopware 6 change customerGroupId live",
+      "Tags": [
+        "shopware6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788750/shopware-6-change-customergroupid-live"
+    },
+    {
+      "Created": "2025-10-12T19:57:41Z",
+      "Title": "spark 3 is dropping cached fractions from memory",
+      "Tags": [
+        "pyspark",
+        "caching",
+        "memory",
+        "spark3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788752/spark-3-is-dropping-cached-fractions-from-memory"
+    }
+  ]
+}

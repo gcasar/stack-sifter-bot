@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-12T15:55:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T15:32:03Z",
+      "Title": "Why does await client(...) in Telethon work but give an __await__ warning in my IDE?",
+      "Tags": [
+        "python",
+        "telegram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788643/why-does-await-client-in-telethon-work-but-give-an-await-warning-in-my"
+    },
+    {
+      "Created": "2025-10-12T15:49:20Z",
+      "Title": "How to wire AWS amplify resources together",
+      "Tags": [
+        "aws-amplify",
+        "aws-cdk",
+        "aws-cdk-typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788648/how-to-wire-aws-amplify-resources-together"
+    },
+    {
+      "Created": "2025-10-12T15:49:47Z",
+      "Title": "ArgoCD \u201Cssh: handshake failed... connection reset by peer\u201D when connecting to GitLab via SSH",
+      "Tags": [
+        "ssh",
+        "gitlab",
+        "argocd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788649/argocd-ssh-handshake-failed-connection-reset-by-peer-when-connecting-to-gi"
+    },
+    {
+      "Created": "2025-10-12T15:55:41Z",
+      "Title": "Blazor JSinterop invokeMethodAsync on blur event is affecting js component behavior",
+      "Tags": [
+        "javascript",
+        "c#",
+        "blazor",
+        "quill",
+        "blazor-jsinterop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788650/blazor-jsinterop-invokemethodasync-on-blur-event-is-affecting-js-component-behav"
+    }
+  ]
+}

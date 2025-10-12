@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-12T01:57:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T01:42:05Z",
+      "Title": "UEFI printing issue",
+      "Tags": [
+        "c",
+        "assembly",
+        "uefi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788332/uefi-printing-issue"
+    },
+    {
+      "Created": "2025-10-12T01:57:06Z",
+      "Title": "How can I reference an inline C function through ARM ASM?",
+      "Tags": [
+        "assembly",
+        "gcc",
+        "interrupt",
+        "cortex-m",
+        "thumb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788335/how-can-i-reference-an-inline-c-function-through-arm-asm"
+    }
+  ]
+}

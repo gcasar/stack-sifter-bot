@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-12T01:22:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T01:03:16Z",
+      "Title": "Angle Embedder in Python Messing Up Logging Config",
+      "Tags": [
+        "python",
+        "nlp",
+        "python-logging",
+        "text-embedding-ada-002"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788321/angle-embedder-in-python-messing-up-logging-config"
+    },
+    {
+      "Created": "2025-10-12T01:22:09Z",
+      "Title": "How can I resize the zoom embedded component in my page to have the 100% widht/height of its parent div?",
+      "Tags": [
+        "html",
+        "reactjs",
+        "zoom-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788326/how-can-i-resize-the-zoom-embedded-component-in-my-page-to-have-the-100-widht-h"
+    }
+  ]
+}

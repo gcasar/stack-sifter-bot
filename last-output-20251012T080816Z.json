@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-12T08:04:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T07:31:14Z",
+      "Title": "Why OpenCV does not utilize multithreading for acceleration\uFF1F",
+      "Tags": [
+        "python",
+        "multithreading",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788427/why-opencv-does-not-utilize-multithreading-for-acceleration"
+    },
+    {
+      "Created": "2025-10-12T07:38:19Z",
+      "Title": "How to write prepared statement",
+      "Tags": [
+        "mysql",
+        "prepared-statement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788431/how-to-write-prepared-statement"
+    },
+    {
+      "Created": "2025-10-12T07:41:19Z",
+      "Title": "KMP module with commonMain sourceSet only",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-studio",
+        "build.gradle",
+        "kmp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788433/kmp-module-with-commonmain-sourceset-only"
+    },
+    {
+      "Created": "2025-10-12T07:48:43Z",
+      "Title": "How can I start contributing to open-source projects as a beginner? [closed]",
+      "Tags": [
+        "github",
+        "open-source"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788435/how-can-i-start-contributing-to-open-source-projects-as-a-beginner"
+    },
+    {
+      "Created": "2025-10-12T07:56:20Z",
+      "Title": "Google Play Rejected My Flutter App for \u0022Photo and Video Permissions Policy\u0022 but I\u0027m Not Using READ_MEDIA_IMAGES/READ_MEDIA_VIDEO",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788436/google-play-rejected-my-flutter-app-for-photo-and-video-permissions-policy-but"
+    },
+    {
+      "Created": "2025-10-12T08:04:56Z",
+      "Title": "WinUI 3 C\u002B\u002B/WinRT \u002B OpenCV \u002B GStreamer",
+      "Tags": [
+        "c\u002B\u002B",
+        "opencv",
+        "gstreamer",
+        "winui-3",
+        "c\u002B\u002B-winrt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788439/winui-3-c-winrt-opencv-gstreamer"
+    }
+  ]
+}

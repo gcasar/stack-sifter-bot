@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-12T09:01:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T08:27:10Z",
+      "Title": "Warning: Cannot write configs to local/share/@appfabric/plugin- \u203A cli/",
+      "Tags": [
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788451/warning-cannot-write-configs-to-local-share-appfabric-plugin-cli"
+    },
+    {
+      "Created": "2025-10-12T08:27:38Z",
+      "Title": "How to Change the color of text in a pdf in place rather than creating a new file(By using APACHE PDFBOX)",
+      "Tags": [
+        "java",
+        "text",
+        "colors",
+        "pdfbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788452/how-to-change-the-color-of-text-in-a-pdf-in-place-rather-than-creating-a-new-fil"
+    },
+    {
+      "Created": "2025-10-12T08:33:00Z",
+      "Title": "How to create Vector{Any} in julia?",
+      "Tags": [
+        "julia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788457/how-to-create-vectorany-in-julia"
+    },
+    {
+      "Created": "2025-10-12T08:36:42Z",
+      "Title": "Custom File upload Component in Livewire Laravel",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-livewire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788458/custom-file-upload-component-in-livewire-laravel"
+    },
+    {
+      "Created": "2025-10-12T08:41:29Z",
+      "Title": "Kh\u1EAFc ph\u1EE5c l\u1ED7i Exit code 1 khi c\u00E0i VMWare tr\u00EAn linux [closed]",
+      "Tags": [
+        "virtual-machine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788459/kh%e1%ba%afc-ph%e1%bb%a5c-l%e1%bb%97i-exit-code-1-khi-c%c3%a0i-vmware-tr%c3%aan-linux"
+    },
+    {
+      "Created": "2025-10-12T09:01:42Z",
+      "Title": "How to make reloadium to auto reload one single web route file in Flask python without restart the main.py?",
+      "Tags": [
+        "python",
+        "flask"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788464/how-to-make-reloadium-to-auto-reload-one-single-web-route-file-in-flask-python-w"
+    }
+  ]
+}

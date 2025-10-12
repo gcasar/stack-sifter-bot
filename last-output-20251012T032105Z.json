@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-12T03:18:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T02:12:14Z",
+      "Title": "Firebase: Fetching documents from a database that is not default, but is still in the same project",
+      "Tags": [
+        "swift",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788338/firebase-fetching-documents-from-a-database-that-is-not-default-but-is-still-i"
+    },
+    {
+      "Created": "2025-10-12T02:35:07Z",
+      "Title": "Why does adding fmt.Println() inside filepath.WalkDir() make my Go program slower?",
+      "Tags": [
+        "performance",
+        "file",
+        "go",
+        "io",
+        "fmt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788343/why-does-adding-fmt-println-inside-filepath-walkdir-make-my-go-program-slowe"
+    },
+    {
+      "Created": "2025-10-12T03:18:20Z",
+      "Title": "How to display Laravel validation errors in a Vue form using Axios?",
+      "Tags": [
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788349/how-to-display-laravel-validation-errors-in-a-vue-form-using-axios"
+    }
+  ]
+}

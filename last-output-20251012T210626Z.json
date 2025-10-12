@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-12T21:03:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T20:24:38Z",
+      "Title": "Under what conditions Typescript supports inference of recursive types?",
+      "Tags": [
+        "typescript",
+        "typescript-generics",
+        "type-inference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788763/under-what-conditions-typescript-supports-inference-of-recursive-types"
+    },
+    {
+      "Created": "2025-10-12T20:26:27Z",
+      "Title": "How to fix \u0027Python is not recognized\u0027 error in VS Code terminal?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788764/how-to-fix-python-is-not-recognized-error-in-vs-code-terminal"
+    },
+    {
+      "Created": "2025-10-12T20:29:19Z",
+      "Title": "CoreCLR 0x8007000E on macOS ARM64 in Terminal after reboot, works in VSCode",
+      "Tags": [
+        "macos",
+        ".net-core",
+        "arm",
+        "dotnet-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788770/coreclr-0x8007000e-on-macos-arm64-in-terminal-after-reboot-works-in-vscode"
+    },
+    {
+      "Created": "2025-10-12T20:43:00Z",
+      "Title": "Baseline file in Infracost",
+      "Tags": [
+        "amazon-web-services",
+        "github",
+        "terraform",
+        "pull-request",
+        "atlantis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788777/baseline-file-in-infracost"
+    },
+    {
+      "Created": "2025-10-12T20:48:49Z",
+      "Title": "Running a vbs with cscript works fine, but when run with wscript it fails mid-script",
+      "Tags": [
+        "vbscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788780/running-a-vbs-with-cscript-works-fine-but-when-run-with-wscript-it-fails-mid-sc"
+    },
+    {
+      "Created": "2025-10-12T20:50:46Z",
+      "Title": "\u0027ST_B10\u0027 was applied to an Image with no bands",
+      "Tags": [
+        "python",
+        "landsat",
+        "libgee"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788782/st-b10-was-applied-to-an-image-with-no-bands"
+    },
+    {
+      "Created": "2025-10-12T21:03:51Z",
+      "Title": "constness of the pointer in parameter variable",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788789/constness-of-the-pointer-in-parameter-variable"
+    }
+  ]
+}

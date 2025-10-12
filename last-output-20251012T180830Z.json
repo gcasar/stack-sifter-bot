@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-12T17:46:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T17:06:30Z",
+      "Title": "how to add a tuple to the old CSV file with python? [closed]",
+      "Tags": [
+        "python",
+        "function",
+        "csv",
+        "tuples"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788681/how-to-add-a-tuple-to-the-old-csv-file-with-python"
+    },
+    {
+      "Created": "2025-10-12T17:18:43Z",
+      "Title": "How to detect manual vs programmatic page reload in JavaScript without using \u0060sessionStorage\u0060, \u0060localStorage\u0060, or any global state flags?",
+      "Tags": [
+        "javascript",
+        "html",
+        "ruby-on-rails",
+        "frontend",
+        "reload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788685/how-to-detect-manual-vs-programmatic-page-reload-in-javascript-without-using-se"
+    },
+    {
+      "Created": "2025-10-12T17:34:13Z",
+      "Title": "Which AOSP branch and lunch target to build Android 15 emulator images on Ubuntu 24.04.3 for Windows/Android Studio compatibility?",
+      "Tags": [
+        "java",
+        "android",
+        "windows",
+        "android-studio",
+        "android-source"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788691/which-aosp-branch-and-lunch-target-to-build-android-15-emulator-images-on-ubuntu"
+    },
+    {
+      "Created": "2025-10-12T17:46:29Z",
+      "Title": "Simpy not showing other process name",
+      "Tags": [
+        "python",
+        "simpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788694/simpy-not-showing-other-process-name"
+    },
+    {
+      "Created": "2025-10-12T17:46:38Z",
+      "Title": "Generalizing correlated random number generation beyond a normal distribution",
+      "Tags": [
+        "random",
+        "correlation",
+        "distribution"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788696/generalizing-correlated-random-number-generation-beyond-a-normal-distribution"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-12T22:48:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T22:23:08Z",
+      "Title": "Writing something in the serial monitor in the setup of Arduino for ESP32",
+      "Tags": [
+        "arduino",
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788819/writing-something-in-the-serial-monitor-in-the-setup-of-arduino-for-esp32"
+    },
+    {
+      "Created": "2025-10-12T22:40:20Z",
+      "Title": "Continuous profiling with async-profiler. Generate heatmap for several JFRs",
+      "Tags": [
+        "java",
+        "heatmap",
+        "async-profiler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788830/continuous-profiling-with-async-profiler-generate-heatmap-for-several-jfrs"
+    },
+    {
+      "Created": "2025-10-12T22:48:42Z",
+      "Title": "Implementing a zero-extended vector/wrapper in Eigen",
+      "Tags": [
+        "eigen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788831/implementing-a-zero-extended-vector-wrapper-in-eigen"
+    }
+  ]
+}

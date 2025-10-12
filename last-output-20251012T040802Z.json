@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-12T04:01:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T03:56:24Z",
+      "Title": "Titanium iOS module build-only fails with xcodebuild simulator warnings despite physical device target",
+      "Tags": [
+        "ios",
+        "xcode",
+        "titanium-mobile",
+        "appcelerator-titanium",
+        "titanium-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788358/titanium-ios-module-build-only-fails-with-xcodebuild-simulator-warnings-despite"
+    },
+    {
+      "Created": "2025-10-12T04:01:27Z",
+      "Title": "retrieve from an array and/or subarray",
+      "Tags": [
+        "arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788361/retrieve-from-an-array-and-or-subarray"
+    }
+  ]
+}

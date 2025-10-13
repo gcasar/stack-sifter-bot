@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-13T04:06:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T03:36:44Z",
+      "Title": "How to add a broker after a very long downtime back to kafka cluster?",
+      "Tags": [
+        "apache-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788905/how-to-add-a-broker-after-a-very-long-downtime-back-to-kafka-cluster"
+    },
+    {
+      "Created": "2025-10-13T03:41:46Z",
+      "Title": "Flutter service starting on bootup receiver but not calling flutter app",
+      "Tags": [
+        "android",
+        "flutter",
+        "broadcastreceiver",
+        "android-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788908/flutter-service-starting-on-bootup-receiver-but-not-calling-flutter-app"
+    },
+    {
+      "Created": "2025-10-13T04:03:40Z",
+      "Title": "ESP-32 IDF BLE SPP Server how to add encyption",
+      "Tags": [
+        "bluetooth-lowenergy",
+        "esp32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788911/esp-32-idf-ble-spp-server-how-to-add-encyption"
+    },
+    {
+      "Created": "2025-10-13T04:06:53Z",
+      "Title": "How to use custom zoom of maplibre-gl with react-map-gl",
+      "Tags": [
+        "reactjs",
+        "react-map-gl",
+        "maplibre-gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788913/how-to-use-custom-zoom-of-maplibre-gl-with-react-map-gl"
+    }
+  ]
+}

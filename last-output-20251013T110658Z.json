@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-13T11:03:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T10:41:14Z",
+      "Title": "How to validate signature on an xml file?",
+      "Tags": [
+        "c#",
+        "xml-signature"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789178/how-to-validate-signature-on-an-xml-file"
+    },
+    {
+      "Created": "2025-10-13T10:41:33Z",
+      "Title": "Is there a way to get only the intersection from a WFS call?",
+      "Tags": [
+        "intersection",
+        "geoserver",
+        "wfs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789180/is-there-a-way-to-get-only-the-intersection-from-a-wfs-call"
+    },
+    {
+      "Created": "2025-10-13T10:44:59Z",
+      "Title": "Playwright is not able to get Non-JS accessible cookies , Camoufox library",
+      "Tags": [
+        "cookies",
+        "save",
+        "playwright",
+        "playwright-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789183/playwright-is-not-able-to-get-non-js-accessible-cookies-camoufox-library"
+    },
+    {
+      "Created": "2025-10-13T10:50:21Z",
+      "Title": "Cannot calculate confusion matrix utilizing supervision from roboflow for Yolov8 model",
+      "Tags": [
+        "object-detection",
+        "confusion-matrix",
+        "yolov8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789192/cannot-calculate-confusion-matrix-utilizing-supervision-from-roboflow-for-yolov8"
+    },
+    {
+      "Created": "2025-10-13T10:52:26Z",
+      "Title": "postgresql pglogical replication and Segmentation error on bidirectional replication",
+      "Tags": [
+        "postgresql",
+        "replication",
+        "bidirectional",
+        "pglogical"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789193/postgresql-pglogical-replication-and-segmentation-error-on-bidirectional-replica"
+    },
+    {
+      "Created": "2025-10-13T10:56:14Z",
+      "Title": "i am seeing this error as im sending my tool output to LLM , invalid character \u0027\\u0026\u0027 in string escape code , what might be reason",
+      "Tags": [
+        "elasticsearch",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789197/i-am-seeing-this-error-as-im-sending-my-tool-output-to-llm-invalid-character"
+    },
+    {
+      "Created": "2025-10-13T10:58:13Z",
+      "Title": "Address sanitizer error CHECK failed: Interception failure, stopping early on windows 11, visual studio 2022, x86 project",
+      "Tags": [
+        "visual-studio-2022",
+        "windows-11",
+        "address-sanitizer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789200/address-sanitizer-error-check-failed-interception-failure-stopping-early-on-wi"
+    },
+    {
+      "Created": "2025-10-13T11:01:23Z",
+      "Title": "Sorting completed date in WooCommerce order list (admin dashboard)",
+      "Tags": [
+        "php",
+        "wordpress",
+        "sorting",
+        "date",
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789201/sorting-completed-date-in-woocommerce-order-list-admin-dashboard"
+    },
+    {
+      "Created": "2025-10-13T11:03:29Z",
+      "Title": "Using [FromQuery] with a .NET controller for an optional boolean query string parameter where presence alone should set it",
+      "Tags": [
+        "asp.net",
+        "asp.net-mvc",
+        "query-string",
+        "url-routing",
+        "model-binding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789202/using-fromquery-with-a-net-controller-for-an-optional-boolean-query-string-pa"
+    }
+  ]
+}

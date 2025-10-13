@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-13T05:01:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T04:41:03Z",
+      "Title": "How to define a SQLAlchemy Geometry column that supports both 2D and 3D?",
+      "Tags": [
+        "python",
+        "sqlalchemy",
+        "geoalchemy2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788922/how-to-define-a-sqlalchemy-geometry-column-that-supports-both-2d-and-3d"
+    },
+    {
+      "Created": "2025-10-13T04:48:28Z",
+      "Title": "How do I program my STM32L432KCU6 Maiana AIS board via ST-LINK SWD, and which firmware should I use?",
+      "Tags": [
+        "stm32",
+        "uart",
+        "ais"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788926/how-do-i-program-my-stm32l432kcu6-maiana-ais-board-via-st-link-swd-and-which-fi"
+    },
+    {
+      "Created": "2025-10-13T04:49:56Z",
+      "Title": "Azure LoadBalancer port 443 timing out for YARP service, while 8080 and /health endpoint work fine",
+      "Tags": [
+        "azure",
+        "docker",
+        "kubernetes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788927/azure-loadbalancer-port-443-timing-out-for-yarp-service-while-8080-and-health"
+    },
+    {
+      "Created": "2025-10-13T04:55:07Z",
+      "Title": "Streamlit app throwing \u0022NotFittedError: idf vector is not fitted\u0022 even though TF-IDF pipeline is fitted and works locally",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "deployment",
+        "nlp",
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788929/streamlit-app-throwing-notfittederror-idf-vector-is-not-fitted-even-though-tf"
+    },
+    {
+      "Created": "2025-10-13T05:01:52Z",
+      "Title": "Nginx on Windows (via NSSM) still writing logs to old files despite updated log paths",
+      "Tags": [
+        "nginx-config",
+        "nssm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788935/nginx-on-windows-via-nssm-still-writing-logs-to-old-files-despite-updated-log"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-13T13:11:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T12:42:54Z",
+      "Title": "React synthetic event becomes stale after async operation",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "async-await",
+        "promise",
+        "frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789283/react-synthetic-event-becomes-stale-after-async-operation"
+    },
+    {
+      "Created": "2025-10-13T13:00:19Z",
+      "Title": "String not showing up on the showMessageDialog box of JOptionpPane",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789298/string-not-showing-up-on-the-showmessagedialog-box-of-joptionppane"
+    },
+    {
+      "Created": "2025-10-13T13:07:33Z",
+      "Title": "What is the correct IAM resource for allowing querying on CloudWatch metrics?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-iam",
+        "amazon-cloudwatch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789302/what-is-the-correct-iam-resource-for-allowing-querying-on-cloudwatch-metrics"
+    },
+    {
+      "Created": "2025-10-13T13:11:59Z",
+      "Title": "Can chdir accept relative paths",
+      "Tags": [
+        "linux",
+        "chdir"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789305/can-chdir-accept-relative-paths"
+    }
+  ]
+}

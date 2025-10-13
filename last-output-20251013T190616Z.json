@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-13T18:52:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T18:15:57Z",
+      "Title": "I need help figuring out what I\u0027m doing in Apps Script",
+      "Tags": [
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789545/i-need-help-figuring-out-what-im-doing-in-apps-script"
+    },
+    {
+      "Created": "2025-10-13T18:40:50Z",
+      "Title": "How to change default python on DOS with multple installations",
+      "Tags": [
+        "python",
+        "windows",
+        "version",
+        "dos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789559/how-to-change-default-python-on-dos-with-multple-installations"
+    },
+    {
+      "Created": "2025-10-13T18:43:13Z",
+      "Title": "How to express a terminal rule that requires at least one other rule somewhere",
+      "Tags": [
+        "antlr",
+        "antlr4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789560/how-to-express-a-terminal-rule-that-requires-at-least-one-other-rule-somewhere"
+    },
+    {
+      "Created": "2025-10-13T18:44:38Z",
+      "Title": "why processing sorted array is faster?",
+      "Tags": [
+        "c\u002B\u002B",
+        "performance",
+        "branch-prediction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789561/why-processing-sorted-array-is-faster"
+    },
+    {
+      "Created": "2025-10-13T18:45:21Z",
+      "Title": "How to correctly use retry_delay or retry_delay_sec in Airflow YAML DAG?",
+      "Tags": [
+        "database",
+        "yaml",
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789563/how-to-correctly-use-retry-delay-or-retry-delay-sec-in-airflow-yaml-dag"
+    },
+    {
+      "Created": "2025-10-13T18:51:46Z",
+      "Title": "Should I start a requestAnimationFrame loop with an initial call to requestAnimationFrame(callback)?",
+      "Tags": [
+        "javascript",
+        "requestanimationframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789568/should-i-start-a-requestanimationframe-loop-with-an-initial-call-to-requestanima"
+    },
+    {
+      "Created": "2025-10-13T18:52:30Z",
+      "Title": "Gradle Configuration Cache in Spring Boot bootBuildImage with multiple Images",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "gradle",
+        "continuous-delivery",
+        "spring-boot-gradle-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789569/gradle-configuration-cache-in-spring-boot-bootbuildimage-with-multiple-images"
+    }
+  ]
+}

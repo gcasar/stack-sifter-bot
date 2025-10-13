@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-13T01:30:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T01:09:10Z",
+      "Title": "Who is responsible for acknowledging a Google Play in-app purchase \u2014 the client app or the backend server?",
+      "Tags": [
+        "mobile",
+        "google-play",
+        "in-app-purchase",
+        "android-inapp-purchase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788868/who-is-responsible-for-acknowledging-a-google-play-in-app-purchase-the-client"
+    },
+    {
+      "Created": "2025-10-13T01:23:52Z",
+      "Title": "When should I consume vs. acknowledge a Google Play in-app purchase?",
+      "Tags": [
+        "google-play",
+        "in-app-purchase",
+        "android-inapp-purchase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788870/when-should-i-consume-vs-acknowledge-a-google-play-in-app-purchase"
+    },
+    {
+      "Created": "2025-10-13T01:30:00Z",
+      "Title": "Puppeteer Sharp hangs on newpage when developertools is disabled",
+      "Tags": [
+        "c#",
+        "puppeteer",
+        "puppeteer-sharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788871/puppeteer-sharp-hangs-on-newpage-when-developertools-is-disabled"
+    }
+  ]
+}

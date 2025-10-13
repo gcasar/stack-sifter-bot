@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-13T22:03:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T21:46:58Z",
+      "Title": "Why does this code seem to work the same regardless of the inner \u0022do\u0022 block?",
+      "Tags": [
+        "haskell",
+        "functional-programming",
+        "state-monad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789661/why-does-this-code-seem-to-work-the-same-regardless-of-the-inner-do-block"
+    },
+    {
+      "Created": "2025-10-13T21:54:55Z",
+      "Title": "How do I make a GUI for my real-time python code?",
+      "Tags": [
+        "python",
+        "multithreading",
+        "user-interface",
+        "queue",
+        "customtkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789667/how-do-i-make-a-gui-for-my-real-time-python-code"
+    },
+    {
+      "Created": "2025-10-13T22:03:46Z",
+      "Title": "NextJS hydration error: React children render before async i18next changeLanguage() switch completes",
+      "Tags": [
+        "typescript",
+        "next.js",
+        "i18next",
+        "react-i18next"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789671/nextjs-hydration-error-react-children-render-before-async-i18next-changelanguag"
+    }
+  ]
+}

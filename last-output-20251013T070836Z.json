@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-13T06:51:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T06:19:56Z",
+      "Title": "Face detection works in development build but always fails in preview\u00A0or\u00A0release\u00A0apk",
+      "Tags": [
+        "react-native",
+        "react-native-vision-camera"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788973/face-detection-works-in-development-build-but-always-fails-in-preview-or-release"
+    },
+    {
+      "Created": "2025-10-13T06:34:29Z",
+      "Title": "SQLAlchemy session initialization in Command pattern",
+      "Tags": [
+        "python",
+        "session",
+        "design-patterns",
+        "sqlalchemy",
+        "command-pattern"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788981/sqlalchemy-session-initialization-in-command-pattern"
+    },
+    {
+      "Created": "2025-10-13T06:38:36Z",
+      "Title": "How to allow large file uploads (\u003E50 MB) in ASP.NET Core 6/7 Web API hosted on Azure App Service",
+      "Tags": [
+        "c#",
+        "asp.net-core-webapi",
+        "asp.net-core-6.0",
+        "asp.net-core-7.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788985/how-to-allow-large-file-uploads-50-mb-in-asp-net-core-6-7-web-api-hosted-on-a"
+    },
+    {
+      "Created": "2025-10-13T06:48:50Z",
+      "Title": "pip install tortoise-tts fails due to transformers/tokenizers version conflict",
+      "Tags": [
+        "python",
+        "dependencies"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788992/pip-install-tortoise-tts-fails-due-to-transformers-tokenizers-version-conflict"
+    },
+    {
+      "Created": "2025-10-13T06:50:13Z",
+      "Title": "Spring EntityManager persist vs merge",
+      "Tags": [
+        "java",
+        "hibernate",
+        "jpa",
+        "spring-data-jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788993/spring-entitymanager-persist-vs-merge"
+    },
+    {
+      "Created": "2025-10-13T06:51:04Z",
+      "Title": "Override Linked Service Account identifier during deployment",
+      "Tags": [
+        "azure-devops",
+        "azure-data-factory",
+        "armtemplates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788994/override-linked-service-account-identifier-during-deployment"
+    }
+  ]
+}

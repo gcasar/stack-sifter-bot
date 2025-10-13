@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-13T15:05:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T14:58:15Z",
+      "Title": "How to keep only a specific field from a Form Group active when disabling an Angular form?",
+      "Tags": [
+        "angular",
+        "forms",
+        "angular-reactive-forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789401/how-to-keep-only-a-specific-field-from-a-form-group-active-when-disabling-an-ang"
+    },
+    {
+      "Created": "2025-10-13T14:58:51Z",
+      "Title": "Azure flex consumption function app can\u0027t retrieve key vault references",
+      "Tags": [
+        "azure-functions",
+        "azure-keyvault"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789403/azure-flex-consumption-function-app-cant-retrieve-key-vault-references"
+    },
+    {
+      "Created": "2025-10-13T15:04:55Z",
+      "Title": "How to add android library(aar) in kivy project with Buildozer?",
+      "Tags": [
+        "python",
+        "kivy",
+        "buildozer",
+        "aar",
+        "onnx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789407/how-to-add-android-libraryaar-in-kivy-project-with-buildozer"
+    },
+    {
+      "Created": "2025-10-13T15:05:15Z",
+      "Title": "Using a dynamic Pydantic model in openapi generation with fastapi.get_openapi",
+      "Tags": [
+        "fastapi",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789408/using-a-dynamic-pydantic-model-in-openapi-generation-with-fastapi-get-openapi"
+    }
+  ]
+}

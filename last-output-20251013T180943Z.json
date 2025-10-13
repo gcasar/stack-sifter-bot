@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-13T18:07:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T17:34:27Z",
+      "Title": "DBContext not mapping SQL table object [closed]",
+      "Tags": [
+        ".net",
+        "sql-server",
+        "entity-framework",
+        "asp.net-core",
+        "dbcontext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789509/dbcontext-not-mapping-sql-table-object"
+    },
+    {
+      "Created": "2025-10-13T17:43:07Z",
+      "Title": "Creating a Self Evolving algorithm for AI training [closed]",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "genetic-algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789520/creating-a-self-evolving-algorithm-for-ai-training"
+    },
+    {
+      "Created": "2025-10-13T17:49:03Z",
+      "Title": "Need help making a C\u002B\u002B Lexical Analyzer Driver and implementation [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "token",
+        "lexical-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789523/need-help-making-a-c-lexical-analyzer-driver-and-implementation"
+    },
+    {
+      "Created": "2025-10-13T17:51:25Z",
+      "Title": "Can i declare a variable along with a pointer? (in C-programming lang)",
+      "Tags": [
+        "c",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789524/can-i-declare-a-variable-along-with-a-pointer-in-c-programming-lang"
+    },
+    {
+      "Created": "2025-10-13T17:57:29Z",
+      "Title": "CSOM Sharepoint connect with AzureAd",
+      "Tags": [
+        "c#",
+        "sharepoint",
+        "azure-active-directory",
+        "csom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789530/csom-sharepoint-connect-with-azuread"
+    },
+    {
+      "Created": "2025-10-13T18:01:14Z",
+      "Title": "Laravel \u002B RoadRunner \u002B SQS \u2014 API workers blocked while publishing to SQS (70ms latency per request)",
+      "Tags": [
+        "laravel",
+        "concurrency",
+        "queue",
+        "amazon-sqs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789535/laravel-roadrunner-sqs-api-workers-blocked-while-publishing-to-sqs-70ms-l"
+    },
+    {
+      "Created": "2025-10-13T18:07:20Z",
+      "Title": "Flex children do not flow around floated image",
+      "Tags": [
+        "html",
+        "css",
+        "css-float"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789540/flex-children-do-not-flow-around-floated-image"
+    }
+  ]
+}

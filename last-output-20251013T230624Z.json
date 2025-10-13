@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-13T23:05:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T22:32:14Z",
+      "Title": "color-related not working in TailwindCSS every thing else working",
+      "Tags": [
+        "reactjs",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789681/color-related-not-working-in-tailwindcss-every-thing-else-working"
+    },
+    {
+      "Created": "2025-10-13T22:41:29Z",
+      "Title": "\u0027UqudoSDK/UqudoSDK.h\u0027 file not found",
+      "Tags": [
+        "ios",
+        "reactjs",
+        "xcode",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789684/uqudosdk-uqudosdk-h-file-not-found"
+    },
+    {
+      "Created": "2025-10-13T22:58:38Z",
+      "Title": "WTForms subform entry disappears after submit",
+      "Tags": [
+        "python-3.x",
+        "flask-wtforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789689/wtforms-subform-entry-disappears-after-submit"
+    },
+    {
+      "Created": "2025-10-13T23:05:27Z",
+      "Title": "better-auth: Unable to create schema for genericOauth with sqlite in nuxt",
+      "Tags": [
+        "angular",
+        "vue.js",
+        "oauth",
+        "nuxt.js",
+        "better-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789690/better-auth-unable-to-create-schema-for-genericoauth-with-sqlite-in-nuxt"
+    }
+  ]
+}

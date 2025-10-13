@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-13T12:11:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T11:37:04Z",
+      "Title": "Why is there a duplicate index when using sort_index() in pandas?",
+      "Tags": [
+        "python",
+        "pandas",
+        "machine-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789223/why-is-there-a-duplicate-index-when-using-sort-index-in-pandas"
+    },
+    {
+      "Created": "2025-10-13T11:38:08Z",
+      "Title": "Executing a CUDA Graph from a CUDA kernel",
+      "Tags": [
+        "c\u002B\u002B",
+        "cuda",
+        "nvidia",
+        "cuda-graphs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789225/executing-a-cuda-graph-from-a-cuda-kernel"
+    },
+    {
+      "Created": "2025-10-13T11:42:37Z",
+      "Title": "IIS 10 \u002B URL Rewrite: Proxy to internal OnlyOffice (127.0.0.1:8080) returns 502 error",
+      "Tags": [
+        "nginx",
+        "iis",
+        "onlyoffice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789227/iis-10-url-rewrite-proxy-to-internal-onlyoffice-127-0-0-18080-returns-502"
+    },
+    {
+      "Created": "2025-10-13T11:46:18Z",
+      "Title": "React native Expo, what is the Better way to optimize a large list?",
+      "Tags": [
+        "react-native",
+        "expo",
+        "react-native-flatlist",
+        "flash-list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789232/react-native-expo-what-is-the-better-way-to-optimize-a-large-list"
+    },
+    {
+      "Created": "2025-10-13T11:51:36Z",
+      "Title": "Twilio WhatsApp Sandbox: \u0022Twilio could not find a Channel with the specified from address\u0022 when sending from PHP (twilio/sdk 8.x)",
+      "Tags": [
+        "php",
+        "twilio",
+        "twilio-api",
+        "twilio-php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789236/twilio-whatsapp-sandbox-twilio-could-not-find-a-channel-with-the-specified-fro"
+    },
+    {
+      "Created": "2025-10-13T12:00:23Z",
+      "Title": "How to limit editor\u0027s access to draft workspace for a specific page branch?",
+      "Tags": [
+        "typo3",
+        "workspace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789243/how-to-limit-editors-access-to-draft-workspace-for-a-specific-page-branch"
+    },
+    {
+      "Created": "2025-10-13T12:09:09Z",
+      "Title": "Multiple delagates in Tableview don\u0027t work",
+      "Tags": [
+        "delegates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789248/multiple-delagates-in-tableview-dont-work"
+    },
+    {
+      "Created": "2025-10-13T12:10:35Z",
+      "Title": "How can you create a webcrawler to crawl a site protected by login.microsoft.com using nodejs puppeteer-core and chromium in AWS Lambda?",
+      "Tags": [
+        "typescript",
+        "aws-lambda",
+        "web-crawler",
+        "puppeteer",
+        "chromium"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789249/how-can-you-create-a-webcrawler-to-crawl-a-site-protected-by-login-microsoft-com"
+    },
+    {
+      "Created": "2025-10-13T12:11:53Z",
+      "Title": "How to avoid re-crawling existing content when indexing documents into Pinecone using LangChain?",
+      "Tags": [
+        "web-crawler",
+        "artificial-intelligence",
+        "langchain",
+        "pinecone",
+        "openaiembeddings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789250/how-to-avoid-re-crawling-existing-content-when-indexing-documents-into-pinecone"
+    }
+  ]
+}

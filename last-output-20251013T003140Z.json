@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-13T00:14:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-12T23:23:51Z",
+      "Title": "derived class cannot call recursively inherited member functions C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "inheritance",
+        "struct",
+        "tuples"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788840/derived-class-cannot-call-recursively-inherited-member-functions-c"
+    },
+    {
+      "Created": "2025-10-12T23:25:38Z",
+      "Title": "Error: cant convert Transform() to const Transform\u0026",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "codeblocks",
+        "glm-math"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788842/error-cant-convert-transform-to-const-transform"
+    },
+    {
+      "Created": "2025-10-12T23:25:45Z",
+      "Title": "Can I use HTML tooltip with react-native-render-html?",
+      "Tags": [
+        "react-native",
+        "tooltip",
+        "react-native-render-html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788843/can-i-use-html-tooltip-with-react-native-render-html"
+    },
+    {
+      "Created": "2025-10-12T23:40:04Z",
+      "Title": "Should I keep my ESP32 home-automation robot single-loop and event-driven, or split it into multiple tasks?",
+      "Tags": [
+        "c",
+        "architecture",
+        "embedded",
+        "freertos",
+        "event-driven-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788847/should-i-keep-my-esp32-home-automation-robot-single-loop-and-event-driven-or-sp"
+    },
+    {
+      "Created": "2025-10-12T23:55:06Z",
+      "Title": "c# .NET RegEx - how to find what chars in a string are making it to not match a regex pattern",
+      "Tags": [
+        "c#",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788851/c-sharp-net-regex-how-to-find-what-chars-in-a-string-are-making-it-to-not-mat"
+    },
+    {
+      "Created": "2025-10-13T00:14:55Z",
+      "Title": "How do I create a multitask GPyTorch model with a user-specified noise covariance matrix?",
+      "Tags": [
+        "pytorch",
+        "regression",
+        "inference",
+        "gaussian-process",
+        "gpytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788858/how-do-i-create-a-multitask-gpytorch-model-with-a-user-specified-noise-covarianc"
+    }
+  ]
+}

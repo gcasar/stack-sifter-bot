@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-13T20:53:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T20:09:19Z",
+      "Title": "How to exclude empty array with to_json",
+      "Tags": [
+        "python",
+        "pyspark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789608/how-to-exclude-empty-array-with-to-json"
+    },
+    {
+      "Created": "2025-10-13T20:40:50Z",
+      "Title": "my usermodel fields losing data to null except for the uid in firebase",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789620/my-usermodel-fields-losing-data-to-null-except-for-the-uid-in-firebase"
+    },
+    {
+      "Created": "2025-10-13T20:53:12Z",
+      "Title": "How to flag the first time a variable increases within each group",
+      "Tags": [
+        "r",
+        "panel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789630/how-to-flag-the-first-time-a-variable-increases-within-each-group"
+    }
+  ]
+}

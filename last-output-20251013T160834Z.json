@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-13T15:56:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T15:46:17Z",
+      "Title": "Could anyone tell me why I keep getting errors when making a new Jframe from clicking a button",
+      "Tags": [
+        "java",
+        "swing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789433/could-anyone-tell-me-why-i-keep-getting-errors-when-making-a-new-jframe-from-cli"
+    },
+    {
+      "Created": "2025-10-13T15:49:49Z",
+      "Title": "How to set up a MinIO to use virtual-hosted\u2013style URLs for local development?",
+      "Tags": [
+        "development-environment",
+        "minio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789435/how-to-set-up-a-minio-to-use-virtual-hosted-style-urls-for-local-development"
+    },
+    {
+      "Created": "2025-10-13T15:50:35Z",
+      "Title": "Training a 3D medical Image Segmentation is So Slow on NVIDIA Quadro RTX 8000",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "keras"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789437/training-a-3d-medical-image-segmentation-is-so-slow-on-nvidia-quadro-rtx-8000"
+    },
+    {
+      "Created": "2025-10-13T15:50:58Z",
+      "Title": "Any reason why the ELF spec allows only one SHT_DYNAMIC section but doesn\u0027t forbid several PT_DYNAMIC segments",
+      "Tags": [
+        "elf",
+        "dynamic-loading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789438/any-reason-why-the-elf-spec-allows-only-one-sht-dynamic-section-but-doesnt-forb"
+    },
+    {
+      "Created": "2025-10-13T15:51:35Z",
+      "Title": "Dynamically update a table to display the outcome of multiple situation controlled by a single dropdown",
+      "Tags": [
+        "excel",
+        "excel-formula",
+        "excel-tables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789440/dynamically-update-a-table-to-display-the-outcome-of-multiple-situation-controll"
+    },
+    {
+      "Created": "2025-10-13T15:56:47Z",
+      "Title": "Does JavaScript object destructuring allocate a new object?",
+      "Tags": [
+        "javascript",
+        "garbage-collection",
+        "allocation",
+        "destructuring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789446/does-javascript-object-destructuring-allocate-a-new-object"
+    }
+  ]
+}

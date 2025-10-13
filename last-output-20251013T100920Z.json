@@ -1,0 +1,103 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-13T10:04:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T09:34:51Z",
+      "Title": "Random Change tracking enabled error when deploying \u0060DACPAC\u0060 using \u0060DacFx\u0060",
+      "Tags": [
+        "azure-sql-database",
+        "sql-server-data-tools",
+        "dacpac",
+        "change-tracking",
+        "sqlpackage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789120/random-change-tracking-enabled-error-when-deploying-dacpac-using-dacfx"
+    },
+    {
+      "Created": "2025-10-13T09:46:41Z",
+      "Title": "How to deploy a file to the system from a wheel?",
+      "Tags": [
+        "python",
+        "python-wheel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789132/how-to-deploy-a-file-to-the-system-from-a-wheel"
+    },
+    {
+      "Created": "2025-10-13T09:47:51Z",
+      "Title": "Mocking Vitest functions for testing Pinia storage",
+      "Tags": [
+        "vue.js",
+        "unit-testing",
+        "vitest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789133/mocking-vitest-functions-for-testing-pinia-storage"
+    },
+    {
+      "Created": "2025-10-13T09:55:00Z",
+      "Title": "multi customers support on AWS and local env",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "devops",
+        "multi-tenant",
+        "aws-secrets-manager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789140/multi-customers-support-on-aws-and-local-env"
+    },
+    {
+      "Created": "2025-10-13T09:56:55Z",
+      "Title": "How to give QEMU (Debian 12) internet access via tun/tap on Android 15 (Termux, root) without using bridge?",
+      "Tags": [
+        "android",
+        "linux",
+        "debian",
+        "qemu",
+        "nat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789143/how-to-give-qemu-debian-12-internet-access-via-tun-tap-on-android-15-termux"
+    },
+    {
+      "Created": "2025-10-13T09:57:30Z",
+      "Title": "Running chain of commands through Python script",
+      "Tags": [
+        "python",
+        "shell",
+        "tcsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789144/running-chain-of-commands-through-python-script"
+    },
+    {
+      "Created": "2025-10-13T09:59:14Z",
+      "Title": "How to maintain navigation title scroll behavior when using Text with custom color in watchOS?",
+      "Tags": [
+        "swiftui",
+        "watchos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789146/how-to-maintain-navigation-title-scroll-behavior-when-using-text-with-custom-col"
+    },
+    {
+      "Created": "2025-10-13T10:03:25Z",
+      "Title": "SCEP Renewal with Alternate CA Certificate - RFC 8894 Compliance",
+      "Tags": [
+        "windows",
+        "certificate",
+        "ca",
+        "entrust",
+        "scep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789147/scep-renewal-with-alternate-ca-certificate-rfc-8894-compliance"
+    },
+    {
+      "Created": "2025-10-13T10:04:57Z",
+      "Title": "Nextjs15 \u002B agentcooper/react-pdf-highlighter , Runtime TypeError : Object.defineProperty called on non-object",
+      "Tags": [
+        "javascript",
+        "next.js",
+        "runtime-error",
+        "pdfjs-dist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789148/nextjs15-agentcooper-react-pdf-highlighter-runtime-typeerror-object-define"
+    }
+  ]
+}

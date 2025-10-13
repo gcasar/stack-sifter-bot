@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-13T02:02:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T01:41:14Z",
+      "Title": "OpenAPI-Generator sdk with a subset of endpoints",
+      "Tags": [
+        "json",
+        "sdk",
+        "openapi",
+        "openapi-generator",
+        "json-spec"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788874/openapi-generator-sdk-with-a-subset-of-endpoints"
+    },
+    {
+      "Created": "2025-10-13T01:42:12Z",
+      "Title": "Linked Revit Models to view 3D Rooms and Sheets in Autodesk APS Forge Viewer",
+      "Tags": [
+        "autodesk-forge",
+        "autodesk-viewer",
+        "autodesk-model-derivative"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788875/linked-revit-models-to-view-3d-rooms-and-sheets-in-autodesk-aps-forge-viewer"
+    },
+    {
+      "Created": "2025-10-13T01:46:24Z",
+      "Title": "why await is used before using premade methods which is present in userSchema",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "asynchronous",
+        "async-await",
+        "promise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788876/why-await-is-used-before-using-premade-methods-which-is-present-in-userschema"
+    },
+    {
+      "Created": "2025-10-13T01:59:18Z",
+      "Title": "Gamemaker studio How To Fix",
+      "Tags": [
+        "gml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788879/gamemaker-studio-how-to-fix"
+    },
+    {
+      "Created": "2025-10-13T02:00:32Z",
+      "Title": "How to prevent AI-generated code from becoming overly long or deeply nested? [closed]",
+      "Tags": [
+        "node.js",
+        "code-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788880/how-to-prevent-ai-generated-code-from-becoming-overly-long-or-deeply-nested"
+    },
+    {
+      "Created": "2025-10-13T02:02:26Z",
+      "Title": "Extract slopes from bspline of interaction model",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79788881/extract-slopes-from-bspline-of-interaction-model"
+    }
+  ]
+}

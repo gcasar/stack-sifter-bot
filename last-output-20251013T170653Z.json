@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-13T17:01:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T16:51:37Z",
+      "Title": "FreeRTOS Context switching after ISR unblocks a tasks",
+      "Tags": [
+        "c",
+        "freertos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789477/freertos-context-switching-after-isr-unblocks-a-tasks"
+    },
+    {
+      "Created": "2025-10-13T16:58:54Z",
+      "Title": "How to debug code generator files (that runs with \u0060build_runner\u0060) in flutter dart and android studio?",
+      "Tags": [
+        "android",
+        "flutter",
+        "dart",
+        "android-studio",
+        "intellij-idea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789482/how-to-debug-code-generator-files-that-runs-with-build-runner-in-flutter-dar"
+    },
+    {
+      "Created": "2025-10-13T16:59:53Z",
+      "Title": "PouchDB: Token authentication =\u003E how to catch 401/403 errors?",
+      "Tags": [
+        "couchbase",
+        "pouchdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789483/pouchdb-token-authentication-how-to-catch-401-403-errors"
+    },
+    {
+      "Created": "2025-10-13T17:01:09Z",
+      "Title": "Filling NA values based on values from other columns",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789486/filling-na-values-based-on-values-from-other-columns"
+    }
+  ]
+}

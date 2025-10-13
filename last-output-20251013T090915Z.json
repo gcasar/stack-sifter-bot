@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-13T09:07:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T08:39:39Z",
+      "Title": "The conditions list for the MSN weather API? [closed]",
+      "Tags": [
+        "weather",
+        "msn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789067/the-conditions-list-for-the-msn-weather-api"
+    },
+    {
+      "Created": "2025-10-13T08:59:24Z",
+      "Title": "How to add Unicode emoji to python script",
+      "Tags": [
+        "python",
+        "console",
+        "emoji"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789087/how-to-add-unicode-emoji-to-python-script"
+    },
+    {
+      "Created": "2025-10-13T09:07:24Z",
+      "Title": "Python hypothesis strategy text() has a (to me) surprising example distribution",
+      "Tags": [
+        "python-hypothesis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789093/python-hypothesis-strategy-text-has-a-to-me-surprising-example-distribution"
+    }
+  ]
+}

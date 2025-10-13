@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-13T08:04:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T07:15:57Z",
+      "Title": "Migration from 32bit QT5.15 application to 64bit QT6.9.3 application causing the application to crash",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789010/migration-from-32bit-qt5-15-application-to-64bit-qt6-9-3-application-causing-the"
+    },
+    {
+      "Created": "2025-10-13T07:18:28Z",
+      "Title": "Can I use SSM run command for SQL query execution on SQL Server RDS?",
+      "Tags": [
+        "sql-server",
+        "amazon-web-services",
+        "aws-ssm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789014/can-i-use-ssm-run-command-for-sql-query-execution-on-sql-server-rds"
+    },
+    {
+      "Created": "2025-10-13T07:43:43Z",
+      "Title": "Is Prefect Suitable for User Triggered Long Running Job in Python? [closed]",
+      "Tags": [
+        "python",
+        "asynchronous",
+        "celery",
+        "task-queue",
+        "prefect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789029/is-prefect-suitable-for-user-triggered-long-running-job-in-python"
+    },
+    {
+      "Created": "2025-10-13T07:47:38Z",
+      "Title": "How to add and use a custom TTF font in ESP32-S3 \u002B ILI9341 \u002B ESP-IDF \u002B LVGL (v8/v9) project",
+      "Tags": [
+        "fonts",
+        "esp32",
+        "lcd",
+        "esp-idf",
+        "lvgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789032/how-to-add-and-use-a-custom-ttf-font-in-esp32-s3-ili9341-esp-idf-lvgl-v8"
+    },
+    {
+      "Created": "2025-10-13T07:48:00Z",
+      "Title": "MacOS - Full disk access for sandboxed app doesn\u0027t work",
+      "Tags": [
+        "macos",
+        "file-permissions",
+        "appstore-sandbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789034/macos-full-disk-access-for-sandboxed-app-doesnt-work"
+    },
+    {
+      "Created": "2025-10-13T07:59:20Z",
+      "Title": "How to prevent scroll the parent website when mouse is inside a webview",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "iframe",
+        "scroll"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789037/how-to-prevent-scroll-the-parent-website-when-mouse-is-inside-a-webview"
+    },
+    {
+      "Created": "2025-10-13T08:04:44Z",
+      "Title": "Unexpected Gemini API activity from multiple regions (us-south1, europe-west1, us-central1)",
+      "Tags": [
+        "security",
+        "google-cloud-platform",
+        "cloud",
+        "billing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789043/unexpected-gemini-api-activity-from-multiple-regions-us-south1-europe-west1-u"
+    }
+  ]
+}

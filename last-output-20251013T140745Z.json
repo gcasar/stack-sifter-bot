@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-13T14:04:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T13:48:55Z",
+      "Title": "How do you import Material Icons to NativeScript project?",
+      "Tags": [
+        "material-design",
+        "nativescript",
+        "nativescript-vue",
+        "icon-fonts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789333/how-do-you-import-material-icons-to-nativescript-project"
+    },
+    {
+      "Created": "2025-10-13T13:49:38Z",
+      "Title": "How to test the calling sequence of methods of a class?",
+      "Tags": [
+        "python",
+        "tdd",
+        "python-unittest",
+        "python-mock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789334/how-to-test-the-calling-sequence-of-methods-of-a-class"
+    },
+    {
+      "Created": "2025-10-13T13:55:04Z",
+      "Title": "error[E0119]: conflicting implementations of trait",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789339/errore0119-conflicting-implementations-of-trait"
+    },
+    {
+      "Created": "2025-10-13T13:59:28Z",
+      "Title": "vernemq doesnot send messages with QoS 1 when client reconnects",
+      "Tags": [
+        "mqtt-vernemq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789342/vernemq-doesnot-send-messages-with-qos-1-when-client-reconnects"
+    },
+    {
+      "Created": "2025-10-13T14:00:10Z",
+      "Title": "Firebase Realtime Database ValueChanged listener fails to fire offline with existing cached data in Unity, causing app to hang",
+      "Tags": [
+        "c#",
+        "android",
+        "firebase",
+        "unity-game-engine",
+        "firebase-realtime-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789343/firebase-realtime-database-valuechanged-listener-fails-to-fire-offline-with-exis"
+    },
+    {
+      "Created": "2025-10-13T14:02:27Z",
+      "Title": "How to support iOS Passkeys when clients use their own custom server domains that can\u2019t be added to Associated Domains?",
+      "Tags": [
+        "ios",
+        "authentication",
+        "passkey",
+        "asauthorizationcontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789346/how-to-support-ios-passkeys-when-clients-use-their-own-custom-server-domains-tha"
+    },
+    {
+      "Created": "2025-10-13T14:04:10Z",
+      "Title": "How to align a Tooltip relative to the page or container",
+      "Tags": [
+        "html",
+        "css",
+        "tooltip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789350/how-to-align-a-tooltip-relative-to-the-page-or-container"
+    }
+  ]
+}

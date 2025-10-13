@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-13T20:00:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T19:26:23Z",
+      "Title": "Python pip fails to pick up MSVC Build Tools when installing a package",
+      "Tags": [
+        "python",
+        "windows",
+        "visual-c\u002B\u002B",
+        "pip",
+        "msbuild"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789580/python-pip-fails-to-pick-up-msvc-build-tools-when-installing-a-package"
+    },
+    {
+      "Created": "2025-10-13T19:34:46Z",
+      "Title": "How to add an \u201COther\u201D option to a List Box in Access Forms that allows typing a custom entry using VBA Body",
+      "Tags": [
+        "vba",
+        "ms-access",
+        "ms-access-2013"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789586/how-to-add-an-other-option-to-a-list-box-in-access-forms-that-allows-typing-a"
+    },
+    {
+      "Created": "2025-10-13T19:50:24Z",
+      "Title": "How to structure an asynchronous program where an exponentially increasing number of API calls depend on the result of the previous call?",
+      "Tags": [
+        "python",
+        "asynchronous",
+        "python-asyncio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789596/how-to-structure-an-asynchronous-program-where-an-exponentially-increasing-numbe"
+    },
+    {
+      "Created": "2025-10-13T19:56:11Z",
+      "Title": "Timer 0 macro constants for Microchip PIC18F8722",
+      "Tags": [
+        "timer",
+        "macros",
+        "microchip",
+        "pic18"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789601/timer-0-macro-constants-for-microchip-pic18f8722"
+    },
+    {
+      "Created": "2025-10-13T19:58:27Z",
+      "Title": "On implementing map in terms of fold for a binary tree in Haskell",
+      "Tags": [
+        "haskell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789603/on-implementing-map-in-terms-of-fold-for-a-binary-tree-in-haskell"
+    },
+    {
+      "Created": "2025-10-13T20:00:38Z",
+      "Title": "How can I use the PN532 with an ESP32-Wroom-32?",
+      "Tags": [
+        "arduino",
+        "esp32",
+        "robotics",
+        "pn532"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789604/how-can-i-use-the-pn532-with-an-esp32-wroom-32"
+    }
+  ]
+}

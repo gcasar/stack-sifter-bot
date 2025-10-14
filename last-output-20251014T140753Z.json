@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-14T14:05:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T13:45:13Z",
+      "Title": "Channel not found with Java API",
+      "Tags": [
+        "discord",
+        "discord-jda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790240/channel-not-found-with-java-api"
+    },
+    {
+      "Created": "2025-10-14T13:45:19Z",
+      "Title": "How to use media query with jquery",
+      "Tags": [
+        "javascript",
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790242/how-to-use-media-query-with-jquery"
+    },
+    {
+      "Created": "2025-10-14T13:52:54Z",
+      "Title": "Verify object value returns false when the value is changed in code using MOQ",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "moq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790246/verify-object-value-returns-false-when-the-value-is-changed-in-code-using-moq"
+    },
+    {
+      "Created": "2025-10-14T13:54:51Z",
+      "Title": "Lombok Getter Setter not generated. Any annotation is not working",
+      "Tags": [
+        "lombok",
+        "java-17",
+        "intellij-lombok-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790247/lombok-getter-setter-not-generated-any-annotation-is-not-working"
+    },
+    {
+      "Created": "2025-10-14T13:58:25Z",
+      "Title": "why does php code not work within html file [duplicate]",
+      "Tags": [
+        "php",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790252/why-does-php-code-not-work-within-html-file"
+    },
+    {
+      "Created": "2025-10-14T14:05:51Z",
+      "Title": "Bind form data into nested slice with Gin-Gonic",
+      "Tags": [
+        "go-gin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790256/bind-form-data-into-nested-slice-with-gin-gonic"
+    }
+  ]
+}

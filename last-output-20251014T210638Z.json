@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-14T21:04:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T20:46:11Z",
+      "Title": "How do I move focus through a list with keyboard navigation using Refs?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "keyboard",
+        "accessibility"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790619/how-do-i-move-focus-through-a-list-with-keyboard-navigation-using-refs"
+    },
+    {
+      "Created": "2025-10-14T20:52:36Z",
+      "Title": "OpenBLAS gemm 2x slower in Lisp CFFI compared to direct C calls with same BLAS library",
+      "Tags": [
+        "lisp",
+        "blas",
+        "openblas",
+        "cffi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790623/openblas-gemm-2x-slower-in-lisp-cffi-compared-to-direct-c-calls-with-same-blas-l"
+    },
+    {
+      "Created": "2025-10-14T20:56:20Z",
+      "Title": "General SOCKS server failure when sending a domain request via Tor in C",
+      "Tags": [
+        "c",
+        "proxy",
+        "tor",
+        "socks5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790626/general-socks-server-failure-when-sending-a-domain-request-via-tor-in-c"
+    },
+    {
+      "Created": "2025-10-14T20:58:40Z",
+      "Title": "is it possible to create a MACRO to tokenize the struct name which is read from a file?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "reflection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790628/is-it-possible-to-create-a-macro-to-tokenize-the-struct-name-which-is-read-from"
+    },
+    {
+      "Created": "2025-10-14T21:04:52Z",
+      "Title": "Deriving a camera frustum from a combined view\u002Bprojection matrix?",
+      "Tags": [
+        "c\u002B\u002B",
+        "3d",
+        "glm",
+        "frustum",
+        "vectormath"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790631/deriving-a-camera-frustum-from-a-combined-viewprojection-matrix"
+    }
+  ]
+}

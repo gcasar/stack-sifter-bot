@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-14T05:47:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T05:16:20Z",
+      "Title": "Vim can\u0027t :!dir in vimtutor directory, c:\\Program Files\\vim\\vim91",
+      "Tags": [
+        "vim",
+        "directory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789832/vim-cant-dir-in-vimtutor-directory-c-program-files-vim-vim91"
+    },
+    {
+      "Created": "2025-10-14T05:47:39Z",
+      "Title": "Is it possible to \u0022openFilePreserveFocus\u0022 without preview mode on VS Code?",
+      "Tags": [
+        "visual-studio-code",
+        "focus",
+        "keyboard-shortcuts",
+        "preview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789848/is-it-possible-to-openfilepreservefocus-without-preview-mode-on-vs-code"
+    }
+  ]
+}

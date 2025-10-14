@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-14T08:07:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T07:38:41Z",
+      "Title": "How to integrate Clever AI Humanizer API for text rewriting in Python? [closed]",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "axios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789927/how-to-integrate-clever-ai-humanizer-api-for-text-rewriting-in-python"
+    },
+    {
+      "Created": "2025-10-14T07:56:32Z",
+      "Title": "how to bootstrap private self hosted build agent in Azure with PowerShell",
+      "Tags": [
+        "powershell",
+        "azure-devops",
+        "ado"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789944/how-to-bootstrap-private-self-hosted-build-agent-in-azure-with-powershell"
+    },
+    {
+      "Created": "2025-10-14T07:59:27Z",
+      "Title": "unable to find class for annotation @Field in jenkins pipeline script from scm",
+      "Tags": [
+        "jenkins",
+        "groovy",
+        "jenkins-pipeline",
+        "pipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789948/unable-to-find-class-for-annotation-field-in-jenkins-pipeline-script-from-scm"
+    },
+    {
+      "Created": "2025-10-14T08:07:46Z",
+      "Title": "How to add an SBOM project to my Portfolio Access Control on Dependency Track without doing it manually on the UI?",
+      "Tags": [
+        "python",
+        "curl",
+        "owasp-dependency-track"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789955/how-to-add-an-sbom-project-to-my-portfolio-access-control-on-dependency-track-wi"
+    }
+  ]
+}

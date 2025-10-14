@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-14T13:11:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T12:55:48Z",
+      "Title": "Why is document.querySelectorAll() not updating after new elements are added? [duplicate]",
+      "Tags": [
+        "javascript",
+        "dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790187/why-is-document-queryselectorall-not-updating-after-new-elements-are-added"
+    },
+    {
+      "Created": "2025-10-14T12:56:38Z",
+      "Title": "Node.js cannot decrypt using AES-256-GCM",
+      "Tags": [
+        "node.js",
+        "aes-gcm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790188/node-js-cannot-decrypt-using-aes-256-gcm"
+    },
+    {
+      "Created": "2025-10-14T12:58:55Z",
+      "Title": "Spring Batch Remote Partitioning: Worker replies reach channel but manager never receives them",
+      "Tags": [
+        "spring-batch",
+        "spring-integration",
+        "spring-kafka",
+        "spring-batch-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790191/spring-batch-remote-partitioning-worker-replies-reach-channel-but-manager-never"
+    },
+    {
+      "Created": "2025-10-14T13:05:17Z",
+      "Title": "When does undefined behavior caused by strict aliasing occur in C? [duplicate]",
+      "Tags": [
+        "c",
+        "strict-aliasing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790202/when-does-undefined-behavior-caused-by-strict-aliasing-occur-in-c"
+    },
+    {
+      "Created": "2025-10-14T13:07:51Z",
+      "Title": "Library \u0027swiftWebKit\u0027 not found when building for physical iOS devices after upgrading Xcode \u2014 works fine on Simulator",
+      "Tags": [
+        "swift",
+        "xcode",
+        "react-native",
+        "xcode26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790204/library-swiftwebkit-not-found-when-building-for-physical-ios-devices-after-upg"
+    },
+    {
+      "Created": "2025-10-14T13:09:15Z",
+      "Title": "How should i go about testing based on user feedback, if i dont have beta testers? Any tips",
+      "Tags": [
+        "next.js",
+        "markdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790206/how-should-i-go-about-testing-based-on-user-feedback-if-i-dont-have-beta-tester"
+    },
+    {
+      "Created": "2025-10-14T13:09:26Z",
+      "Title": "compressing HEIC images produces larger size images on ios but not on macos",
+      "Tags": [
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790207/compressing-heic-images-produces-larger-size-images-on-ios-but-not-on-macos"
+    },
+    {
+      "Created": "2025-10-14T13:11:56Z",
+      "Title": "How to get log based yaxis scaling working with a columnchart in azure kql?",
+      "Tags": [
+        "azure",
+        "kql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790211/how-to-get-log-based-yaxis-scaling-working-with-a-columnchart-in-azure-kql"
+    }
+  ]
+}

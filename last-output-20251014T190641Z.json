@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-14T18:58:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T18:21:54Z",
+      "Title": "Trying to append hyperlinks (to bookmarks) given a selection in Word",
+      "Tags": [
+        "vba",
+        "ms-word",
+        "hyperlink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790497/trying-to-append-hyperlinks-to-bookmarks-given-a-selection-in-word"
+    },
+    {
+      "Created": "2025-10-14T18:47:02Z",
+      "Title": "Ursina Engine Shaders MacOS",
+      "Tags": [
+        "python",
+        "glsl",
+        "shader",
+        "light",
+        "ursina"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790516/ursina-engine-shaders-macos"
+    },
+    {
+      "Created": "2025-10-14T18:49:22Z",
+      "Title": "How to create an incremental suffix for values in a pandas column that have duplicate values in another column",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "increment",
+        "enumeration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790517/how-to-create-an-incremental-suffix-for-values-in-a-pandas-column-that-have-dupl"
+    },
+    {
+      "Created": "2025-10-14T18:49:52Z",
+      "Title": "PC freezing after GRUB installation [closed]",
+      "Tags": [
+        "linux",
+        "windows",
+        "archlinux",
+        "grub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790518/pc-freezing-after-grub-installation"
+    },
+    {
+      "Created": "2025-10-14T18:53:39Z",
+      "Title": "QEMU assertion failure on gpio.c line 108 for PowerPC e500 machine",
+      "Tags": [
+        "qemu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790520/qemu-assertion-failure-on-gpio-c-line-108-for-powerpc-e500-machine"
+    },
+    {
+      "Created": "2025-10-14T18:58:19Z",
+      "Title": "What is correct way to hide part of spring data repository methods",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-data-jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790526/what-is-correct-way-to-hide-part-of-spring-data-repository-methods"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-14T10:58:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T10:38:16Z",
+      "Title": "Google Ad iOS SDK 12.4 duplicate Ad returning issue",
+      "Tags": [
+        "ios",
+        "swift",
+        "google-mobile-ads"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790090/google-ad-ios-sdk-12-4-duplicate-ad-returning-issue"
+    },
+    {
+      "Created": "2025-10-14T10:41:29Z",
+      "Title": "Is the Base Product Specification (BPS) limited to digital products, or can it describe physical products too? [closed]",
+      "Tags": [
+        "product",
+        "specifications",
+        "marketplace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790094/is-the-base-product-specification-bps-limited-to-digital-products-or-can-it-d"
+    },
+    {
+      "Created": "2025-10-14T10:48:19Z",
+      "Title": "Can a CloudWatch alarm fire on one condition and resolve only when another condition is met?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-cloudwatch",
+        "cloudwatch-alarms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790097/can-a-cloudwatch-alarm-fire-on-one-condition-and-resolve-only-when-another-condi"
+    },
+    {
+      "Created": "2025-10-14T10:56:57Z",
+      "Title": "Unable to successfully initiate scanning using exec(), shell_exec(), or system()",
+      "Tags": [
+        "php",
+        "io",
+        "imaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790100/unable-to-successfully-initiate-scanning-using-exec-shell-exec-or-system"
+    },
+    {
+      "Created": "2025-10-14T10:58:43Z",
+      "Title": "Open xaml file in RichTextBox",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790102/open-xaml-file-in-richtextbox"
+    }
+  ]
+}

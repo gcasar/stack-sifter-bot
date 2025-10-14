@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-14T22:55:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T22:23:46Z",
+      "Title": "verify Lazy fetch with Pydantic",
+      "Tags": [
+        "python",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790670/verify-lazy-fetch-with-pydantic"
+    },
+    {
+      "Created": "2025-10-14T22:40:19Z",
+      "Title": "How do I construct an Il2Cpp string?",
+      "Tags": [
+        "c\u002B\u002B",
+        "unity-game-engine",
+        "il2cpp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790673/how-do-i-construct-an-il2cpp-string"
+    },
+    {
+      "Created": "2025-10-14T22:41:41Z",
+      "Title": "Live Intersection between Line and Circle",
+      "Tags": [
+        "python",
+        "manim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790674/live-intersection-between-line-and-circle"
+    },
+    {
+      "Created": "2025-10-14T22:55:40Z",
+      "Title": "How to get \u0027WindowAlwaysOnTop\u0027 to work using Python Qt on Ubuntu",
+      "Tags": [
+        "python",
+        "windows",
+        "ubuntu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790679/how-to-get-windowalwaysontop-to-work-using-python-qt-on-ubuntu"
+    }
+  ]
+}

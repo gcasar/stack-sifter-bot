@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-14T07:03:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T06:45:36Z",
+      "Title": "Sweetalert2 is not being shown",
+      "Tags": [
+        "laravel",
+        "laravel-livewire",
+        "sweetalert2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789883/sweetalert2-is-not-being-shown"
+    },
+    {
+      "Created": "2025-10-14T06:47:06Z",
+      "Title": "FirebaseAuth suddenly stopped working on older iPhones (login leads to blank screen, AppCheck/App Attest issue?)",
+      "Tags": [
+        "swift",
+        "firebase",
+        "firebase-authentication",
+        "render",
+        "cloudinary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789885/firebaseauth-suddenly-stopped-working-on-older-iphones-login-leads-to-blank-scr"
+    },
+    {
+      "Created": "2025-10-14T07:03:16Z",
+      "Title": "Multer returns req.file undefined when uploading image with Hoppscotch in Express",
+      "Tags": [
+        "node.js",
+        "express",
+        "file-upload",
+        "multer",
+        "hoppscotch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789898/multer-returns-req-file-undefined-when-uploading-image-with-hoppscotch-in-expres"
+    }
+  ]
+}

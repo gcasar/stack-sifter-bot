@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-14T09:06:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T08:31:51Z",
+      "Title": "\u201CStreamlit not uploading Excel files properly \u2014 how to fix the connection?\u201D [closed]",
+      "Tags": [
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789970/streamlit-not-uploading-excel-files-properly-how-to-fix-the-connection"
+    },
+    {
+      "Created": "2025-10-14T08:35:59Z",
+      "Title": "The doubleclick on control in Visual Studio form designer stopped work after actualization",
+      "Tags": [
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789975/the-doubleclick-on-control-in-visual-studio-form-designer-stopped-work-after-act"
+    },
+    {
+      "Created": "2025-10-14T08:52:15Z",
+      "Title": "How to use useCallback recursively?",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "eslint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789984/how-to-use-usecallback-recursively"
+    },
+    {
+      "Created": "2025-10-14T08:59:07Z",
+      "Title": "react-query. How can I manage the isFetching state for the same query when it\u2019s used in multiple components?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "rest",
+        "react-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789991/react-query-how-can-i-manage-the-isfetching-state-for-the-same-query-when-it-s"
+    },
+    {
+      "Created": "2025-10-14T09:01:00Z",
+      "Title": "Using latest version of Nuxt UI 4.0.1 - Unable to use hover classes on button",
+      "Tags": [
+        "nuxt.js",
+        "nuxtui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789992/using-latest-version-of-nuxt-ui-4-0-1-unable-to-use-hover-classes-on-button"
+    },
+    {
+      "Created": "2025-10-14T09:04:27Z",
+      "Title": "How could I add a search function for object classes?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789998/how-could-i-add-a-search-function-for-object-classes"
+    },
+    {
+      "Created": "2025-10-14T09:06:09Z",
+      "Title": "react-force-graph-2d: onNodeClick doesn\u0027t fire when clicking nodes quickly if onBackgroundClick is defined",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "react-typescript",
+        "d3-force"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790000/react-force-graph-2d-onnodeclick-doesnt-fire-when-clicking-nodes-quickly-if-on"
+    }
+  ]
+}

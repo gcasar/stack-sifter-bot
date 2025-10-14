@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-14T16:02:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T15:21:11Z",
+      "Title": "How to prevent database overload with BlacklistedToken and OutstandingToken models in Django using Simple JWT?",
+      "Tags": [
+        "python",
+        "django",
+        "django-rest-framework",
+        "django-rest-framework-simplejwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790338/how-to-prevent-database-overload-with-blacklistedtoken-and-outstandingtoken-mode"
+    },
+    {
+      "Created": "2025-10-14T15:24:56Z",
+      "Title": "Copying and Padding a Vectors rows quickly",
+      "Tags": [
+        "c\u002B\u002B",
+        "stdvector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790344/copying-and-padding-a-vectors-rows-quickly"
+    },
+    {
+      "Created": "2025-10-14T16:02:56Z",
+      "Title": "How to lazy load jsonl file",
+      "Tags": [
+        "json",
+        "pytorch",
+        "dataset",
+        "out-of-memory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790378/how-to-lazy-load-jsonl-file"
+    }
+  ]
+}

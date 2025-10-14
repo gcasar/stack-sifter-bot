@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-14T12:05:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T11:15:48Z",
+      "Title": "Try files not working with two different containerized nginx",
+      "Tags": [
+        "angular",
+        "nginx",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790114/try-files-not-working-with-two-different-containerized-nginx"
+    },
+    {
+      "Created": "2025-10-14T11:52:09Z",
+      "Title": "GraphQL Queries with conditional nullable filters",
+      "Tags": [
+        "graphql",
+        "hotchocolate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790134/graphql-queries-with-conditional-nullable-filters"
+    },
+    {
+      "Created": "2025-10-14T11:57:11Z",
+      "Title": "Receive error \u0022Missing script: \u0022Test\u0022\u0022 when test is run from Jest VS Code extension",
+      "Tags": [
+        "visual-studio-code",
+        "npm",
+        "jestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790138/receive-error-missing-script-test-when-test-is-run-from-jest-vs-code-extens"
+    },
+    {
+      "Created": "2025-10-14T11:59:15Z",
+      "Title": "maven-surefire-plugin does not work in tycho, uses junit4 when explicitly executed",
+      "Tags": [
+        "maven",
+        "maven-surefire-plugin",
+        "tycho",
+        "tycho-surefire-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790139/maven-surefire-plugin-does-not-work-in-tycho-uses-junit4-when-explicitly-execut"
+    },
+    {
+      "Created": "2025-10-14T12:00:53Z",
+      "Title": "Can\u0027t get 7-zip to work via vbscript to calculate a CRC32 for a file with spaces in the filename",
+      "Tags": [
+        "vbscript",
+        "escaping",
+        "7zip",
+        "wsh",
+        "crc32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790140/cant-get-7-zip-to-work-via-vbscript-to-calculate-a-crc32-for-a-file-with-spaces"
+    },
+    {
+      "Created": "2025-10-14T12:05:48Z",
+      "Title": "Where should I put Django pre-flight checks that access the database?",
+      "Tags": [
+        "django"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790147/where-should-i-put-django-pre-flight-checks-that-access-the-database"
+    }
+  ]
+}

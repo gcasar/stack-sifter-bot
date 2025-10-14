@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-14T03:53:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T03:21:19Z",
+      "Title": "How to free the value inside struct in c",
+      "Tags": [
+        "c",
+        "pointers",
+        "malloc",
+        "free"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789781/how-to-free-the-value-inside-struct-in-c"
+    },
+    {
+      "Created": "2025-10-14T03:28:11Z",
+      "Title": "How to compile MongoDB 8.0.14 using Bazel on CentOS 7?",
+      "Tags": [
+        "mongodb",
+        "compilation",
+        "centos7",
+        "bazel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789785/how-to-compile-mongodb-8-0-14-using-bazel-on-centos-7"
+    },
+    {
+      "Created": "2025-10-14T03:30:00Z",
+      "Title": "How do I transpose a table and store it as a table?",
+      "Tags": [
+        "kdb\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789787/how-do-i-transpose-a-table-and-store-it-as-a-table"
+    },
+    {
+      "Created": "2025-10-14T03:39:16Z",
+      "Title": "How to write a custom document upload form in Wagtail",
+      "Tags": [
+        "wagtail"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789791/how-to-write-a-custom-document-upload-form-in-wagtail"
+    },
+    {
+      "Created": "2025-10-14T03:53:19Z",
+      "Title": "How can I use Faker.js to seed my Prisma database with sample data (users, books, or cars)?",
+      "Tags": [
+        "typescript",
+        "backend",
+        "prisma",
+        "seeding",
+        "faker.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789798/how-can-i-use-faker-js-to-seed-my-prisma-database-with-sample-data-users-books"
+    }
+  ]
+}

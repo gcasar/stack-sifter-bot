@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-14T17:05:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T16:40:53Z",
+      "Title": "Remove column name row in kable while using kable_styling",
+      "Tags": [
+        "r",
+        "r-markdown",
+        "kable",
+        "kableextra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790411/remove-column-name-row-in-kable-while-using-kable-styling"
+    },
+    {
+      "Created": "2025-10-14T16:47:02Z",
+      "Title": "Trigger a workflow if previous workflow exists and success, or not exists",
+      "Tags": [
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790420/trigger-a-workflow-if-previous-workflow-exists-and-success-or-not-exists"
+    },
+    {
+      "Created": "2025-10-14T16:49:42Z",
+      "Title": "inversion_clear H as pat",
+      "Tags": [
+        "rocq-prover",
+        "coq-tactic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790424/inversion-clear-h-as-pat"
+    },
+    {
+      "Created": "2025-10-14T16:55:07Z",
+      "Title": "Can I configure Linux or my Linux ELF file to deliberately disallow unaligned accesses on arm64?",
+      "Tags": [
+        "debugging",
+        "arm64",
+        "memory-alignment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790427/can-i-configure-linux-or-my-linux-elf-file-to-deliberately-disallow-unaligned-ac"
+    },
+    {
+      "Created": "2025-10-14T16:55:33Z",
+      "Title": "Entity with compound primary key also create index on single column",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        ".net-core",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790428/entity-with-compound-primary-key-also-create-index-on-single-column"
+    },
+    {
+      "Created": "2025-10-14T16:56:42Z",
+      "Title": "How do I print to application output window when debugging python in Qt Creator IDE?",
+      "Tags": [
+        "python",
+        "qt-creator",
+        "pdb",
+        "qtpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790431/how-do-i-print-to-application-output-window-when-debugging-python-in-qt-creator"
+    },
+    {
+      "Created": "2025-10-14T16:56:46Z",
+      "Title": "Failure to infer one or more parameters on Middleware Singleton",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        ".net-core",
+        "asp.net-web-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790432/failure-to-infer-one-or-more-parameters-on-middleware-singleton"
+    },
+    {
+      "Created": "2025-10-14T17:05:41Z",
+      "Title": "Ansible json read issue",
+      "Tags": [
+        "ansible",
+        "ansible-facts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790437/ansible-json-read-issue"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-14T00:22:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-13T23:22:07Z",
+      "Title": "firebasd genkit using prompt in chat",
+      "Tags": [
+        "node.js",
+        "firebase",
+        "large-language-model",
+        "firebase-genkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789695/firebasd-genkit-using-prompt-in-chat"
+    },
+    {
+      "Created": "2025-10-13T23:45:51Z",
+      "Title": "Problem Accessing Values From Angular Object Defined With Typescript Index Signature Using Bracket Notation",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789705/problem-accessing-values-from-angular-object-defined-with-typescript-index-signa"
+    },
+    {
+      "Created": "2025-10-13T23:55:57Z",
+      "Title": "Reversing a linked list returns only the head",
+      "Tags": [
+        "python",
+        "linked-list",
+        "reverse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789708/reversing-a-linked-list-returns-only-the-head"
+    },
+    {
+      "Created": "2025-10-14T00:22:13Z",
+      "Title": "Autoplay embeded video and/or slideshow",
+      "Tags": [
+        "video",
+        "embed",
+        "slideshow",
+        "autoplay"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789718/autoplay-embeded-video-and-or-slideshow"
+    }
+  ]
+}

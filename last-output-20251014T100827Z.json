@@ -1,0 +1,108 @@
+{
+  "TotalProcessed": 11,
+  "LastCreated": "2025-10-14T10:06:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T09:40:49Z",
+      "Title": "How can I merge two lists in Python while removing duplicates but preserving the original order? [duplicate]",
+      "Tags": [
+        "python",
+        "list",
+        "data-structures",
+        "merge",
+        "duplicates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790037/how-can-i-merge-two-lists-in-python-while-removing-duplicates-but-preserving-the"
+    },
+    {
+      "Created": "2025-10-14T09:41:34Z",
+      "Title": "How to properly handle multiple post-filters that modify the response body before it\u2019s committed in Spring Cloud Gateway?",
+      "Tags": [
+        "spring-boot",
+        "spring-webflux",
+        "spring-cloud-gateway",
+        "reactive-streams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790038/how-to-properly-handle-multiple-post-filters-that-modify-the-response-body-befor"
+    },
+    {
+      "Created": "2025-10-14T09:51:46Z",
+      "Title": "data entered in the pagebuilder banner",
+      "Tags": [
+        "magento"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790051/data-entered-in-the-pagebuilder-banner"
+    },
+    {
+      "Created": "2025-10-14T09:53:59Z",
+      "Title": "React , Foundation 6 open and close dom issue",
+      "Tags": [
+        "reactjs",
+        "foundation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790052/react-foundation-6-open-and-close-dom-issue"
+    },
+    {
+      "Created": "2025-10-14T09:56:32Z",
+      "Title": "Validate attribute uniqueness on association",
+      "Tags": [
+        "ruby-on-rails"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790053/validate-attribute-uniqueness-on-association"
+    },
+    {
+      "Created": "2025-10-14T09:58:17Z",
+      "Title": "How can I stop argocd ignoring my namespace selection when using multiple tabs/windows?",
+      "Tags": [
+        "argocd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790055/how-can-i-stop-argocd-ignoring-my-namespace-selection-when-using-multiple-tabs-w"
+    },
+    {
+      "Created": "2025-10-14T10:00:04Z",
+      "Title": "How to use Pydantic field in another field for serialization/deserialization purposes",
+      "Tags": [
+        "python",
+        "serialization",
+        "pydantic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790056/how-to-use-pydantic-field-in-another-field-for-serialization-deserialization-pur"
+    },
+    {
+      "Created": "2025-10-14T10:01:32Z",
+      "Title": "React Native Build Failing with JAR Creation Error in react-native-vision-camera-face-detector",
+      "Tags": [
+        "android",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790058/react-native-build-failing-with-jar-creation-error-in-react-native-vision-camera"
+    },
+    {
+      "Created": "2025-10-14T10:01:53Z",
+      "Title": "Stack memory in freestanding environment",
+      "Tags": [
+        "assembly",
+        "x86-64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790059/stack-memory-in-freestanding-environment"
+    },
+    {
+      "Created": "2025-10-14T10:03:19Z",
+      "Title": "Define buffer size with #define and scanf",
+      "Tags": [
+        "c",
+        "scanf",
+        "c-preprocessor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790060/define-buffer-size-with-define-and-scanf"
+    },
+    {
+      "Created": "2025-10-14T10:06:07Z",
+      "Title": "Libre Office - App gets killed when Util::forcedExit() is called \u2014 how to handle this properly on Android?",
+      "Tags": [
+        "libreoffice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790062/libre-office-app-gets-killed-when-utilforcedexit-is-called-how-to-handle"
+    }
+  ]
+}

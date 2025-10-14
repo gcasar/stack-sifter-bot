@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-14T21:46:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T21:34:14Z",
+      "Title": "Recording sounds in apps",
+      "Tags": [
+        "android",
+        "kotlin",
+        "voip",
+        "mediaprojection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790640/recording-sounds-in-apps"
+    },
+    {
+      "Created": "2025-10-14T21:37:58Z",
+      "Title": "How to remove optional prefixes and suffixes from string",
+      "Tags": [
+        "sql",
+        "regex",
+        "postgresql",
+        "regex-negation",
+        "regex-greedy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790643/how-to-remove-optional-prefixes-and-suffixes-from-string"
+    },
+    {
+      "Created": "2025-10-14T21:46:33Z",
+      "Title": "How to design a payment acquirer API wrapper (E-Rede, Cielo, or CGNet) abstracting transaction and tokenization routes?",
+      "Tags": [
+        "python",
+        "architecture",
+        "microservices",
+        "fastapi",
+        "api-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790648/how-to-design-a-payment-acquirer-api-wrapper-e-rede-cielo-or-cgnet-abstracti"
+    }
+  ]
+}

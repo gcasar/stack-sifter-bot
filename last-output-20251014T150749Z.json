@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-14T15:01:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T14:42:05Z",
+      "Title": "Implementing a Simple Icecast Client using Python",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "audio",
+        "live",
+        "icecast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790304/implementing-a-simple-icecast-client-using-python"
+    },
+    {
+      "Created": "2025-10-14T14:53:55Z",
+      "Title": "Using console Application that will bind to a view",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "model-view-controller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790313/using-console-application-that-will-bind-to-a-view"
+    },
+    {
+      "Created": "2025-10-14T14:53:59Z",
+      "Title": "How to extend zoom level beyond available WMTS tiles in Google Maps JavaScript API?",
+      "Tags": [
+        "javascript",
+        "google-maps-api-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790314/how-to-extend-zoom-level-beyond-available-wmts-tiles-in-google-maps-javascript-a"
+    },
+    {
+      "Created": "2025-10-14T14:55:52Z",
+      "Title": "Does an uninitialized ValueState occupy memory in checkpoints in Flink?",
+      "Tags": [
+        "amazon-web-services",
+        "apache-flink",
+        "flink-streaming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790316/does-an-uninitialized-valuestate-occupy-memory-in-checkpoints-in-flink"
+    },
+    {
+      "Created": "2025-10-14T14:56:13Z",
+      "Title": "Unable to retreive a list of shared items in OneDrive for a user with MG Graph in C#",
+      "Tags": [
+        "c#",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790317/unable-to-retreive-a-list-of-shared-items-in-onedrive-for-a-user-with-mg-graph-i"
+    },
+    {
+      "Created": "2025-10-14T15:00:12Z",
+      "Title": "Array global em componente React para sincronizar dados de API [closed]",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790321/array-global-em-componente-react-para-sincronizar-dados-de-api"
+    },
+    {
+      "Created": "2025-10-14T15:01:29Z",
+      "Title": "How can I change the order of legend items to match the stacked bars in lattice::barchart",
+      "Tags": [
+        "r",
+        "legend",
+        "lattice",
+        "stacked-bar-chart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790323/how-can-i-change-the-order-of-legend-items-to-match-the-stacked-bars-in-lattice"
+    }
+  ]
+}

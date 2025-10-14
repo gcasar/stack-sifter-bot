@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-14T02:29:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T01:54:31Z",
+      "Title": "Big-O notation if n is a constant",
+      "Tags": [
+        "data-structures",
+        "time-complexity",
+        "big-o",
+        "complexity-theory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789748/big-o-notation-if-n-is-a-constant"
+    },
+    {
+      "Created": "2025-10-14T02:22:02Z",
+      "Title": "how to obtain an access_token for Google Play Developer API?",
+      "Tags": [
+        "google-play",
+        "in-app-purchase",
+        "google-developers-console",
+        "android-inapp-purchase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789756/how-to-obtain-an-access-token-for-google-play-developer-api"
+    },
+    {
+      "Created": "2025-10-14T02:22:50Z",
+      "Title": "Root domain sometimes works and sometimes doesn\u2019t is that normal during DNS/SSL propagation after 24 hours?",
+      "Tags": [
+        "ssl",
+        "curl",
+        "https",
+        "dns",
+        "tls1.2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789757/root-domain-sometimes-works-and-sometimes-doesn-t-is-that-normal-during-dns-ssl"
+    },
+    {
+      "Created": "2025-10-14T02:28:39Z",
+      "Title": "Core Audio: why are device UIDs issued by kAudioDevicePropertyDeviceUID unstable?",
+      "Tags": [
+        "macos",
+        "core-audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789762/core-audio-why-are-device-uids-issued-by-kaudiodevicepropertydeviceuid-unstable"
+    },
+    {
+      "Created": "2025-10-14T02:29:03Z",
+      "Title": "Custom pop up timer not working correctly",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789763/custom-pop-up-timer-not-working-correctly"
+    }
+  ]
+}

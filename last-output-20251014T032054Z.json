@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-14T03:06:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T02:44:22Z",
+      "Title": "Increase the date by number of months in pandas",
+      "Tags": [
+        "python-3.x",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789768/increase-the-date-by-number-of-months-in-pandas"
+    },
+    {
+      "Created": "2025-10-14T02:47:20Z",
+      "Title": "rAF-aligned pointermove event",
+      "Tags": [
+        "c\u002B\u002B",
+        "google-chrome",
+        "chromium",
+        "v8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789769/raf-aligned-pointermove-event"
+    },
+    {
+      "Created": "2025-10-14T03:04:51Z",
+      "Title": "rbenv: issues with ruby-build plugin",
+      "Tags": [
+        "ruby",
+        "rbenv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789774/rbenv-issues-with-ruby-build-plugin"
+    },
+    {
+      "Created": "2025-10-14T03:06:41Z",
+      "Title": "How to make nested for flowchart?",
+      "Tags": [
+        "java",
+        "flowchart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789776/how-to-make-nested-for-flowchart"
+    }
+  ]
+}

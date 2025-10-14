@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-14T01:23:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T00:45:36Z",
+      "Title": "Singularity error in a fully nested linear mixed effects model",
+      "Tags": [
+        "r",
+        "nested",
+        "statistics",
+        "lme4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789728/singularity-error-in-a-fully-nested-linear-mixed-effects-model"
+    },
+    {
+      "Created": "2025-10-14T01:11:25Z",
+      "Title": "What is the difference between underscore-prefixed functions and #[allow(dead_code)] before a function?",
+      "Tags": [
+        "rust",
+        "compiler-warnings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789733/what-is-the-difference-between-underscore-prefixed-functions-and-allowdead-co"
+    },
+    {
+      "Created": "2025-10-14T01:23:39Z",
+      "Title": "Data aggregated from ad level metrics doesn\u0027t equate to account level metrics",
+      "Tags": [
+        "facebook",
+        "facebook-graph-api",
+        "facebook-marketing-api",
+        "facebook-insights"
+      ],
+      "Url": "https://stackoverflow.com/questions/79789737/data-aggregated-from-ad-level-metrics-doesnt-equate-to-account-level-metrics"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-15T02:31:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T02:14:32Z",
+      "Title": "Unable to use Airflow variable with function in Jinja template",
+      "Tags": [
+        "python",
+        "templates",
+        "airflow",
+        "jinja2",
+        "dbt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790744/unable-to-use-airflow-variable-with-function-in-jinja-template"
+    },
+    {
+      "Created": "2025-10-15T02:23:10Z",
+      "Title": "How can I change currently selected text using Adobe Illustrator Extendscript?",
+      "Tags": [
+        "javascript",
+        "adobe-illustrator",
+        "extendscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790750/how-can-i-change-currently-selected-text-using-adobe-illustrator-extendscript"
+    },
+    {
+      "Created": "2025-10-15T02:31:40Z",
+      "Title": "In the case of using the unique_prt smart pointer link, do we need to use dereferences?",
+      "Tags": [
+        "c\u002B\u002B",
+        "reference",
+        "smart-pointers",
+        "unique-ptr",
+        "dereference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790755/in-the-case-of-using-the-unique-prt-smart-pointer-link-do-we-need-to-use-derefe"
+    }
+  ]
+}

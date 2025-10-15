@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-15T09:05:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T08:30:05Z",
+      "Title": "Apache Ignite 3 HOCON config file SSL configuration password encryption [closed]",
+      "Tags": [
+        "ssl",
+        "ignite",
+        "apacheignite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790939/apache-ignite-3-hocon-config-file-ssl-configuration-password-encryption"
+    },
+    {
+      "Created": "2025-10-15T08:35:10Z",
+      "Title": "Cordova bridge not firing after biometric passcode fallback on iOS (deviceready / document.ready not triggered)",
+      "Tags": [
+        "ios",
+        "swift",
+        "objective-c",
+        "cordova"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790948/cordova-bridge-not-firing-after-biometric-passcode-fallback-on-ios-deviceready"
+    },
+    {
+      "Created": "2025-10-15T08:46:54Z",
+      "Title": "Can Schedule be nested in the Renovate bot config?",
+      "Tags": [
+        "renovate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790964/can-schedule-be-nested-in-the-renovate-bot-config"
+    },
+    {
+      "Created": "2025-10-15T08:47:16Z",
+      "Title": "Source files for Liberica\u0027s JavaFX",
+      "Tags": [
+        "java",
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790965/source-files-for-libericas-javafx"
+    },
+    {
+      "Created": "2025-10-15T08:51:06Z",
+      "Title": "Is it possible to update script section for AWS Glue ETL or Glue streaming Jobs using AWS CLI?",
+      "Tags": [
+        "aws-glue",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790968/is-it-possible-to-update-script-section-for-aws-glue-etl-or-glue-streaming-jobs"
+    },
+    {
+      "Created": "2025-10-15T08:52:08Z",
+      "Title": "Maven Runner in IntelliJ",
+      "Tags": [
+        "maven",
+        "intellij-idea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790970/maven-runner-in-intellij"
+    },
+    {
+      "Created": "2025-10-15T09:01:50Z",
+      "Title": "NExtjs: process is not defined / process.binding is not supported error after deployment, but works locally",
+      "Tags": [
+        "next.js",
+        "amazon-cognito",
+        "aws-amplify"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790972/nextjs-process-is-not-defined-process-binding-is-not-supported-error-after-de"
+    },
+    {
+      "Created": "2025-10-15T09:04:08Z",
+      "Title": "Quarkus @RunOnVirtualThread sleep needed",
+      "Tags": [
+        "quarkus",
+        "quarkus-panache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790974/quarkus-runonvirtualthread-sleep-needed"
+    },
+    {
+      "Created": "2025-10-15T09:05:54Z",
+      "Title": "Background color rendering bugs out when website is restarted",
+      "Tags": [
+        "html",
+        "css",
+        "next.js",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790980/background-color-rendering-bugs-out-when-website-is-restarted"
+    }
+  ]
+}

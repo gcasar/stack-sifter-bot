@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-15T10:58:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T10:09:18Z",
+      "Title": "CompletableFutures, join() and get() vs thread interruption",
+      "Tags": [
+        "java",
+        "completable-future",
+        "java-17",
+        "java-threads"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791032/completablefutures-join-and-get-vs-thread-interruption"
+    },
+    {
+      "Created": "2025-10-15T10:30:24Z",
+      "Title": "Having different InMemory table bucket count size for different environments",
+      "Tags": [
+        "sql-server",
+        "sql-server-data-tools",
+        "sql-server-2019"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791056/having-different-inmemory-table-bucket-count-size-for-different-environments"
+    },
+    {
+      "Created": "2025-10-15T10:38:46Z",
+      "Title": "JsonTypeInfo for one specific subclass",
+      "Tags": [
+        "java",
+        "json",
+        "jackson"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791065/jsontypeinfo-for-one-specific-subclass"
+    },
+    {
+      "Created": "2025-10-15T10:52:20Z",
+      "Title": "twine error with recent setuptools build but previous ones fine \u0022InvalidDistribution: Metadata is missing required fields: Name, Version\u0022",
+      "Tags": [
+        "python",
+        "setuptools",
+        "pypi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791079/twine-error-with-recent-setuptools-build-but-previous-ones-fine-invaliddistribu"
+    },
+    {
+      "Created": "2025-10-15T10:56:17Z",
+      "Title": "Save boolean mask as .png",
+      "Tags": [
+        "machine-learning",
+        "pytorch",
+        "torchvision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791081/save-boolean-mask-as-png"
+    },
+    {
+      "Created": "2025-10-15T10:58:37Z",
+      "Title": "Query Timeout in Athena while querying partition key names",
+      "Tags": [
+        "sql",
+        "aws-glue",
+        "amazon-athena",
+        "partitioning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791083/query-timeout-in-athena-while-querying-partition-key-names"
+    }
+  ]
+}

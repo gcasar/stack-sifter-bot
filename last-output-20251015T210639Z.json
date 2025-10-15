@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-15T20:54:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T20:06:37Z",
+      "Title": "Grouping data by season in R when winter includes December from the previous year",
+      "Tags": [
+        "r",
+        "group-by",
+        "lubridate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791572/grouping-data-by-season-in-r-when-winter-includes-december-from-the-previous-yea"
+    },
+    {
+      "Created": "2025-10-15T20:46:07Z",
+      "Title": "How to exclude some props when define other specific props?",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "react-typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791592/how-to-exclude-some-props-when-define-other-specific-props"
+    },
+    {
+      "Created": "2025-10-15T20:48:10Z",
+      "Title": "Oracle 19c FOR UPDATE SKIP LOCKED still allows same row to be processed by two app instances",
+      "Tags": [
+        "spring-boot",
+        "jpa",
+        "oracle19c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791593/oracle-19c-for-update-skip-locked-still-allows-same-row-to-be-processed-by-two-a"
+    },
+    {
+      "Created": "2025-10-15T20:49:40Z",
+      "Title": "Monaco Editor blue highlight on click",
+      "Tags": [
+        "monaco-editor",
+        "react-monaco-editor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791595/monaco-editor-blue-highlight-on-click"
+    },
+    {
+      "Created": "2025-10-15T20:50:35Z",
+      "Title": "Excel/VBA - \u0022Place in Cell\u0022 Photos Automatically?",
+      "Tags": [
+        "excel",
+        "vba",
+        "excel-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791598/excel-vba-place-in-cell-photos-automatically"
+    },
+    {
+      "Created": "2025-10-15T20:54:25Z",
+      "Title": "SwiftUI @State var not changing",
+      "Tags": [
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791600/swiftui-state-var-not-changing"
+    }
+  ]
+}

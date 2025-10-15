@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-15T13:10:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T12:17:18Z",
+      "Title": "How to disable spell checking for hex color codes?",
+      "Tags": [
+        "intellij-idea",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791160/how-to-disable-spell-checking-for-hex-color-codes"
+    },
+    {
+      "Created": "2025-10-15T12:58:24Z",
+      "Title": "Show dependency tree for Gradle",
+      "Tags": [
+        "gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791194/show-dependency-tree-for-gradle"
+    },
+    {
+      "Created": "2025-10-15T12:59:56Z",
+      "Title": "How to ensure msalruntime.dll is loaded correctly if embedded in an executable?",
+      "Tags": [
+        ".net",
+        "azure-ad-msal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791196/how-to-ensure-msalruntime-dll-is-loaded-correctly-if-embedded-in-an-executable"
+    },
+    {
+      "Created": "2025-10-15T13:01:44Z",
+      "Title": "Zynq AXI DMA MM2S stuck in reset in simple mode, using baremetal and AXI FIFO",
+      "Tags": [
+        "dma",
+        "vivado",
+        "zynq",
+        "soc",
+        "vitis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791197/zynq-axi-dma-mm2s-stuck-in-reset-in-simple-mode-using-baremetal-and-axi-fifo"
+    },
+    {
+      "Created": "2025-10-15T13:06:29Z",
+      "Title": "In oracle oci data integration (DIS), loop in a table and take action on each row",
+      "Tags": [
+        "etl",
+        "oracle-cloud-infrastructure",
+        "dis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791200/in-oracle-oci-data-integration-dis-loop-in-a-table-and-take-action-on-each-ro"
+    },
+    {
+      "Created": "2025-10-15T13:07:19Z",
+      "Title": "Jest 30 Validation Error on Windows while Jest 29 worked",
+      "Tags": [
+        "javascript",
+        "jestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791202/jest-30-validation-error-on-windows-while-jest-29-worked"
+    },
+    {
+      "Created": "2025-10-15T13:10:16Z",
+      "Title": "For MSTest.Sdk. v3.8.0 and above logs from another thread not assiged to correct test method",
+      "Tags": [
+        "mstest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791207/for-mstest-sdk-v3-8-0-and-above-logs-from-another-thread-not-assiged-to-correct"
+    }
+  ]
+}

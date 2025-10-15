@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-15T22:58:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T22:09:57Z",
+      "Title": "Remove event stacking in FullCalendar",
+      "Tags": [
+        "reactjs",
+        "typescript",
+        "fullcalendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791648/remove-event-stacking-in-fullcalendar"
+    },
+    {
+      "Created": "2025-10-15T22:40:37Z",
+      "Title": "SWIG interface for a function that outputs a C# string",
+      "Tags": [
+        "c#",
+        "swig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791659/swig-interface-for-a-function-that-outputs-a-c-sharp-string"
+    },
+    {
+      "Created": "2025-10-15T22:45:48Z",
+      "Title": "Automate removal of div/span attributes for code clean-up and easier merging",
+      "Tags": [
+        "html",
+        "class",
+        "attributes",
+        "preprocessor",
+        "textnode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791662/automate-removal-of-div-span-attributes-for-code-clean-up-and-easier-merging"
+    },
+    {
+      "Created": "2025-10-15T22:55:41Z",
+      "Title": "Websocket live update system",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "websocket",
+        "stomp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791663/websocket-live-update-system"
+    },
+    {
+      "Created": "2025-10-15T22:58:35Z",
+      "Title": "json string to uint64 convert workaround",
+      "Tags": [
+        "json",
+        "go",
+        "type-conversion",
+        "unmarshalling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791666/json-string-to-uint64-convert-workaround"
+    }
+  ]
+}

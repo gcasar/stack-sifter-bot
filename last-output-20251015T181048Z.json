@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-15T17:59:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T17:17:11Z",
+      "Title": "How to copy sparse files in Python so that both source and destination have identical size?",
+      "Tags": [
+        "python",
+        "unix",
+        "sparse-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791443/how-to-copy-sparse-files-in-python-so-that-both-source-and-destination-have-iden"
+    },
+    {
+      "Created": "2025-10-15T17:50:24Z",
+      "Title": "Nx Workspace: React Native/Expo App Can\u0027t Resolve Library Module During EAS Build",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "typescript",
+        "nrwl-nx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791474/nx-workspace-react-native-expo-app-cant-resolve-library-module-during-eas-buil"
+    },
+    {
+      "Created": "2025-10-15T17:52:42Z",
+      "Title": "Why is my LocalBusiness schema markup not showing rich results in Google?",
+      "Tags": [
+        "schema.org",
+        "google-search-console",
+        "json-ld",
+        "structured-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791476/why-is-my-localbusiness-schema-markup-not-showing-rich-results-in-google"
+    },
+    {
+      "Created": "2025-10-15T17:56:27Z",
+      "Title": "Unable to connect to Linux computer with static IP address",
+      "Tags": [
+        "linux",
+        "static",
+        "ip",
+        "router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791480/unable-to-connect-to-linux-computer-with-static-ip-address"
+    },
+    {
+      "Created": "2025-10-15T17:58:39Z",
+      "Title": "Blazor .NET 9 - ClientTimeoutInterval and KeepAliveInterval not working as expected?",
+      "Tags": [
+        ".net",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791481/blazor-net-9-clienttimeoutinterval-and-keepaliveinterval-not-working-as-expec"
+    },
+    {
+      "Created": "2025-10-15T17:59:26Z",
+      "Title": "Extending wagtail richtext link chooser",
+      "Tags": [
+        "wagtail",
+        "draftail"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791483/extending-wagtail-richtext-link-chooser"
+    },
+    {
+      "Created": "2025-10-15T17:59:38Z",
+      "Title": "An exception was thrown while attempting to evaluate the LINQ query parameter expression",
+      "Tags": [
+        "c#",
+        "mysql",
+        "entity-framework",
+        ".net-8.0",
+        "pomelo-entityframeworkcore-mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791484/an-exception-was-thrown-while-attempting-to-evaluate-the-linq-query-parameter-ex"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-15T20:02:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T19:50:30Z",
+      "Title": "how to approach when reallocation does to that array that we are looping inside",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791561/how-to-approach-when-reallocation-does-to-that-array-that-we-are-looping-inside"
+    },
+    {
+      "Created": "2025-10-15T19:50:37Z",
+      "Title": "WebRTC with ffmpeg in c# .NET",
+      "Tags": [
+        "c#",
+        ".net",
+        "ffmpeg",
+        "webrtc",
+        "rtp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791562/webrtc-with-ffmpeg-in-c-sharp-net"
+    },
+    {
+      "Created": "2025-10-15T19:58:42Z",
+      "Title": "Drawing an ellipse with 360 degree graduations",
+      "Tags": [
+        "ellipse",
+        "onpaint",
+        "paintbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791567/drawing-an-ellipse-with-360-degree-graduations"
+    },
+    {
+      "Created": "2025-10-15T20:01:37Z",
+      "Title": "Move value out of shared_ptr or copy if it is shared",
+      "Tags": [
+        "c\u002B\u002B",
+        "shared-ptr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791568/move-value-out-of-shared-ptr-or-copy-if-it-is-shared"
+    },
+    {
+      "Created": "2025-10-15T20:02:00Z",
+      "Title": "Prometheus EC2 service discovery inside Docker on EC2 fails with \u201Cstatic credentials are empty\u201D even though IMDS works",
+      "Tags": [
+        "amazon-web-services",
+        "docker",
+        "amazon-ec2",
+        "prometheus",
+        "amazon-iam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791569/prometheus-ec2-service-discovery-inside-docker-on-ec2-fails-with-static-credent"
+    }
+  ]
+}

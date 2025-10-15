@@ -1,0 +1,92 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-15T08:08:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T07:45:18Z",
+      "Title": "PowerShell/ADO Pipeline: SSH Fails with key file in .ssh folder (space in path), fingerprint not accepted",
+      "Tags": [
+        "powershell",
+        "ssh",
+        "azure-pipelines",
+        "fingerprinting",
+        "rsa-key-fingerprint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790903/powershell-ado-pipeline-ssh-fails-with-key-file-in-ssh-folder-space-in-path"
+    },
+    {
+      "Created": "2025-10-15T07:51:15Z",
+      "Title": "Flutter build fails or \u201Cfile not found\u201D errors when project is stored in iCloud-synced folder (macOS)",
+      "Tags": [
+        "android",
+        "flutter",
+        "macos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790908/flutter-build-fails-or-file-not-found-errors-when-project-is-stored-in-icloud"
+    },
+    {
+      "Created": "2025-10-15T07:53:35Z",
+      "Title": "Browser connection hangs after accept",
+      "Tags": [
+        "rust",
+        "tcplistener",
+        "tcpserver",
+        "turbine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790912/browser-connection-hangs-after-accept"
+    },
+    {
+      "Created": "2025-10-15T08:00:42Z",
+      "Title": "Axon Framework with postgresql: Using Bytea instead of OID not working",
+      "Tags": [
+        "java",
+        "postgresql",
+        "spring-boot",
+        "flyway",
+        "axon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790915/axon-framework-with-postgresql-using-bytea-instead-of-oid-not-working"
+    },
+    {
+      "Created": "2025-10-15T08:05:46Z",
+      "Title": "How to precompute nested date ranges efficiently to optimize range filtering and pagination?",
+      "Tags": [
+        "mongodb",
+        "performance",
+        "data-structures",
+        "query-optimization",
+        "date-range"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790920/how-to-precompute-nested-date-ranges-efficiently-to-optimize-range-filtering-and"
+    },
+    {
+      "Created": "2025-10-15T08:05:47Z",
+      "Title": "draw mode in react leaflet not working consistently",
+      "Tags": [
+        "reactjs",
+        "leaflet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790921/draw-mode-in-react-leaflet-not-working-consistently"
+    },
+    {
+      "Created": "2025-10-15T08:06:14Z",
+      "Title": "Correct way to use HTML Dialog native element with Svelte?",
+      "Tags": [
+        "html",
+        "modal-dialog",
+        "svelte",
+        "sveltekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790922/correct-way-to-use-html-dialog-native-element-with-svelte"
+    },
+    {
+      "Created": "2025-10-15T08:08:58Z",
+      "Title": "Best way to open-source a fullstack Next.js app while keeping maintainer control",
+      "Tags": [
+        "next.js",
+        "react-fullstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790924/best-way-to-open-source-a-fullstack-next-js-app-while-keeping-maintainer-control"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-15T12:11:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T11:26:51Z",
+      "Title": "How to make Playwright to connect to existing/opened Camoufox browser at certain port",
+      "Tags": [
+        "browser",
+        "server",
+        "playwright",
+        "camoufox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791112/how-to-make-playwright-to-connect-to-existing-opened-camoufox-browser-at-certain"
+    },
+    {
+      "Created": "2025-10-15T12:11:54Z",
+      "Title": "Jaxb - Need help on \u0027xsi:nil=\u0022true\u0022 \u0027 without namespace in XmlElement with GlassFish-variant",
+      "Tags": [
+        "jaxb",
+        "xml-nil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791151/jaxb-need-help-on-xsinil-true-without-namespace-in-xmlelement-with-glass"
+    }
+  ]
+}

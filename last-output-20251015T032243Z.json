@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-15T03:17:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T02:37:21Z",
+      "Title": "Null values of username are showing in my firebase console and flutter app",
+      "Tags": [
+        "android",
+        "ios",
+        "flutter",
+        "firebase",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790759/null-values-of-username-are-showing-in-my-firebase-console-and-flutter-app"
+    },
+    {
+      "Created": "2025-10-15T02:38:27Z",
+      "Title": "points.isNotEmpty / LatLngBounds cannot be created with an empty List of LatLng",
+      "Tags": [
+        "flutter",
+        "dart",
+        "fluttermap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790761/points-isnotempty-latlngbounds-cannot-be-created-with-an-empty-list-of-latlng"
+    },
+    {
+      "Created": "2025-10-15T03:02:27Z",
+      "Title": "How can I bridge C and Rust? [closed]",
+      "Tags": [
+        "c",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790771/how-can-i-bridge-c-and-rust"
+    },
+    {
+      "Created": "2025-10-15T03:17:24Z",
+      "Title": "Confused about AWS Organizations SCP inheritance \u2014 does a restrictive child OU SCP override parent \u201CFullAWSAccess\u201D?",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-iam",
+        "aws-organizations",
+        "aws-iam-policy",
+        "aws-scp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790776/confused-about-aws-organizations-scp-inheritance-does-a-restrictive-child-ou-s"
+    }
+  ]
+}

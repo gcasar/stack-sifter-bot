@@ -1,0 +1,99 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-10-15T16:02:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T15:22:18Z",
+      "Title": "Howto add SSL support for simple Android web server written in Java",
+      "Tags": [
+        "java",
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791333/howto-add-ssl-support-for-simple-android-web-server-written-in-java"
+    },
+    {
+      "Created": "2025-10-15T15:22:29Z",
+      "Title": "Webscraping, cannot find page element",
+      "Tags": [
+        "selenium-webdriver",
+        "web-scraping",
+        "beautifulsoup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791334/webscraping-cannot-find-page-element"
+    },
+    {
+      "Created": "2025-10-15T15:34:26Z",
+      "Title": "Recipe steps on response cannot be replicated with the test data set",
+      "Tags": [
+        "r",
+        "tidymodels"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791350/recipe-steps-on-response-cannot-be-replicated-with-the-test-data-set"
+    },
+    {
+      "Created": "2025-10-15T15:51:44Z",
+      "Title": "Microsoft.Maui.Resizetizer usage",
+      "Tags": [
+        ".net",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791370/microsoft-maui-resizetizer-usage"
+    },
+    {
+      "Created": "2025-10-15T15:51:53Z",
+      "Title": "Nginx conf for specific path change root and do no more additional searches",
+      "Tags": [
+        "nginx-config"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791371/nginx-conf-for-specific-path-change-root-and-do-no-more-additional-searches"
+    },
+    {
+      "Created": "2025-10-15T15:53:32Z",
+      "Title": "how do I print out a reciep in the console and also save the reciep to the textfile defined above in the file? [closed]",
+      "Tags": [
+        "python",
+        "file",
+        "project"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791372/how-do-i-print-out-a-reciep-in-the-console-and-also-save-the-reciep-to-the-textf"
+    },
+    {
+      "Created": "2025-10-15T15:53:34Z",
+      "Title": "Animation timeline not working or starting using animejs v4.2.2",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "animation",
+        "animejs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791374/animation-timeline-not-working-or-starting-using-animejs-v4-2-2"
+    },
+    {
+      "Created": "2025-10-15T15:53:44Z",
+      "Title": "Chrome extension API contentSettings.javascript \u0022block\u0022 with \u003Call_urls\u003E overrides site-specific allow permissions",
+      "Tags": [
+        "javascript",
+        "google-chrome-extension"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791375/chrome-extension-api-contentsettings-javascript-block-with-all-urls-override"
+    },
+    {
+      "Created": "2025-10-15T15:58:21Z",
+      "Title": "How to update by the other GROUPed table values effectively?",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "query-optimization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791379/how-to-update-by-the-other-grouped-table-values-effectively"
+    },
+    {
+      "Created": "2025-10-15T16:02:40Z",
+      "Title": "SQL ALCHEMY Abstract Class",
+      "Tags": [
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791382/sql-alchemy-abstract-class"
+    }
+  ]
+}

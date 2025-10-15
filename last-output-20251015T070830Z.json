@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-15T07:06:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T07:01:30Z",
+      "Title": "Puppeteer-core with @sparticuz/chromium fails on Vercel (libnss3.so missing)",
+      "Tags": [
+        "pdf",
+        "next.js",
+        "puppeteer",
+        "chromium",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790873/puppeteer-core-with-sparticuz-chromium-fails-on-vercel-libnss3-so-missing"
+    },
+    {
+      "Created": "2025-10-15T07:06:41Z",
+      "Title": "Spark: VSAM File read issue with special character",
+      "Tags": [
+        "pyspark",
+        "apache-spark-sql",
+        "azure-databricks",
+        "databricks-sql",
+        "vsam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790875/spark-vsam-file-read-issue-with-special-character"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-15T00:23:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-14T23:32:20Z",
+      "Title": "Creating My Own CKEditor Templates or Bootstrap Widgets",
+      "Tags": [
+        "twitter-bootstrap-3",
+        "widget",
+        "ckeditor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790686/creating-my-own-ckeditor-templates-or-bootstrap-widgets"
+    },
+    {
+      "Created": "2025-10-14T23:37:44Z",
+      "Title": "Did I leak any memory when I jump to a location with longjmp",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790688/did-i-leak-any-memory-when-i-jump-to-a-location-with-longjmp"
+    },
+    {
+      "Created": "2025-10-14T23:44:19Z",
+      "Title": "NetBeans 27: Web project cannot detect Tomcat 10.1",
+      "Tags": [
+        "tomcat",
+        "netbeans",
+        "ant"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790689/netbeans-27-web-project-cannot-detect-tomcat-10-1"
+    },
+    {
+      "Created": "2025-10-15T00:05:23Z",
+      "Title": "How do I correct my code for a portfolio I am building on github?",
+      "Tags": [
+        "html",
+        "github",
+        "portfolio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790695/how-do-i-correct-my-code-for-a-portfolio-i-am-building-on-github"
+    },
+    {
+      "Created": "2025-10-15T00:23:45Z",
+      "Title": "Connect laravel to highlight.io",
+      "Tags": [
+        "php",
+        "laravel",
+        "monitoring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790698/connect-laravel-to-highlight-io"
+    }
+  ]
+}

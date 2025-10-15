@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-15T16:58:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T16:56:41Z",
+      "Title": "fop/xslt - How to add page number to generated and included pdf",
+      "Tags": [
+        "xslt",
+        "apache-fop",
+        "page-numbering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791430/fop-xslt-how-to-add-page-number-to-generated-and-included-pdf"
+    },
+    {
+      "Created": "2025-10-15T16:58:48Z",
+      "Title": "How to prevent near-duplicate incident reports (deduplication) (Python / Fast API)",
+      "Tags": [
+        "python",
+        "database",
+        "fastapi",
+        "langchain",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791432/how-to-prevent-near-duplicate-incident-reports-deduplication-python-fast-ap"
+    }
+  ]
+}

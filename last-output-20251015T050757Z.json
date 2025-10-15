@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-15T05:02:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T04:32:56Z",
+      "Title": "Are Flink\u0027s timer service \u0026 Collector thread-safe?",
+      "Tags": [
+        "apache-flink",
+        "flink-streaming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790804/are-flinks-timer-service-collector-thread-safe"
+    },
+    {
+      "Created": "2025-10-15T04:50:18Z",
+      "Title": "Certificate policy verification failed in mbedtls version \u003E3.0.0 for certificate policy other than AnyPolicy",
+      "Tags": [
+        "embedded",
+        "ssl-certificate",
+        "x509certificate",
+        "mbedtls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790807/certificate-policy-verification-failed-in-mbedtls-version-3-0-0-for-certificate"
+    },
+    {
+      "Created": "2025-10-15T05:02:19Z",
+      "Title": "I would like to get some insights of why is my code fails, because Ive tried so many things and i just cant get it to work somehow",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790813/i-would-like-to-get-some-insights-of-why-is-my-code-fails-because-ive-tried-so"
+    }
+  ]
+}

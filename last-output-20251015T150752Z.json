@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-15T15:03:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T14:22:54Z",
+      "Title": "How to control the zorder values on superimposed bars in a histogram plot in matplotlib",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "matplotlib",
+        "histogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791271/how-to-control-the-zorder-values-on-superimposed-bars-in-a-histogram-plot-in-mat"
+    },
+    {
+      "Created": "2025-10-15T14:40:39Z",
+      "Title": "Page break for the SnappyPdf",
+      "Tags": [
+        "laravel",
+        "pdf-generation",
+        "wkhtmltopdf",
+        "laravel-snappy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791291/page-break-for-the-snappypdf"
+    },
+    {
+      "Created": "2025-10-15T14:45:14Z",
+      "Title": "Extracting SIP packets with a certain phone number from a PCAP file, and creating a new PCAP file",
+      "Tags": [
+        "filter",
+        "sip",
+        "voip",
+        "tshark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791295/extracting-sip-packets-with-a-certain-phone-number-from-a-pcap-file-and-creatin"
+    },
+    {
+      "Created": "2025-10-15T14:51:25Z",
+      "Title": "XMotif segfault in \u0060ManagerEnter\u0060 when \u0060XmIconButton\u0060 in \u0060XmContainer\u0060 is dragged",
+      "Tags": [
+        "c",
+        "x11",
+        "motif"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791306/xmotif-segfault-in-managerenter-when-xmiconbutton-in-xmcontainer-is-dragge"
+    },
+    {
+      "Created": "2025-10-15T14:57:07Z",
+      "Title": "PrimeNG p-table lazy=true: why client-side filtering and sorting don\u2019t work?",
+      "Tags": [
+        "angular",
+        "primeng",
+        "primeng-table"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791310/primeng-p-table-lazy-true-why-client-side-filtering-and-sorting-don-t-work"
+    },
+    {
+      "Created": "2025-10-15T15:00:08Z",
+      "Title": "Inheritance of decorated classes",
+      "Tags": [
+        "python",
+        "inheritance",
+        "decorator",
+        "python-decorators"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791314/inheritance-of-decorated-classes"
+    },
+    {
+      "Created": "2025-10-15T15:03:22Z",
+      "Title": "External cross-validation",
+      "Tags": [
+        "cross-validation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791317/external-cross-validation"
+    }
+  ]
+}

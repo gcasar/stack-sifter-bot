@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-15T10:01:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T09:42:42Z",
+      "Title": "Forcing jOOQ codegen to run despite matching schema version",
+      "Tags": [
+        "jooq",
+        "jooq-codegen-maven"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791010/forcing-jooq-codegen-to-run-despite-matching-schema-version"
+    },
+    {
+      "Created": "2025-10-15T10:00:15Z",
+      "Title": "bg video not autoplaying",
+      "Tags": [
+        "javascript",
+        "html",
+        "video"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791025/bg-video-not-autoplaying"
+    },
+    {
+      "Created": "2025-10-15T10:01:36Z",
+      "Title": "How to pipe multiples read values to a bash script with a delay between them?",
+      "Tags": [
+        "bash",
+        "shell",
+        "pipeline",
+        "sleep",
+        "cat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791027/how-to-pipe-multiples-read-values-to-a-bash-script-with-a-delay-between-them"
+    }
+  ]
+}

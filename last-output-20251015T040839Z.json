@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-15T03:51:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T03:23:28Z",
+      "Title": "Debugging EAS: find_energy_efficient_cpu never called on Arm heterogeneous platform",
+      "Tags": [
+        "performance",
+        "eas",
+        "energy",
+        "cfs",
+        "sched"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790778/debugging-eas-find-energy-efficient-cpu-never-called-on-arm-heterogeneous-platf"
+    },
+    {
+      "Created": "2025-10-15T03:27:35Z",
+      "Title": "How to reshape vector by duplicating each element twice?",
+      "Tags": [
+        "vector",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790780/how-to-reshape-vector-by-duplicating-each-element-twice"
+    },
+    {
+      "Created": "2025-10-15T03:43:09Z",
+      "Title": "How to Make Batching Rule for Multiple Outputs",
+      "Tags": [
+        "python",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790782/how-to-make-batching-rule-for-multiple-outputs"
+    },
+    {
+      "Created": "2025-10-15T03:45:24Z",
+      "Title": "Even after clicking on the terminal screen, it doesn\u0027t print \u0022Left pressed\u0022, how do i fix this?",
+      "Tags": [
+        "c",
+        "windows",
+        "multithreading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790783/even-after-clicking-on-the-terminal-screen-it-doesnt-print-left-pressed-how"
+    },
+    {
+      "Created": "2025-10-15T03:47:30Z",
+      "Title": "How to make Intellij IDEA recognize test classes when using Gradle JvmTestSuite?",
+      "Tags": [
+        "intellij-idea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790784/how-to-make-intellij-idea-recognize-test-classes-when-using-gradle-jvmtestsuite"
+    },
+    {
+      "Created": "2025-10-15T03:51:53Z",
+      "Title": "wfp FWPM_LAYER_DATAGRAM_DATA_V4 modify loopback inbound udp packet address failed",
+      "Tags": [
+        "windows",
+        "proxy",
+        "ndis",
+        "wfp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79790785/wfp-fwpm-layer-datagram-data-v4-modify-loopback-inbound-udp-packet-address-faile"
+    }
+  ]
+}

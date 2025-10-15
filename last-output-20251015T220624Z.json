@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-15T21:57:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T21:42:56Z",
+      "Title": "Constantly getting a connection reset error when connecting to ClickHouse from Spark",
+      "Tags": [
+        "apache-spark",
+        "clickhouse",
+        "clickhouse-client"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791629/constantly-getting-a-connection-reset-error-when-connecting-to-clickhouse-from-s"
+    },
+    {
+      "Created": "2025-10-15T21:48:04Z",
+      "Title": "Adding style to a \u003Cbutton\u003E makes it inaccessible from the keyboard",
+      "Tags": [
+        "html",
+        "css",
+        "angular",
+        "keyboard",
+        "primeng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791636/adding-style-to-a-button-makes-it-inaccessible-from-the-keyboard"
+    },
+    {
+      "Created": "2025-10-15T21:48:17Z",
+      "Title": "Why is my code outputting \u0022none\u0022 every other line? [duplicate]",
+      "Tags": [
+        "python",
+        "function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791637/why-is-my-code-outputting-none-every-other-line"
+    },
+    {
+      "Created": "2025-10-15T21:53:30Z",
+      "Title": "Dapper returning Nulls for KeyValuePair",
+      "Tags": [
+        "dapper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791638/dapper-returning-nulls-for-keyvaluepair"
+    },
+    {
+      "Created": "2025-10-15T21:53:36Z",
+      "Title": "Android downsize and compress GIF/WEBP and save as WEBP",
+      "Tags": [
+        "android",
+        "compression",
+        "gif",
+        "animated-gif",
+        "webp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791639/android-downsize-and-compress-gif-webp-and-save-as-webp"
+    },
+    {
+      "Created": "2025-10-15T21:56:34Z",
+      "Title": "Can C\u002B\u002B ADODB Connections to a SQL Server AG Specify Application Intent Read Only?",
+      "Tags": [
+        "c\u002B\u002B",
+        "sql-server",
+        "ado",
+        "availability-group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791641/can-c-adodb-connections-to-a-sql-server-ag-specify-application-intent-read-onl"
+    },
+    {
+      "Created": "2025-10-15T21:57:33Z",
+      "Title": "How to update existing realm for \u0022Browser - Conditional 2FA\u0022 Flow in Keycloak 26.4.0",
+      "Tags": [
+        "keycloak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791642/how-to-update-existing-realm-for-browser-conditional-2fa-flow-in-keycloak-26"
+    }
+  ]
+}

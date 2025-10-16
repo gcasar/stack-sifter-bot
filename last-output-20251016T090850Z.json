@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-16T09:01:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T08:13:31Z",
+      "Title": "Issues running obtaining Firth corrected estimates after multiple imputation (CLIP.confint in logist after mice )",
+      "Tags": [
+        "r",
+        "rstudio",
+        "r-mice",
+        "logistf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791924/issues-running-obtaining-firth-corrected-estimates-after-multiple-imputation-cl"
+    },
+    {
+      "Created": "2025-10-16T08:50:32Z",
+      "Title": "AppLovin SDK ANR [closed]",
+      "Tags": [
+        "applovin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791952/applovin-sdk-anr"
+    },
+    {
+      "Created": "2025-10-16T08:57:04Z",
+      "Title": "\u0022Key associated with \u0022\u0022 is not a private key\u0022 when using jarsigner and a SafeNet token",
+      "Tags": [
+        "java",
+        "token",
+        "keystore",
+        "jarsigner",
+        "safenet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791954/key-associated-with-is-not-a-private-key-when-using-jarsigner-and-a-safenet"
+    },
+    {
+      "Created": "2025-10-16T08:57:30Z",
+      "Title": "How to Update status of the recipient of Docusign Envelop via REST API",
+      "Tags": [
+        "rest",
+        "postman",
+        "docusignapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791955/how-to-update-status-of-the-recipient-of-docusign-envelop-via-rest-api"
+    },
+    {
+      "Created": "2025-10-16T08:58:33Z",
+      "Title": "Web element going stale between FluentWait and performing action",
+      "Tags": [
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791957/web-element-going-stale-between-fluentwait-and-performing-action"
+    },
+    {
+      "Created": "2025-10-16T09:01:45Z",
+      "Title": "How can I set \u0022KeepLastItemInView\u0022 like, in WPF ListView or other?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml",
+        "mvvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791960/how-can-i-set-keeplastiteminview-like-in-wpf-listview-or-other"
+    }
+  ]
+}

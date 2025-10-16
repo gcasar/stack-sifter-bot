@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-16T17:59:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T17:28:32Z",
+      "Title": "How to more nicely pull all values from hash that aren\u0027t a given key?",
+      "Tags": [
+        "perl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792406/how-to-more-nicely-pull-all-values-from-hash-that-arent-a-given-key"
+    },
+    {
+      "Created": "2025-10-16T17:38:06Z",
+      "Title": "How to create an array of items that I can update?",
+      "Tags": [
+        "reactjs",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792420/how-to-create-an-array-of-items-that-i-can-update"
+    },
+    {
+      "Created": "2025-10-16T17:54:27Z",
+      "Title": "GitHub Actions workflow doesn\u2019t clean Docker database before running tests",
+      "Tags": [
+        "java",
+        "spring",
+        "github",
+        "github-actions",
+        "pipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792431/github-actions-workflow-doesn-t-clean-docker-database-before-running-tests"
+    },
+    {
+      "Created": "2025-10-16T17:57:49Z",
+      "Title": "How do I find Boost date_time in CMake by using vcpkg?",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake",
+        "boost",
+        "vcpkg",
+        "boost-date-time"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792434/how-do-i-find-boost-date-time-in-cmake-by-using-vcpkg"
+    },
+    {
+      "Created": "2025-10-16T17:59:41Z",
+      "Title": "Why is DBeaver Using a Different Host IP [closed]",
+      "Tags": [
+        "database-connection",
+        "dbeaver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792435/why-is-dbeaver-using-a-different-host-ip"
+    }
+  ]
+}

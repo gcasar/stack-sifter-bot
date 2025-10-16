@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-16T21:03:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T20:08:07Z",
+      "Title": "Behat thinks that steps are missing in the FeatureContext",
+      "Tags": [
+        "php",
+        "automated-tests",
+        "bdd",
+        "behat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792532/behat-thinks-that-steps-are-missing-in-the-featurecontext"
+    },
+    {
+      "Created": "2025-10-16T20:44:54Z",
+      "Title": "Reboot Computer from batch file [closed]",
+      "Tags": [
+        "batch-file",
+        "reboot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792562/reboot-computer-from-batch-file"
+    },
+    {
+      "Created": "2025-10-16T20:51:25Z",
+      "Title": "ARKit eye tracking red dot doesn\u2019t match where the user is looking during calibration",
+      "Tags": [
+        "ios",
+        "iphone",
+        "arkit",
+        "eye-tracking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792566/arkit-eye-tracking-red-dot-doesn-t-match-where-the-user-is-looking-during-calibr"
+    },
+    {
+      "Created": "2025-10-16T20:57:47Z",
+      "Title": "Installing torchcodec on kaggle",
+      "Tags": [
+        "pytorch",
+        "kaggle",
+        "torchvision",
+        "torchaudio",
+        "torchcodec"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792571/installing-torchcodec-on-kaggle"
+    },
+    {
+      "Created": "2025-10-16T21:03:45Z",
+      "Title": "MS Access to Excel with CopyFromRecordset",
+      "Tags": [
+        "excel",
+        "vba",
+        "ms-access"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792574/ms-access-to-excel-with-copyfromrecordset"
+    }
+  ]
+}

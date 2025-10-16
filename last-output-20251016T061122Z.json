@@ -1,0 +1,130 @@
+{
+  "TotalProcessed": 12,
+  "LastCreated": "2025-10-16T06:07:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T05:22:01Z",
+      "Title": "App still rejected under Photo/Video policy despite removing permissions and using valid legacy one [closed]",
+      "Tags": [
+        "flutter",
+        "android-studio",
+        "google-play",
+        "android-permissions",
+        "google-play-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791795/app-still-rejected-under-photo-video-policy-despite-removing-permissions-and-usi"
+    },
+    {
+      "Created": "2025-10-16T05:41:00Z",
+      "Title": "How do I disable autocommit and make a batch of put operations atomic in GridDB Python client?",
+      "Tags": [
+        "python",
+        "transactions",
+        "time-series",
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791803/how-do-i-disable-autocommit-and-make-a-batch-of-put-operations-atomic-in-griddb"
+    },
+    {
+      "Created": "2025-10-16T05:42:36Z",
+      "Title": "Is there a simple ML regression option to estimate frequency features(like central frequency, bandwidth) from a noisy time series short signal?",
+      "Tags": [
+        "machine-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791805/is-there-a-simple-ml-regression-option-to-estimate-frequency-featureslike-centr"
+    },
+    {
+      "Created": "2025-10-16T05:47:02Z",
+      "Title": "onnxruntime-node native binding not found when packaging with pkg \u2014 need official way to load from custom path",
+      "Tags": [
+        "node.js",
+        "webpack",
+        "onnxruntime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791807/onnxruntime-node-native-binding-not-found-when-packaging-with-pkg-need-officia"
+    },
+    {
+      "Created": "2025-10-16T05:47:35Z",
+      "Title": "How to display custom text or disclaimer inside a SharePoint document library for external users",
+      "Tags": [
+        "sharepoint",
+        "sharepoint-online",
+        "power-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791808/how-to-display-custom-text-or-disclaimer-inside-a-sharepoint-document-library-fo"
+    },
+    {
+      "Created": "2025-10-16T05:49:34Z",
+      "Title": "How can I update my server file so that I can have the server up and running?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "node-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791811/how-can-i-update-my-server-file-so-that-i-can-have-the-server-up-and-running"
+    },
+    {
+      "Created": "2025-10-16T05:52:15Z",
+      "Title": "Simultaneous autosuggestion [closed]",
+      "Tags": [
+        "javascript",
+        "php",
+        "html",
+        "mysql",
+        "mysqli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791814/simultaneous-autosuggestion"
+    },
+    {
+      "Created": "2025-10-16T05:52:59Z",
+      "Title": "next.js - error build - [TypeError: Cannot read properties of null (reading \u0027useContext\u0027)]",
+      "Tags": [
+        "bash",
+        "next.js",
+        "build",
+        "http-status-code-404"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791816/next-js-error-build-typeerror-cannot-read-properties-of-null-reading-use"
+    },
+    {
+      "Created": "2025-10-16T05:57:45Z",
+      "Title": "path diagram for psem with gam models and mixed models",
+      "Tags": [
+        "coefficients",
+        "orthogonal",
+        "sem"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791820/path-diagram-for-psem-with-gam-models-and-mixed-models"
+    },
+    {
+      "Created": "2025-10-16T06:05:54Z",
+      "Title": "How to prevent near-duplicate incident reports in python (deduplication)",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "database",
+        "langchain",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791824/how-to-prevent-near-duplicate-incident-reports-in-python-deduplication"
+    },
+    {
+      "Created": "2025-10-16T06:06:55Z",
+      "Title": "What is EOS for pyasn1 0.4.8, pysnmp 4.4.12, paramiko 2.12.0, pexpect 4.8.0?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791825/what-is-eos-for-pyasn1-0-4-8-pysnmp-4-4-12-paramiko-2-12-0-pexpect-4-8-0"
+    },
+    {
+      "Created": "2025-10-16T06:07:15Z",
+      "Title": "Gemini TTS Multispeaker - Longform",
+      "Tags": [
+        "text-to-speech",
+        "google-text-to-speech"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791827/gemini-tts-multispeaker-longform"
+    }
+  ]
+}

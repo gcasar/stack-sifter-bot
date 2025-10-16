@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-16T08:02:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T07:27:22Z",
+      "Title": "Estimation for Pi is precise but inaccurate",
+      "Tags": [
+        "c",
+        "math",
+        "pi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791886/estimation-for-pi-is-precise-but-inaccurate"
+    },
+    {
+      "Created": "2025-10-16T07:34:19Z",
+      "Title": "Is data race between processes UBI?",
+      "Tags": [
+        "rust",
+        "undefined-behavior"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791893/is-data-race-between-processes-ubi"
+    },
+    {
+      "Created": "2025-10-16T07:53:18Z",
+      "Title": "Spring Integration Release Strategy Fails After Caught Exception",
+      "Tags": [
+        "spring-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791908/spring-integration-release-strategy-fails-after-caught-exception"
+    },
+    {
+      "Created": "2025-10-16T07:53:44Z",
+      "Title": "How do I unset this mess in git?",
+      "Tags": [
+        "git",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791909/how-do-i-unset-this-mess-in-git"
+    },
+    {
+      "Created": "2025-10-16T08:02:03Z",
+      "Title": "Skip dev-only .env file in prod",
+      "Tags": [
+        ".net-core",
+        "gitlab-ci-runner",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791911/skip-dev-only-env-file-in-prod"
+    }
+  ]
+}

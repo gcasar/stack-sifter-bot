@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-16T18:57:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T18:46:01Z",
+      "Title": "How to programatically update lexical input on whatsapp",
+      "Tags": [
+        "javascript",
+        "lexicaljs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792474/how-to-programatically-update-lexical-input-on-whatsapp"
+    },
+    {
+      "Created": "2025-10-16T18:48:00Z",
+      "Title": "Anonymous class redeclaring attributes [duplicate]",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792477/anonymous-class-redeclaring-attributes"
+    },
+    {
+      "Created": "2025-10-16T18:52:28Z",
+      "Title": "What is the csproj property \u0022GenerateAppxPackageOnBuild\u0022 for? Do I need it in my NuGet class library package?",
+      "Tags": [
+        "c#",
+        ".net",
+        "csproj"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792479/what-is-the-csproj-property-generateappxpackageonbuild-for-do-i-need-it-in-my"
+    },
+    {
+      "Created": "2025-10-16T18:57:43Z",
+      "Title": "how to handle a range check error in Delphi 13 Android TNetHTTPClient.Get",
+      "Tags": [
+        "delphi",
+        "delphi-13-florence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792484/how-to-handle-a-range-check-error-in-delphi-13-android-tnethttpclient-get"
+    }
+  ]
+}

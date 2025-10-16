@@ -1,0 +1,74 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-16T15:06:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T14:29:26Z",
+      "Title": "Error due to single-level dataframe merge with multi-level indexed dataframe",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792272/error-due-to-single-level-dataframe-merge-with-multi-level-indexed-dataframe"
+    },
+    {
+      "Created": "2025-10-16T14:51:33Z",
+      "Title": "What does underscore / _ mean in a switch?",
+      "Tags": [
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792283/what-does-underscore-mean-in-a-switch"
+    },
+    {
+      "Created": "2025-10-16T14:53:34Z",
+      "Title": "Accessing onVariants at runtime via /buildSrc custom plugin",
+      "Tags": [
+        "android",
+        "gradle",
+        "android-gradle-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792284/accessing-onvariants-at-runtime-via-buildsrc-custom-plugin"
+    },
+    {
+      "Created": "2025-10-16T15:02:13Z",
+      "Title": "Chrome 141 \u002B Xvfb \u002B Selenium: black screenshots after upgrade (worked on Chrome 132)",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "selenium-webdriver",
+        "selenium-chromedriver",
+        "xvfb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792294/chrome-141-xvfb-selenium-black-screenshots-after-upgrade-worked-on-chrome"
+    },
+    {
+      "Created": "2025-10-16T15:02:28Z",
+      "Title": "How to detect a B/W icon inside a colored dashboard photo when scale/rotation/color differ (OpenCV, Python)",
+      "Tags": [
+        "python",
+        "image",
+        "opencv",
+        "compare"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792295/how-to-detect-a-b-w-icon-inside-a-colored-dashboard-photo-when-scale-rotation-co"
+    },
+    {
+      "Created": "2025-10-16T15:06:05Z",
+      "Title": "Meta Marketing API Uploading Multiple Creatives in One Adset With Varied Text and Headlines",
+      "Tags": [
+        "facebook",
+        "facebook-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792303/meta-marketing-api-uploading-multiple-creatives-in-one-adset-with-varied-text-an"
+    },
+    {
+      "Created": "2025-10-16T15:06:57Z",
+      "Title": "Windows server connection issue with specific credentials",
+      "Tags": [
+        "windows",
+        "share"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792304/windows-server-connection-issue-with-specific-credentials"
+    }
+  ]
+}

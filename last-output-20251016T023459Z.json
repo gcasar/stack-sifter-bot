@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-16T02:05:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T01:38:54Z",
+      "Title": "Grouping in geom_segment ggplot2",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791716/grouping-in-geom-segment-ggplot2"
+    },
+    {
+      "Created": "2025-10-16T01:40:47Z",
+      "Title": "I am testing for an existence using if self.rowdict but I get an error. What test should I use for it?",
+      "Tags": [
+        "attributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791717/i-am-testing-for-an-existence-using-if-self-rowdict-but-i-get-an-error-what-tes"
+    },
+    {
+      "Created": "2025-10-16T02:00:53Z",
+      "Title": "HTML MP4 Play On Hover / Pause On Mouse Exit: Only Works On First Video",
+      "Tags": [
+        "html5-video",
+        "mouseenter",
+        "mouseleave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791725/html-mp4-play-on-hover-pause-on-mouse-exit-only-works-on-first-video"
+    },
+    {
+      "Created": "2025-10-16T02:05:00Z",
+      "Title": "Python ModernGL - is it possible to use a shader for VertexArray.transform() and VertexArray.render() ad the same time?",
+      "Tags": [
+        "pyopengl",
+        "python-moderngl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791730/python-moderngl-is-it-possible-to-use-a-shader-for-vertexarray-transform-and"
+    }
+  ]
+}

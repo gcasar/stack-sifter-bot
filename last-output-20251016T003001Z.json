@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-16T00:18:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-15T23:13:50Z",
+      "Title": "How to use the type of a referenced column as a VARIADIC argument type in a (Postgres) SQL function or procedure definition?",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "function",
+        "procedure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791669/how-to-use-the-type-of-a-referenced-column-as-a-variadic-argument-type-in-a-pos"
+    },
+    {
+      "Created": "2025-10-15T23:46:59Z",
+      "Title": "Sending an email using html and php for website",
+      "Tags": [
+        "php",
+        "html",
+        "css",
+        "html-email"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791683/sending-an-email-using-html-and-php-for-website"
+    },
+    {
+      "Created": "2025-10-16T00:18:42Z",
+      "Title": "Can I exit a catch block without executing the finally block in Java?",
+      "Tags": [
+        "java",
+        "try-catch-finally"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791688/can-i-exit-a-catch-block-without-executing-the-finally-block-in-java"
+    }
+  ]
+}

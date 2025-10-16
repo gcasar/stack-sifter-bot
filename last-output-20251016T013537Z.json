@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-16T01:32:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T00:44:03Z",
+      "Title": "Circular Reference with countIF",
+      "Tags": [
+        "excel-formula",
+        "circular-reference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791697/circular-reference-with-countif"
+    },
+    {
+      "Created": "2025-10-16T00:56:52Z",
+      "Title": "Dapper and MSAccess",
+      "Tags": [
+        "dapper",
+        "ms-access-2013"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791701/dapper-and-msaccess"
+    },
+    {
+      "Created": "2025-10-16T01:08:37Z",
+      "Title": "Simple reddit post retrieval with .json extension trick. Works flawlessly on localhost, but not online",
+      "Tags": [
+        "reddit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791706/simple-reddit-post-retrieval-with-json-extension-trick-works-flawlessly-on-loc"
+    },
+    {
+      "Created": "2025-10-16T01:10:09Z",
+      "Title": "PythonAnywhere SSH working in CMD but not in Notebook",
+      "Tags": [
+        "ssh",
+        "pythonanywhere"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791707/pythonanywhere-ssh-working-in-cmd-but-not-in-notebook"
+    },
+    {
+      "Created": "2025-10-16T01:10:22Z",
+      "Title": "Trying to calculate the proportion of confidence intervals that contain mu",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791708/trying-to-calculate-the-proportion-of-confidence-intervals-that-contain-mu"
+    },
+    {
+      "Created": "2025-10-16T01:11:53Z",
+      "Title": "Logstash ILM Policy Causes 400 Error: Object Mapping for Field Tried to Parse as Object",
+      "Tags": [
+        "elasticsearch",
+        "logstash",
+        "kibana",
+        "ilm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791710/logstash-ilm-policy-causes-400-error-object-mapping-for-field-tried-to-parse-as"
+    },
+    {
+      "Created": "2025-10-16T01:32:05Z",
+      "Title": "How to join a pivoted table with other tables",
+      "Tags": [
+        "python",
+        "join",
+        "merge",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791715/how-to-join-a-pivoted-table-with-other-tables"
+    }
+  ]
+}

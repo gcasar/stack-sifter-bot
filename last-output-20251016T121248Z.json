@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-16T11:48:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T11:25:24Z",
+      "Title": "Unable to run TestNG classes with groups filter",
+      "Tags": [
+        "kotlin",
+        "gradle",
+        "build.gradle",
+        "testng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792081/unable-to-run-testng-classes-with-groups-filter"
+    },
+    {
+      "Created": "2025-10-16T11:37:05Z",
+      "Title": "git sparse-checkout reapply leaves Xcode with many unstaged deleted files",
+      "Tags": [
+        "xcode",
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792096/git-sparse-checkout-reapply-leaves-xcode-with-many-unstaged-deleted-files"
+    },
+    {
+      "Created": "2025-10-16T11:46:52Z",
+      "Title": "Is injecting JS via an extension still possible when the page has updated the content security policy to require trusted types",
+      "Tags": [
+        "javascript",
+        "google-chrome-extension",
+        "youtube",
+        "firefox-addon",
+        "content-security-policy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792101/is-injecting-js-via-an-extension-still-possible-when-the-page-has-updated-the-co"
+    },
+    {
+      "Created": "2025-10-16T11:48:25Z",
+      "Title": "Convert OpenAI GTP-4.0 to GPT-5.0 model [closed]",
+      "Tags": [
+        "typescript",
+        "openai-api",
+        "chatgpt-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792102/convert-openai-gtp-4-0-to-gpt-5-0-model"
+    }
+  ]
+}

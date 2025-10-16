@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-16T13:03:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T12:12:53Z",
+      "Title": "How do i access currency from the restcountries API",
+      "Tags": [
+        "javascript",
+        "rest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792124/how-do-i-access-currency-from-the-restcountries-api"
+    },
+    {
+      "Created": "2025-10-16T12:50:28Z",
+      "Title": "NG8004: No pipe found with name \u0027PipeName\u0027. [plugin angular-compiler]",
+      "Tags": [
+        "angular",
+        "compiler-errors",
+        "pipe",
+        "ng-modules",
+        "angular19"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792166/ng8004-no-pipe-found-with-name-pipename-plugin-angular-compiler"
+    },
+    {
+      "Created": "2025-10-16T13:00:02Z",
+      "Title": "List isn\u0027t expanding",
+      "Tags": [
+        "python",
+        "list"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792173/list-isnt-expanding"
+    },
+    {
+      "Created": "2025-10-16T13:03:46Z",
+      "Title": "Open Dental 24.2 lag \u2014 could MariaDB 10.5 or outdated software be the cause?",
+      "Tags": [
+        "mariadb-10.5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792176/open-dental-24-2-lag-could-mariadb-10-5-or-outdated-software-be-the-cause"
+    }
+  ]
+}

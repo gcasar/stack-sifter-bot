@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-16T11:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T10:18:17Z",
+      "Title": "Automating Removal of Unnecessary Windows 11 Apps for New Users",
+      "Tags": [
+        "powershell",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792024/automating-removal-of-unnecessary-windows-11-apps-for-new-users"
+    },
+    {
+      "Created": "2025-10-16T10:23:39Z",
+      "Title": "Combine columns of a list of dataframes with a custom function",
+      "Tags": [
+        "r",
+        "tidyverse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792030/combine-columns-of-a-list-of-dataframes-with-a-custom-function"
+    },
+    {
+      "Created": "2025-10-16T10:48:07Z",
+      "Title": "How to filter mapgl in Shiny using categories as input",
+      "Tags": [
+        "r",
+        "shiny",
+        "mapbox-gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792050/how-to-filter-mapgl-in-shiny-using-categories-as-input"
+    },
+    {
+      "Created": "2025-10-16T10:50:38Z",
+      "Title": "How to force allocated D3D12 resource to reside in VRAM and not be demoted to shared RAM?",
+      "Tags": [
+        "windows",
+        "gpu",
+        "directx",
+        "directx-12",
+        "vram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792052/how-to-force-allocated-d3d12-resource-to-reside-in-vram-and-not-be-demoted-to-sh"
+    },
+    {
+      "Created": "2025-10-16T10:54:34Z",
+      "Title": "How to get face/head direction/rotation from BVH files - Axis Studio?",
+      "Tags": [
+        "animation",
+        "three.js",
+        "rotation",
+        "threejs-editor",
+        "mo-cap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792059/how-to-get-face-head-direction-rotation-from-bvh-files-axis-studio"
+    },
+    {
+      "Created": "2025-10-16T10:57:27Z",
+      "Title": "Express\u0027 res.clearCookie() does not clear the cookie?",
+      "Tags": [
+        "node.js",
+        "express",
+        "authentication",
+        "cookies",
+        "session-cookies"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792061/express-res-clearcookie-does-not-clear-the-cookie"
+    },
+    {
+      "Created": "2025-10-16T11:00:12Z",
+      "Title": "AWS SDK Apache Client seems not to recognize region",
+      "Tags": [
+        "java",
+        "amazon-web-services",
+        "amazon-s3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792065/aws-sdk-apache-client-seems-not-to-recognize-region"
+    },
+    {
+      "Created": "2025-10-16T11:04:02Z",
+      "Title": "SpinBox TextFromValue callback not invoked",
+      "Tags": [
+        "qt",
+        "qml",
+        "qt5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792067/spinbox-textfromvalue-callback-not-invoked"
+    },
+    {
+      "Created": "2025-10-16T11:04:07Z",
+      "Title": "secp256k1 - generate a bip32 wallet",
+      "Tags": [
+        "python",
+        "secp256k1",
+        "bip32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792068/secp256k1-generate-a-bip32-wallet"
+    }
+  ]
+}

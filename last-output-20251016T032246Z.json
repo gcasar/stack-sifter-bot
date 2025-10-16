@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-16T03:15:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T02:49:20Z",
+      "Title": "Deckgl: onHover not getting called for BitmapLayer",
+      "Tags": [
+        "deck.gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791736/deckgl-onhover-not-getting-called-for-bitmaplayer"
+    },
+    {
+      "Created": "2025-10-16T03:15:35Z",
+      "Title": "Github actions using matrix to run multiple commands in the same job in a loop",
+      "Tags": [
+        "c\u002B\u002B",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791744/github-actions-using-matrix-to-run-multiple-commands-in-the-same-job-in-a-loop"
+    }
+  ]
+}

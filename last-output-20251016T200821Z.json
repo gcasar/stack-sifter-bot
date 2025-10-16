@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-16T19:55:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T19:25:17Z",
+      "Title": "Is there a widely used \u0022tag\u0022 base class for C\u002B\u002B static classes?",
+      "Tags": [
+        "c\u002B\u002B",
+        "abstract-class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792501/is-there-a-widely-used-tag-base-class-for-c-static-classes"
+    },
+    {
+      "Created": "2025-10-16T19:36:01Z",
+      "Title": "What causes this garbling: .... been_attached_to?= =?ISO-8859-1?Q?_this_so_you_can_view_it_or_label=0A_similar_future_e?= =?ISO-8859-1?Q [closed]",
+      "Tags": [
+        "php-8",
+        "dovecot",
+        "spamassassin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792512/what-causes-this-garbling-been-attached-to-iso-8859-1q-this-so-you-c"
+    },
+    {
+      "Created": "2025-10-16T19:36:21Z",
+      "Title": "Perl XML::LibXML and Storable equals segfault?",
+      "Tags": [
+        "perl",
+        "libxml2",
+        "xml-libxml",
+        "storable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792513/perl-xmllibxml-and-storable-equals-segfault"
+    },
+    {
+      "Created": "2025-10-16T19:38:20Z",
+      "Title": "Reusing polymorphic function in ocaml not working",
+      "Tags": [
+        "ocaml",
+        "value-restriction"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792514/reusing-polymorphic-function-in-ocaml-not-working"
+    },
+    {
+      "Created": "2025-10-16T19:39:32Z",
+      "Title": "Okta Go Api GetApplication using VSCode",
+      "Tags": [
+        "go",
+        "visual-studio-code",
+        "okta"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792515/okta-go-api-getapplication-using-vscode"
+    },
+    {
+      "Created": "2025-10-16T19:55:15Z",
+      "Title": "Making xFrameworkVersionNumber in Objective-C umbrella header \u0060const\u0060 because of concurrency-safe in Swift",
+      "Tags": [
+        "swift",
+        "objective-c",
+        "header-files",
+        "xcframework",
+        "umbrella"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792523/making-xframeworkversionnumber-in-objective-c-umbrella-header-const-because-of"
+    }
+  ]
+}

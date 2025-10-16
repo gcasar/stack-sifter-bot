@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-16T06:59:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T06:16:43Z",
+      "Title": "How do I efficiently share state with a background thread owned by the same struct?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791833/how-do-i-efficiently-share-state-with-a-background-thread-owned-by-the-same-stru"
+    },
+    {
+      "Created": "2025-10-16T06:54:31Z",
+      "Title": "Flutter iOS Picture-in-Picture not showing when app goes to background (works only via button)",
+      "Tags": [
+        "android",
+        "ios",
+        "swift",
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791859/flutter-ios-picture-in-picture-not-showing-when-app-goes-to-background-works-on"
+    },
+    {
+      "Created": "2025-10-16T06:59:05Z",
+      "Title": "Dynamic query scenario",
+      "Tags": [
+        "informatica",
+        "informatica-powercenter",
+        "informatica-cloud",
+        "informatica-data-integration-hub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791865/dynamic-query-scenario"
+    }
+  ]
+}

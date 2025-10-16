@@ -1,0 +1,104 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-16T10:03:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T09:20:42Z",
+      "Title": "Getting fatal during simulation while trying ivoke get in agent",
+      "Tags": [
+        "oop",
+        "verilog",
+        "uvm",
+        "asic",
+        "synopsys-vcs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791969/getting-fatal-during-simulation-while-trying-ivoke-get-in-agent"
+    },
+    {
+      "Created": "2025-10-16T09:35:53Z",
+      "Title": "How to replace webcam feed with an AI avatar? [closed]",
+      "Tags": [
+        "c#",
+        "microsoft-teams",
+        "microsoft-graph-teams",
+        "teams-toolkit",
+        "microsoft-teams-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791984/how-to-replace-webcam-feed-with-an-ai-avatar"
+    },
+    {
+      "Created": "2025-10-16T09:51:06Z",
+      "Title": "Swagger UI is throwing CORS error when rendering API spec file from a server that has CORS enabled",
+      "Tags": [
+        "github",
+        "cors",
+        "swagger-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791996/swagger-ui-is-throwing-cors-error-when-rendering-api-spec-file-from-a-server-tha"
+    },
+    {
+      "Created": "2025-10-16T09:53:21Z",
+      "Title": "DataChanged event not updating Control",
+      "Tags": [
+        "c\u002B\u002B",
+        "qt",
+        "qt5",
+        "qabstractitemmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791997/datachanged-event-not-updating-control"
+    },
+    {
+      "Created": "2025-10-16T09:53:53Z",
+      "Title": "std::unordered_map using key with explicit constructor",
+      "Tags": [
+        "c\u002B\u002B",
+        "containers",
+        "explicit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791999/stdunordered-map-using-key-with-explicit-constructor"
+    },
+    {
+      "Created": "2025-10-16T09:54:13Z",
+      "Title": "SqlDependency not firing after some time",
+      "Tags": [
+        "c#",
+        "sqldependency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792001/sqldependency-not-firing-after-some-time"
+    },
+    {
+      "Created": "2025-10-16T09:57:49Z",
+      "Title": "avcodec_send_frame constantly returns -22",
+      "Tags": [
+        "c\u002B\u002B",
+        "ffmpeg",
+        "aac",
+        "libavcodec"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792002/avcodec-send-frame-constantly-returns-22"
+    },
+    {
+      "Created": "2025-10-16T10:02:35Z",
+      "Title": "Expo 53 - Batch - Mainactivity.kt error on android build",
+      "Tags": [
+        "android",
+        "batch-file",
+        "expo",
+        "16kb-page-size"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792006/expo-53-batch-mainactivity-kt-error-on-android-build"
+    },
+    {
+      "Created": "2025-10-16T10:03:41Z",
+      "Title": "How to configure Nginx for a WordPress root domain while preserving dynamic MERN app routes?",
+      "Tags": [
+        "wordpress",
+        "nginx",
+        "digital-ocean",
+        "mern",
+        "ubuntu-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792007/how-to-configure-nginx-for-a-wordpress-root-domain-while-preserving-dynamic-mern"
+    }
+  ]
+}

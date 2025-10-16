@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-16T22:59:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T22:44:32Z",
+      "Title": "DS-K1T320MFWX \u2013 SDK connects but fails to retrieve access events or users (VB.NET)",
+      "Tags": [
+        "vb.net",
+        "sdk",
+        "biometrics",
+        "hikvision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792620/ds-k1t320mfwx-sdk-connects-but-fails-to-retrieve-access-events-or-users-vb-ne"
+    },
+    {
+      "Created": "2025-10-16T22:59:50Z",
+      "Title": "Divide by zero encountered in matmul on MacOS M4 with numpy v2.3.3",
+      "Tags": [
+        "python",
+        "macos",
+        "numpy",
+        "matrix-multiplication",
+        "apple-silicon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792627/divide-by-zero-encountered-in-matmul-on-macos-m4-with-numpy-v2-3-3"
+    }
+  ]
+}

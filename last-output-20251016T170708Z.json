@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-16T16:48:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T16:25:57Z",
+      "Title": "SQL Server connection authentication in Azure DevOps pipeline for .NET seeding data .sln",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "azure-devops",
+        "azure-pipelines",
+        "connection-string"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792370/sql-server-connection-authentication-in-azure-devops-pipeline-for-net-seeding-d"
+    },
+    {
+      "Created": "2025-10-16T16:47:38Z",
+      "Title": "Cannot override writeObject (Serializable model) method in Anylogic",
+      "Tags": [
+        "java",
+        "serialization",
+        "anylogic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792384/cannot-override-writeobject-serializable-model-method-in-anylogic"
+    },
+    {
+      "Created": "2025-10-16T16:47:49Z",
+      "Title": "Typescript with useReducer",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792385/typescript-with-usereducer"
+    },
+    {
+      "Created": "2025-10-16T16:48:28Z",
+      "Title": "Why can I only subscribe to data that existed before creating the topic in Apache IoTDB, but not new data?",
+      "Tags": [
+        "java",
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792387/why-can-i-only-subscribe-to-data-that-existed-before-creating-the-topic-in-apach"
+    }
+  ]
+}

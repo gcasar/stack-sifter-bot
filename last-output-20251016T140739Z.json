@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-16T14:07:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T13:53:56Z",
+      "Title": "Using an asterix as prefix or suffix for working with pointers",
+      "Tags": [
+        "c\u002B\u002B",
+        "pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792227/using-an-asterix-as-prefix-or-suffix-for-working-with-pointers"
+    },
+    {
+      "Created": "2025-10-16T14:02:20Z",
+      "Title": "retrieve ruler position for \u0060mouseformat\u0060",
+      "Tags": [
+        "gnuplot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792235/retrieve-ruler-position-for-mouseformat"
+    },
+    {
+      "Created": "2025-10-16T14:06:17Z",
+      "Title": "how to optimize multiple event listeners",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792239/how-to-optimize-multiple-event-listeners"
+    },
+    {
+      "Created": "2025-10-16T14:07:11Z",
+      "Title": "How to Preserve Both [Required] and Nullable Properties in Swashbuckle Schema Output?",
+      "Tags": [
+        "c#",
+        "openapi",
+        "swashbuckle",
+        "openapi-generator",
+        "required"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792240/how-to-preserve-both-required-and-nullable-properties-in-swashbuckle-schema-ou"
+    }
+  ]
+}

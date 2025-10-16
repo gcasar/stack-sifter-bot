@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-16T04:05:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T03:23:38Z",
+      "Title": "PyQt6 QWebEngineView 3D Plot Fail To Render With Large Data",
+      "Tags": [
+        "python",
+        "plot",
+        "3d",
+        "pyqt",
+        "webgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791746/pyqt6-qwebengineview-3d-plot-fail-to-render-with-large-data"
+    },
+    {
+      "Created": "2025-10-16T03:35:12Z",
+      "Title": "Prometheus scraping wrong url",
+      "Tags": [
+        "spring-boot",
+        "prometheus",
+        "spring-boot-actuator",
+        "netflix-eureka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791750/prometheus-scraping-wrong-url"
+    },
+    {
+      "Created": "2025-10-16T03:38:04Z",
+      "Title": "Alarm priority detecting in an audio file",
+      "Tags": [
+        "audio",
+        "deep-learning",
+        "fft",
+        "frequency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791751/alarm-priority-detecting-in-an-audio-file"
+    },
+    {
+      "Created": "2025-10-16T03:49:37Z",
+      "Title": "How can I access the APP_URL value from the .env file inside a script.js file in a Laravel project?",
+      "Tags": [
+        "javascript",
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791757/how-can-i-access-the-app-url-value-from-the-env-file-inside-a-script-js-file-in"
+    },
+    {
+      "Created": "2025-10-16T04:03:36Z",
+      "Title": "How do I tell when the screen\u0027s refresh rate changes?",
+      "Tags": [
+        "java",
+        "screen",
+        "frame-rate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791763/how-do-i-tell-when-the-screens-refresh-rate-changes"
+    },
+    {
+      "Created": "2025-10-16T04:05:42Z",
+      "Title": "Handling cleanup for tasks which might be OOMKilled",
+      "Tags": [
+        "python",
+        "kubernetes",
+        "memory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791764/handling-cleanup-for-tasks-which-might-be-oomkilled"
+    }
+  ]
+}

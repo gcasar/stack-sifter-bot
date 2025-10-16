@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-16T05:03:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T04:32:10Z",
+      "Title": "Toast UI Editor: Selection/Cursor jumps to beginning after applying color with custom plugin",
+      "Tags": [
+        "javascript",
+        "plugins",
+        "prose-mirror",
+        "toast-ui-editor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791774/toast-ui-editor-selection-cursor-jumps-to-beginning-after-applying-color-with-c"
+    },
+    {
+      "Created": "2025-10-16T04:32:27Z",
+      "Title": "Raspberry Pi boot order error after power off [closed]",
+      "Tags": [
+        "linux",
+        "raspberry-pi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791775/raspberry-pi-boot-order-error-after-power-off"
+    },
+    {
+      "Created": "2025-10-16T04:46:24Z",
+      "Title": "WebAPI Returns \u0022Container not existed\u0022 Error for Partitioned Containers Despite Container Existence",
+      "Tags": [
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791782/webapi-returns-container-not-existed-error-for-partitioned-containers-despite"
+    },
+    {
+      "Created": "2025-10-16T04:51:40Z",
+      "Title": "FuncAnimation not rendering in Jupyter and VSCode",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "visual-studio-code",
+        "jupyter-notebook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791784/funcanimation-not-rendering-in-jupyter-and-vscode"
+    },
+    {
+      "Created": "2025-10-16T05:02:00Z",
+      "Title": "Redshift - SQL Error: Internal jdbc driver error",
+      "Tags": [
+        "for-loop",
+        "stored-procedures",
+        "amazon-redshift"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791787/redshift-sql-error-internal-jdbc-driver-error"
+    },
+    {
+      "Created": "2025-10-16T05:03:47Z",
+      "Title": "WebAPI v2 Returns \u0022Cluster not found in repository\u0022 Error Despite Active Cluster Running",
+      "Tags": [
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79791788/webapi-v2-returns-cluster-not-found-in-repository-error-despite-active-cluster"
+    }
+  ]
+}

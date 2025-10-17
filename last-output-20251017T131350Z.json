@@ -1,0 +1,93 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-17T13:12:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T12:41:22Z",
+      "Title": "Problem with manim rendering of the arrows",
+      "Tags": [
+        "python",
+        "inheritance",
+        "manim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793061/problem-with-manim-rendering-of-the-arrows"
+    },
+    {
+      "Created": "2025-10-17T12:50:14Z",
+      "Title": "Select data with self reference in where conditions",
+      "Tags": [
+        "sql",
+        "oracle-database",
+        "join",
+        "exists",
+        "ansi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793067/select-data-with-self-reference-in-where-conditions"
+    },
+    {
+      "Created": "2025-10-17T12:59:26Z",
+      "Title": "Disable reply for users when sending my mail by smtp",
+      "Tags": [
+        "symfony",
+        "smtp",
+        "gmail",
+        "mailer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793076/disable-reply-for-users-when-sending-my-mail-by-smtp"
+    },
+    {
+      "Created": "2025-10-17T13:02:33Z",
+      "Title": "Why is my SVG animation not playing after embedded in an HTML-Element in TYPO3?",
+      "Tags": [
+        "animation",
+        "svg",
+        "typo3",
+        "css-animations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793079/why-is-my-svg-animation-not-playing-after-embedded-in-an-html-element-in-typo3"
+    },
+    {
+      "Created": "2025-10-17T13:03:24Z",
+      "Title": "Intel arc gpu support for tensorflow and pytorch etc",
+      "Tags": [
+        "tensorflow",
+        "deep-learning",
+        "gpu",
+        "intel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793080/intel-arc-gpu-support-for-tensorflow-and-pytorch-etc"
+    },
+    {
+      "Created": "2025-10-17T13:04:02Z",
+      "Title": "how to call a generic C# function from Powershell? [duplicate]",
+      "Tags": [
+        "c#",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793081/how-to-call-a-generic-c-sharp-function-from-powershell"
+    },
+    {
+      "Created": "2025-10-17T13:06:51Z",
+      "Title": "Returning general json data in a tauri specta app",
+      "Tags": [
+        "json",
+        "rust",
+        "traits",
+        "tauri"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793083/returning-general-json-data-in-a-tauri-specta-app"
+    },
+    {
+      "Created": "2025-10-17T13:12:24Z",
+      "Title": "ODOO Field service Worksheet, how to solve indentation problem in the pdf",
+      "Tags": [
+        "html",
+        "xml",
+        "odoo",
+        "qweb",
+        "qwebview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793087/odoo-field-service-worksheet-how-to-solve-indentation-problem-in-the-pdf"
+    }
+  ]
+}

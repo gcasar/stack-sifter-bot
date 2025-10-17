@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-17T21:56:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T21:18:30Z",
+      "Title": "Stripe checkout.Session.create : if/else for parameters for Python",
+      "Tags": [
+        "python",
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793436/stripe-checkout-session-create-if-else-for-parameters-for-python"
+    },
+    {
+      "Created": "2025-10-17T21:24:03Z",
+      "Title": "Python algorithm, increasing and decreasing numbers [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793437/python-algorithm-increasing-and-decreasing-numbers"
+    },
+    {
+      "Created": "2025-10-17T21:47:19Z",
+      "Title": "FileNotFoundException despite file being in correct place, using Java in Eclipse",
+      "Tags": [
+        "java",
+        "eclipse",
+        "read-write"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793452/filenotfoundexception-despite-file-being-in-correct-place-using-java-in-eclipse"
+    },
+    {
+      "Created": "2025-10-17T21:51:42Z",
+      "Title": "Is there a Pythonic way to get a value of a variable? [duplicate]",
+      "Tags": [
+        "python",
+        "structural-pattern-matching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793455/is-there-a-pythonic-way-to-get-a-value-of-a-variable"
+    },
+    {
+      "Created": "2025-10-17T21:54:10Z",
+      "Title": "PowerDesigner: Can\u0027t add rider_id as a foreign key in Trip entity (\u201CThis data item is already used\u2026\u201D)",
+      "Tags": [
+        "database-design",
+        "foreign-keys",
+        "data-modeling",
+        "powerdesigner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793457/powerdesigner-cant-add-rider-id-as-a-foreign-key-in-trip-entity-this-data-it"
+    },
+    {
+      "Created": "2025-10-17T21:56:43Z",
+      "Title": "Playwright capture api from searates",
+      "Tags": [
+        "python",
+        "web-scraping",
+        "python-requests",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793459/playwright-capture-api-from-searates"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-17T05:04:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T04:35:46Z",
+      "Title": "Is it correct in DDD (with JPA) to remove or update child entities through the Aggregate Root?",
+      "Tags": [
+        "java",
+        "jpa",
+        "domain-driven-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792737/is-it-correct-in-ddd-with-jpa-to-remove-or-update-child-entities-through-the-a"
+    },
+    {
+      "Created": "2025-10-17T05:02:11Z",
+      "Title": "GSException when inserting rows into a TimeSeries container in GridDB",
+      "Tags": [
+        "griddb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792750/gsexception-when-inserting-rows-into-a-timeseries-container-in-griddb"
+    },
+    {
+      "Created": "2025-10-17T05:04:39Z",
+      "Title": "How to Filter Across Devices and Return Multiple Columns in Apache IoTDB?",
+      "Tags": [
+        "apache-iotdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792753/how-to-filter-across-devices-and-return-multiple-columns-in-apache-iotdb"
+    }
+  ]
+}

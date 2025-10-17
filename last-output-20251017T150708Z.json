@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-17T15:02:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T14:49:45Z",
+      "Title": "WhatsApp Business API: My linked number says \u201Cnot on WhatsApp\u201D when I try to message it [closed]",
+      "Tags": [
+        "chatbot",
+        "whatsapp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793174/whatsapp-business-api-my-linked-number-says-not-on-whatsapp-when-i-try-to-mes"
+    },
+    {
+      "Created": "2025-10-17T14:55:29Z",
+      "Title": "Why does a decoded Date from Firebase have a small milliseconds offset in Swift?",
+      "Tags": [
+        "ios",
+        "swift",
+        "firebase"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793180/why-does-a-decoded-date-from-firebase-have-a-small-milliseconds-offset-in-swift"
+    },
+    {
+      "Created": "2025-10-17T15:02:03Z",
+      "Title": "How to deal with DPI changes when calling SHGetImageList?",
+      "Tags": [
+        "shell",
+        "winapi",
+        "highdpi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793191/how-to-deal-with-dpi-changes-when-calling-shgetimagelist"
+    }
+  ]
+}

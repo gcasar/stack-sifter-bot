@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-17T02:24:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T02:05:21Z",
+      "Title": "Capacitor with plain JS with no build system or UI server",
+      "Tags": [
+        "javascript",
+        "vite",
+        "capacitor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792681/capacitor-with-plain-js-with-no-build-system-or-ui-server"
+    },
+    {
+      "Created": "2025-10-17T02:23:08Z",
+      "Title": "Makefile, how to apply the same recipy to different target with pattern",
+      "Tags": [
+        "makefile",
+        "gnu-make"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792684/makefile-how-to-apply-the-same-recipy-to-different-target-with-pattern"
+    },
+    {
+      "Created": "2025-10-17T02:24:32Z",
+      "Title": "White space at the bottom of email and margin in IPhone Mail app",
+      "Tags": [
+        "iphone",
+        "outlook",
+        "html-email"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792686/white-space-at-the-bottom-of-email-and-margin-in-iphone-mail-app"
+    }
+  ]
+}

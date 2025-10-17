@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-17T22:52:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T22:12:51Z",
+      "Title": "How can I break a loop condition into multiple lines in a shell script?",
+      "Tags": [
+        "loops",
+        "shell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793466/how-can-i-break-a-loop-condition-into-multiple-lines-in-a-shell-script"
+    },
+    {
+      "Created": "2025-10-17T22:18:09Z",
+      "Title": "Tkinter - event sent from background not being detected",
+      "Tags": [
+        "python",
+        "multithreading",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793469/tkinter-event-sent-from-background-not-being-detected"
+    },
+    {
+      "Created": "2025-10-17T22:32:40Z",
+      "Title": "GoRouter doesn\u2019t redirect - after logout stays on protected page",
+      "Tags": [
+        "flutter",
+        "firebase",
+        "android-studio",
+        "firebase-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793474/gorouter-doesn-t-redirect-after-logout-stays-on-protected-page"
+    },
+    {
+      "Created": "2025-10-17T22:52:15Z",
+      "Title": "Any Clang diagnostic flag for preventing casting an invalid int value to an enum in C?",
+      "Tags": [
+        "c",
+        "enums",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793482/any-clang-diagnostic-flag-for-preventing-casting-an-invalid-int-value-to-an-enum"
+    }
+  ]
+}

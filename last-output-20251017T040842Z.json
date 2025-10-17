@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-17T03:59:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T03:49:35Z",
+      "Title": "Why does my message not appear on the page even though the server log shows it was sent successfully in CivetWeb \u002B SQLite?",
+      "Tags": [
+        "javascript",
+        "c\u002B\u002B",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792725/why-does-my-message-not-appear-on-the-page-even-though-the-server-log-shows-it-w"
+    },
+    {
+      "Created": "2025-10-17T03:59:16Z",
+      "Title": "How do i access values in AAzure app config service from my app service?",
+      "Tags": [
+        "azure",
+        "azure-app-configuration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792730/how-do-i-access-values-in-aazure-app-config-service-from-my-app-service"
+    }
+  ]
+}

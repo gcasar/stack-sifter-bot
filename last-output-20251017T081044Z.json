@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-17T08:00:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T07:41:49Z",
+      "Title": "How to drop rows with a boolean mask in xarray/dask without .compute() blowing up memory?",
+      "Tags": [
+        "python",
+        "dask",
+        "python-xarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792858/how-to-drop-rows-with-a-boolean-mask-in-xarray-dask-without-compute-blowing-u"
+    },
+    {
+      "Created": "2025-10-17T07:55:56Z",
+      "Title": "Validating file type by NestJS with UploadedFile decorator",
+      "Tags": [
+        "validation",
+        "file-upload",
+        "nestjs",
+        "file-type"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792873/validating-file-type-by-nestjs-with-uploadedfile-decorator"
+    },
+    {
+      "Created": "2025-10-17T08:00:15Z",
+      "Title": "ORA-29024 consuming Rest API in Oracle [closed]",
+      "Tags": [
+        "oracle-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792876/ora-29024-consuming-rest-api-in-oracle"
+    },
+    {
+      "Created": "2025-10-17T08:00:44Z",
+      "Title": "Write result of ajax query to input field",
+      "Tags": [
+        "javascript",
+        "ajax",
+        "input"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792877/write-result-of-ajax-query-to-input-field"
+    }
+  ]
+}

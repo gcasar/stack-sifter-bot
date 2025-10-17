@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-17T20:06:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T19:09:26Z",
+      "Title": "error importing pipelines library from pyspark module",
+      "Tags": [
+        "python",
+        "pyspark",
+        "databricks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793380/error-importing-pipelines-library-from-pyspark-module"
+    },
+    {
+      "Created": "2025-10-17T19:27:33Z",
+      "Title": "How can I give Internet access to multiple test modems connected to a Cisco 3750 switch? [closed]",
+      "Tags": [
+        "selenium-webdriver",
+        "network-programming",
+        "automation",
+        "cisco"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793387/how-can-i-give-internet-access-to-multiple-test-modems-connected-to-a-cisco-3750"
+    },
+    {
+      "Created": "2025-10-17T19:32:56Z",
+      "Title": "When creating a new YouTrack issue, how do I link it to a parent issue at the same time?",
+      "Tags": [
+        "youtrack",
+        "youtrack-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793390/when-creating-a-new-youtrack-issue-how-do-i-link-it-to-a-parent-issue-at-the-sa"
+    },
+    {
+      "Created": "2025-10-17T19:33:52Z",
+      "Title": "Why does \u0027let\u0027 in for loop do this? [duplicate]",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793391/why-does-let-in-for-loop-do-this"
+    },
+    {
+      "Created": "2025-10-17T19:34:25Z",
+      "Title": "Swapping corresponding negative and positive elements in an array while keeping constant order in their respective groups",
+      "Tags": [
+        "java",
+        "arrays",
+        "algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793393/swapping-corresponding-negative-and-positive-elements-in-an-array-while-keeping"
+    },
+    {
+      "Created": "2025-10-17T20:06:21Z",
+      "Title": "Selected Custom Block Automatically Scrolls into View in WordPress Editor",
+      "Tags": [
+        "wordpress",
+        "wordpress-gutenberg",
+        "gutenberg-blocks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793404/selected-custom-block-automatically-scrolls-into-view-in-wordpress-editor"
+    }
+  ]
+}

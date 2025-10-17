@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-17T18:57:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T18:31:07Z",
+      "Title": "How to preview an image before uploading it using JavaScript?",
+      "Tags": [
+        "javascript",
+        "image",
+        "attributes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793351/how-to-preview-an-image-before-uploading-it-using-javascript"
+    },
+    {
+      "Created": "2025-10-17T18:51:26Z",
+      "Title": "DiskReadViolation on Ktor with json negotiation",
+      "Tags": [
+        "android",
+        "kotlin",
+        "serialization",
+        "ktor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793366/diskreadviolation-on-ktor-with-json-negotiation"
+    },
+    {
+      "Created": "2025-10-17T18:55:39Z",
+      "Title": "Changing Api Target During App Store Review",
+      "Tags": [
+        "ios",
+        "react-native",
+        "appstore-approval"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793371/changing-api-target-during-app-store-review"
+    },
+    {
+      "Created": "2025-10-17T18:57:07Z",
+      "Title": "Default equality operator for an empty union",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "c\u002B\u002B20",
+        "union",
+        "comparison-operators"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793373/default-equality-operator-for-an-empty-union"
+    }
+  ]
+}

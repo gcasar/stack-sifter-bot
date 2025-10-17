@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-17T00:17:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-16T23:59:17Z",
+      "Title": "How can I reliably scrape the Meta Ads Library for the latest ad launches?",
+      "Tags": [
+        "web-scraping",
+        "facebook-graph-api",
+        "graphql",
+        "reverse-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792653/how-can-i-reliably-scrape-the-meta-ads-library-for-the-latest-ad-launches"
+    },
+    {
+      "Created": "2025-10-17T00:00:58Z",
+      "Title": "How to enumerate microphone formats",
+      "Tags": [
+        "winapi",
+        "audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792654/how-to-enumerate-microphone-formats"
+    },
+    {
+      "Created": "2025-10-17T00:14:13Z",
+      "Title": "Prolog cut not preventing the backtracking I expected it to - what\u0027s wrong with this code?",
+      "Tags": [
+        "prolog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792661/prolog-cut-not-preventing-the-backtracking-i-expected-it-to-whats-wrong-with"
+    },
+    {
+      "Created": "2025-10-17T00:17:11Z",
+      "Title": "Why does git stash pop --index fails when there are staged but uncommitted content?",
+      "Tags": [
+        "git",
+        "git-stash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792663/why-does-git-stash-pop-index-fails-when-there-are-staged-but-uncommitted-conte"
+    }
+  ]
+}

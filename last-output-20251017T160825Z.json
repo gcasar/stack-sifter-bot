@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-17T15:56:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T15:34:43Z",
+      "Title": "How can I enable Windows built-in firewall rules independently of localization?",
+      "Tags": [
+        "windows",
+        "ansible",
+        "localization",
+        "ansible-2.x",
+        "windows-firewall"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793220/how-can-i-enable-windows-built-in-firewall-rules-independently-of-localization"
+    },
+    {
+      "Created": "2025-10-17T15:41:42Z",
+      "Title": "SCP : S3 bucket creation with Tags attached on same time",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "tags",
+        "command-line-interface",
+        "scp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793228/scp-s3-bucket-creation-with-tags-attached-on-same-time"
+    },
+    {
+      "Created": "2025-10-17T15:44:20Z",
+      "Title": "expand versus crossing in combination with nesting for tidyr::complete giving inconsistent behavior",
+      "Tags": [
+        "r",
+        "dplyr",
+        "tidyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793232/expand-versus-crossing-in-combination-with-nesting-for-tidyrcomplete-giving-in"
+    },
+    {
+      "Created": "2025-10-17T15:44:30Z",
+      "Title": "Why is batching inference is not equal to simple inference in runtime",
+      "Tags": [
+        "pytorch",
+        "computer-vision",
+        "cuda",
+        "gpu",
+        "inference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793233/why-is-batching-inference-is-not-equal-to-simple-inference-in-runtime"
+    },
+    {
+      "Created": "2025-10-17T15:56:56Z",
+      "Title": "Why does the memory order need to be \u0060Acquire\u0060 in the single consumer implementation when comparing pointer values",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "atomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793240/why-does-the-memory-order-need-to-be-acquire-in-the-single-consumer-implementa"
+    }
+  ]
+}

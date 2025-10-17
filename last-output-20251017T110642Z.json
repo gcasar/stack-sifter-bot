@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-17T10:44:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T10:37:06Z",
+      "Title": "How to get the community of a post from Lemmy API? [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792991/how-to-get-the-community-of-a-post-from-lemmy-api"
+    },
+    {
+      "Created": "2025-10-17T10:44:39Z",
+      "Title": "MariaDB Slave replication just for backup [closed]",
+      "Tags": [
+        "mariadb",
+        "master-slave",
+        "galera"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792996/mariadb-slave-replication-just-for-backup"
+    }
+  ]
+}

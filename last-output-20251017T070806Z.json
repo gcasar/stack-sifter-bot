@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-17T06:57:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T06:40:29Z",
+      "Title": "Anaconda Installation / WSL2",
+      "Tags": [
+        "opengl",
+        "anaconda",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792816/anaconda-installation-wsl2"
+    },
+    {
+      "Created": "2025-10-17T06:43:57Z",
+      "Title": "TMAP v4: group.control Radio not working with Basemap and Potential Bug with special characters (Umlaute)",
+      "Tags": [
+        "r",
+        "radio-button",
+        "r-leaflet",
+        "tmap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792818/tmap-v4-group-control-radio-not-working-with-basemap-and-potential-bug-with-spe"
+    },
+    {
+      "Created": "2025-10-17T06:53:57Z",
+      "Title": "Is there any workaround to show browser beforeunload promt when user has not interacted with website",
+      "Tags": [
+        "html",
+        "css",
+        "browser",
+        "onbeforeunload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792823/is-there-any-workaround-to-show-browser-beforeunload-promt-when-user-has-not-int"
+    },
+    {
+      "Created": "2025-10-17T06:57:36Z",
+      "Title": "I am creating a gui calculator by using the PyQt5 library in python but i am getting issue while making it through the Calculations",
+      "Tags": [
+        "python-3.x",
+        "pyqt5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792825/i-am-creating-a-gui-calculator-by-using-the-pyqt5-library-in-python-but-i-am-get"
+    }
+  ]
+}

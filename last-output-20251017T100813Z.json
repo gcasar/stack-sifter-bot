@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-17T10:06:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T09:24:21Z",
+      "Title": "How to load historical data smoothly?",
+      "Tags": [
+        "javascript",
+        "tradingview-api",
+        "lightweight-charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792939/how-to-load-historical-data-smoothly"
+    },
+    {
+      "Created": "2025-10-17T09:50:56Z",
+      "Title": "How to get second relation data from the model in gorm",
+      "Tags": [
+        "go",
+        "go-gorm",
+        "go-gin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792962/how-to-get-second-relation-data-from-the-model-in-gorm"
+    },
+    {
+      "Created": "2025-10-17T09:55:59Z",
+      "Title": "React Three: FBX Model not showing when loaded a second time on specific servers",
+      "Tags": [
+        "reactjs",
+        "three.js",
+        "react-three-fiber",
+        "fbx",
+        "react-three-drei"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792963/react-three-fbx-model-not-showing-when-loaded-a-second-time-on-specific-servers"
+    },
+    {
+      "Created": "2025-10-17T09:59:34Z",
+      "Title": "react-dom-client.development.js:16328 The current testing environment is not configured to support act(...) Understand this error but i",
+      "Tags": [
+        "reactjs",
+        "node-modules",
+        "testing-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792965/react-dom-client-development-js16328-the-current-testing-environment-is-not-con"
+    },
+    {
+      "Created": "2025-10-17T10:00:14Z",
+      "Title": "RestEasy mapping Client vs. Server Exceptions",
+      "Tags": [
+        "java",
+        "resteasy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792966/resteasy-mapping-client-vs-server-exceptions"
+    },
+    {
+      "Created": "2025-10-17T10:06:09Z",
+      "Title": "convert a list of texts to numeric values",
+      "Tags": [
+        "encoding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792969/convert-a-list-of-texts-to-numeric-values"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-17T01:22:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T00:57:12Z",
+      "Title": "how can i resolve this?",
+      "Tags": [
+        "assembly",
+        "x86"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792669/how-can-i-resolve-this"
+    },
+    {
+      "Created": "2025-10-17T00:58:16Z",
+      "Title": "How can I run the inference on the HunyuanImage-3.0 model?",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "image-generation",
+        "tencent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792670/how-can-i-run-the-inference-on-the-hunyuanimage-3-0-model"
+    },
+    {
+      "Created": "2025-10-17T01:22:49Z",
+      "Title": "How do I make the \u0022return\u0022 function from the Monad class return a phantom parameter?",
+      "Tags": [
+        "haskell",
+        "monads"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792673/how-do-i-make-the-return-function-from-the-monad-class-return-a-phantom-parame"
+    }
+  ]
+}

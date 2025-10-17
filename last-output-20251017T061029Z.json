@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-17T06:08:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T05:57:00Z",
+      "Title": "How to tell if font is a unicode font programmatically?",
+      "Tags": [
+        "unicode",
+        "fonts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792782/how-to-tell-if-font-is-a-unicode-font-programmatically"
+    },
+    {
+      "Created": "2025-10-17T05:59:22Z",
+      "Title": "ApiException 10 occurs only in Google Play version of Flutter app despite correct SHA-1 and Web client ID",
+      "Tags": [
+        "android",
+        "flutter",
+        "google-cloud-platform",
+        "google-cloud-firestore",
+        "google-signin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792785/apiexception-10-occurs-only-in-google-play-version-of-flutter-app-despite-correc"
+    },
+    {
+      "Created": "2025-10-17T06:00:43Z",
+      "Title": "Arbitrary width and height classes like max-w-[500px] not applying after upgrading from v3",
+      "Tags": [
+        "css",
+        "next.js",
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792786/arbitrary-width-and-height-classes-like-max-w-500px-not-applying-after-upgradi"
+    },
+    {
+      "Created": "2025-10-17T06:01:21Z",
+      "Title": "Is this the correct way to make font sizes dynamic in SwiftUI?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "fonts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792787/is-this-the-correct-way-to-make-font-sizes-dynamic-in-swiftui"
+    },
+    {
+      "Created": "2025-10-17T06:01:43Z",
+      "Title": "Trying to add a job to the job queue with Vault Data API returns status code 500 \u0022Vault error\u0022",
+      "Tags": [
+        "autodesk-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792788/trying-to-add-a-job-to-the-job-queue-with-vault-data-api-returns-status-code-500"
+    },
+    {
+      "Created": "2025-10-17T06:02:29Z",
+      "Title": "Map gif mistakenly shows some points in random locations",
+      "Tags": [
+        "r",
+        "gis",
+        "animated-gif"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792789/map-gif-mistakenly-shows-some-points-in-random-locations"
+    },
+    {
+      "Created": "2025-10-17T06:02:55Z",
+      "Title": "How to properly transform backend error responses using response-transformer or custom policy in Express Gateway?",
+      "Tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "api-gateway",
+        "express-gateway"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792790/how-to-properly-transform-backend-error-responses-using-response-transformer-or"
+    },
+    {
+      "Created": "2025-10-17T06:08:25Z",
+      "Title": "FileExistsError: [WinError 183] Cannot create a file when that file already exists - python 3.12.10",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79792792/fileexistserror-winerror-183-cannot-create-a-file-when-that-file-already-exis"
+    }
+  ]
+}

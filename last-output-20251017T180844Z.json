@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-17T18:01:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T17:31:38Z",
+      "Title": "When trying to run a C\u002B\u002B file, a clang error occurs [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "macos",
+        "visual-studio-code",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793307/when-trying-to-run-a-c-file-a-clang-error-occurs"
+    },
+    {
+      "Created": "2025-10-17T17:49:59Z",
+      "Title": "Why does Postgres not allow SERIALIZABLE transactions on read-only replicas?",
+      "Tags": [
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793322/why-does-postgres-not-allow-serializable-transactions-on-read-only-replicas"
+    },
+    {
+      "Created": "2025-10-17T17:55:42Z",
+      "Title": "VBA Delete Rows with Zero balance and dates that match a cell",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793326/vba-delete-rows-with-zero-balance-and-dates-that-match-a-cell"
+    },
+    {
+      "Created": "2025-10-17T17:58:15Z",
+      "Title": "How can I include two separate unions in a Typescript object function argument and allow properties with values that overlap both?",
+      "Tags": [
+        "typescript",
+        "parameters",
+        "discriminated-union"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793327/how-can-i-include-two-separate-unions-in-a-typescript-object-function-argument-a"
+    },
+    {
+      "Created": "2025-10-17T18:01:23Z",
+      "Title": "Post build event return 9009 even though path is correct",
+      "Tags": [
+        "c#",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793332/post-build-event-return-9009-even-though-path-is-correct"
+    }
+  ]
+}

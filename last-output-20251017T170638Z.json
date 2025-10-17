@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-17T17:04:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T16:08:32Z",
+      "Title": "Why does the Mediator work with QUERY, but Handler throws an incompatible method override error?",
+      "Tags": [
+        "python",
+        "types",
+        "mypy",
+        "typing",
+        "pyright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793248/why-does-the-mediator-work-with-query-but-handler-throws-an-incompatible-method"
+    },
+    {
+      "Created": "2025-10-17T16:27:44Z",
+      "Title": "Facebook Graph API \u2014 \u201CAn unknown error occurred (Code: 1, Subcode: 1690192)\u201D when creating Child Business Manager via /owned_businesses",
+      "Tags": [
+        "facebook-graph-api",
+        "facebook-marketing-api",
+        "facebook-business-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793262/facebook-graph-api-an-unknown-error-occurred-code-1-subcode-1690192-whe"
+    },
+    {
+      "Created": "2025-10-17T16:33:49Z",
+      "Title": "Service worker preventing image updating on website [closed]",
+      "Tags": [
+        "javascript",
+        "progressive-web-apps",
+        "service-worker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793268/service-worker-preventing-image-updating-on-website"
+    },
+    {
+      "Created": "2025-10-17T16:40:00Z",
+      "Title": "How to query Firebase Realtime Database for top N users and current user\u2019s rank",
+      "Tags": [
+        "c#",
+        "firebase",
+        "unity-game-engine",
+        "firebase-realtime-database",
+        "leaderboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793273/how-to-query-firebase-realtime-database-for-top-n-users-and-current-user-s-rank"
+    },
+    {
+      "Created": "2025-10-17T16:54:00Z",
+      "Title": "How can I do a calculator on c\u002B\u002B [closed]",
+      "Tags": [
+        "tags"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793280/how-can-i-do-a-calculator-on-c"
+    },
+    {
+      "Created": "2025-10-17T16:55:30Z",
+      "Title": "How to save update and retrieve avatar or profile image with REST API call?",
+      "Tags": [
+        "supabase",
+        "agora.io",
+        "agora-chat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793282/how-to-save-update-and-retrieve-avatar-or-profile-image-with-rest-api-call"
+    },
+    {
+      "Created": "2025-10-17T17:04:41Z",
+      "Title": "How do I find out the type of items in a generic type collection?",
+      "Tags": [
+        "c#",
+        "oop",
+        "generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793285/how-do-i-find-out-the-type-of-items-in-a-generic-type-collection"
+    }
+  ]
+}

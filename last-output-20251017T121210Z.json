@@ -1,0 +1,82 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-17T12:10:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T11:15:31Z",
+      "Title": "Android 16. foregroundService (specialUse) run by BOOT_COMPLETED throw android.app.ForegroundServiceStartNotAllowedException",
+      "Tags": [
+        "android",
+        "foreground-service",
+        "android-16"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793008/android-16-foregroundservice-specialuse-run-by-boot-completed-throw-android-a"
+    },
+    {
+      "Created": "2025-10-17T11:35:44Z",
+      "Title": "Set SQL Server LoginTimeout in Laravel",
+      "Tags": [
+        "php",
+        "sql-server",
+        "laravel",
+        "database",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793020/set-sql-server-logintimeout-in-laravel"
+    },
+    {
+      "Created": "2025-10-17T11:57:15Z",
+      "Title": "Prometheus Grafana replace Nan values with 0, Histogram",
+      "Tags": [
+        "prometheus",
+        "histogram",
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793034/prometheus-grafana-replace-nan-values-with-0-histogram"
+    },
+    {
+      "Created": "2025-10-17T12:01:54Z",
+      "Title": "Adding checkbox for QFileSystemModel",
+      "Tags": [
+        "pyqt",
+        "pyqt6",
+        "qtreeview",
+        "qfilesystemmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793038/adding-checkbox-for-qfilesystemmodel"
+    },
+    {
+      "Created": "2025-10-17T12:02:55Z",
+      "Title": "Browser keeps showing Windows Authentication popup after obtaining JWT token in ASP.NET app",
+      "Tags": [
+        "asp.net",
+        "authentication",
+        "iis",
+        "jwt",
+        "windows-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793039/browser-keeps-showing-windows-authentication-popup-after-obtaining-jwt-token-in"
+    },
+    {
+      "Created": "2025-10-17T12:04:00Z",
+      "Title": "Creating an array of all indexedDB key values - function returns before completion",
+      "Tags": [
+        "javascript",
+        "async-await",
+        "indexeddb",
+        "database-cursor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793041/creating-an-array-of-all-indexeddb-key-values-function-returns-before-completi"
+    },
+    {
+      "Created": "2025-10-17T12:10:44Z",
+      "Title": "Is there a way to loop an ac3 audio from a filesrc for a specified duration in gstreamer?",
+      "Tags": [
+        "audio",
+        "gstreamer-1.0",
+        "mpeg2-ts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793043/is-there-a-way-to-loop-an-ac3-audio-from-a-filesrc-for-a-specified-duration-in-g"
+    }
+  ]
+}

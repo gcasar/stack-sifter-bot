@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-17T13:57:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T13:31:23Z",
+      "Title": "How to create Glass Effect TabView with kind of Switch button to update TabView with new Tabs?",
+      "Tags": [
+        "ios",
+        "swift",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793106/how-to-create-glass-effect-tabview-with-kind-of-switch-button-to-update-tabview"
+    },
+    {
+      "Created": "2025-10-17T13:49:39Z",
+      "Title": "Where can I learn how to write the inference part in .cu files? For example, implementing inference for spiking neural networks on MNIST using CUDA",
+      "Tags": [
+        "cuda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793118/where-can-i-learn-how-to-write-the-inference-part-in-cu-files-for-example-imp"
+    },
+    {
+      "Created": "2025-10-17T13:52:13Z",
+      "Title": "Strange line on Windows 11",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793120/strange-line-on-windows-11"
+    },
+    {
+      "Created": "2025-10-17T13:52:43Z",
+      "Title": "Scatter plot with svg markers not plotting proper colors in Matplotlib",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "svg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793121/scatter-plot-with-svg-markers-not-plotting-proper-colors-in-matplotlib"
+    },
+    {
+      "Created": "2025-10-17T13:56:23Z",
+      "Title": "restsharp: url segment not working with full url",
+      "Tags": [
+        "restsharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793124/restsharp-url-segment-not-working-with-full-url"
+    },
+    {
+      "Created": "2025-10-17T13:57:00Z",
+      "Title": "Is there a way to compare 2 columns [COL01 \u0026 COL02] in Polars DF and rearrange them when they match and unmatch?",
+      "Tags": [
+        "python-polars",
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793125/is-there-a-way-to-compare-2-columns-col01-col02-in-polars-df-and-rearrange-t"
+    }
+  ]
+}

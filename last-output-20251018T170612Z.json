@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-18T16:56:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T16:33:39Z",
+      "Title": "Linq to SQL multiple SUM issue",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793856/linq-to-sql-multiple-sum-issue"
+    },
+    {
+      "Created": "2025-10-18T16:42:08Z",
+      "Title": "Node spawn chrome.exe is getting blocked by node script",
+      "Tags": [
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793861/node-spawn-chrome-exe-is-getting-blocked-by-node-script"
+    },
+    {
+      "Created": "2025-10-18T16:43:42Z",
+      "Title": "Python - Get the character count of a file without loops",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793862/python-get-the-character-count-of-a-file-without-loops"
+    },
+    {
+      "Created": "2025-10-18T16:49:56Z",
+      "Title": "How to override Layout.vue when extending the default theme in VuePress 2?",
+      "Tags": [
+        "vuejs2",
+        "vuepress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793865/how-to-override-layout-vue-when-extending-the-default-theme-in-vuepress-2"
+    },
+    {
+      "Created": "2025-10-18T16:56:24Z",
+      "Title": "C\u002B\u002B pcap ARP Spoofing Packet Issue: IP/MAC Addresses Not Recognized",
+      "Tags": [
+        "c\u002B\u002B",
+        "network-programming",
+        "arp",
+        "winpcap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793868/c-pcap-arp-spoofing-packet-issue-ip-mac-addresses-not-recognized"
+    }
+  ]
+}

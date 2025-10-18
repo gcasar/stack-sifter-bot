@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-18T09:05:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T08:35:44Z",
+      "Title": "C\u002B\u002B Builder CE 12. My program behaves differently when launched from the IDE or standalone",
+      "Tags": [
+        "debugging",
+        "winapi",
+        "serial-port",
+        "vcl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793650/c-builder-ce-12-my-program-behaves-differently-when-launched-from-the-ide-or"
+    },
+    {
+      "Created": "2025-10-18T08:42:52Z",
+      "Title": "AnimatedContent, is the targetState parameter always necessary?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793651/animatedcontent-is-the-targetstate-parameter-always-necessary"
+    },
+    {
+      "Created": "2025-10-18T08:55:56Z",
+      "Title": "I saw people building ChatGPT apps and I want to know how [closed]",
+      "Tags": [
+        "sdk",
+        "openai-api",
+        "chatgpt-api",
+        "chatgpt-plugin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793659/i-saw-people-building-chatgpt-apps-and-i-want-to-know-how"
+    },
+    {
+      "Created": "2025-10-18T09:00:32Z",
+      "Title": "Telegram Bot sendDocument fails with Amazon S3 URL",
+      "Tags": [
+        "amazon-s3",
+        "telegram-bot",
+        "guzzle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793661/telegram-bot-senddocument-fails-with-amazon-s3-url"
+    },
+    {
+      "Created": "2025-10-18T09:05:01Z",
+      "Title": "Spring Boot Configuration for AWS ElastiCache for Redis Serverless: Standalone or Cluster?",
+      "Tags": [
+        "spring-boot",
+        "amazon-elasticache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793663/spring-boot-configuration-for-aws-elasticache-for-redis-serverless-standalone-o"
+    }
+  ]
+}

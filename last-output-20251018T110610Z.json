@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-18T10:56:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T10:41:40Z",
+      "Title": "Robin Hood Hash Table Slower Than std::unordered_map - Performance Issue",
+      "Tags": [
+        "c\u002B\u002B",
+        "database",
+        "join",
+        "hashtable",
+        "collision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793715/robin-hood-hash-table-slower-than-stdunordered-map-performance-issue"
+    },
+    {
+      "Created": "2025-10-18T10:46:53Z",
+      "Title": "How to avoid double login when using NextAuth (GitHub provider) with Giscus comment system?",
+      "Tags": [
+        "next.js",
+        "vercel",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793716/how-to-avoid-double-login-when-using-nextauth-github-provider-with-giscus-comm"
+    },
+    {
+      "Created": "2025-10-18T10:51:22Z",
+      "Title": "ASWebAuthenticationSession callbackURL returns empty passkey response ({}) on iOS 16",
+      "Tags": [
+        "ios",
+        "webauthn",
+        "passkey",
+        "aswebauthenticationsession"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793719/aswebauthenticationsession-callbackurl-returns-empty-passkey-response-on-io"
+    },
+    {
+      "Created": "2025-10-18T10:56:21Z",
+      "Title": "Truenas 2 disk mirrored vdev expansion",
+      "Tags": [
+        "zfs",
+        "raid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793725/truenas-2-disk-mirrored-vdev-expansion"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-18T01:34:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T00:50:50Z",
+      "Title": "Is there a way to validate a json file against a typescript type in compile time?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793511/is-there-a-way-to-validate-a-json-file-against-a-typescript-type-in-compile-time"
+    },
+    {
+      "Created": "2025-10-18T01:34:32Z",
+      "Title": "Excel hanging on my first Do Loop attempt",
+      "Tags": [
+        "excel",
+        "vba",
+        "loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793518/excel-hanging-on-my-first-do-loop-attempt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-18T03:11:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T02:41:44Z",
+      "Title": "Why are Application Insights logs missing intermittently in .NET isolated Azure Functions despite disabling sampling in host.json?",
+      "Tags": [
+        "azure",
+        "azure-functions",
+        "azure-functions-isolated"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793536/why-are-application-insights-logs-missing-intermittently-in-net-isolated-azure"
+    },
+    {
+      "Created": "2025-10-18T02:49:55Z",
+      "Title": "Win32 C\u002B\u002B Enumerate \u0022Internal Storage\u0022 File System of devices such as iPhone and MTP-USB digital camera",
+      "Tags": [
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793539/win32-c-enumerate-internal-storage-file-system-of-devices-such-as-iphone-and"
+    },
+    {
+      "Created": "2025-10-18T03:11:59Z",
+      "Title": "Search scopus id using Scopus api",
+      "Tags": [
+        "python",
+        "request",
+        "scopus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793543/search-scopus-id-using-scopus-api"
+    }
+  ]
+}

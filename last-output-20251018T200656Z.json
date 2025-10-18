@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-18T19:51:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T19:35:29Z",
+      "Title": "Error related to library expo-barcode-scanner when I try to create an APK using a React Native Expo app",
+      "Tags": [
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793941/error-related-to-library-expo-barcode-scanner-when-i-try-to-create-an-apk-using"
+    },
+    {
+      "Created": "2025-10-18T19:51:33Z",
+      "Title": "Moving mouse isn\u0027t working the same way in both directions",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793943/moving-mouse-isnt-working-the-same-way-in-both-directions"
+    }
+  ]
+}

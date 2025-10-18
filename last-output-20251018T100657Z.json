@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-18T10:02:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T09:37:08Z",
+      "Title": "withdraw and collect e-commerce order amounts",
+      "Tags": [
+        "python",
+        "rest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793676/withdraw-and-collect-e-commerce-order-amounts"
+    },
+    {
+      "Created": "2025-10-18T09:53:09Z",
+      "Title": "Apply power to a numpy array",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793684/apply-power-to-a-numpy-array"
+    },
+    {
+      "Created": "2025-10-18T09:59:54Z",
+      "Title": "Python/Pandas: Copying columns using loc or iloc, from one dataframe to another that is initialized with columns",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793690/python-pandas-copying-columns-using-loc-or-iloc-from-one-dataframe-to-another"
+    },
+    {
+      "Created": "2025-10-18T10:02:08Z",
+      "Title": "How to check where C API is looking for Python?",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793692/how-to-check-where-c-api-is-looking-for-python"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-18T13:04:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T13:02:24Z",
+      "Title": "Should I use \u0022skipped\u0022 or NaN for empty cells in columns for analysis?",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "data-science",
+        "data-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793766/should-i-use-skipped-or-nan-for-empty-cells-in-columns-for-analysis"
+    },
+    {
+      "Created": "2025-10-18T13:04:40Z",
+      "Title": "TYPO3 Frontend Login fails after upgrade to T3v12",
+      "Tags": [
+        "typo3-12.x",
+        "felogin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793769/typo3-frontend-login-fails-after-upgrade-to-t3v12"
+    }
+  ]
+}

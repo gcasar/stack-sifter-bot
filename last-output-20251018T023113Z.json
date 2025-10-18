@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-18T02:21:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T01:41:25Z",
+      "Title": "Require is returning a nil value in GLua for a module",
+      "Tags": [
+        "lua",
+        "garrys-mod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793521/require-is-returning-a-nil-value-in-glua-for-a-module"
+    },
+    {
+      "Created": "2025-10-18T02:21:16Z",
+      "Title": "google sheets API only returning single chart",
+      "Tags": [
+        "python",
+        "rest",
+        "google-sheets",
+        "google-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793532/google-sheets-api-only-returning-single-chart"
+    }
+  ]
+}

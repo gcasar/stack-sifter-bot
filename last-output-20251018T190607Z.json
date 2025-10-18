@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-18T19:02:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T17:59:52Z",
+      "Title": "How do I Create a Context Menu item to Create a text file with a Specific name and contents based on the Folder Name",
+      "Tags": [
+        "windows",
+        "batch-file",
+        "regedit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793898/how-do-i-create-a-context-menu-item-to-create-a-text-file-with-a-specific-name-a"
+    },
+    {
+      "Created": "2025-10-18T18:41:01Z",
+      "Title": "Is there a C\u002B\u002B with a typecase statement?",
+      "Tags": [
+        "c\u002B\u002B",
+        "switch-statement",
+        "dynamic-cast"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793917/is-there-a-c-with-a-typecase-statement"
+    },
+    {
+      "Created": "2025-10-18T19:01:32Z",
+      "Title": "Best way to flatmap before sending to a producer stream (Kafka)?",
+      "Tags": [
+        "java",
+        "amazon-web-services",
+        "apache-kafka",
+        "java-stream",
+        "spring-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793926/best-way-to-flatmap-before-sending-to-a-producer-stream-kafka"
+    },
+    {
+      "Created": "2025-10-18T19:02:53Z",
+      "Title": "Expo Notifications in React Native",
+      "Tags": [
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793928/expo-notifications-in-react-native"
+    }
+  ]
+}

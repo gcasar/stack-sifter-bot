@@ -1,0 +1,23 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-18T20:47:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T20:27:24Z",
+      "Title": "Can I make Pelican command line include direct templates in processed list?",
+      "Tags": [
+        "command-line-interface",
+        "pelican"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793956/can-i-make-pelican-command-line-include-direct-templates-in-processed-list"
+    },
+    {
+      "Created": "2025-10-18T20:47:36Z",
+      "Title": "Passing variable with leading zero to BAT file causes error",
+      "Tags": [
+        "batch-file"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793961/passing-variable-with-leading-zero-to-bat-file-causes-error"
+    }
+  ]
+}

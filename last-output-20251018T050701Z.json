@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-18T04:56:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T04:52:51Z",
+      "Title": "How to safely fix and migrate pip3 packages installed and run using sudo/root/local users to a safe pip3 virtual environment (venv)?",
+      "Tags": [
+        "pip",
+        "virtualenv",
+        "upgrade",
+        "ubuntu-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793562/how-to-safely-fix-and-migrate-pip3-packages-installed-and-run-using-sudo-root-lo"
+    },
+    {
+      "Created": "2025-10-18T04:56:40Z",
+      "Title": "Ghostscript color separation version dot Angle Settings",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793564/ghostscript-color-separation-version-dot-angle-settings"
+    }
+  ]
+}

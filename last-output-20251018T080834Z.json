@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-18T07:45:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T07:38:48Z",
+      "Title": "Show loader before emitting Flow data in ViewModel",
+      "Tags": [
+        "android",
+        "kotlin",
+        "viewmodel",
+        "kotlin-coroutines",
+        "kotlin-flow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793628/show-loader-before-emitting-flow-data-in-viewmodel"
+    },
+    {
+      "Created": "2025-10-18T07:40:00Z",
+      "Title": "Python mage stacking",
+      "Tags": [
+        "python",
+        "numpy",
+        "python-xarray",
+        "image-stitching"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793629/python-mage-stacking"
+    },
+    {
+      "Created": "2025-10-18T07:41:10Z",
+      "Title": "Python in vscode does not autocomplete or suggest built in class method",
+      "Tags": [
+        "python",
+        "visual-studio-code",
+        "metaclass",
+        "pylance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793630/python-in-vscode-does-not-autocomplete-or-suggest-built-in-class-method"
+    },
+    {
+      "Created": "2025-10-18T07:45:33Z",
+      "Title": "strange pthread and posix signal application behaviour",
+      "Tags": [
+        "c",
+        "linux",
+        "pthreads",
+        "signals",
+        "posix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793633/strange-pthread-and-posix-signal-application-behaviour"
+    }
+  ]
+}

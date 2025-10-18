@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-18T00:25:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-17T23:36:57Z",
+      "Title": "Shadcn: How do I prevent a dialog from closing when clicking outside?",
+      "Tags": [
+        "dialog",
+        "shadcnui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793493/shadcn-how-do-i-prevent-a-dialog-from-closing-when-clicking-outside"
+    },
+    {
+      "Created": "2025-10-17T23:59:15Z",
+      "Title": "How to do oop in python [duplicate]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793500/how-to-do-oop-in-python"
+    },
+    {
+      "Created": "2025-10-18T00:25:32Z",
+      "Title": "how to quickly pull values from an xarray using indices",
+      "Tags": [
+        "python-3.x",
+        "python-xarray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793507/how-to-quickly-pull-values-from-an-xarray-using-indices"
+    }
+  ]
+}

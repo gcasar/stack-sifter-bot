@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-18T14:54:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T14:31:51Z",
+      "Title": "How to access the Google Sheets API from gspread for functionality missing from gspread",
+      "Tags": [
+        "google-sheets",
+        "google-sheets-api",
+        "gspread"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793801/how-to-access-the-google-sheets-api-from-gspread-for-functionality-missing-from"
+    },
+    {
+      "Created": "2025-10-18T14:34:17Z",
+      "Title": "fetch specific data from xml content using php",
+      "Tags": [
+        "php",
+        "arrays",
+        "json",
+        "xml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793802/fetch-specific-data-from-xml-content-using-php"
+    },
+    {
+      "Created": "2025-10-18T14:42:56Z",
+      "Title": "My Laravel 12 spatie laravel-medialibrary - ConversionHasBeenCompletedEvent was not fired in EventServiceProvider",
+      "Tags": [
+        "laravel",
+        "events",
+        "event-listener",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793806/my-laravel-12-spatie-laravel-medialibrary-conversionhasbeencompletedevent-was"
+    },
+    {
+      "Created": "2025-10-18T14:50:09Z",
+      "Title": "Nx Angular Micro Frontend Remote App APP_INITIALIZER Not Firing When Accesing The Remote App From The Host/Shell",
+      "Tags": [
+        "javascript",
+        "angular",
+        "typescript",
+        "nrwl-nx",
+        "micro-frontend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793811/nx-angular-micro-frontend-remote-app-app-initializer-not-firing-when-accesing-th"
+    },
+    {
+      "Created": "2025-10-18T14:54:08Z",
+      "Title": "What is the recommended approach for monitoring changes to Solution Explorer items?",
+      "Tags": [
+        "visual-studio",
+        "vsix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793812/what-is-the-recommended-approach-for-monitoring-changes-to-solution-explorer-ite"
+    }
+  ]
+}

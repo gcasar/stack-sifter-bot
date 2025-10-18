@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-18T11:43:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T11:31:45Z",
+      "Title": "Is it possible to set up a gulp-based build to compile css modules for react components",
+      "Tags": [
+        "reactjs",
+        "gulp",
+        "postcss",
+        "css-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793734/is-it-possible-to-set-up-a-gulp-based-build-to-compile-css-modules-for-react-com"
+    },
+    {
+      "Created": "2025-10-18T11:40:06Z",
+      "Title": "Usage of tap({ error }) vs. catchError for side effects",
+      "Tags": [
+        "angular",
+        "error-handling",
+        "rxjs",
+        "coding-style",
+        "clean-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793735/usage-of-tap-error-vs-catcherror-for-side-effects"
+    },
+    {
+      "Created": "2025-10-18T11:41:01Z",
+      "Title": "How to remove white spots from appearing in GIF icon in wpf?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "gif",
+        "animated-gif"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793736/how-to-remove-white-spots-from-appearing-in-gif-icon-in-wpf"
+    },
+    {
+      "Created": "2025-10-18T11:43:02Z",
+      "Title": "R how to filter and exclude specific specific date intervals based on multiple conditions",
+      "Tags": [
+        "r",
+        "date"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793738/r-how-to-filter-and-exclude-specific-specific-date-intervals-based-on-multiple-c"
+    }
+  ]
+}

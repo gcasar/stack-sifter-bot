@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-18T16:03:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T15:32:03Z",
+      "Title": "Why have I started getting a type error from using any kind of react navigation in Visual Studio Code?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "visual-studio-code",
+        "expo",
+        "react-navigation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793835/why-have-i-started-getting-a-type-error-from-using-any-kind-of-react-navigation"
+    },
+    {
+      "Created": "2025-10-18T15:37:54Z",
+      "Title": "UI combobox crashes in WPF C# .NET 8.0 app",
+      "Tags": [
+        "c#",
+        ".net",
+        "wpf",
+        "xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793837/ui-combobox-crashes-in-wpf-c-sharp-net-8-0-app"
+    },
+    {
+      "Created": "2025-10-18T16:03:50Z",
+      "Title": "getApplicationContext() unresolved in Android Studio Kotlin",
+      "Tags": [
+        "android",
+        "kotlin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793843/getapplicationcontext-unresolved-in-android-studio-kotlin"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-18T06:51:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T06:14:51Z",
+      "Title": "ObjectBox - any way to treat old deleted property and new properety with the same name(but different uid) as the same property in database?",
+      "Tags": [
+        "flutter",
+        "objectbox",
+        "flutter-objectbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793587/objectbox-any-way-to-treat-old-deleted-property-and-new-properety-with-the-sam"
+    },
+    {
+      "Created": "2025-10-18T06:37:38Z",
+      "Title": "Can I use theia sticky sidebar without jquery?",
+      "Tags": [
+        "javascript",
+        "jquery",
+        "cdn",
+        "sidebar",
+        "sticky"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793601/can-i-use-theia-sticky-sidebar-without-jquery"
+    },
+    {
+      "Created": "2025-10-18T06:39:47Z",
+      "Title": "Understanding the rethinking::link function",
+      "Tags": [
+        "r",
+        "rethinking-r-package"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793604/understanding-the-rethinkinglink-function"
+    },
+    {
+      "Created": "2025-10-18T06:40:17Z",
+      "Title": "16 bit Assembly own Interrupts",
+      "Tags": [
+        "assembly",
+        "osdev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793605/16-bit-assembly-own-interrupts"
+    },
+    {
+      "Created": "2025-10-18T06:51:08Z",
+      "Title": "Calculating mean for a specific column in pandas",
+      "Tags": [
+        "python-3.x",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793610/calculating-mean-for-a-specific-column-in-pandas"
+    }
+  ]
+}

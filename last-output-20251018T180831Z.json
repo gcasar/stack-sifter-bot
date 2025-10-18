@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-18T17:50:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T17:41:08Z",
+      "Title": "Displaying results of stored procedure via PHP",
+      "Tags": [
+        "php",
+        "stored-procedures",
+        "pdo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793889/displaying-results-of-stored-procedure-via-php"
+    },
+    {
+      "Created": "2025-10-18T17:41:22Z",
+      "Title": "Magento Yes/No Import from CSV Issue",
+      "Tags": [
+        "csv",
+        "magento",
+        "import"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793890/magento-yes-no-import-from-csv-issue"
+    },
+    {
+      "Created": "2025-10-18T17:42:03Z",
+      "Title": "iOS 26 UISlider\u0027s .valueChanged event is always blank and allTouches is always nil, unable to detect end of slider drag",
+      "Tags": [
+        "ios",
+        "swift",
+        "uislider",
+        "uicontrol",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793891/ios-26-uisliders-valuechanged-event-is-always-blank-and-alltouches-is-always-n"
+    },
+    {
+      "Created": "2025-10-18T17:50:19Z",
+      "Title": "Type with specific properties \u002B unknown string properties [duplicate]",
+      "Tags": [
+        "typescript",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793896/type-with-specific-properties-unknown-string-properties"
+    }
+  ]
+}

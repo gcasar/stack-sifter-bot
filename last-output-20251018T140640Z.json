@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-18T14:03:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T13:17:13Z",
+      "Title": "Application crash when loading an Activity to WorkflowDesigner in C#",
+      "Tags": [
+        "c#",
+        "wpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793772/application-crash-when-loading-an-activity-to-workflowdesigner-in-c-sharp"
+    },
+    {
+      "Created": "2025-10-18T13:36:50Z",
+      "Title": "chromium console output disappears for systemctl --user",
+      "Tags": [
+        "chromium",
+        "systemd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793779/chromium-console-output-disappears-for-systemctl-user"
+    },
+    {
+      "Created": "2025-10-18T13:43:20Z",
+      "Title": "Unsuccessful implementation of DI with Injectable on the authentication in Flutter app using Bloc",
+      "Tags": [
+        "flutter",
+        "bloc",
+        "injectable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793782/unsuccessful-implementation-of-di-with-injectable-on-the-authentication-in-flutt"
+    },
+    {
+      "Created": "2025-10-18T13:51:00Z",
+      "Title": "How to exclude specific files from certain dependencies using the Gradle Shadow plugin?",
+      "Tags": [
+        "java",
+        "gradle",
+        "build.gradle",
+        "uberjar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793786/how-to-exclude-specific-files-from-certain-dependencies-using-the-gradle-shadow"
+    },
+    {
+      "Created": "2025-10-18T14:00:31Z",
+      "Title": "Keyboard Shortcut / Delete Command in Sublime Text",
+      "Tags": [
+        "sublimetext3",
+        "sublimetext2",
+        "sublimetext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793790/keyboard-shortcut-delete-command-in-sublime-text"
+    },
+    {
+      "Created": "2025-10-18T14:03:53Z",
+      "Title": "ADBC Flight SQL query on StarRocks database drops column names",
+      "Tags": [
+        "database",
+        "apache-arrow",
+        "apache-arrow-flight",
+        "starrocks",
+        "adbc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79793792/adbc-flight-sql-query-on-starrocks-database-drops-column-names"
+    }
+  ]
+}

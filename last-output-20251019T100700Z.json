@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-19T09:47:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T09:12:00Z",
+      "Title": "How can I disable / warn on std::array::operator[] for some specializations of my type that can implicitly convert to a builtin integral type?",
+      "Tags": [
+        "c\u002B\u002B",
+        "arrays"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794189/how-can-i-disable-warn-on-stdarrayoperator-for-some-specializations-of-m"
+    },
+    {
+      "Created": "2025-10-19T09:24:31Z",
+      "Title": "kubectl Fails with \u0022snap-confine has elevated permissions\u0022 error after AppArmor service fixes",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "kubectl",
+        "snap",
+        "apparmor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794195/kubectl-fails-with-snap-confine-has-elevated-permissions-error-after-apparmor"
+    },
+    {
+      "Created": "2025-10-19T09:32:24Z",
+      "Title": "bundle optimization for chakra ui",
+      "Tags": [
+        "reactjs",
+        "chakra-ui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794198/bundle-optimization-for-chakra-ui"
+    },
+    {
+      "Created": "2025-10-19T09:47:52Z",
+      "Title": "What causes this Unexpected end of JSON error in a Laravel 8 application?",
+      "Tags": [
+        "javascript",
+        "php",
+        "ajax",
+        "laravel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794204/what-causes-this-unexpected-end-of-json-error-in-a-laravel-8-application"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-19T10:55:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T10:30:29Z",
+      "Title": "Is there a shortcut keys to open the terminal on macos? If yes what are they? [closed]",
+      "Tags": [
+        "macos",
+        "keyboard-shortcuts",
+        "shortcut"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794225/is-there-a-shortcut-keys-to-open-the-terminal-on-macos-if-yes-what-are-they"
+    },
+    {
+      "Created": "2025-10-19T10:35:29Z",
+      "Title": "Reading two buttons states with Arduino UNO not working",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794228/reading-two-buttons-states-with-arduino-uno-not-working"
+    },
+    {
+      "Created": "2025-10-19T10:55:51Z",
+      "Title": "Directus development with Branch?",
+      "Tags": [
+        "directus",
+        "directus-flows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794236/directus-development-with-branch"
+    }
+  ]
+}

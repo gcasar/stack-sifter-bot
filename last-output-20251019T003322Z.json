@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-19T00:31:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-18T23:44:59Z",
+      "Title": "Cycle Shuffled Paragraphs with Button Onclick",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "loops",
+        "onclick",
+        "cycle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794017/cycle-shuffled-paragraphs-with-button-onclick"
+    },
+    {
+      "Created": "2025-10-18T23:51:35Z",
+      "Title": "Is this a conforming observable behavior in the abstract machine\u0027s sense, where the load reads a value that is not currently produced",
+      "Tags": [
+        "c\u002B\u002B",
+        "language-lawyer",
+        "atomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794020/is-this-a-conforming-observable-behavior-in-the-abstract-machines-sense-where"
+    },
+    {
+      "Created": "2025-10-18T23:54:31Z",
+      "Title": "amcharts heatmap troubles with codepen included",
+      "Tags": [
+        "amcharts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794021/amcharts-heatmap-troubles-with-codepen-included"
+    },
+    {
+      "Created": "2025-10-18T23:55:52Z",
+      "Title": "Linter Errors When Overriding Container\u0027s orientation Methods in Python GTK4",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "gtk",
+        "overriding",
+        "gtk4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794022/linter-errors-when-overriding-containers-orientation-methods-in-python-gtk4"
+    },
+    {
+      "Created": "2025-10-19T00:02:06Z",
+      "Title": "iOS Photos picker UI becomes unresponsive when opened from a Flutter dialog",
+      "Tags": [
+        "ios",
+        "flutter",
+        "ios-simulator",
+        "flutter-image-picker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794023/ios-photos-picker-ui-becomes-unresponsive-when-opened-from-a-flutter-dialog"
+    },
+    {
+      "Created": "2025-10-19T00:07:13Z",
+      "Title": "PyQt: QTreeView as popup of QComboBox",
+      "Tags": [
+        "pyqt",
+        "pyqt5",
+        "qtableview",
+        "qcombobox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794025/pyqt-qtreeview-as-popup-of-qcombobox"
+    },
+    {
+      "Created": "2025-10-19T00:31:48Z",
+      "Title": "tellp() always return zero even if I open a file in app mode",
+      "Tags": [
+        "c\u002B\u002B",
+        "ofstream"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794032/tellp-always-return-zero-even-if-i-open-a-file-in-app-mode"
+    }
+  ]
+}

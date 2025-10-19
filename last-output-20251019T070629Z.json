@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-19T06:59:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T06:10:07Z",
+      "Title": "Internal implemention of Neo4j\u0027s RBAC to handle conflicting privileges assigned for the same role",
+      "Tags": [
+        "neo4j",
+        "rbac",
+        "whitelist",
+        "blacklist"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794115/internal-implemention-of-neo4js-rbac-to-handle-conflicting-privileges-assigned"
+    },
+    {
+      "Created": "2025-10-19T06:40:08Z",
+      "Title": "Can\u0027t get AWS Lambda Powertools dynamic routes to work",
+      "Tags": [
+        "amazon-web-services",
+        "aws-lambda",
+        "aws-lambda-powertools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794126/cant-get-aws-lambda-powertools-dynamic-routes-to-work"
+    },
+    {
+      "Created": "2025-10-19T06:59:13Z",
+      "Title": "Jetpack Compose: How to keep multiple sticky headers together in LazyColumn?",
+      "Tags": [
+        "android",
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794131/jetpack-compose-how-to-keep-multiple-sticky-headers-together-in-lazycolumn"
+    }
+  ]
+}

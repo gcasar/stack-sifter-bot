@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-19T13:55:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T13:34:09Z",
+      "Title": "How to obtain kerning values for glyph pairs using foliojs/fontkit library?",
+      "Tags": [
+        "javascript",
+        "fonts",
+        "typography",
+        "opentype"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794295/how-to-obtain-kerning-values-for-glyph-pairs-using-foliojs-fontkit-library"
+    },
+    {
+      "Created": "2025-10-19T13:34:43Z",
+      "Title": "Lean4 problem when replacing theorem with lemma",
+      "Tags": [
+        "lean"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794296/lean4-problem-when-replacing-theorem-with-lemma"
+    },
+    {
+      "Created": "2025-10-19T13:55:15Z",
+      "Title": "Android elevation not respecting borderRadius in React Native",
+      "Tags": [
+        "reactjs",
+        "react-native",
+        "shadow",
+        "elevation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794307/android-elevation-not-respecting-borderradius-in-react-native"
+    }
+  ]
+}

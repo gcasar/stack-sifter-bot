@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-19T19:03:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T18:14:56Z",
+      "Title": "Will moving a map inside an object create a memory leak?",
+      "Tags": [
+        "c\u002B\u002B",
+        "move"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794421/will-moving-a-map-inside-an-object-create-a-memory-leak"
+    },
+    {
+      "Created": "2025-10-19T18:26:54Z",
+      "Title": "Cannot connect to my gmail properly using Python langchain \u0026 gmail API",
+      "Tags": [
+        "python",
+        "gmail-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794428/cannot-connect-to-my-gmail-properly-using-python-langchain-gmail-api"
+    },
+    {
+      "Created": "2025-10-19T18:30:09Z",
+      "Title": "dataproc serverless slow consume kafka topic",
+      "Tags": [
+        "apache-spark",
+        "apache-kafka",
+        "consumer",
+        "dataproc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794432/dataproc-serverless-slow-consume-kafka-topic"
+    },
+    {
+      "Created": "2025-10-19T18:56:07Z",
+      "Title": "Catch error in python and try to automatically solve from the output of the Exception",
+      "Tags": [
+        "python",
+        "exception",
+        "try-catch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794439/catch-error-in-python-and-try-to-automatically-solve-from-the-output-of-the-exce"
+    },
+    {
+      "Created": "2025-10-19T19:03:42Z",
+      "Title": "How to compute semantic similarity between two image datasets?",
+      "Tags": [
+        "tensorflow",
+        "deep-learning",
+        "cosine-similarity",
+        "openaiembeddings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794442/how-to-compute-semantic-similarity-between-two-image-datasets"
+    }
+  ]
+}

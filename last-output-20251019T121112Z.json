@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-19T12:02:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T11:37:00Z",
+      "Title": "Parse JSON string to JSON object from Power Pages return values",
+      "Tags": [
+        "javascript",
+        "json",
+        "power-automate",
+        "powerapps-portal",
+        "power-pages"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794247/parse-json-string-to-json-object-from-power-pages-return-values"
+    },
+    {
+      "Created": "2025-10-19T12:02:56Z",
+      "Title": "Resources not exposed using Spring AI 1.1.0",
+      "Tags": [
+        "model-context-protocol",
+        "spring-ai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794254/resources-not-exposed-using-spring-ai-1-1-0"
+    }
+  ]
+}

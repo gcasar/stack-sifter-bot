@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-19T19:51:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T19:21:27Z",
+      "Title": "Snowflake: SQL equivalent of INSERT INTO table BY NAME",
+      "Tags": [
+        "snowflake-cloud-data-platform",
+        "sql-insert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794448/snowflake-sql-equivalent-of-insert-into-table-by-name"
+    },
+    {
+      "Created": "2025-10-19T19:48:01Z",
+      "Title": "I have a variable with 3 factors. Can I do an lm where I get the effect for all 3 factors individually but the interaction for 2 of 3 taken together?",
+      "Tags": [
+        "r",
+        "lm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794461/i-have-a-variable-with-3-factors-can-i-do-an-lm-where-i-get-the-effect-for-all"
+    },
+    {
+      "Created": "2025-10-19T19:48:26Z",
+      "Title": "R8 will not remove unused resources from a library I\u0027m using, how do I get rid of them?",
+      "Tags": [
+        "android",
+        "android-r8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794462/r8-will-not-remove-unused-resources-from-a-library-im-using-how-do-i-get-rid-o"
+    },
+    {
+      "Created": "2025-10-19T19:51:26Z",
+      "Title": "Why can we use a lambda coming from a parameter in a constant expression?",
+      "Tags": [
+        "c\u002B\u002B",
+        "lambda",
+        "c\u002B\u002B17",
+        "constexpr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794466/why-can-we-use-a-lambda-coming-from-a-parameter-in-a-constant-expression"
+    }
+  ]
+}

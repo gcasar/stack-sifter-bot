@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-19T02:14:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T01:36:28Z",
+      "Title": "Making a custom build target with Bazel to specify custom kernel config flags",
+      "Tags": [
+        "build",
+        "linux-kernel",
+        "bazel",
+        "android-source"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794054/making-a-custom-build-target-with-bazel-to-specify-custom-kernel-config-flags"
+    },
+    {
+      "Created": "2025-10-19T01:44:19Z",
+      "Title": "Revalidate Pac4j saved Profile",
+      "Tags": [
+        "pac4j",
+        "pac4j-oidc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794056/revalidate-pac4j-saved-profile"
+    },
+    {
+      "Created": "2025-10-19T02:07:20Z",
+      "Title": "what type of object is KBArticleIDs returned from Microsoft.Update.Session Searcher?",
+      "Tags": [
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794059/what-type-of-object-is-kbarticleids-returned-from-microsoft-update-session-searc"
+    },
+    {
+      "Created": "2025-10-19T02:14:33Z",
+      "Title": "Automating conversion from EF Core scaffolded DbContext to Clean Architecture pattern",
+      "Tags": [
+        "c#",
+        "powershell",
+        "entity-framework-core",
+        "code-generation",
+        "clean-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794062/automating-conversion-from-ef-core-scaffolded-dbcontext-to-clean-architecture-pa"
+    }
+  ]
+}

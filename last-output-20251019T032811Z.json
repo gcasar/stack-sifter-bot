@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-19T03:22:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T02:15:18Z",
+      "Title": "Upload files to the server automatically when the application starts [closed]",
+      "Tags": [
+        "c#",
+        "asp.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794063/upload-files-to-the-server-automatically-when-the-application-starts"
+    },
+    {
+      "Created": "2025-10-19T02:53:59Z",
+      "Title": "Mouse scroll wheel feels laggy and not smooth in my Flutter website",
+      "Tags": [
+        "flutter",
+        "scroll",
+        "flutter-dependencies",
+        "flutter-animation",
+        "smooth-scrolling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794070/mouse-scroll-wheel-feels-laggy-and-not-smooth-in-my-flutter-website"
+    },
+    {
+      "Created": "2025-10-19T03:09:31Z",
+      "Title": "Implement a Convolution(Conv2D) in Numpy",
+      "Tags": [
+        "numpy",
+        "machine-learning",
+        "deep-learning",
+        "neural-network",
+        "data-science"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794072/implement-a-convolutionconv2d-in-numpy"
+    },
+    {
+      "Created": "2025-10-19T03:22:52Z",
+      "Title": "How do I use the libjpeg_turbo module, that is in the BCR, as a dependency in my build? It compiles but does not link",
+      "Tags": [
+        "c\u002B\u002B",
+        "bazel",
+        "bazel-cpp",
+        "bzlmod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794074/how-do-i-use-the-libjpeg-turbo-module-that-is-in-the-bcr-as-a-dependency-in-my"
+    }
+  ]
+}

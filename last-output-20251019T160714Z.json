@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-19T16:05:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T15:14:26Z",
+      "Title": "pywebview: error maximum recursion depth exceeded before pressing button when passing pandas/model objects in js_api",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "serialization",
+        "pywebview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794345/pywebview-error-maximum-recursion-depth-exceeded-before-pressing-button-when-pa"
+    },
+    {
+      "Created": "2025-10-19T15:16:43Z",
+      "Title": "Chapel function with a generic array argument",
+      "Tags": [
+        "chapel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794346/chapel-function-with-a-generic-array-argument"
+    },
+    {
+      "Created": "2025-10-19T15:22:38Z",
+      "Title": "Failed to build pydensecrf error: failed-wheel-build-for-install Failed to build installable wheels for some pyproject.toml based projects pydensecrf",
+      "Tags": [
+        "installation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794348/failed-to-build-pydensecrf-error-failed-wheel-build-for-install-failed-to-build"
+    },
+    {
+      "Created": "2025-10-19T15:26:16Z",
+      "Title": "JPA : how to get benefit of the 2nd level cache after Hibernate changed to prevent select n\u002B1",
+      "Tags": [
+        "hibernate",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794349/jpa-how-to-get-benefit-of-the-2nd-level-cache-after-hibernate-changed-to-preve"
+    },
+    {
+      "Created": "2025-10-19T15:37:03Z",
+      "Title": "Multiple selectors using variables for the selectors",
+      "Tags": [
+        "javascript",
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794356/multiple-selectors-using-variables-for-the-selectors"
+    },
+    {
+      "Created": "2025-10-19T16:05:16Z",
+      "Title": "Save button in Laravel Blade \u002B JavaScript fetch not triggering (no console log, no network request)",
+      "Tags": [
+        "javascript",
+        "html",
+        "laravel",
+        "laravel-blade",
+        "fetch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794360/save-button-in-laravel-blade-javascript-fetch-not-triggering-no-console-log"
+    }
+  ]
+}

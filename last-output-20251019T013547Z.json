@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-19T01:28:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T00:43:15Z",
+      "Title": "mingw32-make application was unable to start correctly (0xC0000142)",
+      "Tags": [
+        "makefile",
+        "mingw-w64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794035/mingw32-make-application-was-unable-to-start-correctly-0xc0000142"
+    },
+    {
+      "Created": "2025-10-19T00:51:18Z",
+      "Title": "Can a partial multikey index in MongoDB index only certain subdocuments of an array?",
+      "Tags": [
+        "database",
+        "mongodb",
+        "indexing",
+        "nosql",
+        "mongodb-indexes"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794038/can-a-partial-multikey-index-in-mongodb-index-only-certain-subdocuments-of-an-ar"
+    },
+    {
+      "Created": "2025-10-19T01:05:51Z",
+      "Title": "Spring WebFlux \u002B Spring AI \u002B OpenRouter: \u0022block()/blockFirst()/blockLast() are blocking\u0022 error in coroutine",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "spring-ai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794046/spring-webflux-spring-ai-openrouter-block-blockfirst-blocklast-are-b"
+    },
+    {
+      "Created": "2025-10-19T01:28:58Z",
+      "Title": "Unable to Connect to Azure Blob Storage from Java Using Managed Identity",
+      "Tags": [
+        "java",
+        "azure",
+        "azure-blob-storage",
+        "azure-managed-identity",
+        "azure-java-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794051/unable-to-connect-to-azure-blob-storage-from-java-using-managed-identity"
+    }
+  ]
+}

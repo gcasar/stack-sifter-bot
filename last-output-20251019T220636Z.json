@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-19T21:47:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T21:11:25Z",
+      "Title": "Pseudocode for choosing the closest elevator (up or down) [closed]",
+      "Tags": [
+        "algorithm",
+        "if-statement",
+        "while-loop",
+        "pseudocode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794494/pseudocode-for-choosing-the-closest-elevator-up-or-down"
+    },
+    {
+      "Created": "2025-10-19T21:33:55Z",
+      "Title": "How to lint ERB files to detect missing equal signs?",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby",
+        "erb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794499/how-to-lint-erb-files-to-detect-missing-equal-signs"
+    },
+    {
+      "Created": "2025-10-19T21:44:51Z",
+      "Title": "Python PDF Parse Methods [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794503/python-pdf-parse-methods"
+    },
+    {
+      "Created": "2025-10-19T21:47:24Z",
+      "Title": "IDA - how to make a registration check always return true when entering values in a field?",
+      "Tags": [
+        "reverse-engineering",
+        "malware",
+        "ida"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794505/ida-how-to-make-a-registration-check-always-return-true-when-entering-values-i"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-19T14:53:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T14:23:50Z",
+      "Title": "Jumping does not work when using the camera in SFML 3.0.0",
+      "Tags": [
+        "c\u002B\u002B",
+        "sfml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794325/jumping-does-not-work-when-using-the-camera-in-sfml-3-0-0"
+    },
+    {
+      "Created": "2025-10-19T14:30:25Z",
+      "Title": "How to save Canvas Video Recording on Tauri Android",
+      "Tags": [
+        "javascript",
+        "kotlin",
+        "webm",
+        "tauri"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794328/how-to-save-canvas-video-recording-on-tauri-android"
+    },
+    {
+      "Created": "2025-10-19T14:38:39Z",
+      "Title": "Android (Java) usinf RecyclerView: \u0027ViewHolder\u0027 cannot be safely cast to \u0027RowViewHolder\u0027?",
+      "Tags": [
+        "android-studio",
+        "android-recyclerview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794331/android-java-usinf-recyclerview-viewholder-cannot-be-safely-cast-to-rowvie"
+    },
+    {
+      "Created": "2025-10-19T14:53:48Z",
+      "Title": "Cs 161 Project 1 Spring 2025",
+      "Tags": [
+        "security",
+        "network-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794338/cs-161-project-1-spring-2025"
+    }
+  ]
+}

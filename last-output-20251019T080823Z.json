@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-19T07:48:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T07:26:09Z",
+      "Title": "CRC16 mismatch when validating custom .pbs file header (Expected vs Actual CRC difference)",
+      "Tags": [
+        "c#",
+        "reverse-engineering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794141/crc16-mismatch-when-validating-custom-pbs-file-header-expected-vs-actual-crc-d"
+    },
+    {
+      "Created": "2025-10-19T07:44:58Z",
+      "Title": "#Include is being received but being disregarded after a short time",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794149/include-is-being-received-but-being-disregarded-after-a-short-time"
+    },
+    {
+      "Created": "2025-10-19T07:48:02Z",
+      "Title": "How to repeat a series of rows, changing their shared date, in Google Sheets",
+      "Tags": [
+        "google-sheets",
+        "spreadsheet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794151/how-to-repeat-a-series-of-rows-changing-their-shared-date-in-google-sheets"
+    }
+  ]
+}

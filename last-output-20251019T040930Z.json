@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-19T03:43:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T03:32:12Z",
+      "Title": "How to update a single field of an entity using PUT in Spring Boot?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "spring-data-jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794077/how-to-update-a-single-field-of-an-entity-using-put-in-spring-boot"
+    },
+    {
+      "Created": "2025-10-19T03:43:43Z",
+      "Title": "Azure Document Intelligence API Not Returning Query Fields When Using Layout Model",
+      "Tags": [
+        "json",
+        "rest",
+        "postman",
+        "azure-ai",
+        "azure-document-intelligence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794080/azure-document-intelligence-api-not-returning-query-fields-when-using-layout-mod"
+    }
+  ]
+}

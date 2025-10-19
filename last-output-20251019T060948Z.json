@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-19T06:07:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T05:12:47Z",
+      "Title": "trouble connecting my database to Django server on deployment machine",
+      "Tags": [
+        "django",
+        "postgresql",
+        "amazon-web-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794098/trouble-connecting-my-database-to-django-server-on-deployment-machine"
+    },
+    {
+      "Created": "2025-10-19T05:18:01Z",
+      "Title": ".Net 9 C# equivalent of Python re.compile to parse Uri strings",
+      "Tags": [
+        "c#",
+        ".net",
+        "regex",
+        "uri"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794101/net-9-c-sharp-equivalent-of-python-re-compile-to-parse-uri-strings"
+    },
+    {
+      "Created": "2025-10-19T05:38:20Z",
+      "Title": "How to get reformatted text for dynamically floating box over a container using HTML/CSS and JavaScript?",
+      "Tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794107/how-to-get-reformatted-text-for-dynamically-floating-box-over-a-container-using"
+    },
+    {
+      "Created": "2025-10-19T06:00:01Z",
+      "Title": "How to take exponent of a value with units in F#?",
+      "Tags": [
+        "f#",
+        "units-of-measurement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794112/how-to-take-exponent-of-a-value-with-units-in-f"
+    },
+    {
+      "Created": "2025-10-19T06:07:53Z",
+      "Title": "Using system(\u0022CLS\u0022); statement",
+      "Tags": [
+        "c\u002B\u002B",
+        "typing",
+        "primitive",
+        "nokia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794114/using-systemcls-statement"
+    }
+  ]
+}

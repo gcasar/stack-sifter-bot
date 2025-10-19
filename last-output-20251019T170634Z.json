@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-19T16:59:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T16:49:44Z",
+      "Title": "D3.js how to keep two xScale\u0027s domains consistent when applying a zoom transformation",
+      "Tags": [
+        "javascript",
+        "d3.js",
+        "charts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794380/d3-js-how-to-keep-two-xscales-domains-consistent-when-applying-a-zoom-transform"
+    },
+    {
+      "Created": "2025-10-19T16:56:11Z",
+      "Title": "is there a windows dll that provides fprintf etc",
+      "Tags": [
+        "winapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794386/is-there-a-windows-dll-that-provides-fprintf-etc"
+    },
+    {
+      "Created": "2025-10-19T16:59:00Z",
+      "Title": "How to append a tspan to a svg\u0027s text element?",
+      "Tags": [
+        "javascript",
+        "html",
+        "svg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794387/how-to-append-a-tspan-to-a-svgs-text-element"
+    }
+  ]
+}

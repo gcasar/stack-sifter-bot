@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-19T18:06:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T17:17:40Z",
+      "Title": "How to import \u0027lightweight-charts\u0027 with ES module way?",
+      "Tags": [
+        "javascript",
+        "package.json",
+        "tsconfig",
+        "lightweight-charts",
+        "esmodules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794396/how-to-import-lightweight-charts-with-es-module-way"
+    },
+    {
+      "Created": "2025-10-19T17:23:04Z",
+      "Title": "Why does ReadConsoleInput sometimes miss mouse clicks?",
+      "Tags": [
+        "c",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794399/why-does-readconsoleinput-sometimes-miss-mouse-clicks"
+    },
+    {
+      "Created": "2025-10-19T17:24:53Z",
+      "Title": "Sort entries in an XML file using Saxon 12.9 and an XSLT 3.0 stylesheet",
+      "Tags": [
+        "xml",
+        "xslt",
+        "xml-parsing",
+        "xml-namespaces",
+        "saxon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794400/sort-entries-in-an-xml-file-using-saxon-12-9-and-an-xslt-3-0-stylesheet"
+    },
+    {
+      "Created": "2025-10-19T17:36:25Z",
+      "Title": "Is the zsh anonymous function in powerlevel10k config necessary?",
+      "Tags": [
+        "zsh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794405/is-the-zsh-anonymous-function-in-powerlevel10k-config-necessary"
+    },
+    {
+      "Created": "2025-10-19T17:47:26Z",
+      "Title": "Repository Interface to make database bulk update with Entity Framework Core 8.0.6",
+      "Tags": [
+        "asp.net-core",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794409/repository-interface-to-make-database-bulk-update-with-entity-framework-core-8-0"
+    },
+    {
+      "Created": "2025-10-19T17:47:45Z",
+      "Title": "Looking for a C\u002B\u002B design",
+      "Tags": [
+        "c\u002B\u002B",
+        "oop",
+        "design-patterns"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794410/looking-for-a-c-design"
+    },
+    {
+      "Created": "2025-10-19T17:58:44Z",
+      "Title": "How do I configure linkerd with docker along with powershell",
+      "Tags": [
+        "docker",
+        "powershell",
+        "kubernetes",
+        "devops",
+        "linkerd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794413/how-do-i-configure-linkerd-with-docker-along-with-powershell"
+    },
+    {
+      "Created": "2025-10-19T18:05:13Z",
+      "Title": "What is causing the mouse scroll wheel to input characters into my code?",
+      "Tags": [
+        "python",
+        "keyboard-events",
+        "mousewheel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794417/what-is-causing-the-mouse-scroll-wheel-to-input-characters-into-my-code"
+    },
+    {
+      "Created": "2025-10-19T18:06:22Z",
+      "Title": "How to use git-svn to clone all revisions?",
+      "Tags": [
+        "git",
+        "svn",
+        "git-svn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794419/how-to-use-git-svn-to-clone-all-revisions"
+    }
+  ]
+}

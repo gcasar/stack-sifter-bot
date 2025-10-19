@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-19T04:50:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T04:45:02Z",
+      "Title": "Error connecting Mongo DB with n8n from Docker Containers",
+      "Tags": [
+        "mongodb",
+        "docker",
+        "n8n",
+        "self-hosted"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794091/error-connecting-mongo-db-with-n8n-from-docker-containers"
+    },
+    {
+      "Created": "2025-10-19T04:49:39Z",
+      "Title": "Arch-hyprland boots only when plugged-in in dell lattitude 3400",
+      "Tags": [
+        "linux",
+        "config",
+        "bootloader",
+        "bios",
+        "arch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794094/arch-hyprland-boots-only-when-plugged-in-in-dell-lattitude-3400"
+    },
+    {
+      "Created": "2025-10-19T04:50:10Z",
+      "Title": "How to create a Capistrano hook but only within the context of another task?",
+      "Tags": [
+        "ruby-on-rails",
+        "ruby",
+        "capistrano"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794095/how-to-create-a-capistrano-hook-but-only-within-the-context-of-another-task"
+    }
+  ]
+}

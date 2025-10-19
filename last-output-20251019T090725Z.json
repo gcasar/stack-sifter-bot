@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-19T09:04:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T08:10:13Z",
+      "Title": "husky setup failed at precommit with code 126",
+      "Tags": [
+        "eslint",
+        "pre-commit",
+        "husky"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794160/husky-setup-failed-at-precommit-with-code-126"
+    },
+    {
+      "Created": "2025-10-19T08:22:31Z",
+      "Title": "Issue to compute the specular prefiltered environment map of an HDR 2K texture",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "glsl",
+        "shader",
+        "rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794167/issue-to-compute-the-specular-prefiltered-environment-map-of-an-hdr-2k-texture"
+    },
+    {
+      "Created": "2025-10-19T08:34:16Z",
+      "Title": "How do I get a conversation going with a MistralAI Agent using LangChain?",
+      "Tags": [
+        "langchain",
+        "large-language-model",
+        "langchain-agents",
+        "mistral-ai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794171/how-do-i-get-a-conversation-going-with-a-mistralai-agent-using-langchain"
+    },
+    {
+      "Created": "2025-10-19T08:42:47Z",
+      "Title": "How to use and potentially update Nix package \u0060uv\u0060 for using UV python manager globally on Mac system?",
+      "Tags": [
+        "python",
+        "macos",
+        "nix",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794174/how-to-use-and-potentially-update-nix-package-uv-for-using-uv-python-manager-g"
+    },
+    {
+      "Created": "2025-10-19T08:55:56Z",
+      "Title": "Is there an ANSI code to get the XY of the mouse in a terminal using ANSI without rounding down X?",
+      "Tags": [
+        "terminal",
+        "coordinates",
+        "mouseevent",
+        "ansi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794182/is-there-an-ansi-code-to-get-the-xy-of-the-mouse-in-a-terminal-using-ansi-withou"
+    },
+    {
+      "Created": "2025-10-19T09:04:41Z",
+      "Title": "VS Code No Output when debugging, Has output when running",
+      "Tags": [
+        "c",
+        "visual-studio-code",
+        "debugging",
+        "output"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794187/vs-code-no-output-when-debugging-has-output-when-running"
+    }
+  ]
+}

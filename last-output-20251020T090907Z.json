@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-20T09:04:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T08:30:49Z",
+      "Title": "Postgresql driver memory leak",
+      "Tags": [
+        "java",
+        "postgresql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794718/postgresql-driver-memory-leak"
+    },
+    {
+      "Created": "2025-10-20T08:45:36Z",
+      "Title": "CMake Error: \u0022file INSTALL cannot find file: File exists\u0022 when building linphone-desktop",
+      "Tags": [
+        "windows",
+        "cmake",
+        "linphone",
+        "linphone-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794727/cmake-error-file-install-cannot-find-file-file-exists-when-building-linphone"
+    },
+    {
+      "Created": "2025-10-20T08:56:11Z",
+      "Title": "Normalize URLs which might be encoded or not",
+      "Tags": [
+        "java",
+        "urlencode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794732/normalize-urls-which-might-be-encoded-or-not"
+    },
+    {
+      "Created": "2025-10-20T09:01:26Z",
+      "Title": "Increase the maximum amount of lines in Visual Studio\u0027s output window",
+      "Tags": [
+        "visual-studio",
+        "build",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794735/increase-the-maximum-amount-of-lines-in-visual-studios-output-window"
+    },
+    {
+      "Created": "2025-10-20T09:03:31Z",
+      "Title": "problem with PyCharm downloading packages",
+      "Tags": [
+        "installation",
+        "package",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794736/problem-with-pycharm-downloading-packages"
+    },
+    {
+      "Created": "2025-10-20T09:04:05Z",
+      "Title": "Making an AAC packet usable with creatSourceBuffer audio api to be usable with HLS on Safari",
+      "Tags": [
+        "web-audio-api",
+        "hls.js",
+        "webcodecs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794737/making-an-aac-packet-usable-with-creatsourcebuffer-audio-api-to-be-usable-with-h"
+    }
+  ]
+}

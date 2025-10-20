@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-20T03:10:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T02:44:53Z",
+      "Title": "Go cgo pthread_create failed after 2 days runtime on Linux",
+      "Tags": [
+        "linux",
+        "sqlite",
+        "go",
+        "pthreads",
+        "cgo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794582/go-cgo-pthread-create-failed-after-2-days-runtime-on-linux"
+    },
+    {
+      "Created": "2025-10-20T03:10:28Z",
+      "Title": "How to properly cache Nuget files across Pipeline stages in ADO",
+      "Tags": [
+        "yaml",
+        "azure-pipelines-yaml",
+        "pipeline-cache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794587/how-to-properly-cache-nuget-files-across-pipeline-stages-in-ado"
+    }
+  ]
+}

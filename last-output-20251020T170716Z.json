@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-20T16:54:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T16:08:17Z",
+      "Title": "PlayerPrefs won\u0027t update between simultaneous players",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "webgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795078/playerprefs-wont-update-between-simultaneous-players"
+    },
+    {
+      "Created": "2025-10-20T16:33:41Z",
+      "Title": "Ant scp/ssh task abort cause misread of certificate",
+      "Tags": [
+        "java",
+        "ant",
+        "continuous-integration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795097/ant-scp-ssh-task-abort-cause-misread-of-certificate"
+    },
+    {
+      "Created": "2025-10-20T16:41:57Z",
+      "Title": "Continue in C jumps the iteration of the outer loop?",
+      "Tags": [
+        "c",
+        "text-parsing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795106/continue-in-c-jumps-the-iteration-of-the-outer-loop"
+    },
+    {
+      "Created": "2025-10-20T16:42:15Z",
+      "Title": "What is an example of an XML file merge using Saxon and an XSLT 3.0 stylesheet?",
+      "Tags": [
+        "xml",
+        "xslt",
+        "xml-parsing",
+        "xml-namespaces",
+        "saxon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795107/what-is-an-example-of-an-xml-file-merge-using-saxon-and-an-xslt-3-0-stylesheet"
+    },
+    {
+      "Created": "2025-10-20T16:43:11Z",
+      "Title": "Allocation Squashing by returning ReadOnlySpan over member variables via MemoryMarshal",
+      "Tags": [
+        "c#",
+        "memory-management",
+        "memory-movement"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795108/allocation-squashing-by-returning-readonlyspan-over-member-variables-via-memorym"
+    },
+    {
+      "Created": "2025-10-20T16:54:17Z",
+      "Title": "Is there a way to wipe a line of output from an input command in python?",
+      "Tags": [
+        "python",
+        "output"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795115/is-there-a-way-to-wipe-a-line-of-output-from-an-input-command-in-python"
+    }
+  ]
+}

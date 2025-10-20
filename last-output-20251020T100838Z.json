@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-20T10:03:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T09:33:52Z",
+      "Title": "How do I place a Dynamically-Sized-Type in an Rc?",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794760/how-do-i-place-a-dynamically-sized-type-in-an-rc"
+    },
+    {
+      "Created": "2025-10-20T09:45:24Z",
+      "Title": "DMN File Import Across Multiple Folders in Editor",
+      "Tags": [
+        "quarkus",
+        "usability",
+        "dmn",
+        "kogito"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794769/dmn-file-import-across-multiple-folders-in-editor"
+    },
+    {
+      "Created": "2025-10-20T09:46:34Z",
+      "Title": "Pages and post types not showing after migration",
+      "Tags": [
+        "wordpress",
+        "database-migration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794770/pages-and-post-types-not-showing-after-migration"
+    },
+    {
+      "Created": "2025-10-20T09:51:22Z",
+      "Title": "How can I create a free Google Cloud Organization using Cloud Identity (without paying for Google Workspace)?",
+      "Tags": [
+        "google-cloud-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794771/how-can-i-create-a-free-google-cloud-organization-using-cloud-identity-without"
+    },
+    {
+      "Created": "2025-10-20T10:03:21Z",
+      "Title": "Can\u0027t use List Templates or even invalidate method in AAOS navigation templated apps for car level API 4",
+      "Tags": [
+        "android-automotive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794781/cant-use-list-templates-or-even-invalidate-method-in-aaos-navigation-templated"
+    }
+  ]
+}

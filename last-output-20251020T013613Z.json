@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-20T01:33:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T00:50:16Z",
+      "Title": "Installing Favorite Plugins Into Eclipse Marketplace",
+      "Tags": [
+        "eclipse",
+        "eclipse-plugin",
+        "eclipse-marketplace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794555/installing-favorite-plugins-into-eclipse-marketplace"
+    },
+    {
+      "Created": "2025-10-20T01:06:30Z",
+      "Title": "C\u002B\u002B20 Modules on MSVC - \u0022identifier \u0027export\u0027/\u0027import\u0027 is undefined\u0022 - Seeking Workarounds",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B",
+        "cmake",
+        "c\u002B\u002B-modules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794558/c20-modules-on-msvc-identifier-export-import-is-undefined-seeking-wo"
+    },
+    {
+      "Created": "2025-10-20T01:11:16Z",
+      "Title": "Commands out of sync mySQL error - possible missing commit",
+      "Tags": [
+        "mysql",
+        "mysql-connector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794559/commands-out-of-sync-mysql-error-possible-missing-commit"
+    },
+    {
+      "Created": "2025-10-20T01:15:27Z",
+      "Title": "Swagger doesn\u0027t come up when I start debugging",
+      "Tags": [
+        "c#",
+        "minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794561/swagger-doesnt-come-up-when-i-start-debugging"
+    },
+    {
+      "Created": "2025-10-20T01:22:26Z",
+      "Title": "Neovim LSP new syntax not working for fortls and texlab",
+      "Tags": [
+        "fortran",
+        "neovim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794563/neovim-lsp-new-syntax-not-working-for-fortls-and-texlab"
+    },
+    {
+      "Created": "2025-10-20T01:29:24Z",
+      "Title": "getting results from invoke-sqlcmd",
+      "Tags": [
+        "sql-server",
+        "powershell"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794564/getting-results-from-invoke-sqlcmd"
+    },
+    {
+      "Created": "2025-10-20T01:33:21Z",
+      "Title": "Automating Clean Architecture Integration: Bridging EF Core Scaffolding, PowerShell, and C# Reflection",
+      "Tags": [
+        "c#",
+        ".net",
+        "powershell",
+        "rest",
+        "cqrs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794565/automating-clean-architecture-integration-bridging-ef-core-scaffolding-powersh"
+    }
+  ]
+}

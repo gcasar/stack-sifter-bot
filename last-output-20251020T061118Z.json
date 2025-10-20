@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-20T05:58:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T05:51:45Z",
+      "Title": "Optimizing WinUI ListView",
+      "Tags": [
+        "c\u002B\u002B",
+        "xaml",
+        "winui-3",
+        "winui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794631/optimizing-winui-listview"
+    },
+    {
+      "Created": "2025-10-20T05:58:57Z",
+      "Title": "Data is \u0027undefined\u0027 when outside of my useEffect hook",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "electron",
+        "gps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794634/data-is-undefined-when-outside-of-my-useeffect-hook"
+    }
+  ]
+}

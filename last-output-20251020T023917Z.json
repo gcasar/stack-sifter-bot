@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-20T02:38:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T01:36:13Z",
+      "Title": "What\u2019s the correct way to fetch this API from the client side without hitting CORS errors?",
+      "Tags": [
+        "javascript",
+        "deployment",
+        "cors",
+        "fetch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794566/what-s-the-correct-way-to-fetch-this-api-from-the-client-side-without-hitting-co"
+    },
+    {
+      "Created": "2025-10-20T01:55:16Z",
+      "Title": "Setting the focus in .ascx user controls",
+      "Tags": [
+        "asp.net",
+        "vb.net",
+        "focus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794571/setting-the-focus-in-ascx-user-controls"
+    },
+    {
+      "Created": "2025-10-20T02:26:29Z",
+      "Title": "Redis stops hepatic in rocky linux",
+      "Tags": [
+        "linux",
+        "redis",
+        "containers",
+        "rocky-os"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794579/redis-stops-hepatic-in-rocky-linux"
+    },
+    {
+      "Created": "2025-10-20T02:38:06Z",
+      "Title": "How to connect an Arduino Uno R4 to Azure IOT Hub",
+      "Tags": [
+        "arduino-uno",
+        "azure-iot-hub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794580/how-to-connect-an-arduino-uno-r4-to-azure-iot-hub"
+    }
+  ]
+}

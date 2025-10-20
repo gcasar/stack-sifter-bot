@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-20T13:13:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T12:19:38Z",
+      "Title": "breakglass/elevated permissions?",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794884/breakglass-elevated-permissions"
+    },
+    {
+      "Created": "2025-10-20T12:23:01Z",
+      "Title": "watch() value in React Hook Form isn\u2019t updated fast enough before API call inside useEffect",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "async-await",
+        "react-hook-form"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794887/watch-value-in-react-hook-form-isn-t-updated-fast-enough-before-api-call-insid"
+    },
+    {
+      "Created": "2025-10-20T12:41:20Z",
+      "Title": "how to create BM25 field in Milvus database",
+      "Tags": [
+        "python",
+        "milvus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794902/how-to-create-bm25-field-in-milvus-database"
+    },
+    {
+      "Created": "2025-10-20T12:55:12Z",
+      "Title": "Make gitlab pipeline conditional on being the pipeline before the merge train one",
+      "Tags": [
+        "gitlab",
+        "gitlab-ci"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794921/make-gitlab-pipeline-conditional-on-being-the-pipeline-before-the-merge-train-on"
+    },
+    {
+      "Created": "2025-10-20T12:59:12Z",
+      "Title": "Docsearch Typesense scraper only finds records on Docusaurus landing page",
+      "Tags": [
+        "web-scraping",
+        "documentation",
+        "docusaurus",
+        "typesense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794925/docsearch-typesense-scraper-only-finds-records-on-docusaurus-landing-page"
+    },
+    {
+      "Created": "2025-10-20T13:05:27Z",
+      "Title": "Terraform code to hove one topic and multiple subscribers",
+      "Tags": [
+        "publish-subscribe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794929/terraform-code-to-hove-one-topic-and-multiple-subscribers"
+    },
+    {
+      "Created": "2025-10-20T13:06:23Z",
+      "Title": "Vuetify v-autocomplete freezes with large dataset (~53k items)",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "vue.js",
+        "vuetify.js",
+        "v-autocomplete"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794930/vuetify-v-autocomplete-freezes-with-large-dataset-53k-items"
+    },
+    {
+      "Created": "2025-10-20T13:11:43Z",
+      "Title": "Django can not find static image file",
+      "Tags": [
+        "html",
+        "django",
+        "amazon-web-services",
+        "image",
+        "static"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794933/django-can-not-find-static-image-file"
+    },
+    {
+      "Created": "2025-10-20T13:13:08Z",
+      "Title": "Isolation of a custom multiprocessing manager and how to update internal state",
+      "Tags": [
+        "python",
+        "multiprocessing",
+        "python-multiprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794935/isolation-of-a-custom-multiprocessing-manager-and-how-to-update-internal-state"
+    }
+  ]
+}

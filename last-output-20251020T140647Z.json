@@ -1,0 +1,70 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-20T14:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T13:39:23Z",
+      "Title": "Snakemake slurm cluster status in version 9.6.3",
+      "Tags": [
+        "cluster-computing",
+        "slurm",
+        "snakemake",
+        "job-scheduling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794953/snakemake-slurm-cluster-status-in-version-9-6-3"
+    },
+    {
+      "Created": "2025-10-20T13:46:19Z",
+      "Title": "Is it possible to get Google API access token directly from Firebase Authentication without OAuth?",
+      "Tags": [
+        "firebase",
+        "oauth",
+        "google-api",
+        "access-token",
+        "refresh-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794957/is-it-possible-to-get-google-api-access-token-directly-from-firebase-authenticat"
+    },
+    {
+      "Created": "2025-10-20T13:52:55Z",
+      "Title": "How to access usageMetadata (token usage) from GenerateContentResponse using google-genai Java SDK (v1.23.0) with Gemini 2.5 Flash?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "token",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794964/how-to-access-usagemetadata-token-usage-from-generatecontentresponse-using-goo"
+    },
+    {
+      "Created": "2025-10-20T13:53:41Z",
+      "Title": "Basler mono12 save image in c#",
+      "Tags": [
+        "c#",
+        "pylons",
+        "basler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794965/basler-mono12-save-image-in-c-sharp"
+    },
+    {
+      "Created": "2025-10-20T13:54:54Z",
+      "Title": "curl_exec download fails if filename contains \u002Bsign",
+      "Tags": [
+        "php",
+        "curl",
+        "download"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794967/curl-exec-download-fails-if-filename-contains-sign"
+    },
+    {
+      "Created": "2025-10-20T14:02:28Z",
+      "Title": "clang-format inconsistencies across macOS versions",
+      "Tags": [
+        "macos",
+        "clang",
+        "clang-format"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794975/clang-format-inconsistencies-across-macos-versions"
+    }
+  ]
+}

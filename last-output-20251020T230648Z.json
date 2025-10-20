@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-20T23:01:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T22:31:12Z",
+      "Title": "Which memory ordering to use in lockless stack pop() implementation?",
+      "Tags": [
+        "c\u002B\u002B",
+        "atomic",
+        "lock-free",
+        "lockless",
+        "intrusive-containers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795335/which-memory-ordering-to-use-in-lockless-stack-pop-implementation"
+    },
+    {
+      "Created": "2025-10-20T22:44:11Z",
+      "Title": "In Jenkins pipeline/Groovy, how can I keep track of expired time in a timeout{} step?",
+      "Tags": [
+        "groovy",
+        "jenkins-pipeline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795341/in-jenkins-pipeline-groovy-how-can-i-keep-track-of-expired-time-in-a-timeout"
+    },
+    {
+      "Created": "2025-10-20T23:01:34Z",
+      "Title": "CLGeocoder Deprecated - How To Get Structured Fields?",
+      "Tags": [
+        "swift",
+        "clgeocoder",
+        "ios26",
+        "mkreversegeocoder",
+        "clplacemark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795351/clgeocoder-deprecated-how-to-get-structured-fields"
+    }
+  ]
+}

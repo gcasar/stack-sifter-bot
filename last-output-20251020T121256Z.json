@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-20T12:09:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T11:12:55Z",
+      "Title": "why can i only use read() but not fread?",
+      "Tags": [
+        "c\u002B\u002B",
+        "stdin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794831/why-can-i-only-use-read-but-not-fread"
+    },
+    {
+      "Created": "2025-10-20T11:46:47Z",
+      "Title": "How to properly handle native JavaScript confirm() in Laravel Dusk without triggering UnexpectedAlertOpenException",
+      "Tags": [
+        "php",
+        "laravel",
+        "selenium-webdriver",
+        "testing",
+        "laravel-dusk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794862/how-to-properly-handle-native-javascript-confirm-in-laravel-dusk-without-trigg"
+    },
+    {
+      "Created": "2025-10-20T11:55:02Z",
+      "Title": "iOS Widget Extension Provisioning Issue with Unity Cloud Build",
+      "Tags": [
+        "ios",
+        "unity-game-engine",
+        "app-store",
+        "unity-cloud-build"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794867/ios-widget-extension-provisioning-issue-with-unity-cloud-build"
+    },
+    {
+      "Created": "2025-10-20T11:59:50Z",
+      "Title": "How to specify the name while concurrently removing indexes from database",
+      "Tags": [
+        "python",
+        "django",
+        "postgresql",
+        "indexing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794872/how-to-specify-the-name-while-concurrently-removing-indexes-from-database"
+    },
+    {
+      "Created": "2025-10-20T12:02:49Z",
+      "Title": "borb.pdf paint method gives an error about set_padding",
+      "Tags": [
+        "pdf-generation",
+        "borb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794875/borb-pdf-paint-method-gives-an-error-about-set-padding"
+    },
+    {
+      "Created": "2025-10-20T12:03:29Z",
+      "Title": "How to return imputed data using smcfcs?",
+      "Tags": [
+        "smcfcs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794876/how-to-return-imputed-data-using-smcfcs"
+    },
+    {
+      "Created": "2025-10-20T12:06:04Z",
+      "Title": "React image drag - how to find the underlying coordinates of an image in relation to a div container",
+      "Tags": [
+        "reactjs",
+        "function",
+        "offset",
+        "drag",
+        "getboundingclientrect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794880/react-image-drag-how-to-find-the-underlying-coordinates-of-an-image-in-relatio"
+    },
+    {
+      "Created": "2025-10-20T12:09:14Z",
+      "Title": "Run time error 70 Permission Denied - Assistance needed please",
+      "Tags": [
+        "vba",
+        "fso"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794881/run-time-error-70-permission-denied-assistance-needed-please"
+    }
+  ]
+}

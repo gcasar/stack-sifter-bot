@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-20T00:31:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-19T23:08:05Z",
+      "Title": "SOLVED -- How come my coordinates are not aligned when drawing rectangles in pygames",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794521/solved-how-come-my-coordinates-are-not-aligned-when-drawing-rectangles-in-pyg"
+    },
+    {
+      "Created": "2025-10-20T00:19:50Z",
+      "Title": "VS Code from WSL doesn\u0027t auto-connect remotely; which code points to Windows path",
+      "Tags": [
+        "visual-studio-code",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794541/vs-code-from-wsl-doesnt-auto-connect-remotely-which-code-points-to-windows-pat"
+    },
+    {
+      "Created": "2025-10-20T00:23:57Z",
+      "Title": "File \u0022\\python\\lib\\py4j-0.10.9.7-src.zip\\py4j\\protocol.py\u0022, line 326, in get_return_value",
+      "Tags": [
+        "pyspark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794543/file-python-lib-py4j-0-10-9-7-src-zip-py4j-protocol-py-line-326-in-get-retu"
+    },
+    {
+      "Created": "2025-10-20T00:31:21Z",
+      "Title": "What is the proper way to expose JPA managed entities in Java Entity Models?",
+      "Tags": [
+        "java",
+        "hibernate",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794546/what-is-the-proper-way-to-expose-jpa-managed-entities-in-java-entity-models"
+    },
+    {
+      "Created": "2025-10-20T00:31:48Z",
+      "Title": "Why my ubuntu 22.04.2 LTS got this ERROR when install nvidia driver and cuda?",
+      "Tags": [
+        "linux",
+        "ubuntu",
+        "cuda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794547/why-my-ubuntu-22-04-2-lts-got-this-error-when-install-nvidia-driver-and-cuda"
+    }
+  ]
+}

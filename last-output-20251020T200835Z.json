@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-20T20:00:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T19:33:49Z",
+      "Title": "x86_64 assembly program segfaults if push/pop rdx is removed",
+      "Tags": [
+        "assembly",
+        "x86",
+        "x86-64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795221/x86-64-assembly-program-segfaults-if-push-pop-rdx-is-removed"
+    },
+    {
+      "Created": "2025-10-20T19:52:06Z",
+      "Title": "Scaling two parts of the logo differently on a web page",
+      "Tags": [
+        "html",
+        "css",
+        "svg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795242/scaling-two-parts-of-the-logo-differently-on-a-web-page"
+    },
+    {
+      "Created": "2025-10-20T19:59:00Z",
+      "Title": "Does the memory allocated by ZwAllocateVirtualMemory share the same context as the user mode process that this memory is associated with",
+      "Tags": [
+        "windows",
+        "memory-management",
+        "kernel-mode",
+        "usermode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795246/does-the-memory-allocated-by-zwallocatevirtualmemory-share-the-same-context-as-t"
+    },
+    {
+      "Created": "2025-10-20T20:00:31Z",
+      "Title": "Perform Google login in react native app with own API",
+      "Tags": [
+        "javascript",
+        "fastapi",
+        "authlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795247/perform-google-login-in-react-native-app-with-own-api"
+    }
+  ]
+}

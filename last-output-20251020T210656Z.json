@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-20T20:48:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T20:18:26Z",
+      "Title": "Why can\u0027t I see the text?",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "command-line-interface",
+        "curses",
+        "python-curses"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795260/why-cant-i-see-the-text"
+    },
+    {
+      "Created": "2025-10-20T20:40:05Z",
+      "Title": "How to handle two data formats when reading a file in C",
+      "Tags": [
+        "c",
+        "scanf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795268/how-to-handle-two-data-formats-when-reading-a-file-in-c"
+    },
+    {
+      "Created": "2025-10-20T20:41:56Z",
+      "Title": "Is VoiceInteractionService a singleton? It never calls onReady() for a second user in Android\u0027s multi-user mode",
+      "Tags": [
+        "android",
+        "android-source",
+        "google-assistant-sdk",
+        "aaos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795270/is-voiceinteractionservice-a-singleton-it-never-calls-onready-for-a-second-us"
+    },
+    {
+      "Created": "2025-10-20T20:45:35Z",
+      "Title": "Puppeteer is unable to launch a browser on a Windows server",
+      "Tags": [
+        "c#",
+        "browser",
+        "puppeteer",
+        "puppeteer-sharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795275/puppeteer-is-unable-to-launch-a-browser-on-a-windows-server"
+    },
+    {
+      "Created": "2025-10-20T20:48:43Z",
+      "Title": "@unchecked attribut not applying to enum type",
+      "Tags": [
+        "swift",
+        "enums",
+        "attributes",
+        "uikit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795277/unchecked-attribut-not-applying-to-enum-type"
+    }
+  ]
+}

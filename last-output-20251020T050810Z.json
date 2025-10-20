@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-20T05:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T04:37:06Z",
+      "Title": "\u0022Interactive elements must be able to be activated using a keyboard\u0022 issue with a range \u003Cinput\u003E",
+      "Tags": [
+        "html",
+        "accessibility",
+        "wai-aria",
+        "firefox-developer-tools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794604/interactive-elements-must-be-able-to-be-activated-using-a-keyboard-issue-with"
+    },
+    {
+      "Created": "2025-10-20T04:40:11Z",
+      "Title": "How can I set 25-25-50 ratio between grid children?",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794605/how-can-i-set-25-25-50-ratio-between-grid-children"
+    },
+    {
+      "Created": "2025-10-20T04:50:50Z",
+      "Title": "Mapbox static image API with custom style",
+      "Tags": [
+        "mapbox",
+        "mapbox-api-staticimages"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794612/mapbox-static-image-api-with-custom-style"
+    },
+    {
+      "Created": "2025-10-20T04:57:24Z",
+      "Title": "Fortran: \u201CType mismatch in argument \u2018iwk\u2019; passed REAL(8) to INTEGER(4)\u201D when compiling opkda1.f in pyradex/myradex",
+      "Tags": [
+        "fortran",
+        "gfortran",
+        "fortran77"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794615/fortran-type-mismatch-in-argument-iwk-passed-real8-to-integer4-when-co"
+    },
+    {
+      "Created": "2025-10-20T05:02:47Z",
+      "Title": "How does F# record label inference work within vs. across projects?",
+      "Tags": [
+        "f#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794616/how-does-f-record-label-inference-work-within-vs-across-projects"
+    }
+  ]
+}

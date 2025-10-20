@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-20T08:09:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T07:20:14Z",
+      "Title": "Override overall angular material styles for h1, h2, p, a and so on",
+      "Tags": [
+        "css",
+        "angular",
+        "angular-material"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794681/override-overall-angular-material-styles-for-h1-h2-p-a-and-so-on"
+    },
+    {
+      "Created": "2025-10-20T07:40:23Z",
+      "Title": "Build OpenCV 4.12 from source not finding FFMPEG libs",
+      "Tags": [
+        "opencv",
+        "ffmpeg",
+        "build"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794695/build-opencv-4-12-from-source-not-finding-ffmpeg-libs"
+    },
+    {
+      "Created": "2025-10-20T07:55:06Z",
+      "Title": "Cannot set Metadata when upload video on Youtube API",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "youtube-api",
+        "metadata",
+        "uppy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794702/cannot-set-metadata-when-upload-video-on-youtube-api"
+    },
+    {
+      "Created": "2025-10-20T07:55:35Z",
+      "Title": "android webview backspace functionality",
+      "Tags": [
+        "android",
+        "webview",
+        "backspace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794703/android-webview-backspace-functionality"
+    },
+    {
+      "Created": "2025-10-20T07:59:07Z",
+      "Title": "ModuleNotFoundError: No module named \u0027langchain.chains\u0027",
+      "Tags": [
+        "package",
+        "langchain",
+        "langgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794704/modulenotfounderror-no-module-named-langchain-chains"
+    },
+    {
+      "Created": "2025-10-20T08:06:58Z",
+      "Title": "Should I normalize comma-separated fields (like firmIds, tags, participants) in MySQL if I frequently filter and count them?",
+      "Tags": [
+        "mysql",
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794708/should-i-normalize-comma-separated-fields-like-firmids-tags-participants-in"
+    },
+    {
+      "Created": "2025-10-20T08:09:19Z",
+      "Title": "TYPO3 V12 ck editor 5 tableProperties borderStyle",
+      "Tags": [
+        "typo3",
+        "ckeditor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794710/typo3-v12-ck-editor-5-tableproperties-borderstyle"
+    }
+  ]
+}

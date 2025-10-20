@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-20T04:08:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T03:54:24Z",
+      "Title": "Office Word JS - How to get text from all selected cells in a table",
+      "Tags": [
+        "javascript",
+        "office365",
+        "office-js",
+        "word-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794592/office-word-js-how-to-get-text-from-all-selected-cells-in-a-table"
+    },
+    {
+      "Created": "2025-10-20T03:55:02Z",
+      "Title": "Aiogram Bad Request: can\u0027t parse inline keyboard button: Text buttons are unallowed in the inline keyboard",
+      "Tags": [
+        "python",
+        "telegram-bot",
+        "aiogram"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794593/aiogram-bad-request-cant-parse-inline-keyboard-button-text-buttons-are-unallo"
+    },
+    {
+      "Created": "2025-10-20T03:58:48Z",
+      "Title": "MySQL error on start after datadir change",
+      "Tags": [
+        "mysql",
+        "debian",
+        "innodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794595/mysql-error-on-start-after-datadir-change"
+    },
+    {
+      "Created": "2025-10-20T04:05:04Z",
+      "Title": "AWS Lex \u002B Lambda \u002B API Gateway integration \u2014 request stuck on \u201CThinking\u2026\u201D and Lambda not triggered",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "aws-lambda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794596/aws-lex-lambda-api-gateway-integration-request-stuck-on-thinking-and-la"
+    },
+    {
+      "Created": "2025-10-20T04:08:04Z",
+      "Title": "ChatGPT Apps SDK: my MCP server connects via ngrok, but no tools appear in Developer Mode(tool discovery/registration issue)",
+      "Tags": [
+        "openai-api",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794597/chatgpt-apps-sdk-my-mcp-server-connects-via-ngrok-but-no-tools-appear-in-devel"
+    }
+  ]
+}

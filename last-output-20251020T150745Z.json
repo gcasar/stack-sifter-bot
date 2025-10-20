@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-20T15:02:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T14:20:50Z",
+      "Title": "Casting between objects without members and common base class",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794992/casting-between-objects-without-members-and-common-base-class"
+    },
+    {
+      "Created": "2025-10-20T15:00:09Z",
+      "Title": "How to use PatchCollection when chage the data of an axis",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "slider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795020/how-to-use-patchcollection-when-chage-the-data-of-an-axis"
+    },
+    {
+      "Created": "2025-10-20T15:02:00Z",
+      "Title": "System.EntryPointNotFoundException calling Visual C\u002B\u002B DLL from VB.NET",
+      "Tags": [
+        "c\u002B\u002B",
+        "vb.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795024/system-entrypointnotfoundexception-calling-visual-c-dll-from-vb-net"
+    }
+  ]
+}

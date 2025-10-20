@@ -1,0 +1,100 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-20T16:02:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T15:34:07Z",
+      "Title": "Why doesn\u0027t Win32 dialog recognize controls reparented from other windows for mnemonic navigation?",
+      "Tags": [
+        "windows",
+        "winapi",
+        "vb6",
+        "twinbasic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795048/why-doesnt-win32-dialog-recognize-controls-reparented-from-other-windows-for-mn"
+    },
+    {
+      "Created": "2025-10-20T15:37:53Z",
+      "Title": "Is there a way to overload toString via annotation",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "spring-aop",
+        "lombok"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795051/is-there-a-way-to-overload-tostring-via-annotation"
+    },
+    {
+      "Created": "2025-10-20T15:54:04Z",
+      "Title": "Pretrained ESRGAN (.pb) gives reddish or purple image \u2014 is this a preprocessing issue or model issue?",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "image-processing",
+        "deep-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795060/pretrained-esrgan-pb-gives-reddish-or-purple-image-is-this-a-preprocessing"
+    },
+    {
+      "Created": "2025-10-20T15:56:36Z",
+      "Title": "How to perform hybrid search on Postgres with pgvector extension using vex Python library",
+      "Tags": [
+        "python",
+        "linux",
+        "postgresql",
+        "pgvector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795062/how-to-perform-hybrid-search-on-postgres-with-pgvector-extension-using-vex-pytho"
+    },
+    {
+      "Created": "2025-10-20T15:58:38Z",
+      "Title": "Spring Batch write multiple chunks at once/ aggregate writing of chunks after reaching threshold",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-batch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795065/spring-batch-write-multiple-chunks-at-once-aggregate-writing-of-chunks-after-re"
+    },
+    {
+      "Created": "2025-10-20T15:59:18Z",
+      "Title": "Return value of python3 keyword in",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "boolean"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795066/return-value-of-python3-keyword-in"
+    },
+    {
+      "Created": "2025-10-20T16:00:31Z",
+      "Title": "matplotlib: one coordinate of the mouse per y axis in status bar",
+      "Tags": [
+        "matplotlib",
+        "statusbar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795067/matplotlib-one-coordinate-of-the-mouse-per-y-axis-in-status-bar"
+    },
+    {
+      "Created": "2025-10-20T16:00:53Z",
+      "Title": "Store the result of a function in a reactive and reuse it in a other function Rshiny",
+      "Tags": [
+        "r",
+        "function",
+        "shiny",
+        "shiny-reactivity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795068/store-the-result-of-a-function-in-a-reactive-and-reuse-it-in-a-other-function-rs"
+    },
+    {
+      "Created": "2025-10-20T16:02:43Z",
+      "Title": "Shopify graphql query assignedFulfillmentOrders filter on order fullyPaid",
+      "Tags": [
+        "graphql",
+        "shopify",
+        "shopify-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795072/shopify-graphql-query-assignedfulfillmentorders-filter-on-order-fullypaid"
+    }
+  ]
+}

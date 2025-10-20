@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-20T22:03:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T21:43:59Z",
+      "Title": "Why is my git \u0060commit-msg\u0060 hook not receiving commit message arg and failing?",
+      "Tags": [
+        "git",
+        "git-commit",
+        "githooks",
+        "commit-message"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795310/why-is-my-git-commit-msg-hook-not-receiving-commit-message-arg-and-failing"
+    },
+    {
+      "Created": "2025-10-20T22:03:56Z",
+      "Title": "Disable sqlite caching in python script",
+      "Tags": [
+        "python",
+        "sqlite",
+        "rest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795322/disable-sqlite-caching-in-python-script"
+    }
+  ]
+}

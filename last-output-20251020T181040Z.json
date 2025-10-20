@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-20T18:07:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T17:40:40Z",
+      "Title": "If statement inside for loop not working properly after switching to IDENTITY columns",
+      "Tags": [
+        "c#",
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795150/if-statement-inside-for-loop-not-working-properly-after-switching-to-identity-co"
+    },
+    {
+      "Created": "2025-10-20T18:02:11Z",
+      "Title": "Keep logged as Spotify in Android (logging from inside an Alertdialog)",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795163/keep-logged-as-spotify-in-android-logging-from-inside-an-alertdialog"
+    },
+    {
+      "Created": "2025-10-20T18:07:24Z",
+      "Title": "Access Azure keyvault secret from AZDO pipeline step",
+      "Tags": [
+        "azure",
+        "azure-devops",
+        "azure-pipelines",
+        "azure-keyvault"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795165/access-azure-keyvault-secret-from-azdo-pipeline-step"
+    }
+  ]
+}

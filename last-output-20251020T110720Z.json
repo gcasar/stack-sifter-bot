@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-20T10:58:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T10:23:59Z",
+      "Title": ".NET 8 installation check not working in Inno script",
+      "Tags": [
+        ".net-core",
+        "inno-setup",
+        ".net-8.0",
+        "inno-setup-v6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794795/net-8-installation-check-not-working-in-inno-script"
+    },
+    {
+      "Created": "2025-10-20T10:24:20Z",
+      "Title": "Python function change behaviour depending on type of argument",
+      "Tags": [
+        "python",
+        "oop",
+        "polymorphism"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794796/python-function-change-behaviour-depending-on-type-of-argument"
+    },
+    {
+      "Created": "2025-10-20T10:58:21Z",
+      "Title": "Mongo unexpected mongo queries",
+      "Tags": [
+        "mongodb",
+        "mongoose",
+        "mongodb-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794817/mongo-unexpected-mongo-queries"
+    },
+    {
+      "Created": "2025-10-20T10:58:23Z",
+      "Title": "Static analysis for unit test coverage",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "code-coverage",
+        "static-analysis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79794818/static-analysis-for-unit-test-coverage"
+    }
+  ]
+}

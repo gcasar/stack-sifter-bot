@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-21T07:04:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T06:39:05Z",
+      "Title": "Ngx-image-cropper - Zooming out scales the photo down instead of keeping original size",
+      "Tags": [
+        "javascript",
+        "angular",
+        "image",
+        "image-processing",
+        "crop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795515/ngx-image-cropper-zooming-out-scales-the-photo-down-instead-of-keeping-origina"
+    },
+    {
+      "Created": "2025-10-21T06:55:35Z",
+      "Title": "In a concept, how to check that a member is static?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B-concepts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795524/in-a-concept-how-to-check-that-a-member-is-static"
+    },
+    {
+      "Created": "2025-10-21T07:04:51Z",
+      "Title": "Redirect stderr in callr::r_bg to file without locking the log file",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795534/redirect-stderr-in-callrr-bg-to-file-without-locking-the-log-file"
+    }
+  ]
+}

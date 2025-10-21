@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-21T20:02:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T19:48:04Z",
+      "Title": "What is the best and most modern approach to build a desktop application in .NET 8 using C#? [closed]",
+      "Tags": [
+        "c#",
+        ".net",
+        "maui",
+        "desktop-application"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796185/what-is-the-best-and-most-modern-approach-to-build-a-desktop-application-in-net"
+    },
+    {
+      "Created": "2025-10-21T19:49:39Z",
+      "Title": "Spring Boot Vaadin Swing career [closed]",
+      "Tags": [
+        "swing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796186/spring-boot-vaadin-swing-career"
+    },
+    {
+      "Created": "2025-10-21T20:02:38Z",
+      "Title": "What are the correct arguments for NtCreateNamedPipeFile in a POC",
+      "Tags": [
+        "system-calls",
+        "windows-kernel",
+        "nt-native-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796195/what-are-the-correct-arguments-for-ntcreatenamedpipefile-in-a-poc"
+    }
+  ]
+}

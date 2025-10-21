@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-21T20:58:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T20:40:35Z",
+      "Title": "Nuxt Maximum Frequency Data Polling",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "promise",
+        "nuxt.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796218/nuxt-maximum-frequency-data-polling"
+    },
+    {
+      "Created": "2025-10-21T20:47:50Z",
+      "Title": "How to handle multiple client domains (custom CNAMEs) with SSL in a single AWS CloudFront distribution (or alternative AWS service)?",
+      "Tags": [
+        "amazon-web-services",
+        "dns",
+        "amazon-cloudfront",
+        "godaddy-api",
+        "aws-acm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796223/how-to-handle-multiple-client-domains-custom-cnames-with-ssl-in-a-single-aws-c"
+    },
+    {
+      "Created": "2025-10-21T20:49:38Z",
+      "Title": "PGFPlots Line Patch Plot with Decoration",
+      "Tags": [
+        "latex",
+        "tikz",
+        "pgfplots"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796225/pgfplots-line-patch-plot-with-decoration"
+    },
+    {
+      "Created": "2025-10-21T20:57:46Z",
+      "Title": "iOS 26, UISplitViewController remove glass effect from the sidebar",
+      "Tags": [
+        "swift",
+        "uisplitviewcontroller",
+        "ios26",
+        "liquid-glass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796230/ios-26-uisplitviewcontroller-remove-glass-effect-from-the-sidebar"
+    },
+    {
+      "Created": "2025-10-21T20:57:53Z",
+      "Title": "Trying to connect to ClamAV local service within Docker container getting refused",
+      "Tags": [
+        "docker",
+        "clamav",
+        "clam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796231/trying-to-connect-to-clamav-local-service-within-docker-container-getting-refuse"
+    },
+    {
+      "Created": "2025-10-21T20:58:26Z",
+      "Title": "Unexpected Write Behavior when using MERGE INTO/INSERT INTO Iceberg Spark Queries",
+      "Tags": [
+        "apache-spark",
+        "pyspark",
+        "apache-spark-sql",
+        "amazon-emr",
+        "apache-iceberg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796232/unexpected-write-behavior-when-using-merge-into-insert-into-iceberg-spark-querie"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-21T14:02:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T13:37:37Z",
+      "Title": "Change columns to not nullable if they\u0027re nullable",
+      "Tags": [
+        "sql-server",
+        "t-sql",
+        "sql-server-2016"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795885/change-columns-to-not-nullable-if-theyre-nullable"
+    },
+    {
+      "Created": "2025-10-21T13:57:17Z",
+      "Title": "Visualforce iframe inside LWC blocked by Clickjack protection \u2013 explanation and solution",
+      "Tags": [
+        "iframe",
+        "salesforce",
+        "apex",
+        "visualforce",
+        "lwc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795901/visualforce-iframe-inside-lwc-blocked-by-clickjack-protection-explanation-and"
+    },
+    {
+      "Created": "2025-10-21T13:59:32Z",
+      "Title": "Aggregate creation in use case, use case parameters validation and TDD",
+      "Tags": [
+        "validation",
+        "domain-driven-design",
+        "tdd",
+        "software-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795907/aggregate-creation-in-use-case-use-case-parameters-validation-and-tdd"
+    },
+    {
+      "Created": "2025-10-21T14:02:09Z",
+      "Title": "How can I make a fields.Monetary keep 5 decimal places?",
+      "Tags": [
+        "python",
+        "odoo",
+        "decimal",
+        "currency",
+        "odoo-18"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795908/how-can-i-make-a-fields-monetary-keep-5-decimal-places"
+    }
+  ]
+}

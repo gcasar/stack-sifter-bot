@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-21T22:49:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T22:07:55Z",
+      "Title": "How to setup a listing inside a listing with the correct context (Bricks and JetEngine)",
+      "Tags": [
+        "wordpress",
+        "jet-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796273/how-to-setup-a-listing-inside-a-listing-with-the-correct-context-bricks-and-jet"
+    },
+    {
+      "Created": "2025-10-21T22:28:57Z",
+      "Title": "Component Inside another state doesn\u0027t rerender when state changes",
+      "Tags": [
+        "reactjs",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796288/component-inside-another-state-doesnt-rerender-when-state-changes"
+    },
+    {
+      "Created": "2025-10-21T22:29:27Z",
+      "Title": "Error fetching voices, can\u0027t read out text",
+      "Tags": [
+        "ios",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796289/error-fetching-voices-cant-read-out-text"
+    },
+    {
+      "Created": "2025-10-21T22:49:05Z",
+      "Title": "Tabular Editor 2 on Azure DevOps Pipelines: \u0022Error loading model: The connection string is not valid.\u0022",
+      "Tags": [
+        "tabular-editor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796293/tabular-editor-2-on-azure-devops-pipelines-error-loading-model-the-connection"
+    }
+  ]
+}

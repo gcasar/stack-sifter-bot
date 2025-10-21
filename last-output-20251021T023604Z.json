@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-21T02:27:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T01:51:54Z",
+      "Title": "Crop Inner Black Square in QR Find Pattern",
+      "Tags": [
+        "python",
+        "opencv",
+        "qr-code",
+        "contour",
+        "python-3.10"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795414/crop-inner-black-square-in-qr-find-pattern"
+    },
+    {
+      "Created": "2025-10-21T01:53:55Z",
+      "Title": "Can ptrdiff_t always store the size of an object in bytes?",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795417/can-ptrdiff-t-always-store-the-size-of-an-object-in-bytes"
+    },
+    {
+      "Created": "2025-10-21T02:12:34Z",
+      "Title": "VLCJ on macOS in Kotlin Multiplatform project: Audio plays but no video rendering",
+      "Tags": [
+        "macos",
+        "media-player",
+        "kotlin-multiplatform",
+        "vlcj"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795420/vlcj-on-macos-in-kotlin-multiplatform-project-audio-plays-but-no-video-renderin"
+    },
+    {
+      "Created": "2025-10-21T02:20:29Z",
+      "Title": "Ask : Jacobian (JacobianWrtVariable) and Trajectory (spatial velocity)",
+      "Tags": [
+        "drake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795424/ask-jacobian-jacobianwrtvariable-and-trajectory-spatial-velocity"
+    },
+    {
+      "Created": "2025-10-21T02:27:57Z",
+      "Title": "Azure Trusted Signing with SignTool: 403 (Forbidden) but only on Azure build server",
+      "Tags": [
+        "azure",
+        "code-signing",
+        "signtool",
+        "trusted-signing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795428/azure-trusted-signing-with-signtool-403-forbidden-but-only-on-azure-build-ser"
+    }
+  ]
+}

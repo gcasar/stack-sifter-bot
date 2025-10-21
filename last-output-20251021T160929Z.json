@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-21T16:07:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T15:13:17Z",
+      "Title": "Is there a way to get all existing shareable URLs linked to Reports?",
+      "Tags": [
+        "powerbi",
+        "power-bi-report-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795974/is-there-a-way-to-get-all-existing-shareable-urls-linked-to-reports"
+    },
+    {
+      "Created": "2025-10-21T15:57:15Z",
+      "Title": "C\u002B\u002B: 64 bit windows and compiler with 32 bit pointer only on certain CPUs",
+      "Tags": [
+        "c\u002B\u002B",
+        "x86-64",
+        "32bit-64bit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796003/c-64-bit-windows-and-compiler-with-32-bit-pointer-only-on-certain-cpus"
+    },
+    {
+      "Created": "2025-10-21T15:57:38Z",
+      "Title": "delete_transient on register_deactivation_hook not working",
+      "Tags": [
+        "wordpress",
+        "plugins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796004/delete-transient-on-register-deactivation-hook-not-working"
+    },
+    {
+      "Created": "2025-10-21T16:07:20Z",
+      "Title": "Change from interpolation to string.format causing weird text formatting errors",
+      "Tags": [
+        "c#",
+        "string",
+        "string-formatting",
+        "string-interpolation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796014/change-from-interpolation-to-string-format-causing-weird-text-formatting-errors"
+    }
+  ]
+}

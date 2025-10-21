@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-21T17:55:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T17:33:32Z",
+      "Title": "Can CSS flexbox change justify-content without media query?",
+      "Tags": [
+        "css",
+        "flexbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796093/can-css-flexbox-change-justify-content-without-media-query"
+    },
+    {
+      "Created": "2025-10-21T17:33:47Z",
+      "Title": "Creating a new pandas data frame",
+      "Tags": [
+        "python-3.x",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796094/creating-a-new-pandas-data-frame"
+    },
+    {
+      "Created": "2025-10-21T17:54:42Z",
+      "Title": "C\u002B\u002B class template argument deduction [CTAD] doesn\u0027t work in class",
+      "Tags": [
+        "c\u002B\u002B",
+        "ctad"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796113/c-class-template-argument-deduction-ctad-doesnt-work-in-class"
+    },
+    {
+      "Created": "2025-10-21T17:55:27Z",
+      "Title": "trying to create a getPrincipal function",
+      "Tags": [
+        "python-3.x",
+        "for-loop",
+        "finance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796114/trying-to-create-a-getprincipal-function"
+    }
+  ]
+}

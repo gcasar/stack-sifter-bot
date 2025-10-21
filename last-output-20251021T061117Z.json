@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-21T05:57:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T05:14:04Z",
+      "Title": "how can i plot figures with wireframe as given below (in the attachment)?",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "plot",
+        "3d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795478/how-can-i-plot-figures-with-wireframe-as-given-below-in-the-attachment"
+    },
+    {
+      "Created": "2025-10-21T05:28:45Z",
+      "Title": "Return only 3 numbers with duplicates values in each row from dataframe [duplicate]",
+      "Tags": [
+        "python",
+        "dataframe",
+        "duplicates",
+        "pycharm",
+        "subset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795483/return-only-3-numbers-with-duplicates-values-in-each-row-from-dataframe"
+    },
+    {
+      "Created": "2025-10-21T05:35:49Z",
+      "Title": "Define a concept in C\u002B\u002B for specific members",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "concept"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795484/define-a-concept-in-c-for-specific-members"
+    },
+    {
+      "Created": "2025-10-21T05:40:30Z",
+      "Title": "using Baileys WebSockets-based TypeScript library latest version ie 7.x how to send list type messages",
+      "Tags": [
+        "node.js",
+        "websocket",
+        "whatsapp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795487/using-baileys-websockets-based-typescript-library-latest-version-ie-7-x-how-to-s"
+    },
+    {
+      "Created": "2025-10-21T05:44:34Z",
+      "Title": "How to properly allocate dynamic memory for matrix operations in C",
+      "Tags": [
+        "c",
+        "pointers",
+        "matrix",
+        "dynamic-memory-allocation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795490/how-to-properly-allocate-dynamic-memory-for-matrix-operations-in-c"
+    },
+    {
+      "Created": "2025-10-21T05:45:05Z",
+      "Title": "Embedded xcframework dependency causes \u201CLibrary not loaded\u201D when using my SDK (.xcframework)",
+      "Tags": [
+        "ios",
+        "frameworks",
+        "xcframework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795492/embedded-xcframework-dependency-causes-library-not-loaded-when-using-my-sdk"
+    },
+    {
+      "Created": "2025-10-21T05:57:06Z",
+      "Title": "Add an Index for Duplicate Values using Power Query",
+      "Tags": [
+        "indexing",
+        "duplicates",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795496/add-an-index-for-duplicate-values-using-power-query"
+    }
+  ]
+}

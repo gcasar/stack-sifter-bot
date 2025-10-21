@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-21T00:24:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-20T23:33:52Z",
+      "Title": "When can I reliably query the preferred size of a GTK4 Entry upon",
+      "Tags": [
+        "css",
+        "asynchronous",
+        "gtk",
+        "gtk4",
+        "gtkentry"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795367/when-can-i-reliably-query-the-preferred-size-of-a-gtk4-entry-upon"
+    },
+    {
+      "Created": "2025-10-20T23:35:39Z",
+      "Title": "What does a min filter do on the same mip level?",
+      "Tags": [
+        "opengl",
+        "graphics",
+        "directx",
+        "vulkan",
+        "metal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795368/what-does-a-min-filter-do-on-the-same-mip-level"
+    },
+    {
+      "Created": "2025-10-20T23:36:49Z",
+      "Title": "What is the difference between the Heap size and the Private Bytes size?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "garbage-collection",
+        "heap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795370/what-is-the-difference-between-the-heap-size-and-the-private-bytes-size"
+    },
+    {
+      "Created": "2025-10-21T00:04:41Z",
+      "Title": "for loop over value in ForM.forM definition for that value\u0027s own type",
+      "Tags": [
+        "for-loop",
+        "typeclass",
+        "lean"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795377/for-loop-over-value-in-form-form-definition-for-that-values-own-type"
+    },
+    {
+      "Created": "2025-10-21T00:13:30Z",
+      "Title": "Correct Report not selecting date on Calendar change",
+      "Tags": [
+        "c#",
+        "ajax",
+        "ajaxcontroltoolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795378/correct-report-not-selecting-date-on-calendar-change"
+    },
+    {
+      "Created": "2025-10-21T00:24:41Z",
+      "Title": "How to add a \u0022Copy to Clipboard\u0022 button for a Dash DataTable in Python?",
+      "Tags": [
+        "python",
+        "render",
+        "plotly-dash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795382/how-to-add-a-copy-to-clipboard-button-for-a-dash-datatable-in-python"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-21T15:01:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T15:01:46Z",
+      "Title": "Azure Cosmos DB returns multiple rows for the same SUM or GROUP BY even when using a single partition key",
+      "Tags": [
+        "azure",
+        "azure-cosmosdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795969/azure-cosmos-db-returns-multiple-rows-for-the-same-sum-or-group-by-even-when-usi"
+    }
+  ]
+}

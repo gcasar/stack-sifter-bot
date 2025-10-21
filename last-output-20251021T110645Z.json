@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-21T10:49:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T10:43:01Z",
+      "Title": "JDBI throws exception doing a count using bindMap",
+      "Tags": [
+        "spring-boot",
+        "jdbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795724/jdbi-throws-exception-doing-a-count-using-bindmap"
+    },
+    {
+      "Created": "2025-10-21T10:43:47Z",
+      "Title": "Why is tsc reporting far fewer errors than VS Code for the same project and TypeScript version?",
+      "Tags": [
+        "node.js",
+        "typescript",
+        "macos",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795726/why-is-tsc-reporting-far-fewer-errors-than-vs-code-for-the-same-project-and-type"
+    },
+    {
+      "Created": "2025-10-21T10:45:39Z",
+      "Title": "Expo EAS Android Build Fails on Even a New Project",
+      "Tags": [
+        "android",
+        "react-native",
+        "gradle",
+        "expo",
+        "eas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795729/expo-eas-android-build-fails-on-even-a-new-project"
+    },
+    {
+      "Created": "2025-10-21T10:49:52Z",
+      "Title": "Read pdf in C#. which have Gujarati and English languages and also have mathematical equations, symbols, formulas and chemistry reactions [closed]",
+      "Tags": [
+        "c#",
+        "pdf",
+        "itext7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795733/read-pdf-in-c-which-have-gujarati-and-english-languages-and-also-have-mathemat"
+    }
+  ]
+}

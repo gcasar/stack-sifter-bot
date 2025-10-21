@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-21T13:10:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T12:31:46Z",
+      "Title": "Timeline View with resource on both sides",
+      "Tags": [
+        "fullcalendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795816/timeline-view-with-resource-on-both-sides"
+    },
+    {
+      "Created": "2025-10-21T13:03:14Z",
+      "Title": "ModuleNotFoundError: No module named \u0027marker.converters\u0027",
+      "Tags": [
+        "python",
+        "pdf",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795844/modulenotfounderror-no-module-named-marker-converters"
+    },
+    {
+      "Created": "2025-10-21T13:06:51Z",
+      "Title": "Bug Recorder Track Errors, Session Recording, Analytic Tool",
+      "Tags": [
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795848/bug-recorder-track-errors-session-recording-analytic-tool"
+    },
+    {
+      "Created": "2025-10-21T13:07:55Z",
+      "Title": "Playing audio independently of audio volume C#",
+      "Tags": [
+        "c#",
+        ".net",
+        "audio",
+        "naudio",
+        "wasapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795850/playing-audio-independently-of-audio-volume-c-sharp"
+    },
+    {
+      "Created": "2025-10-21T13:08:17Z",
+      "Title": "Cannot run code on MainActor after \u0060NSApplication.run()\u0060 if and only if async function was called",
+      "Tags": [
+        "swift",
+        "macos",
+        "async-await",
+        "appkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795851/cannot-run-code-on-mainactor-after-nsapplication-run-if-and-only-if-async-fu"
+    },
+    {
+      "Created": "2025-10-21T13:09:43Z",
+      "Title": "Obtaining cumulative product for a list elements",
+      "Tags": [
+        "python",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795854/obtaining-cumulative-product-for-a-list-elements"
+    },
+    {
+      "Created": "2025-10-21T13:10:09Z",
+      "Title": "pandas crosstab with string as second parameter",
+      "Tags": [
+        "python",
+        "pandas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795855/pandas-crosstab-with-string-as-second-parameter"
+    }
+  ]
+}

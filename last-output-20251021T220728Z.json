@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-21T22:00:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T21:34:27Z",
+      "Title": "Foreign keys are null when retrieved, even though stored correctly in database",
+      "Tags": [
+        "sql-server",
+        "asp.net-mvc",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796256/foreign-keys-are-null-when-retrieved-even-though-stored-correctly-in-database"
+    },
+    {
+      "Created": "2025-10-21T21:47:59Z",
+      "Title": "git fetch and submodukes",
+      "Tags": [
+        "git",
+        "git-submodules"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796264/git-fetch-and-submodukes"
+    },
+    {
+      "Created": "2025-10-21T22:00:19Z",
+      "Title": "aws ec2 ubuntu : why a command works with terminal BUT not with user_data?",
+      "Tags": [
+        "bash",
+        "amazon-ec2",
+        "ec2-userdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796269/aws-ec2-ubuntu-why-a-command-works-with-terminal-but-not-with-user-data"
+    }
+  ]
+}

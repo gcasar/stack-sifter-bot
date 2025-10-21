@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-21T01:08:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T00:54:19Z",
+      "Title": "How Do I Stop Python Input() From Continuing Until Program Exits?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795388/how-do-i-stop-python-input-from-continuing-until-program-exits"
+    },
+    {
+      "Created": "2025-10-21T01:00:17Z",
+      "Title": "How to get correct number of background jobs in zsh",
+      "Tags": [
+        "zsh",
+        "jobs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795390/how-to-get-correct-number-of-background-jobs-in-zsh"
+    },
+    {
+      "Created": "2025-10-21T01:05:58Z",
+      "Title": "Cloudflare Email Worker showing \u0022too many redirects\u0022 error when attempting to post to my NextJS site\u0027s api route",
+      "Tags": [
+        "next.js",
+        "cloudflare",
+        "cloudflare-workers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795392/cloudflare-email-worker-showing-too-many-redirects-error-when-attempting-to-po"
+    },
+    {
+      "Created": "2025-10-21T01:08:59Z",
+      "Title": "Troubleshooting Pelican error: \u0027article\u0027 is undefined",
+      "Tags": [
+        "jinja2",
+        "pelican"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795397/troubleshooting-pelican-error-article-is-undefined"
+    }
+  ]
+}

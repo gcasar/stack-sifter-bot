@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-21T16:49:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T16:27:47Z",
+      "Title": "Overriden Virtual Function Failure While Upcasting (C\u002B\u002B) [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "polymorphism",
+        "overriding"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796037/overriden-virtual-function-failure-while-upcasting-c"
+    },
+    {
+      "Created": "2025-10-21T16:45:32Z",
+      "Title": "C program: Use an array outside the scope it was defined in",
+      "Tags": [
+        "arrays",
+        "c",
+        "pointers",
+        "conditional-statements",
+        "scope"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796052/c-program-use-an-array-outside-the-scope-it-was-defined-in"
+    },
+    {
+      "Created": "2025-10-21T16:49:05Z",
+      "Title": "Is there a way to diagnose connection issues between the Azure OpenAI platform and other services?",
+      "Tags": [
+        "c#",
+        "azure-cognitive-search",
+        "azure-openai"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796058/is-there-a-way-to-diagnose-connection-issues-between-the-azure-openai-platform-a"
+    }
+  ]
+}

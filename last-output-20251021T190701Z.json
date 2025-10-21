@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-21T19:01:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T19:01:08Z",
+      "Title": "How to uniformly sample from a nonlinearly transformed simplex?",
+      "Tags": [
+        "python",
+        "transformation",
+        "sampling",
+        "simplex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796149/how-to-uniformly-sample-from-a-nonlinearly-transformed-simplex"
+    },
+    {
+      "Created": "2025-10-21T19:01:13Z",
+      "Title": "Why is my std::vector.erase() operation O(N) instead of O(1)?",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "performance",
+        "c\u002B\u002B11",
+        "memory-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796150/why-is-my-stdvector-erase-operation-on-instead-of-o1"
+    }
+  ]
+}

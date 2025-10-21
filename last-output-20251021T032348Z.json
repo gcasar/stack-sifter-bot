@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-21T03:16:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T03:16:15Z",
+      "Title": "implementing cache for server actions",
+      "Tags": [
+        "next.js",
+        "caching",
+        "server-action"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795440/implementing-cache-for-server-actions"
+    }
+  ]
+}

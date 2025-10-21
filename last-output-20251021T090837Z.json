@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-21T09:05:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T07:50:54Z",
+      "Title": "Removing duplicate lines by fragments [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795567/removing-duplicate-lines-by-fragments"
+    },
+    {
+      "Created": "2025-10-21T08:03:08Z",
+      "Title": "Why doesn\u0027t index creation work any more in Postgres v17 and v18?",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "postgresql-17",
+        "postgresql-18"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795578/why-doesnt-index-creation-work-any-more-in-postgres-v17-and-v18"
+    },
+    {
+      "Created": "2025-10-21T08:40:04Z",
+      "Title": "How to maintain chat history per user with chatkit (using only threadIds)? [closed]",
+      "Tags": [
+        "reactjs",
+        "node.js",
+        "chatbot",
+        "openai-api",
+        "chatkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795611/how-to-maintain-chat-history-per-user-with-chatkit-using-only-threadids"
+    },
+    {
+      "Created": "2025-10-21T08:44:18Z",
+      "Title": "MobaXTerm SSH Bowser with different user [closed]",
+      "Tags": [
+        "mobaxterm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795616/mobaxterm-ssh-bowser-with-different-user"
+    },
+    {
+      "Created": "2025-10-21T08:46:14Z",
+      "Title": "Records dont deserialize cycles",
+      "Tags": [
+        "java",
+        "serialization",
+        "deserialization",
+        "record"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795620/records-dont-deserialize-cycles"
+    },
+    {
+      "Created": "2025-10-21T08:46:28Z",
+      "Title": "AgentWorkflow doesn\u0027t call functions when using Ollama",
+      "Tags": [
+        "python",
+        "typescript",
+        "artificial-intelligence",
+        "llama-index",
+        "ollama"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795621/agentworkflow-doesnt-call-functions-when-using-ollama"
+    },
+    {
+      "Created": "2025-10-21T08:48:54Z",
+      "Title": "Torch example transformer with TransformerDecoder",
+      "Tags": [
+        "pytorch",
+        "nlp",
+        "large-language-model",
+        "transformer-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795624/torch-example-transformer-with-transformerdecoder"
+    },
+    {
+      "Created": "2025-10-21T09:05:54Z",
+      "Title": "CSP error while integrating react plaid in Next JS 15",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "content-security-policy",
+        "plaid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795638/csp-error-while-integrating-react-plaid-in-next-js-15"
+    }
+  ]
+}

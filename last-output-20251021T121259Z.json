@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-21T11:32:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T11:32:49Z",
+      "Title": "Passing arguments to a Worker Service from another application",
+      "Tags": [
+        "c#",
+        "worker",
+        "worker-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795765/passing-arguments-to-a-worker-service-from-another-application"
+    }
+  ]
+}

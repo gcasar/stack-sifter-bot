@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-21T04:50:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T04:31:31Z",
+      "Title": "querydsl-apt does not generate parent module\u0027s Q classes?",
+      "Tags": [
+        "querydsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795466/querydsl-apt-does-not-generate-parent-modules-q-classes"
+    },
+    {
+      "Created": "2025-10-21T04:48:57Z",
+      "Title": "FastAPI: PDF upload works when called directly inside Kubernetes or locally, but results in blank files when routed through API Gateway/NGINX",
+      "Tags": [
+        "nginx",
+        "aws-api-gateway",
+        "fastapi",
+        "multipartform-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795471/fastapi-pdf-upload-works-when-called-directly-inside-kubernetes-or-locally-but"
+    },
+    {
+      "Created": "2025-10-21T04:50:38Z",
+      "Title": "MSW intercepts Static assets in Vite",
+      "Tags": [
+        "reactjs",
+        "vite",
+        "msw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79795472/msw-intercepts-static-assets-in-vite"
+    }
+  ]
+}

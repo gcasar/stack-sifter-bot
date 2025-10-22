@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-22T08:57:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T08:47:48Z",
+      "Title": "Raspberry Pi Pico VS Code extension fails to download SDK on Windows with \u0027Failed to download and install SDK\u0027 error",
+      "Tags": [
+        "visual-studio-code",
+        "raspberry-pi",
+        "sdk",
+        "raspberry-pi-pico"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796576/raspberry-pi-pico-vs-code-extension-fails-to-download-sdk-on-windows-with-faile"
+    },
+    {
+      "Created": "2025-10-22T08:55:05Z",
+      "Title": "\u0022Configuration is not authorized\u0022 when integrating AI search app widget into Flask application",
+      "Tags": [
+        "google-cloud-platform",
+        "google-cloud-vertex-ai",
+        "vertex-ai-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796581/configuration-is-not-authorized-when-integrating-ai-search-app-widget-into-fla"
+    },
+    {
+      "Created": "2025-10-22T08:57:02Z",
+      "Title": "This Serverless Function has crashed vercel",
+      "Tags": [
+        "python",
+        "fastapi",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796583/this-serverless-function-has-crashed-vercel"
+    },
+    {
+      "Created": "2025-10-22T08:57:07Z",
+      "Title": "Solid signal goes to [\u0022\u0022] instead of []",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "solid-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796584/solid-signal-goes-to-instead-of"
+    }
+  ]
+}

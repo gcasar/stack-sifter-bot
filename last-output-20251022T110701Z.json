@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-22T10:57:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T10:28:14Z",
+      "Title": "Rust cortex-m-rt / RTIC firmware builds an empty ELF (0x00010000 start, ~150 bytes) \u2014 memory.x not applied for STM32H7",
+      "Tags": [
+        "rust",
+        "embedded",
+        "rust-cargo",
+        "cortex-m",
+        "stm32h7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796663/rust-cortex-m-rt-rtic-firmware-builds-an-empty-elf-0x00010000-start-150-byt"
+    },
+    {
+      "Created": "2025-10-22T10:43:13Z",
+      "Title": "Can Ghostscript control the threshold when converting dot maps?",
+      "Tags": [
+        "dictionary",
+        "stack",
+        "ghostscript",
+        "postscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796673/can-ghostscript-control-the-threshold-when-converting-dot-maps"
+    },
+    {
+      "Created": "2025-10-22T10:57:00Z",
+      "Title": "Cookies stopped working over time despite literally no change to the web application",
+      "Tags": [
+        "node.js",
+        "express",
+        "cookies",
+        "https",
+        "dokku"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796684/cookies-stopped-working-over-time-despite-literally-no-change-to-the-web-applica"
+    },
+    {
+      "Created": "2025-10-22T10:57:42Z",
+      "Title": "Posting a local notifications (or alert) from a launch agent",
+      "Tags": [
+        "macos",
+        "notifications",
+        "launch-agent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796686/posting-a-local-notifications-or-alert-from-a-launch-agent"
+    }
+  ]
+}

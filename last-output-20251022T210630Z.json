@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-22T21:01:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T20:32:46Z",
+      "Title": "Best practice for editing SwiftData entities with relationships in MVVM (draft context vs. local copy)? [closed]",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "mvvm",
+        "core-data",
+        "swiftdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797214/best-practice-for-editing-swiftdata-entities-with-relationships-in-mvvm-draft-c"
+    },
+    {
+      "Created": "2025-10-22T20:42:54Z",
+      "Title": "CredUIPromptForWindowsCredentials with CREDUIWIN_SECURE_PROMPT causes clipped text",
+      "Tags": [
+        "windows",
+        "security",
+        "sdk",
+        "credui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797218/creduipromptforwindowscredentials-with-creduiwin-secure-prompt-causes-clipped-te"
+    },
+    {
+      "Created": "2025-10-22T20:50:28Z",
+      "Title": "Pull the docker image in GItLab registry from pipeline",
+      "Tags": [
+        "docker",
+        "kernel",
+        "gitlab-ci",
+        "pipeline",
+        "gitlab-ci-runner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797223/pull-the-docker-image-in-gitlab-registry-from-pipeline"
+    },
+    {
+      "Created": "2025-10-22T21:01:44Z",
+      "Title": "Problems with lifetime annotations in a parser combinator library",
+      "Tags": [
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797230/problems-with-lifetime-annotations-in-a-parser-combinator-library"
+    }
+  ]
+}

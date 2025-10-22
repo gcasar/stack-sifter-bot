@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-22T04:58:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T04:08:34Z",
+      "Title": "Understanding Tensors in dynamic_int4_block32.tflite (INT4 Quantized GEMM3-1B-1T Model) [closed]",
+      "Tags": [
+        "tensorflow-lite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796384/understanding-tensors-in-dynamic-int4-block32-tflite-int4-quantized-gemm3-1b-1t"
+    },
+    {
+      "Created": "2025-10-22T04:12:26Z",
+      "Title": "I\u0027m trying to record audio from my computers speakers and microphone and save it into a single file",
+      "Tags": [
+        "c#",
+        "audio",
+        "naudio",
+        "microphone",
+        "speaker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796385/im-trying-to-record-audio-from-my-computers-speakers-and-microphone-and-save-it"
+    },
+    {
+      "Created": "2025-10-22T04:12:32Z",
+      "Title": "How to make draggable item snap back to its original position after dropping inside a drop zone in react-native-reanimated-dnd?",
+      "Tags": [
+        "reactjs",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796386/how-to-make-draggable-item-snap-back-to-its-original-position-after-dropping-ins"
+    },
+    {
+      "Created": "2025-10-22T04:36:17Z",
+      "Title": "Rstudio: Error in file(file, ifelse(append, \u0026quot;a\u0026quot;, \u0026quot;w\u0026quot;)): The link cannot be opened",
+      "Tags": [
+        "rstudio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796394/rstudio-error-in-filefile-ifelseappend-quotaquot-quotwquot-the"
+    },
+    {
+      "Created": "2025-10-22T04:54:19Z",
+      "Title": "Generate code coverage in local against a remote execution",
+      "Tags": [
+        "code-coverage",
+        "gcovr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796399/generate-code-coverage-in-local-against-a-remote-execution"
+    },
+    {
+      "Created": "2025-10-22T04:58:51Z",
+      "Title": "Error calculation for a time series using autocorrelation",
+      "Tags": [
+        "python",
+        "numpy",
+        "time-series",
+        "signal-processing",
+        "autocorrelation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796400/error-calculation-for-a-time-series-using-autocorrelation"
+    }
+  ]
+}

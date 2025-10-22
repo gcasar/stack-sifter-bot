@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-22T16:05:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T15:23:14Z",
+      "Title": "Understanding CMake install usage [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796952/understanding-cmake-install-usage"
+    },
+    {
+      "Created": "2025-10-22T15:54:48Z",
+      "Title": "react-native-maps \u003CMarker /\u003E issue",
+      "Tags": [
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796996/react-native-maps-marker-issue"
+    },
+    {
+      "Created": "2025-10-22T15:55:08Z",
+      "Title": "Get recordings and transcripts out of Microsoft Teams as a top down admin",
+      "Tags": [
+        "microsoft-teams",
+        "microsoft-graph-teams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796998/get-recordings-and-transcripts-out-of-microsoft-teams-as-a-top-down-admin"
+    },
+    {
+      "Created": "2025-10-22T15:58:45Z",
+      "Title": "How to bind Avalonia ComboBox to API data?",
+      "Tags": [
+        "c#",
+        "avalonia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797002/how-to-bind-avalonia-combobox-to-api-data"
+    },
+    {
+      "Created": "2025-10-22T16:00:55Z",
+      "Title": "Facebook Graph API: \u201CThis message is sent outside of allowed window\u201D error when sending initial DM to Instagram commenters",
+      "Tags": [
+        "facebook-graph-api",
+        "instagram",
+        "instagram-api",
+        "instagram-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797003/facebook-graph-api-this-message-is-sent-outside-of-allowed-window-error-when"
+    },
+    {
+      "Created": "2025-10-22T16:01:06Z",
+      "Title": "using xargs with git push --delete",
+      "Tags": [
+        "bash",
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797004/using-xargs-with-git-push-delete"
+    },
+    {
+      "Created": "2025-10-22T16:05:57Z",
+      "Title": "Setting a PHP session variable with a date value",
+      "Tags": [
+        "php"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797008/setting-a-php-session-variable-with-a-date-value"
+    }
+  ]
+}

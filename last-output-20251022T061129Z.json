@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T06:09:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T05:35:10Z",
+      "Title": "Appsheet lookup changes behavior after 5 seconds",
+      "Tags": [
+        "google-appsheet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796414/appsheet-lookup-changes-behavior-after-5-seconds"
+    },
+    {
+      "Created": "2025-10-22T05:48:09Z",
+      "Title": "How can I parse PHP serialized data with Java? [duplicate]",
+      "Tags": [
+        "java",
+        "php",
+        "serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796418/how-can-i-parse-php-serialized-data-with-java"
+    },
+    {
+      "Created": "2025-10-22T05:51:50Z",
+      "Title": "Sytemview Continuous Recording over UART",
+      "Tags": [
+        "c",
+        "stm32",
+        "uart",
+        "freertos",
+        "segger-jlink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796420/sytemview-continuous-recording-over-uart"
+    },
+    {
+      "Created": "2025-10-22T05:54:39Z",
+      "Title": "How to remove duplicates using CTE?",
+      "Tags": [
+        "google-bigquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796422/how-to-remove-duplicates-using-cte"
+    },
+    {
+      "Created": "2025-10-22T06:09:43Z",
+      "Title": "Difference between 2 dates in months in Python",
+      "Tags": [
+        "python-3.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796429/difference-between-2-dates-in-months-in-python"
+    }
+  ]
+}

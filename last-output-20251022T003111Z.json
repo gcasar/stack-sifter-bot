@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T00:21:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-21T23:30:06Z",
+      "Title": "Is there a faster/cleaner/more elegant way to write this SQL Server OPENJSON code block? [duplicate]",
+      "Tags": [
+        "sql-server",
+        "t-sql",
+        "open-json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796301/is-there-a-faster-cleaner-more-elegant-way-to-write-this-sql-server-openjson-cod"
+    },
+    {
+      "Created": "2025-10-21T23:40:05Z",
+      "Title": "Count columns until the value changes",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "count"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796306/count-columns-until-the-value-changes"
+    },
+    {
+      "Created": "2025-10-21T23:50:46Z",
+      "Title": "API Gateway not forwarding real path to Lambda",
+      "Tags": [
+        "amazon-web-services",
+        "aws-lambda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796308/api-gateway-not-forwarding-real-path-to-lambda"
+    },
+    {
+      "Created": "2025-10-22T00:07:47Z",
+      "Title": "How did Grammarly Keyboard Bypass iOS Keyboard Extension Sandbox Restrictions for Full Text Access and Cursor Control?",
+      "Tags": [
+        "ios",
+        "swift",
+        "ios-keyboard-extension",
+        "grammarly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796312/how-did-grammarly-keyboard-bypass-ios-keyboard-extension-sandbox-restrictions-fo"
+    },
+    {
+      "Created": "2025-10-22T00:21:09Z",
+      "Title": "How to make by buttons all be uniform size and centred?",
+      "Tags": [
+        "html",
+        "css",
+        "button",
+        "alignment",
+        "scale"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796317/how-to-make-by-buttons-all-be-uniform-size-and-centred"
+    }
+  ]
+}

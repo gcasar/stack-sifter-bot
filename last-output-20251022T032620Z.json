@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-22T03:23:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T03:07:41Z",
+      "Title": "rails arel: is it possible to access \u0026 display the column alias name of an Arel::Nodes::As",
+      "Tags": [
+        "ruby-on-rails",
+        "arel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796366/rails-arel-is-it-possible-to-access-display-the-column-alias-name-of-an-arel"
+    },
+    {
+      "Created": "2025-10-22T03:23:39Z",
+      "Title": "The iOS Watchdog kills a debugged daemon process 2 minutes into the debugging session",
+      "Tags": [
+        "ios",
+        "reverse-engineering",
+        "lldb",
+        "jailbreak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796371/the-ios-watchdog-kills-a-debugged-daemon-process-2-minutes-into-the-debugging-se"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-22T18:09:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T17:35:17Z",
+      "Title": "Is there a better way to not make rects glitch into eachother in pygame? [duplicate]",
+      "Tags": [
+        "python",
+        "pygame",
+        "collision"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797091/is-there-a-better-way-to-not-make-rects-glitch-into-eachother-in-pygame"
+    },
+    {
+      "Created": "2025-10-22T18:09:03Z",
+      "Title": "How to detect by code when shutting down application with the red square stop button in visual studio?",
+      "Tags": [
+        "c#",
+        "winforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797111/how-to-detect-by-code-when-shutting-down-application-with-the-red-square-stop-bu"
+    }
+  ]
+}

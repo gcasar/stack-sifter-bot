@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T06:57:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T06:21:18Z",
+      "Title": "React custom hook using Axios returns undefined during first render",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796436/react-custom-hook-using-axios-returns-undefined-during-first-render"
+    },
+    {
+      "Created": "2025-10-22T06:25:25Z",
+      "Title": "Where can I find the custom constants?",
+      "Tags": [
+        "uniface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796441/where-can-i-find-the-custom-constants"
+    },
+    {
+      "Created": "2025-10-22T06:29:45Z",
+      "Title": "Extract data and store in struct (C\u002B\u002B 20)",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "std-ranges"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796450/extract-data-and-store-in-struct-c-20"
+    },
+    {
+      "Created": "2025-10-22T06:47:34Z",
+      "Title": "How to change pagination color?",
+      "Tags": [
+        "javascript",
+        "angular",
+        "taiga"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796471/how-to-change-pagination-color"
+    },
+    {
+      "Created": "2025-10-22T06:57:42Z",
+      "Title": "Identity Philisps Hue Light in Apple Home HomeKit [closed]",
+      "Tags": [
+        "homekit",
+        "philips-hue"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796482/identity-philisps-hue-light-in-apple-home-homekit"
+    }
+  ]
+}

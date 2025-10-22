@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-22T13:13:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T12:22:22Z",
+      "Title": "How can I pass a list of elements as a template\u0027s param to work on each on them with a for-each approach in XSLT 1.0?",
+      "Tags": [
+        "xslt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796757/how-can-i-pass-a-list-of-elements-as-a-templates-param-to-work-on-each-on-them"
+    },
+    {
+      "Created": "2025-10-22T13:05:29Z",
+      "Title": "Why do tidycmprsk::crr() and cmprsk::crr() give different coefficients for the same Fine-Gray model?",
+      "Tags": [
+        "r",
+        "statistics",
+        "survival-analysis",
+        "covariance-matrix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796802/why-do-tidycmprskcrr-and-cmprskcrr-give-different-coefficients-for-the-s"
+    },
+    {
+      "Created": "2025-10-22T13:07:45Z",
+      "Title": "Nodemailer emails not working on Vercel deploy",
+      "Tags": [
+        "next.js",
+        "vercel",
+        "nodemailer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796806/nodemailer-emails-not-working-on-vercel-deploy"
+    },
+    {
+      "Created": "2025-10-22T13:13:00Z",
+      "Title": "Django-Oscar: UserAddressForm override in oscar fork doesnt work",
+      "Tags": [
+        "django-oscar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796811/django-oscar-useraddressform-override-in-oscar-fork-doesnt-work"
+    }
+  ]
+}

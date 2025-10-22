@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-22T14:04:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T13:58:14Z",
+      "Title": "Why doesn\u0027t make fail if a file exists but there is no rule for it",
+      "Tags": [
+        "makefile",
+        "gnu-make"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796855/why-doesnt-make-fail-if-a-file-exists-but-there-is-no-rule-for-it"
+    },
+    {
+      "Created": "2025-10-22T14:00:10Z",
+      "Title": "Binding GDExtension operators",
+      "Tags": [
+        "c\u002B\u002B",
+        "godot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796856/binding-gdextension-operators"
+    },
+    {
+      "Created": "2025-10-22T14:04:52Z",
+      "Title": "using eslint through \u0022ng lint\u0022 cli command return error \u0022All files matching the following patterns are ignored: - \u0027/src/**/*.ts\u0027 - \u0027/src/**/*.html\u0027",
+      "Tags": [
+        "angular-eslint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796862/using-eslint-through-ng-lint-cli-command-return-error-all-files-matching-the"
+    }
+  ]
+}

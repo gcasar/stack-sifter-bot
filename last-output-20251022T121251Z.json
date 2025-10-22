@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T12:10:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T11:22:31Z",
+      "Title": "Using a function to format any list of PATHs",
+      "Tags": [
+        "bash",
+        "shell",
+        "unix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796705/using-a-function-to-format-any-list-of-paths"
+    },
+    {
+      "Created": "2025-10-22T12:00:38Z",
+      "Title": "ImportError: cannot import name \u0027AgentExecutor\u0027 from \u0027langchain.agents\u0027",
+      "Tags": [
+        "python",
+        "langchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796733/importerror-cannot-import-name-agentexecutor-from-langchain-agents"
+    },
+    {
+      "Created": "2025-10-22T12:01:03Z",
+      "Title": "How to Access ViewContext in .NET 9",
+      "Tags": [
+        "c#",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796734/how-to-access-viewcontext-in-net-9"
+    },
+    {
+      "Created": "2025-10-22T12:07:00Z",
+      "Title": "Create website that uses ES modules yet can be saved locally",
+      "Tags": [
+        "javascript",
+        "html",
+        "es6-modules",
+        "offline-browsing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796740/create-website-that-uses-es-modules-yet-can-be-saved-locally"
+    },
+    {
+      "Created": "2025-10-22T12:10:37Z",
+      "Title": "Send email when a value exceeds cell value",
+      "Tags": [
+        "excel",
+        "vba",
+        "email"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796743/send-email-when-a-value-exceeds-cell-value"
+    }
+  ]
+}

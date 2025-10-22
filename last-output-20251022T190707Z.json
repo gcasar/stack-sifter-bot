@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-22T18:59:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T18:33:53Z",
+      "Title": "How can I force release of internally allocated memory to avoid accumulated allocations leading to MemoryError?",
+      "Tags": [
+        "python",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797131/how-can-i-force-release-of-internally-allocated-memory-to-avoid-accumulated-allo"
+    },
+    {
+      "Created": "2025-10-22T18:59:58Z",
+      "Title": "Show only failing and expected values from PHPUnit output",
+      "Tags": [
+        "laravel",
+        "phpunit",
+        "laravel-artisan"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797153/show-only-failing-and-expected-values-from-phpunit-output"
+    }
+  ]
+}

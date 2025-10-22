@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T10:00:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T09:16:44Z",
+      "Title": "Trying to create Buffer overflow for an example for school in C\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "security",
+        "memory",
+        "buffer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796604/trying-to-create-buffer-overflow-for-an-example-for-school-in-c"
+    },
+    {
+      "Created": "2025-10-22T09:37:57Z",
+      "Title": "How do I get a list of changesets from Azure DevOps API?",
+      "Tags": [
+        "c#",
+        "azure-devops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796625/how-do-i-get-a-list-of-changesets-from-azure-devops-api"
+    },
+    {
+      "Created": "2025-10-22T09:48:21Z",
+      "Title": "How to refresh APNs token automatically after device restore without requiring the user to open the app?",
+      "Tags": [
+        "ios",
+        "swift",
+        "push-notification",
+        "apple-push-notifications",
+        "appdelegate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796631/how-to-refresh-apns-token-automatically-after-device-restore-without-requiring-t"
+    },
+    {
+      "Created": "2025-10-22T09:55:52Z",
+      "Title": "Learning Assembly with 6502 emulator",
+      "Tags": [
+        "assembly",
+        "6502"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796636/learning-assembly-with-6502-emulator"
+    },
+    {
+      "Created": "2025-10-22T10:00:27Z",
+      "Title": "VBA Runtime Error 9 When Copying Sheets From One Workbook to Another",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796640/vba-runtime-error-9-when-copying-sheets-from-one-workbook-to-another"
+    }
+  ]
+}

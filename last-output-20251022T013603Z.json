@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T01:31:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T01:09:47Z",
+      "Title": "Type safe way to switch between all permutations of multiple variables?",
+      "Tags": [
+        "javascript",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796329/type-safe-way-to-switch-between-all-permutations-of-multiple-variables"
+    },
+    {
+      "Created": "2025-10-22T01:11:26Z",
+      "Title": "Guzzle not guzzling",
+      "Tags": [
+        "guzzle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796330/guzzle-not-guzzling"
+    },
+    {
+      "Created": "2025-10-22T01:20:03Z",
+      "Title": "Django ORM fails to generate valid sql for JSONb contains",
+      "Tags": [
+        "django",
+        "postgresql",
+        "django-jsonfield"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796335/django-orm-fails-to-generate-valid-sql-for-jsonb-contains"
+    },
+    {
+      "Created": "2025-10-22T01:23:47Z",
+      "Title": "Seaborn pairplot with one dataset having only NaN values leads to unexpected behavior",
+      "Tags": [
+        "python",
+        "seaborn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796336/seaborn-pairplot-with-one-dataset-having-only-nan-values-leads-to-unexpected-beh"
+    },
+    {
+      "Created": "2025-10-22T01:31:20Z",
+      "Title": "SML function to return list of 1^2 to n^2, having issues with reference cell list",
+      "Tags": [
+        "sml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79796337/sml-function-to-return-list-of-12-to-n2-having-issues-with-reference-cell-lis"
+    }
+  ]
+}

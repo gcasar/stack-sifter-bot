@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T16:53:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T16:21:15Z",
+      "Title": "Can someone help me with my hangman code for a school assignment? [closed]",
+      "Tags": [
+        "python",
+        "syntax-error"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797021/can-someone-help-me-with-my-hangman-code-for-a-school-assignment"
+    },
+    {
+      "Created": "2025-10-22T16:44:22Z",
+      "Title": "How to derive state from required inputs without ngOnInit and constructor?",
+      "Tags": [
+        "angular",
+        "angular-signals"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797045/how-to-derive-state-from-required-inputs-without-ngoninit-and-constructor"
+    },
+    {
+      "Created": "2025-10-22T16:52:11Z",
+      "Title": "How to get parent process full path in sched_process_fork tracepoint using ebpf?",
+      "Tags": [
+        "ebpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797058/how-to-get-parent-process-full-path-in-sched-process-fork-tracepoint-using-ebpf"
+    },
+    {
+      "Created": "2025-10-22T16:53:03Z",
+      "Title": "How to connect to Notion\u0027s remote MCP server from your own MCP client?",
+      "Tags": [
+        "python",
+        "pydantic",
+        "notion-api",
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797060/how-to-connect-to-notions-remote-mcp-server-from-your-own-mcp-client"
+    },
+    {
+      "Created": "2025-10-22T16:53:30Z",
+      "Title": "How to test via ON_CALL for any enum value in an overloaded function",
+      "Tags": [
+        "googlemock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797061/how-to-test-via-on-call-for-any-enum-value-in-an-overloaded-function"
+    }
+  ]
+}

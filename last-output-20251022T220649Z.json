@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-22T22:00:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T21:23:15Z",
+      "Title": "Best workflow for manually mapping 1500\u002B generic POS barcodes to e-commerce variations (SKUs) [closed]",
+      "Tags": [
+        "architecture",
+        "logic",
+        "e-commerce",
+        "point-of-sale"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797239/best-workflow-for-manually-mapping-1500-generic-pos-barcodes-to-e-commerce-vari"
+    },
+    {
+      "Created": "2025-10-22T21:41:25Z",
+      "Title": "Laravel PHPUnit test: Multiple databases issue",
+      "Tags": [
+        "laravel",
+        "sqlite",
+        "testing",
+        "phpunit",
+        "multiple-databases"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797245/laravel-phpunit-test-multiple-databases-issue"
+    },
+    {
+      "Created": "2025-10-22T21:48:55Z",
+      "Title": "TextField not focusing when view appears?",
+      "Tags": [
+        "ios",
+        "swift",
+        "xcode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797249/textfield-not-focusing-when-view-appears"
+    },
+    {
+      "Created": "2025-10-22T21:59:04Z",
+      "Title": "How can I adjust my coding from Pinescript v5 to webull script so that it works correctly?",
+      "Tags": [
+        "pine-script-v5",
+        "tradingview-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797255/how-can-i-adjust-my-coding-from-pinescript-v5-to-webull-script-so-that-it-works"
+    },
+    {
+      "Created": "2025-10-22T22:00:37Z",
+      "Title": "How to keep celery tasks in redis after restart",
+      "Tags": [
+        "docker-compose",
+        "redis",
+        "celery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797256/how-to-keep-celery-tasks-in-redis-after-restart"
+    }
+  ]
+}

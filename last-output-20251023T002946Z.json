@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-23T00:23:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-22T23:26:25Z",
+      "Title": "Having troubles with docker compose - Debian",
+      "Tags": [
+        "docker",
+        "next.js",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797291/having-troubles-with-docker-compose-debian"
+    },
+    {
+      "Created": "2025-10-22T23:31:01Z",
+      "Title": "How to implement syscalls (gettime) with a basic o.s based on ZeOs (C and Assembler x86), Bochs Emulator",
+      "Tags": [
+        "c",
+        "assembly",
+        "x86"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797292/how-to-implement-syscalls-gettime-with-a-basic-o-s-based-on-zeos-c-and-assemb"
+    },
+    {
+      "Created": "2025-10-23T00:05:49Z",
+      "Title": "How to Convert Car to CarDTO using MapStruct Spring Extensions 1.1.3?",
+      "Tags": [
+        "spring-boot",
+        "lombok",
+        "mapstruct"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797299/how-to-convert-car-to-cardto-using-mapstruct-spring-extensions-1-1-3"
+    },
+    {
+      "Created": "2025-10-23T00:12:03Z",
+      "Title": "Asset 404 error when installing GitLab with Helm on Kubernetes",
+      "Tags": [
+        "kubernetes",
+        "gitlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797301/asset-404-error-when-installing-gitlab-with-helm-on-kubernetes"
+    },
+    {
+      "Created": "2025-10-23T00:23:58Z",
+      "Title": "How to paste a copied file into a Flutter TextField and get the file path (Android/iOS)?",
+      "Tags": [
+        "flutter",
+        "file",
+        "textfield",
+        "clipboard",
+        "paste"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797303/how-to-paste-a-copied-file-into-a-flutter-textfield-and-get-the-file-path-andro"
+    }
+  ]
+}

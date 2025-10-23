@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-23T02:45:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T02:32:51Z",
+      "Title": "Issues deserializing JSON from VMWare API (C#, System.Text.Json)",
+      "Tags": [
+        "c#",
+        "json-deserialization",
+        "system.text.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797351/issues-deserializing-json-from-vmware-api-c-system-text-json"
+    },
+    {
+      "Created": "2025-10-23T02:40:10Z",
+      "Title": "NextAuth Google Login Redirect to Localhost instead of Production Domain",
+      "Tags": [
+        "next.js",
+        "aws-amplify",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797355/nextauth-google-login-redirect-to-localhost-instead-of-production-domain"
+    },
+    {
+      "Created": "2025-10-23T02:40:32Z",
+      "Title": "inconsistent result according to incomplete type and concept (sfinae)",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797357/inconsistent-result-according-to-incomplete-type-and-concept-sfinae"
+    },
+    {
+      "Created": "2025-10-23T02:45:56Z",
+      "Title": "FastAPI caused ModuleNotFoundError: No module named \u0027app.ota\u0027",
+      "Tags": [
+        "python",
+        "fastapi",
+        "uvicorn",
+        "uv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797359/fastapi-caused-modulenotfounderror-no-module-named-app-ota"
+    }
+  ]
+}

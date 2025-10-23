@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-23T05:32:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T05:08:42Z",
+      "Title": "Extract the longest pre-consecutive sequence from a list of integers without using sorting",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797417/extract-the-longest-pre-consecutive-sequence-from-a-list-of-integers-without-usi"
+    },
+    {
+      "Created": "2025-10-23T05:09:41Z",
+      "Title": "Hard Crash/Fault when running GDAL operations Synchronously in PyQt5 Main Thread",
+      "Tags": [
+        "python",
+        "pyqt5",
+        "gdal",
+        "gdal-python-bindings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797419/hard-crash-fault-when-running-gdal-operations-synchronously-in-pyqt5-main-thread"
+    },
+    {
+      "Created": "2025-10-23T05:24:22Z",
+      "Title": "Nested C Makefile",
+      "Tags": [
+        "c",
+        "linux",
+        "makefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797425/nested-c-makefile"
+    },
+    {
+      "Created": "2025-10-23T05:24:52Z",
+      "Title": "Why can\u0027t this friend class access the private move constructor?",
+      "Tags": [
+        "c\u002B\u002B",
+        "private",
+        "static-assert",
+        "move-constructor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797426/why-cant-this-friend-class-access-the-private-move-constructor"
+    },
+    {
+      "Created": "2025-10-23T05:32:15Z",
+      "Title": "How flexible is SignInManager for custom DBs and AD?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "asp.net-core",
+        "blazor",
+        "asp.net-identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797431/how-flexible-is-signinmanager-for-custom-dbs-and-ad"
+    }
+  ]
+}

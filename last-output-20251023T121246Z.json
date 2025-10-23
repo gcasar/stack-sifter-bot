@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-23T12:03:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T11:56:40Z",
+      "Title": "How to protect endpoints used by iOS Message Filtering Extension?",
+      "Tags": [
+        "ios",
+        "swift",
+        "sms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797752/how-to-protect-endpoints-used-by-ios-message-filtering-extension"
+    },
+    {
+      "Created": "2025-10-23T12:01:13Z",
+      "Title": "Response time delay when using Expo fetch",
+      "Tags": [
+        "javascript",
+        "react-native",
+        "expo",
+        "expo-file-system"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797756/response-time-delay-when-using-expo-fetch"
+    },
+    {
+      "Created": "2025-10-23T12:03:20Z",
+      "Title": "How to integrate Vue.js 3 with SPFx 1.21.1?",
+      "Tags": [
+        "webpack",
+        "vuejs3",
+        "gulp",
+        "spfx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797759/how-to-integrate-vue-js-3-with-spfx-1-21-1"
+    }
+  ]
+}

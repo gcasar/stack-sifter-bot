@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-23T22:46:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T22:29:51Z",
+      "Title": "Pygris syntax for tract-level demographic data",
+      "Tags": [
+        "python",
+        "census",
+        "tigris"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798260/pygris-syntax-for-tract-level-demographic-data"
+    },
+    {
+      "Created": "2025-10-23T22:46:17Z",
+      "Title": "What are some good ways to improve speech/voice recognition code in C#?",
+      "Tags": [
+        "c#",
+        "speech-recognition",
+        "speech-to-text",
+        "system.speech.recognition",
+        "voice-to-text"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798263/what-are-some-good-ways-to-improve-speech-voice-recognition-code-in-c"
+    }
+  ]
+}

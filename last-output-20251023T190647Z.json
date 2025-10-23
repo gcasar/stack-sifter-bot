@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-23T18:53:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T18:41:44Z",
+      "Title": "Trying for days now to send IR data to turn on my tv, but nothing works",
+      "Tags": [
+        "c\u002B\u002B",
+        "arduino",
+        "television",
+        "infrared",
+        "remote-control"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798096/trying-for-days-now-to-send-ir-data-to-turn-on-my-tv-but-nothing-works"
+    },
+    {
+      "Created": "2025-10-23T18:46:03Z",
+      "Title": "Grabbing User Lockout location in C#",
+      "Tags": [
+        "c#",
+        "active-directory",
+        "domaincontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798099/grabbing-user-lockout-location-in-c-sharp"
+    },
+    {
+      "Created": "2025-10-23T18:49:57Z",
+      "Title": "Calculation of CRC7",
+      "Tags": [
+        "python",
+        "sd-card",
+        "micropython",
+        "crc",
+        "raspberry-pi-pico"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798102/calculation-of-crc7"
+    },
+    {
+      "Created": "2025-10-23T18:51:49Z",
+      "Title": "How to get XML node values in VBA?",
+      "Tags": [
+        "vba",
+        "xml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798105/how-to-get-xml-node-values-in-vba"
+    },
+    {
+      "Created": "2025-10-23T18:53:07Z",
+      "Title": "Why is my simple Arm7ish data memory on verilog failing tests?",
+      "Tags": [
+        "verilog",
+        "fpga",
+        "arm7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798106/why-is-my-simple-arm7ish-data-memory-on-verilog-failing-tests"
+    }
+  ]
+}

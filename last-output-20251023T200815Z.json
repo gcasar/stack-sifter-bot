@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-23T20:04:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T19:07:44Z",
+      "Title": "Failed to get FirebaseApp Instance in Xcode Preview after Modularization",
+      "Tags": [
+        "firebase",
+        "swiftui",
+        "modularization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798118/failed-to-get-firebaseapp-instance-in-xcode-preview-after-modularization"
+    },
+    {
+      "Created": "2025-10-23T19:42:01Z",
+      "Title": "How to aggregate a group by queryset in django?",
+      "Tags": [
+        "python",
+        "sql",
+        "django",
+        "window-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798150/how-to-aggregate-a-group-by-queryset-in-django"
+    },
+    {
+      "Created": "2025-10-23T19:49:28Z",
+      "Title": "ThreeJS in MapLibre-GL-JS: Transparent colors in texture not honoring alpha",
+      "Tags": [
+        "three.js",
+        "opacity",
+        "maplibre-gl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798156/threejs-in-maplibre-gl-js-transparent-colors-in-texture-not-honoring-alpha"
+    },
+    {
+      "Created": "2025-10-23T20:01:35Z",
+      "Title": "SQLAlchemy Dealing with null/none type in where statement",
+      "Tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798160/sqlalchemy-dealing-with-null-none-type-in-where-statement"
+    },
+    {
+      "Created": "2025-10-23T20:04:47Z",
+      "Title": "Multi-project solution using docker-compose: added a new project and the container won\u0027t run when launched from Visual Studio",
+      "Tags": [
+        "visual-studio",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798163/multi-project-solution-using-docker-compose-added-a-new-project-and-the-contain"
+    }
+  ]
+}

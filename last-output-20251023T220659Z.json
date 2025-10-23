@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-23T22:05:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T21:40:29Z",
+      "Title": "How to strongly type a getter map that builds a precise Record from a heterogeneous Record?",
+      "Tags": [
+        "typescript",
+        "typescript-generics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798229/how-to-strongly-type-a-getter-map-that-builds-a-precise-record-from-a-heterogene"
+    },
+    {
+      "Created": "2025-10-23T21:49:00Z",
+      "Title": "If statement always true",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798234/if-statement-always-true"
+    },
+    {
+      "Created": "2025-10-23T22:02:39Z",
+      "Title": "Package Manager Console thinks migration is applied but now it isn\u0027t",
+      "Tags": [
+        "visual-studio",
+        ".net-core",
+        "entity-framework-core",
+        "package-manager-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798245/package-manager-console-thinks-migration-is-applied-but-now-it-isnt"
+    },
+    {
+      "Created": "2025-10-23T22:05:46Z",
+      "Title": "Angular app on Visual Studio 2022 with new build system (ESBuild)",
+      "Tags": [
+        "c#",
+        "angular",
+        "typescript",
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798247/angular-app-on-visual-studio-2022-with-new-build-system-esbuild"
+    }
+  ]
+}

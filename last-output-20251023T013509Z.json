@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-23T01:21:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T00:36:12Z",
+      "Title": "Script to start the Rails server does not work when I use crontab",
+      "Tags": [
+        "ruby-on-rails",
+        "linux",
+        "bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797309/script-to-start-the-rails-server-does-not-work-when-i-use-crontab"
+    },
+    {
+      "Created": "2025-10-23T00:47:30Z",
+      "Title": "How to persist data using PrismaAdapter and Authjs in nextjs app",
+      "Tags": [
+        "next.js",
+        "prisma",
+        "next-auth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797313/how-to-persist-data-using-prismaadapter-and-authjs-in-nextjs-app"
+    },
+    {
+      "Created": "2025-10-23T00:58:24Z",
+      "Title": "Webauthn Registration and Authentication flows with BFF",
+      "Tags": [
+        "webauthn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797319/webauthn-registration-and-authentication-flows-with-bff"
+    },
+    {
+      "Created": "2025-10-23T01:16:27Z",
+      "Title": "Azure SqlMI with Managed Identity - Connection works when running locally but not from Azure VM",
+      "Tags": [
+        "azure-active-directory",
+        "azure-managed-identity",
+        "microsoft-entra-id",
+        "azure-sql-managed-instance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797325/azure-sqlmi-with-managed-identity-connection-works-when-running-locally-but-no"
+    },
+    {
+      "Created": "2025-10-23T01:17:22Z",
+      "Title": "Map markers cut off when applying ignoresSafeArea() with Google Map",
+      "Tags": [
+        "ios",
+        "swift",
+        "google-maps",
+        "swiftui",
+        "google-maps-sdk-ios"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797326/map-markers-cut-off-when-applying-ignoressafearea-with-google-map"
+    },
+    {
+      "Created": "2025-10-23T01:21:15Z",
+      "Title": "aiosqlite and managing transactions",
+      "Tags": [
+        "python",
+        "database",
+        "sqlite",
+        "transactions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797328/aiosqlite-and-managing-transactions"
+    }
+  ]
+}

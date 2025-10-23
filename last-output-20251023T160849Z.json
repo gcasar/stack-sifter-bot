@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-23T16:00:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T15:25:02Z",
+      "Title": "How can I debug a driver under Windows XP on a machine with Microsoft Visual C\u002B\u002B 6.0?",
+      "Tags": [
+        "c\u002B\u002B",
+        "driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797965/how-can-i-debug-a-driver-under-windows-xp-on-a-machine-with-microsoft-visual-c"
+    },
+    {
+      "Created": "2025-10-23T15:40:04Z",
+      "Title": "Defining a BelongsToMany relation with an additional where clause",
+      "Tags": [
+        "laravel",
+        "eloquent",
+        "laravel-8",
+        "eloquent-relationship"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797977/defining-a-belongstomany-relation-with-an-additional-where-clause"
+    },
+    {
+      "Created": "2025-10-23T15:44:43Z",
+      "Title": "Downloading file via ajax throws security error in browser in Preact web app",
+      "Tags": [
+        "javascript",
+        "ajax",
+        "preact"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797982/downloading-file-via-ajax-throws-security-error-in-browser-in-preact-web-app"
+    },
+    {
+      "Created": "2025-10-23T15:56:05Z",
+      "Title": "Helm subchart uses baseline values.yaml instead of merged values.yaml \u002B values-dev.yaml when deployed via parent chart",
+      "Tags": [
+        "kubernetes",
+        "kubernetes-helm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797988/helm-subchart-uses-baseline-values-yaml-instead-of-merged-values-yaml-values-d"
+    },
+    {
+      "Created": "2025-10-23T16:00:49Z",
+      "Title": "Migrate Azure DevOps Server (On Preimises) repo to Git Hub Enterprise",
+      "Tags": [
+        "github",
+        "tfs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797992/migrate-azure-devops-server-on-preimises-repo-to-git-hub-enterprise"
+    }
+  ]
+}

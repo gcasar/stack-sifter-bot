@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-23T10:01:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T09:36:16Z",
+      "Title": "How to resolve SSLPeerUnverifiedException: Hostname not verified in HttpsURLConnection in NET.MAUI Android app?",
+      "Tags": [
+        "android",
+        "ssl",
+        "iis",
+        "https",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797621/how-to-resolve-sslpeerunverifiedexception-hostname-not-verified-in-httpsurlconn"
+    },
+    {
+      "Created": "2025-10-23T09:40:10Z",
+      "Title": "Size of anonymous struct standard conformal?",
+      "Tags": [
+        "c",
+        "c99",
+        "c89",
+        "ansi-c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797630/size-of-anonymous-struct-standard-conformal"
+    },
+    {
+      "Created": "2025-10-23T09:49:47Z",
+      "Title": "Facebook API and PHP SDK time_range problem",
+      "Tags": [
+        "php",
+        "facebook-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797639/facebook-api-and-php-sdk-time-range-problem"
+    },
+    {
+      "Created": "2025-10-23T09:53:09Z",
+      "Title": "what NOSQL database is good for multi-modal rag pipeline in python",
+      "Tags": [
+        "python",
+        "database",
+        "nosql",
+        "rag",
+        "multimodal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797645/what-nosql-database-is-good-for-multi-modal-rag-pipeline-in-python"
+    },
+    {
+      "Created": "2025-10-23T10:01:32Z",
+      "Title": "Standard-conformant explicit capture-by-value in lambda expression?",
+      "Tags": [
+        "c\u002B\u002B",
+        "lambda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797648/standard-conformant-explicit-capture-by-value-in-lambda-expression"
+    }
+  ]
+}

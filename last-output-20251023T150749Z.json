@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-23T15:02:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T14:45:30Z",
+      "Title": "Unable to cast object of type \u0027System.Int32\u0027 to type \u0027System.Int16\u0027 but schema in both SQL and C# using int16",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797937/unable-to-cast-object-of-type-system-int32-to-type-system-int16-but-schema-i"
+    },
+    {
+      "Created": "2025-10-23T14:46:56Z",
+      "Title": "GCC pragma: error: expected expression before \u2018#pragma\u2019",
+      "Tags": [
+        "c",
+        "gcc",
+        "c-preprocessor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797938/gcc-pragma-error-expected-expression-before-pragma"
+    },
+    {
+      "Created": "2025-10-23T14:58:36Z",
+      "Title": "Prevent git from pruning any commits",
+      "Tags": [
+        "git",
+        "audit-trail",
+        "gitea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797949/prevent-git-from-pruning-any-commits"
+    },
+    {
+      "Created": "2025-10-23T15:02:07Z",
+      "Title": "Debugging SIGSEGV on ret instruction of std::chrono::system::now()",
+      "Tags": [
+        "c\u002B\u002B",
+        "debugging",
+        "segmentation-fault",
+        "gdb",
+        "x86-64"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797951/debugging-sigsegv-on-ret-instruction-of-stdchronosystemnow"
+    }
+  ]
+}

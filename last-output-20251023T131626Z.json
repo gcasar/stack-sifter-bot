@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-23T13:11:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T12:34:16Z",
+      "Title": "Prisma - Sorting by function applied on a column",
+      "Tags": [
+        "sorting",
+        "lambda",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797797/prisma-sorting-by-function-applied-on-a-column"
+    },
+    {
+      "Created": "2025-10-23T12:36:57Z",
+      "Title": "How to log only the root cause exception from a Spring Kafka @KafkaListener?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "apache-kafka",
+        "spring-kafka"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797800/how-to-log-only-the-root-cause-exception-from-a-spring-kafka-kafkalistener"
+    },
+    {
+      "Created": "2025-10-23T12:45:26Z",
+      "Title": "Tkinter call another window with a button",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797811/tkinter-call-another-window-with-a-button"
+    },
+    {
+      "Created": "2025-10-23T12:52:18Z",
+      "Title": "Features Folder asp net mvc with css integrated",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "asp.net-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797817/features-folder-asp-net-mvc-with-css-integrated"
+    },
+    {
+      "Created": "2025-10-23T13:01:34Z",
+      "Title": "Wrap enum class to erase type",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797829/wrap-enum-class-to-erase-type"
+    },
+    {
+      "Created": "2025-10-23T13:02:05Z",
+      "Title": "Doxygen: how to set colors from original RGBA",
+      "Tags": [
+        "doxygen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797831/doxygen-how-to-set-colors-from-original-rgba"
+    },
+    {
+      "Created": "2025-10-23T13:05:36Z",
+      "Title": "Cargo ignores custom, HTTP registry",
+      "Tags": [
+        "linux",
+        "http",
+        "rust",
+        "registry",
+        "rust-cargo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797833/cargo-ignores-custom-http-registry"
+    },
+    {
+      "Created": "2025-10-23T13:07:21Z",
+      "Title": "Changing Django Model Field for Hypothesis Generation",
+      "Tags": [
+        "python",
+        "django",
+        "hypothesis-test",
+        "python-hypothesis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797837/changing-django-model-field-for-hypothesis-generation"
+    },
+    {
+      "Created": "2025-10-23T13:11:09Z",
+      "Title": "Pandas\u0027s to_datetime function and datetime format",
+      "Tags": [
+        "python",
+        "pandas",
+        "datetime",
+        "timezone"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797838/pandass-to-datetime-function-and-datetime-format"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-23T10:53:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T10:40:19Z",
+      "Title": "Creating a screenshot of the full screen using selenium in headless mode?",
+      "Tags": [
+        "python",
+        "selenium-webdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797685/creating-a-screenshot-of-the-full-screen-using-selenium-in-headless-mode"
+    },
+    {
+      "Created": "2025-10-23T10:41:42Z",
+      "Title": "Is there a truly portable \u0060alignof\u0060 implementation?",
+      "Tags": [
+        "c",
+        "c99",
+        "c89",
+        "ansi-c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797687/is-there-a-truly-portable-alignof-implementation"
+    },
+    {
+      "Created": "2025-10-23T10:42:17Z",
+      "Title": "Counting unique names in excel but not duplicate names [duplicate]",
+      "Tags": [
+        "excel",
+        "count",
+        "duplicates",
+        "unique"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797689/counting-unique-names-in-excel-but-not-duplicate-names"
+    },
+    {
+      "Created": "2025-10-23T10:53:12Z",
+      "Title": "In vim, how to search the contents of :highlight (*NOT* hlsearch)",
+      "Tags": [
+        "vim",
+        "syntax-highlighting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797693/in-vim-how-to-search-the-contents-of-highlight-not-hlsearch"
+    },
+    {
+      "Created": "2025-10-23T10:53:51Z",
+      "Title": "ASM_CONSTS mismatch when building two wasm modules using Emscripten: one with -msimd128 and one without #25631",
+      "Tags": [
+        "webassembly",
+        "emscripten",
+        "emcc",
+        "emsdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797694/asm-consts-mismatch-when-building-two-wasm-modules-using-emscripten-one-with-m"
+    }
+  ]
+}

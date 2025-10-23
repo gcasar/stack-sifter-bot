@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-23T16:59:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T16:43:38Z",
+      "Title": "Issues integrating Akka.Persistence.EventStore (v1.5.46) with EventStoreDB \u2014 gRPC errors and no events persisted",
+      "Tags": [
+        "akka.net",
+        "eventstoredb",
+        "kurrent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798020/issues-integrating-akka-persistence-eventstore-v1-5-46-with-eventstoredb-grp"
+    },
+    {
+      "Created": "2025-10-23T16:44:45Z",
+      "Title": "Why is the order of my tkinter windows changed, when the \u0022last\u0022 window executes another tkinter program by popen?",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798021/why-is-the-order-of-my-tkinter-windows-changed-when-the-last-window-executes"
+    },
+    {
+      "Created": "2025-10-23T16:50:36Z",
+      "Title": "Are there any significant drawbacks to directly accessing a DbContext in a Razor View (non-Blazor)?",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "entity-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798024/are-there-any-significant-drawbacks-to-directly-accessing-a-dbcontext-in-a-razor"
+    },
+    {
+      "Created": "2025-10-23T16:53:46Z",
+      "Title": "Can not create a frontend with HTTP to HTTPS redirection",
+      "Tags": [
+        "google-cloud-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798026/can-not-create-a-frontend-with-http-to-https-redirection"
+    },
+    {
+      "Created": "2025-10-23T16:58:57Z",
+      "Title": "How to control test class execution order in JUnit 5 suites?",
+      "Tags": [
+        "java",
+        "unit-testing",
+        "junit",
+        "junit4",
+        "junit5"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798029/how-to-control-test-class-execution-order-in-junit-5-suites"
+    },
+    {
+      "Created": "2025-10-23T16:59:15Z",
+      "Title": "Workaround to possible bug in Powershell 5.1.26100.6899 with Select-string -path",
+      "Tags": [
+        "error-handling",
+        "select-string"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798030/workaround-to-possible-bug-in-powershell-5-1-26100-6899-with-select-string-path"
+    }
+  ]
+}

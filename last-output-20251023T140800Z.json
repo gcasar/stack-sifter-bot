@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-23T14:02:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T13:38:21Z",
+      "Title": "Prevent default file selector in a DocumentGroup app and show a custom welcome window on launch",
+      "Tags": [
+        "swift",
+        "macos",
+        "swiftui",
+        "appkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797868/prevent-default-file-selector-in-a-documentgroup-app-and-show-a-custom-welcome-w"
+    },
+    {
+      "Created": "2025-10-23T13:54:36Z",
+      "Title": "Callback methods with ProtoBeforeSerialization/ProtoAfterDeserialization donot work in protobuf-net 3.2.26, even when assigned explicitly to MetaType",
+      "Tags": [
+        ".net",
+        "serialization",
+        ".net-8.0",
+        "protobuf-net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797885/callback-methods-with-protobeforeserialization-protoafterdeserialization-donot-w"
+    },
+    {
+      "Created": "2025-10-23T14:02:31Z",
+      "Title": "Dependency conflict when upgrading arrow-kt to 1.2.4",
+      "Tags": [
+        "kotlin",
+        "maven",
+        "dependency-management",
+        "arrow-kt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797895/dependency-conflict-when-upgrading-arrow-kt-to-1-2-4"
+    }
+  ]
+}

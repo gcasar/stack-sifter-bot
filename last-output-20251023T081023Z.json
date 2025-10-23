@@ -1,0 +1,94 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-23T08:01:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T07:30:14Z",
+      "Title": "Why does CORS apply to local files? And is there a way to just disable it?",
+      "Tags": [
+        "javascript",
+        "cors",
+        "fetch-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797517/why-does-cors-apply-to-local-files-and-is-there-a-way-to-just-disable-it"
+    },
+    {
+      "Created": "2025-10-23T07:35:25Z",
+      "Title": "Which is best way to implement Oauth2.0 Proof Key for Code Exchange (PKCE) in server (Nestjs)?",
+      "Tags": [
+        "authentication",
+        "oauth-2.0",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797523/which-is-best-way-to-implement-oauth2-0-proof-key-for-code-exchange-pkce-in-se"
+    },
+    {
+      "Created": "2025-10-23T07:35:58Z",
+      "Title": "How setup Neovim for Haxe programming language (LSP and Treesitter)",
+      "Tags": [
+        "lua",
+        "neovim",
+        "haxe",
+        "liskov-substitution-principle",
+        "treesitter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797524/how-setup-neovim-for-haxe-programming-language-lsp-and-treesitter"
+    },
+    {
+      "Created": "2025-10-23T07:47:49Z",
+      "Title": "Sharepoint look up column returning blank",
+      "Tags": [
+        "office365",
+        "sharepoint-online",
+        "power-automate",
+        "microsoft-forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797536/sharepoint-look-up-column-returning-blank"
+    },
+    {
+      "Created": "2025-10-23T07:51:18Z",
+      "Title": "How to ensure 100% citation accuracy in a LangGraph supervisor agent response when using rag tool outputs with structured and inline references?",
+      "Tags": [
+        "langchain",
+        "agent",
+        "citations",
+        "rag",
+        "langgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797538/how-to-ensure-100-citation-accuracy-in-a-langgraph-supervisor-agent-response-wh"
+    },
+    {
+      "Created": "2025-10-23T07:56:14Z",
+      "Title": "Can\u0027t use EnvoyFilter to remove header x-envoy-peer-metatada-id from Istio Envoy Sidecar",
+      "Tags": [
+        "istio",
+        "envoyproxy",
+        "istio-sidecar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797540/cant-use-envoyfilter-to-remove-header-x-envoy-peer-metatada-id-from-istio-envoy"
+    },
+    {
+      "Created": "2025-10-23T08:00:17Z",
+      "Title": "How can I improve the accuracy of a JavaScript-based internet speed test compared to services like Ookla?",
+      "Tags": [
+        "javascript",
+        "performance",
+        "upload",
+        "speed-test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797543/how-can-i-improve-the-accuracy-of-a-javascript-based-internet-speed-test-compare"
+    },
+    {
+      "Created": "2025-10-23T08:01:28Z",
+      "Title": "FiegnClient vs RestTemplate",
+      "Tags": [
+        "spring",
+        "spring-boot",
+        "microservices",
+        "resttemplate",
+        "feign"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797544/fiegnclient-vs-resttemplate"
+    }
+  ]
+}

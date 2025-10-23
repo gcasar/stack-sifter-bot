@@ -1,0 +1,103 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-23T07:07:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T06:30:44Z",
+      "Title": "Python packaging: single-module with package data",
+      "Tags": [
+        "python",
+        "setuptools",
+        "python-module",
+        "python-packaging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797461/python-packaging-single-module-with-package-data"
+    },
+    {
+      "Created": "2025-10-23T06:40:18Z",
+      "Title": "Are the map/multimap iterators interchangeable?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B11",
+        "unordered-map",
+        "stdmap",
+        "multimap"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797469/are-the-map-multimap-iterators-interchangeable"
+    },
+    {
+      "Created": "2025-10-23T06:41:28Z",
+      "Title": "How can I set up ESLint and Prettier in monorepo for a UI library?",
+      "Tags": [
+        "reactjs",
+        "eslint",
+        "prettier",
+        "monorepo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797470/how-can-i-set-up-eslint-and-prettier-in-monorepo-for-a-ui-library"
+    },
+    {
+      "Created": "2025-10-23T06:42:40Z",
+      "Title": "How to download an R package including all dependencies from behind a proxy server",
+      "Tags": [
+        "r",
+        "installation",
+        "package",
+        "dependencies",
+        "repository"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797471/how-to-download-an-r-package-including-all-dependencies-from-behind-a-proxy-serv"
+    },
+    {
+      "Created": "2025-10-23T06:45:23Z",
+      "Title": "QListView drag and drop items (IconMode)",
+      "Tags": [
+        "pyqt",
+        "pyside6",
+        "qlistview",
+        "qabstractitemmodel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797475/qlistview-drag-and-drop-items-iconmode"
+    },
+    {
+      "Created": "2025-10-23T06:49:04Z",
+      "Title": "Separate domain for static content in the days of HTTP2",
+      "Tags": [
+        "http2",
+        "quic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797479/separate-domain-for-static-content-in-the-days-of-http2"
+    },
+    {
+      "Created": "2025-10-23T06:55:56Z",
+      "Title": "How can I use Firecrawl to crawl and take a screenshot of a webpage instead of using Playwright in Node.js?",
+      "Tags": [
+        "html",
+        "node.js",
+        "web-crawler",
+        "firecrawl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797485/how-can-i-use-firecrawl-to-crawl-and-take-a-screenshot-of-a-webpage-instead-of-u"
+    },
+    {
+      "Created": "2025-10-23T06:57:55Z",
+      "Title": "flutter_app_icons app restarting while changing the app icon. how to avoid it?",
+      "Tags": [
+        "android",
+        "flutter",
+        "appicon"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797486/flutter-app-icons-app-restarting-while-changing-the-app-icon-how-to-avoid-it"
+    },
+    {
+      "Created": "2025-10-23T07:07:58Z",
+      "Title": "Narrowing dict to TypedDict",
+      "Tags": [
+        "python",
+        "generics",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797494/narrowing-dict-to-typeddict"
+    }
+  ]
+}

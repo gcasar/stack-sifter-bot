@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-23T05:02:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T04:43:46Z",
+      "Title": "Data disappears after editing",
+      "Tags": [
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797407/data-disappears-after-editing"
+    },
+    {
+      "Created": "2025-10-23T04:58:52Z",
+      "Title": "Reducing space between two groupplot figures in overleaf",
+      "Tags": [
+        "latex",
+        "figure",
+        "overleaf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797412/reducing-space-between-two-groupplot-figures-in-overleaf"
+    },
+    {
+      "Created": "2025-10-23T05:00:27Z",
+      "Title": "Caddy - Accessing the CISO assistant application from other computers within same network",
+      "Tags": [
+        "docker",
+        "caddy",
+        "caddyfile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797413/caddy-accessing-the-ciso-assistant-application-from-other-computers-within-sam"
+    },
+    {
+      "Created": "2025-10-23T05:02:17Z",
+      "Title": "Errors when building xcframework",
+      "Tags": [
+        "ios",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79797414/errors-when-building-xcframework"
+    }
+  ]
+}

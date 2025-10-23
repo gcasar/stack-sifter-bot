@@ -1,0 +1,99 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-23T21:03:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T20:10:36Z",
+      "Title": "C\u002B\u002B app cannot find Numpy C API even though numpy is installed [closed]",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "numpy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798166/c-app-cannot-find-numpy-c-api-even-though-numpy-is-installed"
+    },
+    {
+      "Created": "2025-10-23T20:22:26Z",
+      "Title": "Does \u0060jax\u0060 compilation save runtime memory by recognizing array elements that are duplicated by indexing",
+      "Tags": [
+        "numpy",
+        "memory",
+        "indexing",
+        "compilation",
+        "jax"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798175/does-jax-compilation-save-runtime-memory-by-recognizing-array-elements-that-ar"
+    },
+    {
+      "Created": "2025-10-23T20:38:13Z",
+      "Title": "Use jquery to set hrefs or script src in a conditional way",
+      "Tags": [
+        "jquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798191/use-jquery-to-set-hrefs-or-script-src-in-a-conditional-way"
+    },
+    {
+      "Created": "2025-10-23T20:45:35Z",
+      "Title": "how to allow Makefile generated from CMakeLists.txt to override the VAR from cmdline",
+      "Tags": [
+        "cmake",
+        "makefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798196/how-to-allow-makefile-generated-from-cmakelists-txt-to-override-the-var-from-cmd"
+    },
+    {
+      "Created": "2025-10-23T20:46:37Z",
+      "Title": "How to mock multipart/form-data with pytest?",
+      "Tags": [
+        "python",
+        "mocking",
+        "pytest",
+        "fastapi",
+        "multipartform-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798197/how-to-mock-multipart-form-data-with-pytest"
+    },
+    {
+      "Created": "2025-10-23T20:56:22Z",
+      "Title": "Is there a way to clear a line-wrapped text in a GNU Readline prompt?",
+      "Tags": [
+        "c",
+        "linux",
+        "terminal",
+        "readline",
+        "ansi-escape"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798205/is-there-a-way-to-clear-a-line-wrapped-text-in-a-gnu-readline-prompt"
+    },
+    {
+      "Created": "2025-10-23T20:57:02Z",
+      "Title": "Is it possible to achieve this combination of inner shadow, rounded border, offset border, and corner-images using only CSS?",
+      "Tags": [
+        "html",
+        "css",
+        "svg",
+        "border"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798206/is-it-possible-to-achieve-this-combination-of-inner-shadow-rounded-border-offs"
+    },
+    {
+      "Created": "2025-10-23T20:59:14Z",
+      "Title": "How to get access to field of nested reference in Redis Document from autogenerate metamodel",
+      "Tags": [
+        "redis",
+        "spring-data-redis",
+        "redis-om-spring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798208/how-to-get-access-to-field-of-nested-reference-in-redis-document-from-autogenera"
+    },
+    {
+      "Created": "2025-10-23T21:03:23Z",
+      "Title": "Why do some companies choose React over Next.js?",
+      "Tags": [
+        "reactjs",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798209/why-do-some-companies-choose-react-over-next-js"
+    }
+  ]
+}

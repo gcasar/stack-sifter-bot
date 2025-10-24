@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-24T21:01:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T20:19:14Z",
+      "Title": "Tax info verification | Google Play Console [closed]",
+      "Tags": [
+        "android",
+        "google-play-console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799137/tax-info-verification-google-play-console"
+    },
+    {
+      "Created": "2025-10-24T20:40:34Z",
+      "Title": "ESP32 NimBLE crashes on characteristic write during provisioning - restart loop",
+      "Tags": [
+        "arduino",
+        "crash",
+        "bluetooth-lowenergy",
+        "esp32",
+        "nimble"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799153/esp32-nimble-crashes-on-characteristic-write-during-provisioning-restart-loop"
+    },
+    {
+      "Created": "2025-10-24T20:43:13Z",
+      "Title": "Cannot boot LFS system on VMWare",
+      "Tags": [
+        "linux",
+        "kernel",
+        "vmware",
+        "grub",
+        "linux-from-scratch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799158/cannot-boot-lfs-system-on-vmware"
+    },
+    {
+      "Created": "2025-10-24T20:53:55Z",
+      "Title": "Why does my /ping route return 404 in a Spring MVC app (not Spring Boot)?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799161/why-does-my-ping-route-return-404-in-a-spring-mvc-app-not-spring-boot"
+    },
+    {
+      "Created": "2025-10-24T21:01:42Z",
+      "Title": "DSA questions please help in this [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "data-structures",
+        "dynamic-programming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799169/dsa-questions-please-help-in-this"
+    }
+  ]
+}

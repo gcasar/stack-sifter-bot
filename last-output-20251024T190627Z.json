@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-24T18:55:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T18:49:56Z",
+      "Title": "Detect when link clicked to same named anchor on same page (Javascript-only)",
+      "Tags": [
+        "javascript",
+        "html"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799089/detect-when-link-clicked-to-same-named-anchor-on-same-page-javascript-only"
+    },
+    {
+      "Created": "2025-10-24T18:55:28Z",
+      "Title": "Linkedlist create like below with shared_ptr is proper or wrong -",
+      "Tags": [
+        "c\u002B\u002B",
+        "linked-list",
+        "shared-ptr",
+        "smart-pointers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799090/linkedlist-create-like-below-with-shared-ptr-is-proper-or-wrong"
+    }
+  ]
+}

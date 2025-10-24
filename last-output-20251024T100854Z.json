@@ -1,0 +1,83 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-24T10:05:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T09:29:52Z",
+      "Title": "different behaviour of objcopy with binary output between Windows and Linux",
+      "Tags": [
+        "gcc",
+        "binary",
+        "mingw",
+        "objcopy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798608/different-behaviour-of-objcopy-with-binary-output-between-windows-and-linux"
+    },
+    {
+      "Created": "2025-10-24T09:43:28Z",
+      "Title": "Unit testing with TestFX (and Mockito)",
+      "Tags": [
+        "java",
+        "unit-testing",
+        "javafx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798621/unit-testing-with-testfx-and-mockito"
+    },
+    {
+      "Created": "2025-10-24T09:51:38Z",
+      "Title": "Tkinter loading user Data from a file not in directory",
+      "Tags": [
+        "python",
+        "tkinter",
+        "import",
+        "directory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798624/tkinter-loading-user-data-from-a-file-not-in-directory"
+    },
+    {
+      "Created": "2025-10-24T09:52:03Z",
+      "Title": "DolphinDB upsert! Operation Throws \u0022A table can\u0027t contain duplicate column names\u0022 Error",
+      "Tags": [
+        "database",
+        "time-series",
+        "distributed-computing",
+        "upsert",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798625/dolphindb-upsert-operation-throws-a-table-cant-contain-duplicate-column-names"
+    },
+    {
+      "Created": "2025-10-24T09:55:54Z",
+      "Title": "Imunify360 detecting my old CodeCanyon PHP script as \u201Cremote tool\u201D \u2014 possible false positive?",
+      "Tags": [
+        "php",
+        "database",
+        "security",
+        "malware-detection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798631/imunify360-detecting-my-old-codecanyon-php-script-as-remote-tool-possible-fa"
+    },
+    {
+      "Created": "2025-10-24T09:58:55Z",
+      "Title": "How to avoid or bypass Microsoft authentication and 2FA during Playwright test automation?",
+      "Tags": [
+        "authentication",
+        "playwright",
+        "multi-factor-authentication",
+        "chrome-devtools-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798635/how-to-avoid-or-bypass-microsoft-authentication-and-2fa-during-playwright-test-a"
+    },
+    {
+      "Created": "2025-10-24T10:05:49Z",
+      "Title": "Polar projection mismatch between coastlines (SouthPolarStereo) and data (EASE/Stereographic)",
+      "Tags": [
+        "python",
+        "matplotlib",
+        "netcdf",
+        "cartopy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798644/polar-projection-mismatch-between-coastlines-southpolarstereo-and-data-ease-s"
+    }
+  ]
+}

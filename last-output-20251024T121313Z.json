@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-24T12:10:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T11:34:31Z",
+      "Title": "TaskGroup in Python 3.11 freezes if one task raises an exception - is it a known bug?",
+      "Tags": [
+        "python",
+        "python-asyncio",
+        "python-3.11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798721/taskgroup-in-python-3-11-freezes-if-one-task-raises-an-exception-is-it-a-known"
+    },
+    {
+      "Created": "2025-10-24T11:51:33Z",
+      "Title": "Using an analog of boost::asio::awaitable in boost::cobalt",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost-asio",
+        "boost-cobalt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798736/using-an-analog-of-boostasioawaitable-in-boostcobalt"
+    },
+    {
+      "Created": "2025-10-24T11:59:05Z",
+      "Title": "SAM3X8E / Arduino Due: Timer/Counter not generating PWM on TIOB0 (PB27) \u2014 output stuck HIGH",
+      "Tags": [
+        "arduino",
+        "pwm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798740/sam3x8e-arduino-due-timer-counter-not-generating-pwm-on-tiob0-pb27-output"
+    },
+    {
+      "Created": "2025-10-24T12:07:38Z",
+      "Title": "Clarification on StorageQuota and BonusStorageQuotaMb in SharePoint Online (CSOM / PowerShell)",
+      "Tags": [
+        "powershell",
+        "sharepoint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798746/clarification-on-storagequota-and-bonusstoragequotamb-in-sharepoint-online-csom"
+    },
+    {
+      "Created": "2025-10-24T12:10:13Z",
+      "Title": "Why does the SHA256 hash o the chromedriver-win64.zip not match the officially site",
+      "Tags": [
+        "curl",
+        "windows-subsystem-for-linux",
+        "sha256"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798749/why-does-the-sha256-hash-o-the-chromedriver-win64-zip-not-match-the-officially-s"
+    }
+  ]
+}

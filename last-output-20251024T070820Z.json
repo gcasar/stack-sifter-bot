@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-24T07:04:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T06:20:47Z",
+      "Title": "Payment Gateway Integration in Laravel",
+      "Tags": [
+        "json",
+        "callback",
+        "laravel-8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798441/payment-gateway-integration-in-laravel"
+    },
+    {
+      "Created": "2025-10-24T06:28:26Z",
+      "Title": "How to update ToggleButton?",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798444/how-to-update-togglebutton"
+    },
+    {
+      "Created": "2025-10-24T06:32:14Z",
+      "Title": "Use resource DLL loaded using LoadLibraryEx(..., LOAD_LIBRARY_AS_DATAFILE | LOAD_LIBRARY_AS_IMAGE_RESOURCE) with AfxSetResourceHandle",
+      "Tags": [
+        "windows",
+        "mfc",
+        "loadlibrary"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798450/use-resource-dll-loaded-using-loadlibraryex-load-library-as-datafile-load"
+    },
+    {
+      "Created": "2025-10-24T06:46:26Z",
+      "Title": "duplicate \u0022log_format\u0022 name \u0022vhost\u0022 in /etc/nginx/conf.d/default.conf:72",
+      "Tags": [
+        "docker",
+        "jwilder-nginx-proxy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798469/duplicate-log-format-name-vhost-in-etc-nginx-conf-d-default-conf72"
+    },
+    {
+      "Created": "2025-10-24T07:03:44Z",
+      "Title": "My Ragflow LLM model seems only use one GPU out of four",
+      "Tags": [
+        "nvidia",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798478/my-ragflow-llm-model-seems-only-use-one-gpu-out-of-four"
+    },
+    {
+      "Created": "2025-10-24T07:04:54Z",
+      "Title": "WebDriver.init() got an unexpected keyword argument \u0027desired_capabilities\u0027 and 404 Not Found Error",
+      "Tags": [
+        "appium",
+        "winappdriver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798480/webdriver-init-got-an-unexpected-keyword-argument-desired-capabilities-and-4"
+    }
+  ]
+}

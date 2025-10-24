@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-24T02:08:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T01:55:22Z",
+      "Title": "Tilt Port Forwarding to specific pod in Kubernetes Resource",
+      "Tags": [
+        "kubernetes",
+        "kubernetes-helm",
+        "tilt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798328/tilt-port-forwarding-to-specific-pod-in-kubernetes-resource"
+    },
+    {
+      "Created": "2025-10-24T01:58:15Z",
+      "Title": "How to aggregate a group by query in django?",
+      "Tags": [
+        "python",
+        "sql",
+        "django",
+        "window-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798329/how-to-aggregate-a-group-by-query-in-django"
+    },
+    {
+      "Created": "2025-10-24T01:58:23Z",
+      "Title": "Windows file add tag metadata",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "tags"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798330/windows-file-add-tag-metadata"
+    },
+    {
+      "Created": "2025-10-24T02:05:47Z",
+      "Title": "Form Dropdown showing no values",
+      "Tags": [
+        "sharepoint",
+        "powerapps",
+        "powerapps-formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798334/form-dropdown-showing-no-values"
+    },
+    {
+      "Created": "2025-10-24T02:08:48Z",
+      "Title": "sqlite3 poor performance using order by",
+      "Tags": [
+        "sqlite3-python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798336/sqlite3-poor-performance-using-order-by"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-24T22:59:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T22:17:12Z",
+      "Title": "Argument type mismatch: actual type is \u0027SuspendFunction1\u003CString, Function0\u003CInt\u003E\u003E\u0027, but \u0027SuspendFunction0\u003CFunction0\u003CInt\u003E\u003E\u0027 was expected",
+      "Tags": [
+        "kotlin",
+        "suspend"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799204/argument-type-mismatch-actual-type-is-suspendfunction1string-function0int"
+    },
+    {
+      "Created": "2025-10-24T22:47:01Z",
+      "Title": "Does setting torch_dtype=torch.float16 override 8-bit quantization in BitsAndBytes?",
+      "Tags": [
+        "python",
+        "torch",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799225/does-setting-torch-dtype-torch-float16-override-8-bit-quantization-in-bitsandbyt"
+    },
+    {
+      "Created": "2025-10-24T22:48:33Z",
+      "Title": "How to properly config nginx and PHP for multiple vhosts in multiple homes owned by specific users",
+      "Tags": [
+        "php",
+        "nginx",
+        "vhosts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799226/how-to-properly-config-nginx-and-php-for-multiple-vhosts-in-multiple-homes-owned"
+    },
+    {
+      "Created": "2025-10-24T22:59:19Z",
+      "Title": "Common Lisp: performance issues with reading lines from *standard-input*",
+      "Tags": [
+        "python",
+        "performance",
+        "logging",
+        "io",
+        "common-lisp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799232/common-lisp-performance-issues-with-reading-lines-from-standard-input"
+    },
+    {
+      "Created": "2025-10-24T22:59:36Z",
+      "Title": "Text to Speech Libraries that sound more Human?",
+      "Tags": [
+        "ios",
+        "swift",
+        "audio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799233/text-to-speech-libraries-that-sound-more-human"
+    }
+  ]
+}

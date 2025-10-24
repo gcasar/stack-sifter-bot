@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-24T13:11:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T12:45:08Z",
+      "Title": "Generative language method doesn\u0027t allow unregistered callers (callers without established identity)",
+      "Tags": [
+        "c#",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798772/generative-language-method-doesnt-allow-unregistered-callers-callers-without-e"
+    },
+    {
+      "Created": "2025-10-24T12:54:03Z",
+      "Title": "Azure DevOps iOS pipeline fails during Xcode archive: \u201CSigning for GoogleSignIn_GoogleSignIn requires a development team\u201D",
+      "Tags": [
+        "ios",
+        "xcode",
+        "azure-devops",
+        "code-signing",
+        "swift-package-manager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798778/azure-devops-ios-pipeline-fails-during-xcode-archive-signing-for-googlesignin"
+    },
+    {
+      "Created": "2025-10-24T13:00:28Z",
+      "Title": "PCI-E 64 bit BAR address alignment",
+      "Tags": [
+        "linux-kernel",
+        "pci-e"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798780/pci-e-64-bit-bar-address-alignment"
+    },
+    {
+      "Created": "2025-10-24T13:02:33Z",
+      "Title": "ActiveMQ Artemis: Single message repeatedly read without acknowledgment moves all messages to DLQ when finally acknowledged (C# NMS)",
+      "Tags": [
+        "c#",
+        ".net-8.0",
+        "activemq-artemis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798781/activemq-artemis-single-message-repeatedly-read-without-acknowledgment-moves-al"
+    },
+    {
+      "Created": "2025-10-24T13:07:29Z",
+      "Title": "Inquiry Regarding Jimi JC261 Camera Integration with Traccar",
+      "Tags": [
+        "node.js",
+        "traccar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798786/inquiry-regarding-jimi-jc261-camera-integration-with-traccar"
+    },
+    {
+      "Created": "2025-10-24T13:11:44Z",
+      "Title": "openxlsx: Writing multi-column XLOOKUP formulas produces unexpected @ or {} in Excel",
+      "Tags": [
+        "r",
+        "openxlsx",
+        "openxlsx2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798790/openxlsx-writing-multi-column-xlookup-formulas-produces-unexpected-or-in-e"
+    }
+  ]
+}

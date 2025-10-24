@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-24T19:59:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T19:17:26Z",
+      "Title": "Grafana graph plot data only once instead of again and again metric java",
+      "Tags": [
+        "java",
+        "prometheus",
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799101/grafana-graph-plot-data-only-once-instead-of-again-and-again-metric-java"
+    },
+    {
+      "Created": "2025-10-24T19:39:54Z",
+      "Title": "Desktop file drag \u0026 drop is really slow with large files",
+      "Tags": [
+        "rust",
+        "tauri",
+        "tauri-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799108/desktop-file-drag-drop-is-really-slow-with-large-files"
+    },
+    {
+      "Created": "2025-10-24T19:47:37Z",
+      "Title": "How to use different DTOs in the same @ModelAttribute between GET and POST in Spring MVC?",
+      "Tags": [
+        "spring-boot",
+        "spring-mvc",
+        "thymeleaf",
+        "dto",
+        "modelattribute"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799115/how-to-use-different-dtos-in-the-same-modelattribute-between-get-and-post-in-sp"
+    },
+    {
+      "Created": "2025-10-24T19:59:15Z",
+      "Title": "Why does App render 3 times in this example?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799123/why-does-app-render-3-times-in-this-example"
+    }
+  ]
+}

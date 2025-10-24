@@ -1,0 +1,89 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-24T06:03:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T05:32:31Z",
+      "Title": "what is platform Independent? [duplicate]",
+      "Tags": [
+        "java",
+        "platform-independent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798403/what-is-platform-independent"
+    },
+    {
+      "Created": "2025-10-24T05:56:17Z",
+      "Title": "Seeking advice: self-training workflow for small object counting (2K camera, no pretrained models) without pretrained models [closed]",
+      "Tags": [
+        "python",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798418/seeking-advice-self-training-workflow-for-small-object-counting-2k-camera-no"
+    },
+    {
+      "Created": "2025-10-24T06:00:26Z",
+      "Title": "Error Python generator does not know how to generate code when upgrading Blockly from 9.x to 10\u002B (or 12.3.1) with custom blocks",
+      "Tags": [
+        "javascript",
+        "python",
+        "blockly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798422/error-python-generator-does-not-know-how-to-generate-code-when-upgrading-blockly"
+    },
+    {
+      "Created": "2025-10-24T06:00:31Z",
+      "Title": "Why am I getting mirrored peaks in Javascript AudioContext AnalyserNode frequency spectra around specific frequencies?",
+      "Tags": [
+        "javascript",
+        "html",
+        "fft",
+        "audiocontext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798424/why-am-i-getting-mirrored-peaks-in-javascript-audiocontext-analysernode-frequenc"
+    },
+    {
+      "Created": "2025-10-24T06:00:39Z",
+      "Title": "Serial connection fails on very minor changes to tinyML voice keyword detection project (zephyr rtos, TFLM)",
+      "Tags": [
+        "tensorflow-lite",
+        "voice-recognition",
+        "mfcc",
+        "zephyr-rtos",
+        "tinyml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798425/serial-connection-fails-on-very-minor-changes-to-tinyml-voice-keyword-detection"
+    },
+    {
+      "Created": "2025-10-24T06:00:51Z",
+      "Title": "Autodesk Construction Cloud API returns empty \u0060results\u0060 for custom attributes",
+      "Tags": [
+        "attributes",
+        "autodesk-forge",
+        "acc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798426/autodesk-construction-cloud-api-returns-empty-results-for-custom-attributes"
+    },
+    {
+      "Created": "2025-10-24T06:00:55Z",
+      "Title": "Ray: Resource request cannot be scheduled \u2014 using offline data and enabled the RL module",
+      "Tags": [
+        "module",
+        "offline",
+        "rllib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798427/ray-resource-request-cannot-be-scheduled-using-offline-data-and-enabled-the-r"
+    },
+    {
+      "Created": "2025-10-24T06:03:14Z",
+      "Title": "pybind11: C\u002B\u002B callback from background thread to Python not executed in real time",
+      "Tags": [
+        "python",
+        "c\u002B\u002B",
+        "asynchronous",
+        "callback",
+        "pybind11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798430/pybind11-c-callback-from-background-thread-to-python-not-executed-in-real-tim"
+    }
+  ]
+}

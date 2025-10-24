@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-24T15:04:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T14:21:08Z",
+      "Title": "Java Thread interrupt non deterministic behaviour",
+      "Tags": [
+        "java",
+        "multithreading",
+        "concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798851/java-thread-interrupt-non-deterministic-behaviour"
+    },
+    {
+      "Created": "2025-10-24T14:24:08Z",
+      "Title": "Testing events in laravel 11",
+      "Tags": [
+        "laravel",
+        "testing",
+        "phpunit",
+        "laravel-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798854/testing-events-in-laravel-11"
+    },
+    {
+      "Created": "2025-10-24T14:49:50Z",
+      "Title": "Oracle - where to define nested procedures in case when I need - variables \u002B cursors \u002B nested procedures?",
+      "Tags": [
+        "oracle-database",
+        "plsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798891/oracle-where-to-define-nested-procedures-in-case-when-i-need-variables-cur"
+    },
+    {
+      "Created": "2025-10-24T14:53:32Z",
+      "Title": "FFmpeg \u0022-to\u0022 option in stream copy mode",
+      "Tags": [
+        "ffmpeg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798895/ffmpeg-to-option-in-stream-copy-mode"
+    },
+    {
+      "Created": "2025-10-24T14:57:29Z",
+      "Title": "How to set invoice total for MUstangproject XRechnung",
+      "Tags": [
+        "java",
+        "invoice",
+        "zugferd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798899/how-to-set-invoice-total-for-mustangproject-xrechnung"
+    },
+    {
+      "Created": "2025-10-24T15:04:18Z",
+      "Title": "When creating a static const QString, should I use QStringLiteral?",
+      "Tags": [
+        "qt",
+        "qt5",
+        "qt6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798903/when-creating-a-static-const-qstring-should-i-use-qstringliteral"
+    },
+    {
+      "Created": "2025-10-24T15:04:49Z",
+      "Title": "QT windowsvista style loaded but not applied when ran via SSH",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "qt",
+        "ssh"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798905/qt-windowsvista-style-loaded-but-not-applied-when-ran-via-ssh"
+    }
+  ]
+}

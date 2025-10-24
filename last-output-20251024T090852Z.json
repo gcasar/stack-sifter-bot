@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-24T09:05:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T08:25:29Z",
+      "Title": "How to write a concept for a move input iterator?",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B-concepts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798549/how-to-write-a-concept-for-a-move-input-iterator"
+    },
+    {
+      "Created": "2025-10-24T08:51:23Z",
+      "Title": "\u0022top\u0022 function unrecognized in grouped quantile calculation \u002B efficient grouped top 5% statistics",
+      "Tags": [
+        "time-series",
+        "quantitative-finance",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798569/top-function-unrecognized-in-grouped-quantile-calculation-efficient-grouped"
+    },
+    {
+      "Created": "2025-10-24T08:53:29Z",
+      "Title": "M5 Stack GNSS Module",
+      "Tags": [
+        "arduino",
+        "stm32"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798573/m5-stack-gnss-module"
+    },
+    {
+      "Created": "2025-10-24T08:57:48Z",
+      "Title": "How to find excel auto calculated print area?",
+      "Tags": [
+        "vba",
+        "excel-2021"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798578/how-to-find-excel-auto-calculated-print-area"
+    },
+    {
+      "Created": "2025-10-24T08:58:08Z",
+      "Title": "Test Azure Service Bus with AmqpRetryOptions for ServiceBusSenderAsyncClient",
+      "Tags": [
+        "azure",
+        "azureservicebus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798579/test-azure-service-bus-with-amqpretryoptions-for-servicebussenderasyncclient"
+    },
+    {
+      "Created": "2025-10-24T09:05:20Z",
+      "Title": "Are debit card payment APIs supported in Jack Henry (via jXchange)",
+      "Tags": [
+        "jackhenry-jxchange"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798587/are-debit-card-payment-apis-supported-in-jack-henry-via-jxchange"
+    }
+  ]
+}

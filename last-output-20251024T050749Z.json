@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-24T04:53:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T04:00:36Z",
+      "Title": "MySQL APT repository shows EXPKEYSIG B7B3B788A8D3785C even after importing new GPG key on Ubuntu 22.04 (jammy) [closed]",
+      "Tags": [
+        "mysql",
+        "ubuntu-22.04",
+        "keyring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798368/mysql-apt-repository-shows-expkeysig-b7b3b788a8d3785c-even-after-importing-new-g"
+    },
+    {
+      "Created": "2025-10-24T04:40:31Z",
+      "Title": "ChatGPT app: LLM repeats widget content (structuredContent) despite every metadata configs",
+      "Tags": [
+        "model-context-protocol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798378/chatgpt-app-llm-repeats-widget-content-structuredcontent-despite-every-metada"
+    },
+    {
+      "Created": "2025-10-24T04:53:06Z",
+      "Title": "How can I create an custom accordian icon animation in Ionic Angular",
+      "Tags": [
+        "angular",
+        "ionic-framework",
+        "accordion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798382/how-can-i-create-an-custom-accordian-icon-animation-in-ionic-angular"
+    }
+  ]
+}

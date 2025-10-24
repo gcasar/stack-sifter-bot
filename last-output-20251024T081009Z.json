@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-24T08:04:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T07:48:49Z",
+      "Title": "PostgreSQL - pgAdmin - EXPLAIN gives \u0022 syntax error at or near \u0022 but query runs Successfully",
+      "Tags": [
+        "postgresql",
+        "pgadmin",
+        "explain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798524/postgresql-pgadmin-explain-gives-syntax-error-at-or-near-but-query-runs"
+    },
+    {
+      "Created": "2025-10-24T07:53:23Z",
+      "Title": "Pattern matchin without K in agda",
+      "Tags": [
+        "rocq-prover",
+        "agda",
+        "dependent-type",
+        "type-theory",
+        "homotopy-type-theory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798528/pattern-matchin-without-k-in-agda"
+    },
+    {
+      "Created": "2025-10-24T07:54:17Z",
+      "Title": "How to dump English nouns from wiktionary [closed]",
+      "Tags": [
+        "wikimedia-dumps"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798530/how-to-dump-english-nouns-from-wiktionary"
+    },
+    {
+      "Created": "2025-10-24T07:58:44Z",
+      "Title": "Create an open delegate via MethodInfo of a Value Type instance method with out parameters",
+      "Tags": [
+        "c#",
+        "performance",
+        "reflection",
+        "delegates"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798533/create-an-open-delegate-via-methodinfo-of-a-value-type-instance-method-with-out"
+    },
+    {
+      "Created": "2025-10-24T08:04:04Z",
+      "Title": "How to create Swift Tasks and limit the number of concurrent tasks",
+      "Tags": [
+        "swift",
+        "concurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798539/how-to-create-swift-tasks-and-limit-the-number-of-concurrent-tasks"
+    },
+    {
+      "Created": "2025-10-24T08:04:05Z",
+      "Title": "Resolving \u201CYou may need a suitable loader to handle this file type\u201D in Electron environments",
+      "Tags": [
+        "webpack",
+        "electron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798540/resolving-you-may-need-a-suitable-loader-to-handle-this-file-type-in-electron"
+    }
+  ]
+}

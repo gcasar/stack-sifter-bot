@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-24T14:05:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T13:34:04Z",
+      "Title": "Why is the TypeScript compiler not complaining for following code?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798809/why-is-the-typescript-compiler-not-complaining-for-following-code"
+    },
+    {
+      "Created": "2025-10-24T13:34:51Z",
+      "Title": "Visual studio throwing an error when I name my class \u0022floor\u0022",
+      "Tags": [
+        "c\u002B\u002B",
+        "object",
+        "oop",
+        "pointers",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798810/visual-studio-throwing-an-error-when-i-name-my-class-floor"
+    },
+    {
+      "Created": "2025-10-24T13:46:45Z",
+      "Title": "How to avoid tooltip disappearing on click in ggiraph interactive plots?",
+      "Tags": [
+        "ggplot2",
+        "shiny",
+        "ggiraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798820/how-to-avoid-tooltip-disappearing-on-click-in-ggiraph-interactive-plots"
+    },
+    {
+      "Created": "2025-10-24T14:05:18Z",
+      "Title": "Integrate socket.io namespaces with Node Cluster",
+      "Tags": [
+        "node.js",
+        "parallel-processing",
+        "socket.io",
+        "cluster-computing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798835/integrate-socket-io-namespaces-with-node-cluster"
+    }
+  ]
+}

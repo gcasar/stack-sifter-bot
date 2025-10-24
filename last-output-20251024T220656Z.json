@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-24T22:03:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T21:54:30Z",
+      "Title": "Make rsync ignore all files that are somewhere in a defined \u0027compare-dest\u0027 dir",
+      "Tags": [
+        "rsync"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799192/make-rsync-ignore-all-files-that-are-somewhere-in-a-defined-compare-dest-dir"
+    },
+    {
+      "Created": "2025-10-24T22:03:25Z",
+      "Title": "Multiplication of 2-digit decimal no.s in 8085 asm",
+      "Tags": [
+        "assembly",
+        "bcd",
+        "8085"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799194/multiplication-of-2-digit-decimal-no-s-in-8085-asm"
+    }
+  ]
+}

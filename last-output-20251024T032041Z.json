@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-24T03:11:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T02:50:26Z",
+      "Title": "Using the mathspec package to get Times New Roman Math",
+      "Tags": [
+        "latex",
+        "xelatex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798343/using-the-mathspec-package-to-get-times-new-roman-math"
+    },
+    {
+      "Created": "2025-10-24T03:11:03Z",
+      "Title": "Bootstrap modal hides when it loses focus to main page",
+      "Tags": [
+        "javascript",
+        "bootstrap-modal",
+        "bootstrap-5",
+        "blur"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798348/bootstrap-modal-hides-when-it-loses-focus-to-main-page"
+    }
+  ]
+}

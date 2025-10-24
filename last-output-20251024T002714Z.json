@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-24T00:03:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-23T23:47:11Z",
+      "Title": "Is there a SQL equivalent of the R setdiff() function?",
+      "Tags": [
+        "sql",
+        "r",
+        "db2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798285/is-there-a-sql-equivalent-of-the-r-setdiff-function"
+    },
+    {
+      "Created": "2025-10-24T00:03:31Z",
+      "Title": "Cython memoryview pointer to empty array",
+      "Tags": [
+        "python",
+        "cython"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798294/cython-memoryview-pointer-to-empty-array"
+    }
+  ]
+}

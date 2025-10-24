@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-24T01:28:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T00:42:47Z",
+      "Title": "Expo go app giving me and AXIOS Network Error in IOS simulator",
+      "Tags": [
+        "ios",
+        "react-native",
+        "axios",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798308/expo-go-app-giving-me-and-axios-network-error-in-ios-simulator"
+    },
+    {
+      "Created": "2025-10-24T00:44:07Z",
+      "Title": "How can I make my Node.js backend code cleaner without using an ORM when working directly with SQL?",
+      "Tags": [
+        "mysql",
+        "node.js",
+        "express",
+        "architecture",
+        "code-cleanup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798309/how-can-i-make-my-node-js-backend-code-cleaner-without-using-an-orm-when-working"
+    },
+    {
+      "Created": "2025-10-24T00:53:25Z",
+      "Title": "Kafka Consumer triggers spring state machine in an infinite loop",
+      "Tags": [
+        "apache-kafka",
+        "spring-kafka",
+        "kafka-consumer-api",
+        "spring-statemachine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798311/kafka-consumer-triggers-spring-state-machine-in-an-infinite-loop"
+    },
+    {
+      "Created": "2025-10-24T01:01:21Z",
+      "Title": "Why do Javascript Websocket objects not get out of scope?",
+      "Tags": [
+        "javascript",
+        "memory-management",
+        "garbage-collection",
+        "javascript-objects"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798314/why-do-javascript-websocket-objects-not-get-out-of-scope"
+    },
+    {
+      "Created": "2025-10-24T01:14:18Z",
+      "Title": "What statistical tests should I use for my biological experiment that measures frictional forces before and after removal of lipids from a sample?",
+      "Tags": [
+        "python",
+        "normal-distribution",
+        "t-test",
+        "statistical-test"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798317/what-statistical-tests-should-i-use-for-my-biological-experiment-that-measures-f"
+    },
+    {
+      "Created": "2025-10-24T01:25:43Z",
+      "Title": "How to focus on it via screen reader when open menu",
+      "Tags": [
+        "menu",
+        "accessibility",
+        "wai-aria",
+        "screen-readers",
+        "nvda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798320/how-to-focus-on-it-via-screen-reader-when-open-menu"
+    },
+    {
+      "Created": "2025-10-24T01:28:23Z",
+      "Title": "How to integrate JWT authentication with HttpOnly cookies in a Django project that already uses sessions, while keeping roles and permissions unified?",
+      "Tags": [
+        "javascript",
+        "html",
+        "django",
+        "authentication",
+        "django-rest-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798323/how-to-integrate-jwt-authentication-with-httponly-cookies-in-a-django-project-th"
+    }
+  ]
+}

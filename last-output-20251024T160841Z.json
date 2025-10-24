@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-24T15:56:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-24T15:47:57Z",
+      "Title": "std::shared_ptr const vs non-const, instance vs reference in constructor",
+      "Tags": [
+        "c\u002B\u002B",
+        "constructor",
+        "shared-ptr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798938/stdshared-ptr-const-vs-non-const-instance-vs-reference-in-constructor"
+    },
+    {
+      "Created": "2025-10-24T15:52:54Z",
+      "Title": "python typing distinctions between inline created parameters and variables",
+      "Tags": [
+        "python",
+        "python-typing",
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798940/python-typing-distinctions-between-inline-created-parameters-and-variables"
+    },
+    {
+      "Created": "2025-10-24T15:55:04Z",
+      "Title": "OneUI8: ongoing notification get\u0027s overridden",
+      "Tags": [
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798944/oneui8-ongoing-notification-gets-overridden"
+    },
+    {
+      "Created": "2025-10-24T15:55:28Z",
+      "Title": "Power Automate \u201CGet emails (V3)\u201D \u2014 Error: Default folder Inbox not found when accessing shared personal mailbox",
+      "Tags": [
+        "outlook",
+        "power-automate",
+        "microsoft-copilot-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798945/power-automate-get-emails-v3-error-default-folder-inbox-not-found-when-ac"
+    },
+    {
+      "Created": "2025-10-24T15:56:13Z",
+      "Title": "Copy stderr of previous command without rerunning it",
+      "Tags": [
+        "shell",
+        "stderr",
+        "kitty"
+      ],
+      "Url": "https://stackoverflow.com/questions/79798947/copy-stderr-of-previous-command-without-rerunning-it"
+    }
+  ]
+}

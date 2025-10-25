@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-25T19:58:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T19:24:41Z",
+      "Title": "clickhouse : why my clickhouse works fine on docker containers and it does\u0027nt work on on aws ec2 instances?",
+      "Tags": [
+        "amazon-ec2",
+        "terraform",
+        "clickhouse",
+        "clickhouse-client",
+        "pyinfra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799706/clickhouse-why-my-clickhouse-works-fine-on-docker-containers-and-it-doesnt-wo"
+    },
+    {
+      "Created": "2025-10-25T19:29:29Z",
+      "Title": "Restore Functionality of the Classic \u0022Places Bar\u0022 for Open/Save Dialog of Programs that Support it",
+      "Tags": [
+        "windows-11",
+        "microsoft-file-explorer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799708/restore-functionality-of-the-classic-places-bar-for-open-save-dialog-of-progra"
+    },
+    {
+      "Created": "2025-10-25T19:36:38Z",
+      "Title": "Docker Windows container for ASP.NET MVC app on .NET 4.8 failing on Windows 11 with version compatibility issues",
+      "Tags": [
+        "asp.net-mvc",
+        "windows",
+        "docker",
+        ".net-4.8",
+        "windows-container"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799711/docker-windows-container-for-asp-net-mvc-app-on-net-4-8-failing-on-windows-11-w"
+    },
+    {
+      "Created": "2025-10-25T19:37:21Z",
+      "Title": "apache fails to import from correct PYTHONPATH",
+      "Tags": [
+        "python",
+        "macos",
+        "apache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799713/apache-fails-to-import-from-correct-pythonpath"
+    },
+    {
+      "Created": "2025-10-25T19:38:46Z",
+      "Title": "shopify:section:load stacking event listeners",
+      "Tags": [
+        "javascript",
+        "shopify",
+        "addeventlistener",
+        "liquid"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799715/shopifysectionload-stacking-event-listeners"
+    },
+    {
+      "Created": "2025-10-25T19:58:16Z",
+      "Title": "OpenMPI Parallel Radix Sort Indeterminism Above a Certain Input Size",
+      "Tags": [
+        "c\u002B\u002B",
+        "sorting",
+        "parallel-processing",
+        "openmpi",
+        "radix-sort"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799720/openmpi-parallel-radix-sort-indeterminism-above-a-certain-input-size"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-25T10:05:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T09:34:54Z",
+      "Title": "Console.ReadLine in a Task causing side effects",
+      "Tags": [
+        "c#",
+        "loops",
+        "asynchronous",
+        "console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799417/console-readline-in-a-task-causing-side-effects"
+    },
+    {
+      "Created": "2025-10-25T09:43:15Z",
+      "Title": "How to use content property defined in PrimeNG Dynamic Dialog\u0027s DynamicDialogTemplates?",
+      "Tags": [
+        "angular",
+        "primeng",
+        "primeng-dialog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799419/how-to-use-content-property-defined-in-primeng-dynamic-dialogs-dynamicdialogtem"
+    },
+    {
+      "Created": "2025-10-25T09:44:56Z",
+      "Title": "Applying a function to two matrices column-by-column in octave/matlab",
+      "Tags": [
+        "matlab",
+        "matrix",
+        "vectorization",
+        "octave"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799420/applying-a-function-to-two-matrices-column-by-column-in-octave-matlab"
+    },
+    {
+      "Created": "2025-10-25T09:46:39Z",
+      "Title": "Tree-sitter precedence issue, optional() not greedy?",
+      "Tags": [
+        "parsing",
+        "treesitter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799421/tree-sitter-precedence-issue-optional-not-greedy"
+    },
+    {
+      "Created": "2025-10-25T09:51:21Z",
+      "Title": "\u003E \u201CSolidity ERC20 \u0060transferFrom\u0060 fails despite valid allowance \u2014 am I approving the wrong address?\u201D",
+      "Tags": [
+        "solidity",
+        "transfer",
+        "hardhat",
+        "erc20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799423/solidity-erc20-transferfrom-fails-despite-valid-allowance-am-i-approving"
+    },
+    {
+      "Created": "2025-10-25T10:05:02Z",
+      "Title": "How can I use a dynamic custom 404 template in Laravel?",
+      "Tags": [
+        "php",
+        "laravel",
+        "laravel-8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799427/how-can-i-use-a-dynamic-custom-404-template-in-laravel"
+    }
+  ]
+}

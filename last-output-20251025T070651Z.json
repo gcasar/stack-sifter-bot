@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-25T06:56:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T06:14:11Z",
+      "Title": "Getting unexpected filtering results when scaling up texture",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799342/getting-unexpected-filtering-results-when-scaling-up-texture"
+    },
+    {
+      "Created": "2025-10-25T06:25:14Z",
+      "Title": "The Question is to print the lexicographically smallest string. Please have a look at my approach",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799346/the-question-is-to-print-the-lexicographically-smallest-string-please-have-a-lo"
+    },
+    {
+      "Created": "2025-10-25T06:35:37Z",
+      "Title": "Enabling Code Templates on Eclipse CDT (LSP)",
+      "Tags": [
+        "eclipse",
+        "eclipse-cdt",
+        "clangd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799351/enabling-code-templates-on-eclipse-cdt-lsp"
+    },
+    {
+      "Created": "2025-10-25T06:38:16Z",
+      "Title": "redirect STDERR in git-bash for Windows (11) not working any more",
+      "Tags": [
+        "git-bash",
+        "stderr",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799353/redirect-stderr-in-git-bash-for-windows-11-not-working-any-more"
+    },
+    {
+      "Created": "2025-10-25T06:56:40Z",
+      "Title": "How to not instantly move the player if the player isn\u0027t facing the same direction as the movement input?",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799360/how-to-not-instantly-move-the-player-if-the-player-isnt-facing-the-same-directi"
+    }
+  ]
+}

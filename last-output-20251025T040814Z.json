@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-25T04:02:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T03:30:04Z",
+      "Title": "Revit API - Not able to control and export linked Files as IFCs using Revit 2024 API",
+      "Tags": [
+        "autodesk-forge"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799306/revit-api-not-able-to-control-and-export-linked-files-as-ifcs-using-revit-2024"
+    },
+    {
+      "Created": "2025-10-25T03:37:37Z",
+      "Title": "\u0022Ambiguity between (variable) \u0026 (variable)",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799307/ambiguity-between-variable-variable"
+    },
+    {
+      "Created": "2025-10-25T04:02:17Z",
+      "Title": "canOpenURL(_:) Without Using UIApplication.shared",
+      "Tags": [
+        "ios",
+        "swift",
+        "url",
+        "uiapplication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799310/canopenurl-without-using-uiapplication-shared"
+    }
+  ]
+}

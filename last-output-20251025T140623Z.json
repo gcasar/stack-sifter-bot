@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-25T13:49:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T13:36:50Z",
+      "Title": "Is there a way in Laravel to bulk-insert multiple records and get Eloquent models returned?",
+      "Tags": [
+        "php",
+        "laravel",
+        "performance",
+        "standards",
+        "bulkinsert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799531/is-there-a-way-in-laravel-to-bulk-insert-multiple-records-and-get-eloquent-model"
+    },
+    {
+      "Created": "2025-10-25T13:38:02Z",
+      "Title": "Does ContentControl create a reference to the component instead of an instance?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799533/does-contentcontrol-create-a-reference-to-the-component-instead-of-an-instance"
+    },
+    {
+      "Created": "2025-10-25T13:41:21Z",
+      "Title": "How to force VSCode to make all auto-completion suggestions in ghost text?",
+      "Tags": [
+        "visual-studio-code",
+        "vscode-extensions",
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799536/how-to-force-vscode-to-make-all-auto-completion-suggestions-in-ghost-text"
+    },
+    {
+      "Created": "2025-10-25T13:49:37Z",
+      "Title": "fork() system call .Can someone explain how many processes are created and how val changes?",
+      "Tags": [
+        "c",
+        "linux",
+        "fork"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799542/fork-system-call-can-someone-explain-how-many-processes-are-created-and-how-v"
+    }
+  ]
+}

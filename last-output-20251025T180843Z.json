@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-25T17:51:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T17:29:24Z",
+      "Title": "How to install this requirements.txt file",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799646/how-to-install-this-requirements-txt-file"
+    },
+    {
+      "Created": "2025-10-25T17:34:28Z",
+      "Title": "atexit() handler crashes when accessing symbols from dlopen()ed shared library (no dlclose() called)",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "shared-libraries",
+        "dlopen",
+        "atexit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799649/atexit-handler-crashes-when-accessing-symbols-from-dlopened-shared-library"
+    },
+    {
+      "Created": "2025-10-25T17:51:55Z",
+      "Title": "Generation of array that will represent the best case for a quick sort?",
+      "Tags": [
+        "c\u002B\u002B",
+        "performance",
+        "quicksort"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799658/generation-of-array-that-will-represent-the-best-case-for-a-quick-sort"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-25T18:52:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T18:49:16Z",
+      "Title": "React icon not updating when isDarkMode state toggles",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799688/react-icon-not-updating-when-isdarkmode-state-toggles"
+    },
+    {
+      "Created": "2025-10-25T18:52:29Z",
+      "Title": "Streamlit file uploader returning 400 Bad Request when deployed on Modal (works locally)",
+      "Tags": [
+        "python",
+        "file-upload",
+        "modal-dialog",
+        "serverless",
+        "streamlit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799689/streamlit-file-uploader-returning-400-bad-request-when-deployed-on-modal-works"
+    }
+  ]
+}

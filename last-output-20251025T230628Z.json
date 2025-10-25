@@ -1,0 +1,68 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-25T22:54:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T22:03:40Z",
+      "Title": "Should we scale \u0027year\u0027 column?",
+      "Tags": [
+        "date",
+        "scaling",
+        "yearmonth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799758/should-we-scale-year-column"
+    },
+    {
+      "Created": "2025-10-25T22:07:03Z",
+      "Title": "Reselect createSelector: 4 input selectors but 3 projector params \u2014 still recomputes. Is this correct? (TypeScript \u002B Redux Toolkit)",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "redux",
+        "redux-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799759/reselect-createselector-4-input-selectors-but-3-projector-params-still-recomp"
+    },
+    {
+      "Created": "2025-10-25T22:26:42Z",
+      "Title": "openCV on raspberry pi, how to retrieve the video from pi cam V2",
+      "Tags": [
+        "python",
+        "opencv",
+        "raspberry-pi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799768/opencv-on-raspberry-pi-how-to-retrieve-the-video-from-pi-cam-v2"
+    },
+    {
+      "Created": "2025-10-25T22:41:37Z",
+      "Title": "Compilation fails with gfortran when using a generic interface",
+      "Tags": [
+        "generics",
+        "fortran",
+        "gfortran"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799773/compilation-fails-with-gfortran-when-using-a-generic-interface"
+    },
+    {
+      "Created": "2025-10-25T22:51:06Z",
+      "Title": "VM Hangs While Trying to Read /dev/vda When Using syzkaller",
+      "Tags": [
+        "linux",
+        "linux-kernel",
+        "kernel",
+        "fuzzing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799776/vm-hangs-while-trying-to-read-dev-vda-when-using-syzkaller"
+    },
+    {
+      "Created": "2025-10-25T22:54:35Z",
+      "Title": "the pow() function isn\u0027t accurate :( [duplicate]",
+      "Tags": [
+        "python",
+        "pari"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799779/the-pow-function-isnt-accurate"
+    }
+  ]
+}

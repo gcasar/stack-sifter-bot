@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-25T02:10:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T01:41:20Z",
+      "Title": "Only half the text is working as a clickable link",
+      "Tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799281/only-half-the-text-is-working-as-a-clickable-link"
+    },
+    {
+      "Created": "2025-10-25T02:10:04Z",
+      "Title": "How does Spring JPA \u201Cinstantiate\u201D the interfaces that extends repositories?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-data-jpa",
+        "spring-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799286/how-does-spring-jpa-instantiate-the-interfaces-that-extends-repositories"
+    }
+  ]
+}

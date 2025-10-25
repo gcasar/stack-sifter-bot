@@ -1,0 +1,71 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-25T15:59:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T15:08:23Z",
+      "Title": "wireguard packet traversal order through iptables/nftables chains",
+      "Tags": [
+        "iptables",
+        "netfilter",
+        "tun",
+        "wireguard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799579/wireguard-packet-traversal-order-through-iptables-nftables-chains"
+    },
+    {
+      "Created": "2025-10-25T15:11:49Z",
+      "Title": "How to Check if a Query Touches Data Files or just Uses Manifests and Metadata in Iceberg",
+      "Tags": [
+        "apache-spark",
+        "pyspark",
+        "apache-spark-sql",
+        "amazon-athena",
+        "apache-iceberg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799582/how-to-check-if-a-query-touches-data-files-or-just-uses-manifests-and-metadata-i"
+    },
+    {
+      "Created": "2025-10-25T15:36:50Z",
+      "Title": "PyInstaller executable throws \u201COSError: [WinError 50] The request is not supported\u201D when using speech_recognition (FLAC error)",
+      "Tags": [
+        "python",
+        "speech-recognition",
+        "speech"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799587/pyinstaller-executable-throws-oserror-winerror-50-the-request-is-not-support"
+    },
+    {
+      "Created": "2025-10-25T15:39:00Z",
+      "Title": "How do I exchange a service account for a tenant encoded token",
+      "Tags": [
+        "python",
+        "google-cloud-platform",
+        "firebase-authentication",
+        "google-identity-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799589/how-do-i-exchange-a-service-account-for-a-tenant-encoded-token"
+    },
+    {
+      "Created": "2025-10-25T15:51:23Z",
+      "Title": "Perform opposite operation of hevc_mp4toannexb filter [closed]",
+      "Tags": [
+        "ffmpeg",
+        "hevc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799593/perform-opposite-operation-of-hevc-mp4toannexb-filter"
+    },
+    {
+      "Created": "2025-10-25T15:59:17Z",
+      "Title": "Is there a way to handle situations where a user has blocked more than 10 users, so that the app doesn\u2019t exceed Firestore\u2019s not-in query limit?",
+      "Tags": [
+        "ios",
+        "swift",
+        "firebase",
+        "google-cloud-firestore",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799598/is-there-a-way-to-handle-situations-where-a-user-has-blocked-more-than-10-users"
+    }
+  ]
+}

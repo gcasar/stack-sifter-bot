@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-25T09:06:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T08:22:52Z",
+      "Title": "VSCode: Best mobile UI config for settings.json?",
+      "Tags": [
+        "visual-studio-code",
+        "vs-code-settings",
+        "vscode-workspace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799389/vscode-best-mobile-ui-config-for-settings-json"
+    },
+    {
+      "Created": "2025-10-25T09:06:09Z",
+      "Title": "Make NSCountedSet Codable",
+      "Tags": [
+        "swift",
+        "codable",
+        "nscountedset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799402/make-nscountedset-codable"
+    }
+  ]
+}

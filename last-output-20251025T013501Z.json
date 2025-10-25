@@ -1,0 +1,76 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-25T01:31:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T00:40:03Z",
+      "Title": "How do I extract the \u0022hue\u0022 value only from and HSV in racket?",
+      "Tags": [
+        "colors",
+        "racket",
+        "hsv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799262/how-do-i-extract-the-hue-value-only-from-and-hsv-in-racket"
+    },
+    {
+      "Created": "2025-10-25T01:09:20Z",
+      "Title": "what is the meaning of the error and how do i resolve it",
+      "Tags": [
+        "module",
+        "terraform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799266/what-is-the-meaning-of-the-error-and-how-do-i-resolve-it"
+    },
+    {
+      "Created": "2025-10-25T01:13:31Z",
+      "Title": "Python loss of connection after OS USB Disconnect/Reconnect, but Python can\u0027t see the device",
+      "Tags": [
+        "python",
+        "usb",
+        "hid",
+        "evdev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799268/python-loss-of-connection-after-os-usb-disconnect-reconnect-but-python-cant-se"
+    },
+    {
+      "Created": "2025-10-25T01:20:42Z",
+      "Title": "Modern alternative to isIdleTimerDisabled",
+      "Tags": [
+        "ios",
+        "swift",
+        "uiapplication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799269/modern-alternative-to-isidletimerdisabled"
+    },
+    {
+      "Created": "2025-10-25T01:23:17Z",
+      "Title": "How to reuse a Django model for multiple relationships",
+      "Tags": [
+        "django",
+        "django-models"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799270/how-to-reuse-a-django-model-for-multiple-relationships"
+    },
+    {
+      "Created": "2025-10-25T01:26:27Z",
+      "Title": "ListView inside ConstraintLayout gets pushed offscreen by other elements positioned above it",
+      "Tags": [
+        "android",
+        "android-listview",
+        "android-constraintlayout"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799275/listview-inside-constraintlayout-gets-pushed-offscreen-by-other-elements-positio"
+    },
+    {
+      "Created": "2025-10-25T01:31:27Z",
+      "Title": "Hoare\u0027s partition fails for this input? {4,7,3,9,5,8}",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "sorting",
+        "partition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799276/hoares-partition-fails-for-this-input-4-7-3-9-5-8"
+    }
+  ]
+}

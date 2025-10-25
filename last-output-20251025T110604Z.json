@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-25T10:39:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T10:26:17Z",
+      "Title": "com.amazon.firebat consumes 97% of the CPU on my Fire TV 4K Max (2nd Gen) [closed]",
+      "Tags": [
+        "android",
+        "amazon-fire-tv",
+        "amazon-fire-os"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799442/com-amazon-firebat-consumes-97-of-the-cpu-on-my-fire-tv-4k-max-2nd-gen"
+    },
+    {
+      "Created": "2025-10-25T10:34:30Z",
+      "Title": "How to securely implement refresh token rotation in Next.js (without storing tokens in localStorage or global state)?",
+      "Tags": [
+        "authentication",
+        "next.js",
+        "axios",
+        "access-token",
+        "refresh-token"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799446/how-to-securely-implement-refresh-token-rotation-in-next-js-without-storing-tok"
+    },
+    {
+      "Created": "2025-10-25T10:39:42Z",
+      "Title": "Basic order of operations question with \u002B\u002B in C# [duplicate]",
+      "Tags": [
+        "c#",
+        "increment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799447/basic-order-of-operations-question-with-in-c-sharp"
+    }
+  ]
+}

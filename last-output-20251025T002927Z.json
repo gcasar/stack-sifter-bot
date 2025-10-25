@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-25T00:28:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T00:06:46Z",
+      "Title": "How to introspect Canvas/WebGL games for UI elements?",
+      "Tags": [
+        "javascript",
+        "python",
+        "canvas",
+        "webgl",
+        "ui-automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799251/how-to-introspect-canvas-webgl-games-for-ui-elements"
+    },
+    {
+      "Created": "2025-10-25T00:25:42Z",
+      "Title": "Pygame/Python window keeps crashing",
+      "Tags": [
+        "python",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799255/pygame-python-window-keeps-crashing"
+    },
+    {
+      "Created": "2025-10-25T00:28:20Z",
+      "Title": "Mockito spying on a class which contains a static method which calls another static method",
+      "Tags": [
+        "java",
+        "unit-testing",
+        "mockito"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799257/mockito-spying-on-a-class-which-contains-a-static-method-which-calls-another-sta"
+    }
+  ]
+}

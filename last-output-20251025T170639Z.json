@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-25T17:01:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T16:31:30Z",
+      "Title": "pyautogui bot does not work with the mouse in any remote access application",
+      "Tags": [
+        "python",
+        "pyautogui",
+        "remote-desktop",
+        "vnc",
+        "proxmox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799612/pyautogui-bot-does-not-work-with-the-mouse-in-any-remote-access-application"
+    },
+    {
+      "Created": "2025-10-25T16:31:44Z",
+      "Title": "python tkinter, horizontal scrollbar on treeview is not working",
+      "Tags": [
+        "python",
+        "pandas",
+        "tkinter",
+        "treeview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799613/python-tkinter-horizontal-scrollbar-on-treeview-is-not-working"
+    },
+    {
+      "Created": "2025-10-25T16:41:57Z",
+      "Title": "qbo3 Textract ScoreEngine Not Finding Results",
+      "Tags": [
+        "amazon-textract",
+        "qbo3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799616/qbo3-textract-scoreengine-not-finding-results"
+    },
+    {
+      "Created": "2025-10-25T16:45:24Z",
+      "Title": "problem in autoflush of nativequery when upgrading from hibernate 5 to hibernate 6",
+      "Tags": [
+        "hibernate",
+        "nativequery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799619/problem-in-autoflush-of-nativequery-when-upgrading-from-hibernate-5-to-hibernate"
+    },
+    {
+      "Created": "2025-10-25T16:52:38Z",
+      "Title": "How to Avoid JWT Collision While Receiving Bearer Token",
+      "Tags": [
+        "python",
+        "django",
+        "jwt",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799623/how-to-avoid-jwt-collision-while-receiving-bearer-token"
+    },
+    {
+      "Created": "2025-10-25T17:01:43Z",
+      "Title": "Adding Variables in PHP8.2 heredoc Not Working",
+      "Tags": [
+        "heredoc",
+        "php-8.2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799629/adding-variables-in-php8-2-heredoc-not-working"
+    }
+  ]
+}

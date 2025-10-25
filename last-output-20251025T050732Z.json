@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-25T04:56:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T04:30:54Z",
+      "Title": "How to count the number of bitonic sequences with sum N efficiently in C\u002B\u002B or python?",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "math",
+        "dynamic-programming",
+        "combinatorics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799322/how-to-count-the-number-of-bitonic-sequences-with-sum-n-efficiently-in-c-or-py"
+    },
+    {
+      "Created": "2025-10-25T04:50:57Z",
+      "Title": "How to update only one record in an infinite query after a mutation in React Query v5 (without refetching all pages)?",
+      "Tags": [
+        "next.js",
+        "app-router",
+        "tanstackreact-query",
+        "tanstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799326/how-to-update-only-one-record-in-an-infinite-query-after-a-mutation-in-react-que"
+    },
+    {
+      "Created": "2025-10-25T04:56:35Z",
+      "Title": "Spark OutOfMemoryError when reading large JSON file (3.5GB) as wholeText due to colon in path",
+      "Tags": [
+        "json",
+        "apache-spark",
+        "pyspark",
+        "out-of-memory",
+        "apache-iceberg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799328/spark-outofmemoryerror-when-reading-large-json-file-3-5gb-as-wholetext-due-to"
+    }
+  ]
+}

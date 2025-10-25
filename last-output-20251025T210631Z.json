@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-25T20:55:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T20:18:04Z",
+      "Title": "Why does pkgconf finds unexisting .pc files when I use it in the mingw64 terminal?",
+      "Tags": [
+        "mingw",
+        "pkg-config"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799726/why-does-pkgconf-finds-unexisting-pc-files-when-i-use-it-in-the-mingw64-termina"
+    },
+    {
+      "Created": "2025-10-25T20:55:29Z",
+      "Title": "Emulate a USB stick with a read-only switch on qemu",
+      "Tags": [
+        "linux",
+        "usb",
+        "qemu",
+        "kvm",
+        "nixos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799737/emulate-a-usb-stick-with-a-read-only-switch-on-qemu"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-25T15:02:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T14:07:28Z",
+      "Title": "How can I create a global function in Angular to apply dynamic inline styles based on CSS-like classes?",
+      "Tags": [
+        "javascript",
+        "html",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799548/how-can-i-create-a-global-function-in-angular-to-apply-dynamic-inline-styles-bas"
+    },
+    {
+      "Created": "2025-10-25T14:48:41Z",
+      "Title": "Why does my PySide6 DBUS ScreenSaver Signal-Listener not work?",
+      "Tags": [
+        "python",
+        "qt",
+        "dbus",
+        "pyside6",
+        "freedesktop.org"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799564/why-does-my-pyside6-dbus-screensaver-signal-listener-not-work"
+    },
+    {
+      "Created": "2025-10-25T14:53:14Z",
+      "Title": "How to SelectAll text when a TEdit gains input focus by the user clicking?",
+      "Tags": [
+        "delphi",
+        "winapi",
+        "vcl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799567/how-to-selectall-text-when-a-tedit-gains-input-focus-by-the-user-clicking"
+    },
+    {
+      "Created": "2025-10-25T14:56:45Z",
+      "Title": "Android automotive radio handling",
+      "Tags": [
+        "android-automotive",
+        "automotive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799571/android-automotive-radio-handling"
+    },
+    {
+      "Created": "2025-10-25T15:02:14Z",
+      "Title": "How do I obtain a token from identity platform using a service account that has a tenant encoded into it",
+      "Tags": [
+        "python",
+        "google-cloud-platform",
+        "firebase-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799574/how-do-i-obtain-a-token-from-identity-platform-using-a-service-account-that-has"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-25T07:46:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T07:22:38Z",
+      "Title": "Should we use CLS token or average of all the tokens of XLM-roBERTa for binary classification tasks?",
+      "Tags": [
+        "machine-learning",
+        "huggingface-transformers",
+        "bert-language-model",
+        "roberta-language-model",
+        "roberta"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799368/should-we-use-cls-token-or-average-of-all-the-tokens-of-xlm-roberta-for-binary-c"
+    },
+    {
+      "Created": "2025-10-25T07:26:26Z",
+      "Title": "My animation is not working because of weld",
+      "Tags": [
+        "animation",
+        "roblox",
+        "roblox-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799371/my-animation-is-not-working-because-of-weld"
+    },
+    {
+      "Created": "2025-10-25T07:46:19Z",
+      "Title": "NestJS dependency conflicts",
+      "Tags": [
+        "node.js",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799379/nestjs-dependency-conflicts"
+    }
+  ]
+}

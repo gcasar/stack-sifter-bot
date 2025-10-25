@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-25T03:06:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T02:49:10Z",
+      "Title": "How do I change the editor\u0027s color settings for Visual Studio Code in order to see the javascript variable names that I have mistyped?",
+      "Tags": [
+        "visual-studio-code",
+        "colors",
+        "editor",
+        "warnings"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799295/how-do-i-change-the-editors-color-settings-for-visual-studio-code-in-order-to-s"
+    },
+    {
+      "Created": "2025-10-25T03:06:03Z",
+      "Title": "Custom Effect/Shader in SharpDX",
+      "Tags": [
+        "sharpdx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799300/custom-effect-shader-in-sharpdx"
+    }
+  ]
+}

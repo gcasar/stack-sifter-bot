@@ -1,0 +1,91 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-25T13:06:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T12:31:56Z",
+      "Title": "How to append a calculated value to a pivot class at runtime?",
+      "Tags": [
+        "php",
+        "laravel",
+        "pivot",
+        "laravel-12"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799503/how-to-append-a-calculated-value-to-a-pivot-class-at-runtime"
+    },
+    {
+      "Created": "2025-10-25T12:36:07Z",
+      "Title": "Is including html2canvas-pro, jsPDF, and html2pdf scripts enough to replace html2pdf.bundle.min.js? (TypeError: r is not a function)",
+      "Tags": [
+        "javascript",
+        "jspdf",
+        "html2canvas",
+        "html2pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799504/is-including-html2canvas-pro-jspdf-and-html2pdf-scripts-enough-to-replace-html"
+    },
+    {
+      "Created": "2025-10-25T12:36:24Z",
+      "Title": "BackHandler doesn\u0027t always work in Jetpack Compose",
+      "Tags": [
+        "android-jetpack-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799505/backhandler-doesnt-always-work-in-jetpack-compose"
+    },
+    {
+      "Created": "2025-10-25T12:36:44Z",
+      "Title": "Trouble Integrating VAPI Voice AI Agent with Custom Prompts in Next.js Project",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "web",
+        "react-fullstack",
+        "vapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799506/trouble-integrating-vapi-voice-ai-agent-with-custom-prompts-in-next-js-project"
+    },
+    {
+      "Created": "2025-10-25T12:48:10Z",
+      "Title": "3D component render issue",
+      "Tags": [
+        "reactjs",
+        "three.js",
+        "webgl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799509/3d-component-render-issue"
+    },
+    {
+      "Created": "2025-10-25T12:48:39Z",
+      "Title": "Fully release VFIO resources in DPDK",
+      "Tags": [
+        "linux-kernel",
+        "driver",
+        "dpdk",
+        "resource-cleanup",
+        "vfio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799510/fully-release-vfio-resources-in-dpdk"
+    },
+    {
+      "Created": "2025-10-25T12:58:34Z",
+      "Title": "PIXI.js 8.14: TypeError: Cannot read properties of null (reading \u0027instanceCount\u0027)",
+      "Tags": [
+        "webgl",
+        "pixi.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799516/pixi-js-8-14-typeerror-cannot-read-properties-of-null-reading-instancecount"
+    },
+    {
+      "Created": "2025-10-25T13:06:30Z",
+      "Title": "Need flushed sidebar in iPadOS 26 and Xcode 26",
+      "Tags": [
+        "xcode",
+        "swiftui",
+        "sidebar",
+        "ipados",
+        "splitview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799519/need-flushed-sidebar-in-ipados-26-and-xcode-26"
+    }
+  ]
+}

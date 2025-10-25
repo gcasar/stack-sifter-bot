@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-25T11:47:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T11:40:59Z",
+      "Title": "git notes in oneline git log format",
+      "Tags": [
+        "git",
+        "git-log"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799481/git-notes-in-oneline-git-log-format"
+    },
+    {
+      "Created": "2025-10-25T11:44:21Z",
+      "Title": "Storing ref arguments",
+      "Tags": [
+        "c#",
+        "mono.cecil"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799483/storing-ref-arguments"
+    },
+    {
+      "Created": "2025-10-25T11:47:37Z",
+      "Title": "Read public gsheet with python",
+      "Tags": [
+        "python",
+        "pandas",
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799486/read-public-gsheet-with-python"
+    }
+  ]
+}

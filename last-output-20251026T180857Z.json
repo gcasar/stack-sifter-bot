@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-26T18:07:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T17:09:24Z",
+      "Title": "SDL3 \u002B OpenGL in c\u002B\u002B is thowing empty SDL_Init erros when making a window in Wayland",
+      "Tags": [
+        "c\u002B\u002B",
+        "opengl",
+        "cmake",
+        "wayland",
+        "sdl-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800193/sdl3-opengl-in-c-is-thowing-empty-sdl-init-erros-when-making-a-window-in-way"
+    },
+    {
+      "Created": "2025-10-26T18:05:32Z",
+      "Title": "FriendlyElec CM3588 configure GPIO/SPI",
+      "Tags": [
+        "config",
+        "gpio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800218/friendlyelec-cm3588-configure-gpio-spi"
+    },
+    {
+      "Created": "2025-10-26T18:05:46Z",
+      "Title": "Laravel Vite still references old build files after running npm run build again",
+      "Tags": [
+        "php",
+        "laravel",
+        "vite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800219/laravel-vite-still-references-old-build-files-after-running-npm-run-build-again"
+    },
+    {
+      "Created": "2025-10-26T18:06:04Z",
+      "Title": "VSCode using the wrong GitHub account to push commits",
+      "Tags": [
+        "macos",
+        "visual-studio-code",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800220/vscode-using-the-wrong-github-account-to-push-commits"
+    },
+    {
+      "Created": "2025-10-26T18:07:01Z",
+      "Title": "Scan for changes to linux dbus properties for bluetooth using sdbus-c\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "linux",
+        "dbus",
+        "bluez",
+        "sdbus-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800222/scan-for-changes-to-linux-dbus-properties-for-bluetooth-using-sdbus-c"
+    }
+  ]
+}

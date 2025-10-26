@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-26T21:07:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T21:07:04Z",
+      "Title": "Unable to make a MySQL connection from a docker compose Python app",
+      "Tags": [
+        "docker",
+        "mysql-connector"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800309/unable-to-make-a-mysql-connection-from-a-docker-compose-python-app"
+    }
+  ]
+}

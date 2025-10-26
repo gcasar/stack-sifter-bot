@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-26T18:55:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T18:23:55Z",
+      "Title": "Beginner React To-Do App \u2014 What simple challenges can I try next? [closed]",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800239/beginner-react-to-do-app-what-simple-challenges-can-i-try-next"
+    },
+    {
+      "Created": "2025-10-26T18:36:55Z",
+      "Title": "Prim\u0027s algorithm for maze.QT \u002B c\u002B\u002B",
+      "Tags": [
+        "c\u002B\u002B",
+        "algorithm",
+        "qt",
+        "prims-algorithm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800246/prims-algorithm-for-maze-qt-c"
+    },
+    {
+      "Created": "2025-10-26T18:46:29Z",
+      "Title": "Cmake pkgconfig library found but not linking",
+      "Tags": [
+        "cmake",
+        "package-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800250/cmake-pkgconfig-library-found-but-not-linking"
+    },
+    {
+      "Created": "2025-10-26T18:52:44Z",
+      "Title": "Why aren\u2019t my changes reflected after modifying and reimporting an IBM DataStage job XML export?",
+      "Tags": [
+        "xml",
+        "automation",
+        "etl",
+        "datastage",
+        "ibm-infosphere"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800253/why-aren-t-my-changes-reflected-after-modifying-and-reimporting-an-ibm-datastage"
+    },
+    {
+      "Created": "2025-10-26T18:55:27Z",
+      "Title": "BitTorrent - Not Receiving Requested Pieces",
+      "Tags": [
+        "bittorrent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800254/bittorrent-not-receiving-requested-pieces"
+    }
+  ]
+}

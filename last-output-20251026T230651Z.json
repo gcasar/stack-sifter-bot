@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-26T23:01:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T22:21:03Z",
+      "Title": "How to use API to return data from opensanctions Database using python?",
+      "Tags": [
+        "python-3.x",
+        "cloud",
+        "fastapi",
+        "google-cloud-colab-enterprise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800339/how-to-use-api-to-return-data-from-opensanctions-database-using-python"
+    },
+    {
+      "Created": "2025-10-26T22:21:27Z",
+      "Title": "TensorFlow still not detecting GPU (RTX 3050, CUDA 12.7, TF 2.20.0)",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "deep-learning",
+        "cuda",
+        "gpu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800341/tensorflow-still-not-detecting-gpu-rtx-3050-cuda-12-7-tf-2-20-0"
+    },
+    {
+      "Created": "2025-10-26T22:27:58Z",
+      "Title": "Ansible not reading multiple inventory files from directory specified in \u0022ansible.cfg\u0022",
+      "Tags": [
+        "ansible",
+        "ansible-inventory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800343/ansible-not-reading-multiple-inventory-files-from-directory-specified-in-ansibl"
+    },
+    {
+      "Created": "2025-10-26T22:31:23Z",
+      "Title": "Expanding Spring Modulith tracing tags",
+      "Tags": [
+        "spring-modulith"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800345/expanding-spring-modulith-tracing-tags"
+    },
+    {
+      "Created": "2025-10-26T22:59:00Z",
+      "Title": "variadic macro that references another variadic macro is not expanding the way I want",
+      "Tags": [
+        "c",
+        "c-preprocessor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800354/variadic-macro-that-references-another-variadic-macro-is-not-expanding-the-way-i"
+    },
+    {
+      "Created": "2025-10-26T23:01:27Z",
+      "Title": "Tab View on Rotation to Landscape Causing Color to Fade and Title to Shrink",
+      "Tags": [
+        "swiftui",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800355/tab-view-on-rotation-to-landscape-causing-color-to-fade-and-title-to-shrink"
+    }
+  ]
+}

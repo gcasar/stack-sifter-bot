@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-26T08:03:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T07:42:56Z",
+      "Title": "Possible to write SQL statement without loop? [duplicate]",
+      "Tags": [
+        "sql",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799895/possible-to-write-sql-statement-without-loop"
+    },
+    {
+      "Created": "2025-10-26T07:44:19Z",
+      "Title": "applying horizontal scrolling to navbar without vertical scrolling",
+      "Tags": [
+        "html",
+        "css",
+        "twitter-bootstrap",
+        "overflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799896/applying-horizontal-scrolling-to-navbar-without-vertical-scrolling"
+    },
+    {
+      "Created": "2025-10-26T08:00:48Z",
+      "Title": "Clangd query driver still uses clang source dir",
+      "Tags": [
+        "clang",
+        "clang\u002B\u002B",
+        "clangd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799899/clangd-query-driver-still-uses-clang-source-dir"
+    },
+    {
+      "Created": "2025-10-26T08:03:28Z",
+      "Title": "Chat model returns empty content when I inject a delayed ToolMessage from a scheduled callback",
+      "Tags": [
+        "python-3.x",
+        "artificial-intelligence",
+        "google-gemini",
+        "langgraph",
+        "chatgpt-function-call"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799901/chat-model-returns-empty-content-when-i-inject-a-delayed-toolmessage-from-a-sche"
+    }
+  ]
+}

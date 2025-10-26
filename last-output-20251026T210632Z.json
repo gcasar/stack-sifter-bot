@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-26T20:48:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T20:10:12Z",
+      "Title": "How can I improve the stability of my PI controller for a DC motor?",
+      "Tags": [
+        "python",
+        "arduino",
+        "controller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800282/how-can-i-improve-the-stability-of-my-pi-controller-for-a-dc-motor"
+    },
+    {
+      "Created": "2025-10-26T20:21:55Z",
+      "Title": "How can I create and use a custom shared framework with \u003CFrameworkReference\u003E in .NET?",
+      "Tags": [
+        "c#",
+        ".net",
+        "msbuild"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800287/how-can-i-create-and-use-a-custom-shared-framework-with-frameworkreference-in"
+    },
+    {
+      "Created": "2025-10-26T20:34:05Z",
+      "Title": "How can I get current Bitcoin and Ethereum prices using Python?",
+      "Tags": [
+        "python",
+        "python-requests",
+        "cryptocurrency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800295/how-can-i-get-current-bitcoin-and-ethereum-prices-using-python"
+    },
+    {
+      "Created": "2025-10-26T20:48:27Z",
+      "Title": "How to perform arithmetic operations only on supported types in C\u002B\u002B?",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800302/how-to-perform-arithmetic-operations-only-on-supported-types-in-c"
+    }
+  ]
+}

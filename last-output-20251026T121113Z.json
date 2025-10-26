@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-26T12:04:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T11:50:49Z",
+      "Title": "Using Supabase and Tanstack React-Query when a request goes stale it will be stuck in fetching mode",
+      "Tags": [
+        "reactjs",
+        "supabase",
+        "tanstackreact-query",
+        "swr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800024/using-supabase-and-tanstack-react-query-when-a-request-goes-stale-it-will-be-stu"
+    },
+    {
+      "Created": "2025-10-26T11:52:01Z",
+      "Title": "Build numpy 2.3\u002B without accelerated libraries",
+      "Tags": [
+        "python",
+        "numpy",
+        "lapack",
+        "blas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800025/build-numpy-2-3-without-accelerated-libraries"
+    },
+    {
+      "Created": "2025-10-26T11:53:32Z",
+      "Title": "PDO queries, Mamp Pro and Macos Tahoe 26.0.1",
+      "Tags": [
+        "php",
+        "mysql",
+        "pdo",
+        "mamp",
+        "macos-tahoe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800026/pdo-queries-mamp-pro-and-macos-tahoe-26-0-1"
+    },
+    {
+      "Created": "2025-10-26T11:54:55Z",
+      "Title": "OjAlgo\u0027s use of SIMD instructions",
+      "Tags": [
+        "java",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800027/ojalgos-use-of-simd-instructions"
+    },
+    {
+      "Created": "2025-10-26T12:04:27Z",
+      "Title": "Reflex: How to asynchronously push state from backend to frontend",
+      "Tags": [
+        "python",
+        "reflex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800033/reflex-how-to-asynchronously-push-state-from-backend-to-frontend"
+    }
+  ]
+}

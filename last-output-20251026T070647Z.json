@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-26T06:49:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T06:20:43Z",
+      "Title": "Memory Leak in Flask-SQLAlchemy 2.5.1 with SQLALCHEMY_RECORD_QUERIES - sqlalchemy_queries List Growing Indefinitely",
+      "Tags": [
+        "flask",
+        "sqlalchemy",
+        "memory-leaks",
+        "flask-sqlalchemy",
+        "gunicorn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799860/memory-leak-in-flask-sqlalchemy-2-5-1-with-sqlalchemy-record-queries-sqlalchem"
+    },
+    {
+      "Created": "2025-10-26T06:26:32Z",
+      "Title": "How to include a recursive query in the main query?",
+      "Tags": [
+        "sql",
+        "sqlite",
+        "recursive-query"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799862/how-to-include-a-recursive-query-in-the-main-query"
+    },
+    {
+      "Created": "2025-10-26T06:29:46Z",
+      "Title": "ngrx signal store throw error \u0060Type \u0027Signal\u003CUser[]\u003E\u0027 is not assignable to type \u0027User[]\u0027\u0060",
+      "Tags": [
+        "angular",
+        "typescript",
+        "typescript-typings",
+        "ngrx-signal-store"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799863/ngrx-signal-store-throw-error-type-signaluser-is-not-assignable-to-type"
+    },
+    {
+      "Created": "2025-10-26T06:49:54Z",
+      "Title": "Is it possible to have \u0060Find selected text in the active file (not workspace)\u0060 shortcut?",
+      "Tags": [
+        "xcode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799878/is-it-possible-to-have-find-selected-text-in-the-active-file-not-workspace-s"
+    }
+  ]
+}

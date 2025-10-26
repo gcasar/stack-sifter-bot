@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-26T17:03:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T16:15:09Z",
+      "Title": "struct \u0027X\u0027 has no field \u0027Y\u0027 when there is field \u0027Y\u0027 in C [closed]",
+      "Tags": [
+        "c",
+        "struct"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800165/struct-x-has-no-field-y-when-there-is-field-y-in-c"
+    },
+    {
+      "Created": "2025-10-26T16:47:57Z",
+      "Title": "Crontab not executing script @reboot",
+      "Tags": [
+        "bash",
+        "cron"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800183/crontab-not-executing-script-reboot"
+    },
+    {
+      "Created": "2025-10-26T17:00:52Z",
+      "Title": "How can I see the assembly generated for my code?",
+      "Tags": [
+        "c\u002B\u002B",
+        "assembly",
+        "godbolt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800187/how-can-i-see-the-assembly-generated-for-my-code"
+    },
+    {
+      "Created": "2025-10-26T17:03:08Z",
+      "Title": "Why arithmetic output from C and python are different?",
+      "Tags": [
+        "python",
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800188/why-arithmetic-output-from-c-and-python-are-different"
+    }
+  ]
+}

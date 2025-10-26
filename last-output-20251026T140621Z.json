@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-26T13:55:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T13:44:38Z",
+      "Title": "Double line in ggplot",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800083/double-line-in-ggplot"
+    },
+    {
+      "Created": "2025-10-26T13:47:33Z",
+      "Title": "What is the best way to check the file size in S3 multipart upload?",
+      "Tags": [
+        ".net",
+        "amazon-s3",
+        "minio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800085/what-is-the-best-way-to-check-the-file-size-in-s3-multipart-upload"
+    },
+    {
+      "Created": "2025-10-26T13:55:02Z",
+      "Title": "Do mobile quadro GPUs from nVidia have any advantage when trying to run AI/LLM models locally?",
+      "Tags": [
+        "artificial-intelligence",
+        "gpu",
+        "hardware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800089/do-mobile-quadro-gpus-from-nvidia-have-any-advantage-when-trying-to-run-ai-llm-m"
+    }
+  ]
+}

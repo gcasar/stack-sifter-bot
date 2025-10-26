@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-26T16:03:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T15:19:25Z",
+      "Title": "How to stop Background Worker?",
+      "Tags": [
+        "postgresql-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800135/how-to-stop-background-worker"
+    },
+    {
+      "Created": "2025-10-26T15:38:36Z",
+      "Title": "Issue with Pygame in the Jupyter Notebook Demo",
+      "Tags": [
+        "python",
+        "jupyter-notebook",
+        "pygame",
+        "pyodide"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800146/issue-with-pygame-in-the-jupyter-notebook-demo"
+    },
+    {
+      "Created": "2025-10-26T15:51:11Z",
+      "Title": "Custom WebAuthn Login and Registration Pages in Spring Security",
+      "Tags": [
+        "spring-boot",
+        "spring-security"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800150/custom-webauthn-login-and-registration-pages-in-spring-security"
+    },
+    {
+      "Created": "2025-10-26T16:03:19Z",
+      "Title": "Question about ibm granite time series model\u0027s probabilistic processor",
+      "Tags": [
+        "probability"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800158/question-about-ibm-granite-time-series-models-probabilistic-processor"
+    }
+  ]
+}

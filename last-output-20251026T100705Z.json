@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-26T09:57:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T09:10:13Z",
+      "Title": "Forwarding multiple sets of variadic arguments",
+      "Tags": [
+        "c\u002B\u002B",
+        "tuples",
+        "c\u002B\u002B23"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799937/forwarding-multiple-sets-of-variadic-arguments"
+    },
+    {
+      "Created": "2025-10-26T09:48:53Z",
+      "Title": "Why does Java FontMetrics return wrong string bounds (specially height) for some .ttf?",
+      "Tags": [
+        "java",
+        "java-2d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799961/why-does-java-fontmetrics-return-wrong-string-bounds-specially-height-for-some"
+    },
+    {
+      "Created": "2025-10-26T09:52:44Z",
+      "Title": "sqlalchemy: selectinload(A,B) vs selectinload(A).selectinload(B)",
+      "Tags": [
+        "python",
+        "sql",
+        "sqlalchemy",
+        "orm",
+        "eager-loading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799963/sqlalchemy-selectinloada-b-vs-selectinloada-selectinloadb"
+    },
+    {
+      "Created": "2025-10-26T09:57:06Z",
+      "Title": "Mongock rollback method is not executed",
+      "Tags": [
+        "mongodb",
+        "spring-boot",
+        "kotlin",
+        "mongock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799966/mongock-rollback-method-is-not-executed"
+    }
+  ]
+}

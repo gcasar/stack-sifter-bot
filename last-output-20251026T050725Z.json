@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-26T04:30:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T04:12:08Z",
+      "Title": "How to write Makefile for debugging only one header and source in c",
+      "Tags": [
+        "c",
+        "linux",
+        "makefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799831/how-to-write-makefile-for-debugging-only-one-header-and-source-in-c"
+    },
+    {
+      "Created": "2025-10-26T04:30:14Z",
+      "Title": "How to verify the signature inside of an encrypted message with gpg?",
+      "Tags": [
+        "gnupg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799835/how-to-verify-the-signature-inside-of-an-encrypted-message-with-gpg"
+    },
+    {
+      "Created": "2025-10-26T04:30:19Z",
+      "Title": "Inferring types from \u0060this\u0060 inside the class itself",
+      "Tags": [
+        "typescript",
+        "inheritance",
+        "types",
+        "properties",
+        "inference"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799836/inferring-types-from-this-inside-the-class-itself"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-26T13:09:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T12:24:02Z",
+      "Title": "React Canvas Signature Not Working on Mobile - Touch Events Not Firing Despite passive: false",
+      "Tags": [
+        "javascript",
+        "android",
+        "reactjs",
+        "canvas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800046/react-canvas-signature-not-working-on-mobile-touch-events-not-firing-despite-p"
+    },
+    {
+      "Created": "2025-10-26T13:09:32Z",
+      "Title": "Disable automatic insertion of // in the new line after another single-line comment in C\u002B\u002B for Visual Studio",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800065/disable-automatic-insertion-of-in-the-new-line-after-another-single-line-comm"
+    }
+  ]
+}

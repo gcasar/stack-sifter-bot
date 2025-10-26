@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-26T10:53:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T10:35:42Z",
+      "Title": "How to add multiple children based on single ternary operator in Flutter Row",
+      "Tags": [
+        "flutter",
+        "row",
+        "conditional-operator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799992/how-to-add-multiple-children-based-on-single-ternary-operator-in-flutter-row"
+    },
+    {
+      "Created": "2025-10-26T10:53:08Z",
+      "Title": "VSCode IntelliSense reports include errors for mixed C/C\u002B\u002B Code",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "visual-studio-code"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799996/vscode-intellisense-reports-include-errors-for-mixed-c-c-code"
+    }
+  ]
+}

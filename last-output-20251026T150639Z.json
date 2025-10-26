@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-26T14:56:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T14:20:14Z",
+      "Title": "Why does my component re-render twice when updating state inside useEffect? [duplicate]",
+      "Tags": [
+        "reactjs",
+        "react-hooks",
+        "react-strictmode",
+        "react-18"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800103/why-does-my-component-re-render-twice-when-updating-state-inside-useeffect"
+    },
+    {
+      "Created": "2025-10-26T14:40:41Z",
+      "Title": "Valid use of goto in c99? (pseudo generator)",
+      "Tags": [
+        "generator",
+        "c99",
+        "goto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800112/valid-use-of-goto-in-c99-pseudo-generator"
+    },
+    {
+      "Created": "2025-10-26T14:56:43Z",
+      "Title": "LateInitializationError not appearing at debug mode",
+      "Tags": [
+        "flutter",
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800123/lateinitializationerror-not-appearing-at-debug-mode"
+    }
+  ]
+}

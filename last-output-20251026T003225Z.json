@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-26T00:23:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-25T23:28:05Z",
+      "Title": "keydown event doesn\u0027t work properly on React",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "keydown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799791/keydown-event-doesnt-work-properly-on-react"
+    },
+    {
+      "Created": "2025-10-26T00:23:12Z",
+      "Title": "How to get SFML to work with cmake and Clion on Arch linux",
+      "Tags": [
+        "cmake",
+        "sfml",
+        "clion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799800/how-to-get-sfml-to-work-with-cmake-and-clion-on-arch-linux"
+    }
+  ]
+}

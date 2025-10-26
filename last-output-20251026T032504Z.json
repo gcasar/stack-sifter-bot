@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-26T03:22:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T03:22:32Z",
+      "Title": "What does np.ones_like represent in a quiver plot of a differential equation?",
+      "Tags": [
+        "numpy",
+        "matplotlib",
+        "visualization",
+        "differential-equations"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799821/what-does-np-ones-like-represent-in-a-quiver-plot-of-a-differential-equation"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-26T09:05:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T08:45:29Z",
+      "Title": "Why would MSVC 2022 create two idiv calls for one std::div without any optimizations?",
+      "Tags": [
+        "c\u002B\u002B",
+        "assembly",
+        "x86",
+        "x86-64",
+        "c\u002B\u002B20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799922/why-would-msvc-2022-create-two-idiv-calls-for-one-stddiv-without-any-optimizat"
+    },
+    {
+      "Created": "2025-10-26T08:45:56Z",
+      "Title": "SYCL GPU kernel not executing the code, without raising any exception",
+      "Tags": [
+        "c\u002B\u002B",
+        "sycl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799923/sycl-gpu-kernel-not-executing-the-code-without-raising-any-exception"
+    },
+    {
+      "Created": "2025-10-26T08:50:53Z",
+      "Title": "Qt\u0027s MOC can not find headers under include/projname",
+      "Tags": [
+        "qt",
+        "cmake",
+        "moc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799927/qts-moc-can-not-find-headers-under-include-projname"
+    },
+    {
+      "Created": "2025-10-26T08:54:03Z",
+      "Title": "eclipse jboss tool connect to wildfly 35 with error",
+      "Tags": [
+        "eclipse",
+        "jboss-tools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799928/eclipse-jboss-tool-connect-to-wildfly-35-with-error"
+    },
+    {
+      "Created": "2025-10-26T09:02:58Z",
+      "Title": "Radis- OpenAI not able to tune with actual radis text retrieved from vector index",
+      "Tags": [
+        "redis",
+        "openai-api",
+        "large-language-model",
+        "vector-database",
+        "langgraph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799930/radis-openai-not-able-to-tune-with-actual-radis-text-retrieved-from-vector-inde"
+    },
+    {
+      "Created": "2025-10-26T09:03:59Z",
+      "Title": "spdlog and fmt cannot format inside a function when argument passed by const ref",
+      "Tags": [
+        "c\u002B\u002B23",
+        "fmt",
+        "spdlog",
+        "std-fmt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799932/spdlog-and-fmt-cannot-format-inside-a-function-when-argument-passed-by-const-ref"
+    },
+    {
+      "Created": "2025-10-26T09:05:30Z",
+      "Title": "turn \u0022old\u0022 pc on a nas or server?",
+      "Tags": [
+        "server",
+        "remote-access",
+        "desktop",
+        "nas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799933/turn-old-pc-on-a-nas-or-server"
+    }
+  ]
+}

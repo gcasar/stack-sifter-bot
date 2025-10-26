@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-26T19:48:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T19:28:45Z",
+      "Title": "React/Tailwind typing app text breaks mid-word and new lines start with a space",
+      "Tags": [
+        "reactjs",
+        "web",
+        "tailwind-css",
+        "styling"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800269/react-tailwind-typing-app-text-breaks-mid-word-and-new-lines-start-with-a-space"
+    },
+    {
+      "Created": "2025-10-26T19:30:21Z",
+      "Title": "Doing an assigment on image processing using python and google colab",
+      "Tags": [
+        "python",
+        "numpy",
+        "image-processing",
+        "scikit-image"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800271/doing-an-assigment-on-image-processing-using-python-and-google-colab"
+    },
+    {
+      "Created": "2025-10-26T19:48:19Z",
+      "Title": "SIM800C doesn\u0027t go to sleep",
+      "Tags": [
+        "stm32cubeide",
+        "sim800",
+        "bluepill"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800276/sim800c-doesnt-go-to-sleep"
+    }
+  ]
+}

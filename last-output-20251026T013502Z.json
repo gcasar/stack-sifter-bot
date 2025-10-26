@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-26T01:18:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T01:18:28Z",
+      "Title": "Next.js 15 Build Error: \u201CParsing ecmascript source code failed\u201D on JSX in client context file",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "react-context"
+      ],
+      "Url": "https://stackoverflow.com/questions/79799807/next-js-15-build-error-parsing-ecmascript-source-code-failed-on-jsx-in-client"
+    }
+  ]
+}

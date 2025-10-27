@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-27T03:19:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T02:42:04Z",
+      "Title": "InputMismatchException when using arrays and methods in java",
+      "Tags": [
+        "java",
+        "java.util.scanner",
+        "inputmismatchexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800415/inputmismatchexception-when-using-arrays-and-methods-in-java"
+    },
+    {
+      "Created": "2025-10-27T02:43:57Z",
+      "Title": "Expo/ React Native Tools (Extension- Microsoft) - An error occurred while launching the application. spawn EINVAL (error code 303)",
+      "Tags": [
+        "expo",
+        "vscode-debugger",
+        "react-native-tools"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800416/expo-react-native-tools-extension-microsoft-an-error-occurred-while-launch"
+    },
+    {
+      "Created": "2025-10-27T02:58:44Z",
+      "Title": "Is it safe to store a product serial number under the Uninstall registry key where WiX stores bundle metadata?",
+      "Tags": [
+        "security",
+        "encryption",
+        "wix",
+        "registrykey",
+        "serial-number"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801418/is-it-safe-to-store-a-product-serial-number-under-the-uninstall-registry-key-whe"
+    },
+    {
+      "Created": "2025-10-27T03:10:30Z",
+      "Title": "Qemu Bios; Configuring VGA",
+      "Tags": [
+        "qemu",
+        "bios",
+        "low-level",
+        "bare-metal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801424/qemu-bios-configuring-vga"
+    },
+    {
+      "Created": "2025-10-27T03:16:40Z",
+      "Title": "In my Blazor SSR app., my service method is failing when calling an Azure HTTP trigger",
+      "Tags": [
+        "c#",
+        "azure",
+        "http",
+        "triggers",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801428/in-my-blazor-ssr-app-my-service-method-is-failing-when-calling-an-azure-http-t"
+    },
+    {
+      "Created": "2025-10-27T03:19:54Z",
+      "Title": "Programmatically block WCFM vendor order creation on partial Stripe Direct Charges in WooCommerce checkout",
+      "Tags": [
+        "php",
+        "wordpress",
+        "woocommerce",
+        "stripe-payments"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801430/programmatically-block-wcfm-vendor-order-creation-on-partial-stripe-direct-charg"
+    }
+  ]
+}

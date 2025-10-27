@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-27T23:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T22:27:34Z",
+      "Title": "How do I find the difference between Apache HttpClient calls on Windows JVM and on Linux JVM",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "apache",
+        "jvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802294/how-do-i-find-the-difference-between-apache-httpclient-calls-on-windows-jvm-and"
+    },
+    {
+      "Created": "2025-10-27T22:28:07Z",
+      "Title": "Axum: Nesting routers with different state types",
+      "Tags": [
+        "rust",
+        "rust-axum"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802295/axum-nesting-routers-with-different-state-types"
+    },
+    {
+      "Created": "2025-10-27T23:02:47Z",
+      "Title": "Is binding-level mutability necessary for a borrow checker, or could Rust have supported type-level const like C\u002B\u002B?",
+      "Tags": [
+        "rust",
+        "language-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802306/is-binding-level-mutability-necessary-for-a-borrow-checker-or-could-rust-have-s"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-27T09:53:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T09:47:03Z",
+      "Title": "Hibernate custom generic type wrapper error",
+      "Tags": [
+        "mysql",
+        "kotlin",
+        "hibernate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801666/hibernate-custom-generic-type-wrapper-error"
+    },
+    {
+      "Created": "2025-10-27T09:47:16Z",
+      "Title": "Boost::asio socket sending and receiving at frame rate",
+      "Tags": [
+        "c\u002B\u002B",
+        "boost",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801667/boostasio-socket-sending-and-receiving-at-frame-rate"
+    },
+    {
+      "Created": "2025-10-27T09:48:46Z",
+      "Title": "Configure a jumphost via qlogin",
+      "Tags": [
+        "ssh-config",
+        "jumphost",
+        "qlogin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801668/configure-a-jumphost-via-qlogin"
+    },
+    {
+      "Created": "2025-10-27T09:49:31Z",
+      "Title": "AWS Bedrock Calling retrieve_and_generate from boto3 always returns \u0022Sorry, I am unable to assist you with this request.\u0022",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-bedrock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801669/aws-bedrock-calling-retrieve-and-generate-from-boto3-always-returns-sorry-i-am"
+    },
+    {
+      "Created": "2025-10-27T09:50:46Z",
+      "Title": "urllib3 context manager usage induces an unexpected error",
+      "Tags": [
+        "python",
+        "urllib3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801670/urllib3-context-manager-usage-induces-an-unexpected-error"
+    },
+    {
+      "Created": "2025-10-27T09:51:54Z",
+      "Title": "Random Transect",
+      "Tags": [
+        "math",
+        "statistics",
+        "probability"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801671/random-transect"
+    },
+    {
+      "Created": "2025-10-27T09:53:31Z",
+      "Title": "Right strategy to improve security of a dockerized spring boot microservices app in production mode? [closed]",
+      "Tags": [
+        "spring-boot",
+        "docker",
+        "spring-security",
+        "grafana"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801673/right-strategy-to-improve-security-of-a-dockerized-spring-boot-microservices-app"
+    }
+  ]
+}

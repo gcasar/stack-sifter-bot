@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-27T00:25:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-26T23:51:02Z",
+      "Title": "NSScrollView starts scrolled down instead of showing top content on launch",
+      "Tags": [
+        "cocoa",
+        "nsscrollview",
+        "nsstackview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800369/nsscrollview-starts-scrolled-down-instead-of-showing-top-content-on-launch"
+    },
+    {
+      "Created": "2025-10-27T00:04:59Z",
+      "Title": "How to have one axis for two series in TMS FNC Charts?",
+      "Tags": [
+        "delphi",
+        "charts",
+        "firemonkey",
+        "tms",
+        "delphi-13-florence"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800375/how-to-have-one-axis-for-two-series-in-tms-fnc-charts"
+    },
+    {
+      "Created": "2025-10-27T00:24:29Z",
+      "Title": "ES6: how to create objects from new Set?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "ecmascript-6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800383/es6-how-to-create-objects-from-new-set"
+    },
+    {
+      "Created": "2025-10-27T00:25:48Z",
+      "Title": "seleniumbase uc is work in pythonanywhere",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800384/seleniumbase-uc-is-work-in-pythonanywhere"
+    }
+  ]
+}

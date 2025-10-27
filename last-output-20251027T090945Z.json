@@ -1,0 +1,64 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-27T09:07:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T08:26:17Z",
+      "Title": "How can I figure out why vim is suddenly running an external binary when I press \u0060gq\u0060 to reflow a comment?",
+      "Tags": [
+        "vim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801583/how-can-i-figure-out-why-vim-is-suddenly-running-an-external-binary-when-i-press"
+    },
+    {
+      "Created": "2025-10-27T08:54:14Z",
+      "Title": "Browsers stalled requests to my site for 10 seconds [closed]",
+      "Tags": [
+        "reactjs",
+        "next.js",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801609/browsers-stalled-requests-to-my-site-for-10-seconds"
+    },
+    {
+      "Created": "2025-10-27T08:55:57Z",
+      "Title": "Permission denied when pushing to a forked repository (403 error on GitHub)",
+      "Tags": [
+        "git",
+        "github",
+        "gitlab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801613/permission-denied-when-pushing-to-a-forked-repository-403-error-on-github"
+    },
+    {
+      "Created": "2025-10-27T09:03:08Z",
+      "Title": "strapi filter by related users in strapi in many to many relationship",
+      "Tags": [
+        "javascript",
+        "rest",
+        "strapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801617/strapi-filter-by-related-users-in-strapi-in-many-to-many-relationship"
+    },
+    {
+      "Created": "2025-10-27T09:06:44Z",
+      "Title": "initialize std::vector with integers conditionally at compile time",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801622/initialize-stdvector-with-integers-conditionally-at-compile-time"
+    },
+    {
+      "Created": "2025-10-27T09:07:45Z",
+      "Title": "Test/Identify memory corruption issues",
+      "Tags": [
+        "c",
+        "linux",
+        "heap-memory",
+        "valgrind",
+        "memory-corruption"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801625/test-identify-memory-corruption-issues"
+    }
+  ]
+}

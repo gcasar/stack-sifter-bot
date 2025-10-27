@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-27T01:18:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T01:18:57Z",
+      "Title": "How to automatically convert FormData types in Next.js Server Actions without manual parsing?",
+      "Tags": [
+        "typescript",
+        "validation",
+        "next.js",
+        "form-data",
+        "nextjs-server-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800393/how-to-automatically-convert-formdata-types-in-next-js-server-actions-without-ma"
+    }
+  ]
+}

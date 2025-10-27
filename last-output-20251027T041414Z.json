@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-27T03:55:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T03:55:28Z",
+      "Title": "When using Jackson for serialization, the written file content is all 0x00",
+      "Tags": [
+        "java",
+        "jackson",
+        "java-io"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801438/when-using-jackson-for-serialization-the-written-file-content-is-all-0x00"
+    }
+  ]
+}

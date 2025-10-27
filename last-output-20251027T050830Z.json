@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-27T05:01:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T04:37:24Z",
+      "Title": "(Node Js) My Google Calendar Event API is not changing Reminders time for users",
+      "Tags": [
+        "node.js",
+        "google-calendar-api",
+        "google-api-services-jobs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801448/node-js-my-google-calendar-event-api-is-not-changing-reminders-time-for-users"
+    },
+    {
+      "Created": "2025-10-27T04:38:24Z",
+      "Title": "Widget in the python qt.QStackedLayout is not showing up",
+      "Tags": [
+        "python",
+        "user-interface",
+        "pyqt",
+        "qstackedwidget"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801449/widget-in-the-python-qt-qstackedlayout-is-not-showing-up"
+    },
+    {
+      "Created": "2025-10-27T04:43:56Z",
+      "Title": "NDIS LWF-FilterReceiveNetBufferLists PerCPU?",
+      "Tags": [
+        "ndis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801452/ndis-lwf-filterreceivenetbufferlists-percpu"
+    },
+    {
+      "Created": "2025-10-27T04:51:45Z",
+      "Title": "How to specify bound property of known name for Avalonia control created in code-behind?",
+      "Tags": [
+        "dynamic",
+        "data-binding",
+        "code-behind",
+        "avaloniaui",
+        "avalonia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801458/how-to-specify-bound-property-of-known-name-for-avalonia-control-created-in-code"
+    },
+    {
+      "Created": "2025-10-27T04:55:50Z",
+      "Title": "Lazy load a module that loads component using LayoutDialogConfig",
+      "Tags": [
+        "spartacus-storefront",
+        "angular-lazyloading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801461/lazy-load-a-module-that-loads-component-using-layoutdialogconfig"
+    },
+    {
+      "Created": "2025-10-27T05:01:55Z",
+      "Title": "LangChain with_structured_output causes unknown enum label \u0022any\u0022 error",
+      "Tags": [
+        "pydantic",
+        "langchain",
+        "gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801466/langchain-with-structured-output-causes-unknown-enum-label-any-error"
+    }
+  ]
+}

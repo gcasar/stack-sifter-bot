@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-27T20:04:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T19:33:11Z",
+      "Title": "Why is my quicklook preview extension printing this message",
+      "Tags": [
+        "swiftui",
+        "preview",
+        "quicklook"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802179/why-is-my-quicklook-preview-extension-printing-this-message"
+    },
+    {
+      "Created": "2025-10-27T19:58:29Z",
+      "Title": "Speed of numpy.random.choice() against static dataset with differing probabilities",
+      "Tags": [
+        "python",
+        "numpy",
+        "vectorization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802197/speed-of-numpy-random-choice-against-static-dataset-with-differing-probabiliti"
+    },
+    {
+      "Created": "2025-10-27T20:01:06Z",
+      "Title": "TensorFlow Custom Training Loop with Mixed Precision Causing NaN Loss After Epoch 15",
+      "Tags": [
+        "tensorflow",
+        "keras",
+        "tensorflow2.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802200/tensorflow-custom-training-loop-with-mixed-precision-causing-nan-loss-after-epoc"
+    },
+    {
+      "Created": "2025-10-27T20:04:01Z",
+      "Title": "SSRS: trying to open a link in a new tab",
+      "Tags": [
+        "javascript",
+        "reporting-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802202/ssrs-trying-to-open-a-link-in-a-new-tab"
+    }
+  ]
+}

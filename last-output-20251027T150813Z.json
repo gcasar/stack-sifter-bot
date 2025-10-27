@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-27T15:01:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T14:17:22Z",
+      "Title": "RemoteViews onDataSetChanged stops working on Android API 36 - How to migrate to RemoteViews.RemoteCollectionItems?",
+      "Tags": [
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801913/remoteviews-ondatasetchanged-stops-working-on-android-api-36-how-to-migrate-to"
+    },
+    {
+      "Created": "2025-10-27T14:36:27Z",
+      "Title": "How do you use datatables.net 2.x server side paginated tables in angular 17 that allows rendering the table from the html file [closed]",
+      "Tags": [
+        "javascript",
+        "angular",
+        "datatables",
+        "pagination",
+        "angular-datatables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801930/how-do-you-use-datatables-net-2-x-server-side-paginated-tables-in-angular-17-tha"
+    },
+    {
+      "Created": "2025-10-27T15:01:25Z",
+      "Title": "How to access the Tags collection in Azure APIM policies",
+      "Tags": [
+        "azure-api-management",
+        "azure-policy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801953/how-to-access-the-tags-collection-in-azure-apim-policies"
+    }
+  ]
+}

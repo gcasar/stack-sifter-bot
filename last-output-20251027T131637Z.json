@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-27T13:14:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T13:07:59Z",
+      "Title": "The instructions in a NSBitmapImageRep is not executed",
+      "Tags": [
+        "objective-c",
+        "cocoa",
+        "nsimage",
+        "nsbitmapimagerep"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801847/the-instructions-in-a-nsbitmapimagerep-is-not-executed"
+    },
+    {
+      "Created": "2025-10-27T13:10:58Z",
+      "Title": "File empty on docker after copying using std::filesystem",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "docker",
+        "filesystems"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801850/file-empty-on-docker-after-copying-using-stdfilesystem"
+    },
+    {
+      "Created": "2025-10-27T13:12:41Z",
+      "Title": "Tkinter: Why do all Windows start?",
+      "Tags": [
+        "python",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801852/tkinter-why-do-all-windows-start"
+    },
+    {
+      "Created": "2025-10-27T13:14:42Z",
+      "Title": "How can I make a Divi theme dropdown in WordPress not stay open after click",
+      "Tags": [
+        "wordpress",
+        "custom-wordpress-pages",
+        "divi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801854/how-can-i-make-a-divi-theme-dropdown-in-wordpress-not-stay-open-after-click"
+    }
+  ]
+}

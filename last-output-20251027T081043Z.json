@@ -1,0 +1,88 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-27T08:06:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T07:13:10Z",
+      "Title": "Parsing Word docx file gives \u0022Namespace prefix m on oMath is not defined in Entity\u0022",
+      "Tags": [
+        "php",
+        "ms-word",
+        "phpword"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801538/parsing-word-docx-file-gives-namespace-prefix-m-on-omath-is-not-defined-in-enti"
+    },
+    {
+      "Created": "2025-10-27T07:52:06Z",
+      "Title": "MacOS keychain access group failing with kSecUseDataProtectionKeychain",
+      "Tags": [
+        "swift",
+        "macos",
+        "keychain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801561/macos-keychain-access-group-failing-with-ksecusedataprotectionkeychain"
+    },
+    {
+      "Created": "2025-10-27T07:53:53Z",
+      "Title": "Disable hardware acceleration for Playwright browsers",
+      "Tags": [
+        "ubuntu",
+        "playwright",
+        "hardware-acceleration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801562/disable-hardware-acceleration-for-playwright-browsers"
+    },
+    {
+      "Created": "2025-10-27T07:55:19Z",
+      "Title": "How to do a flexible login to support custom DBs and AD - Tried with signInManager?",
+      "Tags": [
+        "c#",
+        ".net",
+        "authentication",
+        "asp.net-identity",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801563/how-to-do-a-flexible-login-to-support-custom-dbs-and-ad-tried-with-signinmanag"
+    },
+    {
+      "Created": "2025-10-27T07:55:33Z",
+      "Title": "How to Convert a Heavily Modified, Manually Copied Subdirectory into a Git Subtree for Clean Upstream Merges?",
+      "Tags": [
+        "git",
+        "merge",
+        "git-subtree",
+        "git-history",
+        "datahub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801565/how-to-convert-a-heavily-modified-manually-copied-subdirectory-into-a-git-subtr"
+    },
+    {
+      "Created": "2025-10-27T07:58:48Z",
+      "Title": "When parsing docx file give error The tag \u0060m:f\u0060 has no numerator defined",
+      "Tags": [
+        "php",
+        "mathml",
+        "phpoffice"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801569/when-parsing-docx-file-give-error-the-tag-mf-has-no-numerator-defined"
+    },
+    {
+      "Created": "2025-10-27T08:03:36Z",
+      "Title": "How do I take a random string from an array and then output it? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "random"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801572/how-do-i-take-a-random-string-from-an-array-and-then-output-it"
+    },
+    {
+      "Created": "2025-10-27T08:06:39Z",
+      "Title": "Meson cross compile using git bash on windows",
+      "Tags": [
+        "windows",
+        "bash"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801573/meson-cross-compile-using-git-bash-on-windows"
+    }
+  ]
+}

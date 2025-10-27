@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-27T12:06:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T11:45:30Z",
+      "Title": "Preprocessor plugin in vite is not called when in library mode",
+      "Tags": [
+        "vite",
+        "vite-plugin-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801780/preprocessor-plugin-in-vite-is-not-called-when-in-library-mode"
+    },
+    {
+      "Created": "2025-10-27T11:47:09Z",
+      "Title": "Python execution log with call stack",
+      "Tags": [
+        "python",
+        "trace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801782/python-execution-log-with-call-stack"
+    },
+    {
+      "Created": "2025-10-27T11:55:51Z",
+      "Title": "How to retrieve messages from group chat of microsoft teams using copilot studio?",
+      "Tags": [
+        "microsoft-graph-api",
+        "microsoft-copilot-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801788/how-to-retrieve-messages-from-group-chat-of-microsoft-teams-using-copilot-studio"
+    },
+    {
+      "Created": "2025-10-27T11:59:50Z",
+      "Title": "Qt 5.15 =\u003E 6.10: QML with WebView in the widget app shows empty field instead of web page on Android",
+      "Tags": [
+        "android",
+        "c\u002B\u002B",
+        "qt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801790/qt-5-15-6-10-qml-with-webview-in-the-widget-app-shows-empty-field-instead-of"
+    },
+    {
+      "Created": "2025-10-27T12:03:38Z",
+      "Title": "Deploying Dockerized (React \u002B Django \u002B PostgreSQL ) app with custom license to a client without exposing source code",
+      "Tags": [
+        "reactjs",
+        "django",
+        "postgresql",
+        "docker",
+        "licensing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801795/deploying-dockerized-react-django-postgresql-app-with-custom-license-to-a"
+    },
+    {
+      "Created": "2025-10-27T12:06:03Z",
+      "Title": "AWS Code Deploy command not found for pm2 and pnpm",
+      "Tags": [
+        "pm2",
+        "aws-code-deploy",
+        "pnpm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801796/aws-code-deploy-command-not-found-for-pm2-and-pnpm"
+    }
+  ]
+}

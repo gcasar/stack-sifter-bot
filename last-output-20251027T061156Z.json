@@ -1,0 +1,73 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-27T06:08:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T05:19:49Z",
+      "Title": "DataStage XML export modified via Python \u2014 new stage not appearing after re-import",
+      "Tags": [
+        "xml",
+        "automation",
+        "etl",
+        "datastage",
+        "ibm-infosphere"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801472/datastage-xml-export-modified-via-python-new-stage-not-appearing-after-re-impo"
+    },
+    {
+      "Created": "2025-10-27T05:22:11Z",
+      "Title": "Flutter Agora: Play multiple video stream parallel",
+      "Tags": [
+        "flutter",
+        "dart",
+        "flutter-dependencies",
+        "agora.io",
+        "agora-implementation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801474/flutter-agora-play-multiple-video-stream-parallel"
+    },
+    {
+      "Created": "2025-10-27T05:30:17Z",
+      "Title": "How does the CLR implement static fields in generic types? [duplicate]",
+      "Tags": [
+        "c#",
+        ".net",
+        "clr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801477/how-does-the-clr-implement-static-fields-in-generic-types"
+    },
+    {
+      "Created": "2025-10-27T05:43:39Z",
+      "Title": "Seeking free hosting advice for Django \u002B Channels app (needs MySQL \u0026 WebSockets, no initial CC) [closed]",
+      "Tags": [
+        "mysql",
+        "websocket",
+        "deployment"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801480/seeking-free-hosting-advice-for-django-channels-app-needs-mysql-websockets"
+    },
+    {
+      "Created": "2025-10-27T05:46:31Z",
+      "Title": "NG8: Type \u0027Signal\u003CUser[]\u003E\u0027 must have a \u0027[Symbol.iterator]()\u0027 method that returns an iterator",
+      "Tags": [
+        "angular",
+        "typescript",
+        "typescript-typings",
+        "ngrx-signal-store",
+        "angular20"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801481/ng8-type-signaluser-must-have-a-symbol-iterator-method-that-returns"
+    },
+    {
+      "Created": "2025-10-27T06:08:24Z",
+      "Title": "Spring Boot 3.x \u2014 @RestControllerAdvice not catching custom exceptions",
+      "Tags": [
+        "spring-boot",
+        "spring-mvc",
+        "exception",
+        "spring-restcontroller"
+      ],
+      "Url": "https://stackoverflow.com/questions/79801492/spring-boot-3-x-restcontrolleradvice-not-catching-custom-exceptions"
+    }
+  ]
+}

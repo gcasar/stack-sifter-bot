@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-27T21:01:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T20:14:40Z",
+      "Title": "SELECT jsonb data based on specific children values/properties",
+      "Tags": [
+        "postgresql",
+        "jsonb",
+        "jsonpath",
+        "json-path-expression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802208/select-jsonb-data-based-on-specific-children-values-properties"
+    },
+    {
+      "Created": "2025-10-27T20:56:18Z",
+      "Title": "KafkaAvroSerializer UnresolvedUnionException with nullable timestamp-millis field",
+      "Tags": [
+        "java",
+        "serialization",
+        "apache-kafka",
+        "avro"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802242/kafkaavroserializer-unresolvedunionexception-with-nullable-timestamp-millis-fiel"
+    },
+    {
+      "Created": "2025-10-27T20:58:29Z",
+      "Title": "3rd Stack -- Why does VFX Forth like fine, but Swift Forth, GForth, and Win32Forth fail just only sometimes?",
+      "Tags": [
+        "forth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802243/3rd-stack-why-does-vfx-forth-like-fine-but-swift-forth-gforth-and-win32for"
+    },
+    {
+      "Created": "2025-10-27T21:01:13Z",
+      "Title": "Overlay a differently sized png in ffmpeg",
+      "Tags": [
+        "video",
+        "ffmpeg",
+        "png",
+        "video-processing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802248/overlay-a-differently-sized-png-in-ffmpeg"
+    }
+  ]
+}

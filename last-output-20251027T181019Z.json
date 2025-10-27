@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-27T18:00:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T17:07:10Z",
+      "Title": "Why do I get a SettingWithCopyWarning when using shift and dropna inside a function?",
+      "Tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802076/why-do-i-get-a-settingwithcopywarning-when-using-shift-and-dropna-inside-a-funct"
+    },
+    {
+      "Created": "2025-10-27T17:24:31Z",
+      "Title": "Why is -1e9 commonly used for initialization? Explain with an example [closed]",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802090/why-is-1e9-commonly-used-for-initialization-explain-with-an-example"
+    },
+    {
+      "Created": "2025-10-27T17:37:26Z",
+      "Title": "How do languages figure out where and which bracket ends a specific statement in a programming language? [closed]",
+      "Tags": [
+        "python",
+        "programming-languages"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802099/how-do-languages-figure-out-where-and-which-bracket-ends-a-specific-statement-in"
+    },
+    {
+      "Created": "2025-10-27T17:55:14Z",
+      "Title": "Combining Pydantic Models and File Uploads",
+      "Tags": [
+        "python",
+        "fastapi",
+        "type-hinting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802111/combining-pydantic-models-and-file-uploads"
+    },
+    {
+      "Created": "2025-10-27T18:00:17Z",
+      "Title": "VTK link error with VCPKG in release config",
+      "Tags": [
+        "c\u002B\u002B",
+        "vtk",
+        "vcpkg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802114/vtk-link-error-with-vcpkg-in-release-config"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-27T02:34:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T02:16:42Z",
+      "Title": "Why is my async generator freezing and only yielding once after await?",
+      "Tags": [
+        "python",
+        "asynchronous",
+        "async-await",
+        "concurrency",
+        "generator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800406/why-is-my-async-generator-freezing-and-only-yielding-once-after-await"
+    },
+    {
+      "Created": "2025-10-27T02:30:03Z",
+      "Title": "Writing to a file in a read only directory?",
+      "Tags": [
+        "linux",
+        "file-permissions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800411/writing-to-a-file-in-a-read-only-directory"
+    },
+    {
+      "Created": "2025-10-27T02:30:06Z",
+      "Title": "How to prevent DCG from finding extra results?",
+      "Tags": [
+        "prolog",
+        "dcg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800412/how-to-prevent-dcg-from-finding-extra-results"
+    },
+    {
+      "Created": "2025-10-27T02:34:35Z",
+      "Title": "How to programmatically run prompts outside the project context using GitHub Copilot or OpenAI API?",
+      "Tags": [
+        "openai-api",
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79800413/how-to-programmatically-run-prompts-outside-the-project-context-using-github-cop"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-27T21:59:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-27T21:14:47Z",
+      "Title": "Read a JSON File in a FOR loop",
+      "Tags": [
+        "python",
+        "json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802258/read-a-json-file-in-a-for-loop"
+    },
+    {
+      "Created": "2025-10-27T21:53:51Z",
+      "Title": "Is there a way to simulate higher refresh rates in a web browser?",
+      "Tags": [
+        "javascript",
+        "google-chrome",
+        "firefox",
+        "game-development"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802276/is-there-a-way-to-simulate-higher-refresh-rates-in-a-web-browser"
+    },
+    {
+      "Created": "2025-10-27T21:55:45Z",
+      "Title": "C\u002B\u002B : Confusion on value initialization",
+      "Tags": [
+        "c\u002B\u002B",
+        "c\u002B\u002B20",
+        "value-initialization",
+        "default-initialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802278/c-confusion-on-value-initialization"
+    },
+    {
+      "Created": "2025-10-27T21:59:36Z",
+      "Title": "Print Unicode-Char with C printf and wprintf",
+      "Tags": [
+        "c",
+        "unicode",
+        "console",
+        "emoji"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802282/print-unicode-char-with-c-printf-and-wprintf"
+    },
+    {
+      "Created": "2025-10-27T21:59:44Z",
+      "Title": "Is there a way to determine the Windows UBR value remotely with a low privilege user?",
+      "Tags": [
+        "windows",
+        "version",
+        "remote-access",
+        "fingerprinting",
+        "build-numbers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802283/is-there-a-way-to-determine-the-windows-ubr-value-remotely-with-a-low-privilege"
+    }
+  ]
+}

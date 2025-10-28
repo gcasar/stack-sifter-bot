@@ -1,0 +1,44 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-28T02:11:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T01:35:19Z",
+      "Title": "How do I make one element update its position relative to another?",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "browser"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802359/how-do-i-make-one-element-update-its-position-relative-to-another"
+    },
+    {
+      "Created": "2025-10-28T02:08:20Z",
+      "Title": "How to close a round object opening border to be filled later?",
+      "Tags": [
+        "python",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802371/how-to-close-a-round-object-opening-border-to-be-filled-later"
+    },
+    {
+      "Created": "2025-10-28T02:10:56Z",
+      "Title": "Unexpected Behavior of getline function in fstream",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802373/unexpected-behavior-of-getline-function-in-fstream"
+    },
+    {
+      "Created": "2025-10-28T02:11:12Z",
+      "Title": "What is the OpenGL profile used by SDL2?",
+      "Tags": [
+        "opengl",
+        "shader",
+        "sdl-2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802374/what-is-the-opengl-profile-used-by-sdl2"
+    }
+  ]
+}

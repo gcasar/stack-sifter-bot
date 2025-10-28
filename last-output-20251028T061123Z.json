@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-28T05:49:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T05:38:27Z",
+      "Title": "What would be the good ML algorithms to filter spam/redundant URLs from non-spammy ones [closed]",
+      "Tags": [
+        "web-crawler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802455/what-would-be-the-good-ml-algorithms-to-filter-spam-redundant-urls-from-non-spam"
+    },
+    {
+      "Created": "2025-10-28T05:39:27Z",
+      "Title": "Serilog PushProperty with additional properties",
+      "Tags": [
+        "c#",
+        "serilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802459/serilog-pushproperty-with-additional-properties"
+    },
+    {
+      "Created": "2025-10-28T05:45:12Z",
+      "Title": "Visual Studio Code Coverage Reports Not Listing Or Highlighting All Tested Code",
+      "Tags": [
+        "visual-studio",
+        "code-coverage",
+        "mstest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802461/visual-studio-code-coverage-reports-not-listing-or-highlighting-all-tested-code"
+    },
+    {
+      "Created": "2025-10-28T05:49:55Z",
+      "Title": "Cannot set value of non-variable node in JAGS Bayesian modelling for survival using CJS analysis",
+      "Tags": [
+        "r",
+        "jags",
+        "cjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802464/cannot-set-value-of-non-variable-node-in-jags-bayesian-modelling-for-survival-us"
+    }
+  ]
+}

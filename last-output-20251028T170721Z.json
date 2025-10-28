@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-28T17:02:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T16:46:16Z",
+      "Title": "How to find minimum number of days for a schedule according to a preference via graph?",
+      "Tags": [
+        "python",
+        "algorithm",
+        "graph"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803074/how-to-find-minimum-number-of-days-for-a-schedule-according-to-a-preference-via"
+    },
+    {
+      "Created": "2025-10-28T16:51:35Z",
+      "Title": "Python install exe cmdline options seems not enough?",
+      "Tags": [
+        "python",
+        "windows",
+        "exe"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803079/python-install-exe-cmdline-options-seems-not-enough"
+    },
+    {
+      "Created": "2025-10-28T16:55:45Z",
+      "Title": "How to get compiler major version in CMake? [duplicate]",
+      "Tags": [
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803083/how-to-get-compiler-major-version-in-cmake"
+    },
+    {
+      "Created": "2025-10-28T16:57:53Z",
+      "Title": "Trying to improve performance for Plasma Effect using SkiaSharp",
+      "Tags": [
+        "c#",
+        "graphics",
+        "2d",
+        "skiasharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803084/trying-to-improve-performance-for-plasma-effect-using-skiasharp"
+    },
+    {
+      "Created": "2025-10-28T17:02:24Z",
+      "Title": "Can install4j install native images as services including install4j update features",
+      "Tags": [
+        "image",
+        "native",
+        "install4j"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803087/can-install4j-install-native-images-as-services-including-install4j-update-featu"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-28T13:13:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T12:13:07Z",
+      "Title": "Is it good practice to share the same primary key between parent and child tables in a one-to-one relationship? [closed]",
+      "Tags": [
+        "php",
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802778/is-it-good-practice-to-share-the-same-primary-key-between-parent-and-child-table"
+    },
+    {
+      "Created": "2025-10-28T13:01:26Z",
+      "Title": "How to Get Correct Image Coordinates from Mouse Click in Cornerstone Viewer",
+      "Tags": [
+        "angular",
+        "dicom",
+        "cornerstone",
+        "cornerstonejs",
+        "dicomweb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802837/how-to-get-correct-image-coordinates-from-mouse-click-in-cornerstone-viewer"
+    },
+    {
+      "Created": "2025-10-28T13:06:04Z",
+      "Title": "Modify extended job variable on the fly through script",
+      "Tags": [
+        "gitlab",
+        "gitlab-ci",
+        "gitlab-ci-runner"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802841/modify-extended-job-variable-on-the-fly-through-script"
+    },
+    {
+      "Created": "2025-10-28T13:07:20Z",
+      "Title": "Adding an Object column to a polars DataFrame with broadcasting",
+      "Tags": [
+        "polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802842/adding-an-object-column-to-a-polars-dataframe-with-broadcasting"
+    },
+    {
+      "Created": "2025-10-28T13:09:47Z",
+      "Title": "Date \u0026 time not being shown in japanese",
+      "Tags": [
+        "windows",
+        "datetime",
+        "locale",
+        "ibm-mq",
+        "windows-11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802847/date-time-not-being-shown-in-japanese"
+    },
+    {
+      "Created": "2025-10-28T13:10:29Z",
+      "Title": "Getting 400 Bad Request on HubConnection to Default mode Azure SignalR",
+      "Tags": [
+        "c#",
+        "blazor",
+        "azure-signalr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802848/getting-400-bad-request-on-hubconnection-to-default-mode-azure-signalr"
+    },
+    {
+      "Created": "2025-10-28T13:13:02Z",
+      "Title": "Sudden CPU spike on AWS RDS (PostgreSQL) after running fine for the entire last month",
+      "Tags": [
+        "postgresql",
+        "amazon-web-services",
+        "amazon-rds"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802852/sudden-cpu-spike-on-aws-rds-postgresql-after-running-fine-for-the-entire-last"
+    }
+  ]
+}

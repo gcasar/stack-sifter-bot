@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-28T01:27:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T01:05:55Z",
+      "Title": "Update to border-bottom of \u003Cbutton\u003E component works for hover but not for focus [duplicate]",
+      "Tags": [
+        "javascript",
+        "html",
+        "css",
+        "primeng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802350/update-to-border-bottom-of-button-component-works-for-hover-but-not-for-focus"
+    },
+    {
+      "Created": "2025-10-28T01:06:48Z",
+      "Title": "Why is Gmail API throttling even though I\u0027m under the usage limits?",
+      "Tags": [
+        "gmail-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802351/why-is-gmail-api-throttling-even-though-im-under-the-usage-limits"
+    },
+    {
+      "Created": "2025-10-28T01:08:23Z",
+      "Title": "PDFBox 3.0.5 external sign causes \u0022Signature is invalid\u0022",
+      "Tags": [
+        "pdfbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802352/pdfbox-3-0-5-external-sign-causes-signature-is-invalid"
+    },
+    {
+      "Created": "2025-10-28T01:27:17Z",
+      "Title": "How to implement non-plain-text password transmission in Spring Authorization Server 1.4.3 (password grant extension)",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "encryption",
+        "spring-authorization-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802356/how-to-implement-non-plain-text-password-transmission-in-spring-authorization-se"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-28T03:23:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T02:41:18Z",
+      "Title": "In hmmlearn, how are state predictions made by predict() different from probabilities returned by precit_proba()?",
+      "Tags": [
+        "python",
+        "hidden-markov-models",
+        "hmmlearn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802382/in-hmmlearn-how-are-state-predictions-made-by-predict-different-from-probabil"
+    },
+    {
+      "Created": "2025-10-28T02:57:37Z",
+      "Title": "Spring boot Handling AWS Secrets Manager rotation handling to connect to AWS DocumentDB",
+      "Tags": [
+        "spring-boot",
+        "spring-data-mongodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802392/spring-boot-handling-aws-secrets-manager-rotation-handling-to-connect-to-aws-doc"
+    },
+    {
+      "Created": "2025-10-28T03:12:43Z",
+      "Title": "How to filter data into another spreadsheet based on two values in the same column in google sheets",
+      "Tags": [
+        "sorting",
+        "google-sheets",
+        "filter",
+        "formula"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802396/how-to-filter-data-into-another-spreadsheet-based-on-two-values-in-the-same-colu"
+    },
+    {
+      "Created": "2025-10-28T03:23:27Z",
+      "Title": "Why CMake failed to find krb5 while g\u002B\u002B succeed?",
+      "Tags": [
+        "cmake",
+        "anaconda",
+        "g\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802401/why-cmake-failed-to-find-krb5-while-g-succeed"
+    }
+  ]
+}

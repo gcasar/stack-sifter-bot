@@ -1,0 +1,75 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-28T14:06:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T13:17:30Z",
+      "Title": "How to set Cache-Control to protected paths in a Spring Boot application?",
+      "Tags": [
+        "java",
+        "spring-boot",
+        "cache-control"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802853/how-to-set-cache-control-to-protected-paths-in-a-spring-boot-application"
+    },
+    {
+      "Created": "2025-10-28T13:31:22Z",
+      "Title": "What are the practical criteria for choosing Spring vs Spring Boot in new enterprise applications? [duplicate]",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "web-frameworks",
+        "enterprise-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802865/what-are-the-practical-criteria-for-choosing-spring-vs-spring-boot-in-new-enterp"
+    },
+    {
+      "Created": "2025-10-28T13:53:20Z",
+      "Title": "Artillery metrics-by-endpoint with payload",
+      "Tags": [
+        "artillery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802889/artillery-metrics-by-endpoint-with-payload"
+    },
+    {
+      "Created": "2025-10-28T13:57:16Z",
+      "Title": "Collect Stream into MultiValuedMap",
+      "Tags": [
+        "java",
+        "apache-commons-collection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802892/collect-stream-into-multivaluedmap"
+    },
+    {
+      "Created": "2025-10-28T13:59:19Z",
+      "Title": "How to try catch finally in c",
+      "Tags": [
+        "c",
+        "segmentation-fault",
+        "malloc",
+        "free"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802894/how-to-try-catch-finally-in-c"
+    },
+    {
+      "Created": "2025-10-28T13:59:21Z",
+      "Title": "Singlecell problem by using Seurat IntegrateLayers function",
+      "Tags": [
+        "r",
+        "seurat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802895/singlecell-problem-by-using-seurat-integratelayers-function"
+    },
+    {
+      "Created": "2025-10-28T14:06:38Z",
+      "Title": "Does sqlite ignore WHERE clause after ON CONFLICT of UPSERT?",
+      "Tags": [
+        "sql",
+        "sqlite",
+        "upsert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802903/does-sqlite-ignore-where-clause-after-on-conflict-of-upsert"
+    }
+  ]
+}

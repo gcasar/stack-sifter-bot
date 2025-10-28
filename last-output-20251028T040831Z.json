@@ -1,0 +1,14 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-28T03:35:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T03:35:14Z",
+      "Title": "For Authorize.net bank debit API, does bank account nameOnAccount element in request XML need to contain account holder name for bank payment to work?",
+      "Tags": [
+        "authorize.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802407/for-authorize-net-bank-debit-api-does-bank-account-nameonaccount-element-in-req"
+    }
+  ]
+}

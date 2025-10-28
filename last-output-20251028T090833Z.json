@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-28T09:05:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T08:53:38Z",
+      "Title": "I am making a file manager in android studio. How can i open image, video , text etc using external app in android studio using file provider",
+      "Tags": [
+        "android"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802577/i-am-making-a-file-manager-in-android-studio-how-can-i-open-image-video-text"
+    },
+    {
+      "Created": "2025-10-28T08:57:50Z",
+      "Title": "Exclude cpp files from build using cmake",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-studio",
+        "cmake",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802579/exclude-cpp-files-from-build-using-cmake"
+    },
+    {
+      "Created": "2025-10-28T09:05:27Z",
+      "Title": "How to open sqlite databases in storage",
+      "Tags": [
+        "android",
+        "kotlin",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802587/how-to-open-sqlite-databases-in-storage"
+    }
+  ]
+}

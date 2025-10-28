@@ -1,0 +1,69 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-28T18:59:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T18:21:39Z",
+      "Title": "How to --form POST a file read from stdin?",
+      "Tags": [
+        "httpie"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803147/how-to-form-post-a-file-read-from-stdin"
+    },
+    {
+      "Created": "2025-10-28T18:31:14Z",
+      "Title": "My Code returned with \u0022no match for \u0027operator==\u0027 [closed]",
+      "Tags": [
+        "c\u002B\u002B",
+        "string",
+        "vector",
+        "getline"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803155/my-code-returned-with-no-match-for-operator"
+    },
+    {
+      "Created": "2025-10-28T18:52:26Z",
+      "Title": "Join Query with an Aggregate Function (number of bowl games won for colleges that have won at least once)",
+      "Tags": [
+        "mysql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803168/join-query-with-an-aggregate-function-number-of-bowl-games-won-for-colleges-tha"
+    },
+    {
+      "Created": "2025-10-28T18:53:26Z",
+      "Title": "why does buildozer crash on ubuntu 24.04 while running buildozer -v android debug",
+      "Tags": [
+        "python",
+        "android",
+        "python-3.x",
+        "ubuntu",
+        "buildozer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803169/why-does-buildozer-crash-on-ubuntu-24-04-while-running-buildozer-v-android-debu"
+    },
+    {
+      "Created": "2025-10-28T18:53:59Z",
+      "Title": "Does storing a UUID in iOS Keychain persist after app uninstall and reinstall?",
+      "Tags": [
+        "ios",
+        "swift",
+        "security",
+        "uuid",
+        "keychain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803170/does-storing-a-uuid-in-ios-keychain-persist-after-app-uninstall-and-reinstall"
+    },
+    {
+      "Created": "2025-10-28T18:59:46Z",
+      "Title": "ASP.NET Core: How to handle EF Core update \u002B Azure Blob upload transactionally in a single request?",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "asp.net-core",
+        "entity-framework-core",
+        "azure-blob-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803176/asp-net-core-how-to-handle-ef-core-update-azure-blob-upload-transactionally-i"
+    }
+  ]
+}

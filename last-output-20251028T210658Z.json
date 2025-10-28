@@ -1,0 +1,95 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-28T21:04:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T20:21:06Z",
+      "Title": "Pandas DataFrame with a hundred million entries and counting the number of identical characters in strings",
+      "Tags": [
+        "python",
+        "pandas",
+        "bigdata",
+        "counter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803236/pandas-dataframe-with-a-hundred-million-entries-and-counting-the-number-of-ident"
+    },
+    {
+      "Created": "2025-10-28T20:29:45Z",
+      "Title": "write(2) syscall doesn\u0027t work in Minix 3.3.0 i386 assembly program",
+      "Tags": [
+        "assembly",
+        "libc",
+        "minix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803241/write2-syscall-doesnt-work-in-minix-3-3-0-i386-assembly-program"
+    },
+    {
+      "Created": "2025-10-28T20:31:01Z",
+      "Title": "How to configure Callback in ProofPoint SER to get EMAIL Delivery status",
+      "Tags": [
+        "email"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803242/how-to-configure-callback-in-proofpoint-ser-to-get-email-delivery-status"
+    },
+    {
+      "Created": "2025-10-28T20:31:55Z",
+      "Title": "Weird files get added to my branch on pull from origin [closed]",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803243/weird-files-get-added-to-my-branch-on-pull-from-origin"
+    },
+    {
+      "Created": "2025-10-28T20:44:31Z",
+      "Title": "Discord.js voiceStateUpdate oldState Channel ID always null",
+      "Tags": [
+        "typescript",
+        "discord",
+        "discord.js",
+        "nestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803249/discord-js-voicestateupdate-oldstate-channel-id-always-null"
+    },
+    {
+      "Created": "2025-10-28T20:50:42Z",
+      "Title": "Azure Agent Retrieval (Azure AI Search) returns JSON references instead of LLM-generated answer",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-openai",
+        "azure-ai-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803252/azure-agent-retrieval-azure-ai-search-returns-json-references-instead-of-llm-g"
+    },
+    {
+      "Created": "2025-10-28T20:59:31Z",
+      "Title": "TestContainers not working for Rust Integration Testing for Debian Linux",
+      "Tags": [
+        "macos",
+        "rust",
+        "debian",
+        "testcontainers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803256/testcontainers-not-working-for-rust-integration-testing-for-debian-linux"
+    },
+    {
+      "Created": "2025-10-28T21:04:01Z",
+      "Title": "Title: Getting Meta API error code 138013 when sending a call permission template to a user",
+      "Tags": [
+        "nestjs",
+        "metadata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803260/title-getting-meta-api-error-code-138013-when-sending-a-call-permission-templat"
+    },
+    {
+      "Created": "2025-10-28T21:04:30Z",
+      "Title": "waiting for a page to load resources with vue-router - equivalent to window.onload?",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "vue-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803262/waiting-for-a-page-to-load-resources-with-vue-router-equivalent-to-window-onlo"
+    }
+  ]
+}

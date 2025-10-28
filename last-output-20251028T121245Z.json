@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-28T12:10:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T11:49:26Z",
+      "Title": "How to extend a type/interface keys with other type options (like null)",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802756/how-to-extend-a-type-interface-keys-with-other-type-options-like-null"
+    },
+    {
+      "Created": "2025-10-28T11:54:33Z",
+      "Title": "How to make Next.js 15 server actions work seamlessly with Zustand state updates in client components?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "zustand",
+        "nextjs-server-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802762/how-to-make-next-js-15-server-actions-work-seamlessly-with-zustand-state-updates"
+    },
+    {
+      "Created": "2025-10-28T11:59:52Z",
+      "Title": "PrimeNG DatePicker only highlights the first event date even though multiple event days exist",
+      "Tags": [
+        "angular",
+        "datepicker",
+        "primeng"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802766/primeng-datepicker-only-highlights-the-first-event-date-even-though-multiple-eve"
+    },
+    {
+      "Created": "2025-10-28T12:10:49Z",
+      "Title": "Mocking useNavigate",
+      "Tags": [
+        "reactjs",
+        "jestjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802776/mocking-usenavigate"
+    }
+  ]
+}

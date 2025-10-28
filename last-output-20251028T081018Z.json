@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-28T07:59:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T07:21:29Z",
+      "Title": "Failing to build gtest on mac",
+      "Tags": [
+        "c\u002B\u002B",
+        "macos",
+        "arm64-darwin"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802509/failing-to-build-gtest-on-mac"
+    },
+    {
+      "Created": "2025-10-28T07:42:27Z",
+      "Title": "Using Bot Framework \u201CSeen\u201D Feature with RSC Permissions \u2014 Installation Restrictions Issue",
+      "Tags": [
+        "microsoft-graph-api",
+        "botframework",
+        "microsoft-teams"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802526/using-bot-framework-seen-feature-with-rsc-permissions-installation-restricti"
+    },
+    {
+      "Created": "2025-10-28T07:51:00Z",
+      "Title": "Unable to get webLink for Microsoft 365 Group messages using Microsoft Graph",
+      "Tags": [
+        "outlook",
+        "azure-active-directory",
+        "microsoft-graph-api",
+        "office365",
+        "microsoft-graph-mail"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802534/unable-to-get-weblink-for-microsoft-365-group-messages-using-microsoft-graph"
+    },
+    {
+      "Created": "2025-10-28T07:59:40Z",
+      "Title": "Why does a WebAssembly module executed inside a Web Worker leak memory when used with a Middleware?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "webassembly",
+        "sharedarraybuffer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802539/why-does-a-webassembly-module-executed-inside-a-web-worker-leak-memory-when-used"
+    }
+  ]
+}

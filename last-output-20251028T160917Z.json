@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-28T16:03:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T15:38:28Z",
+      "Title": "Updating python inside Tomcat docker image",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "docker",
+        "java-11",
+        "tomcat9"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803014/updating-python-inside-tomcat-docker-image"
+    },
+    {
+      "Created": "2025-10-28T15:54:55Z",
+      "Title": "There is a double scan happening with my python Bluetooth scanner and I don\u0027t know why",
+      "Tags": [
+        "python",
+        "bluetooth",
+        "bluetooth-lowenergy",
+        "python-bleak"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803028/there-is-a-double-scan-happening-with-my-python-bluetooth-scanner-and-i-dont-kn"
+    },
+    {
+      "Created": "2025-10-28T15:58:16Z",
+      "Title": "Remove horizontal white space between square matplotlib plots",
+      "Tags": [
+        "python",
+        "matplotlib"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803031/remove-horizontal-white-space-between-square-matplotlib-plots"
+    },
+    {
+      "Created": "2025-10-28T16:00:14Z",
+      "Title": "Why don\u0027t snowflake table-valued functions perform type coercion?",
+      "Tags": [
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803033/why-dont-snowflake-table-valued-functions-perform-type-coercion"
+    },
+    {
+      "Created": "2025-10-28T16:03:28Z",
+      "Title": "Java \u002B Netty: Improve the Throughput of application by delegating request processing to separate thread pool",
+      "Tags": [
+        "java",
+        "netty"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803040/java-netty-improve-the-throughput-of-application-by-delegating-request-proces"
+    }
+  ]
+}

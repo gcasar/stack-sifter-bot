@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-28T22:54:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T22:54:56Z",
+      "Title": "\u0022IndexError: index -1 is out of bounds for dimension 0 with size 0\u0022 When current input is smalled than cached input from past_key_values",
+      "Tags": [
+        "pytorch",
+        "huggingface-transformers",
+        "mistral-7b"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803321/indexerror-index-1-is-out-of-bounds-for-dimension-0-with-size-0-when-current"
+    }
+  ]
+}

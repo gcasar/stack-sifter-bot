@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-28T21:57:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T21:35:30Z",
+      "Title": "Is there a way to use a boolean literal type as a value?",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803276/is-there-a-way-to-use-a-boolean-literal-type-as-a-value"
+    },
+    {
+      "Created": "2025-10-28T21:38:58Z",
+      "Title": "React 19 useOptimistic: How to handle race conditions when multiple optimistic updates affect the same state slice?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803280/react-19-useoptimistic-how-to-handle-race-conditions-when-multiple-optimistic-u"
+    },
+    {
+      "Created": "2025-10-28T21:41:58Z",
+      "Title": "Downloading latest version Anaconda without creating and account or sign up",
+      "Tags": [
+        "anaconda",
+        "free"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803282/downloading-latest-version-anaconda-without-creating-and-account-or-sign-up"
+    },
+    {
+      "Created": "2025-10-28T21:43:18Z",
+      "Title": "React TransitionGroup: item jumps to top when animating exit from a list",
+      "Tags": [
+        "reactjs",
+        "css-transitions",
+        "react-query",
+        "react-transition-group"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803283/react-transitiongroup-item-jumps-to-top-when-animating-exit-from-a-list"
+    },
+    {
+      "Created": "2025-10-28T21:43:56Z",
+      "Title": "Webpage performance optimization - how? [closed]",
+      "Tags": [
+        "javascript",
+        "performance",
+        "sharepoint",
+        "query-optimization",
+        "interaction-to-next-paint"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803284/webpage-performance-optimization-how"
+    },
+    {
+      "Created": "2025-10-28T21:54:48Z",
+      "Title": "Mongoose Virtual Not Populating in MERN Stack Despite Correct Schema Setup",
+      "Tags": [
+        "mongoose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803289/mongoose-virtual-not-populating-in-mern-stack-despite-correct-schema-setup"
+    },
+    {
+      "Created": "2025-10-28T21:54:57Z",
+      "Title": "My C\u002B\u002B Code is not working and I copied it from a tutorial. The code is below:",
+      "Tags": [
+        "c\u002B\u002B",
+        "for-loop",
+        "variables",
+        "nested-loops"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803290/my-c-code-is-not-working-and-i-copied-it-from-a-tutorial-the-code-is-below"
+    },
+    {
+      "Created": "2025-10-28T21:57:14Z",
+      "Title": "Unable to recreate an Excel formula in Power Query",
+      "Tags": [
+        "excel-formula",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803293/unable-to-recreate-an-excel-formula-in-power-query"
+    }
+  ]
+}

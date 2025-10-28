@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-28T19:59:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T19:37:34Z",
+      "Title": "Multiple asynchronous functions that depend on each other - how do I collect the data when things are complete?",
+      "Tags": [
+        "javascript",
+        "async-await"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803207/multiple-asynchronous-functions-that-depend-on-each-other-how-do-i-collect-the"
+    },
+    {
+      "Created": "2025-10-28T19:58:53Z",
+      "Title": "Can I create a kafka topic if I can\u0027t reach the controller?",
+      "Tags": [
+        "apache-kafka",
+        "aws-msk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803225/can-i-create-a-kafka-topic-if-i-cant-reach-the-controller"
+    },
+    {
+      "Created": "2025-10-28T19:59:25Z",
+      "Title": "how do/should I test scripts that batch rename files",
+      "Tags": [
+        "python",
+        "testing",
+        "pytest",
+        "refactoring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803226/how-do-should-i-test-scripts-that-batch-rename-files"
+    }
+  ]
+}

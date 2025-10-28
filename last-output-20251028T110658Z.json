@@ -1,0 +1,105 @@
+{
+  "TotalProcessed": 10,
+  "LastCreated": "2025-10-28T11:00:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T10:42:44Z",
+      "Title": "DCMTK cannot use --log-config parameter",
+      "Tags": [
+        "dicom",
+        "dcmtk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802677/dcmtk-cannot-use-log-config-parameter"
+    },
+    {
+      "Created": "2025-10-28T10:43:41Z",
+      "Title": "How do I get the UniprotKB API request results to match the results from Uniprot Website search?",
+      "Tags": [
+        "r",
+        "get",
+        "bioinformatics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802679/how-do-i-get-the-uniprotkb-api-request-results-to-match-the-results-from-uniprot"
+    },
+    {
+      "Created": "2025-10-28T10:44:47Z",
+      "Title": "Can\u0027t run npx expo run:android on local machine",
+      "Tags": [
+        "android",
+        "react-native",
+        "expo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802681/cant-run-npx-expo-runandroid-on-local-machine"
+    },
+    {
+      "Created": "2025-10-28T10:50:28Z",
+      "Title": "ggridges - controlling legend",
+      "Tags": [
+        "ggplot2",
+        "ggridges"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802684/ggridges-controlling-legend"
+    },
+    {
+      "Created": "2025-10-28T10:51:00Z",
+      "Title": "Test fails with \u0022expect(...).toHaveTextContaining is not a function\u0022",
+      "Tags": [
+        "appium",
+        "webdriver-io"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802685/test-fails-with-expect-tohavetextcontaining-is-not-a-function"
+    },
+    {
+      "Created": "2025-10-28T10:53:40Z",
+      "Title": "CopyPagesTo result much larger than it should be",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "itext",
+        "itext7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802690/copypagesto-result-much-larger-than-it-should-be"
+    },
+    {
+      "Created": "2025-10-28T10:56:30Z",
+      "Title": "C\u002B\u002B std::regex matches UTF-8 characters unexpectedly",
+      "Tags": [
+        "c\u002B\u002B",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802693/c-stdregex-matches-utf-8-characters-unexpectedly"
+    },
+    {
+      "Created": "2025-10-28T10:57:06Z",
+      "Title": "Bridge API callback URL with dynamic tunneling service (Laravel Herd Expose)",
+      "Tags": [
+        "laravel",
+        "webhooks",
+        "laravel-herd",
+        "open-banking",
+        "psd2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802695/bridge-api-callback-url-with-dynamic-tunneling-service-laravel-herd-expose"
+    },
+    {
+      "Created": "2025-10-28T11:00:40Z",
+      "Title": "IsAzureDevopsextensionValid@4 failed with Unexpected number in Json at position 4",
+      "Tags": [
+        "azure-pipelines-yaml",
+        "azure-devops-rest-api",
+        "azure-devops-extensions",
+        "azure-pipelines-tasks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802702/isazuredevopsextensionvalid4-failed-with-unexpected-number-in-json-at-position"
+    },
+    {
+      "Created": "2025-10-28T11:00:58Z",
+      "Title": "Unit test component\u0027s object prop values",
+      "Tags": [
+        "reactjs",
+        "unit-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802703/unit-test-components-object-prop-values"
+    }
+  ]
+}

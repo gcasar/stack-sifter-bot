@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-28T18:09:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T17:30:23Z",
+      "Title": "Replacing a function by this definition",
+      "Tags": [
+        "agda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803107/replacing-a-function-by-this-definition"
+    },
+    {
+      "Created": "2025-10-28T17:54:57Z",
+      "Title": "How to reset sequence playback index in Godot AudioStreamRandomizer",
+      "Tags": [
+        "audio-streaming",
+        "godot",
+        "godot4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803122/how-to-reset-sequence-playback-index-in-godot-audiostreamrandomizer"
+    },
+    {
+      "Created": "2025-10-28T17:55:54Z",
+      "Title": "How does await/async work with TypeScript? [duplicate]",
+      "Tags": [
+        "typescript",
+        "async-await",
+        "promise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803123/how-does-await-async-work-with-typescript"
+    },
+    {
+      "Created": "2025-10-28T17:59:41Z",
+      "Title": "SqlAlchemy Update statement binding entire row as values",
+      "Tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803126/sqlalchemy-update-statement-binding-entire-row-as-values"
+    },
+    {
+      "Created": "2025-10-28T18:00:08Z",
+      "Title": "Automatically transfer all data from postgres server to another remote server",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "automation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803127/automatically-transfer-all-data-from-postgres-server-to-another-remote-server"
+    },
+    {
+      "Created": "2025-10-28T18:00:59Z",
+      "Title": "DynamoDB batch unprocessed items are actually processed",
+      "Tags": [
+        "amazon-dynamodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803128/dynamodb-batch-unprocessed-items-are-actually-processed"
+    },
+    {
+      "Created": "2025-10-28T18:01:34Z",
+      "Title": "Flutter: Package install error: Failure [INSTALL_FAILED_OLDER_SDK]",
+      "Tags": [
+        "android",
+        "flutter",
+        "build.gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803129/flutter-package-install-error-failure-install-failed-older-sdk"
+    },
+    {
+      "Created": "2025-10-28T18:09:04Z",
+      "Title": "Kotlin Multiplatform \u002B Google Maps on iOS: Why do I still need .def file with SPM? Interop not working without cinterop",
+      "Tags": [
+        "ios",
+        "xcode",
+        "google-maps",
+        "kotlin-multiplatform",
+        "swift-package-manager"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803134/kotlin-multiplatform-google-maps-on-ios-why-do-i-still-need-def-file-with-sp"
+    }
+  ]
+}

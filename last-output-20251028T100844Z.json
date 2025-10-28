@@ -1,0 +1,79 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-28T10:05:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T09:31:02Z",
+      "Title": "React router SEO for SSR/SPA, google bot says pages are the same \u0022Duplicate without user-selected canonical\u0022",
+      "Tags": [
+        "react-router",
+        "seo",
+        "server-side-rendering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802608/react-router-seo-for-ssr-spa-google-bot-says-pages-are-the-same-duplicate-with"
+    },
+    {
+      "Created": "2025-10-28T09:44:25Z",
+      "Title": "Rasa shell on Windows fails with OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect",
+      "Tags": [
+        "python",
+        "rasa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802618/rasa-shell-on-windows-fails-with-oserror-winerror-123-the-filename-directory"
+    },
+    {
+      "Created": "2025-10-28T09:51:57Z",
+      "Title": "In Laravel\u2019s Repository pattern, should I pass an Eloquent model (User $user) or a DTO to keep it framework-agnostic?",
+      "Tags": [
+        "laravel",
+        "design-patterns",
+        "dto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802622/in-laravel-s-repository-pattern-should-i-pass-an-eloquent-model-user-user-or"
+    },
+    {
+      "Created": "2025-10-28T09:56:50Z",
+      "Title": "istio-Datadog integration: unable to get the metric istio_authn_tls_handshake_errors_total either in prometheus or Datadog",
+      "Tags": [
+        "kubernetes",
+        "prometheus",
+        "metrics",
+        "istio",
+        "datadog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802627/istio-datadog-integration-unable-to-get-the-metric-istio-authn-tls-handshake-er"
+    },
+    {
+      "Created": "2025-10-28T09:56:57Z",
+      "Title": "How to step out chain of promises",
+      "Tags": [
+        "ios",
+        "promisekit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802628/how-to-step-out-chain-of-promises"
+    },
+    {
+      "Created": "2025-10-28T10:01:39Z",
+      "Title": "Why does Atomics.waitAsync() inside a Web Worker cause the Edge Runtime in Next.js 15 middleware to hang indefinitely?",
+      "Tags": [
+        "javascript",
+        "next.js",
+        "web-worker",
+        "sharedarraybuffer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802630/why-does-atomics-waitasync-inside-a-web-worker-cause-the-edge-runtime-in-next"
+    },
+    {
+      "Created": "2025-10-28T10:05:00Z",
+      "Title": "React Native - How to import based on variable to avoid loading un-neccecery assets",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "node.js",
+        "typescript",
+        "react-native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79802633/react-native-how-to-import-based-on-variable-to-avoid-loading-un-neccecery-ass"
+    }
+  ]
+}

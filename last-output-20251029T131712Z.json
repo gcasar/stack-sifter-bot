@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T13:09:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T12:43:43Z",
+      "Title": "Updating JFormattedTextField content on new value",
+      "Tags": [
+        "java",
+        "swing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803804/updating-jformattedtextfield-content-on-new-value"
+    },
+    {
+      "Created": "2025-10-29T12:49:34Z",
+      "Title": "How to reference the row number of a cell which is referred to in another cell?",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803815/how-to-reference-the-row-number-of-a-cell-which-is-referred-to-in-another-cell"
+    },
+    {
+      "Created": "2025-10-29T12:58:34Z",
+      "Title": "How to wait one task to finish and do not cancel others?",
+      "Tags": [
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803824/how-to-wait-one-task-to-finish-and-do-not-cancel-others"
+    },
+    {
+      "Created": "2025-10-29T13:01:28Z",
+      "Title": "Porcupine wake word not initializing in my React app",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803827/porcupine-wake-word-not-initializing-in-my-react-app"
+    },
+    {
+      "Created": "2025-10-29T13:09:30Z",
+      "Title": "HTMx button making POST request to the current page insted of the hx-post url",
+      "Tags": [
+        "javascript",
+        "html",
+        "htmx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803831/htmx-button-making-post-request-to-the-current-page-insted-of-the-hx-post-url"
+    }
+  ]
+}

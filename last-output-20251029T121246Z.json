@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-29T12:09:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T11:26:12Z",
+      "Title": "Avoiding duckdb OutOfRangeException when multiplying Decimals",
+      "Tags": [
+        "python",
+        "sql",
+        "precision",
+        "duckdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803727/avoiding-duckdb-outofrangeexception-when-multiplying-decimals"
+    },
+    {
+      "Created": "2025-10-29T11:46:51Z",
+      "Title": "Retrieve the base plan bought from queryPurchasesAsync Billing Library V8",
+      "Tags": [
+        "kotlin",
+        "in-app-billing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803752/retrieve-the-base-plan-bought-from-querypurchasesasync-billing-library-v8"
+    },
+    {
+      "Created": "2025-10-29T12:07:16Z",
+      "Title": "GKE Autopilot: Preventing Scale-Down Interruptions for Long-Running Quartz Jobs",
+      "Tags": [
+        "google-kubernetes-engine",
+        "gke-autopilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803765/gke-autopilot-preventing-scale-down-interruptions-for-long-running-quartz-jobs"
+    },
+    {
+      "Created": "2025-10-29T12:07:39Z",
+      "Title": "Adding items to arrray when checkbox is clicked",
+      "Tags": [
+        "javascript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803766/adding-items-to-arrray-when-checkbox-is-clicked"
+    },
+    {
+      "Created": "2025-10-29T12:08:57Z",
+      "Title": "Airflow 3 - Run LocalExecutor with unlimited Parallelism",
+      "Tags": [
+        "airflow"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803768/airflow-3-run-localexecutor-with-unlimited-parallelism"
+    },
+    {
+      "Created": "2025-10-29T12:09:04Z",
+      "Title": "Proving termination of a recursive graph search algorithm",
+      "Tags": [
+        "fstar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803769/proving-termination-of-a-recursive-graph-search-algorithm"
+    }
+  ]
+}

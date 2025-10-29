@@ -1,0 +1,98 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-29T11:01:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T10:38:34Z",
+      "Title": "Server path alias not recognized when importing files between server and client",
+      "Tags": [
+        "node.js",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803678/server-path-alias-not-recognized-when-importing-files-between-server-and-client"
+    },
+    {
+      "Created": "2025-10-29T10:42:36Z",
+      "Title": "How to correctly configure credentials in OpenAPI generated services",
+      "Tags": [
+        "angular",
+        "openapi",
+        "openapi-generator"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803683/how-to-correctly-configure-credentials-in-openapi-generated-services"
+    },
+    {
+      "Created": "2025-10-29T10:46:39Z",
+      "Title": "Unknown type FieldUnion for field fields. Did you forget to add the @model directive. Grapghql",
+      "Tags": [
+        "amazon-web-services",
+        "graphql",
+        "aws-appsync",
+        "aws-amplify-cli",
+        "vtl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803685/unknown-type-fieldunion-for-field-fields-did-you-forget-to-add-the-model-direc"
+    },
+    {
+      "Created": "2025-10-29T10:49:34Z",
+      "Title": "LATERAL conversion issues when Calcite performs SQL rewrite, NullPointerException",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "nullpointerexception",
+        "apache-calcite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803688/lateral-conversion-issues-when-calcite-performs-sql-rewrite-nullpointerexceptio"
+    },
+    {
+      "Created": "2025-10-29T10:50:47Z",
+      "Title": "Parsing with Python html.parser: accessing and using raw tags",
+      "Tags": [
+        "python",
+        "html",
+        "parsing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803689/parsing-with-python-html-parser-accessing-and-using-raw-tags"
+    },
+    {
+      "Created": "2025-10-29T11:00:01Z",
+      "Title": "How can I efficiently run a RAG pipeline fully in Node.js using OpenAI embeddings and FAISS without relying on Python?",
+      "Tags": [
+        "node.js",
+        "openai-api",
+        "faiss",
+        "retrieval-augmented-generation",
+        "vector-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803694/how-can-i-efficiently-run-a-rag-pipeline-fully-in-node-js-using-openai-embedding"
+    },
+    {
+      "Created": "2025-10-29T11:00:59Z",
+      "Title": "mutatting a column with \u0060str_locate\u0060 only works correctly in a one-row data frame",
+      "Tags": [
+        "r",
+        "list",
+        "stringr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803695/mutatting-a-column-with-str-locate-only-works-correctly-in-a-one-row-data-fram"
+    },
+    {
+      "Created": "2025-10-29T11:01:27Z",
+      "Title": "Selenium \u002B Pytest: Browser console logs are empty when test fails",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "pytest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803696/selenium-pytest-browser-console-logs-are-empty-when-test-fails"
+    },
+    {
+      "Created": "2025-10-29T11:01:56Z",
+      "Title": "Getting 404 Error for Linkedin Advertising API when searching for creatives under a campaign",
+      "Tags": [
+        "linkedin-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803697/getting-404-error-for-linkedin-advertising-api-when-searching-for-creatives-unde"
+    }
+  ]
+}

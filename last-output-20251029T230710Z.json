@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-29T23:03:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T22:09:53Z",
+      "Title": "How to expand Windows environment path variable in PyCharm Run/Debug Configurations? [duplicate]",
+      "Tags": [
+        "windows",
+        "path",
+        "pycharm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804264/how-to-expand-windows-environment-path-variable-in-pycharm-run-debug-configurati"
+    },
+    {
+      "Created": "2025-10-29T22:29:22Z",
+      "Title": "Performance issue with ST_CONTAINS",
+      "Tags": [
+        "sql",
+        "mysql",
+        "geospatial",
+        "spatial-query",
+        "spatial-index"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804271/performance-issue-with-st-contains"
+    },
+    {
+      "Created": "2025-10-29T22:34:29Z",
+      "Title": "Measure elapsed time on Spring reactor",
+      "Tags": [
+        "java",
+        "spring-webflux",
+        "project-reactor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804276/measure-elapsed-time-on-spring-reactor"
+    },
+    {
+      "Created": "2025-10-29T23:03:41Z",
+      "Title": "SQLite Query to retrieve data between certain times",
+      "Tags": [
+        "sqlite",
+        "datetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804286/sqlite-query-to-retrieve-data-between-certain-times"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T18:07:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T17:35:06Z",
+      "Title": "D365 Value not statement in AOT query",
+      "Tags": [
+        "microsoft-dynamics",
+        "axapta"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804082/d365-value-not-statement-in-aot-query"
+    },
+    {
+      "Created": "2025-10-29T17:40:14Z",
+      "Title": "How to set ListObject (Excel table) formulas with structured references without error 1004",
+      "Tags": [
+        "excel",
+        "vba",
+        "formula",
+        "excel-tables",
+        "structured-references"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804084/how-to-set-listobject-excel-table-formulas-with-structured-references-without"
+    },
+    {
+      "Created": "2025-10-29T17:44:25Z",
+      "Title": "PgCat sometimes routes write queries to replicas",
+      "Tags": [
+        "python",
+        "postgresql",
+        "docker",
+        "connection-pooling",
+        "timescaledb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804089/pgcat-sometimes-routes-write-queries-to-replicas"
+    },
+    {
+      "Created": "2025-10-29T18:00:41Z",
+      "Title": "Copilot Power BI / Fabric: \u201CCan\u2019t determine the relationship between fields\u201D when combining two fact tables with shared dimensions",
+      "Tags": [
+        "powerbi",
+        "dimensional-modeling",
+        "microsoft-fabric",
+        "microsoft-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804098/copilot-power-bi-fabric-can-t-determine-the-relationship-between-fields-whe"
+    },
+    {
+      "Created": "2025-10-29T18:07:44Z",
+      "Title": "Blink-cmp 1s freze on first char of each word in insert mode",
+      "Tags": [
+        "neovim",
+        "lazyvim"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804101/blink-cmp-1s-freze-on-first-char-of-each-word-in-insert-mode"
+    }
+  ]
+}

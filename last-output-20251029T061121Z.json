@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-29T06:05:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T05:52:59Z",
+      "Title": "Omitting missing or Nan columns in python plot",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803466/omitting-missing-or-nan-columns-in-python-plot"
+    },
+    {
+      "Created": "2025-10-29T06:05:32Z",
+      "Title": "AVFoundation Custom Video Compositor Skipping Frames During AVPlayer Playback Despite 60 FPS Frame Duration",
+      "Tags": [
+        "swift",
+        "swiftui",
+        "avfoundation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803470/avfoundation-custom-video-compositor-skipping-frames-during-avplayer-playback-de"
+    }
+  ]
+}

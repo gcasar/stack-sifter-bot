@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-29T01:02:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T00:48:30Z",
+      "Title": "Adding HTML to a pdf partway through creating a PDF using pdfHtml",
+      "Tags": [
+        "itext",
+        "pdf-generation",
+        "pdfhtml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803365/adding-html-to-a-pdf-partway-through-creating-a-pdf-using-pdfhtml"
+    },
+    {
+      "Created": "2025-10-29T00:48:58Z",
+      "Title": "can\u0027t find xgettext or msguniq but gettext-base is installed",
+      "Tags": [
+        "python",
+        "django",
+        "gettext",
+        "xgettext",
+        "ubuntu-25.04"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803366/cant-find-xgettext-or-msguniq-but-gettext-base-is-installed"
+    },
+    {
+      "Created": "2025-10-29T01:02:35Z",
+      "Title": "pyaudio appending audio to wav file from previous recording",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "audio",
+        "pyaudio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803371/pyaudio-appending-audio-to-wav-file-from-previous-recording"
+    }
+  ]
+}

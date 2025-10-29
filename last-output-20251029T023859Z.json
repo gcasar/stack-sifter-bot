@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T02:31:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T01:57:32Z",
+      "Title": "Transform DataFrame containing ID pairs into a list of sets",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803382/transform-dataframe-containing-id-pairs-into-a-list-of-sets"
+    },
+    {
+      "Created": "2025-10-29T02:04:41Z",
+      "Title": "Unable to send outbound email from Microsoft Graph using Python \u2014 550 5.7.708 Service unavailable",
+      "Tags": [
+        "python",
+        "outlook",
+        "microsoft-graph-api",
+        "msal",
+        "exchange-online"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803385/unable-to-send-outbound-email-from-microsoft-graph-using-python-550-5-7-708-se"
+    },
+    {
+      "Created": "2025-10-29T02:07:09Z",
+      "Title": "Why does the use of \u0022enlist\u0022 in the cross-sectional engine sometimes result in errors and sometimes work normally?",
+      "Tags": [
+        "arrays",
+        "vector",
+        "dolphindb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803387/why-does-the-use-of-enlist-in-the-cross-sectional-engine-sometimes-result-in-e"
+    },
+    {
+      "Created": "2025-10-29T02:16:28Z",
+      "Title": "How to catch Tkinter text widget state/data before it is destroyed?",
+      "Tags": [
+        "python",
+        "user-interface",
+        "tkinter",
+        "callback"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803390/how-to-catch-tkinter-text-widget-state-data-before-it-is-destroyed"
+    },
+    {
+      "Created": "2025-10-29T02:31:53Z",
+      "Title": "How to pass array from Rust to FFI and free the memory properly",
+      "Tags": [
+        "rust",
+        "ffi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803394/how-to-pass-array-from-rust-to-ffi-and-free-the-memory-properly"
+    }
+  ]
+}

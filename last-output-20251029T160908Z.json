@@ -1,0 +1,87 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-29T16:04:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T15:35:04Z",
+      "Title": "Join on one column and if null join another column",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2019"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803969/join-on-one-column-and-if-null-join-another-column"
+    },
+    {
+      "Created": "2025-10-29T15:40:36Z",
+      "Title": "How can I make a 2 axis highchart responsive",
+      "Tags": [
+        "javascript",
+        "highcharts",
+        "responsive"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803973/how-can-i-make-a-2-axis-highchart-responsive"
+    },
+    {
+      "Created": "2025-10-29T15:49:47Z",
+      "Title": "How can I design a multi-agent workflow where GPT-based agents share context and memory effectively?",
+      "Tags": [
+        "openai-api",
+        "langchain",
+        "agent",
+        "chatgpt-api",
+        "multi-agent"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803986/how-can-i-design-a-multi-agent-workflow-where-gpt-based-agents-share-context-and"
+    },
+    {
+      "Created": "2025-10-29T15:51:46Z",
+      "Title": "How to allow for multiple images to be created from a single API call using gemini?",
+      "Tags": [
+        "google-cloud-vertex-ai",
+        "google-gemini",
+        "adk",
+        "image-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803988/how-to-allow-for-multiple-images-to-be-created-from-a-single-api-call-using-gemi"
+    },
+    {
+      "Created": "2025-10-29T15:51:50Z",
+      "Title": "How do I check if there are a minimum of 5 numbers and special characters in a string?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803989/how-do-i-check-if-there-are-a-minimum-of-5-numbers-and-special-characters-in-a-s"
+    },
+    {
+      "Created": "2025-10-29T16:00:07Z",
+      "Title": "Attempting to automate posts on x.com",
+      "Tags": [
+        "python",
+        "twitter",
+        "tweepy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803997/attempting-to-automate-posts-on-x-com"
+    },
+    {
+      "Created": "2025-10-29T16:03:17Z",
+      "Title": "Is this the correct way to add a persistent device UUID header using Ktor client plugin in Android?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "http",
+        "http-headers",
+        "ktor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804001/is-this-the-correct-way-to-add-a-persistent-device-uuid-header-using-ktor-client"
+    },
+    {
+      "Created": "2025-10-29T16:04:58Z",
+      "Title": "Sign in LinkedIn -\u003E bypassing 2FA",
+      "Tags": [
+        "puppeteer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804003/sign-in-linkedin-bypassing-2fa"
+    }
+  ]
+}

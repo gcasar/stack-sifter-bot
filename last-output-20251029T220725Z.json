@@ -1,0 +1,50 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T22:05:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T21:25:09Z",
+      "Title": "Create generic method that returns Record with typed key from T",
+      "Tags": [
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804239/create-generic-method-that-returns-record-with-typed-key-from-t"
+    },
+    {
+      "Created": "2025-10-29T21:46:59Z",
+      "Title": "Conditional css class in Angular does not apply on first render",
+      "Tags": [
+        "css",
+        "angular",
+        "sass"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804247/conditional-css-class-in-angular-does-not-apply-on-first-render"
+    },
+    {
+      "Created": "2025-10-29T21:56:41Z",
+      "Title": "Reference column named \u0022*\u0022 in Polars",
+      "Tags": [
+        "python-polars"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804255/reference-column-named-in-polars"
+    },
+    {
+      "Created": "2025-10-29T21:57:29Z",
+      "Title": "Modify the gtable of a ggplot2 and end up with a ggplot2 object without loss of information",
+      "Tags": [
+        "r",
+        "ggplot2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804257/modify-the-gtable-of-a-ggplot2-and-end-up-with-a-ggplot2-object-without-loss-of"
+    },
+    {
+      "Created": "2025-10-29T22:05:49Z",
+      "Title": "Python time dialation equation not calculating correctly",
+      "Tags": [
+        "python",
+        "physics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804262/python-time-dialation-equation-not-calculating-correctly"
+    }
+  ]
+}

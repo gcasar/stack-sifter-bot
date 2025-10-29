@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-29T05:04:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T04:35:19Z",
+      "Title": "How does the recursion in generateParenthesis go from backtrack(3, 3) to backtrack(2, 1)?",
+      "Tags": [
+        "python",
+        "recursion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803436/how-does-the-recursion-in-generateparenthesis-go-from-backtrack3-3-to-backtra"
+    },
+    {
+      "Created": "2025-10-29T04:41:46Z",
+      "Title": "How to fetch real exam, scholarship, and hackathon info? [closed]",
+      "Tags": [
+        "python",
+        "node.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803437/how-to-fetch-real-exam-scholarship-and-hackathon-info"
+    },
+    {
+      "Created": "2025-10-29T05:04:34Z",
+      "Title": "Using SQL to keep track of changes occurring in a table?",
+      "Tags": [
+        "sql",
+        "db2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803445/using-sql-to-keep-track-of-changes-occurring-in-a-table"
+    }
+  ]
+}

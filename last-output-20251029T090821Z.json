@@ -1,0 +1,101 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-29T09:07:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T08:34:28Z",
+      "Title": "NativeTabs.Trigger does not reset stack on repeated tab press after navigating deeper",
+      "Tags": [
+        "reactjs",
+        "routes",
+        "native"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803570/nativetabs-trigger-does-not-reset-stack-on-repeated-tab-press-after-navigating-d"
+    },
+    {
+      "Created": "2025-10-29T08:47:08Z",
+      "Title": "\\Linux boot on Verdin iMX8MP stops after \u201CFreeing unused kernel memory\u201D when booting via TFTP [closed]",
+      "Tags": [
+        "linux-kernel",
+        "kernel",
+        "root",
+        "buildroot",
+        "hypervisor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803574/linux-boot-on-verdin-imx8mp-stops-after-freeing-unused-kernel-memory-when-boo"
+    },
+    {
+      "Created": "2025-10-29T08:47:29Z",
+      "Title": "Why does this data race have some consistent invariants?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "caching",
+        "atomic",
+        "race-condition"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803576/why-does-this-data-race-have-some-consistent-invariants"
+    },
+    {
+      "Created": "2025-10-29T08:54:47Z",
+      "Title": "Serial USB communication on ESP32-S3 as host",
+      "Tags": [
+        "serial-port",
+        "esp32",
+        "arduino-esp32",
+        "esp-idf",
+        "usbserial"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803581/serial-usb-communication-on-esp32-s3-as-host"
+    },
+    {
+      "Created": "2025-10-29T08:59:17Z",
+      "Title": "Constexpr function that builds an integral value from a list of bits",
+      "Tags": [
+        "c\u002B\u002B",
+        "std",
+        "constexpr-function"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803586/constexpr-function-that-builds-an-integral-value-from-a-list-of-bits"
+    },
+    {
+      "Created": "2025-10-29T09:00:36Z",
+      "Title": "Alignment errors when using clangformat(21.1.4) in Xcode 16",
+      "Tags": [
+        "clang-format"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803589/alignment-errors-when-using-clangformat21-1-4-in-xcode-16"
+    },
+    {
+      "Created": "2025-10-29T09:02:47Z",
+      "Title": "Rolling forecast of column values where new values depend on previous known values, without for loops",
+      "Tags": [
+        "r",
+        "dataframe",
+        "dplyr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803591/rolling-forecast-of-column-values-where-new-values-depend-on-previous-known-valu"
+    },
+    {
+      "Created": "2025-10-29T09:06:06Z",
+      "Title": "AWS Lambda inside VPC cannot connect to RDS MySQL (timeout)",
+      "Tags": [
+        "aws-lambda",
+        "amazon-rds",
+        "vpc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803594/aws-lambda-inside-vpc-cannot-connect-to-rds-mysql-timeout"
+    },
+    {
+      "Created": "2025-10-29T09:07:22Z",
+      "Title": "Can I upload files to SharePoint via Microsoft Graph API from Android application without Microsoft login page?",
+      "Tags": [
+        "flutter",
+        "sharepoint",
+        "microsoft-graph-api",
+        "entra"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803596/can-i-upload-files-to-sharepoint-via-microsoft-graph-api-from-android-applicatio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-29T07:06:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T06:49:47Z",
+      "Title": "How to have an inline array of a specific number of blank cells?",
+      "Tags": [
+        "google-sheets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803501/how-to-have-an-inline-array-of-a-specific-number-of-blank-cells"
+    },
+    {
+      "Created": "2025-10-29T07:06:45Z",
+      "Title": "Recursive CTE looking for all combinations of values that equal one target amount",
+      "Tags": [
+        "sql",
+        "sql-server",
+        "t-sql",
+        "common-table-expression"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803510/recursive-cte-looking-for-all-combinations-of-values-that-equal-one-target-amoun"
+    }
+  ]
+}

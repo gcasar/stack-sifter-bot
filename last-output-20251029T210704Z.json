@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-29T21:04:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T20:16:12Z",
+      "Title": "VIsual studio vs gcc",
+      "Tags": [
+        "c\u002B\u002B",
+        "c",
+        "visual-studio",
+        "gcc",
+        "terminal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804184/visual-studio-vs-gcc"
+    },
+    {
+      "Created": "2025-10-29T21:01:14Z",
+      "Title": "Why does PHPUnit require an intermediate variable when mocking/stubbing?",
+      "Tags": [
+        "php",
+        "phpunit",
+        "fluent-interface"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804220/why-does-phpunit-require-an-intermediate-variable-when-mocking-stubbing"
+    },
+    {
+      "Created": "2025-10-29T21:04:03Z",
+      "Title": "Can I include latitude and longitude as fixed effects along with a Matern spatial correlation term in spaMM?",
+      "Tags": [
+        "r",
+        "regression",
+        "spatial",
+        "glm",
+        "autocorrelation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804224/can-i-include-latitude-and-longitude-as-fixed-effects-along-with-a-matern-spatia"
+    },
+    {
+      "Created": "2025-10-29T21:04:38Z",
+      "Title": "Foreground Service with two timers and double notification",
+      "Tags": [
+        "android",
+        "timer",
+        "android-jetpack-compose",
+        "foreground-service"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804225/foreground-service-with-two-timers-and-double-notification"
+    }
+  ]
+}

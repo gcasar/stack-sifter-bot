@@ -1,0 +1,34 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-29T00:11:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-28T23:25:11Z",
+      "Title": "Position shiny button and text with image",
+      "Tags": [
+        "r",
+        "shiny",
+        "shinydashboard"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803332/position-shiny-button-and-text-with-image"
+    },
+    {
+      "Created": "2025-10-29T00:10:27Z",
+      "Title": "How to add an svg as background",
+      "Tags": [
+        "tailwind-css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803349/how-to-add-an-svg-as-background"
+    },
+    {
+      "Created": "2025-10-29T00:11:42Z",
+      "Title": "Parcel Not Bundling Dynamically Fetched HTML Files",
+      "Tags": [
+        "javascript",
+        "html",
+        "parceljs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803350/parcel-not-bundling-dynamically-fetched-html-files"
+    }
+  ]
+}

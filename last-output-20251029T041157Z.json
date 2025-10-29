@@ -1,0 +1,54 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T04:09:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T03:37:10Z",
+      "Title": "Prefetch HTML page AND external resources with service worker",
+      "Tags": [
+        "javascript",
+        "html",
+        "service-worker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803416/prefetch-html-page-and-external-resources-with-service-worker"
+    },
+    {
+      "Created": "2025-10-29T03:48:34Z",
+      "Title": "How to let bazel to generate dSYM files automaticly on macos without in xcode like cmake?",
+      "Tags": [
+        "macos",
+        "bazel",
+        "bazel-cpp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803419/how-to-let-bazel-to-generate-dsym-files-automaticly-on-macos-without-in-xcode-li"
+    },
+    {
+      "Created": "2025-10-29T03:58:16Z",
+      "Title": "Looking for cool project ideas for an intro to Machine Learning course [closed]",
+      "Tags": [
+        "ml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803423/looking-for-cool-project-ideas-for-an-intro-to-machine-learning-course"
+    },
+    {
+      "Created": "2025-10-29T04:00:13Z",
+      "Title": "Why can transmission-gtk only access my Downloads folder?",
+      "Tags": [
+        "linux",
+        "bittorrent",
+        "kde-plasma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803424/why-can-transmission-gtk-only-access-my-downloads-folder"
+    },
+    {
+      "Created": "2025-10-29T04:09:08Z",
+      "Title": "Spring Boot @Async methods not inheriting trace context from @Scheduled parent method - how to propagate traceId and spanId?",
+      "Tags": [
+        "java",
+        "spring",
+        "micrometer-tracing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803428/spring-boot-async-methods-not-inheriting-trace-context-from-scheduled-parent-m"
+    }
+  ]
+}

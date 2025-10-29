@@ -1,0 +1,48 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-29T20:04:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T19:22:49Z",
+      "Title": "How to access global C variables from within standalone assembler modules with the GCC toolchain for Atmel AVR32?",
+      "Tags": [
+        "c",
+        "assembly",
+        "linker",
+        "avr",
+        "avr-gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804147/how-to-access-global-c-variables-from-within-standalone-assembler-modules-with-t"
+    },
+    {
+      "Created": "2025-10-29T19:51:17Z",
+      "Title": "NameError: name \u0027y\u0027 is not defined Tensorflow Dataset .map() Function Error",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "machine-learning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804167/nameerror-name-y-is-not-defined-tensorflow-dataset-map-function-error"
+    },
+    {
+      "Created": "2025-10-29T20:00:01Z",
+      "Title": "How to setup TLS callbacks on Windows without CRT?",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "multithreading",
+        "visual-c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804173/how-to-setup-tls-callbacks-on-windows-without-crt"
+    },
+    {
+      "Created": "2025-10-29T20:04:06Z",
+      "Title": "Amadeus API -Airport \u0026 City search / Nearest Relevant can\u0027t find The code for any airport in or near Tokyo",
+      "Tags": [
+        "python",
+        "amadeus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804175/amadeus-api-airport-city-search-nearest-relevant-cant-find-the-code-for-an"
+    }
+  ]
+}

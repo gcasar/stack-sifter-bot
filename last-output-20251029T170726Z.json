@@ -1,0 +1,46 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-29T17:03:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T16:40:03Z",
+      "Title": "c\u002B\u002B rawPointer still holds data that points to the resource manage by a unique_ptr even after its destruction",
+      "Tags": [
+        "c\u002B\u002B",
+        "unique-ptr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804036/c-rawpointer-still-holds-data-that-points-to-the-resource-manage-by-a-unique-p"
+    },
+    {
+      "Created": "2025-10-29T16:48:35Z",
+      "Title": "How to find out if a Project Property was explicitly set?",
+      "Tags": [
+        "gradle",
+        "build.gradle"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804044/how-to-find-out-if-a-project-property-was-explicitly-set"
+    },
+    {
+      "Created": "2025-10-29T17:00:53Z",
+      "Title": "Langchain RAG is not retrieving any document",
+      "Tags": [
+        "python",
+        "langchain",
+        "large-language-model",
+        "rag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804054/langchain-rag-is-not-retrieving-any-document"
+    },
+    {
+      "Created": "2025-10-29T17:03:08Z",
+      "Title": "normalization in FFTW3",
+      "Tags": [
+        "visual-studio",
+        "fortran",
+        "intel",
+        "fftw"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804057/normalization-in-fftw3"
+    }
+  ]
+}

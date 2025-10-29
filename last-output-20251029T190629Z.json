@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T19:03:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T18:39:16Z",
+      "Title": "How to debug external program run in main function in C?",
+      "Tags": [
+        "c",
+        "linux",
+        "debugging",
+        "breakpoints"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804125/how-to-debug-external-program-run-in-main-function-in-c"
+    },
+    {
+      "Created": "2025-10-29T18:44:55Z",
+      "Title": "Debug configuration build with OR\u0027ing std::wregex constansts throws an unexpected std::regex_error exception",
+      "Tags": [
+        "c\u002B\u002B",
+        "regex",
+        "std",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804127/debug-configuration-build-with-oring-stdwregex-constansts-throws-an-unexpecte"
+    },
+    {
+      "Created": "2025-10-29T18:52:04Z",
+      "Title": "Numba CUDA code crashing due to unknown error, fixed with the addition of blank print statement in any thread",
+      "Tags": [
+        "python",
+        "cuda",
+        "numba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804131/numba-cuda-code-crashing-due-to-unknown-error-fixed-with-the-addition-of-blank"
+    },
+    {
+      "Created": "2025-10-29T18:57:10Z",
+      "Title": "Python Google style doc string for generic class Type Parameter",
+      "Tags": [
+        "python",
+        "annotations",
+        "docstring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804134/python-google-style-doc-string-for-generic-class-type-parameter"
+    },
+    {
+      "Created": "2025-10-29T19:03:44Z",
+      "Title": "ssh: Could not resolve hostname 6869-web-01: Name or service not known",
+      "Tags": [
+        "network-programming",
+        "ssh",
+        "windows-subsystem-for-linux"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804139/ssh-could-not-resolve-hostname-6869-web-01-name-or-service-not-known"
+    }
+  ]
+}

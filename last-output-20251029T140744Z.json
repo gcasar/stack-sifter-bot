@@ -1,0 +1,55 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T14:05:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T13:34:07Z",
+      "Title": "Tkinter window not showing when running python main.py (no errors, Windows 10, VS Code)",
+      "Tags": [
+        "python",
+        "windows",
+        "visual-studio-code",
+        "user-interface",
+        "tkinter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803860/tkinter-window-not-showing-when-running-python-main-py-no-errors-windows-10-v"
+    },
+    {
+      "Created": "2025-10-29T13:54:10Z",
+      "Title": "Input type=\u0022number\u0022 : Restrict to 4 decimals but allow typing before decimal",
+      "Tags": [
+        "html",
+        "vue.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803871/input-type-number-restrict-to-4-decimals-but-allow-typing-before-decimal"
+    },
+    {
+      "Created": "2025-10-29T14:00:15Z",
+      "Title": "What is the role of the \u003Cgnm:position\u003E element?",
+      "Tags": [
+        "xml",
+        "gnumeric"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803875/what-is-the-role-of-the-gnmposition-element"
+    },
+    {
+      "Created": "2025-10-29T14:05:10Z",
+      "Title": "Tensorflow images guide not working in colab",
+      "Tags": [
+        "tensorflow",
+        "google-colaboratory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803878/tensorflow-images-guide-not-working-in-colab"
+    },
+    {
+      "Created": "2025-10-29T14:05:21Z",
+      "Title": "Power BI DAX: Measure Shows Total, But not working on granular level in table",
+      "Tags": [
+        "powerbi",
+        "dax",
+        "measure"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803879/power-bi-dax-measure-shows-total-but-not-working-on-granular-level-in-table"
+    }
+  ]
+}

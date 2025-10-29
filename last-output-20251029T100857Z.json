@@ -1,0 +1,53 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-29T10:01:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T09:43:31Z",
+      "Title": "Is the data leaked, or is there something wrong with my code logic?",
+      "Tags": [
+        "python",
+        "machine-learning",
+        "pytorch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803623/is-the-data-leaked-or-is-there-something-wrong-with-my-code-logic"
+    },
+    {
+      "Created": "2025-10-29T09:49:05Z",
+      "Title": "Is it true that this code is more readable and less error prone? [closed]",
+      "Tags": [
+        "dart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803627/is-it-true-that-this-code-is-more-readable-and-less-error-prone"
+    },
+    {
+      "Created": "2025-10-29T09:59:23Z",
+      "Title": "EF Core - Custom DBFunction - Usage with Linq Dynamic",
+      "Tags": [
+        "entity-framework-core",
+        "dbfunctions",
+        "system.linq.dynamic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803637/ef-core-custom-dbfunction-usage-with-linq-dynamic"
+    },
+    {
+      "Created": "2025-10-29T09:59:46Z",
+      "Title": "Django transaction.atomic() on single operation prevents race conditions?",
+      "Tags": [
+        "django",
+        "database",
+        "transactions",
+        "atomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803638/django-transaction-atomic-on-single-operation-prevents-race-conditions"
+    },
+    {
+      "Created": "2025-10-29T10:01:01Z",
+      "Title": "Debugging multi-line log parsing in promtail",
+      "Tags": [
+        "promtail"
+      ],
+      "Url": "https://stackoverflow.com/questions/79803641/debugging-multi-line-log-parsing-in-promtail"
+    }
+  ]
+}

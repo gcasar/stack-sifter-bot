@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-30T20:59:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T20:37:57Z",
+      "Title": "Blazor Server LDAP Authentication Fails with \u201CIn order to perform this operation a successful bind must be completed\u201D",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "ldap",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805199/blazor-server-ldap-authentication-fails-with-in-order-to-perform-this-operation"
+    },
+    {
+      "Created": "2025-10-30T20:54:09Z",
+      "Title": "How to edit the code after locally installing a web application with Docker Compose?",
+      "Tags": [
+        "php",
+        "docker",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805211/how-to-edit-the-code-after-locally-installing-a-web-application-with-docker-comp"
+    },
+    {
+      "Created": "2025-10-30T20:59:21Z",
+      "Title": "IBObjects for Delphi 13",
+      "Tags": [
+        "delphi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805215/ibobjects-for-delphi-13"
+    }
+  ]
+}

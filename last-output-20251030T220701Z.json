@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-10-30T21:27:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T21:27:03Z",
+      "Title": "TypeError: \u0027builtin_function_or_method\u0027 object is not subscriptable (when it shouldn\u0027t be possible)",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805233/typeerror-builtin-function-or-method-object-is-not-subscriptable-when-it-sho"
+    }
+  ]
+}

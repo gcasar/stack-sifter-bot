@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-30T05:29:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T05:07:47Z",
+      "Title": "Private key of Certificate is not extractable from Windows KeyStore though private key is exportable",
+      "Tags": [
+        "java",
+        "private-key",
+        "pki"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804407/private-key-of-certificate-is-not-extractable-from-windows-keystore-though-priva"
+    },
+    {
+      "Created": "2025-10-30T05:29:11Z",
+      "Title": "Should you always choose the highest Compute Capability allowed by your GPU and CUDA?",
+      "Tags": [
+        "cuda",
+        "gpu",
+        "compute-capability"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804415/should-you-always-choose-the-highest-compute-capability-allowed-by-your-gpu-and"
+    }
+  ]
+}

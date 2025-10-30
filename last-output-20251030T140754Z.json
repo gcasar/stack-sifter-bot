@@ -1,0 +1,66 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-30T14:06:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T13:30:37Z",
+      "Title": "Text-to-Speech function in a 3D Unity game",
+      "Tags": [
+        "unity-game-engine",
+        "game-development",
+        "game-engine",
+        "text-to-speech",
+        "large-language-model"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804815/text-to-speech-function-in-a-3d-unity-game"
+    },
+    {
+      "Created": "2025-10-30T13:32:15Z",
+      "Title": "How does comparing string::npos to int work?",
+      "Tags": [
+        "c\u002B\u002B",
+        "string"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804817/how-does-comparing-stringnpos-to-int-work"
+    },
+    {
+      "Created": "2025-10-30T13:33:50Z",
+      "Title": "saucectl - \u0022yaml: line 29: mapping values are not allowed in this context\u0022 while parsing .sauce/config.yml",
+      "Tags": [
+        "cypress",
+        "saucelabs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804820/saucectl-yaml-line-29-mapping-values-are-not-allowed-in-this-context-while"
+    },
+    {
+      "Created": "2025-10-30T13:50:44Z",
+      "Title": "How to create dictionary literal base on Dictionary? [duplicate]",
+      "Tags": [
+        "ios",
+        "swiftui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804835/how-to-create-dictionary-literal-base-on-dictionary"
+    },
+    {
+      "Created": "2025-10-30T13:56:54Z",
+      "Title": "Delete rows in two tables with relations in both directions using Entity Framework Core",
+      "Tags": [
+        "sql-server",
+        "entity-framework",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804839/delete-rows-in-two-tables-with-relations-in-both-directions-using-entity-framewo"
+    },
+    {
+      "Created": "2025-10-30T14:06:32Z",
+      "Title": "How to add a new column in a dataframe matching the matrix or multiple matrices by date variables",
+      "Tags": [
+        "r",
+        "dataframe",
+        "dplyr",
+        "left-join"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804847/how-to-add-a-new-column-in-a-dataframe-matching-the-matrix-or-multiple-matrices"
+    }
+  ]
+}

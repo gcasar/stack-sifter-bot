@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-30T04:06:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T03:54:08Z",
+      "Title": "Is using EMQX (MQTT) instead of Kafka for backend real-time stock data a good idea?",
+      "Tags": [
+        "apache-kafka",
+        "architecture",
+        "microservices",
+        "mqtt",
+        "emqx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804381/is-using-emqx-mqtt-instead-of-kafka-for-backend-real-time-stock-data-a-good-id"
+    },
+    {
+      "Created": "2025-10-30T04:06:41Z",
+      "Title": "Find any single 2D point within radius, but fast",
+      "Tags": [
+        "c",
+        "algorithm",
+        "tree",
+        "nearest-neighbor",
+        "quadtree"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804385/find-any-single-2d-point-within-radius-but-fast"
+    }
+  ]
+}

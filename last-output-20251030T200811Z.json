@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-30T19:58:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T19:23:08Z",
+      "Title": "What IDE does a Postgresql pl/pgSQL developer use to write stored procedures?",
+      "Tags": [
+        "sql",
+        "postgresql",
+        "ide",
+        "plpgsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805145/what-ide-does-a-postgresql-pl-pgsql-developer-use-to-write-stored-procedures"
+    },
+    {
+      "Created": "2025-10-30T19:38:22Z",
+      "Title": "PyErr_Format and floating point number",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805158/pyerr-format-and-floating-point-number"
+    },
+    {
+      "Created": "2025-10-30T19:45:18Z",
+      "Title": "Plotly px.timelines shows 1970 even though print(data.dtypes) confirms correct datetime in shiny",
+      "Tags": [
+        "python",
+        "pandas",
+        "plotly-express",
+        "py-shiny"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805165/plotly-px-timelines-shows-1970-even-though-printdata-dtypes-confirms-correct-d"
+    },
+    {
+      "Created": "2025-10-30T19:58:37Z",
+      "Title": "How should I design a \u0022Source\u0022 entity for managing different resource types (Machine, Person, Device) in a manufacturing system?",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "jpa"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805172/how-should-i-design-a-source-entity-for-managing-different-resource-types-mac"
+    }
+  ]
+}

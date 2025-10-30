@@ -1,0 +1,78 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-30T17:03:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T16:09:47Z",
+      "Title": "Can enum values be redeclared?",
+      "Tags": [
+        "c\u002B\u002B",
+        "enums",
+        "enum-class"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804979/can-enum-values-be-redeclared"
+    },
+    {
+      "Created": "2025-10-30T16:42:56Z",
+      "Title": "Rails 7 / GraphQL-Ruby: ActionCable subscription always 403 Forbidden when connecting with JWT",
+      "Tags": [
+        "ruby-on-rails",
+        "docker",
+        "websocket",
+        "graphql",
+        "jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805022/rails-7-graphql-ruby-actioncable-subscription-always-403-forbidden-when-conne"
+    },
+    {
+      "Created": "2025-10-30T16:57:21Z",
+      "Title": "Catboost Algorithm (handling missing values and regularization)",
+      "Tags": [
+        "machine-learning",
+        "missing-data",
+        "catboost"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805032/catboost-algorithm-handling-missing-values-and-regularization"
+    },
+    {
+      "Created": "2025-10-30T16:58:17Z",
+      "Title": "\u0022Cannot find name \u0027Dim\u0027.\u0022 is popping up?",
+      "Tags": [
+        "excel",
+        "vba"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805033/cannot-find-name-dim-is-popping-up"
+    },
+    {
+      "Created": "2025-10-30T16:59:09Z",
+      "Title": "PyScript on Github pages doesn\u0027t see files with relative paths",
+      "Tags": [
+        "python",
+        "file",
+        "github-pages",
+        "pyscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805035/pyscript-on-github-pages-doesnt-see-files-with-relative-paths"
+    },
+    {
+      "Created": "2025-10-30T17:01:49Z",
+      "Title": "AWS S3 SCP Policy to Prevent Disabling Public Access Block but Allow Re-enabling",
+      "Tags": [
+        "amazon-web-services",
+        "amazon-s3",
+        "amazon-iam"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805037/aws-s3-scp-policy-to-prevent-disabling-public-access-block-but-allow-re-enabling"
+    },
+    {
+      "Created": "2025-10-30T17:03:38Z",
+      "Title": "Use suspend function with Vert.x Kafka Consumer?",
+      "Tags": [
+        "apache-kafka",
+        "kotlin-coroutines",
+        "vert.x"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805040/use-suspend-function-with-vert-x-kafka-consumer"
+    }
+  ]
+}

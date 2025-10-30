@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-30T07:04:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T06:18:33Z",
+      "Title": "How to generate scatter plot of all numeric columns against specific columns in the same dataframe",
+      "Tags": [
+        "pandas",
+        "matplotlib",
+        "seaborn",
+        "png"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804439/how-to-generate-scatter-plot-of-all-numeric-columns-against-specific-columns-in"
+    },
+    {
+      "Created": "2025-10-30T06:29:04Z",
+      "Title": "How to build the text editor with a relative path?",
+      "Tags": [
+        "kate"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804446/how-to-build-the-text-editor-with-a-relative-path"
+    },
+    {
+      "Created": "2025-10-30T06:42:19Z",
+      "Title": "Why collect method of Spatie\\LaravelData\\Data raised error with missing fields?",
+      "Tags": [
+        "laravel",
+        "laravel-data"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804456/why-collect-method-of-spatie-laraveldata-data-raised-error-with-missing-fields"
+    },
+    {
+      "Created": "2025-10-30T06:54:16Z",
+      "Title": "Best database architecture for a multi-school system?",
+      "Tags": [
+        "mysql",
+        "database-design",
+        "database-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804462/best-database-architecture-for-a-multi-school-system"
+    },
+    {
+      "Created": "2025-10-30T06:59:00Z",
+      "Title": "How can I use the CH341A Programmer to read and write EEPROM chips safely?",
+      "Tags": [
+        "audio",
+        "audio-streaming"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804466/how-can-i-use-the-ch341a-programmer-to-read-and-write-eeprom-chips-safely"
+    },
+    {
+      "Created": "2025-10-30T07:00:37Z",
+      "Title": "Parallelize asynchronous API calls in Python",
+      "Tags": [
+        "python",
+        "concurrency",
+        "python-asyncio",
+        "aiohttp",
+        "rate-limiting"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804468/parallelize-asynchronous-api-calls-in-python"
+    },
+    {
+      "Created": "2025-10-30T07:02:47Z",
+      "Title": "MDriven OCL linked object attribute null-check in OCL?",
+      "Tags": [
+        "ocl",
+        "mdriven"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804469/mdriven-ocl-linked-object-attribute-null-check-in-ocl"
+    },
+    {
+      "Created": "2025-10-30T07:04:47Z",
+      "Title": "GitHub Copilot in VS Code triggers a KeyboardInterrupt error when opening PowerShell with conda environment",
+      "Tags": [
+        "powershell",
+        "visual-studio-code",
+        "anaconda",
+        "github-copilot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804471/github-copilot-in-vs-code-triggers-a-keyboardinterrupt-error-when-opening-powers"
+    }
+  ]
+}

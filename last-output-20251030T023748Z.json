@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-30T02:01:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T01:54:29Z",
+      "Title": "Memory accounting and quotas for subtasks in golang programs",
+      "Tags": [
+        "go",
+        "memory",
+        "resources",
+        "quota"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804334/memory-accounting-and-quotas-for-subtasks-in-golang-programs"
+    },
+    {
+      "Created": "2025-10-30T02:01:46Z",
+      "Title": "The function CSSetShaderResources() fails to pass resources to the shader",
+      "Tags": [
+        "c\u002B\u002B",
+        "shader",
+        "directx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804337/the-function-cssetshaderresources-fails-to-pass-resources-to-the-shader"
+    }
+  ]
+}

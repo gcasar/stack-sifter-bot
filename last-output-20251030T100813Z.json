@@ -1,0 +1,57 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-30T10:03:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T09:10:39Z",
+      "Title": "Conda update --all throws exception: \u0027Console\u0027 object has no attribute \u0027print_json\u0027",
+      "Tags": [
+        "python",
+        "conda",
+        "anaconda3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804566/conda-update-all-throws-exception-console-object-has-no-attribute-print-js"
+    },
+    {
+      "Created": "2025-10-30T09:28:37Z",
+      "Title": "Connect to a postgres DB through EF via a SSH connection [closed]",
+      "Tags": [
+        "postgresql",
+        ".net-core",
+        "ssh",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804586/connect-to-a-postgres-db-through-ef-via-a-ssh-connection"
+    },
+    {
+      "Created": "2025-10-30T09:54:41Z",
+      "Title": "Flutter LiveKit screen sharing issue, app crashes on Android 14 and above",
+      "Tags": [
+        "flutter",
+        "screensharing",
+        "android-mediaprojection",
+        "android-14",
+        "flutter-webrtc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804616/flutter-livekit-screen-sharing-issue-app-crashes-on-android-14-and-above"
+    },
+    {
+      "Created": "2025-10-30T09:59:19Z",
+      "Title": "Buffer a polyline by variable distance",
+      "Tags": [
+        "python",
+        "gis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804624/buffer-a-polyline-by-variable-distance"
+    },
+    {
+      "Created": "2025-10-30T10:03:01Z",
+      "Title": "How to ensure proper destruction order using RAII for SQLite database?",
+      "Tags": [
+        "c\u002B\u002B",
+        "sqlite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804625/how-to-ensure-proper-destruction-order-using-raii-for-sqlite-database"
+    }
+  ]
+}

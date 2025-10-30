@@ -1,0 +1,56 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-30T10:49:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T10:08:24Z",
+      "Title": "AWS Location Service Map Works Locally But Fails in Production Build",
+      "Tags": [
+        "reactjs",
+        "amazon-web-services",
+        "google-maps",
+        "amazon-ec2",
+        "create-react-app"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804632/aws-location-service-map-works-locally-but-fails-in-production-build"
+    },
+    {
+      "Created": "2025-10-30T10:38:55Z",
+      "Title": "integration of windows message loop (PeekMessage -\u003E DispatchMessage) with boost.asio",
+      "Tags": [
+        "c\u002B\u002B",
+        "windows",
+        "boost-asio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804658/integration-of-windows-message-loop-peekmessage-dispatchmessage-with-boost"
+    },
+    {
+      "Created": "2025-10-30T10:41:44Z",
+      "Title": "Fast way to select large files?",
+      "Tags": [
+        "flutter",
+        "file",
+        "upload"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804662/fast-way-to-select-large-files"
+    },
+    {
+      "Created": "2025-10-30T10:44:22Z",
+      "Title": "How to delete a non-empty YCQL keyspace?",
+      "Tags": [
+        "yugabytedb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804664/how-to-delete-a-non-empty-ycql-keyspace"
+    },
+    {
+      "Created": "2025-10-30T10:49:47Z",
+      "Title": "Docker containers fail to stop with \u201Cpermission denied\u201D when using Snap-installed Docker",
+      "Tags": [
+        "linux",
+        "docker",
+        "docker-compose"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804666/docker-containers-fail-to-stop-with-permission-denied-when-using-snap-installe"
+    }
+  ]
+}

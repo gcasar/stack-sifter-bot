@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-30T02:56:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T02:53:53Z",
+      "Title": "Mapbox Android V10 OnMapClickListener/OnMapLongClickListener not detecting clicks when AnnotationManger is added",
+      "Tags": [
+        "android",
+        "mapbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804354/mapbox-android-v10-onmapclicklistener-onmaplongclicklistener-not-detecting-click"
+    },
+    {
+      "Created": "2025-10-30T02:56:58Z",
+      "Title": "Office JS displayDialogAsync Error : TypeError TypeError: Cannot read properties of undefined (reading \u0027register\u0027)",
+      "Tags": [
+        "javascript",
+        "excel",
+        "ms-office",
+        "office-js",
+        "office-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804356/office-js-displaydialogasync-error-typeerror-typeerror-cannot-read-properties"
+    }
+  ]
+}

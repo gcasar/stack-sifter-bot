@@ -1,0 +1,58 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-30T09:07:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T08:54:22Z",
+      "Title": "How to use jsonb functions in hibernate 6?",
+      "Tags": [
+        "java",
+        "postgresql",
+        "hibernate",
+        "criteria",
+        "jsonb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804551/how-to-use-jsonb-functions-in-hibernate-6"
+    },
+    {
+      "Created": "2025-10-30T08:56:01Z",
+      "Title": "C\u002B\u002B Concept constraint requirement is not strict",
+      "Tags": [
+        "c\u002B\u002B",
+        "eigen",
+        "c\u002B\u002B-concepts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804552/c-concept-constraint-requirement-is-not-strict"
+    },
+    {
+      "Created": "2025-10-30T09:01:08Z",
+      "Title": "Vertical text with serif font in ggtext::element_textbox_simple",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "ggtext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804556/vertical-text-with-serif-font-in-ggtextelement-textbox-simple"
+    },
+    {
+      "Created": "2025-10-30T09:06:22Z",
+      "Title": "How to translate caddy to ingress nginx controller",
+      "Tags": [
+        "kubernetes",
+        "nginx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804562/how-to-translate-caddy-to-ingress-nginx-controller"
+    },
+    {
+      "Created": "2025-10-30T09:07:36Z",
+      "Title": "Plotting xts object in loop fails",
+      "Tags": [
+        "r",
+        "loops",
+        "plot",
+        "xts"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804563/plotting-xts-object-in-loop-fails"
+    }
+  ]
+}

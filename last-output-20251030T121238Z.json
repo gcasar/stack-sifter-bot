@@ -1,0 +1,63 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-30T12:08:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T11:19:09Z",
+      "Title": "Google Sheet script - checking for changed checkbox value",
+      "Tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804699/google-sheet-script-checking-for-changed-checkbox-value"
+    },
+    {
+      "Created": "2025-10-30T11:27:19Z",
+      "Title": "How can I optimize Laravel Sanctum SPA requests with a custom npm package like lara-fetch?",
+      "Tags": [
+        "javascript",
+        "laravel",
+        "fetch-api",
+        "single-page-application",
+        "laravel-sanctum"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804703/how-can-i-optimize-laravel-sanctum-spa-requests-with-a-custom-npm-package-like-l"
+    },
+    {
+      "Created": "2025-10-30T11:48:57Z",
+      "Title": "Focus not visible on ExpansionTile when a background color is defined via ExpansionTileThemeData",
+      "Tags": [
+        "flutter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804718/focus-not-visible-on-expansiontile-when-a-background-color-is-defined-via-expans"
+    },
+    {
+      "Created": "2025-10-30T11:50:57Z",
+      "Title": "Adding App Tracking Transparency on Flutter makes API calls fails constantly on IOS",
+      "Tags": [
+        "flutter",
+        "apptrackingtransparency"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804720/adding-app-tracking-transparency-on-flutter-makes-api-calls-fails-constantly-on"
+    },
+    {
+      "Created": "2025-10-30T11:57:05Z",
+      "Title": "Windows Batch file: How to break down a string in a for loop?",
+      "Tags": [
+        "string",
+        "windows",
+        "batch-file",
+        "cmd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804725/windows-batch-file-how-to-break-down-a-string-in-a-for-loop"
+    },
+    {
+      "Created": "2025-10-30T12:08:30Z",
+      "Title": "react-barcode-scanner Not Scanning on Mobile",
+      "Tags": [
+        "reactjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804738/react-barcode-scanner-not-scanning-on-mobile"
+    }
+  ]
+}

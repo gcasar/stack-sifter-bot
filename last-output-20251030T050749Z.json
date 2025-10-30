@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-30T04:25:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T04:10:28Z",
+      "Title": "Using tbb::parallel_for with reserve and emplace does not copy all elements between std::vectors",
+      "Tags": [
+        "c\u002B\u002B",
+        "stdvector",
+        "tbb",
+        "emplace"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804387/using-tbbparallel-for-with-reserve-and-emplace-does-not-copy-all-elements-betw"
+    },
+    {
+      "Created": "2025-10-30T04:12:52Z",
+      "Title": "Android Compose: Balloon content width and arrow positioning issues in skydoves/Balloon library",
+      "Tags": [
+        "android",
+        "android-jetpack-compose",
+        "tooltip",
+        "balloon-tip"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804388/android-compose-balloon-content-width-and-arrow-positioning-issues-in-skydoves"
+    },
+    {
+      "Created": "2025-10-30T04:25:01Z",
+      "Title": "CodeBERT Pre-train model for codesearch",
+      "Tags": [
+        "python",
+        "pre-trained-model",
+        "code-search"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804393/codebert-pre-train-model-for-codesearch"
+    }
+  ]
+}

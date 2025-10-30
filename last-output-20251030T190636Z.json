@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-30T19:04:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T18:41:44Z",
+      "Title": "Issue with Docker buildx build using GPU",
+      "Tags": [
+        "docker",
+        "kubernetes",
+        "gpu",
+        "devops",
+        "nvidia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805115/issue-with-docker-buildx-build-using-gpu"
+    },
+    {
+      "Created": "2025-10-30T18:55:05Z",
+      "Title": "SWIG code doesn\u0027t compile on Github/MacOS machine. Works fine on Linux, Windows",
+      "Tags": [
+        "python",
+        "gcc",
+        "swig"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805124/swig-code-doesnt-compile-on-github-macos-machine-works-fine-on-linux-windows"
+    },
+    {
+      "Created": "2025-10-30T19:04:59Z",
+      "Title": "Docker doesn\u2019t copy Minecraft server files to my host directory",
+      "Tags": [
+        "linux",
+        "docker"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805133/docker-doesn-t-copy-minecraft-server-files-to-my-host-directory"
+    }
+  ]
+}

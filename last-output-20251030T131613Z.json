@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-30T13:11:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T12:47:07Z",
+      "Title": "KDB/Q: How to create nested dict from keyed table",
+      "Tags": [
+        "kdb\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804777/kdb-q-how-to-create-nested-dict-from-keyed-table"
+    },
+    {
+      "Created": "2025-10-30T13:09:24Z",
+      "Title": "How to count the length of a list of dicts, containing bytes as well in python",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804795/how-to-count-the-length-of-a-list-of-dicts-containing-bytes-as-well-in-python"
+    },
+    {
+      "Created": "2025-10-30T13:10:19Z",
+      "Title": "How To Safely Parse Double Input From User - C",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804797/how-to-safely-parse-double-input-from-user-c"
+    },
+    {
+      "Created": "2025-10-30T13:10:39Z",
+      "Title": "How can I strictly wrap text at a fixed width",
+      "Tags": [
+        "html",
+        "css"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804798/how-can-i-strictly-wrap-text-at-a-fixed-width"
+    },
+    {
+      "Created": "2025-10-30T13:11:46Z",
+      "Title": "TypeScript error using OpenAI Responses API \u2014 ResponseInputImage.detail required even though documentation doesn\u0027t show it",
+      "Tags": [
+        "openai-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804800/typescript-error-using-openai-responses-api-responseinputimage-detail-required"
+    }
+  ]
+}

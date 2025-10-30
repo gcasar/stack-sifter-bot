@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-30T00:13:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-29T23:12:25Z",
+      "Title": "C\u002B\u002B matrix class\u0027 operator* returns wrong answer",
+      "Tags": [
+        "c\u002B\u002B",
+        "class",
+        "debugging",
+        "matrix"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804288/c-matrix-class-operator-returns-wrong-answer"
+    },
+    {
+      "Created": "2025-10-29T23:21:50Z",
+      "Title": "C\u002B\u002B: possible/how to let parent class thread invoke funtion in child class that overrides parent function?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "polymorphism"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804291/c-possible-how-to-let-parent-class-thread-invoke-funtion-in-child-class-that"
+    },
+    {
+      "Created": "2025-10-30T00:13:43Z",
+      "Title": "Using IntelliJ, how can I find unused code or code used in tests only",
+      "Tags": [
+        "typescript",
+        "intellij-idea"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804312/using-intellij-how-can-i-find-unused-code-or-code-used-in-tests-only"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-30T23:00:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T22:08:38Z",
+      "Title": "What order should programs look at JAVA_HOME, JRE_HOME, JDK_HOME for locating a Java version?",
+      "Tags": [
+        "java",
+        "environment-variables"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805260/what-order-should-programs-look-at-java-home-jre-home-jdk-home-for-locating-a"
+    },
+    {
+      "Created": "2025-10-30T22:16:51Z",
+      "Title": "Why are prototype extensions so much slower than functions?",
+      "Tags": [
+        "javascript",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805268/why-are-prototype-extensions-so-much-slower-than-functions"
+    },
+    {
+      "Created": "2025-10-30T22:29:38Z",
+      "Title": "FFmpeg recording freezes mid recording and remainder of the footage is missing",
+      "Tags": [
+        "python",
+        "memory",
+        "ffmpeg",
+        "directshow",
+        "recording"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805273/ffmpeg-recording-freezes-mid-recording-and-remainder-of-the-footage-is-missing"
+    },
+    {
+      "Created": "2025-10-30T22:42:44Z",
+      "Title": "semantic-release not respecting NOT publishing to npm",
+      "Tags": [
+        "npm",
+        "github-actions",
+        "npm-publish",
+        "semantic-release"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805279/semantic-release-not-respecting-not-publishing-to-npm"
+    },
+    {
+      "Created": "2025-10-30T22:46:37Z",
+      "Title": "Challenges in dataset creation for computer vision projects",
+      "Tags": [
+        "machine-learning",
+        "computer-vision",
+        "dataset",
+        "object-detection",
+        "data-augmentation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805284/challenges-in-dataset-creation-for-computer-vision-projects"
+    },
+    {
+      "Created": "2025-10-30T22:47:10Z",
+      "Title": "X11 forwarding to Virtual Machine",
+      "Tags": [
+        "ssh",
+        "vagrant",
+        "x11"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805285/x11-forwarding-to-virtual-machine"
+    },
+    {
+      "Created": "2025-10-30T22:48:16Z",
+      "Title": "Need help making enemies look at the character or attack point",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805288/need-help-making-enemies-look-at-the-character-or-attack-point"
+    },
+    {
+      "Created": "2025-10-30T23:00:40Z",
+      "Title": "I need to work with legacy web forms apps, but VS22 doesn\u0027t like the percent syntax in .aspx pages. I\u0027ve been ordered to not change the markup",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "webforms",
+        "compatibility",
+        "legacy"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805292/i-need-to-work-with-legacy-web-forms-apps-but-vs22-doesnt-like-the-percent-syn"
+    }
+  ]
+}

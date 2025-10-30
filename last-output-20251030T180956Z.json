@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-30T18:07:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T17:31:09Z",
+      "Title": "IIS 10.0 not supressing \u0027server\u0027 header",
+      "Tags": [
+        "iis",
+        "response-headers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805067/iis-10-0-not-supressing-server-header"
+    },
+    {
+      "Created": "2025-10-30T17:33:48Z",
+      "Title": "Intermittent ESC/POS Printer Issue Using Flask \u002B Gunicorn on Raspberry Pi",
+      "Tags": [
+        "python",
+        "flask",
+        "printing",
+        "raspberry-pi",
+        "python-escpos"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805071/intermittent-esc-pos-printer-issue-using-flask-gunicorn-on-raspberry-pi"
+    },
+    {
+      "Created": "2025-10-30T17:47:18Z",
+      "Title": "Using HTTPkerberosauth with a javascript enabled web scraper",
+      "Tags": [
+        "python",
+        "selenium-webdriver",
+        "web-scraping",
+        "python-requests",
+        "integration-testing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805083/using-httpkerberosauth-with-a-javascript-enabled-web-scraper"
+    },
+    {
+      "Created": "2025-10-30T18:07:02Z",
+      "Title": "How to see a WinForm custom control in Visual-Studio Designer?",
+      "Tags": [
+        ".net",
+        "visual-studio",
+        "winforms",
+        "frontend",
+        ".net-6.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805091/how-to-see-a-winform-custom-control-in-visual-studio-designer"
+    }
+  ]
+}

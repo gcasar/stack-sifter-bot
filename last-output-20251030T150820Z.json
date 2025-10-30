@@ -1,0 +1,65 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-30T15:00:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T14:21:22Z",
+      "Title": "How can I just append numerical value at list, not allow string value append to my list",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804863/how-can-i-just-append-numerical-value-at-list-not-allow-string-value-append-to"
+    },
+    {
+      "Created": "2025-10-30T14:30:01Z",
+      "Title": "How to best group an iterator\u0027s items into batches?",
+      "Tags": [
+        "python",
+        "iterator",
+        "iteration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804875/how-to-best-group-an-iterators-items-into-batches"
+    },
+    {
+      "Created": "2025-10-30T14:53:07Z",
+      "Title": "Cannot deserialize JSON that I had serialized?",
+      "Tags": [
+        "java",
+        "json",
+        "jackson",
+        "quarkus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804893/cannot-deserialize-json-that-i-had-serialized"
+    },
+    {
+      "Created": "2025-10-30T14:54:40Z",
+      "Title": "Command not found for script, but works in command line on remote HPC",
+      "Tags": [
+        "linux",
+        "bash",
+        "shell",
+        "plink"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804896/command-not-found-for-script-but-works-in-command-line-on-remote-hpc"
+    },
+    {
+      "Created": "2025-10-30T14:56:22Z",
+      "Title": "problem about java. Using implement, lambda",
+      "Tags": [
+        "java"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804899/problem-about-java-using-implement-lambda"
+    },
+    {
+      "Created": "2025-10-30T15:00:30Z",
+      "Title": "AWSSDK.S3 causes x-amz-content-sha256 error against minio",
+      "Tags": [
+        "amazon-s3",
+        "testing",
+        "minio",
+        "aws-sdk-net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79804905/awssdk-s3-causes-x-amz-content-sha256-error-against-minio"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-﻿using StackSifter.Feed;
+using StackSifter.Feed;
 using StackSifter;
 using StackSifter.Configuration;
 using System.Text.Json;
@@ -40,9 +40,6 @@ catch (Exception ex)
     return 1;
 }
 
-/// <summary>
-/// Runs the stack sifter using a YAML configuration file.
-/// </summary>
 static async Task RunWithConfigAsync(string configPath, DateTime since, string apiKey)
 {
     Console.Error.WriteLine($"Loading configuration from: {configPath}");
@@ -64,8 +61,7 @@ static async Task RunWithConfigAsync(string configPath, DateTime since, string a
             m.Post.Title,
             m.Post.Tags,
             m.Post.Url,
-            MatchReason = m.MatchReason,
-            NotificationTargets = m.NotificationTargets.Select(t => t.GetDescription()).ToList()
+            MatchReason = m.MatchReason
         }).ToList()
     };
 
@@ -73,9 +69,6 @@ static async Task RunWithConfigAsync(string configPath, DateTime since, string a
     Console.WriteLine(json);
 }
 
-/// <summary>
-/// Runs in legacy mode with hardcoded criteria (backward compatibility).
-/// </summary>
 static async Task RunLegacyModeAsync(DateTime since, string? feedUrl, string apiKey)
 {
     Console.Error.WriteLine("Running in legacy mode (consider migrating to YAML config)...");
@@ -99,9 +92,6 @@ static async Task RunLegacyModeAsync(DateTime since, string? feedUrl, string api
     Console.WriteLine(json);
 }
 
-/// <summary>
-/// Parses and validates command-line arguments.
-/// </summary>
 static (bool UseConfig, string? ConfigPath, DateTime Since, string? FeedUrl)? ParseArguments(string[] args)
 {
     if (args.Length == 0)
@@ -130,9 +120,6 @@ static (bool UseConfig, string? ConfigPath, DateTime Since, string? FeedUrl)? Pa
     }
 }
 
-/// <summary>
-/// Prints usage information.
-/// </summary>
 static void PrintUsage()
 {
     Console.WriteLine("Usage:");

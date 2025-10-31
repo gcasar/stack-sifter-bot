@@ -15,8 +15,6 @@ feeds:
 poll_interval_minutes: 5
 rules:
   - prompt: 'Is this related to authentication?'
-    notify:
-      - slack: '#auth-team'
 ";
 
         var config = ConfigurationLoader.LoadFromYaml(yaml);
@@ -26,80 +24,26 @@ rules:
         Assert.That(config.PollIntervalMinutes, Is.EqualTo(5));
         Assert.That(config.Rules, Has.Count.EqualTo(1));
         Assert.That(config.Rules[0].Prompt, Is.EqualTo("Is this related to authentication?"));
-        Assert.That(config.Rules[0].Notify, Has.Count.EqualTo(1));
-        Assert.That(config.Rules[0].Notify[0].Slack, Is.EqualTo("#auth-team"));
     }
 
     [Test]
-    public void MultipleRulesWithMultipleNotifications_ShouldLoadCorrectly()
+    public void MultipleRules_ShouldLoadCorrectly()
     {
         var yaml = @"
 feeds:
   - https://stackoverflow.com/feeds
 rules:
   - prompt: 'First rule'
-    notify:
-      - slack: '#team1'
-      - slack: '#team2'
-      - email: 'team@example.com'
   - prompt: 'Second rule'
-    notify:
-      - webhook: 'https://example.com/hook'
+  - prompt: 'Third rule'
 ";
 
         var config = ConfigurationLoader.LoadFromYaml(yaml);
 
-        Assert.That(config.Rules, Has.Count.EqualTo(2));
-
-        // First rule
-        Assert.That(config.Rules[0].Notify, Has.Count.EqualTo(3));
-        Assert.That(config.Rules[0].Notify[0].Slack, Is.EqualTo("#team1"));
-        Assert.That(config.Rules[0].Notify[1].Slack, Is.EqualTo("#team2"));
-        Assert.That(config.Rules[0].Notify[2].Email, Is.EqualTo("team@example.com"));
-
-        // Second rule
-        Assert.That(config.Rules[1].Notify, Has.Count.EqualTo(1));
-        Assert.That(config.Rules[1].Notify[0].Webhook, Is.EqualTo("https://example.com/hook"));
-    }
-
-    [Test]
-    public void ConfigurationWithTags_ShouldLoadTags()
-    {
-        var yaml = @"
-feeds:
-  - https://stackoverflow.com/feeds
-rules:
-  - prompt: 'Test'
-    tags: ['authentication', 'login', 'oauth']
-    notify:
-      - slack: '#test'
-";
-
-        var config = ConfigurationLoader.LoadFromYaml(yaml);
-
-        Assert.That(config.Rules[0].Tags, Is.Not.Null);
-        Assert.That(config.Rules[0].Tags, Has.Count.EqualTo(3));
-        Assert.That(config.Rules[0].Tags, Contains.Item("authentication"));
-        Assert.That(config.Rules[0].Tags, Contains.Item("login"));
-        Assert.That(config.Rules[0].Tags, Contains.Item("oauth"));
-    }
-
-    [Test]
-    public void ConfigurationWithSifterType_ShouldLoadSifterType()
-    {
-        var yaml = @"
-feeds:
-  - https://stackoverflow.com/feeds
-rules:
-  - prompt: 'Test'
-    sifter_type: regex
-    notify:
-      - slack: '#test'
-";
-
-        var config = ConfigurationLoader.LoadFromYaml(yaml);
-
-        Assert.That(config.Rules[0].SifterType, Is.EqualTo("regex"));
+        Assert.That(config.Rules, Has.Count.EqualTo(3));
+        Assert.That(config.Rules[0].Prompt, Is.EqualTo("First rule"));
+        Assert.That(config.Rules[1].Prompt, Is.EqualTo("Second rule"));
+        Assert.That(config.Rules[2].Prompt, Is.EqualTo("Third rule"));
     }
 
     [Test]
@@ -109,8 +53,6 @@ rules:
 feeds: []
 rules:
   - prompt: 'Test'
-    notify:
-      - slack: '#test'
 ";
 
         var ex = Assert.Throws<InvalidOperationException>(() =>
@@ -142,49 +84,12 @@ feeds:
   - https://stackoverflow.com/feeds
 rules:
   - prompt: ''
-    notify:
-      - slack: '#test'
 ";
 
         var ex = Assert.Throws<InvalidOperationException>(() =>
             ConfigurationLoader.LoadFromYaml(yaml));
 
         Assert.That(ex!.Message, Does.Contain("non-empty prompt"));
-    }
-
-    [Test]
-    public void NoNotifications_ShouldThrowValidationError()
-    {
-        var yaml = @"
-feeds:
-  - https://stackoverflow.com/feeds
-rules:
-  - prompt: 'Test'
-    notify: []
-";
-
-        var ex = Assert.Throws<InvalidOperationException>(() =>
-            ConfigurationLoader.LoadFromYaml(yaml));
-
-        Assert.That(ex!.Message, Does.Contain("at least one notification target"));
-    }
-
-    [Test]
-    public void NotificationWithNoChannel_ShouldThrowValidationError()
-    {
-        var yaml = @"
-feeds:
-  - https://stackoverflow.com/feeds
-rules:
-  - prompt: 'Test'
-    notify:
-      - slack: ''
-";
-
-        var ex = Assert.Throws<InvalidOperationException>(() =>
-            ConfigurationLoader.LoadFromYaml(yaml));
-
-        Assert.That(ex!.Message, Does.Contain("at least one channel"));
     }
 
     [Test]
@@ -195,8 +100,6 @@ feeds:
   - not-a-valid-url
 rules:
   - prompt: 'Test'
-    notify:
-      - slack: '#test'
 ";
 
         var ex = Assert.Throws<InvalidOperationException>(() =>
@@ -213,8 +116,6 @@ feeds:
   - ftp://example.com/feed
 rules:
   - prompt: 'Test'
-    notify:
-      - slack: '#test'
 ";
 
         var ex = Assert.Throws<InvalidOperationException>(() =>
@@ -222,18 +123,6 @@ rules:
 
         Assert.That(ex!.Message, Does.Contain("Invalid feed URL"));
         Assert.That(ex!.Message, Does.Contain("HTTP/HTTPS"));
-    }
-
-    [Test]
-    public void NotificationTarget_GetDescription_ReturnsCorrectFormat()
-    {
-        var slackTarget = new NotificationTarget { Slack = "#test-channel" };
-        var emailTarget = new NotificationTarget { Email = "test@example.com" };
-        var webhookTarget = new NotificationTarget { Webhook = "https://example.com/hook" };
-
-        Assert.That(slackTarget.GetDescription(), Is.EqualTo("Slack: #test-channel"));
-        Assert.That(emailTarget.GetDescription(), Is.EqualTo("Email: test@example.com"));
-        Assert.That(webhookTarget.GetDescription(), Is.EqualTo("Webhook: https://example.com/hook"));
     }
 
     [Test]
@@ -248,7 +137,6 @@ rules:
     [Test]
     public void RealStackSifterYaml_ShouldLoadSuccessfully()
     {
-        // This test loads the actual stack-sifter.yaml from the repository
         var configPath = Path.Combine(
             TestContext.CurrentContext.TestDirectory,
             "..", "..", "..", "..", "..",
@@ -263,21 +151,13 @@ rules:
 
         var config = ConfigurationLoader.LoadFromFile(configPath);
 
-        // Basic validation that it loaded
         Assert.That(config.Feeds, Is.Not.Empty);
         Assert.That(config.Rules, Is.Not.Empty);
         Assert.That(config.PollIntervalMinutes, Is.EqualTo(5));
 
-        // Verify all rules have valid structure
         foreach (var rule in config.Rules)
         {
             Assert.That(rule.Prompt, Is.Not.Empty);
-            Assert.That(rule.Notify, Is.Not.Empty);
-
-            foreach (var target in rule.Notify)
-            {
-                Assert.That(target.GetDescription(), Is.Not.EqualTo("Unknown notification target"));
-            }
         }
     }
 }

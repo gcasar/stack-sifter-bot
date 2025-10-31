@@ -1,0 +1,33 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-31T13:58:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T13:52:43Z",
+      "Title": "How to programmatically grant users permissions for actions with queues in Artemis?",
+      "Tags": [
+        "java",
+        "activemq-artemis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805858/how-to-programmatically-grant-users-permissions-for-actions-with-queues-in-artem"
+    },
+    {
+      "Created": "2025-10-31T13:57:49Z",
+      "Title": "Initializing global constant through function in MSL",
+      "Tags": [
+        "metal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805861/initializing-global-constant-through-function-in-msl"
+    },
+    {
+      "Created": "2025-10-31T13:58:55Z",
+      "Title": "what is the purpose of training=True argument? Is it an argument of keras.sequential() or not?",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "keras"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805862/what-is-the-purpose-of-training-true-argument-is-it-an-argument-of-keras-sequen"
+    }
+  ]
+}

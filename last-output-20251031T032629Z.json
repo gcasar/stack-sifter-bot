@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-31T03:00:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T02:36:57Z",
+      "Title": "How to debug cuda in Visual Studio with \u0022step over\u0022",
+      "Tags": [
+        "debugging",
+        "cuda"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805352/how-to-debug-cuda-in-visual-studio-with-step-over"
+    },
+    {
+      "Created": "2025-10-31T02:37:44Z",
+      "Title": "strncpy changes behavior when using char* vs. char array destination [duplicate]",
+      "Tags": [
+        "c"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805353/strncpy-changes-behavior-when-using-char-vs-char-array-destination"
+    },
+    {
+      "Created": "2025-10-31T03:00:21Z",
+      "Title": "AttributeError: \u0027NoneType\u0027 object has no attribute \u0027get_unverified_chain\u0027 in establishing a TLS connection",
+      "Tags": [
+        "python-3.x",
+        "ssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805361/attributeerror-nonetype-object-has-no-attribute-get-unverified-chain-in-est"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-31T02:12:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T01:49:12Z",
+      "Title": "Race condition with android fragment back stack changed listener?",
+      "Tags": [
+        "android",
+        "kotlin",
+        "android-fragments",
+        "fragment-backstack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805342/race-condition-with-android-fragment-back-stack-changed-listener"
+    },
+    {
+      "Created": "2025-10-31T01:52:19Z",
+      "Title": "MudBlazor Tree View display the edit view on the 1st click but all subsequent clicks only change the URL \u0026 does not update the view",
+      "Tags": [
+        "c#",
+        "blazor",
+        "blazor-webassembly",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805345/mudblazor-tree-view-display-the-edit-view-on-the-1st-click-but-all-subsequent-cl"
+    },
+    {
+      "Created": "2025-10-31T02:12:37Z",
+      "Title": "Align a dendrogram with faceted time series",
+      "Tags": [
+        "r",
+        "ggplot2",
+        "hierarchical-clustering"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805349/align-a-dendrogram-with-faceted-time-series"
+    }
+  ]
+}

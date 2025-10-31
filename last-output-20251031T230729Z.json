@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-31T22:51:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T22:29:08Z",
+      "Title": "Advanced combinatorics in Python: binom(n,2) subsets of binom(n,3) combinations without repetition",
+      "Tags": [
+        "python",
+        "combinations",
+        "python-itertools",
+        "combinatorics"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806248/advanced-combinatorics-in-python-binomn-2-subsets-of-binomn-3-combinations"
+    },
+    {
+      "Created": "2025-10-31T22:48:02Z",
+      "Title": "pyautogui and keyboard module not working to detect macro input",
+      "Tags": [
+        "python",
+        "macros",
+        "key",
+        "pyautogui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806256/pyautogui-and-keyboard-module-not-working-to-detect-macro-input"
+    },
+    {
+      "Created": "2025-10-31T22:51:35Z",
+      "Title": "What is the best way to port a tiny Raylib (csharp bindings) c# game to a web browser?",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806257/what-is-the-best-way-to-port-a-tiny-raylib-csharp-bindings-c-sharp-game-to-a-w"
+    }
+  ]
+}

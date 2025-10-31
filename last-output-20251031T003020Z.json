@@ -1,0 +1,61 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-10-31T00:16:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-30T23:18:50Z",
+      "Title": "Is it possible to build a mutex from C\u002B\u002B20 std::atomic without spinning?",
+      "Tags": [
+        "c\u002B\u002B",
+        "multithreading",
+        "c\u002B\u002B20",
+        "stdatomic"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805300/is-it-possible-to-build-a-mutex-from-c20-stdatomic-without-spinning"
+    },
+    {
+      "Created": "2025-10-30T23:41:51Z",
+      "Title": "List Indexing vs. Class Attribute Access in Python - Which is Faster and Why?",
+      "Tags": [
+        "python",
+        "performance",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805312/list-indexing-vs-class-attribute-access-in-python-which-is-faster-and-why"
+    },
+    {
+      "Created": "2025-10-30T23:47:34Z",
+      "Title": "Is there a way to write a previously read and updated DataSet back to Excel?",
+      "Tags": [
+        "c#",
+        "excel",
+        "dataset",
+        "read-write",
+        "oledbdataadapter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805314/is-there-a-way-to-write-a-previously-read-and-updated-dataset-back-to-excel"
+    },
+    {
+      "Created": "2025-10-30T23:51:20Z",
+      "Title": "Micrometer trace for async method and scheduled method",
+      "Tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "spring-micrometer",
+        "micrometer-tracing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805315/micrometer-trace-for-async-method-and-scheduled-method"
+    },
+    {
+      "Created": "2025-10-31T00:16:23Z",
+      "Title": "JS Array .filter - editing a object of the filtered array does not reflect on the \u0027parent\u0027?",
+      "Tags": [
+        "javascript",
+        "arrays",
+        "filter"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805318/js-array-filter-editing-a-object-of-the-filtered-array-does-not-reflect-on-th"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-31T15:05:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T14:05:28Z",
+      "Title": "std::construct_at vs placement new; additional move/copy constructor call",
+      "Tags": [
+        "c\u002B\u002B",
+        "placement-new"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805867/stdconstruct-at-vs-placement-new-additional-move-copy-constructor-call"
+    },
+    {
+      "Created": "2025-10-31T14:33:49Z",
+      "Title": "How to verify both email and phone before creating a Firebase user account to prevent orphan accounts?",
+      "Tags": [
+        "android",
+        "flutter",
+        "firebase",
+        "firebase-realtime-database",
+        "firebase-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805894/how-to-verify-both-email-and-phone-before-creating-a-firebase-user-account-to-pr"
+    },
+    {
+      "Created": "2025-10-31T14:37:05Z",
+      "Title": "Django difference between aware datetimes across DST",
+      "Tags": [
+        "python",
+        "django",
+        "datetime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805898/django-difference-between-aware-datetimes-across-dst"
+    },
+    {
+      "Created": "2025-10-31T14:48:01Z",
+      "Title": "Build fails after lowering minSdkVersion to 22 \u2014 User has minSdkVersion 22 but library was built for 24 [//ReactAndroid/hermestooling]",
+      "Tags": [
+        "android",
+        "react-native",
+        "cmake",
+        "react-native-cli"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805907/build-fails-after-lowering-minsdkversion-to-22-user-has-minsdkversion-22-but-l"
+    },
+    {
+      "Created": "2025-10-31T14:55:28Z",
+      "Title": "Grouping by and making flag based on patterns",
+      "Tags": [
+        "sql",
+        "snowflake-cloud-data-platform"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805913/grouping-by-and-making-flag-based-on-patterns"
+    },
+    {
+      "Created": "2025-10-31T14:58:38Z",
+      "Title": "Will Eclipse PyDev support astral ty?",
+      "Tags": [
+        "pydev"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805914/will-eclipse-pydev-support-astral-ty"
+    },
+    {
+      "Created": "2025-10-31T15:02:27Z",
+      "Title": "How to project LiDAR vertices from ARAnchor updates into the segmentationBuffer image (XYZ \u2192 UV mapping)?",
+      "Tags": [
+        "computer-vision",
+        "arkit",
+        "realitykit",
+        "lidar",
+        "aranchor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805917/how-to-project-lidar-vertices-from-aranchor-updates-into-the-segmentationbuffer"
+    },
+    {
+      "Created": "2025-10-31T15:02:40Z",
+      "Title": "Base equivalent to pivot_longer()/melt() with semi-wide data",
+      "Tags": [
+        "r"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805918/base-equivalent-to-pivot-longer-melt-with-semi-wide-data"
+    },
+    {
+      "Created": "2025-10-31T15:05:03Z",
+      "Title": "What tools or frameworks can be used to generate synthetic datasets for computer vision?",
+      "Tags": [
+        "machine-learning",
+        "computer-vision",
+        "dataset",
+        "object-detection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805920/what-tools-or-frameworks-can-be-used-to-generate-synthetic-datasets-for-computer"
+    }
+  ]
+}

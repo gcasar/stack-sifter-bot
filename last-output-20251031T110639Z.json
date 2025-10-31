@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-31T11:00:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T10:17:03Z",
+      "Title": "Always getting Exception thrown: \u0027System.Windows.Markup.XamlParseException\u0027 in PresentationFramework.dll",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805648/always-getting-exception-thrown-system-windows-markup-xamlparseexception-in-p"
+    },
+    {
+      "Created": "2025-10-31T10:23:00Z",
+      "Title": "Why does axios.get(url, { params }) send dates wrapped in quotes like \u0027\u00222025-10-30T09:58:57.605Z\u0022\u0027 while a literal URL works fine?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "axios",
+        "dayjs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805655/why-does-axios-geturl-params-send-dates-wrapped-in-quotes-like-2025-10"
+    },
+    {
+      "Created": "2025-10-31T10:28:39Z",
+      "Title": "Type inference breaks when using two type mapping in one type",
+      "Tags": [
+        "javascript",
+        "typescript",
+        "generics",
+        "mapped-types"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805668/type-inference-breaks-when-using-two-type-mapping-in-one-type"
+    },
+    {
+      "Created": "2025-10-31T10:43:14Z",
+      "Title": "Web USB API creating virtual device",
+      "Tags": [
+        "usb",
+        "webapi",
+        "webusb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805677/web-usb-api-creating-virtual-device"
+    },
+    {
+      "Created": "2025-10-31T10:52:56Z",
+      "Title": "need help xml config file",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805682/need-help-xml-config-file"
+    },
+    {
+      "Created": "2025-10-31T11:00:56Z",
+      "Title": "Why the default java collator of hungarian locale does not contain the proper grammar?",
+      "Tags": [
+        "java",
+        "locale",
+        "collation",
+        "rules",
+        "java-21"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805691/why-the-default-java-collator-of-hungarian-locale-does-not-contain-the-proper-gr"
+    }
+  ]
+}

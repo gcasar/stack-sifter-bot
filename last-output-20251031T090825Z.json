@@ -1,0 +1,85 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-31T09:03:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T08:15:15Z",
+      "Title": "Self-contained publish works locally but fails on other machines: \u0022Failed to update database to latest state\u0022",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805537/self-contained-publish-works-locally-but-fails-on-other-machines-failed-to-upd"
+    },
+    {
+      "Created": "2025-10-31T08:26:31Z",
+      "Title": "Why does my microservice return inconsistent results when using Redis caching with async SQLAlchemy?",
+      "Tags": [
+        "python",
+        "caching",
+        "redis",
+        "sqlalchemy",
+        "fastapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805542/why-does-my-microservice-return-inconsistent-results-when-using-redis-caching-wi"
+    },
+    {
+      "Created": "2025-10-31T08:28:09Z",
+      "Title": "Enhance key extraction to detect translation keys stored in variables",
+      "Tags": [
+        "javascript",
+        "extract",
+        "i18next"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805543/enhance-key-extraction-to-detect-translation-keys-stored-in-variables"
+    },
+    {
+      "Created": "2025-10-31T08:31:02Z",
+      "Title": "Should I use Docker-in-Docker or a Docker socket mount for building images inside CI containers?",
+      "Tags": [
+        "docker",
+        "cicd"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805544/should-i-use-docker-in-docker-or-a-docker-socket-mount-for-building-images-insid"
+    },
+    {
+      "Created": "2025-10-31T08:31:28Z",
+      "Title": "When importing tables or memories, why should the \u0022actual max size\u0022 be less than the \u0022expected max size\u0022?",
+      "Tags": [
+        "webassembly",
+        "specifications"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805545/when-importing-tables-or-memories-why-should-the-actual-max-size-be-less-than"
+    },
+    {
+      "Created": "2025-10-31T08:40:51Z",
+      "Title": "Custom WooCommerce Checkout Field Resets on AJAX Updates (Order Notes/Payment Changes)",
+      "Tags": [
+        "php",
+        "wordpress",
+        "woocommerce"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805550/custom-woocommerce-checkout-field-resets-on-ajax-updates-order-notes-payment-ch"
+    },
+    {
+      "Created": "2025-10-31T09:03:44Z",
+      "Title": "Cannot found lastest Subversion working with Apache 2.4 (64bit) compiled with vc17 redistributable",
+      "Tags": [
+        "apache",
+        "svn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805563/cannot-found-lastest-subversion-working-with-apache-2-4-64bit-compiled-with-vc"
+    },
+    {
+      "Created": "2025-10-31T09:03:50Z",
+      "Title": "On macOS, Git does not automatically pick up the .gitattributes settings",
+      "Tags": [
+        "git",
+        "macos",
+        "git-diff"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805564/on-macos-git-does-not-automatically-pick-up-the-gitattributes-settings"
+    }
+  ]
+}

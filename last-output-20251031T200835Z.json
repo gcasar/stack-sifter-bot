@@ -1,0 +1,67 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-31T19:50:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T19:14:08Z",
+      "Title": "Is there a way to explicitly instantiate many template classes all with the same set of parameters?",
+      "Tags": [
+        "c\u002B\u002B",
+        "templates",
+        "template-instantiation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806132/is-there-a-way-to-explicitly-instantiate-many-template-classes-all-with-the-same"
+    },
+    {
+      "Created": "2025-10-31T19:17:11Z",
+      "Title": "getting a tensor of shape (32,) instead of a single value as a label",
+      "Tags": [
+        "python",
+        "tensorflow",
+        "matplotlib",
+        "keras"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806137/getting-a-tensor-of-shape-32-instead-of-a-single-value-as-a-label"
+    },
+    {
+      "Created": "2025-10-31T19:34:02Z",
+      "Title": "Python gets stuck in an infinite loop restarting multiprocessing pool workers on error in initilization routine",
+      "Tags": [
+        "python",
+        "windows",
+        "multithreading",
+        "multiprocessing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806145/python-gets-stuck-in-an-infinite-loop-restarting-multiprocessing-pool-workers-on"
+    },
+    {
+      "Created": "2025-10-31T19:38:35Z",
+      "Title": "Producing a BIG string in TSQL to be used in a JSON report",
+      "Tags": [
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806150/producing-a-big-string-in-tsql-to-be-used-in-a-json-report"
+    },
+    {
+      "Created": "2025-10-31T19:40:24Z",
+      "Title": "ModuleNotFoundError when importing ConversationBufferMemory and ConversationalRetrievalChain from LangChain",
+      "Tags": [
+        "python",
+        "artificial-intelligence",
+        "langchain",
+        "large-language-model",
+        "py-langchain"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806152/modulenotfounderror-when-importing-conversationbuffermemory-and-conversationalre"
+    },
+    {
+      "Created": "2025-10-31T19:50:46Z",
+      "Title": "vis-network: define edged as labels and transpose?",
+      "Tags": [
+        "vis.js",
+        "vis.js-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806164/vis-network-define-edged-as-labels-and-transpose"
+    }
+  ]
+}

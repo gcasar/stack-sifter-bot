@@ -1,0 +1,62 @@
+{
+  "TotalProcessed": 6,
+  "LastCreated": "2025-10-31T12:06:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T11:51:12Z",
+      "Title": "Ranking needed for each change in status",
+      "Tags": [
+        "sql-server",
+        "gaps-and-islands"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805743/ranking-needed-for-each-change-in-status"
+    },
+    {
+      "Created": "2025-10-31T11:55:56Z",
+      "Title": "Split a string into an array but ignoring blank lines",
+      "Tags": [
+        "javascript",
+        "regex"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805749/split-a-string-into-an-array-but-ignoring-blank-lines"
+    },
+    {
+      "Created": "2025-10-31T12:04:10Z",
+      "Title": "Best way to model optional foreign keys when only one should be set",
+      "Tags": [
+        "database",
+        "foreign-keys",
+        "relational-database",
+        "entity-relationship"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805754/best-way-to-model-optional-foreign-keys-when-only-one-should-be-set"
+    },
+    {
+      "Created": "2025-10-31T12:04:11Z",
+      "Title": "How does fgets work when reading a file or stdin?",
+      "Tags": [
+        "c",
+        "fgets"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805755/how-does-fgets-work-when-reading-a-file-or-stdin"
+    },
+    {
+      "Created": "2025-10-31T12:05:05Z",
+      "Title": "How to keep javax.annotation.* classes when adding com.microsoft.graph:microsoft-graph dependency to the project?",
+      "Tags": [
+        "java",
+        "maven",
+        "microsoft-graph-sdks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805757/how-to-keep-javax-annotation-classes-when-adding-com-microsoft-graphmicrosoft"
+    },
+    {
+      "Created": "2025-10-31T12:06:36Z",
+      "Title": "Getting ECONN refused error when executing botium-cli emulator",
+      "Tags": [
+        "botium-box"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805758/getting-econn-refused-error-when-executing-botium-cli-emulator"
+    }
+  ]
+}

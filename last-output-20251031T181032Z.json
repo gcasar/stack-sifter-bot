@@ -1,0 +1,96 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-10-31T18:04:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T17:03:51Z",
+      "Title": "Converting JSON to CSV using jq with header line",
+      "Tags": [
+        "json",
+        "csv",
+        "jq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806042/converting-json-to-csv-using-jq-with-header-line"
+    },
+    {
+      "Created": "2025-10-31T17:14:12Z",
+      "Title": "How do I write a query that pulls 0 minutes over time dynamically?",
+      "Tags": [
+        "sql",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806051/how-do-i-write-a-query-that-pulls-0-minutes-over-time-dynamically"
+    },
+    {
+      "Created": "2025-10-31T17:46:08Z",
+      "Title": "Logic for collision detection on a sprite not blitted on display [duplicate]",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "pygame"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806072/logic-for-collision-detection-on-a-sprite-not-blitted-on-display"
+    },
+    {
+      "Created": "2025-10-31T17:46:44Z",
+      "Title": "How can I display the colors of text inserted with color codes by another program in Bash?",
+      "Tags": [
+        "bash",
+        "colors",
+        "variable-expansion"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806074/how-can-i-display-the-colors-of-text-inserted-with-color-codes-by-another-progra"
+    },
+    {
+      "Created": "2025-10-31T17:48:50Z",
+      "Title": "I cannot figure out why I\u0027m getting zero gradients in my RNN in pytorch",
+      "Tags": [
+        "python",
+        "pytorch",
+        "recurrent-neural-network",
+        "torch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806075/i-cannot-figure-out-why-im-getting-zero-gradients-in-my-rnn-in-pytorch"
+    },
+    {
+      "Created": "2025-10-31T17:50:31Z",
+      "Title": "Problem accessing URL and catching response",
+      "Tags": [
+        "android",
+        "url"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806076/problem-accessing-url-and-catching-response"
+    },
+    {
+      "Created": "2025-10-31T17:59:26Z",
+      "Title": "How to ensure default values in Gemini/Vertex structured output?",
+      "Tags": [
+        "default",
+        "default-value",
+        "google-cloud-vertex-ai",
+        "google-gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806080/how-to-ensure-default-values-in-gemini-vertex-structured-output"
+    },
+    {
+      "Created": "2025-10-31T18:03:54Z",
+      "Title": "AVAssetExportSession ignores frameDuration 60fps and exports at 30fps, but AVPlayer playback is correct",
+      "Tags": [
+        "swift",
+        "macos",
+        "avfoundation",
+        "appkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806082/avassetexportsession-ignores-frameduration-60fps-and-exports-at-30fps-but-avpla"
+    },
+    {
+      "Created": "2025-10-31T18:04:19Z",
+      "Title": "Grabbing a cropped and rotated image from a DeviceContext canvas",
+      "Tags": [
+        "direct2d",
+        "sharpdx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806083/grabbing-a-cropped-and-rotated-image-from-a-devicecontext-canvas"
+    }
+  ]
+}

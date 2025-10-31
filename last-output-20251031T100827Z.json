@@ -1,0 +1,86 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-31T10:03:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T09:34:35Z",
+      "Title": "How to set int array pointer within for loop in c",
+      "Tags": [
+        "arrays",
+        "c",
+        "pointers",
+        "integer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805593/how-to-set-int-array-pointer-within-for-loop-in-c"
+    },
+    {
+      "Created": "2025-10-31T09:34:45Z",
+      "Title": "How to resolve error Unresolved attribute reference \u0027create\u0027 for class \u0027BaseRepository\u0027",
+      "Tags": [
+        "python",
+        "pycharm",
+        "python-typing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805594/how-to-resolve-error-unresolved-attribute-reference-create-for-class-baserepo"
+    },
+    {
+      "Created": "2025-10-31T09:37:56Z",
+      "Title": "Should I apply StandardScaler before or after train_test_split?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805603/should-i-apply-standardscaler-before-or-after-train-test-split"
+    },
+    {
+      "Created": "2025-10-31T09:46:27Z",
+      "Title": "Getting 401 Unauthorized when calling Laravel Sanctum API after Inertia login (React \u002B Laravel)",
+      "Tags": [
+        "reactjs",
+        "laravel",
+        "axios",
+        "inertiajs",
+        "laravel-sanctum"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805613/getting-401-unauthorized-when-calling-laravel-sanctum-api-after-inertia-login-r"
+    },
+    {
+      "Created": "2025-10-31T09:48:26Z",
+      "Title": "Fido2 SDK returning 50162 error during authentication",
+      "Tags": [
+        "android",
+        "google-play-services",
+        "fido",
+        "passkey"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805616/fido2-sdk-returning-50162-error-during-authentication"
+    },
+    {
+      "Created": "2025-10-31T10:00:14Z",
+      "Title": "Puppeteer occasionally generating blank PDF",
+      "Tags": [
+        "node.js",
+        "puppeteer",
+        "pdf-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805630/puppeteer-occasionally-generating-blank-pdf"
+    },
+    {
+      "Created": "2025-10-31T10:03:12Z",
+      "Title": "How to properly insert an image into an image placeholder shape in PowerPoint?",
+      "Tags": [
+        "office-js",
+        "office-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805632/how-to-properly-insert-an-image-into-an-image-placeholder-shape-in-powerpoint"
+    },
+    {
+      "Created": "2025-10-31T10:03:59Z",
+      "Title": "Add values to in-use buffer",
+      "Tags": [
+        "python",
+        "nidaqmx"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805634/add-values-to-in-use-buffer"
+    }
+  ]
+}

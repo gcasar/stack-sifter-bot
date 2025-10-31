@@ -1,0 +1,37 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-10-31T08:04:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T07:30:14Z",
+      "Title": "High-Performance ACK Generation in NDIS Filter Driver for 10 GbE FPGA Traffic",
+      "Tags": [
+        "ndis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805509/high-performance-ack-generation-in-ndis-filter-driver-for-10-gbe-fpga-traffic"
+    },
+    {
+      "Created": "2025-10-31T07:39:32Z",
+      "Title": "Purpose of WriteCommitted isolation transaction level (Golang database/sql package)",
+      "Tags": [
+        "database",
+        "go",
+        "transactions",
+        "isolation-level",
+        "transaction-isolation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805516/purpose-of-writecommitted-isolation-transaction-level-golang-database-sql-packa"
+    },
+    {
+      "Created": "2025-10-31T08:04:06Z",
+      "Title": "Custom Role Management Authentication System [closed]",
+      "Tags": [
+        "reactjs",
+        "asp.net",
+        "roles",
+        "user-roles"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805530/custom-role-management-authentication-system"
+    }
+  ]
+}

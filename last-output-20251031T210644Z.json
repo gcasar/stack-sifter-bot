@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-31T20:59:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T20:59:00Z",
+      "Title": "Power Query Concatenate and If statement",
+      "Tags": [
+        "if-statement",
+        "concatenation",
+        "powerquery"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806204/power-query-concatenate-and-if-statement"
+    },
+    {
+      "Created": "2025-10-31T20:59:29Z",
+      "Title": "What is the most effective way to share and synchronize Git hooks across a development team?",
+      "Tags": [
+        "git"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806206/what-is-the-most-effective-way-to-share-and-synchronize-git-hooks-across-a-devel"
+    }
+  ]
+}

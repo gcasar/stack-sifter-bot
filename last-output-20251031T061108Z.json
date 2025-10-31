@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-31T06:09:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T05:56:22Z",
+      "Title": "In python is there a way to get len with int data type and not and index-sized integer?",
+      "Tags": [
+        "python",
+        "class",
+        "integer",
+        "lazy-sequences"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805440/in-python-is-there-a-way-to-get-len-with-int-data-type-and-not-and-index-sized-i"
+    },
+    {
+      "Created": "2025-10-31T05:57:21Z",
+      "Title": "Why the inflation time for a custom view is so long in Android using java xml?",
+      "Tags": [
+        "java",
+        "android",
+        "performance",
+        "android-layout",
+        "layout-inflater"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805441/why-the-inflation-time-for-a-custom-view-is-so-long-in-android-using-java-xml"
+    },
+    {
+      "Created": "2025-10-31T06:04:38Z",
+      "Title": "Android Back Button / Gesture Closes App Instead of Navigating History (Dioxus 0.6 Mobile)",
+      "Tags": [
+        "android",
+        "rust",
+        "navigation",
+        "dioxus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805447/android-back-button-gesture-closes-app-instead-of-navigating-history-dioxus-0"
+    },
+    {
+      "Created": "2025-10-31T06:09:23Z",
+      "Title": "Azure DevOps Extension \u2013 Prevent recursive onFieldChanged event when updating fields programmatically",
+      "Tags": [
+        "azure",
+        "azure-devops",
+        "tfs",
+        "azure-devops-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805452/azure-devops-extension-prevent-recursive-onfieldchanged-event-when-updating-fi"
+    }
+  ]
+}

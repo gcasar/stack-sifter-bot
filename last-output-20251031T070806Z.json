@@ -1,0 +1,72 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2025-10-31T07:04:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T06:30:04Z",
+      "Title": "can I use get_or_create() in django to assign a global variable?",
+      "Tags": [
+        "python",
+        "django",
+        "django-rest-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805468/can-i-use-get-or-create-in-django-to-assign-a-global-variable"
+    },
+    {
+      "Created": "2025-10-31T06:34:33Z",
+      "Title": "GroupBy.list() Behavior: Unexpected Grouping Results with Unsorted Data",
+      "Tags": [
+        "querydsl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805471/groupby-list-behavior-unexpected-grouping-results-with-unsorted-data"
+    },
+    {
+      "Created": "2025-10-31T06:39:47Z",
+      "Title": "CMake: Linking statically with prebuilt library",
+      "Tags": [
+        "cmake"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805472/cmake-linking-statically-with-prebuilt-library"
+    },
+    {
+      "Created": "2025-10-31T06:43:31Z",
+      "Title": "bundler error when running tests, but not in development",
+      "Tags": [
+        "ruby-on-rails",
+        "mise"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805474/bundler-error-when-running-tests-but-not-in-development"
+    },
+    {
+      "Created": "2025-10-31T06:54:16Z",
+      "Title": "Docker build fails with random \u201CHash Sum mismatch\u201D errors on macOS",
+      "Tags": [
+        "docker",
+        "caching",
+        "build",
+        "debian",
+        "apt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805480/docker-build-fails-with-random-hash-sum-mismatch-errors-on-macos"
+    },
+    {
+      "Created": "2025-10-31T07:00:48Z",
+      "Title": "Unable to build GCC trunk from source",
+      "Tags": [
+        "gcc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805485/unable-to-build-gcc-trunk-from-source"
+    },
+    {
+      "Created": "2025-10-31T07:04:53Z",
+      "Title": "Hide implementation similar to pimpl without heap allocafion",
+      "Tags": [
+        "c",
+        "undefined-behavior",
+        "pimpl-idiom",
+        "type-punning"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805486/hide-implementation-similar-to-pimpl-without-heap-allocafion"
+    }
+  ]
+}

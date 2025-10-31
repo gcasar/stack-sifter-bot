@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-10-31T17:03:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T16:20:57Z",
+      "Title": "How can I figure out what code to write from a programming assignment description (Python, [closed]",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805999/how-can-i-figure-out-what-code-to-write-from-a-programming-assignment-descriptio"
+    },
+    {
+      "Created": "2025-10-31T16:31:17Z",
+      "Title": "Template doesn\u0027t update with ref() - What is wrong?",
+      "Tags": [
+        "javascript",
+        "vue.js",
+        "vuejs3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806015/template-doesnt-update-with-ref-what-is-wrong"
+    },
+    {
+      "Created": "2025-10-31T16:55:50Z",
+      "Title": "How difficult is it to make an OS compatible with various DOS programs? [closed]",
+      "Tags": [
+        "assembly",
+        "x86",
+        "operating-system",
+        "osdev",
+        "real-mode"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806034/how-difficult-is-it-to-make-an-os-compatible-with-various-dos-programs"
+    },
+    {
+      "Created": "2025-10-31T17:03:07Z",
+      "Title": "Why does MOVZ x2, #0x10, LSL 32 appear to have no effect in LEGv8 assembly?",
+      "Tags": [
+        "assembly",
+        "arm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806040/why-does-movz-x2-0x10-lsl-32-appear-to-have-no-effect-in-legv8-assembly"
+    }
+  ]
+}

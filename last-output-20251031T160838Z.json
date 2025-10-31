@@ -1,0 +1,84 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-31T16:01:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T15:06:47Z",
+      "Title": "How to reference a Nightwatch command script in test script?",
+      "Tags": [
+        "javascript",
+        "nightwatch.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805922/how-to-reference-a-nightwatch-command-script-in-test-script"
+    },
+    {
+      "Created": "2025-10-31T15:39:24Z",
+      "Title": "How to lock SQL rows when a user is editing them [closed]",
+      "Tags": [
+        "c#",
+        "sql",
+        "locking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805957/how-to-lock-sql-rows-when-a-user-is-editing-them"
+    },
+    {
+      "Created": "2025-10-31T15:50:38Z",
+      "Title": "403 Permission error when creating BigQuery link with GA4 via Admin API (v1alpha)",
+      "Tags": [
+        "google-bigquery",
+        "google-analytics-4"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805977/403-permission-error-when-creating-bigquery-link-with-ga4-via-admin-api-v1alpha"
+    },
+    {
+      "Created": "2025-10-31T15:55:27Z",
+      "Title": "Mapbox gljs map in Flutter issues with any kind of sheet/overlay",
+      "Tags": [
+        "flutter",
+        "mapbox",
+        "mapbox-gl-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805979/mapbox-gljs-map-in-flutter-issues-with-any-kind-of-sheet-overlay"
+    },
+    {
+      "Created": "2025-10-31T15:55:54Z",
+      "Title": "Why are child controls not updating to disabled when using a custom Angular control in reactive forms?",
+      "Tags": [
+        "angular",
+        "angular-forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805980/why-are-child-controls-not-updating-to-disabled-when-using-a-custom-angular-cont"
+    },
+    {
+      "Created": "2025-10-31T15:56:38Z",
+      "Title": "Replacing webcam feed in Microsoft teams",
+      "Tags": [
+        "c#",
+        "microsoft-teams",
+        "webcam",
+        "microsoft-graph-teams",
+        "teams-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805981/replacing-webcam-feed-in-microsoft-teams"
+    },
+    {
+      "Created": "2025-10-31T15:56:46Z",
+      "Title": "Pipewire device enumeration example?",
+      "Tags": [
+        "c\u002B\u002B",
+        "pipewire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805982/pipewire-device-enumeration-example"
+    },
+    {
+      "Created": "2025-10-31T16:01:42Z",
+      "Title": "How to reference other folders in Azure Devops pipelines",
+      "Tags": [
+        "azure-devops",
+        "azure-pipelines",
+        "azure-pipelines-yaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805988/how-to-reference-other-folders-in-azure-devops-pipelines"
+    }
+  ]
+}

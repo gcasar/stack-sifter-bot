@@ -1,12 +1,41 @@
 feeds:
+  # Monitor C# tag for language-specific questions
   - https://stackoverflow.com/feeds/tag?tagnames=c%23&sort=newest
+
+  # Monitor Meta Stack Overflow for platform-wide discussions
   - https://meta.stackoverflow.com/feeds
-poll_interval_minutes: 5
+
+  # You can add more feeds here
+
+poll_interval_minutes: 5  # Optional - for future scheduled runs
+
 rules:
-  - prompt: "Is this related to our new authentication system?"
+  # Rule 1: Authentication system issues
+  - prompt: "Is this related to our new authentication system or OAuth implementation?"
+    sifter_type: llm  # Options: llm (default), regex, tags, all
     notify:
       - slack: "#auth-team"
-    tags: ["authentication", "login"]
-  - prompt: "Does this post mention our API v2?"
+      - slack: "#security-alerts"  # Multiple Slack channels
+    tags: ["authentication", "login"]  # Optional pre-filter (not yet implemented)
+
+  # Rule 2: API version 2 mentions
+  - prompt: "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    sifter_type: llm
     notify:
       - slack: "#api-team"
+      - email: "api-team@example.com"  # Future: email notifications
+
+  # Rule 3: Performance and scaling issues
+  - prompt: "Is this about performance issues, slow queries, or scalability concerns?"
+    sifter_type: llm
+    notify:
+      - slack: "#performance-team"
+      - webhook: "https://example.com/webhooks/perf-alerts"  # Future: custom webhooks
+
+  # Rule 4: Example with multiple notification streams
+  - prompt: "Does this mention C# async/await patterns or Task-related issues?"
+    sifter_type: llm
+    notify:
+      - slack: "#dotnet-core"
+      - slack: "#async-experts"
+      - email: "async-review@example.com"

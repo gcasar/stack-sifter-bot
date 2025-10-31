@@ -1,0 +1,90 @@
+{
+  "TotalProcessed": 8,
+  "LastCreated": "2025-10-31T13:12:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T12:23:13Z",
+      "Title": "Swift / CoreGraphics: semicircular arc draws correctly but arrow pointer position/rotation doesn\u0027t match BMI value in exported PDF",
+      "Tags": [
+        "ios",
+        "swift",
+        "pdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805778/swift-coregraphics-semicircular-arc-draws-correctly-but-arrow-pointer-positio"
+    },
+    {
+      "Created": "2025-10-31T12:46:32Z",
+      "Title": "Proper way to weigh tag groups, based on code?",
+      "Tags": [
+        "artificial-intelligence",
+        "image-generation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805801/proper-way-to-weigh-tag-groups-based-on-code"
+    },
+    {
+      "Created": "2025-10-31T13:02:02Z",
+      "Title": "testcontainers initializing dockerclient twice - the second time on container.start",
+      "Tags": [
+        "python",
+        "python-3.x",
+        "docker",
+        "testcontainers",
+        "podman"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805820/testcontainers-initializing-dockerclient-twice-the-second-time-on-container-st"
+    },
+    {
+      "Created": "2025-10-31T13:03:21Z",
+      "Title": "InboxSDK \u0060registerComposeViewHandler\u0060 not firing for **inline** replies (works only when reply is popped out)",
+      "Tags": [
+        "javascript",
+        "google-chrome-extension",
+        "gmail",
+        "content-script",
+        "inboxsdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805823/inboxsdk-registercomposeviewhandler-not-firing-for-inline-replies-works-o"
+    },
+    {
+      "Created": "2025-10-31T13:05:49Z",
+      "Title": "Flex-shrink not working as expected in combination with very long words",
+      "Tags": [
+        "html",
+        "css",
+        "flexbox"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805826/flex-shrink-not-working-as-expected-in-combination-with-very-long-words"
+    },
+    {
+      "Created": "2025-10-31T13:09:28Z",
+      "Title": "How to align a byte array transferred from Blazor to Typescript via interop to a multiple of 2 bytes?",
+      "Tags": [
+        "c#",
+        "typescript",
+        "optimization",
+        "blazor",
+        "interop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805829/how-to-align-a-byte-array-transferred-from-blazor-to-typescript-via-interop-to-a"
+    },
+    {
+      "Created": "2025-10-31T13:09:29Z",
+      "Title": "How can I find a word in a Python string without finding the same letters in another word?",
+      "Tags": [
+        "python"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805830/how-can-i-find-a-word-in-a-python-string-without-finding-the-same-letters-in-ano"
+    },
+    {
+      "Created": "2025-10-31T13:12:35Z",
+      "Title": "Switching from MSVC to CLANG compilers",
+      "Tags": [
+        "c\u002B\u002B",
+        "visual-c\u002B\u002B",
+        "cmake",
+        "clang"
+      ],
+      "Url": "https://stackoverflow.com/questions/79805834/switching-from-msvc-to-clang-compilers"
+    }
+  ]
+}

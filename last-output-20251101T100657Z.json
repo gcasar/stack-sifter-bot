@@ -1,0 +1,51 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-01T09:55:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T09:31:26Z",
+      "Title": "Why is attribute noinline ignored by gcc-15.1.0 in this example?",
+      "Tags": [
+        "c\u002B\u002B",
+        "gcc",
+        "inline",
+        "microbenchmark",
+        "google-benchmark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806437/why-is-attribute-noinline-ignored-by-gcc-15-1-0-in-this-example"
+    },
+    {
+      "Created": "2025-11-01T09:48:26Z",
+      "Title": "How to debounce API calls in React functional component using useEffect and useRef?\u0022",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks",
+        "debouncing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806448/how-to-debounce-api-calls-in-react-functional-component-using-useeffect-and-user"
+    },
+    {
+      "Created": "2025-11-01T09:53:30Z",
+      "Title": "SVG pixel rows change size when scaled",
+      "Tags": [
+        "html",
+        "css",
+        "svg"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806452/svg-pixel-rows-change-size-when-scaled"
+    },
+    {
+      "Created": "2025-11-01T09:55:30Z",
+      "Title": "Task.Delay versus custom DispatcherTimer-based delay in WPF",
+      "Tags": [
+        "c#",
+        "wpf",
+        "asynchronous",
+        "async-await",
+        "timer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806454/task-delay-versus-custom-dispatchertimer-based-delay-in-wpf"
+    }
+  ]
+}

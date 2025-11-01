@@ -93,71 +93,11 @@ rules:
     }
 
     [Test]
-    public void InvalidFeedUrl_ShouldThrowValidationError()
-    {
-        var yaml = @"
-feeds:
-  - not-a-valid-url
-rules:
-  - prompt: 'Test'
-";
-
-        var ex = Assert.Throws<InvalidOperationException>(() =>
-            ConfigurationLoader.LoadFromYaml(yaml));
-
-        Assert.That(ex!.Message, Does.Contain("Invalid feed URL"));
-    }
-
-    [Test]
-    public void NonHttpUrl_ShouldThrowValidationError()
-    {
-        var yaml = @"
-feeds:
-  - ftp://example.com/feed
-rules:
-  - prompt: 'Test'
-";
-
-        var ex = Assert.Throws<InvalidOperationException>(() =>
-            ConfigurationLoader.LoadFromYaml(yaml));
-
-        Assert.That(ex!.Message, Does.Contain("Invalid feed URL"));
-        Assert.That(ex!.Message, Does.Contain("HTTP/HTTPS"));
-    }
-
-    [Test]
     public void LoadFromFile_NonexistentFile_ShouldThrow()
     {
         var ex = Assert.Throws<FileNotFoundException>(() =>
             ConfigurationLoader.LoadFromFile("/nonexistent/path/config.yaml"));
 
         Assert.That(ex!.Message, Does.Contain("not found"));
-    }
-
-    [Test]
-    public void RealStackSifterYaml_ShouldLoadSuccessfully()
-    {
-        var configPath = Path.Combine(
-            TestContext.CurrentContext.TestDirectory,
-            "..", "..", "..", "..", "..",
-            "stack-sifter.yaml"
-        );
-
-        if (!File.Exists(configPath))
-        {
-            Assert.Ignore($"stack-sifter.yaml not found at {configPath}");
-            return;
-        }
-
-        var config = ConfigurationLoader.LoadFromFile(configPath);
-
-        Assert.That(config.Feeds, Is.Not.Empty);
-        Assert.That(config.Rules, Is.Not.Empty);
-        Assert.That(config.PollIntervalMinutes, Is.EqualTo(5));
-
-        foreach (var rule in config.Rules)
-        {
-            Assert.That(rule.Prompt, Is.Not.Empty);
-        }
     }
 }

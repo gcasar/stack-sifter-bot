@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-11-01T06:07:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T05:25:23Z",
+      "Title": "GoRouter StatefulShellRoute : initState not called when revisiting tab",
+      "Tags": [
+        "flutter",
+        "navigation",
+        "flutter-go-router"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806341/gorouter-statefulshellroute-initstate-not-called-when-revisiting-tab"
+    },
+    {
+      "Created": "2025-11-01T05:35:12Z",
+      "Title": "How to make part of a Zod schema optional only on submit?",
+      "Tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "react-hook-form",
+        "zod"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806344/how-to-make-part-of-a-zod-schema-optional-only-on-submit"
+    },
+    {
+      "Created": "2025-11-01T05:38:46Z",
+      "Title": "Exceedingly excessive amount of blank lines before and after the information in my output file? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806345/exceedingly-excessive-amount-of-blank-lines-before-and-after-the-information-in"
+    },
+    {
+      "Created": "2025-11-01T05:56:08Z",
+      "Title": "XNNPACK on raspberry pi5",
+      "Tags": [
+        "python",
+        "raspberry-pi",
+        "embedded-linux",
+        "tflite"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806353/xnnpack-on-raspberry-pi5"
+    },
+    {
+      "Created": "2025-11-01T06:07:34Z",
+      "Title": "Why is the cURL command not working from the batch file?",
+      "Tags": [
+        "windows",
+        "batch-file",
+        "curl",
+        "cmd",
+        "command-prompt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806355/why-is-the-curl-command-not-working-from-the-batch-file"
+    }
+  ]
+}

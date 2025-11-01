@@ -32,31 +32,25 @@ public class ConfigurationLoader
     private static void ValidateConfig(StackSifterConfig config)
     {
         if (config.Feeds?.Any() != true)
-        {
             throw new InvalidOperationException("Configuration must contain at least one feed URL.");
-        }
 
         if (config.Rules?.Any() != true)
-        {
             throw new InvalidOperationException("Configuration must contain at least one sifting rule.");
-        }
 
-        var emptyPromptRule = config.Rules
-            .Select((rule, index) => new { Rule = rule, Index = index })
-            .FirstOrDefault(x => string.IsNullOrWhiteSpace(x.Rule.Prompt));
+        var invalidRule = config.Rules
+            .Select((rule, index) => new { rule, index })
+            .FirstOrDefault(x => string.IsNullOrWhiteSpace(x.rule.Prompt) ||
+                                x.rule.Notify?.Any() != true ||
+                                x.rule.Notify.Any(n => string.IsNullOrWhiteSpace(n.Slack)));
 
-        if (emptyPromptRule != null)
+        if (invalidRule != null)
         {
-            throw new InvalidOperationException($"Rule {emptyPromptRule.Index} must have a non-empty prompt.");
-        }
-
-        var emptySlackRule = config.Rules
-            .Select((rule, index) => new { Rule = rule, Index = index })
-            .FirstOrDefault(x => string.IsNullOrWhiteSpace(x.Rule.Slack));
-
-        if (emptySlackRule != null)
-        {
-            throw new InvalidOperationException($"Rule {emptySlackRule.Index} must have a non-empty slack channel.");
+            var rule = invalidRule.rule;
+            if (string.IsNullOrWhiteSpace(rule.Prompt))
+                throw new InvalidOperationException($"Rule {invalidRule.index} must have a non-empty prompt.");
+            if (rule.Notify?.Any() != true)
+                throw new InvalidOperationException($"Rule {invalidRule.index} must have at least one notification target.");
+            throw new InvalidOperationException($"Rule {invalidRule.index} must have a non-empty slack channel.");
         }
     }
 }

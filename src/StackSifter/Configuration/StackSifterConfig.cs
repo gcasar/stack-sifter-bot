@@ -10,5 +10,10 @@ public class StackSifterConfig
 public class SiftingRule
 {
     public string Prompt { get; set; } = string.Empty;
+    public List<NotificationTarget> Notify { get; set; } = new();
+}
+
+public class NotificationTarget
+{
     public string Slack { get; set; } = string.Empty;
 }

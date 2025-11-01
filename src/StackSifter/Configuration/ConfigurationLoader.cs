@@ -49,14 +49,5 @@ public class ConfigurationLoader
         {
             throw new InvalidOperationException($"Rule {emptyPromptRule.Index} must have a non-empty prompt.");
         }
-
-        var invalidFeed = config.Feeds
-            .FirstOrDefault(feed => !Uri.TryCreate(feed, UriKind.Absolute, out var uri) ||
-                                   (uri.Scheme != Uri.UriSchemeHttp && uri.Scheme != Uri.UriSchemeHttps));
-
-        if (invalidFeed != null)
-        {
-            throw new InvalidOperationException($"Invalid feed URL: {invalidFeed}. Must be a valid HTTP/HTTPS URL.");
-        }
     }
 }

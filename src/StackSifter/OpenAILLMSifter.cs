@@ -15,29 +15,15 @@ public class OpenAILLMSifter : IPostSifter
 
     private const string SystemPromptTemplate = "You are an AI assistant that answers only with 'yes' or 'no'. Evaluate if the post matches the following criteria: {0} Answer only 'yes' or 'no'.";
 
-    private List<string>? _lastFilteredTitles;
-    private bool _llmCalled;
-
     public OpenAILLMSifter(string apiKey, string criteriaPrompt, IHttpClientFactory httpClientFactory)
     {
         _apiKey = apiKey;
         _criteria = criteriaPrompt;
         _httpClientFactory = httpClientFactory;
-        _llmCalled = false;
-    }
-
-    // For testability, allow setting the filtered titles directly (mocking LLM)
-    public void SetFilteredTitlesForTest(List<string> titles)
-    {
-        _lastFilteredTitles = titles;
-        _llmCalled = true;
     }
 
     public async Task<bool> IsMatch(Post post)
     {
-        // For test, if SetFilteredTitlesForTest was called, use that
-        if (_llmCalled && _lastFilteredTitles != null)
-            return _lastFilteredTitles.Contains(post.Title);
 
         // Prepare the prompt for the LLM
         var systemPrompt = string.Format(SystemPromptTemplate, _criteria);

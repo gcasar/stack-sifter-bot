@@ -1,0 +1,35 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-01T01:24:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T00:38:00Z",
+      "Title": "Determine used micro architecture level in executable linkable format (ELF) on x86",
+      "Tags": [
+        "x86",
+        "elf",
+        "instruction-set",
+        "micro-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806287/determine-used-micro-architecture-level-in-executable-linkable-format-elf-on-x"
+    },
+    {
+      "Created": "2025-11-01T01:04:45Z",
+      "Title": "How to make Doxygen show warnings on undocumented code? [duplicate]",
+      "Tags": [
+        "c\u002B\u002B",
+        "doxygen"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806290/how-to-make-doxygen-show-warnings-on-undocumented-code"
+    },
+    {
+      "Created": "2025-11-01T01:24:14Z",
+      "Title": "GlassEffectContainer disables Menu morph animation",
+      "Tags": [
+        "swiftui",
+        "ios26"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806292/glasseffectcontainer-disables-menu-morph-animation"
+    }
+  ]
+}

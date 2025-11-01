@@ -15,8 +15,8 @@ public class WhenSiftingWithOpenAILLM
         var apiKey = "fake-api-key";
         var yesResponsePath = "StackSifter.Tests.TestData.openai_response_yes_snapshot.json";
         var handlerYes = new MockHttpMessageHandler(yesResponsePath);
-        var httpClientYes = new HttpClient(handlerYes);
-        var llmSifterYes = new OpenAILLMSifter(apiKey, "The post is about OpenAI", httpClientYes);
+        var httpClientFactory = new MockHttpClientFactory(handlerYes);
+        var llmSifterYes = new OpenAILLMSifter(apiKey, "The post is about OpenAI", httpClientFactory);
 
         // Act
         var isMatch = await llmSifterYes.IsMatch(post);
@@ -33,8 +33,8 @@ public class WhenSiftingWithOpenAILLM
         var apiKey = "fake-api-key";
         var noResponsePath = "StackSifter.Tests.TestData.openai_response_no_snapshot.json";
         var handlerNo = new MockHttpMessageHandler(noResponsePath);
-        var httpClientNo = new HttpClient(handlerNo);
-        var llmSifterNo = new OpenAILLMSifter(apiKey, "The post is about OpenAI", httpClientNo);
+        var httpClientFactory = new MockHttpClientFactory(handlerNo);
+        var llmSifterNo = new OpenAILLMSifter(apiKey, "The post is about OpenAI", httpClientFactory);
 
         // Act
         var isMatch = await llmSifterNo.IsMatch(post);

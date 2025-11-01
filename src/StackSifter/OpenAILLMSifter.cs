@@ -11,18 +11,18 @@ public class OpenAILLMSifter : IPostSifter
 {
     private readonly string _apiKey;
     private readonly string _criteria;
-    private readonly HttpClient _httpClient;
+    private readonly IHttpClientFactory _httpClientFactory;
 
     private const string SystemPromptTemplate = "You are an AI assistant that answers only with 'yes' or 'no'. Evaluate if the post matches the following criteria: {0} Answer only 'yes' or 'no'.";
 
     private List<string>? _lastFilteredTitles;
     private bool _llmCalled;
 
-    public OpenAILLMSifter(string apiKey, string criteriaPrompt, HttpClient? httpClient = null)
+    public OpenAILLMSifter(string apiKey, string criteriaPrompt, IHttpClientFactory httpClientFactory)
     {
         _apiKey = apiKey;
         _criteria = criteriaPrompt;
-        _httpClient = httpClient ?? new HttpClient();
+        _httpClientFactory = httpClientFactory;
         _llmCalled = false;
     }
 
@@ -43,13 +43,13 @@ public class OpenAILLMSifter : IPostSifter
         var systemPrompt = string.Format(SystemPromptTemplate, _criteria);
         var requestBody = new
         {
-            model = "gpt-3.5-turbo",
+            model = "gpt-4o-mini",
             messages = new[]
             {
                 new { role = "system", content = systemPrompt },
                 new { role = "user", content = $"Title: {post.Title}\nBrief: {post.Brief}" }
             },
-            max_tokens = 1,
+            max_tokens = 5,
             temperature = 0.0,
             n = 1,
             stop = "\n"
@@ -57,9 +57,11 @@ public class OpenAILLMSifter : IPostSifter
 
         var json = JsonSerializer.Serialize(requestBody);
         var content = new StringContent(json, Encoding.UTF8, "application/json");
-        _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _apiKey);
 
-        var response = await _httpClient.PostAsync("https://api.openai.com/v1/chat/completions", content);
+        var httpClient = _httpClientFactory.CreateClient();
+        httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _apiKey);
+
+        var response = await httpClient.PostAsync("https://api.openai.com/v1/chat/completions", content);
         response.EnsureSuccessStatusCode();
         var responseString = await response.Content.ReadAsStringAsync();
 

@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-01T10:53:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T10:11:55Z",
+      "Title": "fatal: unable to access and could not resolve host . I am just trying to push my first file on git",
+      "Tags": [
+        "git",
+        "github"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806461/fatal-unable-to-access-and-could-not-resolve-host-i-am-just-trying-to-push-my"
+    },
+    {
+      "Created": "2025-11-01T10:35:46Z",
+      "Title": "How to display a label as message window in Motif MainWindow",
+      "Tags": [
+        "c",
+        "unix",
+        "x11",
+        "xlib",
+        "motif"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806476/how-to-display-a-label-as-message-window-in-motif-mainwindow"
+    },
+    {
+      "Created": "2025-11-01T10:53:18Z",
+      "Title": "Why is Eigen C\u002B\u002B int matrix multiplication 10x slower than float multiplication (even slower than naive n^3 algorithm)",
+      "Tags": [
+        "c\u002B\u002B",
+        "optimization",
+        "eigen",
+        "matrix-multiplication",
+        "blas"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806482/why-is-eigen-c-int-matrix-multiplication-10x-slower-than-float-multiplication"
+    }
+  ]
+}

@@ -1,36 +1,77 @@
-﻿using StackSifter.Feed;
 using StackSifter;
+using StackSifter.Configuration;
 using System.Text.Json;
 
 // Require OpenAI API key from environment variable
-var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY") ?? throw new InvalidOperationException("OPENAI_API_KEY environment variable is not set.");
+var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY")
+    ?? throw new InvalidOperationException("OPENAI_API_KEY environment variable is not set.");
 
-// Require UTC timestamp as argument
-if (args.Length == 0 || !DateTime.TryParse(args[0], null, System.Globalization.DateTimeStyles.AdjustToUniversal | System.Globalization.DateTimeStyles.AssumeUniversal, out var since))
+// Parse arguments
+if (args.Length < 2)
 {
-    Console.WriteLine("Please provide a UTC timestamp as the first argument (e.g., 2025-07-05T12:34:56Z)");
-    return;
+    PrintUsage();
+    return 1;
 }
-// Optionally accept feedUrl as second argument
-string? feedUrl = args.Length > 1 ? args[1] : null;
 
-// Wire things up!
-IPostsFeed feed = new StackOverflowRSSFeed(feedUrl: feedUrl);
-// Configure OpenAILLMSifter to filter for Python or C code questions
-var criteriaPrompt = "Does this post contain a question about Python or C code?";
-var sifter = new OpenAILLMSifter(apiKey, criteriaPrompt);
-var service = new PostsProcessingService(feed, sifter);
-
-// Run the actual processing
-var posts = await service.FetchAndFilterPostsAsync(since);
-var minimalPosts = posts.Select(p => new { Created = p.Published, p.Title, p.Tags, p.Url }).ToList();
-
-var metadata = new
+var configPath = args[0];
+if (!DateTime.TryParse(args[1], null, System.Globalization.DateTimeStyles.AdjustToUniversal | System.Globalization.DateTimeStyles.AssumeUniversal, out var since))
 {
-    TotalProcessed = posts.Count,
-    LastCreated = posts.Count > 0 ? posts.Max(p => p.Published) : (DateTime?)null,
-    MatchingPosts = minimalPosts
-};
+    Console.Error.WriteLine($"Invalid timestamp: {args[1]}");
+    PrintUsage();
+    return 1;
+}
 
-var json = JsonSerializer.Serialize(metadata, new JsonSerializerOptions { WriteIndented = true });
-Console.WriteLine(json);
+try
+{
+    Console.Error.WriteLine($"Loading configuration from: {configPath}");
+    var config = ConfigurationLoader.LoadFromFile(configPath);
+
+    Console.Error.WriteLine($"Processing {config.Feeds.Count} feeds with {config.Rules.Count} rules...");
+
+    var service = new ConfigurableStackSifterService(config, apiKey);
+    var result = await service.ProcessAsync(since);
+
+    // Output results as JSON
+    var output = new
+    {
+        TotalProcessed = result.TotalProcessed,
+        LastCreated = result.LastCreated,
+        MatchingPosts = result.Matches.Select(m => new
+        {
+            Created = m.Post.Published,
+            m.Post.Title,
+            m.Post.Tags,
+            m.Post.Url,
+            MatchReason = m.MatchReason
+        }).ToList()
+    };
+
+    var json = JsonSerializer.Serialize(output, new JsonSerializerOptions { WriteIndented = true });
+    Console.WriteLine(json);
+
+    return 0;
+}
+catch (Exception ex)
+{
+    Console.Error.WriteLine($"Error: {ex.Message}");
+    if (ex.InnerException != null)
+    {
+        Console.Error.WriteLine($"  Inner: {ex.InnerException.Message}");
+    }
+    return 1;
+}
+
+static void PrintUsage()
+{
+    Console.WriteLine("Usage: stack-sifter <config.yaml> <timestamp>");
+    Console.WriteLine();
+    Console.WriteLine("Arguments:");
+    Console.WriteLine("  <config.yaml>   Path to YAML configuration file");
+    Console.WriteLine("  <timestamp>     UTC timestamp (e.g., 2025-07-05T12:34:56Z)");
+    Console.WriteLine();
+    Console.WriteLine("Environment variables:");
+    Console.WriteLine("  OPENAI_API_KEY  Required - OpenAI API key for LLM sifting");
+    Console.WriteLine();
+    Console.WriteLine("Example:");
+    Console.WriteLine("  stack-sifter stack-sifter.yaml 2025-07-05T12:00:00Z");
+}

@@ -16,7 +16,6 @@ public class OpenAILLMSifter : IPostSifter
     private const string SystemPromptTemplate = "You are an AI assistant that answers only with 'yes' or 'no'. Evaluate if the post matches the following criteria: {0} Answer only 'yes' or 'no'.";
 
     private List<string>? _lastFilteredTitles;
-    private List<Post>? _lastPosts;
     private bool _llmCalled;
 
     public OpenAILLMSifter(string apiKey, string criteriaPrompt, HttpClient? httpClient = null)

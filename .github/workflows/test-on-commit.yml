@@ -1,11 +1,8 @@
-# This workflow runs tests on every push and pull request
+# This workflow runs tests on every push
 name: Test StackSifter on Commit
 
 on:
   push:
-    branches:
-      - '**'
-  pull_request:
     branches:
       - '**'
 

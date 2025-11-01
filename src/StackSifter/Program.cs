@@ -1,6 +1,7 @@
 using StackSifter;
 using StackSifter.Configuration;
 using System.Text.Json;
+using Microsoft.Extensions.DependencyInjection;
 
 // Require OpenAI API key from environment variable
 var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY")
@@ -28,7 +29,13 @@ try
 
     Console.Error.WriteLine($"Processing {config.Feeds.Count} feeds with {config.Rules.Count} rules...");
 
-    var service = new ConfigurableStackSifterService(config, apiKey);
+    // Setup dependency injection
+    var services = new ServiceCollection();
+    services.AddHttpClient();
+    var serviceProvider = services.BuildServiceProvider();
+    var httpClientFactory = serviceProvider.GetRequiredService<IHttpClientFactory>();
+
+    var service = new ConfigurableStackSifterService(config, apiKey, httpClientFactory);
     var result = await service.ProcessAsync(since);
 
     // Output results as JSON

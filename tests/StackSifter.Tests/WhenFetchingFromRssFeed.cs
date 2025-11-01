@@ -12,8 +12,8 @@ public class WhenFetchingFromRssFeed
         var lastRun = new DateTime(2024, 7, 1, 0, 0, 0, DateTimeKind.Utc);
         var resourceName = "StackSifter.Tests.TestData.meta_stackoverflow_feed.xml";
         var handler = new MockHttpMessageHandler(resourceName);
-        var httpClient = new HttpClient(handler);
-        var service = new StackOverflowRSSFeed(httpClient);
+        var httpClientFactory = new MockHttpClientFactory(handler);
+        var service = new StackOverflowRSSFeed(httpClientFactory);
 
         // Act
         var posts = await service.FetchPostsSinceAsync(lastRun);
@@ -35,8 +35,8 @@ public class WhenFetchingFromRssFeed
         var lastRun = new DateTime(2100, 1, 1, 0, 0, 0, DateTimeKind.Utc);
         var resourceName = "StackSifter.Tests.TestData.meta_stackoverflow_feed.xml";
         var handler = new MockHttpMessageHandler(resourceName);
-        var httpClient = new HttpClient(handler);
-        var service = new StackOverflowRSSFeed(httpClient);
+        var httpClientFactory = new MockHttpClientFactory(handler);
+        var service = new StackOverflowRSSFeed(httpClientFactory);
 
         // Act
         var posts = await service.FetchPostsSinceAsync(lastRun);
@@ -51,8 +51,8 @@ public class WhenFetchingFromRssFeed
         // Arrange: use a feed with no <entry>
         var emptyFeed = "<?xml version=\"1.0\"?><feed xmlns=\"http://www.w3.org/2005/Atom\"></feed>";
         var handler = new MockHttpMessageHandler(emptyFeed, isRawXml: true);
-        var httpClient = new HttpClient(handler);
-        var service = new StackOverflowRSSFeed(httpClient);
+        var httpClientFactory = new MockHttpClientFactory(handler);
+        var service = new StackOverflowRSSFeed(httpClientFactory);
 
         // Act
         var posts = await service.FetchPostsSinceAsync(DateTime.MinValue);
@@ -67,8 +67,8 @@ public class WhenFetchingFromRssFeed
         // Arrange: feed with &bull; entity
         var xml = "<?xml version=\"1.0\"?><feed xmlns=\"http://www.w3.org/2005/Atom\"><entry><title>Test &bull; Post</title><published>2024-07-02T12:00:00Z</published></entry></feed>";
         var handler = new MockHttpMessageHandler(xml, isRawXml: true);
-        var httpClient = new HttpClient(handler);
-        var service = new StackOverflowRSSFeed(httpClient);
+        var httpClientFactory = new MockHttpClientFactory(handler);
+        var service = new StackOverflowRSSFeed(httpClientFactory);
 
         // Act
         var posts = await service.FetchPostsSinceAsync(DateTime.MinValue);

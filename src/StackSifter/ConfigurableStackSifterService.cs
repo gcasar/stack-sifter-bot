@@ -7,13 +7,13 @@ public class ConfigurableStackSifterService
 {
     private readonly StackSifterConfig _config;
     private readonly string _openAiApiKey;
-    private readonly HttpClient _httpClient;
+    private readonly IHttpClientFactory _httpClientFactory;
 
-    public ConfigurableStackSifterService(StackSifterConfig config, string openAiApiKey, HttpClient? httpClient = null)
+    public ConfigurableStackSifterService(StackSifterConfig config, string openAiApiKey, IHttpClientFactory httpClientFactory)
     {
         _config = config;
         _openAiApiKey = openAiApiKey;
-        _httpClient = httpClient ?? new HttpClient();
+        _httpClientFactory = httpClientFactory;
     }
 
     public async Task<ProcessingResult> ProcessAsync(DateTime since)
@@ -23,14 +23,14 @@ public class ConfigurableStackSifterService
             .Select(rule => new
             {
                 Rule = rule,
-                Sifter = new OpenAILLMSifter(_openAiApiKey, rule.Prompt, _httpClient)
+                Sifter = new OpenAILLMSifter(_openAiApiKey, rule.Prompt, _httpClientFactory)
             })
             .ToList();
 
         var feedResults = await Task.WhenAll(
             _config.Feeds.Select(async feedUrl =>
             {
-                var feed = new StackOverflowRSSFeed(feedUrl: feedUrl);
+                var feed = new StackOverflowRSSFeed(_httpClientFactory, feedUrl: feedUrl);
                 var posts = await feed.FetchPostsSinceAsync(since);
 
                 var matches = await Task.WhenAll(

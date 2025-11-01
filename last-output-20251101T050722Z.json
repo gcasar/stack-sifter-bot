@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-01T05:01:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T04:14:57Z",
+      "Title": "\u00BFPor qu\u00E9 mi propiedad computed no se actualiza al modificar un valor dentro de un array en Vue.js? [closed]",
+      "Tags": [
+        "vue.js",
+        "vuejs3",
+        "watch"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806325/por-qu%c3%a9-mi-propiedad-computed-no-se-actualiza-al-modificar-un-valor-dentro-de-u"
+    },
+    {
+      "Created": "2025-11-01T04:44:14Z",
+      "Title": "How can I update values in a nested JSON file using Python?",
+      "Tags": [
+        "python",
+        "json",
+        "dictionary",
+        "data-structures"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806333/how-can-i-update-values-in-a-nested-json-file-using-python"
+    },
+    {
+      "Created": "2025-11-01T04:51:06Z",
+      "Title": "Expression.Lambda().Compile() throwing InvalidProgramException",
+      "Tags": [
+        ".net",
+        "clr",
+        "invalidprogramexception"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806334/expression-lambda-compile-throwing-invalidprogramexception"
+    },
+    {
+      "Created": "2025-11-01T05:01:23Z",
+      "Title": "intl extension not found in Xampp in Macbook to work with code igniter",
+      "Tags": [
+        "php",
+        "codeigniter",
+        "xampp",
+        "codeigniter-4",
+        "intl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806337/intl-extension-not-found-in-xampp-in-macbook-to-work-with-code-igniter"
+    }
+  ]
+}

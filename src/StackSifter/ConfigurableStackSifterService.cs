@@ -23,7 +23,7 @@ public class ConfigurableStackSifterService
         // Process each feed
         foreach (var feedUrl in _config.Feeds)
         {
-            var feed = new StackOverflowRSSFeed(feedUrl);
+            var feed = new StackOverflowRSSFeed(feedUrl: feedUrl);
             var posts = await feed.FetchPostsSinceAsync(since);
 
             totalProcessed += posts.Count;

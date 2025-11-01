@@ -16,46 +16,46 @@ public class ConfigurableStackSifterService
 
     public async Task<ProcessingResult> ProcessAsync(DateTime since)
     {
-        var allMatches = new List<MatchedPost>();
-        var totalProcessed = 0;
-        DateTime? lastCreated = null;
-
-        // Process each feed
-        foreach (var feedUrl in _config.Feeds)
-        {
-            var feed = new StackOverflowRSSFeed(feedUrl: feedUrl);
-            var posts = await feed.FetchPostsSinceAsync(since);
-
-            totalProcessed += posts.Count;
-
-            // Track the most recent post timestamp across all feeds
-            if (posts.Count > 0)
+        var feedResults = await Task.WhenAll(
+            _config.Feeds.Select(async feedUrl =>
             {
-                var feedLastCreated = posts.Max(p => p.Published);
-                if (!lastCreated.HasValue || feedLastCreated > lastCreated.Value)
+                var feed = new StackOverflowRSSFeed(feedUrl: feedUrl);
+                var posts = await feed.FetchPostsSinceAsync(since);
+
+                var matches = await Task.WhenAll(
+                    from rule in _config.Rules
+                    from post in posts
+                    select CheckMatchAsync(post, rule)
+                );
+
+                return new
                 {
-                    lastCreated = feedLastCreated;
-                }
-            }
+                    Posts = posts,
+                    Matches = matches.Where(m => m != null).Cast<MatchedPost>().ToList()
+                };
+            })
+        );
 
-            // Apply each rule to each post
-            foreach (var rule in _config.Rules)
-            {
-                var sifter = new OpenAILLMSifter(_openAiApiKey, rule.Prompt);
+        var allMatches = feedResults.SelectMany(r => r.Matches).ToList();
+        var totalProcessed = feedResults.Sum(r => r.Posts.Count);
+        var lastCreated = feedResults
+            .SelectMany(r => r.Posts)
+            .Select(p => p.Published)
+            .DefaultIfEmpty()
+            .Max();
 
-                foreach (var post in posts)
-                {
-                    var isMatch = await sifter.IsMatch(post);
+        return new ProcessingResult(
+            totalProcessed,
+            lastCreated == default ? null : lastCreated,
+            allMatches
+        );
+    }
 
-                    if (isMatch)
-                    {
-                        allMatches.Add(new MatchedPost(post, rule.Prompt));
-                    }
-                }
-            }
-        }
-
-        return new ProcessingResult(totalProcessed, lastCreated, allMatches);
+    private async Task<MatchedPost?> CheckMatchAsync(Post post, SiftingRule rule)
+    {
+        var sifter = new OpenAILLMSifter(_openAiApiKey, rule.Prompt);
+        var isMatch = await sifter.IsMatch(post);
+        return isMatch ? new MatchedPost(post, rule.Prompt) : null;
     }
 }
 

@@ -32,7 +32,7 @@ try
     // Setup dependency injection
     var services = new ServiceCollection();
     services.AddHttpClient();
-    var serviceProvider = services.BuildServiceProvider();
+    using var serviceProvider = services.BuildServiceProvider();
     var httpClientFactory = serviceProvider.GetRequiredService<IHttpClientFactory>();
 
     var service = new ConfigurableStackSifterService(config, apiKey, httpClientFactory);

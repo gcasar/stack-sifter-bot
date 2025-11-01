@@ -7,15 +7,26 @@ public class ConfigurableStackSifterService
 {
     private readonly StackSifterConfig _config;
     private readonly string _openAiApiKey;
+    private readonly HttpClient _httpClient;
 
-    public ConfigurableStackSifterService(StackSifterConfig config, string openAiApiKey)
+    public ConfigurableStackSifterService(StackSifterConfig config, string openAiApiKey, HttpClient? httpClient = null)
     {
         _config = config;
         _openAiApiKey = openAiApiKey;
+        _httpClient = httpClient ?? new HttpClient();
     }
 
     public async Task<ProcessingResult> ProcessAsync(DateTime since)
     {
+        // Create one sifter per rule (reused for all posts)
+        var sifters = _config.Rules
+            .Select(rule => new
+            {
+                Rule = rule,
+                Sifter = new OpenAILLMSifter(_openAiApiKey, rule.Prompt, _httpClient)
+            })
+            .ToList();
+
         var feedResults = await Task.WhenAll(
             _config.Feeds.Select(async feedUrl =>
             {
@@ -23,9 +34,9 @@ public class ConfigurableStackSifterService
                 var posts = await feed.FetchPostsSinceAsync(since);
 
                 var matches = await Task.WhenAll(
-                    from rule in _config.Rules
+                    from ruleSifter in sifters
                     from post in posts
-                    select CheckMatchAsync(post, rule)
+                    select CheckMatchAsync(post, ruleSifter.Rule, ruleSifter.Sifter)
                 );
 
                 return new
@@ -51,9 +62,8 @@ public class ConfigurableStackSifterService
         );
     }
 
-    private async Task<MatchedPost?> CheckMatchAsync(Post post, SiftingRule rule)
+    private async Task<MatchedPost?> CheckMatchAsync(Post post, SiftingRule rule, IPostSifter sifter)
     {
-        var sifter = new OpenAILLMSifter(_openAiApiKey, rule.Prompt);
         var isMatch = await sifter.IsMatch(post);
         return isMatch ? new MatchedPost(post, rule.Prompt) : null;
     }

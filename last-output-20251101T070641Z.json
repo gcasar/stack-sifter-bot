@@ -1,0 +1,59 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-11-01T07:03:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T06:29:50Z",
+      "Title": "Best practice for updating subscription status in Expo app with Razorpay (webhook delay issue) [closed]",
+      "Tags": [
+        "javascript",
+        "react-native",
+        "expo",
+        "stripe-payments",
+        "razorpay"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806362/best-practice-for-updating-subscription-status-in-expo-app-with-razorpay-webhoo"
+    },
+    {
+      "Created": "2025-11-01T06:50:53Z",
+      "Title": "C# TCP Server with System.IO.Pipelines Closes Connection Prematurely, Causing Client EOF Error",
+      "Tags": [
+        "c#",
+        "network-programming",
+        "tcp",
+        ".net-8.0",
+        "system.io.pipelines"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806369/c-sharp-tcp-server-with-system-io-pipelines-closes-connection-prematurely-causi"
+    },
+    {
+      "Created": "2025-11-01T06:54:40Z",
+      "Title": "Cython cannot access cdef attributes from one cdef class to another",
+      "Tags": [
+        "python",
+        "cython"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806370/cython-cannot-access-cdef-attributes-from-one-cdef-class-to-another"
+    },
+    {
+      "Created": "2025-11-01T06:57:29Z",
+      "Title": "Improving the training and f1, dice and IoU score of U-net architecture model",
+      "Tags": [
+        "neural-network",
+        "semantic-segmentation",
+        "unet-neural-network"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806371/improving-the-training-and-f1-dice-and-iou-score-of-u-net-architecture-model"
+    },
+    {
+      "Created": "2025-11-01T07:03:28Z",
+      "Title": "QPalette.ColorRole.ButtonText not updating on hover and checked",
+      "Tags": [
+        "qt",
+        "pyqt",
+        "pyside6"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806377/qpalette-colorrole-buttontext-not-updating-on-hover-and-checked"
+    }
+  ]
+}

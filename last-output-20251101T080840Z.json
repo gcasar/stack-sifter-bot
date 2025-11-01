@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-01T07:59:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T07:34:49Z",
+      "Title": "SQLGlot: how to raise on unsupported write features?",
+      "Tags": [
+        "sql",
+        "sqlglot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806384/sqlglot-how-to-raise-on-unsupported-write-features"
+    },
+    {
+      "Created": "2025-11-01T07:50:05Z",
+      "Title": "Why doesn\u2019t the UI update after an async call completes?",
+      "Tags": [
+        "javascript",
+        "angular"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806391/why-doesn-t-the-ui-update-after-an-async-call-completes"
+    },
+    {
+      "Created": "2025-11-01T07:59:07Z",
+      "Title": "Why does my Next.js app\u2019s performance drop significantly when using dynamic routes with large datasets and server-side rendering (SSR)?",
+      "Tags": [
+        "reactjs",
+        "performance",
+        "next.js",
+        "server-side-rendering",
+        "vercel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806398/why-does-my-next-js-app-s-performance-drop-significantly-when-using-dynamic-rout"
+    }
+  ]
+}

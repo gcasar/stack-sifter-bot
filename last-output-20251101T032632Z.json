@@ -1,0 +1,47 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-01T03:10:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T02:51:47Z",
+      "Title": "Prisma: \u201CCannot find module \u0027./generated/prisma/client\u0027\u201D after generating the schema",
+      "Tags": [
+        "node.js",
+        "database",
+        "postgresql",
+        "prisma"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806310/prisma-cannot-find-module-generated-prisma-client-after-generating-the-sc"
+    },
+    {
+      "Created": "2025-11-01T03:02:26Z",
+      "Title": "Optimal way to upload large files (up to 10GB) in GCS from frontend client",
+      "Tags": [
+        "file",
+        "google-cloud-platform",
+        "file-upload",
+        "google-cloud-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806312/optimal-way-to-upload-large-files-up-to-10gb-in-gcs-from-frontend-client"
+    },
+    {
+      "Created": "2025-11-01T03:04:20Z",
+      "Title": "Next.js 15 Middleware: \u0022Cannot find the middleware module\u0022 error with NextAuth.js",
+      "Tags": [
+        "node.js",
+        "next.js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806313/next-js-15-middleware-cannot-find-the-middleware-module-error-with-nextauth-j"
+    },
+    {
+      "Created": "2025-11-01T03:10:56Z",
+      "Title": "Postgres JSON or JSONB to store game\u0027s character customization data",
+      "Tags": [
+        "json",
+        "postgresql",
+        "jsonb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806315/postgres-json-or-jsonb-to-store-games-character-customization-data"
+    }
+  ]
+}

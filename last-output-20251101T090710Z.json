@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-01T08:56:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-01T08:56:44Z",
+      "Title": "Configuring a NSTextView so it behaves as a NSTextField (same background and focus ring)?",
+      "Tags": [
+        "objective-c",
+        "macos",
+        "appkit",
+        "nstextview"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806425/configuring-a-nstextview-so-it-behaves-as-a-nstextfield-same-background-and-foc"
+    }
+  ]
+}

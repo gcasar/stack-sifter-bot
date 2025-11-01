@@ -49,5 +49,14 @@ public class ConfigurationLoader
         {
             throw new InvalidOperationException($"Rule {emptyPromptRule.Index} must have a non-empty prompt.");
         }
+
+        var emptySlackRule = config.Rules
+            .Select((rule, index) => new { Rule = rule, Index = index })
+            .FirstOrDefault(x => string.IsNullOrWhiteSpace(x.Rule.Slack));
+
+        if (emptySlackRule != null)
+        {
+            throw new InvalidOperationException($"Rule {emptySlackRule.Index} must have a non-empty slack channel.");
+        }
     }
 }

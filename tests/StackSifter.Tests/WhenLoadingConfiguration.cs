@@ -15,6 +15,7 @@ feeds:
 poll_interval_minutes: 5
 rules:
   - prompt: 'Is this related to authentication?'
+    slack: '#auth-team'
 ";
 
         var config = ConfigurationLoader.LoadFromYaml(yaml);
@@ -24,6 +25,7 @@ rules:
         Assert.That(config.PollIntervalMinutes, Is.EqualTo(5));
         Assert.That(config.Rules, Has.Count.EqualTo(1));
         Assert.That(config.Rules[0].Prompt, Is.EqualTo("Is this related to authentication?"));
+        Assert.That(config.Rules[0].Slack, Is.EqualTo("#auth-team"));
     }
 
     [Test]
@@ -34,16 +36,22 @@ feeds:
   - https://stackoverflow.com/feeds
 rules:
   - prompt: 'First rule'
+    slack: '#team1'
   - prompt: 'Second rule'
+    slack: '#team2'
   - prompt: 'Third rule'
+    slack: '#team3'
 ";
 
         var config = ConfigurationLoader.LoadFromYaml(yaml);
 
         Assert.That(config.Rules, Has.Count.EqualTo(3));
         Assert.That(config.Rules[0].Prompt, Is.EqualTo("First rule"));
+        Assert.That(config.Rules[0].Slack, Is.EqualTo("#team1"));
         Assert.That(config.Rules[1].Prompt, Is.EqualTo("Second rule"));
+        Assert.That(config.Rules[1].Slack, Is.EqualTo("#team2"));
         Assert.That(config.Rules[2].Prompt, Is.EqualTo("Third rule"));
+        Assert.That(config.Rules[2].Slack, Is.EqualTo("#team3"));
     }
 
     [Test]
@@ -53,6 +61,7 @@ rules:
 feeds: []
 rules:
   - prompt: 'Test'
+    slack: '#test'
 ";
 
         var ex = Assert.Throws<InvalidOperationException>(() =>
@@ -84,12 +93,46 @@ feeds:
   - https://stackoverflow.com/feeds
 rules:
   - prompt: ''
+    slack: '#test'
 ";
 
         var ex = Assert.Throws<InvalidOperationException>(() =>
             ConfigurationLoader.LoadFromYaml(yaml));
 
         Assert.That(ex!.Message, Does.Contain("non-empty prompt"));
+    }
+
+    [Test]
+    public void EmptySlack_ShouldThrowValidationError()
+    {
+        var yaml = @"
+feeds:
+  - https://stackoverflow.com/feeds
+rules:
+  - prompt: 'Test'
+    slack: ''
+";
+
+        var ex = Assert.Throws<InvalidOperationException>(() =>
+            ConfigurationLoader.LoadFromYaml(yaml));
+
+        Assert.That(ex!.Message, Does.Contain("non-empty slack channel"));
+    }
+
+    [Test]
+    public void MissingSlack_ShouldThrowValidationError()
+    {
+        var yaml = @"
+feeds:
+  - https://stackoverflow.com/feeds
+rules:
+  - prompt: 'Test'
+";
+
+        var ex = Assert.Throws<InvalidOperationException>(() =>
+            ConfigurationLoader.LoadFromYaml(yaml));
+
+        Assert.That(ex!.Message, Does.Contain("non-empty slack channel"));
     }
 
     [Test]

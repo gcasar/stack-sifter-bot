@@ -6,6 +6,13 @@ poll_interval_minutes: 5
 
 rules:
   - prompt: "Is this related to our new authentication system or OAuth implementation?"
+    slack: "#auth-team"
+
   - prompt: "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    slack: "#api-team"
+
   - prompt: "Is this about performance issues, slow queries, or scalability concerns?"
+    slack: "#performance-team"
+
   - prompt: "Does this mention C# async/await patterns or Task-related issues?"
+    slack: "#dotnet-core"

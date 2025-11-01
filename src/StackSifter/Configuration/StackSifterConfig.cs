@@ -10,4 +10,5 @@ public class StackSifterConfig
 public class SiftingRule
 {
     public string Prompt { get; set; } = string.Empty;
+    public string Slack { get; set; } = string.Empty;
 }

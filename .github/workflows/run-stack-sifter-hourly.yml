@@ -44,7 +44,7 @@ jobs:
           git restore last-run.txt || true
 
           # Run and capture output to determine the last processed timestamp
-          OUTPUT=$(dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- "$PREV")
+          OUTPUT=$(dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- stack-sifter.yaml "$PREV")
           echo "$OUTPUT"
 
           # Extract the LastCreated timestamp from the JSON output, or use PREV if no output

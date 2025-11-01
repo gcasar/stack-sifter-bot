@@ -31,34 +31,32 @@ public class ConfigurationLoader
 
     private static void ValidateConfig(StackSifterConfig config)
     {
-        if (config.Feeds == null || config.Feeds.Count == 0)
+        if (config.Feeds?.Any() != true)
         {
             throw new InvalidOperationException("Configuration must contain at least one feed URL.");
         }
 
-        if (config.Rules == null || config.Rules.Count == 0)
+        if (config.Rules?.Any() != true)
         {
             throw new InvalidOperationException("Configuration must contain at least one sifting rule.");
         }
 
-        for (int i = 0; i < config.Rules.Count; i++)
-        {
-            var rule = config.Rules[i];
+        var emptyPromptRule = config.Rules
+            .Select((rule, index) => new { Rule = rule, Index = index })
+            .FirstOrDefault(x => string.IsNullOrWhiteSpace(x.Rule.Prompt));
 
-            if (string.IsNullOrWhiteSpace(rule.Prompt))
-            {
-                throw new InvalidOperationException($"Rule {i} must have a non-empty prompt.");
-            }
+        if (emptyPromptRule != null)
+        {
+            throw new InvalidOperationException($"Rule {emptyPromptRule.Index} must have a non-empty prompt.");
         }
 
-        // Validate feed URLs are properly formatted
-        foreach (var feed in config.Feeds)
+        var invalidFeed = config.Feeds
+            .FirstOrDefault(feed => !Uri.TryCreate(feed, UriKind.Absolute, out var uri) ||
+                                   (uri.Scheme != Uri.UriSchemeHttp && uri.Scheme != Uri.UriSchemeHttps));
+
+        if (invalidFeed != null)
         {
-            if (!Uri.TryCreate(feed, UriKind.Absolute, out var uri) ||
-                (uri.Scheme != Uri.UriSchemeHttp && uri.Scheme != Uri.UriSchemeHttps))
-            {
-                throw new InvalidOperationException($"Invalid feed URL: {feed}. Must be a valid HTTP/HTTPS URL.");
-            }
+            throw new InvalidOperationException($"Invalid feed URL: {invalidFeed}. Must be a valid HTTP/HTTPS URL.");
         }
     }
 }

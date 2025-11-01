@@ -1,0 +1,25 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-10-31T23:59:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-10-31T23:52:08Z",
+      "Title": "Why is my event listener not working for dynamically created elements?",
+      "Tags": [
+        "javascript",
+        "dom"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806274/why-is-my-event-listener-not-working-for-dynamically-created-elements"
+    },
+    {
+      "Created": "2025-10-31T23:59:55Z",
+      "Title": "Why does setting a slightly smaller resolution(e.g., 1900\u00D71080 instead of 1920\u00D71080) drastically improve USB camera performance in OpenCV on Windows",
+      "Tags": [
+        "python",
+        "windows",
+        "opencv"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806276/why-does-setting-a-slightly-smaller-resolutione-g-1900%c3%971080-instead-of-1920%c3%971"
+    }
+  ]
+}

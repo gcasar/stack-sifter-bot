@@ -5,8 +5,11 @@ namespace StackSifter.Tests.Utils;
 public class MockHttpMessageHandler : HttpMessageHandler
 {
     private readonly string _responseContent;
-    public MockHttpMessageHandler(string resourceOrXml, bool isRawXml = false)
+    private readonly HttpStatusCode _statusCode;
+
+    public MockHttpMessageHandler(string resourceOrXml, bool isRawXml = false, HttpStatusCode statusCode = HttpStatusCode.OK)
     {
+        _statusCode = statusCode;
         if (isRawXml)
         {
             _responseContent = resourceOrXml;
@@ -23,7 +26,7 @@ public class MockHttpMessageHandler : HttpMessageHandler
     }
     protected override Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
     {
-        return Task.FromResult(new HttpResponseMessage(HttpStatusCode.OK)
+        return Task.FromResult(new HttpResponseMessage(_statusCode)
         {
             Content = new StringContent(_responseContent)
         });

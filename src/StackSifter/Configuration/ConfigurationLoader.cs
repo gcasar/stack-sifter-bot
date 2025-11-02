@@ -34,6 +34,16 @@ public class ConfigurationLoader
         if (config.Feeds?.Any() != true)
             throw new InvalidOperationException("Configuration must contain at least one feed URL.");
 
+        // Validate feed URLs
+        foreach (var feed in config.Feeds)
+        {
+            if (!Uri.TryCreate(feed, UriKind.Absolute, out var uri) || 
+                (uri.Scheme != Uri.UriSchemeHttp && uri.Scheme != Uri.UriSchemeHttps))
+            {
+                throw new InvalidOperationException($"Invalid feed URL: {feed}. URLs must be valid HTTP or HTTPS addresses.");
+            }
+        }
+
         if (config.Rules?.Any() != true)
             throw new InvalidOperationException("Configuration must contain at least one sifting rule.");
 

@@ -1,8 +1,8 @@
-namespace StackSifter.Feed;
-
 using CodeHollow.FeedReader;
 using System.Net;
 using System.Net.Http;
+
+namespace StackSifter.Feed;
 
 public class StackOverflowRSSFeed : IPostsFeed
 {

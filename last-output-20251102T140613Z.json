@@ -1,0 +1,31 @@
+{
+  "TotalProcessed": 9,
+  "LastCreated": "2025-11-02T12:14:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-02T04:28:26Z",
+      "Title": "In Avalonia, using a ListBox\u0027s VirtualizingStackPanel causes slow Page loading",
+      "Tags": [
+        "c#",
+        "xaml",
+        "avaloniaui",
+        "avalonia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806931/in-avalonia-using-a-listboxs-virtualizingstackpanel-causes-slow-page-loading",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-01T23:18:47Z",
+      "Title": "How do event callbacks and handlers work in Blazor",
+      "Tags": [
+        "c#",
+        "callback",
+        "blazor",
+        "eventhandler",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79806866/how-do-event-callbacks-and-handlers-work-in-blazor",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

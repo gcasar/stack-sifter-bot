@@ -25,6 +25,30 @@ With a few more specifics and/or nice to haves to try out:
 
 Using of @docs or any alternative is likely out of scope, because of the nature of the project. Every part of hte stack seems like something that the LLMs were already trained on, so it is unlikely to be a good fit.
 
+## Testing
+
+### Running Unit Tests
+
+```bash
+dotnet test tests/StackSifter.Tests/StackSifter.Tests.csproj
+```
+
+### Running Integration Tests
+
+Integration tests are marked as `[Explicit]` and require the `OPENAI_API_KEY` environment variable. They make real HTTP calls to the OpenAI API and Stack Overflow feeds.
+
+To run integration tests:
+
+```bash
+# Set your OpenAI API key
+export OPENAI_API_KEY="your-api-key-here"
+
+# Run all tests including explicit integration tests
+dotnet test tests/StackSifter.Tests/StackSifter.Tests.csproj --filter "FullyQualifiedName~IntegrationSmokeTest"
+```
+
+**Note:** Integration tests will be skipped if `OPENAI_API_KEY` is not set, with a message indicating the reason.
+
 ## See also
 
 Anyone interested in Stack Overflow bots should check out https://stackoverflow.blog/2019/09/17/meet-the-bots-that-help-moderate-stack-overflow/

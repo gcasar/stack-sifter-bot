@@ -49,23 +49,14 @@ jobs:
 
           echo "Running smoke test with timestamp: $TIMESTAMP"
 
-          # If OPENAI_API_KEY is set, run full test; otherwise just validate argument parsing
-          if [ -n "$OPENAI_API_KEY" ]; then
-            OUTPUT=$(dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- test-config.yaml "$TIMESTAMP")
-            echo "$OUTPUT"
+          # Run the application and capture output
+          OUTPUT=$(dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- test-config.yaml "$TIMESTAMP")
+          echo "$OUTPUT"
 
-            # Validate JSON output structure
-            echo "$OUTPUT" | jq -e '.TotalProcessed' > /dev/null || (echo "ERROR: Invalid JSON output" && exit 1)
-            echo "$OUTPUT" | jq -e '.MatchingPosts' > /dev/null || (echo "ERROR: Missing MatchingPosts field" && exit 1)
+          # Validate JSON output structure
+          echo "$OUTPUT" | jq -e '.TotalProcessed' > /dev/null || (echo "ERROR: Invalid JSON output" && exit 1)
+          echo "$OUTPUT" | jq -e '.MatchingPosts' > /dev/null || (echo "ERROR: Missing MatchingPosts field" && exit 1)
 
-            echo "✓ Smoke test passed - application ran successfully and produced valid JSON output"
-          else
-            echo "OPENAI_API_KEY not set - testing argument validation only"
-
-            # Test that invalid arguments produce proper error
-            dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- test-config.yaml "invalid-timestamp" 2>&1 | grep -q "Invalid timestamp" || (echo "ERROR: Application should reject invalid timestamp" && exit 1)
-
-            echo "✓ Smoke test passed - application compiled and validates arguments correctly"
-          fi
+          echo "✓ Smoke test passed - application ran successfully and produced valid JSON output"
 
           rm -f test-config.yaml

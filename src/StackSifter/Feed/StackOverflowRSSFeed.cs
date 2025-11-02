@@ -1,8 +1,8 @@
-namespace StackSifter.Feed;
-
 using CodeHollow.FeedReader;
 using System.Net;
 using System.Net.Http;
+
+namespace StackSifter.Feed;
 
 public class StackOverflowRSSFeed : IPostsFeed
 {
@@ -20,8 +20,8 @@ public class StackOverflowRSSFeed : IPostsFeed
         var httpClient = _httpClientFactory.CreateClient();
         httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("StackSifterBot/1.0 (+https://github.com/gcasar/stack-sifter)");
         var xml = await httpClient.GetStringAsync(_feedUrl);
-        // Decode all HTML entities (e.g., &bull;, &nbsp;, &mdash;, etc.)
-        xml = WebUtility.HtmlDecode(xml);
+        // Replace problematic entities (e.g., &bull;) with safe equivalents
+        xml = xml.Replace("&bull;", "•");
         var feed = FeedReader.ReadFromString(xml);
 
         var posts = feed.Items

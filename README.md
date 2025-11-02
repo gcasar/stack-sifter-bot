@@ -25,6 +25,25 @@ With a few more specifics and/or nice to haves to try out:
 
 Using of @docs or any alternative is likely out of scope, because of the nature of the project. Every part of hte stack seems like something that the LLMs were already trained on, so it is unlikely to be a good fit.
 
+## Testing
+
+### Running Unit Tests
+
+```bash
+dotnet test tests/StackSifter.Tests/StackSifter.Tests.csproj
+```
+
+### End-to-End Smoke Test
+
+The CI pipeline includes an end-to-end smoke test that runs the actual CLI application in GitHub Actions. This test:
+
+- Compiles and runs the full application (not just unit tests)
+- Validates argument parsing and error handling
+- If `OPENAI_API_KEY` secret is configured: makes real API calls and validates JSON output
+- If no API key: validates the application compiles and handles invalid arguments correctly
+
+This catches compilation errors and ensures the production code path works correctly. The smoke test runs automatically on every commit via `.github/workflows/test-on-commit.yml`.
+
 ## See also
 
 Anyone interested in Stack Overflow bots should check out https://stackoverflow.blog/2019/09/17/meet-the-bots-that-help-moderate-stack-overflow/

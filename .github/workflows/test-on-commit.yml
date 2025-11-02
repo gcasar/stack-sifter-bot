@@ -26,3 +26,37 @@ jobs:
 
       - name: Run tests
         run: dotnet test --no-build --configuration Release ./tests/StackSifter.Tests/StackSifter.Tests.csproj
+
+      - name: Build application
+        run: dotnet build --configuration Release ./src/StackSifter/StackSifter.csproj
+
+      - name: End-to-end smoke test
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          # Create a minimal test configuration
+          cat > test-config.yaml << 'EOF'
+          feeds:
+            - https://stackoverflow.com/feeds/tag?tagnames=c%23&sort=newest
+          rules:
+            - prompt: 'Does this mention async/await or Task-related issues?'
+              notify:
+                - slack: '#test-channel'
+          EOF
+
+          # Run the application with a recent timestamp (last hour to minimize data)
+          TIMESTAMP=$(date -u -d '1 hour ago' +'%Y-%m-%dT%H:%M:%SZ')
+
+          echo "Running smoke test with timestamp: $TIMESTAMP"
+
+          # Run the application and capture output
+          OUTPUT=$(dotnet run --project ./src/StackSifter/StackSifter.csproj --configuration Release -- test-config.yaml "$TIMESTAMP")
+          echo "$OUTPUT"
+
+          # Validate JSON output structure
+          echo "$OUTPUT" | jq -e '.TotalProcessed' > /dev/null || (echo "ERROR: Invalid JSON output" && exit 1)
+          echo "$OUTPUT" | jq -e '.MatchingPosts' > /dev/null || (echo "ERROR: Missing MatchingPosts field" && exit 1)
+
+          echo "✓ Smoke test passed - application ran successfully and produced valid JSON output"
+
+          rm -f test-config.yaml

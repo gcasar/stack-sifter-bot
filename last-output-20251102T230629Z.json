@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-02T22:22:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-02T22:22:36Z",
+      "Title": "50 BlobClient calls before 100-second lag",
+      "Tags": [
+        "c#",
+        "azure-blob-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79807413/50-blobclient-calls-before-100-second-lag",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-02T22:22:36Z",
+      "Title": "50 BlobClient calls before 100-second lag",
+      "Tags": [
+        "c#",
+        "azure-blob-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79807413/50-blobclient-calls-before-100-second-lag",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

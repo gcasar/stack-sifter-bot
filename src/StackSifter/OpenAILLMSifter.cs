@@ -73,8 +73,22 @@ public class OpenAILLMSifter : IPostSifter
         var responseString = await response.Content.ReadAsStringAsync();
 
         using var doc = JsonDocument.Parse(responseString);
+        var answer = ExtractAnswerFromResponse(doc);
+
+        // Interpret the answer as a yes/no
+        return answer != null && answer.Trim().ToLower().StartsWith("yes");
+    }
+
+    /// <summary>
+    /// Extracts the answer content from an OpenAI API response.
+    /// </summary>
+    /// <param name="doc">The parsed JSON document.</param>
+    /// <returns>The answer content string.</returns>
+    /// <exception cref="InvalidOperationException">Thrown when the response is missing expected fields.</exception>
+    private static string? ExtractAnswerFromResponse(JsonDocument doc)
+    {
         var root = doc.RootElement;
-        
+
         // Validate response structure
         if (!root.TryGetProperty("choices", out var choices) || choices.GetArrayLength() == 0)
         {
@@ -82,15 +96,12 @@ public class OpenAILLMSifter : IPostSifter
         }
 
         var firstChoice = choices[0];
-        if (!firstChoice.TryGetProperty("message", out var message) || 
+        if (!firstChoice.TryGetProperty("message", out var message) ||
             !message.TryGetProperty("content", out var contentElement))
         {
             throw new InvalidOperationException("OpenAI response missing message content");
         }
 
-        var answer = contentElement.GetString();
-
-        // Interpret the answer as a yes/no (customize as needed)
-        return answer != null && answer.Trim().ToLower().StartsWith("yes");
+        return contentElement.GetString();
     }
 }

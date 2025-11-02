@@ -33,27 +33,16 @@ Using of @docs or any alternative is likely out of scope, because of the nature 
 dotnet test tests/StackSifter.Tests/StackSifter.Tests.csproj
 ```
 
-### Running Integration Tests
+### End-to-End Smoke Test
 
-Integration tests are marked as `[Explicit]` and require the `OPENAI_API_KEY` environment variable. These tests invoke the actual CLI application as it would run in production, catching compilation errors and validating the complete execution path including:
+The CI pipeline includes an end-to-end smoke test that runs the actual CLI application in GitHub Actions. This test:
 
-- CLI entry point (Program.cs)
-- Argument parsing and validation
-- Configuration file loading
-- Real HTTP calls to OpenAI API and Stack Overflow feeds
-- JSON output serialization
+- Compiles and runs the full application (not just unit tests)
+- Validates argument parsing and error handling
+- If `OPENAI_API_KEY` secret is configured: makes real API calls and validates JSON output
+- If no API key: validates the application compiles and handles invalid arguments correctly
 
-To run integration tests:
-
-```bash
-# Set your OpenAI API key
-export OPENAI_API_KEY="your-api-key-here"
-
-# Run all tests including explicit integration tests
-dotnet test tests/StackSifter.Tests/StackSifter.Tests.csproj --filter "FullyQualifiedName~IntegrationSmokeTest"
-```
-
-**Note:** Integration tests will be skipped if `OPENAI_API_KEY` is not set, with a message indicating the reason. These tests may take 1-2 minutes to complete as they compile and run the application with real data.
+This catches compilation errors and ensures the production code path works correctly. The smoke test runs automatically on every commit via `.github/workflows/test-on-commit.yml`.
 
 ## See also
 

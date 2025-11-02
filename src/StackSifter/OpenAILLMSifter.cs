@@ -1,11 +1,10 @@
-namespace StackSifter;
-
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
-
 using StackSifter.Feed;
+
+namespace StackSifter;
 
 public class OpenAILLMSifter : IPostSifter
 {

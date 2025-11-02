@@ -1,18 +1,65 @@
-using Microsoft.Extensions.DependencyInjection;
-using StackSifter.Configuration;
+using System.Diagnostics;
+using System.Text.Json;
 
 namespace StackSifter.Tests;
 
 /// <summary>
-/// Integration smoke test that validates end-to-end functionality using real API calls.
-/// This test requires OPENAI_API_KEY environment variable and makes actual HTTP requests.
+/// Integration smoke test that validates end-to-end functionality by invoking the CLI application
+/// exactly as it would be run in production. This catches compilation errors and validates the
+/// full execution path including argument parsing, configuration loading, and JSON output.
+/// Requires OPENAI_API_KEY environment variable and makes real API calls.
 /// </summary>
 [TestFixture]
 [Explicit("Requires OPENAI_API_KEY environment variable and makes real API calls")]
 public class IntegrationSmokeTest
 {
+    private string? _testConfigPath;
+    private string? _projectPath;
+
+    [OneTimeSetUp]
+    public void OneTimeSetUp()
+    {
+        // Find the project root (where the .csproj file is)
+        var testAssemblyPath = TestContext.CurrentContext.TestDirectory;
+        var current = new DirectoryInfo(testAssemblyPath);
+
+        // Navigate up to find the solution root
+        while (current != null && !File.Exists(Path.Combine(current.FullName, "stack-sifter.yaml")))
+        {
+            current = current.Parent;
+        }
+
+        if (current == null)
+        {
+            throw new InvalidOperationException("Could not find project root directory");
+        }
+
+        _projectPath = Path.Combine(current.FullName, "src", "StackSifter", "StackSifter.csproj");
+
+        // Create test configuration file
+        _testConfigPath = Path.Combine(Path.GetTempPath(), $"stack-sifter-test-{Guid.NewGuid()}.yaml");
+        File.WriteAllText(_testConfigPath, @"
+feeds:
+  - https://stackoverflow.com/feeds/tag?tagnames=c%23&sort=newest
+rules:
+  - prompt: 'Does this mention async/await or Task-related issues?'
+    notify:
+      - slack: '#test-channel'
+");
+    }
+
+    [OneTimeTearDown]
+    public void OneTimeTearDown()
+    {
+        // Clean up test config file
+        if (_testConfigPath != null && File.Exists(_testConfigPath))
+        {
+            File.Delete(_testConfigPath);
+        }
+    }
+
     [Test]
-    public async Task EndToEndSmokeTest_FetchesAndSiftsPostsFromLastDay()
+    public async Task CliSmokeTest_InvokeApplicationWithRealArguments()
     {
         // Arrange - Check for API key
         var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
@@ -22,70 +69,111 @@ public class IntegrationSmokeTest
             return;
         }
 
-        // Create a minimal test configuration
-        var config = ConfigurationLoader.LoadFromYaml(@"
-feeds:
-  - https://stackoverflow.com/feeds/tag?tagnames=c%23&sort=newest
-rules:
-  - prompt: 'Does this mention async/await or Task-related issues?'
-    notify:
-      - slack: '#test-channel'
-");
+        Assert.That(_projectPath, Is.Not.Null, "Project path should be set");
+        Assert.That(_testConfigPath, Is.Not.Null, "Test config path should be set");
+        Assert.That(File.Exists(_testConfigPath), Is.True, "Test config file should exist");
 
-        // Setup real HTTP client factory
-        var services = new ServiceCollection();
-        services.AddHttpClient();
-        using var serviceProvider = services.BuildServiceProvider();
-        var httpClientFactory = serviceProvider.GetRequiredService<IHttpClientFactory>();
+        // Use a recent timestamp to minimize data (last 6 hours)
+        var since = DateTime.UtcNow.AddHours(-6).ToString("yyyy-MM-ddTHH:mm:ssZ");
 
-        var service = new ConfigurableStackSifterService(config, apiKey, httpClientFactory);
+        TestContext.WriteLine($"Running CLI with config: {_testConfigPath}");
+        TestContext.WriteLine($"Since timestamp: {since}");
 
-        // Act - Fetch posts from the last 24 hours
-        var since = DateTime.UtcNow.AddHours(-24);
-        ProcessingResult? result = null;
-
-        try
+        // Act - Invoke the application exactly as it would run in production
+        var startInfo = new ProcessStartInfo
         {
-            result = await service.ProcessAsync(since);
+            FileName = "dotnet",
+            Arguments = $"run --project \"{_projectPath}\" --configuration Release -- \"{_testConfigPath}\" \"{since}\"",
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true
+        };
+        startInfo.Environment["OPENAI_API_KEY"] = apiKey;
+
+        using var process = new Process { StartInfo = startInfo };
+        var outputBuilder = new System.Text.StringBuilder();
+        var errorBuilder = new System.Text.StringBuilder();
+
+        process.OutputDataReceived += (sender, e) =>
+        {
+            if (e.Data != null) outputBuilder.AppendLine(e.Data);
+        };
+        process.ErrorDataReceived += (sender, e) =>
+        {
+            if (e.Data != null) errorBuilder.AppendLine(e.Data);
+        };
+
+        process.Start();
+        process.BeginOutputReadLine();
+        process.BeginErrorReadLine();
+
+        // Wait for completion with timeout
+        var completed = await Task.Run(() => process.WaitForExit(120000)); // 2 minute timeout
+
+        if (!completed)
+        {
+            process.Kill();
+            Assert.Fail("Application did not complete within timeout period");
         }
-        catch (Exception ex)
+
+        var output = outputBuilder.ToString();
+        var errorOutput = errorBuilder.ToString();
+
+        TestContext.WriteLine("=== Standard Error ===");
+        TestContext.WriteLine(errorOutput);
+        TestContext.WriteLine("=== Standard Output ===");
+        TestContext.WriteLine(output);
+
+        // Assert - Verify successful execution
+        Assert.That(process.ExitCode, Is.EqualTo(0),
+            $"Application should exit with code 0. Exit code: {process.ExitCode}\nStderr: {errorOutput}");
+
+        Assert.That(output, Is.Not.Empty, "Application should produce output");
+
+        // Validate JSON output
+        JsonDocument? jsonDoc = null;
+        Assert.DoesNotThrow(() =>
         {
-            Assert.Fail($"Integration test failed with exception: {ex.Message}\n{ex.StackTrace}");
-        }
+            jsonDoc = JsonDocument.Parse(output);
+        }, "Output should be valid JSON");
 
-        // Assert - Verify the service executed without errors
-        Assert.That(result, Is.Not.Null, "Service should return a result");
-        Assert.That(result.TotalProcessed, Is.GreaterThanOrEqualTo(0), "Should process zero or more posts");
-        Assert.That(result.Matches, Is.Not.Null, "Matches collection should not be null");
+        Assert.That(jsonDoc, Is.Not.Null, "JSON document should be parsed");
 
-        // Log results for visibility
-        TestContext.WriteLine($"Integration Test Results:");
-        TestContext.WriteLine($"  Total Posts Processed: {result.TotalProcessed}");
-        TestContext.WriteLine($"  Matching Posts Found: {result.Matches.Count}");
-        TestContext.WriteLine($"  Last Created: {result.LastCreated?.ToString() ?? "None"}");
+        var root = jsonDoc!.RootElement;
+        Assert.That(root.TryGetProperty("TotalProcessed", out var totalProcessed), Is.True,
+            "JSON should contain TotalProcessed field");
+        Assert.That(root.TryGetProperty("LastCreated", out _), Is.True,
+            "JSON should contain LastCreated field");
+        Assert.That(root.TryGetProperty("MatchingPosts", out var matchingPosts), Is.True,
+            "JSON should contain MatchingPosts field");
 
-        if (result.Matches.Any())
+        // Log results
+        TestContext.WriteLine("=== Test Results ===");
+        TestContext.WriteLine($"Total Posts Processed: {totalProcessed.GetInt32()}");
+        TestContext.WriteLine($"Matching Posts: {matchingPosts.GetArrayLength()}");
+
+        if (matchingPosts.GetArrayLength() > 0)
         {
-            TestContext.WriteLine($"\nMatched Posts:");
-            foreach (var match in result.Matches.Take(3))
+            TestContext.WriteLine("\nMatched Posts:");
+            foreach (var post in matchingPosts.EnumerateArray().Take(3))
             {
-                TestContext.WriteLine($"  - {match.Post.Title}");
-                TestContext.WriteLine($"    Reason: {match.MatchReason}");
+                if (post.TryGetProperty("Title", out var title))
+                {
+                    TestContext.WriteLine($"  - {title.GetString()}");
+                }
             }
         }
 
-        // Basic sanity checks
-        if (result.TotalProcessed > 0)
-        {
-            Assert.That(result.LastCreated, Is.Not.Null,
-                "LastCreated should be set when posts are processed");
-            Assert.That(result.LastCreated!.Value, Is.GreaterThan(since),
-                "LastCreated should be after the 'since' timestamp");
-        }
+        // Basic validation
+        Assert.That(totalProcessed.GetInt32(), Is.GreaterThanOrEqualTo(0),
+            "Should process zero or more posts");
+        Assert.That(matchingPosts.ValueKind, Is.EqualTo(JsonValueKind.Array),
+            "MatchingPosts should be an array");
     }
 
     [Test]
-    public async Task SmokeTest_ValidateConfigurationAndHttpClient()
+    public async Task CliSmokeTest_ValidatesInvalidArguments()
     {
         // Arrange
         var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
@@ -95,40 +183,33 @@ rules:
             return;
         }
 
-        // Minimal config
-        var config = ConfigurationLoader.LoadFromYaml(@"
-feeds:
-  - https://stackoverflow.com/feeds/tag?tagnames=csharp&sort=newest
-rules:
-  - prompt: 'Test prompt'
-    notify:
-      - slack: '#test'
-");
+        Assert.That(_projectPath, Is.Not.Null, "Project path should be set");
 
-        var services = new ServiceCollection();
-        services.AddHttpClient();
-        using var serviceProvider = services.BuildServiceProvider();
-        var httpClientFactory = serviceProvider.GetRequiredService<IHttpClientFactory>();
-
-        // Act - Just verify we can create the service without errors
-        ConfigurableStackSifterService? service = null;
-        Assert.DoesNotThrow(() =>
+        // Act - Invoke with invalid timestamp
+        var startInfo = new ProcessStartInfo
         {
-            service = new ConfigurableStackSifterService(config, apiKey, httpClientFactory);
-        }, "Should be able to create service with valid configuration");
+            FileName = "dotnet",
+            Arguments = $"run --project \"{_projectPath}\" --configuration Release -- \"{_testConfigPath}\" \"invalid-timestamp\"",
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            UseShellExecute = false,
+            CreateNoWindow = true
+        };
+        startInfo.Environment["OPENAI_API_KEY"] = apiKey;
 
-        Assert.That(service, Is.Not.Null, "Service should be instantiated successfully");
+        using var process = Process.Start(startInfo);
+        Assert.That(process, Is.Not.Null);
 
-        // Verify we can make a simple call (with very recent timestamp to minimize data)
-        var veryRecent = DateTime.UtcNow.AddMinutes(-5);
-        ProcessingResult? result = null;
+        await Task.Run(() => process!.WaitForExit(30000));
+        var errorOutput = await process!.StandardError.ReadToEndAsync();
 
-        Assert.DoesNotThrowAsync(async () =>
-        {
-            result = await service.ProcessAsync(veryRecent);
-        }, "ProcessAsync should complete without throwing exceptions");
+        TestContext.WriteLine("=== Error Output ===");
+        TestContext.WriteLine(errorOutput);
 
-        Assert.That(result, Is.Not.Null, "Should return a valid result");
-        TestContext.WriteLine($"Smoke test processed {result.TotalProcessed} posts from last 5 minutes");
+        // Assert - Should fail with non-zero exit code
+        Assert.That(process.ExitCode, Is.Not.EqualTo(0),
+            "Application should exit with non-zero code for invalid arguments");
+        Assert.That(errorOutput, Does.Contain("Invalid timestamp").Or.Contain("Usage:"),
+            "Error message should indicate invalid timestamp or show usage");
     }
 }

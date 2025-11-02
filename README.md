@@ -35,7 +35,13 @@ dotnet test tests/StackSifter.Tests/StackSifter.Tests.csproj
 
 ### Running Integration Tests
 
-Integration tests are marked as `[Explicit]` and require the `OPENAI_API_KEY` environment variable. They make real HTTP calls to the OpenAI API and Stack Overflow feeds.
+Integration tests are marked as `[Explicit]` and require the `OPENAI_API_KEY` environment variable. These tests invoke the actual CLI application as it would run in production, catching compilation errors and validating the complete execution path including:
+
+- CLI entry point (Program.cs)
+- Argument parsing and validation
+- Configuration file loading
+- Real HTTP calls to OpenAI API and Stack Overflow feeds
+- JSON output serialization
 
 To run integration tests:
 
@@ -47,7 +53,7 @@ export OPENAI_API_KEY="your-api-key-here"
 dotnet test tests/StackSifter.Tests/StackSifter.Tests.csproj --filter "FullyQualifiedName~IntegrationSmokeTest"
 ```
 
-**Note:** Integration tests will be skipped if `OPENAI_API_KEY` is not set, with a message indicating the reason.
+**Note:** Integration tests will be skipped if `OPENAI_API_KEY` is not set, with a message indicating the reason. These tests may take 1-2 minutes to complete as they compile and run the application with real data.
 
 ## See also
 

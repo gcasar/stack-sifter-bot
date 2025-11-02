@@ -3,8 +3,18 @@ using YamlDotNet.Serialization.NamingConventions;
 
 namespace StackSifter.Configuration;
 
+/// <summary>
+/// Loads and validates Stack Sifter configuration from YAML files.
+/// </summary>
 public class ConfigurationLoader
 {
+    /// <summary>
+    /// Loads configuration from a YAML file.
+    /// </summary>
+    /// <param name="filePath">Path to the YAML configuration file.</param>
+    /// <returns>A validated StackSifterConfig instance.</returns>
+    /// <exception cref="FileNotFoundException">Thrown when the file does not exist.</exception>
+    /// <exception cref="InvalidOperationException">Thrown when the configuration is invalid.</exception>
     public static StackSifterConfig LoadFromFile(string filePath)
     {
         if (!File.Exists(filePath))
@@ -16,6 +26,12 @@ public class ConfigurationLoader
         return LoadFromYaml(yaml);
     }
 
+    /// <summary>
+    /// Loads configuration from a YAML string.
+    /// </summary>
+    /// <param name="yaml">YAML content to parse.</param>
+    /// <returns>A validated StackSifterConfig instance.</returns>
+    /// <exception cref="InvalidOperationException">Thrown when the configuration is invalid.</exception>
     public static StackSifterConfig LoadFromYaml(string yaml)
     {
         var deserializer = new DeserializerBuilder()

@@ -22,51 +22,39 @@ if (!DateTime.TryParse(args[1], null, System.Globalization.DateTimeStyles.Adjust
     return 1;
 }
 
-try
+Console.Error.WriteLine($"Loading configuration from: {configPath}");
+var config = ConfigurationLoader.LoadFromFile(configPath);
+
+Console.Error.WriteLine($"Processing {config.Feeds.Count} feeds with {config.Rules.Count} rules...");
+
+// Setup dependency injection
+var services = new ServiceCollection();
+services.AddHttpClient();
+using var serviceProvider = services.BuildServiceProvider();
+var httpClientFactory = serviceProvider.GetRequiredService<IHttpClientFactory>();
+
+var service = new ConfigurableStackSifterService(config, apiKey, httpClientFactory);
+var result = await service.ProcessAsync(since);
+
+// Output results as JSON
+var output = new
 {
-    Console.Error.WriteLine($"Loading configuration from: {configPath}");
-    var config = ConfigurationLoader.LoadFromFile(configPath);
-
-    Console.Error.WriteLine($"Processing {config.Feeds.Count} feeds with {config.Rules.Count} rules...");
-
-    // Setup dependency injection
-    var services = new ServiceCollection();
-    services.AddHttpClient();
-    using var serviceProvider = services.BuildServiceProvider();
-    var httpClientFactory = serviceProvider.GetRequiredService<IHttpClientFactory>();
-
-    var service = new ConfigurableStackSifterService(config, apiKey, httpClientFactory);
-    var result = await service.ProcessAsync(since);
-
-    // Output results as JSON
-    var output = new
+    TotalProcessed = result.TotalProcessed,
+    LastCreated = result.LastCreated,
+    MatchingPosts = result.Matches.Select(m => new
     {
-        TotalProcessed = result.TotalProcessed,
-        LastCreated = result.LastCreated,
-        MatchingPosts = result.Matches.Select(m => new
-        {
-            Created = m.Post.Published,
-            m.Post.Title,
-            m.Post.Tags,
-            m.Post.Url,
-            MatchReason = m.MatchReason
-        }).ToList()
-    };
+        Created = m.Post.Published,
+        m.Post.Title,
+        m.Post.Tags,
+        m.Post.Url,
+        MatchReason = m.MatchReason
+    }).ToList()
+};
 
-    var json = JsonSerializer.Serialize(output, new JsonSerializerOptions { WriteIndented = true });
-    Console.WriteLine(json);
+var json = JsonSerializer.Serialize(output, new JsonSerializerOptions { WriteIndented = true });
+Console.WriteLine(json);
 
-    return 0;
-}
-catch (Exception ex)
-{
-    Console.Error.WriteLine($"Error: {ex.Message}");
-    if (ex.InnerException != null)
-    {
-        Console.Error.WriteLine($"  Inner: {ex.InnerException.Message}");
-    }
-    return 1;
-}
+return 0;
 
 static void PrintUsage()
 {

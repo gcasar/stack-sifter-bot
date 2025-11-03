@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-03T10:06:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-03T09:40:31Z",
+      "Title": "Grpc bidirectional stream not throwing exception when not implemented",
+      "Tags": [
+        "c#",
+        ".net",
+        "grpc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79807702/grpc-bidirectional-stream-not-throwing-exception-when-not-implemented",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

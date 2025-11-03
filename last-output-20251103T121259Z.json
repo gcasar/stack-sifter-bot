@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-03T11:38:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-03T11:38:31Z",
+      "Title": "Why isn\u0027t there a returnif keyword or something in c#?",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79807819/why-isnt-there-a-returnif-keyword-or-something-in-c",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

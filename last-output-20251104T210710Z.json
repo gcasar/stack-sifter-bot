@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-04T20:14:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-04T20:14:11Z",
+      "Title": "COMException: Cannot change thread mode after it is set on EnsureCoreWebView2Async(null) C# in ShowDialog",
+      "Tags": [
+        "c#",
+        "winforms",
+        "async-await",
+        "webview2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79809358/comexception-cannot-change-thread-mode-after-it-is-set-on-ensurecorewebview2asy",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

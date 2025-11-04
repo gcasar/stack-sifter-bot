@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-04T19:22:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-04T19:22:53Z",
+      "Title": "Switching system tray icon\u0027s image without delay",
+      "Tags": [
+        "c#",
+        "taskbar",
+        "system-tray"
+      ],
+      "Url": "https://stackoverflow.com/questions/79809314/switching-system-tray-icons-image-without-delay",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

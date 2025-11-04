@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-04T17:59:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-04T17:15:59Z",
+      "Title": "How do I create connection string with App Registration/Service Principal for a Web API using EF Core app with SQL Server using Microsoft Entra MFA",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "asp.net-core-webapi",
+        "ef-code-first",
+        "microsoft-entra-id"
+      ],
+      "Url": "https://stackoverflow.com/questions/79809202/how-do-i-create-connection-string-with-app-registration-service-principal-for-a",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

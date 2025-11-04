@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-04T11:00:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-04T11:00:19Z",
+      "Title": "Override default XML namespace for Authenticate/AuthenticateResponse DTOs in ServiceStack?",
+      "Tags": [
+        "c#",
+        "authentication",
+        "servicestack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79808818/override-default-xml-namespace-for-authenticate-authenticateresponse-dtos-in-ser",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-04T10:53:59Z",
+      "Title": "Why does my C# SQL connection randomly fail with \u201CInvalid operation. The connection is closed\u201D?",
+      "Tags": [
+        "c#",
+        "sql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79808811/why-does-my-c-sharp-sql-connection-randomly-fail-with-invalid-operation-the-co",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

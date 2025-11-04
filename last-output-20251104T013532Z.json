@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-04T00:32:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-04T00:32:25Z",
+      "Title": "How to handle errors in Blazor WebAssembly?",
+      "Tags": [
+        "c#",
+        "azure-functions",
+        "blazor",
+        "blazor-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79808425/how-to-handle-errors-in-blazor-webassembly",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

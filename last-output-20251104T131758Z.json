@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-04T13:08:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-04T12:45:12Z",
+      "Title": "Is there a better way to continually write strings to console while checking for user input at the same time?",
+      "Tags": [
+        "c#",
+        "console"
+      ],
+      "Url": "https://stackoverflow.com/questions/79808919/is-there-a-better-way-to-continually-write-strings-to-console-while-checking-for",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

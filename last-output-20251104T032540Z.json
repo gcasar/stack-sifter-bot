@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-04T03:22:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-04T03:18:51Z",
+      "Title": "Unable to play audio once audioStreamer.StartAsync() has been created and started",
+      "Tags": [
+        "c#",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79808488/unable-to-play-audio-once-audiostreamer-startasync-has-been-created-and-starte",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

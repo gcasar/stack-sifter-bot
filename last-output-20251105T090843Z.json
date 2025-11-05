@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-05T08:59:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-05T08:59:12Z",
+      "Title": "How to read Azure AD (Entra ID) groups and users with Microsoft Graph SDK in C#, if I only have a user account (no admin rights)?",
+      "Tags": [
+        "c#",
+        "microsoft-graph-api",
+        "powerapps",
+        "microsoft-entra-id",
+        "azure-app-registration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79809835/how-to-read-azure-ad-entra-id-groups-and-users-with-microsoft-graph-sdk-in-c",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-05T08:59:12Z",
+      "Title": "How to read Azure AD (Entra ID) groups and users with Microsoft Graph SDK in C#, if I only have a user account (no admin rights)?",
+      "Tags": [
+        "c#",
+        "microsoft-graph-api",
+        "powerapps",
+        "microsoft-entra-id",
+        "azure-app-registration"
+      ],
+      "Url": "https://stackoverflow.com/questions/79809835/how-to-read-azure-ad-entra-id-groups-and-users-with-microsoft-graph-sdk-in-c",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

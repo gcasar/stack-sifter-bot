@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-05T22:47:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-05T22:15:50Z",
+      "Title": "Socket TCP connection through Radmin (can\u0027t connect) in Console Application",
+      "Tags": [
+        "c#",
+        "network-programming",
+        "server",
+        "tcp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79810656/socket-tcp-connection-through-radmin-cant-connect-in-console-application",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-11-06T13:12:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-06T12:57:37Z",
+      "Title": "Virtualization using VirtualizingStackPanel inside custom ControlTemplates",
+      "Tags": [
+        "c#",
+        "wpf",
+        "templates",
+        "grid",
+        "virtualization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79811286/virtualization-using-virtualizingstackpanel-inside-custom-controltemplates",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-06T13:08:17Z",
+      "Title": "Revoking Connected Devices: How to Invalidate IMemoryCache Immediately to Prevent 2-Minute Access Window?",
+      "Tags": [
+        "c#",
+        ".net",
+        "database",
+        "caching",
+        "authorization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79811297/revoking-connected-devices-how-to-invalidate-imemorycache-immediately-to-preven",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

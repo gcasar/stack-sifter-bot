@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-06T15:21:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-06T15:13:04Z",
+      "Title": "ASP.NET Core embedded Blazor",
+      "Tags": [
+        "c#",
+        "blazor",
+        "blazor-server-side",
+        "class-library",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79811455/asp-net-core-embedded-blazor",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

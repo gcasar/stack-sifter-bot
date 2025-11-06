@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-06T00:23:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-06T00:23:19Z",
+      "Title": "WPF: DropShadowEffect \u002B Viewport2DVisual3D (Planerator/TiltEffect) causes deformation/offset during \u201Ctilt\u201D",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79810733/wpf-dropshadoweffect-viewport2dvisual3d-planerator-tilteffect-causes-deform",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-06T14:00:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-06T13:48:18Z",
+      "Title": "Expose a status endpoint from a C# Windows Service",
+      "Tags": [
+        "c#",
+        ".net",
+        "windows-services"
+      ],
+      "Url": "https://stackoverflow.com/questions/79811344/expose-a-status-endpoint-from-a-c-sharp-windows-service",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

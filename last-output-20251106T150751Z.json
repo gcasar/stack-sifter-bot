@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-06T14:23:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-06T14:23:01Z",
+      "Title": "How come Azure Developer CLI says my Aspire bicep is invalid when running in pipelines?",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-pipelines",
+        "azure-container-apps",
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79811383/how-come-azure-developer-cli-says-my-aspire-bicep-is-invalid-when-running-in-pip",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-07T11:15:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-07T11:15:14Z",
+      "Title": "TypeError: Cannot read properties of undefined (reading \u0027data\u0027) - Cant login in my aplication",
+      "Tags": [
+        "javascript",
+        "c#",
+        "reactjs",
+        "asp.net",
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812275/typeerror-cannot-read-properties-of-undefined-reading-data-cant-login-in",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-07T11:15:14Z",
+      "Title": "TypeError: Cannot read properties of undefined (reading \u0027data\u0027) - Cant login in my aplication",
+      "Tags": [
+        "javascript",
+        "c#",
+        "reactjs",
+        "asp.net",
+        "debugging"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812275/typeerror-cannot-read-properties-of-undefined-reading-data-cant-login-in",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

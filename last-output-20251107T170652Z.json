@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-07T16:38:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-07T16:19:20Z",
+      "Title": "Windows App Forms - System.AccessViolationException Error",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "winforms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812562/windows-app-forms-system-accessviolationexception-error",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

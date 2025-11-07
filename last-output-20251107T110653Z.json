@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-07T10:39:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-07T10:39:35Z",
+      "Title": "C# EFCore nullable type return vs not found or multiple database record",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812225/c-sharp-efcore-nullable-type-return-vs-not-found-or-multiple-database-record",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

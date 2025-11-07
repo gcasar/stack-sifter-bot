@@ -1,0 +1,36 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-07T16:03:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-07T16:03:28Z",
+      "Title": "Download from azure blob c# vs rust",
+      "Tags": [
+        "c#",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812543/download-from-azure-blob-c-sharp-vs-rust",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-07T16:03:28Z",
+      "Title": "Download from azure blob c# vs rust",
+      "Tags": [
+        "c#",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812543/download-from-azure-blob-c-sharp-vs-rust",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-07T16:03:28Z",
+      "Title": "Download from azure blob c# vs rust",
+      "Tags": [
+        "c#",
+        "rust"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812543/download-from-azure-blob-c-sharp-vs-rust",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

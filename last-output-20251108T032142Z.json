@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-08T02:42:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-08T02:42:59Z",
+      "Title": "Does the EF Core 8.0.20 process correctly AsSplitQuery queries with conditions \u0026 paging that pull data from tables with one-to-many relationships?",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812937/does-the-ef-core-8-0-20-process-correctly-assplitquery-queries-with-conditions",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

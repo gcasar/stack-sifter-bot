@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-08T11:05:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-08T11:05:47Z",
+      "Title": "JWT claims in Blazor web app do not get taken over",
+      "Tags": [
+        "c#",
+        "jwt",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79813135/jwt-claims-in-blazor-web-app-do-not-get-taken-over",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-08T08:12:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-08T08:12:47Z",
+      "Title": ".net MAUI Blazor Hybrid App with Firebase Cloud Messaging",
+      "Tags": [
+        "c#",
+        "firebase-cloud-messaging",
+        "maui-blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79813040/net-maui-blazor-hybrid-app-with-firebase-cloud-messaging",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-08T15:43:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-08T15:43:18Z",
+      "Title": "How to efficiently handle GUID and INT keys in EF Core when entities reference multiple tables?",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "asp.net-core-webapi",
+        "guid",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79814277/how-to-efficiently-handle-guid-and-int-keys-in-ef-core-when-entities-reference-m",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-08T15:43:18Z",
+      "Title": "How to efficiently handle GUID and INT keys in EF Core when entities reference multiple tables?",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "asp.net-core-webapi",
+        "guid",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79814277/how-to-efficiently-handle-guid-and-int-keys-in-ef-core-when-entities-reference-m",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

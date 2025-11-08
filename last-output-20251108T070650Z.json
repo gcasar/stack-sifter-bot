@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-08T06:31:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-08T06:31:10Z",
+      "Title": "How to request permission to read/write to an %AppData% folder in C#?",
+      "Tags": [
+        "c#",
+        "appdata"
+      ],
+      "Url": "https://stackoverflow.com/questions/79812997/how-to-request-permission-to-read-write-to-an-appdata-folder-in-c",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

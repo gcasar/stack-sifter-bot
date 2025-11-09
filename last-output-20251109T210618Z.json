@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-09T20:16:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-09T20:07:50Z",
+      "Title": "How do I solve Bluetooth Service errors in inthehand library",
+      "Tags": [
+        "c#",
+        "android",
+        "bluetooth",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79814998/how-do-i-solve-bluetooth-service-errors-in-inthehand-library",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

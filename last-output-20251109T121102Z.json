@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-09T11:20:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-09T11:20:42Z",
+      "Title": "Callback in ASP.NET Core with auth cookies",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "signalr",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79814749/callback-in-asp-net-core-with-auth-cookies",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

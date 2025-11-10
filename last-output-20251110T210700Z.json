@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-10T20:50:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-10T20:34:50Z",
+      "Title": "EF Core creating multiple objects when the collection contains both NULL and non-NULL values",
+      "Tags": [
+        "c#",
+        "linq",
+        "asp.net-core",
+        ".net-core",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816046/ef-core-creating-multiple-objects-when-the-collection-contains-both-null-and-non",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-10T20:34:50Z",
+      "Title": "EF Core creating multiple objects when the collection contains both NULL and non-NULL values",
+      "Tags": [
+        "c#",
+        "linq",
+        "asp.net-core",
+        ".net-core",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816046/ef-core-creating-multiple-objects-when-the-collection-contains-both-null-and-non",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

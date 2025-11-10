@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-10T18:06:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-10T17:51:53Z",
+      "Title": "How to use ThreadContext in Log4Net?",
+      "Tags": [
+        "c#",
+        "log4net",
+        "log4net-configuration",
+        "log4net-appender"
+      ],
+      "Url": "https://stackoverflow.com/questions/79815937/how-to-use-threadcontext-in-log4net",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2025-11-10T18:06:26Z",
+      "Title": "Blazor Pages db request failing with model error",
+      "Tags": [
+        "c#",
+        "blazor",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79815952/blazor-pages-db-request-failing-with-model-error",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2025-11-10T17:16:41Z",
+      "Title": "How subjective is asking for the \u0022best approach\u0022?",
+      "Tags": [
+        "discussion"
+      ],
+      "Url": "https://meta.stackoverflow.com/questions/436485/how-subjective-is-asking-for-the-best-approach",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

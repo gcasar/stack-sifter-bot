@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-10T10:44:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-10T10:39:31Z",
+      "Title": "Access SharePoint REST API (/_api/web) from a C# backend \u2014 get token programmatically (no login popup)",
+      "Tags": [
+        "c#",
+        "sharepoint-online",
+        "spfx",
+        "sharepoint-rest-api",
+        "pnp-js"
+      ],
+      "Url": "https://stackoverflow.com/questions/79815488/access-sharepoint-rest-api-api-web-from-a-c-sharp-backend-get-token-progra",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

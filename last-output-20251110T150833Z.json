@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-10T14:34:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-10T14:34:58Z",
+      "Title": "How do I test Blazor Server from Playwright?",
+      "Tags": [
+        "c#",
+        "blazor-server-side",
+        "playwright"
+      ],
+      "Url": "https://stackoverflow.com/questions/79815730/how-do-i-test-blazor-server-from-playwright",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

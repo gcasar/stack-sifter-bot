@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-10T05:27:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-10T05:27:31Z",
+      "Title": "MudTabs throws ArgumentOutOfRangeException when loading page with query parameter",
+      "Tags": [
+        "c#",
+        "blazor",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79815218/mudtabs-throws-argumentoutofrangeexception-when-loading-page-with-query-paramete",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

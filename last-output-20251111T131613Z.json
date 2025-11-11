@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-11T13:07:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-11T12:14:43Z",
+      "Title": "How do I configure ABP as an OIDC provider if it is hidden behind Traefik?",
+      "Tags": [
+        "c#",
+        "cookies",
+        "openid-connect",
+        "traefik",
+        "abp-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816622/how-do-i-configure-abp-as-an-oidc-provider-if-it-is-hidden-behind-traefik",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-11T13:07:14Z",
+      "Title": "API publishes to rabbitmq really slowly",
+      "Tags": [
+        "c#",
+        "rabbitmq",
+        "masstransit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816675/api-publishes-to-rabbitmq-really-slowly",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

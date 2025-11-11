@@ -1,0 +1,31 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-11T11:49:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-11T11:28:07Z",
+      "Title": "Access to XMLHttpRequest at \u0027http://localhost:5167/api/Auth/register\u0027 from origin \u0027http://localhost:5173\u0027 has been blocked by CORS policy [duplicate]",
+      "Tags": [
+        "javascript",
+        "c#",
+        "asp.net",
+        "authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816579/access-to-xmlhttprequest-at-http-localhost5167-api-auth-register-from-origi",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-11T11:24:00Z",
+      "Title": "How to replace a COM Interop with the ComWrapper Source Generator?",
+      "Tags": [
+        "c#",
+        "com",
+        ".net-8.0",
+        "com-interop",
+        "tlb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816577/how-to-replace-a-com-interop-with-the-comwrapper-source-generator",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-11T17:44:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-11T16:56:00Z",
+      "Title": "HttpClient.PostAsJsonAsync (C#) returns 400 - string field is required",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816923/httpclient-postasjsonasync-c-returns-400-string-field-is-required",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

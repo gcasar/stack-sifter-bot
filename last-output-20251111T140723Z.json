@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-11T13:49:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-11T13:49:37Z",
+      "Title": "Difference between await and .ConfigureAwait(true)",
+      "Tags": [
+        "c#",
+        "asynchronous",
+        "async-await",
+        "configureawait"
+      ],
+      "Url": "https://stackoverflow.com/questions/79816724/difference-between-await-and-configureawaittrue",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

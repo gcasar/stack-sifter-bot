@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-11-12T13:01:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-12T13:01:36Z",
+      "Title": "How can I force iterator blocks to validate parameters before packing up and returning as a continuation?",
+      "Tags": [
+        "c#",
+        "iterator",
+        "lazy-initialization",
+        "continuations",
+        "lazy-sequences"
+      ],
+      "Url": "https://stackoverflow.com/questions/79817768/how-can-i-force-iterator-blocks-to-validate-parameters-before-packing-up-and-ret",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

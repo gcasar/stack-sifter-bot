@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-12T11:58:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-12T11:45:01Z",
+      "Title": "Please this bot is taking double trade how can i make it take single trade? [closed]",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79817693/please-this-bot-is-taking-double-trade-how-can-i-make-it-take-single-trade",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-12T11:55:50Z",
+      "Title": "async function not executing via Word dynamic menu ribbon button",
+      "Tags": [
+        "c#",
+        "ms-word",
+        "vsto",
+        "ribbon-control"
+      ],
+      "Url": "https://stackoverflow.com/questions/79817703/async-function-not-executing-via-word-dynamic-menu-ribbon-button",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

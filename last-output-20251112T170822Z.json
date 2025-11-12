@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-12T16:55:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-12T16:55:00Z",
+      "Title": "AI Ollama console application, pass an image to the LLM using KernelFunction",
+      "Tags": [
+        "c#",
+        ".net",
+        "ollama"
+      ],
+      "Url": "https://stackoverflow.com/questions/79818028/ai-ollama-console-application-pass-an-image-to-the-llm-using-kernelfunction",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-12T16:53:09Z",
+      "Title": "How to Post empty Json HttpClient",
+      "Tags": [
+        "c#",
+        "json",
+        "httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79818024/how-to-post-empty-json-httpclient",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2025-11-12T16:55:00Z",
+      "Title": "AI Ollama console application, pass an image to the LLM using KernelFunction",
+      "Tags": [
+        "c#",
+        ".net",
+        "ollama"
+      ],
+      "Url": "https://stackoverflow.com/questions/79818028/ai-ollama-console-application-pass-an-image-to-the-llm-using-kernelfunction",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

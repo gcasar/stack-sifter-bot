@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-12T14:44:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-12T13:57:49Z",
+      "Title": "Sending Messages between Applications using Azure Signal R in Default Mode",
+      "Tags": [
+        "c#",
+        "azure-functions",
+        "blazor",
+        "azure-signalr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79817810/sending-messages-between-applications-using-azure-signal-r-in-default-mode",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-12T13:57:49Z",
+      "Title": "Sending Messages between Applications using Azure Signal R in Default Mode",
+      "Tags": [
+        "c#",
+        "azure-functions",
+        "blazor",
+        "azure-signalr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79817810/sending-messages-between-applications-using-azure-signal-r-in-default-mode",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

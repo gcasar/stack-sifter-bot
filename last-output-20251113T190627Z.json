@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-13T18:40:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-13T18:26:19Z",
+      "Title": "How to fix ERR_INVALID_URL_SCHEME when initializing C# in WebAssembly in node.js?",
+      "Tags": [
+        "c#",
+        ".net",
+        "webassembly",
+        "vitest",
+        "dotnet-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79819306/how-to-fix-err-invalid-url-scheme-when-initializing-c-sharp-in-webassembly-in-no",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

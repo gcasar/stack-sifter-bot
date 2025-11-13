@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-13T08:21:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-13T08:12:04Z",
+      "Title": "Adding package reference System.Linq.AsyncEnumerable cause CS0518/CS0656 compile error",
+      "Tags": [
+        "c#",
+        "nuget-package"
+      ],
+      "Url": "https://stackoverflow.com/questions/79818582/adding-package-reference-system-linq-asyncenumerable-cause-cs0518-cs0656-compile",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

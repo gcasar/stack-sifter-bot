@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-13T13:21:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-13T13:21:48Z",
+      "Title": "docker-compose dependency on one .Net service ruins its healthcheck",
+      "Tags": [
+        "c#",
+        ".net",
+        "docker",
+        "docker-compose",
+        "health-check"
+      ],
+      "Url": "https://stackoverflow.com/questions/79818922/docker-compose-dependency-on-one-net-service-ruins-its-healthcheck",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

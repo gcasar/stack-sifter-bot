@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-12T23:33:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-12T23:15:44Z",
+      "Title": "How to preload a TrayIcon\u0027s NativeMenu instance in Avalonia",
+      "Tags": [
+        "c#",
+        "windows",
+        "avalonia"
+      ],
+      "Url": "https://stackoverflow.com/questions/79818322/how-to-preload-a-trayicons-nativemenu-instance-in-avalonia",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

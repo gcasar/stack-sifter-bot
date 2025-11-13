@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-13T22:03:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-13T22:03:48Z",
+      "Title": ".NET Core 8 Identity don\u0027t confirm email",
+      "Tags": [
+        "c#",
+        ".net",
+        "identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79819474/net-core-8-identity-dont-confirm-email",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-13T22:03:48Z",
+      "Title": ".NET Core 8 Identity don\u0027t confirm email",
+      "Tags": [
+        "c#",
+        ".net",
+        "identity"
+      ],
+      "Url": "https://stackoverflow.com/questions/79819474/net-core-8-identity-dont-confirm-email",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-14T08:47:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-14T08:46:29Z",
+      "Title": "Connecting to Oracle Database is Fast with C# ADO.NET, but Slow with Java JDBC",
+      "Tags": [
+        "java",
+        "c#",
+        "oracle-database",
+        "jdbc",
+        "ado.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79819805/connecting-to-oracle-database-is-fast-with-c-sharp-ado-net-but-slow-with-java-j",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-14T08:47:01Z",
+      "Title": "Fail to Run OnnxRuntime Session in C# with CUDA Device",
+      "Tags": [
+        "c#",
+        "yolov8",
+        "onnxruntime"
+      ],
+      "Url": "https://stackoverflow.com/questions/79819810/fail-to-run-onnxruntime-session-in-c-sharp-with-cuda-device",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

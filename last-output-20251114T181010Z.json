@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-14T17:57:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-14T17:57:17Z",
+      "Title": "Entity Framework core queries in an ASP.NET application targeting an Azure SQL database are running with wildly different runtimes",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "asp.net-core",
+        "entity-framework-core",
+        "azure-sql-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820328/entity-framework-core-queries-in-an-asp-net-application-targeting-an-azure-sql-d",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-14T17:57:17Z",
+      "Title": "Entity Framework core queries in an ASP.NET application targeting an Azure SQL database are running with wildly different runtimes",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "asp.net-core",
+        "entity-framework-core",
+        "azure-sql-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820328/entity-framework-core-queries-in-an-asp-net-application-targeting-an-azure-sql-d",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

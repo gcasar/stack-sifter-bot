@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-14T15:30:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-14T15:30:39Z",
+      "Title": "Unable to create a \u0027DbContext\u0027 of type \u0027AppDbContext\u0027. The exception \u0027Object reference not set to an instance of an object.\u0027 was thrown",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "entity-framework-core",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820195/unable-to-create-a-dbcontext-of-type-appdbcontext-the-exception-object-ref",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-14T20:05:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-14T19:56:41Z",
+      "Title": "How to configure multiple security schemes in ASP.NET Core Swagger with NSwag API spec",
+      "Tags": [
+        "c#",
+        "swagger",
+        "asp.net-core-webapi",
+        "nswag"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820404/how-to-configure-multiple-security-schemes-in-asp-net-core-swagger-with-nswag-ap",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

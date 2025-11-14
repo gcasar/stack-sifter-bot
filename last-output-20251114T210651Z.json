@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-14T20:42:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-14T20:28:42Z",
+      "Title": "NET 9 -\u003E .NET 10: MongoDB query using array.Contains throws NotSupportedException",
+      "Tags": [
+        "c#",
+        "mongodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820424/net-9-net-10-mongodb-query-using-array-contains-throws-notsupportedexceptio",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-14T20:28:42Z",
+      "Title": "NET 9 -\u003E .NET 10: MongoDB query using array.Contains throws NotSupportedException",
+      "Tags": [
+        "c#",
+        "mongodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820424/net-9-net-10-mongodb-query-using-array-contains-throws-notsupportedexceptio",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

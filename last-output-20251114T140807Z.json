@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-14T13:50:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-14T13:50:00Z",
+      "Title": "Should one service call another service or use the repository directly?",
+      "Tags": [
+        "c#",
+        "dependency-injection",
+        "architecture",
+        "repository-pattern",
+        "clean-architecture"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820098/should-one-service-call-another-service-or-use-the-repository-directly",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

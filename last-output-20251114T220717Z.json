@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-14T21:09:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-14T21:09:45Z",
+      "Title": "How to effectively use ASP.NET core Hybrid Cache with Result\u003CT\u003E type",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "caching",
+        "functional-programming",
+        "hybridcache"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820446/how-to-effectively-use-asp-net-core-hybrid-cache-with-resultt-type",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

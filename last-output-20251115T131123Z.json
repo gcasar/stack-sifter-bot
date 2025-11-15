@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-15T12:52:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-15T12:52:33Z",
+      "Title": "CustomAuthStateProvider in .net9, MudBlazor",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "authentication",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820844/customauthstateprovider-in-net9-mudblazor",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-15T12:19:32Z",
+      "Title": "DinkToPdf / wkhtmltopdf prints only 19 pages even with 64-bit DLL",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "pdf",
+        "wkhtmltopdf",
+        "dinktopdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820810/dinktopdf-wkhtmltopdf-prints-only-19-pages-even-with-64-bit-dll",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-15T12:52:33Z",
+      "Title": "CustomAuthStateProvider in .net9, MudBlazor",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "authentication",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820844/customauthstateprovider-in-net9-mudblazor",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

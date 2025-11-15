@@ -1,0 +1,31 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-15T15:05:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-15T14:28:22Z",
+      "Title": "I start integration tests with \u0060dotnet test\u0060. They spawn IIS Express which fails ONLY on CI pipeline if I require code coverage",
+      "Tags": [
+        "c#",
+        "asp.net",
+        ".net",
+        "unit-testing",
+        "iis-express"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820890/i-start-integration-tests-with-dotnet-test-they-spawn-iis-express-which-fails",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-15T15:05:12Z",
+      "Title": "Deep linking in NET9 MAUI",
+      "Tags": [
+        "c#",
+        "android",
+        "maui",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820912/deep-linking-in-net9-maui",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

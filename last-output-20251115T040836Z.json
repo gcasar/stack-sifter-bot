@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-15T03:54:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-15T03:54:25Z",
+      "Title": "C# Multithreading Issue with Simultaneous Smart Card Printing on Multiple Evolis Primacy 2 Printers",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "smartcard",
+        "pcsc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820565/c-sharp-multithreading-issue-with-simultaneous-smart-card-printing-on-multiple-e",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-15T03:54:25Z",
+      "Title": "C# Multithreading Issue with Simultaneous Smart Card Printing on Multiple Evolis Primacy 2 Printers",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "smartcard",
+        "pcsc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79820565/c-sharp-multithreading-issue-with-simultaneous-smart-card-printing-on-multiple-e",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-16T17:56:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-16T17:56:12Z",
+      "Title": "Implementing platform specific override method of custom client",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79821645/implementing-platform-specific-override-method-of-custom-client",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

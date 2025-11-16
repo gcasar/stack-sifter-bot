@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-16T13:09:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-16T12:12:09Z",
+      "Title": "Class resets to null after login in MudBlazor because page reloads \u2013 how can I persist the user until he logs out?",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79821443/class-resets-to-null-after-login-in-mudblazor-because-page-reloads-how-can-i-p",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

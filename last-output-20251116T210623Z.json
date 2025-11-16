@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-16T20:57:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-16T20:57:31Z",
+      "Title": "CameraRig shifts to incorrect position when switching from first-person to third-person after movement",
+      "Tags": [
+        "c#",
+        "unityscript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79821752/camerarig-shifts-to-incorrect-position-when-switching-from-first-person-to-third",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

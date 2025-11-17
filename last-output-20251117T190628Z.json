@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-17T18:37:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-17T18:37:52Z",
+      "Title": "How do I parse multipart content from an HttpResponseMessage?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "dotnet-httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79822655/how-do-i-parse-multipart-content-from-an-httpresponsemessage",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

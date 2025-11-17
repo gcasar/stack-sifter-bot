@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-17T14:17:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-17T14:17:17Z",
+      "Title": "Why doesn\u0027t cookie authentication work in my Blazor .NET 8 app?",
+      "Tags": [
+        "c#",
+        "authentication",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79822406/why-doesnt-cookie-authentication-work-in-my-blazor-net-8-app",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-17T14:17:17Z",
+      "Title": "Why doesn\u0027t cookie authentication work in my Blazor .NET 8 app?",
+      "Tags": [
+        "c#",
+        "authentication",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79822406/why-doesnt-cookie-authentication-work-in-my-blazor-net-8-app",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

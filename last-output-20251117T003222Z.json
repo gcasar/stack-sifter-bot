@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-16T23:10:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-16T23:10:35Z",
+      "Title": "How to force the Application.Run to wait for all async void handlers?",
+      "Tags": [
+        "c#",
+        "winforms",
+        "async-await",
+        "eventhandler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79821798/how-to-force-the-application-run-to-wait-for-all-async-void-handlers",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-16T23:10:35Z",
+      "Title": "How to force the Application.Run to wait for all async void handlers?",
+      "Tags": [
+        "c#",
+        "winforms",
+        "async-await",
+        "eventhandler"
+      ],
+      "Url": "https://stackoverflow.com/questions/79821798/how-to-force-the-application-run-to-wait-for-all-async-void-handlers",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-18T11:40:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-18T11:40:36Z",
+      "Title": "Trying to add a data to existing table",
+      "Tags": [
+        "c#",
+        "blazor",
+        "blazor-server-side",
+        "blazor-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823305/trying-to-add-a-data-to-existing-table",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

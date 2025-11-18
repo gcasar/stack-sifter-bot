@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-18T18:23:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-18T18:23:02Z",
+      "Title": "Upgrading project to .NET 10 breaks Scalar support when using document transformers",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "openapi",
+        ".net-10.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823708/upgrading-project-to-net-10-breaks-scalar-support-when-using-document-transform",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-18T18:23:02Z",
+      "Title": "Upgrading project to .NET 10 breaks Scalar support when using document transformers",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "openapi",
+        ".net-10.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823708/upgrading-project-to-net-10-breaks-scalar-support-when-using-document-transform",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-18T07:01:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-18T07:01:46Z",
+      "Title": ".NET MAUI 9 ZXing.Net.Maui doesn\u2019t scan 26-character Code128 barcodes (not detected or decoded incorrectly)",
+      "Tags": [
+        "c#",
+        "maui",
+        "zxing",
+        "zxing.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823068/net-maui-9-zxing-net-maui-doesn-t-scan-26-character-code128-barcodes-not-detec",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

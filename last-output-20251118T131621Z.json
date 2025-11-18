@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-18T13:13:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-18T13:13:01Z",
+      "Title": "ASP.NET Core Blazor Server \u002B Windows impersonation: backend returns 401 on new IIS server, works on old server",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "iis",
+        "kerberos",
+        "windows-authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823392/asp-net-core-blazor-server-windows-impersonation-backend-returns-401-on-new-i",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

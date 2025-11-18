@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-18T10:44:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-18T10:44:44Z",
+      "Title": "XML signature validation failing using SignedXML",
+      "Tags": [
+        "c#",
+        "xml",
+        "digital-signature",
+        "signedxml"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823263/xml-signature-validation-failing-using-signedxml",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

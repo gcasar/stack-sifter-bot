@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-18T15:46:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-18T15:28:52Z",
+      "Title": "Is there anyway to get physical disk Idle time without 1 second wait needed for PerformanceCounter.NextValue function?",
+      "Tags": [
+        "c#",
+        ".net",
+        "multithreading"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823542/is-there-anyway-to-get-physical-disk-idle-time-without-1-second-wait-needed-for",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-18T15:46:19Z",
+      "Title": "NSubstitute - Accept any argument that has been built with a specific parameter",
+      "Tags": [
+        "c#",
+        "arguments",
+        "nsubstitute",
+        "ardalis-specification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79823561/nsubstitute-accept-any-argument-that-has-been-built-with-a-specific-parameter",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

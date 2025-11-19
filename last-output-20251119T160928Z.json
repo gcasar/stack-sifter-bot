@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-19T16:03:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-19T15:16:38Z",
+      "Title": "EF Core 9 migration fails on production database copy with \u0022Cannot release the application lock\u0022 error",
+      "Tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79824628/ef-core-9-migration-fails-on-production-database-copy-with-cannot-release-the-a",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

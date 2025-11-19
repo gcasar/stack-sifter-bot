@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-19T10:57:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-19T10:33:04Z",
+      "Title": "C# - lock multiple methods or entire class to single thread execution",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "locking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79824329/c-sharp-lock-multiple-methods-or-entire-class-to-single-thread-execution",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-19T10:33:04Z",
+      "Title": "C# - lock multiple methods or entire class to single thread execution",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "locking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79824329/c-sharp-lock-multiple-methods-or-entire-class-to-single-thread-execution",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-20T12:37:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-20T12:37:32Z",
+      "Title": "Why are items not written to console immediately after being processed?",
+      "Tags": [
+        "c#",
+        "concurrency",
+        "task-parallel-library"
+      ],
+      "Url": "https://stackoverflow.com/questions/79825526/why-are-items-not-written-to-console-immediately-after-being-processed",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

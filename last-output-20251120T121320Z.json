@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-20T11:50:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-20T11:36:45Z",
+      "Title": "How to conditionally compose the EF from parts?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79825461/how-to-conditionally-compose-the-ef-from-parts",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

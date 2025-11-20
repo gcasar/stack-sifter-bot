@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-20T09:52:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-20T09:26:53Z",
+      "Title": "Why I am getting this exception on this code? [closed]",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79825325/why-i-am-getting-this-exception-on-this-code",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-20T09:26:53Z",
+      "Title": "Why I am getting this exception on this code? [closed]",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79825325/why-i-am-getting-this-exception-on-this-code",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

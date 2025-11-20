@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-20T03:54:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-20T03:54:34Z",
+      "Title": "Whenever I try to compile my MAUI project I get CS0246 Error",
+      "Tags": [
+        "c#",
+        ".net",
+        "maui",
+        "maui-windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79825076/whenever-i-try-to-compile-my-maui-project-i-get-cs0246-error",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-20T03:54:34Z",
+      "Title": "Whenever I try to compile my MAUI project I get CS0246 Error",
+      "Tags": [
+        "c#",
+        ".net",
+        "maui",
+        "maui-windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79825076/whenever-i-try-to-compile-my-maui-project-i-get-cs0246-error",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

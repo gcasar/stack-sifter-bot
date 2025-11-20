@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-20T14:28:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-20T14:10:25Z",
+      "Title": "Refactoring Azure Functions .dll files to external project makes it fail for durable functions, why",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-functions",
+        "azure-durable-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79825606/refactoring-azure-functions-dll-files-to-external-project-makes-it-fail-for-dur",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

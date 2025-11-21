@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-21T09:05:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-21T09:05:20Z",
+      "Title": "MediatR Nuget package versions creating problems",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "dependency-injection",
+        "nuget-package",
+        "mediatr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79826300/mediatr-nuget-package-versions-creating-problems",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

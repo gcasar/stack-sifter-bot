@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-21T09:29:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-21T09:29:18Z",
+      "Title": "Issues using Machine Translation plugins for SDL Studio through API",
+      "Tags": [
+        "c#",
+        "sdl",
+        "translation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79826331/issues-using-machine-translation-plugins-for-sdl-studio-through-api",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

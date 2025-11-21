@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-11-21T11:05:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-21T10:12:08Z",
+      "Title": "MRU structure with fixed number of elements, automatically adapting to LINQ queries",
+      "Tags": [
+        "c#",
+        "performance",
+        "linq",
+        "data-structures",
+        "mru"
+      ],
+      "Url": "https://stackoverflow.com/questions/79826378/mru-structure-with-fixed-number-of-elements-automatically-adapting-to-linq-quer",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

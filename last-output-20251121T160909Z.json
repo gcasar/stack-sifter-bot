@@ -1,0 +1,24 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-21T15:21:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-21T15:21:36Z",
+      "Title": "Sending an HTTP Post Request using C#",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79826684/sending-an-http-post-request-using-c-sharp",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-21T15:21:36Z",
+      "Title": "Sending an HTTP Post Request using C#",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79826684/sending-an-http-post-request-using-c-sharp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

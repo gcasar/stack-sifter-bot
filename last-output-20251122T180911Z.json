@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-22T17:31:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-22T17:31:13Z",
+      "Title": "how to load types from SIEMENS OPC Interface xml into an Opc.Ua.NetStandard c# server",
+      "Tags": [
+        "c#",
+        "opc",
+        "siemens"
+      ],
+      "Url": "https://stackoverflow.com/questions/79827469/how-to-load-types-from-siemens-opc-interface-xml-into-an-opc-ua-netstandard-c-sh",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

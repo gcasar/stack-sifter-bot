@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-22T16:10:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-22T16:10:44Z",
+      "Title": "Blazor Using Input Control for Date or DateTime",
+      "Tags": [
+        "c#",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79827420/blazor-using-input-control-for-date-or-datetime",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

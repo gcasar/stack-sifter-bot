@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-23T21:10:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-23T21:10:04Z",
+      "Title": "Coding a Nested JSON object using Newtonsoft.Json",
+      "Tags": [
+        "c#",
+        "json.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79828117/coding-a-nested-json-object-using-newtonsoft-json",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

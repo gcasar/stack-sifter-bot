@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-24T07:40:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-24T07:40:25Z",
+      "Title": "Dapper Query with Parameter not holding temp table in subsequent query",
+      "Tags": [
+        "c#",
+        ".net",
+        "dapper"
+      ],
+      "Url": "https://stackoverflow.com/questions/79828374/dapper-query-with-parameter-not-holding-temp-table-in-subsequent-query",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

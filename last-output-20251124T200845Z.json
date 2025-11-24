@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-24T19:14:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-24T19:14:26Z",
+      "Title": "How can I implement NetMod-like tunneling features (payload injection, IP rotator, DNS mode, split tunneling, etc.) in my C# VPN client?",
+      "Tags": [
+        "c#",
+        ".net",
+        "ssh",
+        "ip",
+        "vpn"
+      ],
+      "Url": "https://stackoverflow.com/questions/79829028/how-can-i-implement-netmod-like-tunneling-features-payload-injection-ip-rotato",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

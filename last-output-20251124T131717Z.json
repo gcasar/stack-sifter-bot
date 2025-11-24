@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-24T12:56:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-24T12:56:02Z",
+      "Title": "Entity Framework/Linq Get Last Record From List With Condition",
+      "Tags": [
+        "c#",
+        ".net",
+        "entity-framework",
+        "linq",
+        ".net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79828661/entity-framework-linq-get-last-record-from-list-with-condition",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

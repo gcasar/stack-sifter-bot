@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-25T01:21:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-25T01:21:09Z",
+      "Title": "opening a Modal based on Mudradio selection in Mudblazor",
+      "Tags": [
+        "c#",
+        "modal-dialog",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79829241/opening-a-modal-based-on-mudradio-selection-in-mudblazor",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

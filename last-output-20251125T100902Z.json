@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-25T09:55:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-25T09:41:56Z",
+      "Title": "AWS S3 .NET SDK download fails for .mp4 and .mp3 files with IOException: \u201CAn existing connection was forcibly closed by the remote host\u201D",
+      "Tags": [
+        "c#",
+        ".net",
+        "amazon-s3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79829525/aws-s3-net-sdk-download-fails-for-mp4-and-mp3-files-with-ioexception-an-exi",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-25T09:41:56Z",
+      "Title": "AWS S3 .NET SDK download fails for .mp4 and .mp3 files with IOException: \u201CAn existing connection was forcibly closed by the remote host\u201D",
+      "Tags": [
+        "c#",
+        ".net",
+        "amazon-s3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79829525/aws-s3-net-sdk-download-fails-for-mp4-and-mp3-files-with-ioexception-an-exi",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

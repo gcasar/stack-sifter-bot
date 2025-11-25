@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-25T08:04:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-25T08:04:07Z",
+      "Title": "Why does DevExpress Report only display one row despite multi-row data source?",
+      "Tags": [
+        "c#",
+        ".net",
+        "devexpress",
+        "xtrareport",
+        "devexpress-reports"
+      ],
+      "Url": "https://stackoverflow.com/questions/79829420/why-does-devexpress-report-only-display-one-row-despite-multi-row-data-source",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-25T08:04:07Z",
+      "Title": "Why does DevExpress Report only display one row despite multi-row data source?",
+      "Tags": [
+        "c#",
+        ".net",
+        "devexpress",
+        "xtrareport",
+        "devexpress-reports"
+      ],
+      "Url": "https://stackoverflow.com/questions/79829420/why-does-devexpress-report-only-display-one-row-despite-multi-row-data-source",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-25T16:33:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-25T16:33:15Z",
+      "Title": "How to log Headers or Cookies added to outgoing http-request by SocketsHttpHandler",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "logging",
+        ".net-8.0",
+        "message-handlers"
+      ],
+      "Url": "https://stackoverflow.com/questions/79829975/how-to-log-headers-or-cookies-added-to-outgoing-http-request-by-socketshttphandl",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

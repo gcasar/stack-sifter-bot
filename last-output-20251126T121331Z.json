@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-26T12:05:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-26T12:05:25Z",
+      "Title": "How to auto login in swagger api in development mode?",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "swagger"
+      ],
+      "Url": "https://stackoverflow.com/questions/79830670/how-to-auto-login-in-swagger-api-in-development-mode",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

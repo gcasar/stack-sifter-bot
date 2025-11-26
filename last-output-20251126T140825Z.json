@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-26T13:43:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-26T13:43:49Z",
+      "Title": "Velopack is not updating version of WPF application",
+      "Tags": [
+        "c#",
+        "wpf",
+        "windows",
+        "auto-update"
+      ],
+      "Url": "https://stackoverflow.com/questions/79830781/velopack-is-not-updating-version-of-wpf-application",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

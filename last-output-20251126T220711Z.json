@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-26T21:45:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-26T21:15:40Z",
+      "Title": "Get all implementations of an interface for a class, including for base",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79831158/get-all-implementations-of-an-interface-for-a-class-including-for-base",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

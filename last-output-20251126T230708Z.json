@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-26T22:43:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-26T22:27:04Z",
+      "Title": "NLog.Web.AspNetCore not formatting object as JSON",
+      "Tags": [
+        "c#",
+        "asp.net-web-api",
+        "nlog",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79831199/nlog-web-aspnetcore-not-formatting-object-as-json",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-11-26T10:45:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-26T10:45:53Z",
+      "Title": "Answers can still be found with a tag that was removed days or even months ago",
+      "Tags": [
+        "bug",
+        "answers",
+        "search",
+        "caching"
+      ],
+      "Url": "https://meta.stackoverflow.com/questions/436610/answers-can-still-be-found-with-a-tag-that-was-removed-days-or-even-months-ago",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

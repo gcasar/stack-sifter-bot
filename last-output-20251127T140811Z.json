@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-27T13:50:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-27T13:50:42Z",
+      "Title": "Simple TLS TCP client/server doesn\u0027t work on .Net 10",
+      "Tags": [
+        "c#",
+        ".net",
+        "ssl"
+      ],
+      "Url": "https://stackoverflow.com/questions/79831761/simple-tls-tcp-client-server-doesnt-work-on-net-10",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

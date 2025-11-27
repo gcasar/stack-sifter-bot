@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-27T20:33:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-27T20:33:10Z",
+      "Title": "DevExpress ASPxGridView reloads data on every group row expand - how to cache/prevent?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "caching",
+        "gridview",
+        "devexpress"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832060/devexpress-aspxgridview-reloads-data-on-every-group-row-expand-how-to-cache-pr",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

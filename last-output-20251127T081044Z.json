@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-27T08:02:38Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-27T08:02:38Z",
+      "Title": "c# processes talking to each other using sockets",
+      "Tags": [
+        "c#",
+        "sockets",
+        "task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79831482/c-sharp-processes-talking-to-each-other-using-sockets",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

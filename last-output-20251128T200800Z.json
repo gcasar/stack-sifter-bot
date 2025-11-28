@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-28T19:33:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-28T19:33:42Z",
+      "Title": "Performance and thread\u2011safety ASP.NET Core MVC",
+      "Tags": [
+        "c#",
+        "asp.net-core-mvc",
+        "thread-safety"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832868/performance-and-thread-safety-asp-net-core-mvc",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-28T19:33:42Z",
+      "Title": "Performance and thread\u2011safety ASP.NET Core MVC",
+      "Tags": [
+        "c#",
+        "asp.net-core-mvc",
+        "thread-safety"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832868/performance-and-thread-safety-asp-net-core-mvc",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

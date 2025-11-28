@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-28T14:20:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-28T14:20:20Z",
+      "Title": "How to async fill the navigation property used for filtering when paging?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832646/how-to-async-fill-the-navigation-property-used-for-filtering-when-paging",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-11-28T14:20:20Z",
+      "Title": "How to async fill the navigation property used for filtering when paging?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832646/how-to-async-fill-the-navigation-property-used-for-filtering-when-paging",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

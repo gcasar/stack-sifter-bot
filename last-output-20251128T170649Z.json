@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-28T16:32:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-28T16:32:35Z",
+      "Title": "A factorial-counting algorithm not using large integer types like long or BigInteger [closed]",
+      "Tags": [
+        "c#",
+        ".net",
+        "algorithm",
+        "factorial"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832745/a-factorial-counting-algorithm-not-using-large-integer-types-like-long-or-bigint",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

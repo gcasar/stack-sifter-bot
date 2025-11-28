@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-28T11:49:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-28T11:49:06Z",
+      "Title": "Component is not rendering after StateHasChanged call",
+      "Tags": [
+        "c#",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832515/component-is-not-rendering-after-statehaschanged-call",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

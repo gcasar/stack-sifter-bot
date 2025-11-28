@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-28T10:30:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-28T10:25:47Z",
+      "Title": "How to send HTTP POST request with multipart/form-data with the form-data in initial request in .NET Framework?",
+      "Tags": [
+        "c#",
+        "http",
+        "dotnet-httpclient",
+        ".net-4.8"
+      ],
+      "Url": "https://stackoverflow.com/questions/79832459/how-to-send-http-post-request-with-multipart-form-data-with-the-form-data-in-ini",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

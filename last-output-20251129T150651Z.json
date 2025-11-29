@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-11-29T14:48:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-29T14:08:19Z",
+      "Title": "WPF Modal Window renders completely white (blank) in Hybrid WinForms application under load",
+      "Tags": [
+        "c#",
+        "wpf",
+        "winforms",
+        "rendering",
+        "wpf-interop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79833300/wpf-modal-window-renders-completely-white-blank-in-hybrid-winforms-application",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

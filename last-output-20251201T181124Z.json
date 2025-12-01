@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-01T17:53:03Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-01T17:37:00Z",
+      "Title": ".NET 10.0 integration tests error with xunit v3 assembly fixture and WebApplicationFactory",
+      "Tags": [
+        "c#",
+        ".net-10.0",
+        "xunit3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79835137/net-10-0-integration-tests-error-with-xunit-v3-assembly-fixture-and-webapplicat",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2025-12-01T17:53:03Z",
+      "Title": "How to Make Composition ColorShadow Control Circular?",
+      "Tags": [
+        "c#",
+        "uwp",
+        "composition",
+        "winui",
+        "win2d"
+      ],
+      "Url": "https://stackoverflow.com/questions/79835148/how-to-make-composition-colorshadow-control-circular",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

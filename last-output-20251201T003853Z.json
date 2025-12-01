@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-11-30T23:51:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-11-30T23:51:24Z",
+      "Title": "Unable to authenticate to Twitter API",
+      "Tags": [
+        "c#",
+        ".net",
+        "authentication",
+        "twitter",
+        "oauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79834254/unable-to-authenticate-to-twitter-api",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-11-30T23:51:24Z",
+      "Title": "Unable to authenticate to Twitter API",
+      "Tags": [
+        "c#",
+        ".net",
+        "authentication",
+        "twitter",
+        "oauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79834254/unable-to-authenticate-to-twitter-api",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    },
+    {
+      "Created": "2025-11-30T23:51:24Z",
+      "Title": "Unable to authenticate to Twitter API",
+      "Tags": [
+        "c#",
+        ".net",
+        "authentication",
+        "twitter",
+        "oauth"
+      ],
+      "Url": "https://stackoverflow.com/questions/79834254/unable-to-authenticate-to-twitter-api",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

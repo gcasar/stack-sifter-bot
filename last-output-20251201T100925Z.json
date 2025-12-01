@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-01T10:04:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-01T10:04:39Z",
+      "Title": "Why does this C# code take 6 seconds instead of 5?",
+      "Tags": [
+        "c#",
+        ".net",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79834627/why-does-this-c-sharp-code-take-6-seconds-instead-of-5",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

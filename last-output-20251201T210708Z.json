@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-01T20:57:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-01T20:25:08Z",
+      "Title": "forceChangePasswordNextSignIn in Azure B2C does not work [closed]",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-ad-b2c",
+        "azure-ad-b2c-custom-policy",
+        "reset-password"
+      ],
+      "Url": "https://stackoverflow.com/questions/79835258/forcechangepasswordnextsignin-in-azure-b2c-does-not-work",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

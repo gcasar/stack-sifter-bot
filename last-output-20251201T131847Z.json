@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-01T12:53:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-01T12:53:11Z",
+      "Title": "ComponentSpace - SSO - ISamlServiceProvider.SamlState is empty during GetLocalSPConfiguration Intermittently",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "single-sign-on",
+        "component-space"
+      ],
+      "Url": "https://stackoverflow.com/questions/79834848/componentspace-sso-isamlserviceprovider-samlstate-is-empty-during-getlocalsp",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-12-01T12:53:11Z",
+      "Title": "ComponentSpace - SSO - ISamlServiceProvider.SamlState is empty during GetLocalSPConfiguration Intermittently",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "single-sign-on",
+        "component-space"
+      ],
+      "Url": "https://stackoverflow.com/questions/79834848/componentspace-sso-isamlserviceprovider-samlstate-is-empty-during-getlocalsp",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-01T12:53:11Z",
+      "Title": "ComponentSpace - SSO - ISamlServiceProvider.SamlState is empty during GetLocalSPConfiguration Intermittently",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "single-sign-on",
+        "component-space"
+      ],
+      "Url": "https://stackoverflow.com/questions/79834848/componentspace-sso-isamlserviceprovider-samlstate-is-empty-during-getlocalsp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

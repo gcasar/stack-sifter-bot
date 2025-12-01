@@ -1,0 +1,41 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-01T16:25:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-01T16:23:57Z",
+      "Title": "How to Configure Azure AD and Azure AD B2C Together as JWT Authentication Providers in ASP.NET Core?",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-active-directory",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79835066/how-to-configure-azure-ad-and-azure-ad-b2c-together-as-jwt-authentication-provid",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-12-01T16:23:57Z",
+      "Title": "How to Configure Azure AD and Azure AD B2C Together as JWT Authentication Providers in ASP.NET Core?",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-active-directory",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79835066/how-to-configure-azure-ad-and-azure-ad-b2c-together-as-jwt-authentication-provid",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    },
+    {
+      "Created": "2025-12-01T16:16:29Z",
+      "Title": "Need to call ConfigureAwait for tasks only once or after all awaits?",
+      "Tags": [
+        "c#",
+        "async-await",
+        "configureawait"
+      ],
+      "Url": "https://stackoverflow.com/questions/79835059/need-to-call-configureawait-for-tasks-only-once-or-after-all-awaits",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

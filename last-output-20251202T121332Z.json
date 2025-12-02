@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-02T12:04:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-02T12:04:20Z",
+      "Title": "Using API Generated Token To Authenticate User In Blazor Server Application",
+      "Tags": [
+        "c#",
+        "authentication",
+        "jwt",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79835845/using-api-generated-token-to-authenticate-user-in-blazor-server-application",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

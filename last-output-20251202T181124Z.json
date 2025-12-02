@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-02T18:09:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-02T17:10:29Z",
+      "Title": "Add and Remove items from a collection declared as private readonly [duplicate]",
+      "Tags": [
+        "c#",
+        "readonly-keyword"
+      ],
+      "Url": "https://stackoverflow.com/questions/79836152/add-and-remove-items-from-a-collection-declared-as-private-readonly",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

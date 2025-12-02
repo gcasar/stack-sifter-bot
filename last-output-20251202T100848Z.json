@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-02T09:49:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-02T09:49:12Z",
+      "Title": "data.stackexchange query requests fail with HTTP 429 Too Many Requests",
+      "Tags": [
+        "bug",
+        "status-review",
+        "data-explorer"
+      ],
+      "Url": "https://meta.stackoverflow.com/questions/436643/data-stackexchange-query-requests-fail-with-http-429-too-many-requests",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

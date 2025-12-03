@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-03T13:13:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-03T13:13:16Z",
+      "Title": "QuestPDF doesn\u0027t render text, when ran in Azure Functions",
+      "Tags": [
+        "c#",
+        "azure",
+        ".net-core",
+        "azure-functions",
+        "questpdf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79836926/questpdf-doesnt-render-text-when-ran-in-azure-functions",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

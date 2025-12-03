@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-03T07:39:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-03T07:39:14Z",
+      "Title": "Visual Studio 2026 C# Code Analyzer CS1998 is missing",
+      "Tags": [
+        "c#",
+        ".net-8.0",
+        "code-analysis",
+        "visual-studio-2026"
+      ],
+      "Url": "https://stackoverflow.com/questions/79836628/visual-studio-2026-c-sharp-code-analyzer-cs1998-is-missing",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

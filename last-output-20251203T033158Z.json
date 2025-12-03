@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-03T02:54:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-03T02:54:27Z",
+      "Title": "AzureClientFactory BlobServiceClient Variables",
+      "Tags": [
+        "c#",
+        "azure",
+        ".net-core",
+        "azure-blob-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79836481/azureclientfactory-blobserviceclient-variables",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

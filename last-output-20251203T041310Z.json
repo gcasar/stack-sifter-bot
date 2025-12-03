@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-03T04:07:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-03T04:07:28Z",
+      "Title": ".NET Performance is not scaling linearly with core count",
+      "Tags": [
+        "c#",
+        ".net",
+        "multithreading",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79836508/net-performance-is-not-scaling-linearly-with-core-count",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-03T04:07:28Z",
+      "Title": ".NET Performance is not scaling linearly with core count",
+      "Tags": [
+        "c#",
+        ".net",
+        "multithreading",
+        "performance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79836508/net-performance-is-not-scaling-linearly-with-core-count",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

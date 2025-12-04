@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-04T14:59:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-04T14:59:28Z",
+      "Title": "Send Email Using OAuth And Miscrosft Personal Email",
+      "Tags": [
+        "c#",
+        "oauth-2.0",
+        "outlook",
+        "smtp",
+        "chilkat"
+      ],
+      "Url": "https://stackoverflow.com/questions/79838060/send-email-using-oauth-and-miscrosft-personal-email",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

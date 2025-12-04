@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2025-12-04T08:44:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-04T08:15:13Z",
+      "Title": "Exception threw when calling ReadAsStringAsync() using a proxy-aware HttpClient",
+      "Tags": [
+        "c#",
+        "proxy",
+        "httpclient",
+        "ihttpclientfactory"
+      ],
+      "Url": "https://stackoverflow.com/questions/79837674/exception-threw-when-calling-readasstringasync-using-a-proxy-aware-httpclient",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2025-12-04T08:42:41Z",
+      "Title": "CultureInfo.DefaultThreadCurrentCulture doesn\u0027t affect threads of Task.Run in C#?",
+      "Tags": [
+        "c#",
+        "multithreading",
+        "cultureinfo"
+      ],
+      "Url": "https://stackoverflow.com/questions/79837699/cultureinfo-defaultthreadcurrentculture-doesnt-affect-threads-of-task-run-in-c",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-05T14:17:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-05T14:17:07Z",
+      "Title": "How to implement async task version of function",
+      "Tags": [
+        "c#",
+        "asynchronous",
+        "task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79838988/how-to-implement-async-task-version-of-function",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

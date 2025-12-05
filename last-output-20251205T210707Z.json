@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-05T20:42:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-05T20:09:18Z",
+      "Title": "Persistent NullReferenceException on List Add (.Items.Add) after PlayFab Login",
+      "Tags": [
+        "c#",
+        "maui",
+        "playfab"
+      ],
+      "Url": "https://stackoverflow.com/questions/79839265/persistent-nullreferenceexception-on-list-add-items-add-after-playfab-login",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

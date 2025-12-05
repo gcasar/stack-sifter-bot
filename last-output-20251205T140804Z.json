@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-05T13:54:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-05T13:54:27Z",
+      "Title": "Typesense filter_by: starts-with filter returns too few results and combined filters return 0",
+      "Tags": [
+        "c#",
+        ".net",
+        "typesense"
+      ],
+      "Url": "https://stackoverflow.com/questions/79838960/typesense-filter-by-starts-with-filter-returns-too-few-results-and-combined-fil",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

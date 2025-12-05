@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-05T10:00:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-05T10:00:35Z",
+      "Title": "Unable to Stop or Reset Local Durable Azure Function Execution (Orchestrator Keeps Resuming Previous State)",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure",
+        "azure-functions",
+        "azure-durable-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79838736/unable-to-stop-or-reset-local-durable-azure-function-execution-orchestrator-kee",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-05T10:00:35Z",
+      "Title": "Unable to Stop or Reset Local Durable Azure Function Execution (Orchestrator Keeps Resuming Previous State)",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure",
+        "azure-functions",
+        "azure-durable-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79838736/unable-to-stop-or-reset-local-durable-azure-function-execution-orchestrator-kee",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

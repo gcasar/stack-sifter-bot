@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-06T12:09:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-06T11:32:12Z",
+      "Title": "my socket server works in windows without docker but insider container using docker desktop i get no response",
+      "Tags": [
+        "c#",
+        ".net",
+        "docker",
+        "sockets",
+        ".net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79839650/my-socket-server-works-in-windows-without-docker-but-insider-container-using-doc",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-06T11:32:12Z",
+      "Title": "my socket server works in windows without docker but insider container using docker desktop i get no response",
+      "Tags": [
+        "c#",
+        ".net",
+        "docker",
+        "sockets",
+        ".net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79839650/my-socket-server-works-in-windows-without-docker-but-insider-container-using-doc",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

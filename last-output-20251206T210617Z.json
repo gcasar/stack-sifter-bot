@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-06T21:03:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-06T21:03:15Z",
+      "Title": "EF Core 8: How to add the as-if navigation property defined by the external parameter?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "ef-core-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79839952/ef-core-8-how-to-add-the-as-if-navigation-property-defined-by-the-external-para",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-08T14:33:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-08T14:26:15Z",
+      "Title": "Azure Load Balancer vs Application Gateway for Elasticsearch",
+      "Tags": [
+        "c#",
+        "elasticsearch",
+        "azure-application-gateway",
+        "azure-webapps",
+        "azure-load-balancer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79841064/azure-load-balancer-vs-application-gateway-for-elasticsearch",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-08T14:26:15Z",
+      "Title": "Azure Load Balancer vs Application Gateway for Elasticsearch",
+      "Tags": [
+        "c#",
+        "elasticsearch",
+        "azure-application-gateway",
+        "azure-webapps",
+        "azure-load-balancer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79841064/azure-load-balancer-vs-application-gateway-for-elasticsearch",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

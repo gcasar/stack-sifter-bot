@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-08T11:02:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-08T10:45:52Z",
+      "Title": "Updating Micorsoft.IdentityModel.Tokens from 6.27 To 8.15",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "system.identitymodel.tokens.jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79840856/updating-micorsoft-identitymodel-tokens-from-6-27-to-8-15",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-12-08T11:02:28Z",
+      "Title": "Angular login request stays pending when authenticating using token (ASP.NET Core Identity \u002B cookies \u002B CORS)",
+      "Tags": [
+        "c#",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79840870/angular-login-request-stays-pending-when-authenticating-using-token-asp-net-cor",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-12-08T11:02:28Z",
+      "Title": "Angular login request stays pending when authenticating using token (ASP.NET Core Identity \u002B cookies \u002B CORS)",
+      "Tags": [
+        "c#",
+        "angular",
+        "typescript"
+      ],
+      "Url": "https://stackoverflow.com/questions/79840870/angular-login-request-stays-pending-when-authenticating-using-token-asp-net-cor",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

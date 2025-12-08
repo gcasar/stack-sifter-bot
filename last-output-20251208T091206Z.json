@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-08T08:39:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-08T08:39:36Z",
+      "Title": "Jira Cloud API: {\u0022errorMessages\u0022:[\u0022You do not have permission to create issues in this project.\u0022]} even though I am Space Administrator",
+      "Tags": [
+        "c#",
+        ".net",
+        "permissions",
+        "jira",
+        "jira-rest-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79840748/jira-cloud-api-errormessagesyou-do-not-have-permission-to-create-issues-i",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

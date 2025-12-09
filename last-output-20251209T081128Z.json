@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-09T07:39:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-09T07:39:24Z",
+      "Title": "LinqToSql float SP param generates string that is too long for double value of 0.820035 [duplicate]",
+      "Tags": [
+        "c#",
+        "stored-procedures",
+        "linq-to-sql",
+        "double"
+      ],
+      "Url": "https://stackoverflow.com/questions/79841635/linqtosql-float-sp-param-generates-string-that-is-too-long-for-double-value-of-0",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

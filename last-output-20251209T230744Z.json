@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-09T23:02:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-09T23:02:47Z",
+      "Title": "Creating an Extenstion to create a \u0060ZipArchiveEntry",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79842434/creating-an-extenstion-to-create-a-ziparchiveentry",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

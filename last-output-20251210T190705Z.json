@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-10T18:58:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-10T18:58:31Z",
+      "Title": "Method-body equivalent of lambda expression",
+      "Tags": [
+        "c#",
+        "methods",
+        "lambda",
+        "refactoring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79843352/method-body-equivalent-of-lambda-expression",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

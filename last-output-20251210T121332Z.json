@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-10T11:38:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-10T11:38:42Z",
+      "Title": ".NET MAUI project gets stuck on \u0022Executing code cleanup\u0022 for minutes or indefinitely after adding Dependency Injection services",
+      "Tags": [
+        "c#",
+        ".net",
+        "visual-studio",
+        "xaml",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79842890/net-maui-project-gets-stuck-on-executing-code-cleanup-for-minutes-or-indefini",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

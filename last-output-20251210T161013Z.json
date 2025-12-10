@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-10T15:38:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-10T15:38:54Z",
+      "Title": "Getting access to API after OIDC Login to Blazor server app",
+      "Tags": [
+        "c#",
+        ".net",
+        "keycloak",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79843145/getting-access-to-api-after-oidc-login-to-blazor-server-app",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-10T12:18:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-10T12:18:45Z",
+      "Title": "Deep link error OnCreate for Android in NET9 MAUI",
+      "Tags": [
+        "c#",
+        "android",
+        "maui",
+        "deep-linking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79842939/deep-link-error-oncreate-for-android-in-net9-maui",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

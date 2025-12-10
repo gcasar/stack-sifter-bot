@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-10T14:08:09Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-10T14:08:09Z",
+      "Title": "StackExchange.Redis timeout when moving from Azure Premium Redis to Azure Managed (non Enterprise Redis to Enterprise)",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "redis",
+        "stackexchange.redis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79843037/stackexchange-redis-timeout-when-moving-from-azure-premium-redis-to-azure-manage",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-11T22:42:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-11T22:42:49Z",
+      "Title": "How to Clean Ugly Extension Methods",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "code-cleanup"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844423/how-to-clean-ugly-extension-methods",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

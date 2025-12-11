@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-11T10:55:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-11T10:26:18Z",
+      "Title": "Best way to make reusable linq statements, which can be included as part of a where, select and even order by clause",
+      "Tags": [
+        "c#",
+        "linq",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79843855/best-way-to-make-reusable-linq-statements-which-can-be-included-as-part-of-a-wh",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

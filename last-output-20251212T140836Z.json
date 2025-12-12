@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-12T13:45:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-12T13:45:27Z",
+      "Title": "Converting lambda-expression to named-method",
+      "Tags": [
+        "c#",
+        "methods",
+        "lambda",
+        "refactoring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844936/converting-lambda-expression-to-named-method",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

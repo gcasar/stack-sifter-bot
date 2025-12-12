@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-12T07:04:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-12T07:04:08Z",
+      "Title": "Managing async Tasks when shutdown occurs in .Net apps",
+      "Tags": [
+        "c#",
+        "asynchronous",
+        "task",
+        "application-shutdown"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844624/managing-async-tasks-when-shutdown-occurs-in-net-apps",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

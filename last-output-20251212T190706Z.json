@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-12T18:10:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-12T18:10:22Z",
+      "Title": "How can I copy a single file whose name includes wildcard characters without listing the entire directory?",
+      "Tags": [
+        "c#",
+        "wildcard",
+        "winscp-net",
+        "directory-listing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79845134/how-can-i-copy-a-single-file-whose-name-includes-wildcard-characters-without-lis",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

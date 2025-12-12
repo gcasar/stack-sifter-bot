@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-12T13:05:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-12T13:05:31Z",
+      "Title": "Postgres 23505 duplicate key exception in EF Core AddOrUpdate (race condition on initial insert)",
+      "Tags": [
+        "c#",
+        "postgresql",
+        "entity-framework-core",
+        "npgsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844911/postgres-23505-duplicate-key-exception-in-ef-core-addorupdate-race-condition-on",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-12T13:05:31Z",
+      "Title": "Postgres 23505 duplicate key exception in EF Core AddOrUpdate (race condition on initial insert)",
+      "Tags": [
+        "c#",
+        "postgresql",
+        "entity-framework-core",
+        "npgsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844911/postgres-23505-duplicate-key-exception-in-ef-core-addorupdate-race-condition-on",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-12T01:15:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-12T00:54:19Z",
+      "Title": "C# await and data integrity",
+      "Tags": [
+        "c#",
+        "async-await",
+        "thread-safety"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844473/c-sharp-await-and-data-integrity",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

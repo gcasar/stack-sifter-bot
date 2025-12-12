@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-12T11:47:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-12T11:47:44Z",
+      "Title": "SQLite Error 10: \u0027disk I/O error\u0027 during EF Core migration in .NET MAUI (MacCatalyst) under low resource conditions",
+      "Tags": [
+        "c#",
+        "sqlite",
+        "entity-framework",
+        "maui",
+        "mac-catalyst"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844847/sqlite-error-10-disk-i-o-error-during-ef-core-migration-in-net-maui-maccata",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

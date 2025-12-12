@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-11T23:32:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-11T23:32:04Z",
+      "Title": "Query MongoDB using C#",
+      "Tags": [
+        "c#",
+        "mongodb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79844445/query-mongodb-using-c-sharp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

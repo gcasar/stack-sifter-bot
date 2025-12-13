@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-13T11:33:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-13T11:33:22Z",
+      "Title": "Postmark says sending status is PostmarkStatus.success, but nothing in my stream activity",
+      "Tags": [
+        "c#",
+        "postmark"
+      ],
+      "Url": "https://stackoverflow.com/questions/79846508/postmark-says-sending-status-is-postmarkstatus-success-but-nothing-in-my-stream",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

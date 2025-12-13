@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-13T03:24:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-13T03:24:13Z",
+      "Title": "Parallel.ForEach Returning Values",
+      "Tags": [
+        "c#",
+        "list",
+        "parallel-processing",
+        "parallel.foreach"
+      ],
+      "Url": "https://stackoverflow.com/questions/79846363/parallel-foreach-returning-values",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-13T03:04:00Z",
+      "Title": "\u0022Illegal characters in path\u0022 - C# WinForms App",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "winforms",
+        "designer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79846360/illegal-characters-in-path-c-sharp-winforms-app",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-15T06:15:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-15T06:15:46Z",
+      "Title": "Word Range.Find gets stuck in same table cell when searching hidden text and adding comments",
+      "Tags": [
+        "c#",
+        "ms-word",
+        "vsto"
+      ],
+      "Url": "https://stackoverflow.com/questions/79847434/word-range-find-gets-stuck-in-same-table-cell-when-searching-hidden-text-and-add",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

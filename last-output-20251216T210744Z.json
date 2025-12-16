@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-16T20:50:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-16T20:50:55Z",
+      "Title": "The call is ambiguous between identical methods",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79848893/the-call-is-ambiguous-between-identical-methods",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

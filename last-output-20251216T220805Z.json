@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-16T21:56:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-16T21:56:48Z",
+      "Title": "When and Why Should I Use ConfigureAwait(false) in C# async/await? [duplicate]",
+      "Tags": [
+        "c#",
+        ".net",
+        "multithreading",
+        "async-await"
+      ],
+      "Url": "https://stackoverflow.com/questions/79848938/when-and-why-should-i-use-configureawaitfalse-in-c-sharp-async-await",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

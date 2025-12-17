@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-17T21:31:26Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-17T21:18:13Z",
+      "Title": "How to pass an IQueryable type as a query to a linq [closed]",
+      "Tags": [
+        "c#",
+        "linq"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849845/how-to-pass-an-iqueryable-type-as-a-query-to-a-linq",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

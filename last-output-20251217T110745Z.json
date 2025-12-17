@@ -1,0 +1,52 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-17T10:58:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-17T10:55:22Z",
+      "Title": "Azure function not launched by Aspire when running test in normal test mode",
+      "Tags": [
+        "c#",
+        "azure-functions",
+        "integration-testing",
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849320/azure-function-not-launched-by-aspire-when-running-test-in-normal-test-mode",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-17T10:58:56Z",
+      "Title": "Why place i/o task before cpu-bound task runs faster than place i/o task after cpu-bound task",
+      "Tags": [
+        "c#",
+        "parallel-processing",
+        "task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849328/why-place-i-o-task-before-cpu-bound-task-runs-faster-than-place-i-o-task-after-c",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-17T10:55:22Z",
+      "Title": "Azure function not launched by Aspire when running test in normal test mode",
+      "Tags": [
+        "c#",
+        "azure-functions",
+        "integration-testing",
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849320/azure-function-not-launched-by-aspire-when-running-test-in-normal-test-mode",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2025-12-17T10:58:56Z",
+      "Title": "Why place i/o task before cpu-bound task runs faster than place i/o task after cpu-bound task",
+      "Tags": [
+        "c#",
+        "parallel-processing",
+        "task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849328/why-place-i-o-task-before-cpu-bound-task-runs-faster-than-place-i-o-task-after-c",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-12-17T20:59:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-17T20:59:20Z",
+      "Title": "KSeF - send invoice",
+      "Tags": [
+        "c#",
+        ".net",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849828/ksef-send-invoice",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    },
+    {
+      "Created": "2025-12-17T20:59:20Z",
+      "Title": "KSeF - send invoice",
+      "Tags": [
+        "c#",
+        ".net",
+        "visual-studio"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849828/ksef-send-invoice",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

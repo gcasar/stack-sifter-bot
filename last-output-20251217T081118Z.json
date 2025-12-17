@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-17T07:34:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-17T07:34:32Z",
+      "Title": "Ubuntu 22.04 TCP Retransmission After Successful Socket ARP",
+      "Tags": [
+        "c#",
+        "ubuntu"
+      ],
+      "Url": "https://stackoverflow.com/questions/79849161/ubuntu-22-04-tcp-retransmission-after-successful-socket-arp",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

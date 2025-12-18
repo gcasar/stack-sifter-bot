@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-18T08:22:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-18T08:22:04Z",
+      "Title": "Why ReadManyItemsAsync\u003CT\u003E uses very high RU and does essentially full table scan?",
+      "Tags": [
+        "c#",
+        "azure-cosmosdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79850121/why-readmanyitemsasynct-uses-very-high-ru-and-does-essentially-full-table-scan",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-18T08:22:04Z",
+      "Title": "Why ReadManyItemsAsync\u003CT\u003E uses very high RU and does essentially full table scan?",
+      "Tags": [
+        "c#",
+        "azure-cosmosdb"
+      ],
+      "Url": "https://stackoverflow.com/questions/79850121/why-readmanyitemsasynct-uses-very-high-ru-and-does-essentially-full-table-scan",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

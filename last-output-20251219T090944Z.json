@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-19T08:26:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-19T08:26:40Z",
+      "Title": "c# - How to download large files in .NET application?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "azure",
+        "request"
+      ],
+      "Url": "https://stackoverflow.com/questions/79850940/c-sharp-how-to-download-large-files-in-net-application",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-19T08:23:38Z",
+      "Title": "I get an error in my Azure Functions project in a public class. Changing to a static class is not working",
+      "Tags": [
+        "c#",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79850938/i-get-an-error-in-my-azure-functions-project-in-a-public-class-changing-to-a-st",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

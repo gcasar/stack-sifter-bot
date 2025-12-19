@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-18T23:36:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-18T23:20:30Z",
+      "Title": "Upgrading Visual Studio extension from 2019 to 2026, how to replace text?",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "visual-studio-extensions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79850744/upgrading-visual-studio-extension-from-2019-to-2026-how-to-replace-text",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

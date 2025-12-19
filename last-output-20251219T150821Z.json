@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-19T14:51:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-19T14:51:25Z",
+      "Title": "Azure Functions: The annotation for nullable reference types should only be used in code within a \u0027#nullable\u0027 annotations context",
+      "Tags": [
+        "c#",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79851194/azure-functions-the-annotation-for-nullable-reference-types-should-only-be-used",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

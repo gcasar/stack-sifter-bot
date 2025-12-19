@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-19T06:09:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-19T06:09:19Z",
+      "Title": "OpenIddict 4.x ID2043 \u2014 Is it possible to support dynamic tenant subdomain redirect_uri?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "asp.net-core",
+        "asp.net-core-webapi",
+        "openid-connect"
+      ],
+      "Url": "https://stackoverflow.com/questions/79850857/openiddict-4-x-id2043-is-it-possible-to-support-dynamic-tenant-subdomain-redir",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-20T00:55:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-20T00:55:13Z",
+      "Title": "Android Subscription in MAUI BillingService",
+      "Tags": [
+        "c#",
+        "android",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79851528/android-subscription-in-maui-billingservice",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

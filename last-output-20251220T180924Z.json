@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-20T17:36:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-20T17:05:45Z",
+      "Title": "Update ChatMessageContent value in Semantic Kernel response",
+      "Tags": [
+        "c#",
+        "artificial-intelligence",
+        "large-language-model",
+        "semantic-kernel"
+      ],
+      "Url": "https://stackoverflow.com/questions/79851882/update-chatmessagecontent-value-in-semantic-kernel-response",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

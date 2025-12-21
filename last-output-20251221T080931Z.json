@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-21T07:43:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-21T07:43:57Z",
+      "Title": "How to log the exceptions including server-dependent clear cause explanation when working with HttpClient in C# \u0026 .NET?",
+      "Tags": [
+        "c#",
+        ".net",
+        "dotnet-httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79852145/how-to-log-the-exceptions-including-server-dependent-clear-cause-explanation-whe",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

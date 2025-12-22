@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-22T00:03:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-21T23:56:59Z",
+      "Title": "Convert Enumerable to List in C#",
+      "Tags": [
+        "c#",
+        ".net",
+        "list",
+        "entity-framework"
+      ],
+      "Url": "https://stackoverflow.com/questions/79852541/convert-enumerable-to-list-in-c-sharp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-23T08:51:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-23T08:51:46Z",
+      "Title": "SqlBulkCopy is failing to save records with an error \u0022The given ColumnMapping does not match up with any column in the source or destination.\u0022",
+      "Tags": [
+        "c#",
+        ".net",
+        "sql-server",
+        "bulkinsert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79853483/sqlbulkcopy-is-failing-to-save-records-with-an-error-the-given-columnmapping-do",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

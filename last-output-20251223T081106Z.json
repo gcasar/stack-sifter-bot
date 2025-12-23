@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-23T07:39:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-23T07:01:04Z",
+      "Title": ".NET Firebase Send Push Notification Error",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "firebase",
+        "google-cloud-platform",
+        "push-notification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79853434/net-firebase-send-push-notification-error",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-12-23T07:01:04Z",
+      "Title": ".NET Firebase Send Push Notification Error",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "firebase",
+        "google-cloud-platform",
+        "push-notification"
+      ],
+      "Url": "https://stackoverflow.com/questions/79853434/net-firebase-send-push-notification-error",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

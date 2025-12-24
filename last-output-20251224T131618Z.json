@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2025-12-24T13:03:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-24T12:20:15Z",
+      "Title": "HttpClient call doesn\u0027t return a response [duplicate]",
+      "Tags": [
+        "c#",
+        "winforms",
+        "async-await",
+        "deadlock",
+        "dotnet-httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79854359/httpclient-call-doesnt-return-a-response",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-24T12:20:15Z",
+      "Title": "HttpClient call doesn\u0027t return a response [duplicate]",
+      "Tags": [
+        "c#",
+        "winforms",
+        "async-await",
+        "deadlock",
+        "dotnet-httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79854359/httpclient-call-doesnt-return-a-response",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-25T15:43:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-25T15:43:58Z",
+      "Title": "Photon Quantum - how to properly wait for second player before starting simulation?",
+      "Tags": [
+        "c#",
+        "unity-game-engine",
+        "photon",
+        "photon-quantum"
+      ],
+      "Url": "https://stackoverflow.com/questions/79854920/photon-quantum-how-to-properly-wait-for-second-player-before-starting-simulati",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

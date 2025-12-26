@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-26T18:30:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-26T18:30:35Z",
+      "Title": "Java Developer in need of help, winui 3 app runs perfectly using F5, i fail to deploy as a single .exe file",
+      "Tags": [
+        "c#",
+        ".net",
+        "desktop-application",
+        "packaging",
+        "winui-3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79855473/java-developer-in-need-of-help-winui-3-app-runs-perfectly-using-f5-i-fail-to-d",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

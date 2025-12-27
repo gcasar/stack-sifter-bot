@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2025-12-27T12:09:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-27T12:09:27Z",
+      "Title": ".NET Minimal APIs built-in validation stops working when endpoint mapping is in different assembly than validatable DTO",
+      "Tags": [
+        "c#",
+        ".net-10.0",
+        "asp.net-minimal-apis"
+      ],
+      "Url": "https://stackoverflow.com/questions/79855763/net-minimal-apis-built-in-validation-stops-working-when-endpoint-mapping-is-in",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

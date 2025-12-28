@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-28T12:00:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-28T12:00:53Z",
+      "Title": "AWS Lambda TargetInvocationException : Could not load file or assembly \u0027System.Data.SqlClient, Version=4.6.1.6",
+      "Tags": [
+        "c#",
+        ".net",
+        "aws-lambda",
+        "github-actions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856174/aws-lambda-targetinvocationexception-could-not-load-file-or-assembly-system-d",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

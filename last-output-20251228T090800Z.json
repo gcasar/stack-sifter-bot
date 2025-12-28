@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-28T08:11:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-28T08:11:13Z",
+      "Title": "Custom \u0022OAuth2\u0022 in .NET",
+      "Tags": [
+        "c#",
+        "asp.net",
+        ".net",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856105/custom-oauth2-in-net",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

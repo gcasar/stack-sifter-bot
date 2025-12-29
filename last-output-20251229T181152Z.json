@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-29T17:45:40Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-29T17:29:28Z",
+      "Title": "Metalama method aspect not getting injected properties",
+      "Tags": [
+        "c#",
+        "aspect",
+        "metalama"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856972/metalama-method-aspect-not-getting-injected-properties",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

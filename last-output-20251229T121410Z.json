@@ -1,0 +1,42 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-29T11:47:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-29T11:47:07Z",
+      "Title": "Entity Framework Core: \u0022Second operation started before previous completed\u0022 error [duplicate]",
+      "Tags": [
+        "c#",
+        ".net",
+        "entity-framework",
+        "linq",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856754/entity-framework-core-second-operation-started-before-previous-completed-erro",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-29T11:23:09Z",
+      "Title": "PdfAcroForm doesn\u0027t set values with SetValue",
+      "Tags": [
+        "c#",
+        "itext"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856741/pdfacroform-doesnt-set-values-with-setvalue",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2025-12-29T11:47:07Z",
+      "Title": "Entity Framework Core: \u0022Second operation started before previous completed\u0022 error [duplicate]",
+      "Tags": [
+        "c#",
+        ".net",
+        "entity-framework",
+        "linq",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856754/entity-framework-core-second-operation-started-before-previous-completed-erro",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-29T09:30:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-29T09:30:12Z",
+      "Title": "MCP server in C# for SQL database structure/schema (in Visual Studio) for Github Copilot",
+      "Tags": [
+        "c#",
+        "github-copilot",
+        "model-context-protocol",
+        "mcp-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856670/mcp-server-in-c-sharp-for-sql-database-structure-schema-in-visual-studio-for-g",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2025-12-29T09:30:12Z",
+      "Title": "MCP server in C# for SQL database structure/schema (in Visual Studio) for Github Copilot",
+      "Tags": [
+        "c#",
+        "github-copilot",
+        "model-context-protocol",
+        "mcp-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79856670/mcp-server-in-c-sharp-for-sql-database-structure-schema-in-visual-studio-for-g",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

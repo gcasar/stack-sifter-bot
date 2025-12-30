@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-30T21:49:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-30T21:49:06Z",
+      "Title": "Azure Functions: Failure Type: Exception: System.Text.Json.JsonException: The input does not contain any JSON tokens",
+      "Tags": [
+        "c#",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79857828/azure-functions-failure-type-exception-system-text-json-jsonexception-the-in",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

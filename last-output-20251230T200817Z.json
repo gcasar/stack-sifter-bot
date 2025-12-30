@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-30T19:54:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-30T19:54:13Z",
+      "Title": "GetStreamAsync CopyTo sometimes returns zero bytes",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79857783/getstreamasync-copyto-sometimes-returns-zero-bytes",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

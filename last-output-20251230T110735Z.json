@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-30T10:33:05Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-30T10:33:05Z",
+      "Title": "NLog 6.0.7 Multiple archives created in multi-process logging setup",
+      "Tags": [
+        "c#",
+        "logging",
+        "multiprocessing",
+        "nlog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79857413/nlog-6-0-7-multiple-archives-created-in-multi-process-logging-setup",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-30T10:33:05Z",
+      "Title": "NLog 6.0.7 Multiple archives created in multi-process logging setup",
+      "Tags": [
+        "c#",
+        "logging",
+        "multiprocessing",
+        "nlog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79857413/nlog-6-0-7-multiple-archives-created-in-multi-process-logging-setup",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

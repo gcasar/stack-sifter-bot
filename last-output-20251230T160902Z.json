@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-30T16:02:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-30T16:02:04Z",
+      "Title": "How to properly call a Nethereum smart contract overloaded function",
+      "Tags": [
+        "c#",
+        "smartcontracts",
+        "nethereum"
+      ],
+      "Url": "https://stackoverflow.com/questions/79857645/how-to-properly-call-a-nethereum-smart-contract-overloaded-function",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

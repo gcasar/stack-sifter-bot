@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2025-12-31T16:24:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-31T16:24:49Z",
+      "Title": "Is it possible to display the parameters from the Json before I use JsonSerializer.Deserialize?",
+      "Tags": [
+        "c#",
+        "azure-functions"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858272/is-it-possible-to-display-the-parameters-from-the-json-before-i-use-jsonserializ",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

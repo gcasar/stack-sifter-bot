@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2025-12-31T18:59:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2025-12-31T18:45:11Z",
+      "Title": "WPF C# thermal printer job stuck in print queue after app is idle/minimized, works only after app restart",
+      "Tags": [
+        "c#",
+        "wpf",
+        "printing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858339/wpf-c-sharp-thermal-printer-job-stuck-in-print-queue-after-app-is-idle-minimized",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2025-12-31T18:45:11Z",
+      "Title": "WPF C# thermal printer job stuck in print queue after app is idle/minimized, works only after app restart",
+      "Tags": [
+        "c#",
+        "wpf",
+        "printing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858339/wpf-c-sharp-thermal-printer-job-stuck-in-print-queue-after-app-is-idle-minimized",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

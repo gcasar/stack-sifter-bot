@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-01T21:50:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-01T21:50:02Z",
+      "Title": "Statically generated XML parsing code using \u0060Microsoft.XmlSerializer.Generator\u0060 and \u0060sgen\u0060 is not called breaking AOT compatibility",
+      "Tags": [
+        "c#",
+        "xml",
+        "native-aot"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858800/statically-generated-xml-parsing-code-using-microsoft-xmlserializer-generator",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

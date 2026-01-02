@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-02T01:12:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-02T00:58:12Z",
+      "Title": "Avalonia Problem Loading/Showing Image Bindings With Observable \u0026 Dialogs",
+      "Tags": [
+        "c#",
+        ".net",
+        "visual-studio-2022",
+        "avaloniaui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858864/avalonia-problem-loading-showing-image-bindings-with-observable-dialogs",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2026-01-02T01:12:23Z",
+      "Title": "CollectionView using C# MAUI for Android Not Showing Anything",
+      "Tags": [
+        "c#",
+        "android",
+        "maui",
+        "maui-community-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858870/collectionview-using-c-sharp-maui-for-android-not-showing-anything",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

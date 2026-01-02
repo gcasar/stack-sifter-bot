@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-02T04:33:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-02T04:33:39Z",
+      "Title": "Common async/await mistakes in C# that cause deadlocks and performance issues",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858930/common-async-await-mistakes-in-c-sharp-that-cause-deadlocks-and-performance-issu",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-02T04:33:39Z",
+      "Title": "Common async/await mistakes in C# that cause deadlocks and performance issues",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79858930/common-async-await-mistakes-in-c-sharp-that-cause-deadlocks-and-performance-issu",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

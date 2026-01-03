@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-03T20:10:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-03T20:10:35Z",
+      "Title": "Recreate real software animation (Lingo)",
+      "Tags": [
+        "c#",
+        "wpf"
+      ],
+      "Url": "https://stackoverflow.com/questions/79859847/recreate-real-software-animation-lingo",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

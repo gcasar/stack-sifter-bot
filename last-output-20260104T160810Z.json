@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-04T15:50:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-04T15:50:32Z",
+      "Title": "How can I avoid Raylib (c# bindings) AudioStream distorting Noise channel output on playback",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79860223/how-can-i-avoid-raylib-c-bindings-audiostream-distorting-noise-channel-output",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

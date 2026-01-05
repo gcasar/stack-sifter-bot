@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-05T12:57:10Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-05T12:45:21Z",
+      "Title": "CORS issue in .NET 4.5 application",
+      "Tags": [
+        "c#",
+        "cors",
+        "asp.net-web-api2"
+      ],
+      "Url": "https://stackoverflow.com/questions/79860775/cors-issue-in-net-4-5-application",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-05T12:57:10Z",
+      "Title": "Why aren\u0027t my benchmark results faster in Release compared to Debug?",
+      "Tags": [
+        "c#",
+        "optimization",
+        "benchmarking"
+      ],
+      "Url": "https://stackoverflow.com/questions/79860789/why-arent-my-benchmark-results-faster-in-release-compared-to-debug",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

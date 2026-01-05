@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-05T16:01:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-05T16:01:00Z",
+      "Title": "C# external http request response as streaming API-response",
+      "Tags": [
+        "c#",
+        "memory",
+        "proxy",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79860951/c-sharp-external-http-request-response-as-streaming-api-response",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-05T16:01:00Z",
+      "Title": "C# external http request response as streaming API-response",
+      "Tags": [
+        "c#",
+        "memory",
+        "proxy",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79860951/c-sharp-external-http-request-response-as-streaming-api-response",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

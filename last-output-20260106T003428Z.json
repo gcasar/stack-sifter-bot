@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-05T23:23:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-05T23:23:45Z",
+      "Title": "Minimal plugins for C# libvlcharp - how to determin",
+      "Tags": [
+        "c#",
+        "windows",
+        "winforms",
+        "vlc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79861197/minimal-plugins-for-c-sharp-libvlcharp-how-to-determin",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

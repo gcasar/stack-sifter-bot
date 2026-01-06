@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-06T09:01:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-06T09:01:15Z",
+      "Title": "Resolve Key with Dependency Injection in AddJwtAuthentication in asp.net core app",
+      "Tags": [
+        "c#",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79861459/resolve-key-with-dependency-injection-in-addjwtauthentication-in-asp-net-core-ap",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

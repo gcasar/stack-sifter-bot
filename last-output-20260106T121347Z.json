@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-01-06T12:10:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-06T11:35:46Z",
+      "Title": "VS 2026: High RAM and Disk usage issue with Roslyn Code Analysis",
+      "Tags": [
+        "c#",
+        "visual-studio",
+        "roslyn-code-analysis",
+        "visual-studio-2026"
+      ],
+      "Url": "https://stackoverflow.com/questions/79861582/vs-2026-high-ram-and-disk-usage-issue-with-roslyn-code-analysis",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-06T12:07:03Z",
+      "Title": "How to filter out Dependency telemetry for internal kubernetes calls in Application Insights?",
+      "Tags": [
+        "c#",
+        ".net",
+        "kubernetes",
+        "azure-application-insights"
+      ],
+      "Url": "https://stackoverflow.com/questions/79861602/how-to-filter-out-dependency-telemetry-for-internal-kubernetes-calls-in-applicat",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

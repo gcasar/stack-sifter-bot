@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-01-07T13:56:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-07T13:28:37Z",
+      "Title": "Should we call SaveChanges before transaction commits to read intermediate result?",
+      "Tags": [
+        "c#",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79862445/should-we-call-savechanges-before-transaction-commits-to-read-intermediate-resul",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-07T13:28:37Z",
+      "Title": "Should we call SaveChanges before transaction commits to read intermediate result?",
+      "Tags": [
+        "c#",
+        "entity-framework-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79862445/should-we-call-savechanges-before-transaction-commits-to-read-intermediate-resul",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

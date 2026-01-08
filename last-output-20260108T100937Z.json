@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-01-08T10:04:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-08T09:12:19Z",
+      "Title": "Nuget packages are automatically changed to range version with CPM",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        ".net-core",
+        "nuget"
+      ],
+      "Url": "https://stackoverflow.com/questions/79863121/nuget-packages-are-automatically-changed-to-range-version-with-cpm",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    }
+  ]
+}

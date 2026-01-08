@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-08T19:26:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-08T19:26:31Z",
+      "Title": "HttpClient.GetStreamAsync hangs when consuming .NET 10 Server-Sent Events from Blazor WebAssembly",
+      "Tags": [
+        "c#",
+        ".net",
+        "dotnet-httpclient",
+        "server-sent-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79863682/httpclient-getstreamasync-hangs-when-consuming-net-10-server-sent-events-from-b",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-08T19:26:31Z",
+      "Title": "HttpClient.GetStreamAsync hangs when consuming .NET 10 Server-Sent Events from Blazor WebAssembly",
+      "Tags": [
+        "c#",
+        ".net",
+        "dotnet-httpclient",
+        "server-sent-events"
+      ],
+      "Url": "https://stackoverflow.com/questions/79863682/httpclient-getstreamasync-hangs-when-consuming-net-10-server-sent-events-from-b",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

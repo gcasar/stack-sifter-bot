@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-08T16:05:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-08T16:05:18Z",
+      "Title": "Method not found: \u0027Void Microsoft.IdentityModel.Tokens.TokenValidationResult..ctor",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "blazor",
+        "blazor-webassembly",
+        ".net-9.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79863520/method-not-found-void-microsoft-identitymodel-tokens-tokenvalidationresult-ct",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

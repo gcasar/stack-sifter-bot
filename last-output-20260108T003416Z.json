@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-07T23:43:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-07T23:43:54Z",
+      "Title": "DataGrid won\u0027t appear on Avalonia dialog",
+      "Tags": [
+        "c#",
+        "datagrid",
+        "dialog",
+        "avaloniaui",
+        "community-toolkit-mvvm"
+      ],
+      "Url": "https://stackoverflow.com/questions/79862845/datagrid-wont-appear-on-avalonia-dialog",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

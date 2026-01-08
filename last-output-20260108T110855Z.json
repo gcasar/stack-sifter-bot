@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-01-08T10:46:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-08T10:43:41Z",
+      "Title": "DDD with EF Core: Best practice for adding child entities to an Aggregate Root",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "domain-driven-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79863203/ddd-with-ef-core-best-practice-for-adding-child-entities-to-an-aggregate-root",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-08T10:43:41Z",
+      "Title": "DDD with EF Core: Best practice for adding child entities to an Aggregate Root",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "domain-driven-design"
+      ],
+      "Url": "https://stackoverflow.com/questions/79863203/ddd-with-ef-core-best-practice-for-adding-child-entities-to-an-aggregate-root",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

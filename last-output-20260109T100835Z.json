@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-09T09:49:07Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-09T09:49:07Z",
+      "Title": "How to send HttpOnly cookies (refresh token) to ASP.NET Core backend on localhost?",
+      "Tags": [
+        "c#",
+        "angular",
+        "asp.net-core",
+        "cookies",
+        "cookie-httponly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79864120/how-to-send-httponly-cookies-refresh-token-to-asp-net-core-backend-on-localhos",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-09T09:49:07Z",
+      "Title": "How to send HttpOnly cookies (refresh token) to ASP.NET Core backend on localhost?",
+      "Tags": [
+        "c#",
+        "angular",
+        "asp.net-core",
+        "cookies",
+        "cookie-httponly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79864120/how-to-send-httponly-cookies-refresh-token-to-asp-net-core-backend-on-localhos",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

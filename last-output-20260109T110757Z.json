@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-09T11:00:44Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-09T11:00:44Z",
+      "Title": "MSBuild C# custom task throws MissingMethodException",
+      "Tags": [
+        "c#",
+        ".net",
+        "msbuild-task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79864188/msbuild-c-sharp-custom-task-throws-missingmethodexception",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

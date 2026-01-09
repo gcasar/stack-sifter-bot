@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-09T07:41:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-09T07:41:43Z",
+      "Title": "How to make 2 ASP.NET Apis hosted in azure app service to use the same port 443 or both communicate with azure",
+      "Tags": [
+        "c#",
+        "azure",
+        "signalr"
+      ],
+      "Url": "https://stackoverflow.com/questions/79864007/how-to-make-2-asp-net-apis-hosted-in-azure-app-service-to-use-the-same-port-443",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

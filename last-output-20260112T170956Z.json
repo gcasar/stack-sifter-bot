@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-12T16:29:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-12T16:29:50Z",
+      "Title": "Why is the Client drop down list in my .razor file showing the integer value instead of the text value?",
+      "Tags": [
+        "c#",
+        "razor",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79866302/why-is-the-client-drop-down-list-in-my-razor-file-showing-the-integer-value-ins",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

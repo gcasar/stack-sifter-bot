@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-13T05:02:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-13T05:02:11Z",
+      "Title": "Use Microsoft Graph 5.0 SDK to get display name from listitem\u0027s LookupId field",
+      "Tags": [
+        "c#",
+        "sharepoint",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79866644/use-microsoft-graph-5-0-sdk-to-get-display-name-from-listitems-lookupid-field",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

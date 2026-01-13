@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-13T13:44:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-13T13:44:46Z",
+      "Title": "Authentication middleware vs explicit headers in analyzer-generated controllers \u2013 best practice?",
+      "Tags": [
+        "c#",
+        "architecture",
+        "asp.net-core-webapi",
+        "asp.net-core-middleware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79866990/authentication-middleware-vs-explicit-headers-in-analyzer-generated-controllers",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-13T13:44:46Z",
+      "Title": "Authentication middleware vs explicit headers in analyzer-generated controllers \u2013 best practice?",
+      "Tags": [
+        "c#",
+        "architecture",
+        "asp.net-core-webapi",
+        "asp.net-core-middleware"
+      ],
+      "Url": "https://stackoverflow.com/questions/79866990/authentication-middleware-vs-explicit-headers-in-analyzer-generated-controllers",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

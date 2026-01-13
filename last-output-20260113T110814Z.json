@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-13T10:43:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-13T10:43:34Z",
+      "Title": "EPPlus NuGet Package Silently Failing on .Save()",
+      "Tags": [
+        "c#",
+        "excel",
+        "console",
+        "epplus"
+      ],
+      "Url": "https://stackoverflow.com/questions/79866855/epplus-nuget-package-silently-failing-on-save",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

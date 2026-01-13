@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-13T14:58:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-13T14:19:23Z",
+      "Title": "Using YARP, System Web Adapters and AddAuthenticationStateSerialization to authenticate a Blazor application",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "blazor",
+        ".net-9.0",
+        "microsoft-yarp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79867022/using-yarp-system-web-adapters-and-addauthenticationstateserialization-to-authe",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-13T14:58:22Z",
+      "Title": "Azure API Management delegation signature fails for ChangeProfile operation",
+      "Tags": [
+        "c#",
+        "azure",
+        "azure-api-management"
+      ],
+      "Url": "https://stackoverflow.com/questions/79867053/azure-api-management-delegation-signature-fails-for-changeprofile-operation",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

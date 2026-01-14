@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-14T09:59:29Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-14T09:59:29Z",
+      "Title": "C# XML Serialization: Merging multiple lists before saving",
+      "Tags": [
+        "c#",
+        "xml",
+        "serialization",
+        "xml-serialization"
+      ],
+      "Url": "https://stackoverflow.com/questions/79867647/c-sharp-xml-serialization-merging-multiple-lists-before-saving",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

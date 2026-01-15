@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-15T06:33:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-15T06:33:54Z",
+      "Title": "Periodic Updates for User Control Types (E.g. DataGrid/TextBoxes/etc) from DB in WPF with MVVM pattern?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "mvvm",
+        "uirefreshcontrol"
+      ],
+      "Url": "https://stackoverflow.com/questions/79868275/periodic-updates-for-user-control-types-e-g-datagrid-textboxes-etc-from-db-in",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

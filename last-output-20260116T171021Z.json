@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-16T16:30:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-16T16:30:23Z",
+      "Title": "404/405 results using HttpClient in c# to upload/rename/delete files on a web server",
+      "Tags": [
+        "c#",
+        "httpclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79869616/404-405-results-using-httpclient-in-c-sharp-to-upload-rename-delete-files-on-a-w",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

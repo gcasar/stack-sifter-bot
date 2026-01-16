@@ -1,0 +1,29 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-01-16T19:49:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-16T19:49:59Z",
+      "Title": "Servicestack netcoreidentityauthprovider: System.FormatException when using GUID IDs",
+      "Tags": [
+        "c#",
+        ".net",
+        "servicestack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79869746/servicestack-netcoreidentityauthprovider-system-formatexception-when-using-guid",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-16T19:31:06Z",
+      "Title": "Options to read file content from a Word document with restrictive Sensitivity level like Confidential",
+      "Tags": [
+        "c#",
+        "ms-word",
+        "openxml-sdk",
+        "microsoft-information-protection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79869738/options-to-read-file-content-from-a-word-document-with-restrictive-sensitivity-l",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

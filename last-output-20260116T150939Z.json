@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-16T14:11:59Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-16T14:11:59Z",
+      "Title": "Why can I not create FileSavePicker on button click",
+      "Tags": [
+        "c#",
+        "uwp",
+        "winui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79869485/why-can-i-not-create-filesavepicker-on-button-click",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

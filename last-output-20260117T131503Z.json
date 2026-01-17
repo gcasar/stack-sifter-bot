@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-17T12:34:12Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-17T12:34:12Z",
+      "Title": "IfromFile add .net8 mvc service layer",
+      "Tags": [
+        "c#",
+        "model-view-controller",
+        "service",
+        "guid",
+        "iformfile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79870080/ifromfile-add-net8-mvc-service-layer",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-18T07:05:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-18T07:05:17Z",
+      "Title": "How to fix FirstOr Default error in EF Core and how to map selected tags to BlogPost in ASP.NET why find returns null in EF Core",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "asp.net-core-mvc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79870401/how-to-fix-firstor-default-error-in-ef-core-and-how-to-map-selected-tags-to-blog",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

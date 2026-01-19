@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-19T12:00:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-19T12:00:25Z",
+      "Title": "How do I remove warning \u0027Possible null reference argument for parameter\u0027",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871157/how-do-i-remove-warning-possible-null-reference-argument-for-parameter",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-19T20:50:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-19T20:50:52Z",
+      "Title": "Enforcing a 2 send delay on web api call?",
+      "Tags": [
+        "c#",
+        "asp.net-web-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871500/enforcing-a-2-send-delay-on-web-api-call",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-19T20:50:52Z",
+      "Title": "Enforcing a 2 send delay on web api call?",
+      "Tags": [
+        "c#",
+        "asp.net-web-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871500/enforcing-a-2-send-delay-on-web-api-call",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-19T18:49:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-19T18:49:21Z",
+      "Title": "Microsoft Graph 5.0 returns null for Me.Drive",
+      "Tags": [
+        "c#",
+        "azure",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871435/microsoft-graph-5-0-returns-null-for-me-drive",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-19T18:49:21Z",
+      "Title": "Microsoft Graph 5.0 returns null for Me.Drive",
+      "Tags": [
+        "c#",
+        "azure",
+        "microsoft-graph-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871435/microsoft-graph-5-0-returns-null-for-me-drive",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

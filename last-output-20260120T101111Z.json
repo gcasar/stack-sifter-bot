@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-20T09:54:04Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-20T09:54:04Z",
+      "Title": "Upgradin to .Net 10: System.PlatformNotSupportedException : Microsoft.Data.SqlClient is not supported on this platform",
+      "Tags": [
+        "c#",
+        ".net",
+        "entity-framework-core",
+        "sqlclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871864/upgradin-to-net-10-system-platformnotsupportedexception-microsoft-data-sqlcl",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

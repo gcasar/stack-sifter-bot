@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-20T04:39:08Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-20T04:39:08Z",
+      "Title": "udp listener is \u0022batching\u0022 on macos",
+      "Tags": [
+        "c#",
+        ".net",
+        "macos",
+        "udp",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871679/udp-listener-is-batching-on-macos",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-20T04:39:08Z",
+      "Title": "udp listener is \u0022batching\u0022 on macos",
+      "Tags": [
+        "c#",
+        ".net",
+        "macos",
+        "udp",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871679/udp-listener-is-batching-on-macos",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

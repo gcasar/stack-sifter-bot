@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-20T10:50:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-20T10:50:20Z",
+      "Title": "Why does using an array in EF Core LINQ queries instead of a list cause performance issues in .NET10 / C#14.0?",
+      "Tags": [
+        "c#",
+        "linq",
+        "entity-framework-core",
+        ".net-10.0",
+        "c#-14.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79871902/why-does-using-an-array-in-ef-core-linq-queries-instead-of-a-list-cause-performa",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

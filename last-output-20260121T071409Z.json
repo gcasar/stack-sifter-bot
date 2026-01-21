@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-21T06:17:31Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-21T06:17:31Z",
+      "Title": "Issue in UDT custom mapping in C# while calling stored procedure from Oracle DB",
+      "Tags": [
+        "c#",
+        "azure-functions",
+        "oracle-ebs"
+      ],
+      "Url": "https://stackoverflow.com/questions/79872568/issue-in-udt-custom-mapping-in-c-sharp-while-calling-stored-procedure-from-oracl",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

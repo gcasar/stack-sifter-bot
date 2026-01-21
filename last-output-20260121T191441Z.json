@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-21T18:26:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-21T18:23:38Z",
+      "Title": "Chaining multiple continueWith",
+      "Tags": [
+        "c#",
+        "asynchronous",
+        "continuewith"
+      ],
+      "Url": "https://stackoverflow.com/questions/79873113/chaining-multiple-continuewith",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-21T22:17:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-21T22:14:40Z",
+      "Title": ".NET Maui FileSaver not reliably saving a file due to Android/iOS closing the application",
+      "Tags": [
+        "c#",
+        "android",
+        "ios",
+        "maui",
+        "maui-community-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79873254/net-maui-filesaver-not-reliably-saving-a-file-due-to-android-ios-closing-the-ap",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-21T22:14:40Z",
+      "Title": ".NET Maui FileSaver not reliably saving a file due to Android/iOS closing the application",
+      "Tags": [
+        "c#",
+        "android",
+        "ios",
+        "maui",
+        "maui-community-toolkit"
+      ],
+      "Url": "https://stackoverflow.com/questions/79873254/net-maui-filesaver-not-reliably-saving-a-file-due-to-android-ios-closing-the-ap",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

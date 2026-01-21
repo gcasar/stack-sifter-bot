@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-21T10:33:25Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-21T10:33:25Z",
+      "Title": "process.WaitForExit() does not always work",
+      "Tags": [
+        "c#",
+        ".net",
+        "process"
+      ],
+      "Url": "https://stackoverflow.com/questions/79872759/process-waitforexit-does-not-always-work",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

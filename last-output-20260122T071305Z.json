@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-22T06:24:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-22T06:24:28Z",
+      "Title": "InventoryAllocations not populated in TallyConnector 2.2.0 but missing OtherFields in 3.0.3-alpha while using GetVouchersAsync",
+      "Tags": [
+        "c#",
+        ".net",
+        "xml",
+        "accounting",
+        "tally"
+      ],
+      "Url": "https://stackoverflow.com/questions/79873426/inventoryallocations-not-populated-in-tallyconnector-2-2-0-but-missing-otherfiel",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-22T06:24:28Z",
+      "Title": "InventoryAllocations not populated in TallyConnector 2.2.0 but missing OtherFields in 3.0.3-alpha while using GetVouchersAsync",
+      "Tags": [
+        "c#",
+        ".net",
+        "xml",
+        "accounting",
+        "tally"
+      ],
+      "Url": "https://stackoverflow.com/questions/79873426/inventoryallocations-not-populated-in-tallyconnector-2-2-0-but-missing-otherfiel",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

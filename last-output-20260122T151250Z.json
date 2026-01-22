@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2026-01-22T14:56:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-22T14:44:58Z",
+      "Title": "Mongo Driver C# is alreays using global flag for regex",
+      "Tags": [
+        "c#",
+        "regex",
+        "mongodb",
+        "mongo-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79873854/mongo-driver-c-sharp-is-alreays-using-global-flag-for-regex",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-22T14:44:58Z",
+      "Title": "Mongo Driver C# is alreays using global flag for regex",
+      "Tags": [
+        "c#",
+        "regex",
+        "mongodb",
+        "mongo-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79873854/mongo-driver-c-sharp-is-alreays-using-global-flag-for-regex",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

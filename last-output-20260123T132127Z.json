@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-23T12:29:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-23T12:29:13Z",
+      "Title": "Unity-Android build size stuck at ~129 MB due to Sprite Atlas (95% textures) \u2013 looking for advanced optimization tips",
+      "Tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79874560/unity-android-build-size-stuck-at-129-mb-due-to-sprite-atlas-95-textures-l",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

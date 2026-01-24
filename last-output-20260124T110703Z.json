@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-24T10:37:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-24T10:37:30Z",
+      "Title": "Angular \u002B .NET (Azure AD BFF): Handling 401 due to token expiry without losing unsaved form data (auto-save to DB only)",
+      "Tags": [
+        "c#",
+        ".net",
+        "angular",
+        "azure",
+        "authentication"
+      ],
+      "Url": "https://stackoverflow.com/questions/79875105/angular-net-azure-ad-bff-handling-401-due-to-token-expiry-without-losing-u",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

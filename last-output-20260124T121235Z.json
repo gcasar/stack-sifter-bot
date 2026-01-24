@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-24T11:36:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-24T11:36:17Z",
+      "Title": "What are the best settings for Farseer Physics 3.5 when I have fast gameplay so that Farseer Physics is very responsive during collision detection?",
+      "Tags": [
+        "c#",
+        "game-physics",
+        "monogame",
+        "farseer"
+      ],
+      "Url": "https://stackoverflow.com/questions/79875126/what-are-the-best-settings-for-farseer-physics-3-5-when-i-have-fast-gameplay-so",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-25T09:47:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-25T09:47:20Z",
+      "Title": "The auto-completion for await changes the method\u0027s signature - how do I prevent that?",
+      "Tags": [
+        "c#",
+        ".net",
+        "visual-studio",
+        "visual-studio-2022"
+      ],
+      "Url": "https://stackoverflow.com/questions/79875617/the-auto-completion-for-await-changes-the-methods-signature-how-do-i-prevent",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-25T15:56:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-25T15:56:51Z",
+      "Title": "WPF - ICommand: disable-enable button during long process run with Task.Run()",
+      "Tags": [
+        "c#",
+        "wpf",
+        "async-await",
+        "icommand"
+      ],
+      "Url": "https://stackoverflow.com/questions/79875772/wpf-icommand-disable-enable-button-during-long-process-run-with-task-run",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-25T15:56:51Z",
+      "Title": "WPF - ICommand: disable-enable button during long process run with Task.Run()",
+      "Tags": [
+        "c#",
+        "wpf",
+        "async-await",
+        "icommand"
+      ],
+      "Url": "https://stackoverflow.com/questions/79875772/wpf-icommand-disable-enable-button-during-long-process-run-with-task-run",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

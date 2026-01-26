@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-01-26T13:18:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-26T12:33:23Z",
+      "Title": "Blazor live logs view with syntax-highlighting",
+      "Tags": [
+        "javascript",
+        "c#",
+        "logging",
+        "blazor-server-side",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79876322/blazor-live-logs-view-with-syntax-highlighting",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-26T12:33:23Z",
+      "Title": "Blazor live logs view with syntax-highlighting",
+      "Tags": [
+        "javascript",
+        "c#",
+        "logging",
+        "blazor-server-side",
+        "mudblazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79876322/blazor-live-logs-view-with-syntax-highlighting",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

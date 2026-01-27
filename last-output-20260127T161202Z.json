@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-27T15:38:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-27T15:38:42Z",
+      "Title": "Why is try/catch within nested for loops substantially slowing down execution time?",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79877260/why-is-try-catch-within-nested-for-loops-substantially-slowing-down-execution-ti",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

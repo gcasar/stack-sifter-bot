@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-27T16:31:01Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-27T16:31:01Z",
+      "Title": "EventCallback handling not working as intended",
+      "Tags": [
+        "c#",
+        "pagination",
+        "callback",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79877305/eventcallback-handling-not-working-as-intended",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

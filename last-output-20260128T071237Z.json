@@ -1,0 +1,39 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-01-28T07:02:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-28T06:41:51Z",
+      "Title": "Embed Power BI reports to C# - Forbidden, BadRequest",
+      "Tags": [
+        "c#",
+        ".net",
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79877674/embed-power-bi-reports-to-c-sharp-forbidden-badrequest",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-28T06:41:51Z",
+      "Title": "Embed Power BI reports to C# - Forbidden, BadRequest",
+      "Tags": [
+        "c#",
+        ".net",
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79877674/embed-power-bi-reports-to-c-sharp-forbidden-badrequest",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    },
+    {
+      "Created": "2026-01-28T06:41:51Z",
+      "Title": "Embed Power BI reports to C# - Forbidden, BadRequest",
+      "Tags": [
+        "c#",
+        ".net",
+        "powerbi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79877674/embed-power-bi-reports-to-c-sharp-forbidden-badrequest",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

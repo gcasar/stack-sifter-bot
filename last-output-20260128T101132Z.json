@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-28T09:21:54Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-28T09:21:54Z",
+      "Title": "SAP b1 production order Update issue with Multiple Batches",
+      "Tags": [
+        "c#",
+        "sapb1",
+        "sap-business-one-di-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79877786/sap-b1-production-order-update-issue-with-multiple-batches",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

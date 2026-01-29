@@ -1,0 +1,43 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-01-29T17:01:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-29T17:01:23Z",
+      "Title": "How to add simple login dialogue to a blazor client WASM app. Using the default templates",
+      "Tags": [
+        "c#",
+        "blazor",
+        "blazor-webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79878853/how-to-add-simple-login-dialogue-to-a-blazor-client-wasm-app-using-the-default",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-01-29T16:49:02Z",
+      "Title": "ShareFile API: How to Create Account-Wide Shares Without Explicit Recipients?",
+      "Tags": [
+        "c#",
+        ".net",
+        "email",
+        "outlook",
+        "sharefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79878843/sharefile-api-how-to-create-account-wide-shares-without-explicit-recipients",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-01-29T16:49:02Z",
+      "Title": "ShareFile API: How to Create Account-Wide Shares Without Explicit Recipients?",
+      "Tags": [
+        "c#",
+        ".net",
+        "email",
+        "outlook",
+        "sharefile"
+      ],
+      "Url": "https://stackoverflow.com/questions/79878843/sharefile-api-how-to-create-account-wide-shares-without-explicit-recipients",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

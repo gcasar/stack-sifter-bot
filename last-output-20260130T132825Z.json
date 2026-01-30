@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-30T12:50:36Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-30T12:50:36Z",
+      "Title": "How do I include encrypted reasoning items when using C# OpenAIClient Responses API and Microsoft.Extensions.AI and doing a stateless session?",
+      "Tags": [
+        "c#",
+        "openai-api"
+      ],
+      "Url": "https://stackoverflow.com/questions/79879409/how-do-i-include-encrypted-reasoning-items-when-using-c-sharp-openaiclient-respo",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

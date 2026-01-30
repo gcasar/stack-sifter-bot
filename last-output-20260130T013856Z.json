@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-30T01:27:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-30T01:27:22Z",
+      "Title": "SDK10 Blazor: StiReportPage not refreshing/loading inside MudDialog when toggled",
+      "Tags": [
+        "c#",
+        "blazor",
+        "jetbrains-ide",
+        "rider"
+      ],
+      "Url": "https://stackoverflow.com/questions/79879096/sdk10-blazor-stireportpage-not-refreshing-loading-inside-muddialog-when-toggled",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

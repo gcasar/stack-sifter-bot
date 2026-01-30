@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-01-30T08:44:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-30T08:44:14Z",
+      "Title": "Serilog Tracing - Azure Monitor with Traces and mismatched spans",
+      "Tags": [
+        "c#",
+        "asp.net-core-webapi",
+        ".net-8.0",
+        "serilog"
+      ],
+      "Url": "https://stackoverflow.com/questions/79879248/serilog-tracing-azure-monitor-with-traces-and-mismatched-spans",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "TotalProcessed": 5,
+  "LastCreated": "2026-01-30T14:55:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-01-30T13:53:35Z",
+      "Title": "How to get base url from RestSharp interceptor?",
+      "Tags": [
+        "c#",
+        "restsharp"
+      ],
+      "Url": "https://stackoverflow.com/questions/79879447/how-to-get-base-url-from-restsharp-interceptor",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2026-01-30T14:20:49Z",
+      "Title": "How to implement Parquet legacy 2-Level List Structure in C#",
+      "Tags": [
+        "c#",
+        "parquet",
+        "parquet.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79879465/how-to-implement-parquet-legacy-2-level-list-structure-in-c-sharp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

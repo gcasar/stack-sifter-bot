@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-01T13:48:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-01T13:26:47Z",
+      "Title": "I ran all Identity install commands, but scaffolding files are not appearing. What am I missing?",
+      "Tags": [
+        "c#",
+        "database",
+        "asp.net-core",
+        "terminal"
+      ],
+      "Url": "https://stackoverflow.com/questions/79880485/i-ran-all-identity-install-commands-but-scaffolding-files-are-not-appearing-wh",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-02-01T13:48:16Z",
+      "Title": "How can I choose my original stack account instead of dealing with an automatically created new one",
+      "Tags": [
+        "support",
+        "bug"
+      ],
+      "Url": "https://meta.stackoverflow.com/questions/438099/how-can-i-choose-my-original-stack-account-instead-of-dealing-with-an-automatica",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

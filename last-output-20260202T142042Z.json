@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-02T13:56:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-02T13:56:46Z",
+      "Title": "How to use Binance.NET library with .NET Framework 4.8 application",
+      "Tags": [
+        "c#",
+        ".net",
+        "binance"
+      ],
+      "Url": "https://stackoverflow.com/questions/79881155/how-to-use-binance-net-library-with-net-framework-4-8-application",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

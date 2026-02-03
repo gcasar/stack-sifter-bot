@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-03T17:55:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-03T17:43:37Z",
+      "Title": "Why does Azure Search return null for the calling method?",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "azure-cognitive-search",
+        ".net-4.8",
+        "azure-search-.net-sdk"
+      ],
+      "Url": "https://stackoverflow.com/questions/79882154/why-does-azure-search-return-null-for-the-calling-method",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

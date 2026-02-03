@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-03T04:17:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-03T04:17:24Z",
+      "Title": "C# Maui Secondary window/contentpage opens the same size as MainPage",
+      "Tags": [
+        "c#",
+        "user-interface",
+        "window",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79881619/c-sharp-maui-secondary-window-contentpage-opens-the-same-size-as-mainpage",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

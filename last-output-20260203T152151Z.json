@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-03T14:50:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-03T14:50:06Z",
+      "Title": "How can I prevent CS7036 error when initializing a record object?",
+      "Tags": [
+        "c#",
+        "entity-framework-core",
+        "record"
+      ],
+      "Url": "https://stackoverflow.com/questions/79882034/how-can-i-prevent-cs7036-error-when-initializing-a-record-object",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

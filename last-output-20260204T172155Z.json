@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2026-02-04T17:11:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-04T16:45:43Z",
+      "Title": "Func .BeginInvoke() not supported in C# .net8 or higher [duplicate]",
+      "Tags": [
+        "c#",
+        "asynchronous",
+        ".net-8.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79882934/func-begininvoke-not-supported-in-c-sharp-net8-or-higher",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

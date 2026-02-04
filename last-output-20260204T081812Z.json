@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-04T08:02:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-04T08:02:46Z",
+      "Title": "How can I safely close the SqlDataReader when retrieving SQL BLOB-data via Stream? [duplicate]",
+      "Tags": [
+        "c#",
+        "asp.net",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79882555/how-can-i-safely-close-the-sqldatareader-when-retrieving-sql-blob-data-via-strea",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

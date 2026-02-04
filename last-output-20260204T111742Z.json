@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-04T10:44:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-04T10:22:17Z",
+      "Title": "C# Maui passing a reference of \u0027this\u0027 down a code chain in order to use a DisplayAlert, does not display the alert, but awaits a result",
+      "Tags": [
+        "c#",
+        "reference",
+        "maui",
+        "alert",
+        "displayalert"
+      ],
+      "Url": "https://stackoverflow.com/questions/79882654/c-sharp-maui-passing-a-reference-of-this-down-a-code-chain-in-order-to-use-a-d",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

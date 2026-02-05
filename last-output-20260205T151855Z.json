@@ -1,0 +1,45 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-05T14:55:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-05T14:22:25Z",
+      "Title": ".NET 10 Blazor WebAssembly \u2013 Calling C# from JavaScript no longer works (JSInvokable / JSExport / createDotNetRuntime)",
+      "Tags": [
+        "c#",
+        ".net",
+        "blazor",
+        "interop",
+        "webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79883600/net-10-blazor-webassembly-calling-c-sharp-from-javascript-no-longer-works-js",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    },
+    {
+      "Created": "2026-02-05T14:22:25Z",
+      "Title": ".NET 10 Blazor WebAssembly \u2013 Calling C# from JavaScript no longer works (JSInvokable / JSExport / createDotNetRuntime)",
+      "Tags": [
+        "c#",
+        ".net",
+        "blazor",
+        "interop",
+        "webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79883600/net-10-blazor-webassembly-calling-c-sharp-from-javascript-no-longer-works-js",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-02-05T14:22:25Z",
+      "Title": ".NET 10 Blazor WebAssembly \u2013 Calling C# from JavaScript no longer works (JSInvokable / JSExport / createDotNetRuntime)",
+      "Tags": [
+        "c#",
+        ".net",
+        "blazor",
+        "interop",
+        "webassembly"
+      ],
+      "Url": "https://stackoverflow.com/questions/79883600/net-10-blazor-webassembly-calling-c-sharp-from-javascript-no-longer-works-js",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-06T09:09:41Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-06T09:09:41Z",
+      "Title": "WireMock.Net is throwing An error occurred while sending the request exception",
+      "Tags": [
+        "c#",
+        "wiremock"
+      ],
+      "Url": "https://stackoverflow.com/questions/79884158/wiremock-net-is-throwing-an-error-occurred-while-sending-the-request-exception",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-06T17:02:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-06T16:44:29Z",
+      "Title": "How to properly deal with IDisposable UserControl on XAML page",
+      "Tags": [
+        "c#",
+        "wpf",
+        "idisposable"
+      ],
+      "Url": "https://stackoverflow.com/questions/79884479/how-to-properly-deal-with-idisposable-usercontrol-on-xaml-page",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

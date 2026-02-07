@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-07T03:24:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-07T03:24:58Z",
+      "Title": "Dapper QueryAsync calling SQL Server stored procedure is 3x slower than SSMS (SP ~6s, C# ~17\u201319s)",
+      "Tags": [
+        "c#",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79884713/dapper-queryasync-calling-sql-server-stored-procedure-is-3x-slower-than-ssms-sp",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-02-07T03:24:58Z",
+      "Title": "Dapper QueryAsync calling SQL Server stored procedure is 3x slower than SSMS (SP ~6s, C# ~17\u201319s)",
+      "Tags": [
+        "c#",
+        "sql-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79884713/dapper-queryasync-calling-sql-server-stored-procedure-is-3x-slower-than-ssms-sp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

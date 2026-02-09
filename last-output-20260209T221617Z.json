@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-09T21:52:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-09T21:52:27Z",
+      "Title": "When using lambda expressions with bulk update APIs for EF Core, is the lambda expression evaluated in-memory, or on the DB-side?",
+      "Tags": [
+        "c#",
+        ".net",
+        "lambda",
+        "entity-framework-core",
+        "npgsql"
+      ],
+      "Url": "https://stackoverflow.com/questions/79886180/when-using-lambda-expressions-with-bulk-update-apis-for-ef-core-is-the-lambda-e",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-09T10:06:16Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-09T10:06:16Z",
+      "Title": "Using @attribute [Authorize(Policy = \u0022...\u0022)] throws IAuthenticationService error in Blazor Server app",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        "razor",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79885763/using-attribute-authorizepolicy-throws-iauthenticationservice-error",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-10T01:18:11Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-10T01:18:11Z",
+      "Title": "Is there a way to await a Console.ReadLineAsync and another Task in parallel with WaitAny()?",
+      "Tags": [
+        "c#",
+        "async-await",
+        "console-application"
+      ],
+      "Url": "https://stackoverflow.com/questions/79886254/is-there-a-way-to-await-a-console-readlineasync-and-another-task-in-parallel-wit",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

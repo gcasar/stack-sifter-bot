@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-11T16:16:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-11T16:16:37Z",
+      "Title": "In a Blazor project, can I download a file without js interop?",
+      "Tags": [
+        "c#",
+        "excel",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79887551/in-a-blazor-project-can-i-download-a-file-without-js-interop",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-12T20:44:58Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-12T20:41:09Z",
+      "Title": "Changing the default accept header in Scalar",
+      "Tags": [
+        "c#",
+        ".net-10.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79888393/changing-the-default-accept-header-in-scalar",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    }
+  ]
+}

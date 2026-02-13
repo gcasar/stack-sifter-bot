@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-13T07:11:57Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-13T07:11:57Z",
+      "Title": "Debugging OAuth in Visual Studio with Backend-Managed (.NET 10) Authentication",
+      "Tags": [
+        "c#",
+        "angular",
+        "oauth",
+        ".net-10.0"
+      ],
+      "Url": "https://stackoverflow.com/questions/79888577/debugging-oauth-in-visual-studio-with-backend-managed-net-10-authentication",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

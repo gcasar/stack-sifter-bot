@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-16T07:42:21Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-16T07:42:21Z",
+      "Title": "Should I set Cookie.SameSite attribute to None in cookie configuration is ASP .NET Core",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "asp.net-core",
+        "authentication",
+        "cookies"
+      ],
+      "Url": "https://stackoverflow.com/questions/79890070/should-i-set-cookie-samesite-attribute-to-none-in-cookie-configuration-is-asp-n",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

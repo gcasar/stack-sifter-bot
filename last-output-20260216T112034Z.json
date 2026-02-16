@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-16T10:44:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-16T10:44:56Z",
+      "Title": "WPF Popup using Touch Input",
+      "Tags": [
+        "c#",
+        ".net",
+        "touch",
+        "wpf-controls"
+      ],
+      "Url": "https://stackoverflow.com/questions/79890180/wpf-popup-using-touch-input",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

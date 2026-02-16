@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-16T17:17:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-16T17:17:14Z",
+      "Title": "c# await on object method call with nullable syntax throws exception [duplicate]",
+      "Tags": [
+        "c#",
+        "async-await"
+      ],
+      "Url": "https://stackoverflow.com/questions/79890361/c-sharp-await-on-object-method-call-with-nullable-syntax-throws-exception",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

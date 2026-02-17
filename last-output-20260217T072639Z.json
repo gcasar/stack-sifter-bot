@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-17T06:56:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-17T06:56:17Z",
+      "Title": "OIDC Authentication Fails on Public URL Behind Reverse Proxy IIS",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "blazor",
+        "openid-connect",
+        "wso2-identity-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79890642/oidc-authentication-fails-on-public-url-behind-reverse-proxy-iis",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-02-17T06:56:17Z",
+      "Title": "OIDC Authentication Fails on Public URL Behind Reverse Proxy IIS",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "blazor",
+        "openid-connect",
+        "wso2-identity-server"
+      ],
+      "Url": "https://stackoverflow.com/questions/79890642/oidc-authentication-fails-on-public-url-behind-reverse-proxy-iis",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

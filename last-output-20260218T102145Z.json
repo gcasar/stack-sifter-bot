@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-18T09:36:13Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-18T09:36:13Z",
+      "Title": "Undetected build error(s) in Blazor, possibly related to CSS Isolation",
+      "Tags": [
+        "c#",
+        "css",
+        "visual-studio",
+        "razor",
+        "asp.net-core-css-isolation"
+      ],
+      "Url": "https://stackoverflow.com/questions/79891428/undetected-build-errors-in-blazor-possibly-related-to-css-isolation",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

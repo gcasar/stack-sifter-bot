@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-18T21:01:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-18T21:01:39Z",
+      "Title": "How to test if expression contains specific value with NSubstitute",
+      "Tags": [
+        "c#",
+        "unit-testing",
+        "nsubstitute"
+      ],
+      "Url": "https://stackoverflow.com/questions/79891837/how-to-test-if-expression-contains-specific-value-with-nsubstitute",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

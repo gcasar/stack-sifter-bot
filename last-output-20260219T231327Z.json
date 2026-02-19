@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-19T22:42:48Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-19T22:42:48Z",
+      "Title": "Async API validation in custom Optimizely Forms element (CMS 11) not preventing submit \u2013 is this the correct approach?",
+      "Tags": [
+        "c#",
+        "optimizely"
+      ],
+      "Url": "https://stackoverflow.com/questions/79892561/async-api-validation-in-custom-optimizely-forms-element-cms-11-not-preventing",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

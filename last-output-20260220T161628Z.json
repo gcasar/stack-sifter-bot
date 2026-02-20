@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-20T15:44:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-20T15:44:34Z",
+      "Title": "WolverineFx Conventional routing message transfer problem",
+      "Tags": [
+        "c#",
+        "routes",
+        "rabbitmq",
+        "wolverine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79893054/wolverinefx-conventional-routing-message-transfer-problem",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-02-20T15:44:34Z",
+      "Title": "WolverineFx Conventional routing message transfer problem",
+      "Tags": [
+        "c#",
+        "routes",
+        "rabbitmq",
+        "wolverine"
+      ],
+      "Url": "https://stackoverflow.com/questions/79893054/wolverinefx-conventional-routing-message-transfer-problem",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

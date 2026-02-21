@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-21T15:51:23Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-21T15:51:23Z",
+      "Title": "Setting \u0060SDL_calloc\u0060 to \u0060NativeMemory.Alloc(nuint, nuint)\u0060 leads to memory corruption",
+      "Tags": [
+        "c#",
+        "sdl",
+        "pinvoke",
+        "calloc"
+      ],
+      "Url": "https://stackoverflow.com/questions/79893604/setting-sdl-calloc-to-nativememory-allocnuint-nuint-leads-to-memory-corru",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

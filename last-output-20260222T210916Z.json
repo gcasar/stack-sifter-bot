@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-22T20:35:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-22T20:35:20Z",
+      "Title": "Best approach for server-side license key verification with HWID binding in C#",
+      "Tags": [
+        "c#",
+        "authentication",
+        "desktop-application",
+        "hardware",
+        "licensing"
+      ],
+      "Url": "https://stackoverflow.com/questions/79894176/best-approach-for-server-side-license-key-verification-with-hwid-binding-in-c-sh",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

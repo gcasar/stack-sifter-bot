@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-22T22:42:30Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-22T22:28:03Z",
+      "Title": "Performance comparison of where methods are called from",
+      "Tags": [
+        "c#",
+        "performance",
+        "static"
+      ],
+      "Url": "https://stackoverflow.com/questions/79894212/performance-comparison-of-where-methods-are-called-from",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

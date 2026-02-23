@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-23T07:38:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-23T07:38:55Z",
+      "Title": "Is it good practice to pass IRibbonUI into service classes to refresh Ribbon after async work in a VSTO Word add\u2011in?",
+      "Tags": [
+        "c#",
+        "vsto",
+        "office-addins"
+      ],
+      "Url": "https://stackoverflow.com/questions/79894411/is-it-good-practice-to-pass-iribbonui-into-service-classes-to-refresh-ribbon-aft",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

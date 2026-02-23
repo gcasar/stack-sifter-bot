@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-23T11:16:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-23T11:16:20Z",
+      "Title": "Memory leak: ObjectEqualityComparer\u003CCustomColumn\u003E retained after LINQ Operations",
+      "Tags": [
+        "c#",
+        "wpf",
+        "linq",
+        "memory-leaks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79894543/memory-leak-objectequalitycomparercustomcolumn-retained-after-linq-operations",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

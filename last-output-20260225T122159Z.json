@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-25T11:35:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-25T11:35:53Z",
+      "Title": "Syncfusion SfCartesianChart (MAUI Toolkit): Axis labels jitter 1\u20132 px during frequent updates despite fixed Min/Max/Interval",
+      "Tags": [
+        "c#",
+        "maui",
+        "syncfusion-chart"
+      ],
+      "Url": "https://stackoverflow.com/questions/79896145/syncfusion-sfcartesianchart-maui-toolkit-axis-labels-jitter-1-2-px-during-fre",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

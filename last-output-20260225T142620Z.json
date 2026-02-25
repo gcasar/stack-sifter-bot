@@ -1,0 +1,38 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-25T13:42:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-25T13:42:22Z",
+      "Title": "Cancel multiple tasks after a period of time",
+      "Tags": [
+        "c#",
+        "async-await",
+        "task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79896250/cancel-multiple-tasks-after-a-period-of-time",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-02-25T13:35:39Z",
+      "Title": "How to tell difference between blob and folder",
+      "Tags": [
+        "c#",
+        "azure-blob-storage"
+      ],
+      "Url": "https://stackoverflow.com/questions/79896246/how-to-tell-difference-between-blob-and-folder",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2026-02-25T13:42:22Z",
+      "Title": "Cancel multiple tasks after a period of time",
+      "Tags": [
+        "c#",
+        "async-await",
+        "task"
+      ],
+      "Url": "https://stackoverflow.com/questions/79896250/cancel-multiple-tasks-after-a-period-of-time",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

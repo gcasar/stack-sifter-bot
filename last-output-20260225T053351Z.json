@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-25T05:26:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-25T04:57:23Z",
+      "Title": "Best Practice passing object to component blazor",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "razor",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79895898/best-practice-passing-object-to-component-blazor",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-02-25T04:57:23Z",
+      "Title": "Best Practice passing object to component blazor",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "razor",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79895898/best-practice-passing-object-to-component-blazor",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

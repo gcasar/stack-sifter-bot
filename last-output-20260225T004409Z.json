@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-25T00:14:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-25T00:14:32Z",
+      "Title": "Transferring the files to AWS sub folder using TransferUtility",
+      "Tags": [
+        "c#",
+        "amazon-web-services",
+        "amazon-s3"
+      ],
+      "Url": "https://stackoverflow.com/questions/79895814/transferring-the-files-to-aws-sub-folder-using-transferutility",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

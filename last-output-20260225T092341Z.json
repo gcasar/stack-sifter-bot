@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 4,
+  "LastCreated": "2026-02-25T09:09:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-25T09:09:50Z",
+      "Title": "If you\u0027re going to force the Stack Editor on your users, can it finally have parity with the old editor?",
+      "Tags": [
+        "bug",
+        "feature-request",
+        "stacks-editor",
+        "redesign-2026"
+      ],
+      "Url": "https://meta.stackoverflow.com/questions/438283/if-youre-going-to-force-the-stack-editor-on-your-users-can-it-finally-have-par",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

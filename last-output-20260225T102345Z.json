@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-25T10:18:53Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-25T10:00:34Z",
+      "Title": "Best practice for c4, adr",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79896067/best-practice-for-c4-adr",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

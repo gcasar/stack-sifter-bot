@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-02-26T10:58:27Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-26T10:58:27Z",
+      "Title": "Serialising and Deserialising a System.Data.DataSet to XML with SQL Server UniqueIdentifier using different .NET versions",
+      "Tags": [
+        "c#",
+        ".net",
+        "xml",
+        "serialization",
+        "dataset"
+      ],
+      "Url": "https://stackoverflow.com/questions/79896923/serialising-and-deserialising-a-system-data-dataset-to-xml-with-sql-server-uniqu",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    }
+  ]
+}

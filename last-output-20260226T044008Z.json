@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-26T04:32:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-26T04:32:32Z",
+      "Title": "Files Uploading",
+      "Tags": [
+        "c#",
+        ".net",
+        "servicestack"
+      ],
+      "Url": "https://stackoverflow.com/questions/79896684/files-uploading",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

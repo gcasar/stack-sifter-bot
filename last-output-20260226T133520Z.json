@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-02-26T13:01:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-02-26T13:01:19Z",
+      "Title": "Does Aspire prevent Web from sending Http requests to api in the same orchestration environment at times? [closed]",
+      "Tags": [
+        "c#",
+        "dotnet-aspire"
+      ],
+      "Url": "https://stackoverflow.com/questions/79897048/does-aspire-prevent-web-from-sending-http-requests-to-api-in-the-same-orchestrat",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

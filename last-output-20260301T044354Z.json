@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-01T04:32:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-01T04:32:42Z",
+      "Title": "How to securely implement JWT authentication in a .NET health monitoring app using MySQL?",
+      "Tags": [
+        "c#",
+        "mysql",
+        ".net-core",
+        "entity-framework-core",
+        "jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79898722/how-to-securely-implement-jwt-authentication-in-a-net-health-monitoring-app-usi",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-03-01T04:32:42Z",
+      "Title": "How to securely implement JWT authentication in a .NET health monitoring app using MySQL?",
+      "Tags": [
+        "c#",
+        "mysql",
+        ".net-core",
+        "entity-framework-core",
+        "jwt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79898722/how-to-securely-implement-jwt-authentication-in-a-net-health-monitoring-app-usi",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

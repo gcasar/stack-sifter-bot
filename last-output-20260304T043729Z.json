@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-04T04:32:47Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-04T04:32:47Z",
+      "Title": "Where should SaveChanges() reside- in Unit of Work or in Generic repository?",
+      "Tags": [
+        "c#",
+        "asp.net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79900596/where-should-savechanges-reside-in-unit-of-work-or-in-generic-repository",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

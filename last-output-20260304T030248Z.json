@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-04T02:19:20Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-04T02:19:20Z",
+      "Title": "Which authentication approaches are suited with .NET MAUI Blazor Hybrid and Web App without SSR?",
+      "Tags": [
+        "c#",
+        "asp.net",
+        "authentication",
+        "blazor",
+        "maui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79900561/which-authentication-approaches-are-suited-with-net-maui-blazor-hybrid-and-web",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-04T19:52:22Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-04T19:52:22Z",
+      "Title": "Why is my \u0060Task.Delay\u0060 not waking on time if the system enters sleep or hibernation [duplicate]",
+      "Tags": [
+        "c#",
+        "windows"
+      ],
+      "Url": "https://stackoverflow.com/questions/79901146/why-is-my-task-delay-not-waking-on-time-if-the-system-enters-sleep-or-hibernat",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

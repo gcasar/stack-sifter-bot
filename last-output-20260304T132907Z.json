@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-03-04T12:56:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-04T12:38:42Z",
+      "Title": "Quest ARS 6.9, 7.2 read compatibility using C# .NET DirectoryEntry",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "quest"
+      ],
+      "Url": "https://stackoverflow.com/questions/79900836/quest-ars-6-9-7-2-read-compatibility-using-c-sharp-net-directoryentry",
+      "MatchReason": "Does this post mention API v2, REST API changes, or breaking changes in our API?"
+    }
+  ]
+}

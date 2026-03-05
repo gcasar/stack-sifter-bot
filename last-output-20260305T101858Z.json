@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-05T09:40:43Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-05T09:40:43Z",
+      "Title": "Code coverage reports uncovered branch on method returning IAsyncEnumerable\u003CT\u003E",
+      "Tags": [
+        "c#",
+        ".net",
+        "async-await",
+        "code-coverage",
+        "coverlet"
+      ],
+      "Url": "https://stackoverflow.com/questions/79901450/code-coverage-reports-uncovered-branch-on-method-returning-iasyncenumerablet",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

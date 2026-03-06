@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-06T19:15:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-06T19:15:34Z",
+      "Title": "Massive lag spikes while browsing",
+      "Tags": [
+        "bug",
+        "performance"
+      ],
+      "Url": "https://meta.stackoverflow.com/questions/438469/massive-lag-spikes-while-browsing",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

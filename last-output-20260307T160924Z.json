@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-07T15:16:06Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-07T15:16:06Z",
+      "Title": ".NET ReadFromJsonAsync\u003CList\u003CT\u003E\u003E() throws JsonException when API response contains wrapper object",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        "generics",
+        "system.text.json"
+      ],
+      "Url": "https://stackoverflow.com/questions/79902853/net-readfromjsonasynclistt-throws-jsonexception-when-api-response-contain",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

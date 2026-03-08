@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-08T01:18:17Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-08T01:18:17Z",
+      "Title": "EF Core 10 cold start after idle \u2014 is using a hosted service for keep-alive acceptable?",
+      "Tags": [
+        "c#",
+        "entity-framework",
+        "asp.net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79903051/ef-core-10-cold-start-after-idle-is-using-a-hosted-service-for-keep-alive-acce",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

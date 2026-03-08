@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-03-08T10:01:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-08T10:01:55Z",
+      "Title": "Is it possible to create service/GUI to be able to monitor like rate of communication and provide evaluation between servers and hardware?",
+      "Tags": [
+        "c#",
+        "network-programming",
+        "performance-testing",
+        "communication",
+        "network-monitoring"
+      ],
+      "Url": "https://stackoverflow.com/questions/79903187/is-it-possible-to-create-service-gui-to-be-able-to-monitor-like-rate-of-communic",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

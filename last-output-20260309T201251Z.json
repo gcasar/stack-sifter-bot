@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-09T19:54:32Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-09T19:54:32Z",
+      "Title": "Microsoft Graph Page Iterator async/ non-async lambda function",
+      "Tags": [
+        "c#",
+        ".net",
+        "microsoft-graph-api",
+        "microsoft-graph-sdks"
+      ],
+      "Url": "https://stackoverflow.com/questions/79904106/microsoft-graph-page-iterator-async-non-async-lambda-function",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

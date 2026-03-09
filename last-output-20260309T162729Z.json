@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-03-09T16:10:19Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-09T15:29:15Z",
+      "Title": "How to Access a Json File in WWWROOT folder of Blazor.net Application?",
+      "Tags": [
+        "c#",
+        "json",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79903959/how-to-access-a-json-file-in-wwwroot-folder-of-blazor-net-application",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

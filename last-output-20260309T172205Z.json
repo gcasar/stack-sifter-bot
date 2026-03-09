@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-09T16:49:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-09T16:49:49Z",
+      "Title": "MS Graph to add event into shared calendar using c#",
+      "Tags": [
+        "c#",
+        "microsoft-graph-api",
+        "calendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79904003/ms-graph-to-add-event-into-shared-calendar-using-c-sharp",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-03-09T16:49:49Z",
+      "Title": "MS Graph to add event into shared calendar using c#",
+      "Tags": [
+        "c#",
+        "microsoft-graph-api",
+        "calendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79904003/ms-graph-to-add-event-into-shared-calendar-using-c-sharp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

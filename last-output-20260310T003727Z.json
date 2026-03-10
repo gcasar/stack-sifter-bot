@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-09T23:10:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-09T23:10:56Z",
+      "Title": "Keyboard input does not reach WebView2 when embedding a C# WinForms window inside Delphi 7 using SetParent",
+      "Tags": [
+        "c#",
+        ".net",
+        "winforms",
+        "webview",
+        "delphi-7"
+      ],
+      "Url": "https://stackoverflow.com/questions/79904202/keyboard-input-does-not-reach-webview2-when-embedding-a-c-sharp-winforms-window",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-10T05:55:49Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-10T05:55:49Z",
+      "Title": "Storing JWT token in protected local storage returns null due to prerender issue and giving 401 error when calling API endpoint",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79904321/storing-jwt-token-in-protected-local-storage-returns-null-due-to-prerender-issue",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-03-10T05:55:49Z",
+      "Title": "Storing JWT token in protected local storage returns null due to prerender issue and giving 401 error when calling API endpoint",
+      "Tags": [
+        "c#",
+        ".net",
+        "asp.net-core",
+        "blazor-server-side"
+      ],
+      "Url": "https://stackoverflow.com/questions/79904321/storing-jwt-token-in-protected-local-storage-returns-null-due-to-prerender-issue",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

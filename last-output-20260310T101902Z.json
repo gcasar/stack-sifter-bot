@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-10T09:49:18Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-10T09:49:18Z",
+      "Title": "MS Graph add calendar event using c#",
+      "Tags": [
+        "c#",
+        "microsoft-graph-api",
+        "calendar"
+      ],
+      "Url": "https://stackoverflow.com/questions/79904450/ms-graph-add-calendar-event-using-c-sharp",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

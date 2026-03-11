@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-03-11T08:50:39Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-11T08:40:46Z",
+      "Title": "Azure Functions with Event Hubs Trigger - \u0022Desired target worker count\u0022 seemingly endless loop",
+      "Tags": [
+        "c#",
+        ".net",
+        "azure",
+        "azure-functions",
+        "azure-eventhub"
+      ],
+      "Url": "https://stackoverflow.com/questions/79905176/azure-functions-with-event-hubs-trigger-desired-target-worker-count-seemingl",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

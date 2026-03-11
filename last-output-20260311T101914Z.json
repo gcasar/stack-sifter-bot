@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-11T09:32:14Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-11T09:32:14Z",
+      "Title": "FOP.NetCore exception on SVG",
+      "Tags": [
+        "c#",
+        ".net",
+        "pdf",
+        "apache-fop"
+      ],
+      "Url": "https://stackoverflow.com/questions/79905228/fop-netcore-exception-on-svg",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-11T10:36:55Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-11T10:36:55Z",
+      "Title": "Future at 0x7fdcc9442b40 state=finished raised ClientError",
+      "Tags": [
+        "c#",
+        "openai-api",
+        "gemini"
+      ],
+      "Url": "https://stackoverflow.com/questions/79905284/future-at-0x7fdcc9442b40-state-finished-raised-clienterror",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

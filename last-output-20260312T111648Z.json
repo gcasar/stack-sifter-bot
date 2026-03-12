@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-03-12T10:39:45Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-12T10:39:45Z",
+      "Title": "Understanding C# Concurrency: ConcurrentDictionary vs Channels and Task vs ValueTask",
+      "Tags": [
+        "c#"
+      ],
+      "Url": "https://stackoverflow.com/questions/79906091/understanding-c-sharp-concurrency-concurrentdictionary-vs-channels-and-task-vs",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

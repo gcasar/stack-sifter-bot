@@ -1,0 +1,30 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-12T15:37:02Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-12T15:37:02Z",
+      "Title": "What is an efficient way to aggregate paginated REST API responses in .NET without loading all pages sequentially?",
+      "Tags": [
+        "c#",
+        ".net",
+        "rest",
+        "pagination"
+      ],
+      "Url": "https://stackoverflow.com/questions/79906328/what-is-an-efficient-way-to-aggregate-paginated-rest-api-responses-in-net-witho",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-03-12T15:37:02Z",
+      "Title": "What is an efficient way to aggregate paginated REST API responses in .NET without loading all pages sequentially?",
+      "Tags": [
+        "c#",
+        ".net",
+        "rest",
+        "pagination"
+      ],
+      "Url": "https://stackoverflow.com/questions/79906328/what-is-an-efficient-way-to-aggregate-paginated-rest-api-responses-in-net-witho",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-12T20:01:52Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-12T20:01:52Z",
+      "Title": "scan hard drive for pdf, excel and word files except hidden files/folders and copy them to one drive sync folder",
+      "Tags": [
+        "c#",
+        ".net",
+        "windows",
+        "forms"
+      ],
+      "Url": "https://stackoverflow.com/questions/79906521/scan-hard-drive-for-pdf-excel-and-word-files-except-hidden-files-folders-and-co",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

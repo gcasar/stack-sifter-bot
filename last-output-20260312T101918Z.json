@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-03-12T09:59:56Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-12T09:46:09Z",
+      "Title": "How to stretch the datagrid columns to fill whole datagrid and not have an empty column?",
+      "Tags": [
+        "c#",
+        "wpf",
+        "xaml",
+        "code-behind"
+      ],
+      "Url": "https://stackoverflow.com/questions/79906040/how-to-stretch-the-datagrid-columns-to-fill-whole-datagrid-and-not-have-an-empty",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

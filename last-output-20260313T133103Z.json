@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-13T13:27:34Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-13T13:27:34Z",
+      "Title": "C# Dependency Injection Error: \u0022Some services are not able to be constructed",
+      "Tags": [
+        "c#",
+        "dependency-injection"
+      ],
+      "Url": "https://stackoverflow.com/questions/79906934/c-sharp-dependency-injection-error-some-services-are-not-able-to-be-constructe",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

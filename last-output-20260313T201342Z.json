@@ -1,0 +1,19 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-13T19:42:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-13T19:42:37Z",
+      "Title": "WTelegramClient: Intermittent Auth_SentCode success \u2014 code arrives \u0022via App\u0022 but is missing after periods of inactivity",
+      "Tags": [
+        "c#",
+        ".net",
+        "telegram",
+        "telegram-api",
+        "wtelegramclient"
+      ],
+      "Url": "https://stackoverflow.com/questions/79907164/wtelegramclient-intermittent-auth-sentcode-success-code-arrives-via-app-but",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

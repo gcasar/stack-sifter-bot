@@ -1,0 +1,28 @@
+{
+  "TotalProcessed": 2,
+  "LastCreated": "2026-03-13T15:49:24Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-13T15:34:40Z",
+      "Title": "How to correctly map POCO objects to InsertBinaryAsync ClickHouse",
+      "Tags": [
+        "c#",
+        ".net",
+        "clickhouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79907026/how-to-correctly-map-poco-objects-to-insertbinaryasync-clickhouse",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-03-13T15:34:40Z",
+      "Title": "How to correctly map POCO objects to InsertBinaryAsync ClickHouse",
+      "Tags": [
+        "c#",
+        ".net",
+        "clickhouse"
+      ],
+      "Url": "https://stackoverflow.com/questions/79907026/how-to-correctly-map-poco-objects-to-insertbinaryasync-clickhouse",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

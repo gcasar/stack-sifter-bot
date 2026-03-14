@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-14T21:08:51Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-14T21:08:51Z",
+      "Title": "ASP.NET Core Web API keeps exiting with exit code 0 (0x0) when debugging",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "asp.net-core-webapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79907632/asp-net-core-web-api-keeps-exiting-with-exit-code-0-0x0-when-debugging",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

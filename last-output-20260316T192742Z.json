@@ -1,0 +1,17 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-16T18:46:28Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-16T18:46:28Z",
+      "Title": "Internal and external profiling in live/functional tests",
+      "Tags": [
+        "c#",
+        ".net",
+        ".net-core"
+      ],
+      "Url": "https://stackoverflow.com/questions/79908736/internal-and-external-profiling-in-live-functional-tests",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

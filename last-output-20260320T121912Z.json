@@ -1,0 +1,15 @@
+{
+  "TotalProcessed": 3,
+  "LastCreated": "2026-03-20T11:58:37Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-20T11:47:27Z",
+      "Title": "Why is the beta so slow?",
+      "Tags": [
+        "bug"
+      ],
+      "Url": "https://meta.stackoverflow.com/questions/438558/why-is-the-beta-so-slow",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

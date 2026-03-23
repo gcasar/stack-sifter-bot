@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-23T05:35:46Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-23T05:35:46Z",
+      "Title": "How to handle large data in Azure Functions?",
+      "Tags": [
+        "c#",
+        ".net-core",
+        "azure-functions",
+        "timer-trigger"
+      ],
+      "Url": "https://stackoverflow.com/questions/79912580/how-to-handle-large-data-in-azure-functions",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

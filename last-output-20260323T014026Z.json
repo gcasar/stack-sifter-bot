@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-23T01:07:33Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-23T01:07:33Z",
+      "Title": "Would this be enough for SQL DATABASE",
+      "Tags": [
+        "c#",
+        "asp.net-mvc",
+        "authentication",
+        "azure-mysql-database"
+      ],
+      "Url": "https://stackoverflow.com/questions/79912506/would-this-be-enough-for-sql-database",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    }
+  ]
+}

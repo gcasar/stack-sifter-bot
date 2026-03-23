@@ -1,0 +1,32 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-23T08:29:50Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-23T08:29:50Z",
+      "Title": "How to achieve PCM playback on .NET Android using AudioTrack",
+      "Tags": [
+        "c#",
+        "android",
+        ".net",
+        "maui",
+        "avaloniaui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79912645/how-to-achieve-pcm-playback-on-net-android-using-audiotrack",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-03-23T08:29:50Z",
+      "Title": "How to achieve PCM playback on .NET Android using AudioTrack",
+      "Tags": [
+        "c#",
+        "android",
+        ".net",
+        "maui",
+        "avaloniaui"
+      ],
+      "Url": "https://stackoverflow.com/questions/79912645/how-to-achieve-pcm-playback-on-net-android-using-audiotrack",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

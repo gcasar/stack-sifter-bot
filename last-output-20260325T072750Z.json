@@ -1,0 +1,26 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-25T06:41:35Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-25T06:41:35Z",
+      "Title": "High CPU usage in MongoDB C# Driver due to JIT compilation of BsonMemberMap.GetPropertySetter during projection",
+      "Tags": [
+        "c#",
+        "mongodb-.net-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79914038/high-cpu-usage-in-mongodb-c-sharp-driver-due-to-jit-compilation-of-bsonmembermap",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-03-25T06:41:35Z",
+      "Title": "High CPU usage in MongoDB C# Driver due to JIT compilation of BsonMemberMap.GetPropertySetter during projection",
+      "Tags": [
+        "c#",
+        "mongodb-.net-driver"
+      ],
+      "Url": "https://stackoverflow.com/questions/79914038/high-cpu-usage-in-mongodb-c-sharp-driver-due-to-jit-compilation-of-bsonmembermap",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

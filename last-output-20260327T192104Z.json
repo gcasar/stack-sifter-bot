@@ -1,0 +1,49 @@
+{
+  "TotalProcessed": 7,
+  "LastCreated": "2026-03-27T17:31:15Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-27T16:07:42Z",
+      "Title": "why authorize attribute is pointing to account/login?",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79915857/why-authorize-attribute-is-pointing-to-account-login",
+      "MatchReason": "Is this related to our new authentication system or OAuth implementation?"
+    },
+    {
+      "Created": "2026-03-27T17:31:15Z",
+      "Title": "Creating EzApi for SQL Server 2022",
+      "Tags": [
+        "c#",
+        "package",
+        "sql-server-2022",
+        "ezapi"
+      ],
+      "Url": "https://stackoverflow.com/questions/79915898/creating-ezapi-for-sql-server-2022",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    },
+    {
+      "Created": "2026-03-27T12:58:30Z",
+      "Title": "Where does BluetoothLEDevice.FromBluetoothAddressAsync() get the device info from?",
+      "Tags": [
+        "c#",
+        "windows-11",
+        "bluetooth-gatt"
+      ],
+      "Url": "https://stackoverflow.com/questions/79915731/where-does-bluetoothledevice-frombluetoothaddressasync-get-the-device-info-fro",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    },
+    {
+      "Created": "2026-03-27T16:07:42Z",
+      "Title": "why authorize attribute is pointing to account/login?",
+      "Tags": [
+        "c#",
+        ".net"
+      ],
+      "Url": "https://stackoverflow.com/questions/79915857/why-authorize-attribute-is-pointing-to-account-login",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

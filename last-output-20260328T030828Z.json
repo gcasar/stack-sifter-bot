@@ -1,0 +1,16 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-28T02:03:00Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-28T02:03:00Z",
+      "Title": "\u0022\u0060ElementReference\u0060 is not assignable to parameter type \u0027object?[]?\u0022 error on \u0060InvokeAsync\u0060 method",
+      "Tags": [
+        "c#",
+        "blazor"
+      ],
+      "Url": "https://stackoverflow.com/questions/79916071/elementreference-is-not-assignable-to-parameter-type-object-error-on-i",
+      "MatchReason": "Does this mention C# async/await patterns or Task-related issues?"
+    }
+  ]
+}

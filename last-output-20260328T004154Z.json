@@ -1,0 +1,18 @@
+{
+  "TotalProcessed": 1,
+  "LastCreated": "2026-03-27T23:59:42Z",
+  "MatchingPosts": [
+    {
+      "Created": "2026-03-27T23:59:42Z",
+      "Title": "ASP.NET HealthCheck wants a DB migration, but I can\u0027t figure out what migration it wants",
+      "Tags": [
+        "c#",
+        "asp.net-core",
+        "entity-framework-core",
+        "health-check"
+      ],
+      "Url": "https://stackoverflow.com/questions/79916052/asp-net-healthcheck-wants-a-db-migration-but-i-cant-figure-out-what-migration",
+      "MatchReason": "Is this about performance issues, slow queries, or scalability concerns?"
+    }
+  ]
+}

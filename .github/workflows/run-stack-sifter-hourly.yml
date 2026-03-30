@@ -1,9 +1,11 @@
-# This workflow runs the StackSifter console app every hour
-name: Run StackSifter Hourly
+# This workflow previously ran the StackSifter console app every hour.
+# The experiment has ended and the OPENAI_API_KEY will not be rotated,
+# so the scheduled run has been disabled.
+name: Run StackSifter (Manual)
 
 on:
-  schedule:
-    - cron: '0 * * * *' # every hour
+  # schedule:
+  #   - cron: '0 * * * *' # every hour — disabled, experiment has ended
   workflow_dispatch:
 
 permissions:

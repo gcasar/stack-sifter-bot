@@ -3,12 +3,21 @@ using StackSifter.Feed;
 
 namespace StackSifter;
 
+/// <summary>
+/// Service that processes Stack Overflow posts from multiple RSS feeds and evaluates them against configured rules.
+/// </summary>
 public class ConfigurableStackSifterService
 {
     private readonly StackSifterConfig _config;
     private readonly string _openAiApiKey;
     private readonly IHttpClientFactory _httpClientFactory;
 
+    /// <summary>
+    /// Initializes a new instance of the ConfigurableStackSifterService class.
+    /// </summary>
+    /// <param name="config">The configuration containing feeds and rules.</param>
+    /// <param name="openAiApiKey">The OpenAI API key for LLM evaluation.</param>
+    /// <param name="httpClientFactory">Factory for creating HTTP clients.</param>
     public ConfigurableStackSifterService(StackSifterConfig config, string openAiApiKey, IHttpClientFactory httpClientFactory)
     {
         _config = config;
@@ -16,6 +25,11 @@ public class ConfigurableStackSifterService
         _httpClientFactory = httpClientFactory;
     }
 
+    /// <summary>
+    /// Processes all configured feeds and evaluates posts against configured rules.
+    /// </summary>
+    /// <param name="since">Only process posts published after this timestamp.</param>
+    /// <returns>A processing result containing matched posts and statistics.</returns>
     public async Task<ProcessingResult> ProcessAsync(DateTime since)
     {
         // Create one sifter per rule (reused for all posts)
@@ -69,12 +83,23 @@ public class ConfigurableStackSifterService
     }
 }
 
+/// <summary>
+/// Represents the result of processing feeds.
+/// </summary>
+/// <param name="TotalProcessed">The total number of posts processed.</param>
+/// <param name="LastCreated">The timestamp of the most recently created post, or null if no posts were found.</param>
+/// <param name="Matches">List of posts that matched configured rules.</param>
 public record ProcessingResult(
     int TotalProcessed,
     DateTime? LastCreated,
     List<MatchedPost> Matches
 );
 
+/// <summary>
+/// Represents a post that matched a sifting rule.
+/// </summary>
+/// <param name="Post">The matched post.</param>
+/// <param name="MatchReason">The reason why the post matched (typically the rule's prompt).</param>
 public record MatchedPost(
     Post Post,
     string MatchReason
